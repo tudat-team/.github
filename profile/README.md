@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 We are a group of students, academics, educators, and enthusiasts providing access to, while maintaining, a powerful toolkit: the TU Delft Astrodynamics Toolkit (Tudat), with a mission of fuelling careers and passions in astrodynamics and space.
 
