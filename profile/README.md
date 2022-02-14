@@ -16,6 +16,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Testing Rocks on Earth to Help NASA's Perseverance Work on Mars](https://mars.nasa.gov/news/9129/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T184900">2022-02-14 18:49:00 UTC</a></sub>
 * [Satellogic names former chair of the Pentagon’s joint chiefs Joe Dunford to board of directors](https://spacenews.com/satellogic-names-former-chair-of-the-pentagons-joint-chiefs-joe-dunford-to-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T160936">2022-02-14 16:09:36 UTC</a></sub>
 * [Billionaire plans three more flights with SpaceX, culminating in Starship mission](https://spaceflightnow.com/2022/02/14/billionaire-plans-three-more-flights-with-spacex-culminating-in-starship-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T142933">2022-02-14 14:29:33 UTC</a></sub>
 * [India puts three satellites into orbit in the first launch of 2022](https://spacenews.com/india-puts-three-satellites-into-orbit-in-the-first-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T135936">2022-02-14 13:59:36 UTC</a></sub>
@@ -25,7 +26,6 @@ This feed is updated every 30 minutes with news provided by
 * [ISRO launches EOS-04 mission via PSLV-XL](https://www.nasaspaceflight.com/2022/02/isro-eos-04-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T173933">2022-02-13 17:39:33 UTC</a></sub>
 * [Astronomers now say the rocket about to strike the Moon is not a Falcon 9](https://arstechnica.com/science/2022/02/actually-a-falcon-9-rocket-is-not-going-to-hit-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T021048">2022-02-13 02:10:48 UTC</a></sub>
 * [Lockheed Martin terminates agreement to acquire Aerojet Rocketdyne](https://spacenews.com/lockheed-martin-terminates-agreement-to-acquire-aerojet-rocketdyne/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T002937">2022-02-13 00:29:37 UTC</a></sub>
-* [U.S. intelligence wants to track currently undetectable orbital space debris](https://spacenews.com/u-s-intelligence-wants-to-track-currently-undetectable-orbital-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T200936">2022-02-12 20:09:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -58,7 +58,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T170206">2022-02-14 17:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T191602">2022-02-14 19:16:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
