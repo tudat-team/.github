@@ -16,6 +16,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CHEOPS Announcement of Opportunity (AO-3)](https://sci.esa.int/web/cheops/-/cheops-announcement-of-opportunity-ao-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T105946">2022-02-15 10:59:46 UTC</a></sub>
 * [Russian cargo ship launches in pursuit of International Space Station](https://spaceflightnow.com/2022/02/15/soyuz-progress-ms-19-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T045932">2022-02-15 04:59:32 UTC</a></sub>
 * [Maybe—just maybe—sending billionaires into space isn’t such a bad thing](https://arstechnica.com/science/2022/02/maybe-just-maybe-sending-billionaires-into-space-isnt-such-a-bad-thing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T003809">2022-02-15 00:38:09 UTC</a></sub>
 * [Bipartisan legislation seeks to reform FCC satellite licensing rules](https://spacenews.com/bipartisan-legislation-seeks-to-reform-fcc-satellite-licensing-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T223936">2022-02-14 22:39:36 UTC</a></sub>
@@ -25,7 +26,6 @@ This feed is updated every 30 minutes with news provided by
 * [Roscosmos launches 80th Progress vessel to the ISS](https://www.nasaspaceflight.com/2022/02/roscosmos-progress-ms-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T210236">2022-02-14 21:02:36 UTC</a></sub>
 * [SpaceX and Isaacman to partner on series of crewed Dragon and Starship flights](https://spacenews.com/spacex-and-isaacman-to-partner-on-series-of-crewed-dragon-and-starship-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T203936">2022-02-14 20:39:36 UTC</a></sub>
 * [Testing Rocks on Earth to Help NASA's Perseverance Work on Mars](https://mars.nasa.gov/news/9129/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T184900">2022-02-14 18:49:00 UTC</a></sub>
-* [Satellogic names former chair of the Pentagon’s joint chiefs Joe Dunford to board of directors](https://spacenews.com/satellogic-names-former-chair-of-the-pentagons-joint-chiefs-joe-dunford-to-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T160936">2022-02-14 16:09:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -58,7 +58,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T104014">2022-02-15 10:40:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T111504">2022-02-15 11:15:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
