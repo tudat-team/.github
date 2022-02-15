@@ -36,6 +36,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How we use starlight to look for alien life](https://www.planetary.org/articles/how-spectroscopy-helps-search-for-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T150948">2022-02-15 15:09:48 UTC</a></sub>
 * [Day of Action Deep Prep: Artemis](https://www.planetary.org/advocacy/day-of-action-deep-prep-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T180955">2022-02-11 18:09:55 UTC</a></sub>
 * [Olympic-worthy world(s) records](https://www.planetary.org/the-downlink/olympic-worthy-worlds-records) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T153952">2022-02-11 15:39:52 UTC</a></sub>
 * [Student Rocket Launch: Calling All K-12 Rocket Scientists](https://blog.ulalaunch.com/blog/student-rocket-launch-calling-all-k-12-rocket-scientists) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220209T211008">2022-02-09 21:10:08 UTC</a></sub>
@@ -45,7 +46,6 @@ This feed is updated every 30 minutes with news provided by
 * [Cassini, the mission that revealed Saturn](https://www.planetary.org/space-missions/cassini) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220202T150953">2022-02-02 15:09:53 UTC</a></sub>
 * [Shoot for the moon that shoots back](https://www.planetary.org/the-downlink/shoot-for-the-moon-that-shoots-back) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220128T153955">2022-01-28 15:39:55 UTC</a></sub>
 * [Why we do the Day of Action](https://www.planetary.org/articles/why-we-do-the-day-of-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220126T213304">2022-01-26 21:33:04 UTC</a></sub>
-* [Meet the snow worlds](https://www.planetary.org/articles/snow-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220124T162305">2022-01-24 16:23:05 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -58,7 +58,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T153214">2022-02-15 15:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T160757">2022-02-15 16:07:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
