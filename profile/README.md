@@ -1,5 +1,5 @@
 ## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](../CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
 
 We are a group of students, academics, educators, and enthusiasts providing access to, while maintaining, a powerful toolkit: the TU Delft Astrodynamics Toolkit (Tudat), with a mission of fuelling careers and passions in astrodynamics and space.
 - [Tudat Space](https://tudat-space.readthedocs.io/en/latest/) is the central hub of our documentation.
