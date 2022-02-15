@@ -16,6 +16,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX finishes stacking new Starship for the first time in six months](https://www.teslarati.com/spacex-stacks-first-new-starship-in-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T121018">2022-02-15 12:10:18 UTC</a></sub>
 * [CHEOPS Announcement of Opportunity (AO-3)](https://sci.esa.int/web/cheops/-/cheops-announcement-of-opportunity-ao-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T105946">2022-02-15 10:59:46 UTC</a></sub>
 * [Russian cargo ship launches in pursuit of International Space Station](https://spaceflightnow.com/2022/02/15/soyuz-progress-ms-19-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T045932">2022-02-15 04:59:32 UTC</a></sub>
 * [Maybe—just maybe—sending billionaires into space isn’t such a bad thing](https://arstechnica.com/science/2022/02/maybe-just-maybe-sending-billionaires-into-space-isnt-such-a-bad-thing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T003809">2022-02-15 00:38:09 UTC</a></sub>
@@ -25,7 +26,6 @@ This feed is updated every 30 minutes with news provided by
 * [SES forges Indian satellite capacity joint venture](https://spacenews.com/ses-forges-indian-satellite-capacity-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T210937">2022-02-14 21:09:37 UTC</a></sub>
 * [Roscosmos launches 80th Progress vessel to the ISS](https://www.nasaspaceflight.com/2022/02/roscosmos-progress-ms-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T210236">2022-02-14 21:02:36 UTC</a></sub>
 * [SpaceX and Isaacman to partner on series of crewed Dragon and Starship flights](https://spacenews.com/spacex-and-isaacman-to-partner-on-series-of-crewed-dragon-and-starship-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T203936">2022-02-14 20:39:36 UTC</a></sub>
-* [Testing Rocks on Earth to Help NASA's Perseverance Work on Mars](https://mars.nasa.gov/news/9129/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T184900">2022-02-14 18:49:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -58,7 +58,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T113701">2022-02-15 11:37:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T123010">2022-02-15 12:30:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
