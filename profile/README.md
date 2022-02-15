@@ -1,6 +1,5 @@
 ## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](../CODE_OF_CONDUCT.md) 
-
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](../CODE_OF_CONDUCT.md)
 We are a group of students, academics, educators, and enthusiasts providing access to, while maintaining, a powerful toolkit: the TU Delft Astrodynamics Toolkit (Tudat), with a mission of fuelling careers and passions in astrodynamics and space.
 - [Tudat Space](https://tudat-space.readthedocs.io/en/latest/) is the central hub of our documentation.
 - 🍿 Fun fact, we believe that if there's a Hell, CMake belongs there.
@@ -59,7 +58,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T160757">2022-02-15 16:07:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T164648">2022-02-15 16:46:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
