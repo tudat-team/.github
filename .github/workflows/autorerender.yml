@@ -49,4 +49,3 @@ jobs:
         with:
           workflow_github_token: ${{ secrets.WORKFLOW_TOKEN }}
           feedstock_repository: tudat-team/tudatpy-feedstock
-=
