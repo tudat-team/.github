@@ -17,6 +17,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pentagon to rein in defense and aerospace industry mergers](https://spacenews.com/pentagon-to-rein-in-defense-and-aerospace-industry-mergers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T164937">2022-02-15 16:49:37 UTC</a></sub>
 * [A Chinese spacecraft is testing out a new orbit around the moon](https://spacenews.com/a-chinese-spacecraft-is-testing-out-a-new-orbit-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T131936">2022-02-15 13:19:36 UTC</a></sub>
 * [China proposes formal lines of communication with U.S. on space safety](https://spacenews.com/china-proposes-formal-lines-of-communication-with-u-s-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T123936">2022-02-15 12:39:36 UTC</a></sub>
 * [SpaceX finishes stacking new Starship for the first time in six months](https://www.teslarati.com/spacex-stacks-first-new-starship-in-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T121018">2022-02-15 12:10:18 UTC</a></sub>
@@ -26,7 +27,6 @@ This feed is updated every 30 minutes with news provided by
 * [Bipartisan legislation seeks to reform FCC satellite licensing rules](https://spacenews.com/bipartisan-legislation-seeks-to-reform-fcc-satellite-licensing-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T223936">2022-02-14 22:39:36 UTC</a></sub>
 * [SpaceX, Polaris reveal plans to launch private astronauts higher than ever before](https://www.teslarati.com/spacex-polaris-record-breaking-private-astronaut-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T222955">2022-02-14 22:29:55 UTC</a></sub>
 * [One Year on Mars: Celebrate with the Perseverance Team](https://mars.nasa.gov/news/9130/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T222900">2022-02-14 22:29:00 UTC</a></sub>
-* [SES forges Indian satellite capacity joint venture](https://spacenews.com/ses-forges-indian-satellite-capacity-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T210937">2022-02-14 21:09:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -59,7 +59,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T170618">2022-02-15 17:06:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T173301">2022-02-15 17:33:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
