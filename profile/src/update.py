@@ -4,7 +4,6 @@ import requests
 import json
 import os
 import html
-import cv2
 from sfn import get_news_articles, get_blogs, get_reports
 from ll2 import get_launches
 from gh import GitHub
