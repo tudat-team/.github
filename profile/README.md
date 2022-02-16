@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Students With Perseverance Receive Messages From Mars, Courtesy of NASA](https://mars.nasa.gov/news/9133/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T195900">2022-02-16 19:59:00 UTC</a></sub>
 * [Artemis 1 rollout timing remains uncertain as NASA leadership deliberates the schedule](https://www.nasaspaceflight.com/2022/02/artemis-1-update-feb-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T182420">2022-02-16 18:24:20 UTC</a></sub>
 * [Colorado Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/colorado-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T161900">2022-02-16 16:19:00 UTC</a></sub>
 * [Astronauts in Europe ask for their own independent crew spacecraft](https://arstechnica.com/science/2022/02/european-astronauts-call-for-development-of-a-crewed-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T145310">2022-02-16 14:53:10 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [European Union advances broadband constellation despite negative assessments](https://spacenews.com/european-union-advances-broadband-constellation-despite-negative-assessments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T115936">2022-02-16 11:59:36 UTC</a></sub>
 * [SpaceX ‘destacks’ Starship and Super Heavy: what’s next?](https://www.teslarati.com/spacex-destacks-starship-super-heavy-next-steps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T221957">2022-02-15 22:19:57 UTC</a></sub>
 * [Polaris program to demo spacewalk and Starship in preparation for Moon and Mars](https://www.nasaspaceflight.com/2022/02/polaris-spacewalk-starship-moon-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T190921">2022-02-15 19:09:21 UTC</a></sub>
-* [GAO: DoD has to step up efforts in space, cyber and artificial intelligence to compete with China](https://spacenews.com/gao-dod-has-to-step-up-efforts-in-space-cyber-and-artificial-intelligence-to-compete-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T185937">2022-02-15 18:59:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T193305">2022-02-16 19:33:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T200721">2022-02-16 20:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
