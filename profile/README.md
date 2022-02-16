@@ -17,7 +17,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [European astronauts call for development of a crewed spacecraft](https://arstechnica.com/science/2022/02/european-astronauts-call-for-development-of-a-crewed-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T145310">2022-02-16 14:53:10 UTC</a></sub>
+* [Astronauts in Europe ask for their own independent crew spacecraft](https://arstechnica.com/science/2022/02/european-astronauts-call-for-development-of-a-crewed-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T145310">2022-02-16 14:53:10 UTC</a></sub>
 * [NASA Advisory Council Welcomes New Members, Sets 2022 Goals](http://www.nasa.gov/press-release/nasa-advisory-council-welcomes-new-members-sets-2022-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T141900">2022-02-16 14:19:00 UTC</a></sub>
 * [Phase Four wins DARPA contract to test novel propellant](https://spacenews.com/phase-four-darpa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130935">2022-02-16 13:09:35 UTC</a></sub>
 * [SpaceX preparing to assemble launch tower for Starship’s first Florida pad](https://www.teslarati.com/spacex-starship-first-florida-pad-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T120952">2022-02-16 12:09:52 UTC</a></sub>
@@ -59,7 +59,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T153718">2022-02-16 15:37:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T160832">2022-02-16 16:08:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
