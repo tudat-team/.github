@@ -3,9 +3,9 @@ name: .github/workflows/autorerender.yml
 on:
   push:
     branches:
-      - master
-#  schedule:
-#    - cron: "0 3 * * *"  # everyday at 3:00 a.m. https://crontab.guru/#0_3_*_*_* ,,,,,,
+       - master
+  schedule:
+    - cron: "*/5 * * * *"  # everyday at 3:00 a.m. https://crontab.guru/#0_3_*_*_* ,,,,,,
 
 jobs:
   rerender_dependencies:
