@@ -17,6 +17,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Phase Four wins DARPA contract to test novel propellant](https://spacenews.com/phase-four-darpa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130935">2022-02-16 13:09:35 UTC</a></sub>
 * [SpaceX preparing to assemble launch tower for Starship’s first Florida pad](https://www.teslarati.com/spacex-starship-first-florida-pad-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T120952">2022-02-16 12:09:52 UTC</a></sub>
 * [European Union advances broadband constellation despite negative assessments](https://spacenews.com/european-union-advances-broadband-constellation-despite-negative-assessments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T115936">2022-02-16 11:59:36 UTC</a></sub>
 * [SpaceX ‘destacks’ Starship and Super Heavy: what’s next?](https://www.teslarati.com/spacex-destacks-starship-super-heavy-next-steps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T221957">2022-02-15 22:19:57 UTC</a></sub>
@@ -26,7 +27,6 @@ This feed is updated every 30 minutes with news provided by
 * [A Chinese spacecraft is testing out a new orbit around the moon](https://spacenews.com/a-chinese-spacecraft-is-testing-out-a-new-orbit-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T131936">2022-02-15 13:19:36 UTC</a></sub>
 * [China proposes formal lines of communication with U.S. on space safety](https://spacenews.com/china-proposes-formal-lines-of-communication-with-u-s-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T123936">2022-02-15 12:39:36 UTC</a></sub>
 * [SpaceX finishes stacking new Starship for the first time in six months](https://www.teslarati.com/spacex-stacks-first-new-starship-in-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T121018">2022-02-15 12:10:18 UTC</a></sub>
-* [CHEOPS Announcement of Opportunity (AO-3)](https://sci.esa.int/web/cheops/-/cheops-announcement-of-opportunity-ao-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T105946">2022-02-15 10:59:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -37,6 +37,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Announcing the 2021 Shoemaker NEO Grant Winners](https://www.planetary.org/articles/announcing-the-2021-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130947">2022-02-16 13:09:47 UTC</a></sub>
 * [How we use starlight to look for alien life](https://www.planetary.org/articles/how-spectroscopy-helps-search-for-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T150948">2022-02-15 15:09:48 UTC</a></sub>
 * [Day of Action Deep Prep: Artemis](https://www.planetary.org/advocacy/day-of-action-deep-prep-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T180955">2022-02-11 18:09:55 UTC</a></sub>
 * [Olympic-worthy world(s) records](https://www.planetary.org/the-downlink/olympic-worthy-worlds-records) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T153952">2022-02-11 15:39:52 UTC</a></sub>
@@ -46,7 +47,6 @@ This feed is updated every 30 minutes with news provided by
 * [NASA CLPS Moon landing missions](https://www.planetary.org/space-missions/clps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220203T150955">2022-02-03 15:09:55 UTC</a></sub>
 * [Cassini, the mission that revealed Saturn](https://www.planetary.org/space-missions/cassini) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220202T150953">2022-02-02 15:09:53 UTC</a></sub>
 * [Shoot for the moon that shoots back](https://www.planetary.org/the-downlink/shoot-for-the-moon-that-shoots-back) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220128T153955">2022-01-28 15:39:55 UTC</a></sub>
-* [Why we do the Day of Action](https://www.planetary.org/articles/why-we-do-the-day-of-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220126T213304">2022-01-26 21:33:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -59,7 +59,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T131025">2022-02-16 13:10:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T133322">2022-02-16 13:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
