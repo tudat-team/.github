@@ -14,23 +14,23 @@ jobs:
       - id: sofa-cmake
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          workflow_github_token: ${{ secrets.WORKFLOW_TOKEN }}
-          feedstock_repository: tudat-team/sofa-cmake-feedstock
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/sofa-cmake-feedstock
       - id: cspice-cmake-feedstock
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          workflow_github_token: ${{ secrets.WORKFLOW_TOKEN }}
-          feedstock_repository: tudat-team/cspice-cmake-feedstock
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/cspice-cmake-feedstock
       - id: nrlmsise-00-feedstock
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          workflow_github_token: ${{ secrets.WORKFLOW_TOKEN }}
-          feedstock_repository: tudat-team/nrlmsise-00-feedstock
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/nrlmsise-00-feedstock
       - id: tudat-resources-feedstock
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          workflow_github_token: ${{ secrets.WORKFLOW_TOKEN }}
-          feedstock_repository: tudat-team/tudat-resources-feedstock
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/tudat-resources-feedstock
 
   rerender_core:
     runs-on: [ ubuntu-latest ]
@@ -38,8 +38,8 @@ jobs:
       - id: tudat
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          workflow_github_token: ${{ secrets.WORKFLOW_TOKEN }}
-          feedstock_repository: tudat-team/tudat-feedstock
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/tudat-feedstock
 
   rerender_outer:
     runs-on: [ ubuntu-latest ]
@@ -47,5 +47,5 @@ jobs:
       - id: tudatpy
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          workflow_github_token: ${{ secrets.WORKFLOW_TOKEN }}
-          feedstock_repository: tudat-team/tudatpy-feedstock
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/tudatpy-feedstock
