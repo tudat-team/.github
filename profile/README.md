@@ -17,6 +17,8 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [European astronauts call for development of a crewed spacecraft](https://arstechnica.com/science/2022/02/european-astronauts-call-for-development-of-a-crewed-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T145310">2022-02-16 14:53:10 UTC</a></sub>
+* [NASA Advisory Council Welcomes New Members, Sets 2022 Goals](http://www.nasa.gov/press-release/nasa-advisory-council-welcomes-new-members-sets-2022-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T141900">2022-02-16 14:19:00 UTC</a></sub>
 * [Phase Four wins DARPA contract to test novel propellant](https://spacenews.com/phase-four-darpa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130935">2022-02-16 13:09:35 UTC</a></sub>
 * [SpaceX preparing to assemble launch tower for Starship’s first Florida pad](https://www.teslarati.com/spacex-starship-first-florida-pad-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T120952">2022-02-16 12:09:52 UTC</a></sub>
 * [European Union advances broadband constellation despite negative assessments](https://spacenews.com/european-union-advances-broadband-constellation-despite-negative-assessments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T115936">2022-02-16 11:59:36 UTC</a></sub>
@@ -24,9 +26,7 @@ This feed is updated every 30 minutes with news provided by
 * [Polaris program to demo spacewalk and Starship in preparation for Moon and Mars](https://www.nasaspaceflight.com/2022/02/polaris-spacewalk-starship-moon-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T190921">2022-02-15 19:09:21 UTC</a></sub>
 * [GAO: DoD has to step up efforts in space, cyber and artificial intelligence to compete with China](https://spacenews.com/gao-dod-has-to-step-up-efforts-in-space-cyber-and-artificial-intelligence-to-compete-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T185937">2022-02-15 18:59:37 UTC</a></sub>
 * [Pentagon to rein in defense and aerospace industry mergers](https://spacenews.com/pentagon-to-rein-in-defense-and-aerospace-industry-mergers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T164937">2022-02-15 16:49:37 UTC</a></sub>
-* [A Chinese spacecraft is testing out a new orbit around the moon](https://spacenews.com/a-chinese-spacecraft-is-testing-out-a-new-orbit-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T131936">2022-02-15 13:19:36 UTC</a></sub>
-* [China proposes formal lines of communication with U.S. on space safety](https://spacenews.com/china-proposes-formal-lines-of-communication-with-u-s-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T123936">2022-02-15 12:39:36 UTC</a></sub>
-* [SpaceX finishes stacking new Starship for the first time in six months](https://www.teslarati.com/spacex-stacks-first-new-starship-in-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T121018">2022-02-15 12:10:18 UTC</a></sub>
+* [NASA Offers Up to $200 Million to Help Push New Technologies to Market](http://www.nasa.gov/press-release/nasa-offers-up-to-200-million-to-help-push-new-technologies-to-market) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T143900">2022-02-15 14:39:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -59,7 +59,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T143313">2022-02-16 14:33:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T150740">2022-02-16 15:07:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
