@@ -1,5 +1,5 @@
 ## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](CODE_OF_CONDUCT.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
 
 We are a group of students, academics, educators, and enthusiasts providing access to, while maintaining, a powerful toolkit: the TU Delft Astrodynamics Toolkit (Tudat), with a mission of fuelling careers and passions in astrodynamics and space.
 - [Tudat Space](https://tudat-space.readthedocs.io/en/latest/) is the central hub of our documentation.
@@ -17,16 +17,16 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX ‘destacks’ Starship and Super Heavy: what’s next?](https://www.teslarati.com/spacex-destacks-starship-super-heavy-next-steps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T221957">2022-02-15 22:19:57 UTC</a></sub>
+* [Polaris program to demo spacewalk and Starship in preparation for Moon and Mars](https://www.nasaspaceflight.com/2022/02/polaris-spacewalk-starship-moon-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T190921">2022-02-15 19:09:21 UTC</a></sub>
+* [GAO: DoD has to step up efforts in space, cyber and artificial intelligence to compete with China](https://spacenews.com/gao-dod-has-to-step-up-efforts-in-space-cyber-and-artificial-intelligence-to-compete-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T185937">2022-02-15 18:59:37 UTC</a></sub>
+* [Pentagon to rein in defense and aerospace industry mergers](https://spacenews.com/pentagon-to-rein-in-defense-and-aerospace-industry-mergers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T164937">2022-02-15 16:49:37 UTC</a></sub>
 * [A Chinese spacecraft is testing out a new orbit around the moon](https://spacenews.com/a-chinese-spacecraft-is-testing-out-a-new-orbit-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T131936">2022-02-15 13:19:36 UTC</a></sub>
 * [China proposes formal lines of communication with U.S. on space safety](https://spacenews.com/china-proposes-formal-lines-of-communication-with-u-s-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T123936">2022-02-15 12:39:36 UTC</a></sub>
 * [SpaceX finishes stacking new Starship for the first time in six months](https://www.teslarati.com/spacex-stacks-first-new-starship-in-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T121018">2022-02-15 12:10:18 UTC</a></sub>
 * [CHEOPS Announcement of Opportunity (AO-3)](https://sci.esa.int/web/cheops/-/cheops-announcement-of-opportunity-ao-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T105946">2022-02-15 10:59:46 UTC</a></sub>
 * [Russian cargo ship launches in pursuit of International Space Station](https://spaceflightnow.com/2022/02/15/soyuz-progress-ms-19-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T045932">2022-02-15 04:59:32 UTC</a></sub>
-* [Maybe—just maybe—sending billionaires into space isn’t such a bad thing](https://arstechnica.com/science/2022/02/maybe-just-maybe-sending-billionaires-into-space-isnt-such-a-bad-thing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T003809">2022-02-15 00:38:09 UTC</a></sub>
-* [Bipartisan legislation seeks to reform FCC satellite licensing rules](https://spacenews.com/bipartisan-legislation-seeks-to-reform-fcc-satellite-licensing-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T223936">2022-02-14 22:39:36 UTC</a></sub>
-* [SpaceX, Polaris reveal plans to launch private astronauts higher than ever before](https://www.teslarati.com/spacex-polaris-record-breaking-private-astronaut-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T222955">2022-02-14 22:29:55 UTC</a></sub>
-* [One Year on Mars: Celebrate with the Perseverance Team](https://mars.nasa.gov/news/9130/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T222900">2022-02-14 22:29:00 UTC</a></sub>
-* [SES forges Indian satellite capacity joint venture](https://spacenews.com/ses-forges-indian-satellite-capacity-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T210937">2022-02-14 21:09:37 UTC</a></sub>
+* [Space Force to examine U.S. military needs for low-orbiting surveillance satellites](https://spacenews.com/space-force-to-examine-u-s-military-needs-for-low-orbiting-surveillance-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T004936">2022-02-15 00:49:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -59,7 +59,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T160757">2022-02-15 16:07:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T083652">2022-02-16 08:36:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
