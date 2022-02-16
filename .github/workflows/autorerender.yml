@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - master
-  schedule:
-    - cron: "0 3 * * *"  # everyday at 3:00 a.m. https://crontab.guru/#0_3_*_*_* ,,,,,,
+#  schedule:
+#    - cron: "0 3 * * *"  # everyday at 3:00 a.m. https://crontab.guru/#0_3_*_*_* ,,,,,,
 
 jobs:
   rerender_dependencies:
