@@ -17,6 +17,8 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX preparing to assemble launch tower for Starship’s first Florida pad](https://www.teslarati.com/spacex-starship-first-florida-pad-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T120952">2022-02-16 12:09:52 UTC</a></sub>
+* [European Union advances broadband constellation despite negative assessments](https://spacenews.com/european-union-advances-broadband-constellation-despite-negative-assessments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T115936">2022-02-16 11:59:36 UTC</a></sub>
 * [SpaceX ‘destacks’ Starship and Super Heavy: what’s next?](https://www.teslarati.com/spacex-destacks-starship-super-heavy-next-steps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T221957">2022-02-15 22:19:57 UTC</a></sub>
 * [Polaris program to demo spacewalk and Starship in preparation for Moon and Mars](https://www.nasaspaceflight.com/2022/02/polaris-spacewalk-starship-moon-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T190921">2022-02-15 19:09:21 UTC</a></sub>
 * [GAO: DoD has to step up efforts in space, cyber and artificial intelligence to compete with China](https://spacenews.com/gao-dod-has-to-step-up-efforts-in-space-cyber-and-artificial-intelligence-to-compete-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T185937">2022-02-15 18:59:37 UTC</a></sub>
@@ -25,8 +27,6 @@ This feed is updated every 30 minutes with news provided by
 * [China proposes formal lines of communication with U.S. on space safety](https://spacenews.com/china-proposes-formal-lines-of-communication-with-u-s-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T123936">2022-02-15 12:39:36 UTC</a></sub>
 * [SpaceX finishes stacking new Starship for the first time in six months](https://www.teslarati.com/spacex-stacks-first-new-starship-in-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T121018">2022-02-15 12:10:18 UTC</a></sub>
 * [CHEOPS Announcement of Opportunity (AO-3)](https://sci.esa.int/web/cheops/-/cheops-announcement-of-opportunity-ao-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T105946">2022-02-15 10:59:46 UTC</a></sub>
-* [Russian cargo ship launches in pursuit of International Space Station](https://spaceflightnow.com/2022/02/15/soyuz-progress-ms-19-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T045932">2022-02-15 04:59:32 UTC</a></sub>
-* [Space Force to examine U.S. military needs for low-orbiting surveillance satellites](https://spacenews.com/space-force-to-examine-u-s-military-needs-for-low-orbiting-surveillance-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T004936">2022-02-15 00:49:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -59,7 +59,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T083652">2022-02-16 08:36:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T121115">2022-02-16 12:11:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
