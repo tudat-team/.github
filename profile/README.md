@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Colorado Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/colorado-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T161900">2022-02-16 16:19:00 UTC</a></sub>
 * [Astronauts in Europe ask for their own independent crew spacecraft](https://arstechnica.com/science/2022/02/european-astronauts-call-for-development-of-a-crewed-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T145310">2022-02-16 14:53:10 UTC</a></sub>
 * [NASA Advisory Council Welcomes New Members, Sets 2022 Goals](http://www.nasa.gov/press-release/nasa-advisory-council-welcomes-new-members-sets-2022-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T141900">2022-02-16 14:19:00 UTC</a></sub>
 * [Phase Four wins DARPA contract to test novel propellant](https://spacenews.com/phase-four-darpa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T130935">2022-02-16 13:09:35 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [Polaris program to demo spacewalk and Starship in preparation for Moon and Mars](https://www.nasaspaceflight.com/2022/02/polaris-spacewalk-starship-moon-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T190921">2022-02-15 19:09:21 UTC</a></sub>
 * [GAO: DoD has to step up efforts in space, cyber and artificial intelligence to compete with China](https://spacenews.com/gao-dod-has-to-step-up-efforts-in-space-cyber-and-artificial-intelligence-to-compete-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T185937">2022-02-15 18:59:37 UTC</a></sub>
 * [Pentagon to rein in defense and aerospace industry mergers](https://spacenews.com/pentagon-to-rein-in-defense-and-aerospace-industry-mergers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T164937">2022-02-15 16:49:37 UTC</a></sub>
-* [NASA Offers Up to $200 Million to Help Push New Technologies to Market](http://www.nasa.gov/press-release/nasa-offers-up-to-200-million-to-help-push-new-technologies-to-market) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T143900">2022-02-15 14:39:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T162848">2022-02-16 16:28:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T165002">2022-02-16 16:50:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
