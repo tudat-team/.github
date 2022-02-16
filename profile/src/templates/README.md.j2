@@ -5,6 +5,19 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 - [Tudat Space](https://tudat-space.readthedocs.io/en/latest/) is the central hub of our documentation.
 - 🍿 Fun fact, we believe that if there's a Hell, CMake belongs there.
 
+## Builds 🔨
+<!-- spaceflight news starts -->
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Status</th>
+  </tr>
+{% for key, value  in build_status.items() -%}
+{{ value }}
+{% endfor %}
+</table>
+<!-- spaceflight news ends -->
+
 ## Space feed 🍽️
 This feed is updated every 30 minutes with news provided by
 [The Space Devs](https://thespacedevs.com/)'

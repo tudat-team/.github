@@ -27,6 +27,26 @@ def dict_hash(dictionary: Dict[str, Any]) -> str:
     return dhash.hexdigest()
 
 
+def download_file(url, filename, cache_dir=None):
+    """
+    Download a file from a github url
+    """
+    if cache_dir is None:
+        cache_dir = os.path.join(os.path.expanduser("~"), ".cache")
+    if not os.path.exists(cache_dir):
+        os.makedirs(cache_dir)
+    if not os.path.exists(os.path.join(cache_dir, filename)):
+        try:
+            r = requests.get(url)
+            r.raise_for_status()
+            with open(os.path.join(cache_dir, filename), "wb") as f:
+                f.write(r.content)
+            return os.path.join(cache_dir, filename)
+        except requests.HTTPError as exception:
+            return exception
+
+
+
 def get_data_from_endpoint(api_endpoint, name, cache_dir=None, cache_time=3600, **kwargs):
     """
     get the upcoming launches from the space dev api

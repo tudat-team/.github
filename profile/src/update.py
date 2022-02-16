@@ -61,11 +61,57 @@ def make_html_linked_time(timestamp):
     return f'<a href="{url}">{s}</a>'
 
 
+from utils import download_file
+
+import re
+
+
+def get_build_status():
+    ret = {}
+    for feedstock in [
+        ("sofa-cmake-feedstock", "master"),
+        ("cspice-cmake-feedstock", "master"),
+        ("nrlmsise-00-feedstock", "main"),
+        ("tudat-resources-feedstock", "master"),
+        ("tudat-feedstock", "master"),
+        ("tudatpy-feedstock", "master")
+    ]:
+
+        # download readme
+        url = f"https://raw.githubusercontent.com/tudat-team/{feedstock[0]}/{feedstock[1]}/README.md"
+        download_file(url, f"{CACHE_DIR}/{feedstock[0]}.md", cache_dir=CACHE_DIR)
+
+        # compile regex with multiple lines
+        regex = r"(<table[^>]*>(?:.|\n)*<\/table>)"
+
+        # regex all group between <table> and </table>
+        with open(f"{CACHE_DIR}/{feedstock[0]}.md", "r") as f:
+
+            # get the table
+            s_file = f.read()
+            matches = list(re.finditer(regex, s_file, re.MULTILINE))
+            s_match = matches[0].group(1)
+
+            # remove first occurrence of <table>
+            s_match = s_match.replace("<table>", "", 1)
+
+            # remove final occurrence of </table>
+            s_match = "".join(s_match.rsplit("</table>", 1))
+
+            s_match = s_match.replace("Azure", f"<code>{feedstock[0]}</code>")
+            ret[feedstock[0]] = s_match
+
+    return ret
+
+
 # get readme data
 def get_readme_data():
     """
     get the readme data for the readme file generation
     """
+    # get build status
+    build_status = get_build_status()
+
     # for space feed
     news_articles = get_news_articles(cache_dir=CACHE_DIR,
                                       cache_time=3600 // 2)
@@ -78,6 +124,7 @@ def get_readme_data():
         "make_html_linked_time": make_html_linked_time,
         "news_articles": news_articles,
         "blogs": blogs,
+        "build_status": build_status,
         "iso_datetime_string_to_datetime": iso_datetime_string_to_datetime
     }
 
