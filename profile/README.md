@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Progress supply freighter docks with space station](https://spaceflightnow.com/2022/02/17/progress-supply-freighter-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T123932">2022-02-17 12:39:32 UTC</a></sub>
 * [SpaceX to close out February with two more Starlink launches](https://www.teslarati.com/spacex-february-2022-two-more-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120949">2022-02-17 12:09:49 UTC</a></sub>
 * [Astroscale preparing to restart debris-removal demo](https://spacenews.com/astroscale-preparing-to-restart-debris-removal-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T120936">2022-02-17 12:09:36 UTC</a></sub>
 * [Shanghai signs agreement with China’s megaconstellation group, aims to foster commercial space hub](https://spacenews.com/shanghai-signs-agreement-with-chinas-megaconstellation-group-aims-to-foster-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T113936">2022-02-17 11:39:36 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [ABB gets $30 million order for EarthDaily imaging payloads](https://spacenews.com/abb-gets-30-million-order-for-earthdaily-imaging-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T215935">2022-02-16 21:59:35 UTC</a></sub>
 * [Students With Perseverance Receive Messages From Mars, Courtesy of NASA](https://mars.nasa.gov/news/9133/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T195900">2022-02-16 19:59:00 UTC</a></sub>
 * [Artemis 1 rollout timing remains uncertain as NASA leadership deliberates the schedule](https://www.nasaspaceflight.com/2022/02/artemis-1-update-feb-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T182420">2022-02-16 18:24:20 UTC</a></sub>
-* [Colorado Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/colorado-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220216T161900">2022-02-16 16:19:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T121110">2022-02-17 12:11:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T125033">2022-02-17 12:50:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
