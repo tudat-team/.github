@@ -1,0 +1,15 @@
+on: repository_dispatch
+
+jobs:
+  webservices:
+    runs-on: ubuntu-latest
+    name: webservices
+    steps:
+      - name: webservices
+        id: webservices
+        run: |
+          echo "${{ github.event.event_type }}"
+          echo "${{ github.event.client_payload.event }}"
+          echo "${{ github.event.client_payload.actor }}"
+          echo "${{ github.event.client_payload.repository }}"
+          echo "${{ github.event.client_payload.ref }}"
