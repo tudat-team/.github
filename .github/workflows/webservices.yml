@@ -8,7 +8,6 @@ jobs:
       - name: webservices
         id: webservices
         run: |
-          echo "${{ github.event.event_type }}"
           echo "${{ github.event.client_payload.event }}"
           echo "${{ github.event.client_payload.actor }}"
           echo "${{ github.event.client_payload.repository }}"
