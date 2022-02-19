@@ -1,6 +1,7 @@
 name: .github/workflows/readme_update.yml
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
