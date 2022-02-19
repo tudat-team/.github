@@ -7,8 +7,6 @@ jobs:
     steps:
       - name: webservices
         id: webservices
-        run: |
-          echo "${{ github.event.client_payload.event }}"
-          echo "${{ github.event.client_payload.actor }}"
-          echo "${{ github.event.client_payload.repository }}"
-          echo "${{ github.event.client_payload.ref }}"
+        uses: tudat-team/webservices-dispatch-action@main
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
