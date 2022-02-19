@@ -1,6 +1,7 @@
 name: .github/workflows/readme_update.yml
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -27,8 +28,8 @@ jobs:
           python update.py
       - name: 🚀 Deploy
         run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git config user.name "Delfi-C3"
+          git config user.email "Delfi-C3@users.noreply.github.com"
           git add .
           git commit -am "feat(auto generate): Updated content"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          git push --all -f https://${{ secrets.GH_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
