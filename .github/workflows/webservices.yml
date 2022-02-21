@@ -5,12 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     name: webservices
     steps:
-      - name: 🐍 Set up Python 3.8
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'
-      - name: 💿 Install Jinja2 & requests
-        run: pip install Jinja2 requests PyGithub pygit2
       - name: webservices
         id: webservices
         uses: tudat-team/webservices-dispatch-action@main
