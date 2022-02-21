@@ -365,7 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Russia offers to provide “independent” flights for European astronauts](https://arstechnica.com/science/2022/02/russia-offers-to-provide-independent-flights-for-european-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T160849">2022-02-21 16:08:49 UTC</a></sub>
+* [Russia responds to European astronauts: We’ll give you independent spaceflight](https://arstechnica.com/science/2022/02/russia-offers-to-provide-independent-flights-for-european-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T160849">2022-02-21 16:08:49 UTC</a></sub>
 * [China claims rocket stage destined for lunar impact is not from its 2014 moon mission](https://spacenews.com/china-claims-rocket-stage-destined-for-lunar-impact-is-not-from-its-2014-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T130937">2022-02-21 13:09:37 UTC</a></sub>
 * [SpaceX’s Falcon Heavy likely to launch NASA telescope after ULA skips competition](https://www.teslarati.com/spacex-falcon-heavy-nasa-wfirst-ngrst-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T115950">2022-02-21 11:59:50 UTC</a></sub>
 * [State Fight: Shoring up Florida’s Space Coast](https://spacenews.com/state-fight-shoring-up-floridas-space-coast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T161010">2022-02-21 16:10:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T165012">2022-02-21 16:50:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
