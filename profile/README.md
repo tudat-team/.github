@@ -367,6 +367,7 @@ This feed is updated every 30 minutes with news provided by
 <!-- spaceflight news starts -->
 * [State Fight: Shoring up Florida’s Space Coast](https://spacenews.com/state-fight-shoring-up-floridas-space-coast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
 * [State Fight: Michigan economic plan emphasizes satellite communications](https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
+* [Next SpaceX launch to deploy fewer Starlink satellites into higher orbit](https://spaceflightnow.com/2022/02/20/next-spacex-launch-to-deploy-fewer-starlink-satellites-into-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T045932">2022-02-20 04:59:32 UTC</a></sub>
 * [European Union lays out plan to bolster space traffic management capabilities](https://spacenews.com/european-union-lays-out-plan-to-bolster-space-traffic-management-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T005936">2022-02-20 00:59:36 UTC</a></sub>
 * [Northrop Grumman Sends NASA Science, Cargo to International Space Station](http://www.nasa.gov/press-release/northrop-grumman-sends-nasa-science-cargo-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T215900">2022-02-19 21:59:00 UTC</a></sub>
 * [State Fight: SpaceX brings business to Brownsville, Texas](https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [Northrop Grumman launches newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
 * [Antares rocket launch kicks off space station resupply mission](https://spaceflightnow.com/2022/02/19/antares-rocket-launch-kicks-off-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T010932">2022-02-19 01:09:32 UTC</a></sub>
 * [Next GOES weather satellite installed atop Atlas 5 rocket](https://spaceflightnow.com/2022/02/19/next-goes-weather-satellite-installed-atop-atlas-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T001932">2022-02-19 00:19:32 UTC</a></sub>
-* [OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival](https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T215936">2022-02-18 21:59:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T050722">2022-02-21 05:07:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T053208">2022-02-21 05:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
