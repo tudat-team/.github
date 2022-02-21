@@ -6,6 +6,8 @@ jobs:
     name: webservices
     steps:
       - name: webservices
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         id: webservices
         uses: tudat-team/webservices-dispatch-action@main
         with:
