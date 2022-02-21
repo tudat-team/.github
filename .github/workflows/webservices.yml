@@ -8,6 +8,10 @@ jobs:
       - name: webservices
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
         id: webservices
         uses: tudat-team/webservices-dispatch-action@main
         with:
