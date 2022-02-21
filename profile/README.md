@@ -365,16 +365,16 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival](https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T215936">2022-02-18 21:59:36 UTC</a></sub>
-* [Russian ASAT debris creating “squalls” of close approaches with satellites](https://spacenews.com/russian-asat-debris-creating-squalls-of-close-approaches-with-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T210936">2022-02-18 21:09:36 UTC</a></sub>
-* [New research directly observes atmospheric loss on mini-Neptune exoplanets, provides insight into exoplanet evolution](https://www.nasaspaceflight.com/2022/02/insight-exoplanet-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T170250">2022-02-18 17:02:50 UTC</a></sub>
-* [NASA's Perseverance Celebrates First Year on Mars by Learning to Run](https://mars.nasa.gov/news/9134/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T165900">2022-02-18 16:59:00 UTC</a></sub>
-* [State Fight: Space sector is humming in Huntsville, Alabama](https://spacenews.com/state-fight-space-sector-is-humming-in-huntsville-alabama/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T164946">2022-02-18 16:49:46 UTC</a></sub>
-* [State Fight: Colorado wages international campaign in space sector](https://spacenews.com/state-fight-colorado-wages-international-campaign-in-space-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T163951">2022-02-18 16:39:51 UTC</a></sub>
-* [NASA TV to Air NOAA’s GOES-T Launch, Prelaunch Activities](http://www.nasa.gov/press-release/nasa-tv-to-air-noaa-s-goes-t-launch-prelaunch-activities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T163900">2022-02-18 16:39:00 UTC</a></sub>
-* [Blue Origin to increase New Shepard launches in 2022](https://spacenews.com/blue-origin-to-increase-new-shepard-launches-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T125936">2022-02-18 12:59:36 UTC</a></sub>
-* [SpaceX’s South Texas Starship factory has a new tallest building](https://www.teslarati.com/spacex-starbase-new-tallest-building-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T120951">2022-02-18 12:09:51 UTC</a></sub>
-* [Northrop Grumman ready to launch space station resupply mission](https://spaceflightnow.com/2022/02/18/northrop-grumman-ready-to-launch-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T105932">2022-02-18 10:59:32 UTC</a></sub>
+* [State Fight: Shoring up Florida’s Space Coast](https://spacenews.com/state-fight-shoring-up-floridas-space-coast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
+* [State Fight: Michigan economic plan emphasizes satellite communications](https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T180937">2022-02-20 18:09:37 UTC</a></sub>
+* [Next SpaceX launch to deploy fewer Starlink satellites into higher orbit](https://spaceflightnow.com/2022/02/20/next-spacex-launch-to-deploy-fewer-starlink-satellites-into-higher-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T045932">2022-02-20 04:59:32 UTC</a></sub>
+* [European Union lays out plan to bolster space traffic management capabilities](https://spacenews.com/european-union-lays-out-plan-to-bolster-space-traffic-management-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T005936">2022-02-20 00:59:36 UTC</a></sub>
+* [Northrop Grumman Sends NASA Science, Cargo to International Space Station](http://www.nasa.gov/press-release/northrop-grumman-sends-nasa-science-cargo-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T215900">2022-02-19 21:59:00 UTC</a></sub>
+* [State Fight: SpaceX brings business to Brownsville, Texas](https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
+* [State Fight: New Mexico’s growing reputation as a space state](https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T172936">2022-02-19 17:29:36 UTC</a></sub>
+* [Northrop Grumman launches newest Antares on NG-17](https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T151630">2022-02-19 15:16:30 UTC</a></sub>
+* [Antares rocket launch kicks off space station resupply mission](https://spaceflightnow.com/2022/02/19/antares-rocket-launch-kicks-off-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T010932">2022-02-19 01:09:32 UTC</a></sub>
+* [Next GOES weather satellite installed atop Atlas 5 rocket](https://spaceflightnow.com/2022/02/19/next-goes-weather-satellite-installed-atop-atlas-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T001932">2022-02-19 00:19:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T133158">2022-02-19 13:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T110649">2022-02-21 11:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
