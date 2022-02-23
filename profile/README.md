@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Host Virtual Future of Aviation Showcase](http://www.nasa.gov/press-release/nasa-to-host-virtual-future-of-aviation-showcase) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T172900">2022-02-23 17:29:00 UTC</a></sub>
 * [NASA, Axiom to Discuss First Private Astronaut Space Station Mission](http://www.nasa.gov/press-release/nasa-axiom-to-discuss-first-private-astronaut-space-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T162900">2022-02-23 16:29:00 UTC</a></sub>
 * [Northrop Grumman wins $341 million Space Force contract to develop a deep-space tracking radar](https://spacenews.com/northrop-grumman-wins-341-million-space-force-contract-to-develop-a-deep-space-tracking-radar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T160938">2022-02-23 16:09:38 UTC</a></sub>
 * [Virgin Galactic has lost $1 billion during the last two years](https://arstechnica.com/science/2022/02/virgin-galactic-has-lost-1-billion-during-the-last-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T140536">2022-02-23 14:05:36 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [Washington state space economy more than doubles](https://spacenews.com/washington-state-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T233938">2022-02-22 23:39:38 UTC</a></sub>
 * [U.S. and international partners to share launch cost of new communications satellite](https://spacenews.com/u-s-and-international-partners-to-share-launch-cost-of-new-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T221938">2022-02-22 22:19:38 UTC</a></sub>
 * [U.S. and allies to strengthen cooperation in space](https://spacenews.com/u-s-and-allies-to-strengthen-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T201937">2022-02-22 20:19:37 UTC</a></sub>
-* [NASA to Provide Media Update on Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220222T184900">2022-02-22 18:49:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T171041">2022-02-23 17:10:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T173600">2022-02-23 17:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
