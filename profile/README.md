@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon 9 rockets scheduled to launch five Starlink missions in a row](https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T120956">2022-02-24 12:09:56 UTC</a></sub>
 * [U.S. and Europe say space cooperation with Russia not affected yet by Ukraine crisis](https://spacenews.com/u-s-and-europe-say-space-cooperation-with-russia-not-affected-yet-by-ukraine-crisis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T223937">2022-02-23 22:39:37 UTC</a></sub>
 * [Space Force procurement command trying to bring ‘unity of effort’ to space programs](https://spacenews.com/space-force-procurement-command-trying-to-bring-unity-of-effort-to-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T222937">2022-02-23 22:29:37 UTC</a></sub>
 * [Dmitry Rogozin says he does not appreciate “openly hostile” US policy](https://arstechnica.com/science/2022/02/russias-space-chief-is-very-unhappy-with-hostile-us-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T203755">2022-02-23 20:37:55 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [NASA, Axiom to Discuss First Private Astronaut Space Station Mission](http://www.nasa.gov/press-release/nasa-axiom-to-discuss-first-private-astronaut-space-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T162900">2022-02-23 16:29:00 UTC</a></sub>
 * [Northrop Grumman wins $341 million Space Force contract to develop a deep-space tracking radar](https://spacenews.com/northrop-grumman-wins-341-million-space-force-contract-to-develop-a-deep-space-tracking-radar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T160938">2022-02-23 16:09:38 UTC</a></sub>
 * [Virgin Galactic has lost $1 billion during the last two years](https://arstechnica.com/science/2022/02/virgin-galactic-has-lost-1-billion-during-the-last-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T140536">2022-02-23 14:05:36 UTC</a></sub>
-* [NOAA seeking information on commercial space situational awareness data](https://spacenews.com/noaa-seeking-information-on-commercial-space-situational-awareness-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T124938">2022-02-23 12:49:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T113212">2022-02-24 11:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T121305">2022-02-24 12:13:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
