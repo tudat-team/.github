@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin, Northrop Grumman, York Space selected to build DoD’s internet-in-space constellation](https://spacenews.com/lockheed-martin-northrop-grumman-york-space-selected-to-build-dods-internet-in-space-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161350">2022-02-28 16:13:50 UTC</a></sub>
 * [Watch live: Atlas 5 rocket rolling to launch pad with weather satellite](https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T151344">2022-02-28 15:13:44 UTC</a></sub>
 * [ESA statement regarding cooperation with Russia following a meeting with Member States on 28 February 2022](https://www.esa.int/Newsroom/Press_Releases/ESA_statement_regarding_cooperation_with_Russia_following_a_meeting_with_Member_States_on_28_February_2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T140000">2022-02-28 14:00:00 UTC</a></sub>
 * [SpaceX a bastion of independent US, European spaceflight amid Russian threats](https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T122408">2022-02-28 12:24:08 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [Russia suspends Soyuz launch operations in French Guiana](https://spaceflightnow.com/2022/02/26/russia-suspends-soyuz-launch-operations-in-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T210345">2022-02-26 21:03:45 UTC</a></sub>
 * [Xplore banks $16.2 million for space-as-a-service](https://spacenews.com/xplore-banks-16-2-million-to-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T182348">2022-02-26 18:23:48 UTC</a></sub>
 * [Russia halts Soyuz launches from French Guiana](https://spacenews.com/russia-halts-soyuz-launches-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T172349">2022-02-26 17:23:49 UTC</a></sub>
-* [Russia pulls out of European spaceport, abandoning a planned launch](https://arstechnica.com/science/2022/02/russia-pulls-out-of-european-spaceport-abandoning-a-planned-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T163828">2022-02-26 16:38:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -385,6 +385,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Why you should advocate for planetary defense](https://www.planetary.org/articles/why-you-should-advocate-for-planetary-defense) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161405">2022-02-28 16:14:05 UTC</a></sub>
 * [RocketShip: Latest run from factory supports three launches](https://blog.ulalaunch.com/blog/rocketship-latest-run-from-factory-supports-three-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T162414">2022-02-25 16:24:14 UTC</a></sub>
 * [An ice giant and its dwarf companion](https://www.planetary.org/the-downlink/an-ice-giant-and-its-dwarf-companion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T153403">2022-02-25 15:34:03 UTC</a></sub>
 * [What light through yonder prism splits?](https://www.planetary.org/the-downlink/what-light-through-yonder-prism-splits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T153946">2022-02-18 15:39:46 UTC</a></sub>
@@ -394,7 +395,6 @@ This feed is updated every 30 minutes with news provided by
 * [How we use starlight to look for alien life](https://www.planetary.org/articles/how-spectroscopy-helps-search-for-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220215T150948">2022-02-15 15:09:48 UTC</a></sub>
 * [Day of Action Deep Prep: Artemis](https://www.planetary.org/advocacy/day-of-action-deep-prep-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T180955">2022-02-11 18:09:55 UTC</a></sub>
 * [Olympic-worthy world(s) records](https://www.planetary.org/the-downlink/olympic-worthy-worlds-records) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T153952">2022-02-11 15:39:52 UTC</a></sub>
-* [Student Rocket Launch: Calling All K-12 Rocket Scientists](https://blog.ulalaunch.com/blog/student-rocket-launch-calling-all-k-12-rocket-scientists) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220209T211008">2022-02-09 21:10:08 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161024">2022-02-28 16:10:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T165204">2022-02-28 16:52:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
