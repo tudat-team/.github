@@ -366,7 +366,7 @@ This feed is updated every 30 minutes with news provided by
 
 <!-- spaceflight news starts -->
 * [Boeing increases use of 3D printing to speed up production of WGS military satellite](https://spacenews.com/boeing-increases-use-of-3d-printing-to-speed-up-production-of-wgs-military-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T154350">2022-03-01 15:43:50 UTC</a></sub>
-* [Ukraine official confirms urgent request for Western satellite data [Updated]](https://arstechnica.com/science/2022/03/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T150057">2022-03-01 15:00:57 UTC</a></sub>
+* [Ukraine official confirms urgent request for Western satellite data](https://arstechnica.com/science/2022/03/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T150057">2022-03-01 15:00:57 UTC</a></sub>
 * [Russia looks to China for collaboration in space but faces isolation over Ukraine invasion](https://spacenews.com/russia-looks-to-china-for-collaboration-in-space-but-faces-isolation-over-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T144349">2022-03-01 14:43:49 UTC</a></sub>
 * [SpaceX awarded three more NASA astronaut launch contracts](https://www.teslarati.com/spacex-wins-3-more-nasa-crew-dragon-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T121407">2022-03-01 12:14:07 UTC</a></sub>
 * [ISS operations remain normal ahead of private astronaut mission](https://spacenews.com/iss-operations-remain-normal-ahead-of-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T113349">2022-03-01 11:33:49 UTC</a></sub>
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T170949">2022-03-01 17:09:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T173523">2022-03-01 17:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
