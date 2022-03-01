@@ -365,6 +365,8 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing increases use of 3D printing to speed up production of WGS military satellite](https://spacenews.com/boeing-increases-use-of-3d-printing-to-speed-up-production-of-wgs-military-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T154350">2022-03-01 15:43:50 UTC</a></sub>
+* [Ukraine official confirms urgent request for Western satellite data [Updated]](https://arstechnica.com/science/2022/03/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T150057">2022-03-01 15:00:57 UTC</a></sub>
 * [Russia looks to China for collaboration in space but faces isolation over Ukraine invasion](https://spacenews.com/russia-looks-to-china-for-collaboration-in-space-but-faces-isolation-over-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T144349">2022-03-01 14:43:49 UTC</a></sub>
 * [SpaceX awarded three more NASA astronaut launch contracts](https://www.teslarati.com/spacex-wins-3-more-nasa-crew-dragon-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T121407">2022-03-01 12:14:07 UTC</a></sub>
 * [ISS operations remain normal ahead of private astronaut mission](https://spacenews.com/iss-operations-remain-normal-ahead-of-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T113349">2022-03-01 11:33:49 UTC</a></sub>
@@ -373,8 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [A wartime plea to Western satellite companies: “We need this data, please”](https://arstechnica.com/science/2022/02/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T010057">2022-03-01 01:00:57 UTC</a></sub>
 * [NASA wants to maintain Russia partnership but is studying “operational flexibilities”](https://arstechnica.com/science/2022/02/despite-tensions-nasa-spaceflight-chief-urges-us-russia-cooperation-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T231427">2022-02-28 23:14:27 UTC</a></sub>
 * [SpaceX delivers truckload of Starlink dishes to Ukraine, as promised](https://www.teslarati.com/spacex-starlink-dishes-arrive-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T221409">2022-02-28 22:14:09 UTC</a></sub>
-* [NASA Awards Contract for Safety and Mission Assurance Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-safety-and-mission-assurance-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T210400">2022-02-28 21:04:00 UTC</a></sub>
-* [NASA Promotes Howard Hu to Lead Orion Ahead of First Artemis Mission](http://www.nasa.gov/press-release/nasa-promotes-howard-hu-to-lead-orion-ahead-of-first-artemis-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203300">2022-02-28 20:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T153814">2022-03-01 15:38:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T161133">2022-03-01 16:11:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
