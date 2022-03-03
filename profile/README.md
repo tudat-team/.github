@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After another Starlink mission, SpaceX on pace for one launch per week this year](https://spaceflightnow.com/2022/03/03/after-another-starlink-mission-spacex-on-pace-for-one-launch-per-week-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T183403">2022-03-03 18:34:03 UTC</a></sub>
 * [The US Space Force plans to start patrolling the area around the Moon](https://arstechnica.com/science/2022/03/the-us-space-force-plans-to-extend-its-operations-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T161655">2022-03-03 16:16:55 UTC</a></sub>
 * [Roscosmos head again questions future of ISS while NASA emphasizes cooperation](https://spacenews.com/roscosmos-head-again-questions-future-of-iss-while-nasa-emphasizes-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T125406">2022-03-03 12:54:06 UTC</a></sub>
 * [“Nothing to share”: South Korean firm turns down Ukrainian request for satellite imagery](https://spacenews.com/nothing-to-share-south-korean-firm-turns-down-ukrainian-request-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T113406">2022-03-03 11:34:06 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [Satellite images show Russia’s troop movements but can they reveal intent?](https://spacenews.com/satellite-images-show-russias-troop-movements-but-can-they-reveal-intent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T222349">2022-03-02 22:23:49 UTC</a></sub>
 * [Skycorp to test “USB for space” cable outside ISS](https://spacenews.com/skycorp-iss-connector-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T221349">2022-03-02 22:13:49 UTC</a></sub>
 * [Russia issues ultimatum to UK government over OneWeb launch](https://spaceflightnow.com/2022/03/02/russia-issues-ultimatum-to-u-k-government-over-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T211345">2022-03-02 21:13:45 UTC</a></sub>
-* [Moon impact: Chinese rocket stage still in space says U.S. Space Command](https://spacenews.com/moon-impact-chinese-rocket-stage-still-in-space-says-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T170349">2022-03-02 17:03:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T183801">2022-03-03 18:38:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T190708">2022-03-03 19:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
