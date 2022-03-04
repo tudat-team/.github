@@ -365,6 +365,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [HawkEye 360 detects GPS interference in Ukraine](https://spacenews.com/hawkeye-360-gps-ukr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140407">2022-03-04 14:04:07 UTC</a></sub>
 * [Privateer unveils technology for improved tracking of space objects](https://spacenews.com/privateer-unveils-technology-for-improved-tracking-of-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T130408">2022-03-04 13:04:08 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory prepares for major upgrades](https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121425">2022-03-04 12:14:25 UTC</a></sub>
 * [Rocket Report: Russia responds to Western sanctions, UK spaceport moves ahead](https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T120019">2022-03-04 12:00:19 UTC</a></sub>
@@ -374,7 +375,6 @@ This feed is updated every 30 minutes with news provided by
 * [NASA to Share Tools, Resources at Upcoming Agriculture Conference](http://www.nasa.gov/press-release/nasa-to-share-tools-resources-at-upcoming-agriculture-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T214400">2022-03-03 21:44:00 UTC</a></sub>
 * [Kendall: Space ‘order of battle’ a top priority in U.S. defense budget and strategy](https://spacenews.com/kendall-space-order-of-battle-a-top-priority-in-u-s-defense-budget-and-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T210407">2022-03-03 21:04:07 UTC</a></sub>
 * [SpaceX launches ninth Falcon 9 rocket in nine weeks](https://www.teslarati.com/spacex-nine-launches-nine-weeks-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T200425">2022-03-03 20:04:25 UTC</a></sub>
-* [After another Starlink mission, SpaceX on pace for one launch per week this year](https://spaceflightnow.com/2022/03/03/after-another-starlink-mission-spacex-on-pace-for-one-launch-per-week-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T183403">2022-03-03 18:34:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T133533">2022-03-04 13:35:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140739">2022-03-04 14:07:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
