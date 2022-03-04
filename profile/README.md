@@ -385,6 +385,7 @@ This feed is updated every 30 minutes with news provided by
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Space brings out the best in us](https://www.planetary.org/the-downlink/space-brings-out-the-best-in-us) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T153420">2022-03-04 15:34:20 UTC</a></sub>
 * [The best space pictures from the Voyager 1 and 2 missions](https://www.planetary.org/articles/best-space-pictures-nasa-voyager-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T150420">2022-03-03 15:04:20 UTC</a></sub>
 * [Day of Action 2022: International Action](https://www.planetary.org/advocacy/day-of-action-2022-international-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T192403">2022-03-02 19:24:03 UTC</a></sub>
 * [Pioneer 10 and 11, outer solar system explorers](https://www.planetary.org/space-missions/pioneer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T150402">2022-03-02 15:04:02 UTC</a></sub>
@@ -394,7 +395,6 @@ This feed is updated every 30 minutes with news provided by
 * [RocketShip: Latest run from factory supports three launches](https://blog.ulalaunch.com/blog/rocketship-latest-run-from-factory-supports-three-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T162414">2022-02-25 16:24:14 UTC</a></sub>
 * [An ice giant and its dwarf companion](https://www.planetary.org/the-downlink/an-ice-giant-and-its-dwarf-companion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T153403">2022-02-25 15:34:03 UTC</a></sub>
 * [What light through yonder prism splits?](https://www.planetary.org/the-downlink/what-light-through-yonder-prism-splits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220218T153946">2022-02-18 15:39:46 UTC</a></sub>
-* [GOES-T: Weather observatory for Western U.S. hoisted atop Atlas V](https://blog.ulalaunch.com/blog/goes-t-weather-observatory-for-western-u.s.-hoisted-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220217T194958">2022-02-17 19:49:58 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -407,7 +407,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T153825">2022-03-04 15:38:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T161021">2022-03-04 16:10:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
