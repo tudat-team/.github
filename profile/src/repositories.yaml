@@ -1,0 +1,80 @@
+# This file designs the release workflow of all repositories of the project.
+#
+# Each repository is described by a dictionary.
+# - `repo` is the description of the project repo.
+#    - `name` is the name of the repo.
+#    - `url` is the url of the repo.
+#
+#
+
+org_url: https://github.com/tudat-team
+
+repositories:
+  - name: cspice-cmake
+    branches:
+      stable: master
+      unstable: develop
+    feedstock:
+      branches:
+        stable: master
+        unstable: develop
+    downstream:
+      - tudat
+      - tudatpy
+
+#  - name: sofa-cmake
+#    branches:
+#      stable: master
+#      unstable: develop
+#    feedstock:
+#      branches:
+#        stable: master
+#        unstable: develop
+#    downstream:
+#      - tudat
+#      - tudatpy
+
+  - name: tudat-resources
+    branches:
+      stable: master
+      unstable: develop
+    feedstock:
+      branches:
+        stable: master
+        unstable: develop
+    downstream:
+      - tudat
+      - tudatpy
+      
+  - name: tudat
+    branches:
+      stable: master
+      unstable: develop
+    feedstock:
+      branches:
+        stable: master
+        unstable: develop
+    downstream:
+      - tudatpy
+
+  - name: tudatpy
+    branches:
+      stable: master
+      unstable: develop
+    feedstock:
+      branches:
+        stable: master
+        unstable: develop
+
+#  - name: nrlmsise-00
+#    branches:
+#      stable: main
+#      unstable: develop
+#    feedstock:
+#      branches:
+#        stable: main
+#        unstable: develop
+#    downstream:
+#      - tudat
+#      - tudatpy
+#

@@ -5,17 +5,40 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 - [Tudat Space](https://tudat-space.readthedocs.io/en/latest/) is the central hub of our documentation.
 - 🍿 Fun fact, we believe that if there's a Hell, CMake belongs there.
 
-## Builds 🔨
+## Stable Builds 🔨
 <!-- spaceflight news starts -->
 <table>
   <tr>
     <th>Repository</th>
-    <th>Status</th>
+    <th>Azure</th>
+    <th>Version</th>
   </tr>
-{% for key, value  in build_status.items() -%}
-{{ value }}
+{% for key, value  in stable_build_status.items() -%}
+  <tr>
+    <td><a href="{{ value.repo_url }}" target="_blank">{{ key }}</a> (<a href="{{ value.feedstock_url }}" target="_blank">feedstock</a>)</td>
+    {{ value.table }}
+    <td>{{ value.version }}</td>
+  </tr>
 {% endfor %}
 </table>
+
+## Unstable Builds 🔨
+<!-- spaceflight news starts -->
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Azure</th>
+    <th>Version</th>
+  </tr>
+{% for key, value  in unstable_build_status.items() -%}
+  <tr>
+    <td><a href="{{ value.repo_url }}" target="_blank">{{ key }}</a> (<a href="{{ value.feedstock_url }}" target="_blank">feedstock</a>)</td>
+    {{ value.table }}
+    <td>{{ value.version }}</td>
+  </tr>
+{% endfor %}
+</table>
+
 <!-- spaceflight news ends -->
 
 ## Space feed 🍽️
