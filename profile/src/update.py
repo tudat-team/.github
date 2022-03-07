@@ -82,9 +82,9 @@ def get_feedstock_build_status(which='stable'):
     for repo in repos:
         # download readme
         raw_url = org_url.replace("github.com", "raw.githubusercontent.com")
-        feedstock_url = f"{org_url}/{repo['name']}-feedstock"
+        feedstock_url = f"{org_url}/{repo['name']}-feedstock/tree/{repo['branches'][which]}"
         feedstock_raw_url = f"{raw_url}/{repo['name']}-feedstock"
-        repo_url = f"{org_url}/{repo['name']}"
+        repo_url = f"{org_url}/{repo['name']}/tree/{repo['branches'][which]}"
         repo_raw_url = f"{raw_url}/{repo['name']}"
 
         readme_url = f"{feedstock_raw_url}/{repo['branches'][which]}/README.md"

@@ -6,6 +6,9 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 - 🍿 Fun fact, we believe that if there's a Hell, CMake belongs there.
 
 ## Stable Builds 🔨
+````bash
+$ conda install -c tudat-team <package>
+````
 <!-- spaceflight news starts -->
 <table>
   <tr>
@@ -14,7 +17,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <th>Version</th>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/cspice-cmake" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/cspice-cmake/tree/master" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -60,7 +63,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <td><code>66.0.0</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudat-resources" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/tudat-resources/tree/master" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -106,7 +109,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <td><code>1.1.2</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudat" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/tudat/tree/master" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -152,7 +155,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <td><code>2.9.0</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudatpy" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/tudatpy/tree/master" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -249,7 +252,10 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 
 </table>
 
-## Unstable Builds 🔨
+## Unstable Builds (latest) 🔥
+````bash
+$ conda install -c tudat-team/dev <package>
+````
 <!-- spaceflight news starts -->
 <table>
   <tr>
@@ -258,7 +264,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <th>Version</th>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/cspice-cmake" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/cspice-cmake/tree/develop" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -297,7 +303,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <td><code>66.0.0</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudat-resources" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/tudat-resources/tree/develop" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -343,7 +349,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <td><code>1.2.1.dev5</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudat" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/tudat/tree/develop" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -382,7 +388,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <td><code>2.9.1.dev0</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudatpy" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock" target="_blank">feedstock</a>)</code></td>
+    <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -488,6 +494,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intelsat picks David Wajsgras as next CEO](https://spacenews.com/intelsat-picks-david-wajsgras-as-next-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210408">2022-03-07 21:04:08 UTC</a></sub>
 * [How to save the International Space Station and prevent the dreaded “gap”](https://arstechnica.com/science/2022/03/how-to-save-the-international-space-station-and-prevent-the-dreaded-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T152858">2022-03-07 15:28:58 UTC</a></sub>
 * [SpaceX on track for fourth Starlink launch in two weeks](https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121424">2022-03-07 12:14:24 UTC</a></sub>
 * [China launches test satellites for broadband constellation](https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121407">2022-03-07 12:14:07 UTC</a></sub>
@@ -497,7 +504,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [HawkEye 360 detects GPS interference in Ukraine](https://spacenews.com/hawkeye-360-gps-ukr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140407">2022-03-04 14:04:07 UTC</a></sub>
 * [Privateer unveils technology for improved tracking of space objects](https://spacenews.com/privateer-unveils-technology-for-improved-tracking-of-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T130408">2022-03-04 13:04:08 UTC</a></sub>
 * [SpaceX’s South Texas Starship factory prepares for major upgrades](https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121425">2022-03-04 12:14:25 UTC</a></sub>
-* [Rocket Report: Russia responds to Western sanctions, UK spaceport moves ahead](https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T120019">2022-03-04 12:00:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -530,7 +536,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T211229">2022-03-07 21:12:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T212340">2022-03-07 21:23:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
