@@ -7,7 +7,7 @@ import html
 from sfn import get_news_articles, get_blogs, get_reports
 from ll2 import get_launches
 from gh import GitHub
-from github import Github
+# from github import Github
 
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
 CACHE_DIR = "../cache"
