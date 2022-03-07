@@ -475,9 +475,11 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 <!-- spaceflight news ends -->
 
 ## Space feed 🍽️
-This feed is updated every 30 minutes with news provided by
-[The Space Devs](https://thespacedevs.com/)'
-[Spaceflight News API](https://thespacedevs.com/snapi).
+<details>
+<summary>
+This feed is updated every 30 minutes with news provided by <a href="https://thespacedevs.com/" target="_blank">The Space Devs</a>
+ <a href="https://thespacedevs.com/snapi" target="_blank">Spaceflight News API</a>.
+</summary>
 
 <table>
 <tr>
@@ -524,11 +526,11 @@ This feed is updated every 30 minutes with news provided by
 </tr>
 
 </table>
-
+</details>
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210813">2022-03-07 21:08:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T211229">2022-03-07 21:12:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
