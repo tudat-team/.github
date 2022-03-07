@@ -15,9 +15,9 @@ We are a group of students, academics, educators, and enthusiasts providing acce
   </tr>
 {% for key, value  in stable_build_status.items() -%}
   <tr>
-    <td><a href="{{ value.repo_url }}" target="_blank">{{ key }}</a> (<a href="{{ value.feedstock_url }}" target="_blank">feedstock</a>)</td>
+    <td><code><a href="{{ value.repo_url }}" target="_blank">{{ key }}</a> (<a href="{{ value.feedstock_url }}" target="_blank">feedstock</a>)</code></td>
     {{ value.table }}
-    <td>{{ value.version }}</td>
+    <td><code>{{ value.version }}</code></td>
   </tr>
 {% endfor %}
 </table>
@@ -32,9 +32,9 @@ We are a group of students, academics, educators, and enthusiasts providing acce
   </tr>
 {% for key, value  in unstable_build_status.items() -%}
   <tr>
-    <td><a href="{{ value.repo_url }}" target="_blank">{{ key }}</a> (<a href="{{ value.feedstock_url }}" target="_blank">feedstock</a>)</td>
+    <td><code><a href="{{ value.repo_url }}" target="_blank">{{ key }}</a> (<a href="{{ value.feedstock_url }}" target="_blank">feedstock</a>)</code></td>
     {{ value.table }}
-    <td>{{ value.version }}</td>
+    <td><code>{{ value.version }}</code></td>
   </tr>
 {% endfor %}
 </table>

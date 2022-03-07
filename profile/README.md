@@ -14,7 +14,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <th>Version</th>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/cspice-cmake" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/cspice-cmake" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -57,10 +57,10 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>66.0.0</td>
+    <td><code>66.0.0</code></td>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/tudat-resources" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/tudat-resources" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -103,10 +103,10 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>1.1.2</td>
+    <td><code>1.1.2</code></td>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/tudat" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/tudat" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -149,10 +149,10 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>2.9.0</td>
+    <td><code>2.9.0</code></td>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/tudatpy" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/tudatpy" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -244,7 +244,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>0.5.23-rc</td>
+    <td><code>0.5.23-rc</code></td>
   </tr>
 
 </table>
@@ -258,7 +258,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
     <th>Version</th>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/cspice-cmake" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/cspice-cmake" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -294,10 +294,10 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>66.0.0</td>
+    <td><code>66.0.0</code></td>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/tudat-resources" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/tudat-resources" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -340,10 +340,10 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>1.2.1.dev5</td>
+    <td><code>1.2.1.dev5</code></td>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/tudat" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/tudat" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -379,10 +379,10 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>2.9.1.dev0</td>
+    <td><code>2.9.1.dev0</code></td>
   </tr>
 <tr>
-    <td><a href="https://github.com/tudat-team/tudatpy" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock" target="_blank">feedstock</a>)</td>
+    <td><code><a href="https://github.com/tudat-team/tudatpy" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
 <summary>
@@ -467,7 +467,7 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 </table>
 </details>
 </td>
-    <td>0.5.23-rc</td>
+    <td><code>0.5.23-rc</code></td>
   </tr>
 
 </table>
@@ -528,7 +528,7 @@ This feed is updated every 30 minutes with news provided by
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210333">2022-03-07 21:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210813">2022-03-07 21:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
