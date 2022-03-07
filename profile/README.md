@@ -10,8 +10,6 @@ We are a group of students, academics, educators, and enthusiasts providing acce
 conda install -c tudat-team <package>
 ````
 <!-- spaceflight news starts -->
-<div align="center">
-<p align="center">
 <table>
   <tr>
     <th>Repository</th>
@@ -253,16 +251,12 @@ conda install -c tudat-team <package>
   </tr>
 
 </table>
-</div>
-</p>
 
 ## Unstable Builds (latest) 🔥
 ````bash
 conda install -c tudat-team/dev <package>
 ````
 <!-- spaceflight news starts -->
-<div align="center">
-<p align="center">
 <table>
   <tr>
     <th>Repository</th>
@@ -483,8 +477,6 @@ conda install -c tudat-team/dev <package>
   </tr>
 
 </table>
-</div>
-</p>
 
 <!-- spaceflight news ends -->
 
@@ -544,7 +536,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T213621">2022-03-07 21:36:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T213713">2022-03-07 21:37:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
