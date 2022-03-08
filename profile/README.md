@@ -63,6 +63,52 @@ conda install -c tudat-team <package>
     <td><code>66.0.0</code></td>
   </tr>
 <tr>
+    <td><code><a href="https://github.com/tudat-team/sofa-cmake/tree/master" target="_blank">sofa-cmake</a> (<a href="https://github.com/tudat-team/sofa-cmake-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
+    <td>
+<details>
+<summary>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master"/>
+</a>
+</summary>
+<table>
+<thead><tr><th>Variant</th><th>Status</th></tr></thead>
+<tbody><tr>
+<td>linux_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+</td>
+    <td><code>1.0.3</code></td>
+  </tr>
+<tr>
     <td><code><a href="https://github.com/tudat-team/tudat-resources/tree/master" target="_blank">tudat-resources</a> (<a href="https://github.com/tudat-team/tudat-resources-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
@@ -353,7 +399,7 @@ conda install -c tudat-team/dev <package>
     <td>
 <details>
 <summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
 <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master"/>
 </a>
 </summary>
@@ -362,21 +408,28 @@ conda install -c tudat-team/dev <package>
 <tbody><tr>
 <td>linux_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_"/>
 </a>
 </td>
@@ -392,80 +445,87 @@ conda install -c tudat-team/dev <package>
     <td>
 <details>
 <summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master"/>
 </a>
 </summary>
 <table>
 <thead><tr><th>Variant</th><th>Status</th></tr></thead>
 <tbody><tr>
-<td>linux_64_python3.6.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.6.____cpython"/>
-</a>
-</td>
-</tr><tr>
 <td>linux_64_python3.7.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.7.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>linux_64_python3.8.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.8.____cpython"/>
 </a>
 </td>
 </tr><tr>
-<td>osx_64_python3.6.____cpython</td>
+<td>linux_64_python3.9.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.6.____cpython"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.9.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64_python3.7.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.7.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64_python3.8.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.8.____cpython"/>
 </a>
 </td>
 </tr><tr>
-<td>osx_arm64</td>
+<td>osx_64_python3.9.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.9.____cpython"/>
 </a>
 </td>
 </tr><tr>
-<td>win_64_python3.6.____cpython</td>
+<td>osx_arm64_python3.8.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.6.____cpython"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.9.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64_python3.7.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.7.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64_python3.8.____cpython</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.9.____cpython"/>
 </a>
 </td>
 </tr>
@@ -473,7 +533,7 @@ conda install -c tudat-team/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.5.23-rc</code></td>
+    <td><code>0.6.3.dev0</code></td>
   </tr>
 
 </table>
@@ -494,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra blames launch failure on wiring error and software flaw](https://spacenews.com/astra-blames-launch-failure-on-wiring-error-and-software-flaw/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T123406">2022-03-08 12:34:06 UTC</a></sub>
+* [SpaceX Starbase facilities already taking advantage of new “Port Connector Road”](https://www.teslarati.com/spacex-starbase-brownsville-port-connector-road/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T121423">2022-03-08 12:14:23 UTC</a></sub>
+* [SpaceX worked for weeks to begin Starlink service in Ukraine](https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T104406">2022-03-08 10:44:06 UTC</a></sub>
+* [Beames becomes SpiderOak’s chairman of the board](https://spacenews.com/beames-joins-spideroak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T050406">2022-03-08 05:04:06 UTC</a></sub>
 * [Intelsat picks David Wajsgras as next CEO](https://spacenews.com/intelsat-picks-david-wajsgras-as-next-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T210408">2022-03-07 21:04:08 UTC</a></sub>
 * [How to save the International Space Station and prevent the dreaded “gap”](https://arstechnica.com/science/2022/03/how-to-save-the-international-space-station-and-prevent-the-dreaded-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T152858">2022-03-07 15:28:58 UTC</a></sub>
 * [SpaceX on track for fourth Starlink launch in two weeks](https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121424">2022-03-07 12:14:24 UTC</a></sub>
 * [China launches test satellites for broadband constellation](https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T121407">2022-03-07 12:14:07 UTC</a></sub>
+* [SpaceX’s first Jupiter launch a step closer as NASA begins assembling ‘Europa Clipper’](https://www.teslarati.com/spacex-jupiter-launch-nasa-europa-clipper-assembly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T012425">2022-03-07 01:24:25 UTC</a></sub>
 * [DoD wants ‘resilient’ space systems, but how to get there is still unclear](https://spacenews.com/dod-wants-resilient-space-systems-but-how-to-get-there-is-still-unclear/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220306T224407">2022-03-06 22:44:07 UTC</a></sub>
-* [SpaceX shifts resources to cybersecurity to address Starlink jamming](https://spacenews.com/spacex-shifts-resources-to-cybersecurity-to-address-starlink-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220305T152406">2022-03-05 15:24:06 UTC</a></sub>
-* [Space Force to reorganize its acquisition command to ‘focus on the threat’](https://spacenews.com/space-force-to-reorganize-its-acquisition-command-to-focus-on-the-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T230407">2022-03-04 23:04:07 UTC</a></sub>
-* [HawkEye 360 detects GPS interference in Ukraine](https://spacenews.com/hawkeye-360-gps-ukr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T140407">2022-03-04 14:04:07 UTC</a></sub>
-* [Privateer unveils technology for improved tracking of space objects](https://spacenews.com/privateer-unveils-technology-for-improved-tracking-of-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T130408">2022-03-04 13:04:08 UTC</a></sub>
-* [SpaceX’s South Texas Starship factory prepares for major upgrades](https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121425">2022-03-04 12:14:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -536,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T213713">2022-03-07 21:37:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T131517">2022-03-08 13:15:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>

@@ -33,6 +33,29 @@ repositories:
 #    downstream:
 #      - tudat
 #      - tudatpy
+  - name: sofa-cmake
+    branches:
+      stable: master
+      unstable: develop
+    feedstock:
+      branches:
+        stable: master
+        unstable: develop
+    downstream:
+      - tudat
+      - tudatpy
+
+  - name: nrlmsise-00-cmake
+    branches:
+      stable: master
+      unstable: develop
+    feedstock:
+      branches:
+        stable: master
+        unstable: develop
+    downstream:
+      - tudat
+      - tudatpy
 
   - name: tudat-resources
     branches:
@@ -45,7 +68,8 @@ repositories:
     downstream:
       - tudat
       - tudatpy
-      
+
+
   - name: tudat
     branches:
       stable: master

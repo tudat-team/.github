@@ -104,32 +104,35 @@ def get_feedstock_build_status(which='stable'):
 
         # compile regex with multiple lines
         regex = r"(<table[^>]*>(?:.|\n)*<\/table>)"
+        try:
+            # regex all group between <table> and </table>
+            with open(cached_readme_path, "r") as f:
+                # get the table
+                s_file = f.read()
+                matches = list(re.finditer(regex, s_file, re.MULTILINE))
+                s_match = matches[0].group(1)
 
-        # regex all group between <table> and </table>
-        with open(cached_readme_path, "r") as f:
-            # get the table
-            s_file = f.read()
-            matches = list(re.finditer(regex, s_file, re.MULTILINE))
-            s_match = matches[0].group(1)
+                # load into beautiful soup
+                soup = BeautifulSoup(s_match, "html.parser")
 
-            # load into beautiful soup
-            soup = BeautifulSoup(s_match, "html.parser")
+                # get inside of table
+                table = soup.table
 
-            # get inside of table
-            table = soup.table
+                # find first level rows
+                cells = table.tr.find_all("td", recursive=False)
 
-            # find first level rows
-            cells = table.tr.find_all("td", recursive=False)
+                cell_build = cells[1]
 
-            cell_build = cells[1]
+            with open(cached_version_path, "r") as f:
+                version = f.read().replace("\n", "")
 
-        with open(cached_version_path, "r") as f:
-            version = f.read().replace("\n", "")
+            ret[repo['name']] = {'table': cells[1],
+                                 'version': version,
+                                 'repo_url': repo_url,
+                                 'feedstock_url': feedstock_url, }
 
-        ret[repo['name']] = {'table': cells[1],
-                             'version': version,
-                             'repo_url': repo_url,
-                             'feedstock_url': feedstock_url, }
+        except FileNotFoundError:
+            pass
 
     return ret
 

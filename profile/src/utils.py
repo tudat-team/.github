@@ -35,15 +35,18 @@ def download_file(url, filename, cache_dir=None):
         cache_dir = os.path.join(os.path.expanduser("~"), ".cache")
     if not os.path.exists(cache_dir):
         os.makedirs(cache_dir)
-    if not os.path.exists(os.path.join(cache_dir, filename)):
-        try:
-            r = requests.get(url)
-            r.raise_for_status()
-            with open(os.path.join(cache_dir, filename), "wb") as f:
-                f.write(r.content)
-            return os.path.join(cache_dir, filename)
-        except requests.HTTPError as exception:
-            return exception
+    if os.path.exists(os.path.join(cache_dir, filename)):
+        # delete file
+        os.remove(os.path.join(cache_dir, filename))
+
+    try:
+        r = requests.get(url)
+        r.raise_for_status()
+        with open(os.path.join(cache_dir, filename), "wb") as f:
+            f.write(r.content)
+        return os.path.join(cache_dir, filename)
+    except requests.HTTPError as exception:
+        return exception
 
 
 
