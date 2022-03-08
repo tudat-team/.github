@@ -20,7 +20,7 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
+          <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&branchName=master">
             <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master">
           </a>
         </summary>
@@ -29,21 +29,28 @@ Current build status
           <tbody><tr>
               <td>linux_64</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&branchName=master">
                   <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=linux&configuration=linux_64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&branchName=master">
                   <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64</td>
+              <td>
+                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&branchName=master">
+                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_arm64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&branchName=master">
                   <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_" alt="variant">
                 </a>
               </td>
@@ -69,6 +76,7 @@ Installing `tudat` from the `tudat-team` channel can be achieved by adding `tuda
 
 ```
 conda config --add channels tudat-team
+conda config --set channel_priority strict
 ```
 
 Once the `tudat-team` channel has been enabled, `tudat` can be installed with:
