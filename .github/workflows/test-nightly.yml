@@ -14,33 +14,35 @@ jobs:
           - cspice-cmake
           - tudat-resources
     steps:
-      - uses: tudat-team/.github/.github/actions/rerender.yml@main
+      - uses: geoffreygarrett/conda-smithy-rerender@main
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
-          repo: tudat-team/${{ matrix.repo }}-feedstock
+          repository: tudat-team/${{ matrix.repository }}-feedstock
 
   check_core:
     name: Check Core ©️
+    needs: [check_upstream]
     runs-on: ubuntu-latest
     strategy:
       matrix:
         repo:
           - tudat
     steps:
-      - uses: tudat-team/.github/.github/actions/rerender.yml@main
+      - uses: geoffreygarrett/conda-smithy-rerender@main
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
-          repo: tudat-team/${{ matrix.repo }}-feedstock
+          repository: tudat-team/${{ matrix.repository }}-feedstock
 
   check_downstream:
     name: Check Downstream ⬇️
+    needs: [check_core]
     runs-on: ubuntu-latest
     strategy:
       matrix:
         repo:
           - tudatpy
     steps:
-      - uses: tudat-team/.github/.github/actions/rerender.yml@main
+      - uses: geoffreygarrett/conda-smithy-rerender@main
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
-          repo: tudat-team/${{ matrix.repo }}-feedstock
+          repository: tudat-team/${{ matrix.repository }}-feedstock
