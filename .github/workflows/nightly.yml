@@ -35,7 +35,7 @@ jobs:
             {
             "event": "nightly",
             "actor": "${{ github.actor }}",
-            "repository": "${{ matrix.repository }}",
+            "repository": "tudat-team/${{ matrix.repository }}",
             "ref": "",
             "ref_name": "${{ matrix.branch }}",
             "ref_type": "branch",
@@ -68,7 +68,7 @@ jobs:
             "actor": "${{ github.actor }}",
             "repository": "${{ matrix.repository }}",
             "ref": "",
-            "ref_name": "${{ matrix.branch }}",
+            "ref_name": "tudat-team/${{ matrix.branch }}",
             "ref_type": "branch",
             "sha": ""
             }
@@ -97,7 +97,7 @@ jobs:
             {
             "event": "nightly",
             "actor": "${{ github.actor }}",
-            "repository": "${{ matrix.repository }}",
+            "repository": "tudat-team/${{ matrix.repository }}",
             "ref": "",
             "ref_name": "${{ matrix.branch }}",
             "ref_type": "branch",
