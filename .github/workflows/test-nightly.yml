@@ -14,8 +14,7 @@ jobs:
           - cspice-cmake
           - tudat-resources
     steps:
-      - uses: actions/checkout@v1
-      - uses: ./.github/actions/rerender
+      - uses: ./.github/workflows/rerender
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repo: tudat-team/${{ matrix.repo }}-feedstock
@@ -28,8 +27,7 @@ jobs:
         repo:
           - tudat
     steps:
-      - uses: actions/checkout@v1
-      - uses: ./.github/actions/rerender
+      - uses: ./.github/workflows/rerender
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repo: tudat-team/${{ matrix.repo }}-feedstock
@@ -42,8 +40,7 @@ jobs:
         repo:
           - tudatpy
     steps:
-      - uses: actions/checkout@v1
-      - uses: ./.github/actions/rerender
+      - uses: ./.github/workflows/rerender
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repo: tudat-team/${{ matrix.repo }}-feedstock
