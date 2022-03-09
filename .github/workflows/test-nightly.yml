@@ -40,7 +40,7 @@ jobs:
         repo:
           - tudatpy
     steps:
-      - uses: ./.github/actions/rerender.yml
+      - uses: ./actions/rerender.yml
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repo: tudat-team/${{ matrix.repo }}-feedstock
