@@ -20,12 +20,12 @@ jobs:
         branch:
           - develop
     steps:
-      - id: ${{ matrix.repository }}
+      - id: Rerender
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repository: tudat-team/${{ matrix.repository }}-feedstock
-      - name: ${{ matrix.repository }}-repository-dispatch
+      - name: Inform
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.GH_TOKEN }}
@@ -51,12 +51,12 @@ jobs:
         branch:
           - develop
     steps:
-      - id: ${{ matrix.repository }}
+      - id: Rerender
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repository: tudat-team/${{ matrix.repository }}-feedstock
-      - name: ${{ matrix.repository }}-repository-dispatch
+      - name: Inform
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.GH_TOKEN }}
@@ -82,12 +82,12 @@ jobs:
         branch:
           - develop
     steps:
-      - id: ${{ matrix.repository }}
+      - id: Rerender
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repository: tudat-team/${{ matrix.repository }}-feedstock
-      - name: ${{ matrix.repository }}-repository-dispatch
+      - name: Inform
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.GH_TOKEN }}
