@@ -1,0 +1,21 @@
+
+on:
+  workflow_call:
+    inputs:
+      token:
+        required: true
+        description: The GitHub access token.
+        type: string
+      repository:
+        required: true
+        type: string
+
+jobs:
+  rerender:
+    name: Rerender
+    runs-on: ubuntu-latest
+    steps:
+      - uses: geoffreygarrett/conda-smithy-rerender@main
+        with:
+          token: ${{ inputs.token }}
+          repository: ${{ inputs.repository }}

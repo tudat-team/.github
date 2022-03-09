@@ -1,0 +1,46 @@
+name: Nightly 🌃
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check_upstream:
+    name: Check Upstream ⬆️
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - sofa-cmake
+          - cspice-cmake
+          - tudat-resources
+    steps:
+      - uses: ./.github/actions/rerender.yml
+        with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repo: tudat-team/${{ matrix.repo }}-feedstock
+
+  check_core:
+    name: Check Core ©️
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - tudat
+    steps:
+      - uses: ./.github/actions/rerender.yml
+        with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repo: tudat-team/${{ matrix.repo }}-feedstock
+
+  check_downstream:
+    name: Check Downstream ⬇️
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - tudatpy
+    steps:
+      - uses: ./.github/actions/rerender.yml
+        with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repo: tudat-team/${{ matrix.repo }}-feedstock
