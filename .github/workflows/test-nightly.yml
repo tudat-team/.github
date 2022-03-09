@@ -15,7 +15,7 @@ jobs:
           - tudat-resources
     steps:
       - uses: actions/checkout@v1
-      - uses: ./.github/actions/rerender.yml
+      - uses: ./.github/.github/actions/rerender.yml
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repo: tudat-team/${{ matrix.repo }}-feedstock
@@ -29,7 +29,7 @@ jobs:
           - tudat
     steps:
       - uses: actions/checkout@v1
-      - uses: ./.github/actions/rerender.yml
+      - uses: ./.github/.github/actions/rerender.yml
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repo: tudat-team/${{ matrix.repo }}-feedstock
@@ -43,7 +43,7 @@ jobs:
           - tudatpy
     steps:
       - uses: actions/checkout@v1
-      - uses: ./.github/actions/rerender.yml
+      - uses: ./.github/.github/actions/rerender.yml
         with:
           token: ${{ secrets.WORKFLOW_TOKEN }}
           repo: tudat-team/${{ matrix.repo }}-feedstock
