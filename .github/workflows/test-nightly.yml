@@ -15,7 +15,7 @@ jobs:
           - tudat-resources
     steps:
       - uses: actions/checkout@v1
-        run: |
+      - run: |
           ls -a
       - uses: ./.github/actions/rerender.yml
         with:
@@ -31,7 +31,7 @@ jobs:
           - tudat
     steps:
       - uses: actions/checkout@v1
-        run: |
+      - run: |
           ls -a
       - uses: ./.github/actions/rerender.yml
         with:
