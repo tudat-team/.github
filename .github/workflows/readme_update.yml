@@ -1,4 +1,4 @@
-name: .github/workflows/readme_update.yml
+name: README.md 🌀
 
 on:
   workflow_dispatch:

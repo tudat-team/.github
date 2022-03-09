@@ -1,0 +1,105 @@
+name: Nightly 🌃
+
+on:
+#  push:
+#    branches:
+#      - master
+  schedule:
+    - cron: "0 3 * * *"  # everyday at 3:00 a.m. https://crontab.guru/#0_3_*_*_* ,,,,,,
+  workflow_dispatch:
+
+jobs:
+  check_dependencies:
+    runs-on: [ ubuntu-latest ]
+    strategy:
+      matrix:
+        repository:
+          - sofa-cmake
+          - cspice-cmake
+          - tudat-resources
+        branch:
+          - develop
+    steps:
+      - id: ${{ matrix.repository }}
+        uses: geoffreygarrett/conda-smithy-rerender@main
+        with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/${{ matrix.repository }}-feedstock
+      - name: ${{ matrix.repository }}-repository-dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: tudat-team/.github
+          event-type: nightly on ${{ matrix.repository }}
+          client-payload: >-
+            {
+            "event": "nightly",
+            "actor": "${{ github.actor }}",
+            "repository": "${{ matrix.repository }}",
+            "ref": "",
+            "ref_name": "${{ matrix.branch }}",
+            "ref_type": "branch",
+            "sha": ""
+            }
+
+  check_core:
+    runs-on: [ ubuntu-latest ]
+    strategy:
+      matrix:
+        repository:
+          - tudat
+        branch:
+          - develop
+    steps:
+      - id: ${{ matrix.repository }}
+        uses: geoffreygarrett/conda-smithy-rerender@main
+        with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/${{ matrix.repository }}-feedstock
+      - name: ${{ matrix.repository }}-repository-dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: tudat-team/.github
+          event-type: nightly on ${{ matrix.repository }}
+          client-payload: >-
+            {
+            "event": "nightly",
+            "actor": "${{ github.actor }}",
+            "repository": "${{ matrix.repository }}",
+            "ref": "",
+            "ref_name": "${{ matrix.branch }}",
+            "ref_type": "branch",
+            "sha": ""
+            }
+
+  check_outer:
+    runs-on: [ ubuntu-latest ]
+    strategy:
+      matrix:
+        repository:
+          - tudatpy
+        branch:
+          - develop
+    steps:
+      - id: ${{ matrix.repository }}
+        uses: geoffreygarrett/conda-smithy-rerender@main
+        with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          repository: tudat-team/${{ matrix.repository }}-feedstock
+      - name: ${{ matrix.repository }}-repository-dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: tudat-team/.github
+          event-type: nightly on ${{ matrix.repository }}
+          client-payload: >-
+            {
+            "event": "nightly",
+            "actor": "${{ github.actor }}",
+            "repository": "${{ matrix.repository }}",
+            "ref": "",
+            "ref_name": "${{ matrix.branch }}",
+            "ref_type": "branch",
+            "sha": ""
+            }
