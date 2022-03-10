@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage, Activities Set for First Rollout of NASA’s Mega Moon Rocket](http://www.nasa.gov/press-release/coverage-activities-set-for-first-rollout-of-nasa-s-mega-moon-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T200400">2022-03-10 20:04:00 UTC</a></sub>
 * [NASA to Air Briefing, Spacewalks to Upgrade Space Station](http://www.nasa.gov/press-release/nasa-to-air-briefing-spacewalks-to-upgrade-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T161400">2022-03-10 16:14:00 UTC</a></sub>
 * [DoD space agency funds development of laser terminal that connects to multiple satellite at once](https://spacenews.com/dod-space-agency-funds-development-of-laser-terminal-that-connects-to-multiple-satellite-at-once/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T150408">2022-03-10 15:04:08 UTC</a></sub>
 * [Chinese official calls for protection of space assets, international coordination mechanisms](https://spacenews.com/chinese-official-calls-for-protection-of-space-assets-international-coordination-mechanisms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T140405">2022-03-10 14:04:05 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Voters block agreement for planned Georgia spaceport](https://spacenews.com/voters-block-agreement-for-planned-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T112406">2022-03-10 11:24:06 UTC</a></sub>
 * [UK bans space-related exports to Russia](https://spacenews.com/uk-bans-space-related-exports-to-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T173406">2022-03-09 17:34:06 UTC</a></sub>
 * [Canada answers Ukraine’s call for satellite radar imagery](https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T145406">2022-03-09 14:54:06 UTC</a></sub>
-* [Congress finally delivers a budget, and NASA gets most of what it wants](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T193234">2022-03-10 19:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T200856">2022-03-10 20:08:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
