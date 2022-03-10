@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Another Day in Action](https://www.planetary.org/articles/2022-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T203423">2022-03-10 20:34:23 UTC</a></sub>
 * [How we test spacecraft before launch](https://www.planetary.org/articles/how-we-test-spacecraft-before-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T150418">2022-03-09 15:04:18 UTC</a></sub>
 * [R/S RocketShip: Meet the special ship that brings ULA rockets to the launch site](https://blog.ulalaunch.com/blog/r/s-rocketship-meet-the-special-ship-that-brings-ula-rockets-to-the-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T144430">2022-03-08 14:44:30 UTC</a></sub>
 * [A fascination with Europa](https://www.planetary.org/articles/a-fascination-with-europa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153424">2022-03-07 15:34:24 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The best space pictures from the Voyager 1 and 2 missions](https://www.planetary.org/articles/best-space-pictures-nasa-voyager-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T150420">2022-03-03 15:04:20 UTC</a></sub>
 * [Day of Action 2022: International Action](https://www.planetary.org/advocacy/day-of-action-2022-international-action) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T192403">2022-03-02 19:24:03 UTC</a></sub>
 * [Pioneer 10 and 11, outer solar system explorers](https://www.planetary.org/space-missions/pioneer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T150402">2022-03-02 15:04:02 UTC</a></sub>
-* [GOES-T: ULA successfully launches Atlas V](https://blog.ulalaunch.com/blog/sbirs-geo-flight-5-ula-successfully-launches-atlas-v-0-0-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T014415">2022-03-01 01:44:15 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T203524">2022-03-10 20:35:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T210715">2022-03-10 21:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
