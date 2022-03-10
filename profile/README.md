@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX rapidly reuses converted Falcon Heavy booster](https://www.teslarati.com/spacex-starlink-launch-falcon-heavy-booster-reuse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T120422">2022-03-10 12:04:22 UTC</a></sub>
+* [Voters block agreement for planned Georgia spaceport](https://spacenews.com/voters-block-agreement-for-planned-georgia-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T112406">2022-03-10 11:24:06 UTC</a></sub>
 * [UK bans space-related exports to Russia](https://spacenews.com/uk-bans-space-related-exports-to-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T173406">2022-03-09 17:34:06 UTC</a></sub>
 * [Canada answers Ukraine’s call for satellite radar imagery](https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T145406">2022-03-09 14:54:06 UTC</a></sub>
 * [Congress finally delivers a budget, and NASA gets most of what it wants](https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T132230">2022-03-09 13:22:30 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Schedule tight for June launch of first Momentus tug](https://spacenews.com/schedule-tight-for-june-launch-of-first-momentus-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T004405">2022-03-09 00:44:05 UTC</a></sub>
 * [Space programs moving up on DoD’s budget priority list](https://spacenews.com/space-programs-moving-up-on-dods-list-of-budget-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T003407">2022-03-09 00:34:07 UTC</a></sub>
 * [SatixFy to go public through latest space SPAC deal](https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T232405">2022-03-08 23:24:05 UTC</a></sub>
-* [U.S. intelligence report: Multinational efforts needed to prevent wars in space](https://spacenews.com/u-s-intelligence-report-multinational-efforts-needed-to-prevent-wars-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T230406">2022-03-08 23:04:06 UTC</a></sub>
-* [Iran’s military successfully launches satellite](https://spaceflightnow.com/2022/03/08/irans-military-successfully-launches-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T221403">2022-03-08 22:14:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T113228">2022-03-10 11:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T121323">2022-03-10 12:13:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
