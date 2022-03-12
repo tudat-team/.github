@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Bahrain joins Artemis Accords](https://spacenews.com/bahrain-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T123407">2022-03-12 12:34:07 UTC</a></sub>
 * [AST SpaceMobile books more SpaceX rides months after canceling Soyuz reservation](https://spacenews.com/ast-spacemobile-books-more-spacex-rides-months-after-canceling-soyuz-reservation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T225406">2022-03-11 22:54:06 UTC</a></sub>
 * [Boeing Starliner test flight next on ULA’s launch schedule](https://spaceflightnow.com/2022/03/11/boeing-starliner-test-flight-next-on-ulas-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T203403">2022-03-11 20:34:03 UTC</a></sub>
 * [No, Russia has not threatened to leave an American astronaut behind in space](https://arstechnica.com/science/2022/03/after-two-weeks-of-war-the-international-space-station-flies-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T193807">2022-03-11 19:38:07 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astrolab unveils Artemis lunar rover design](https://spacenews.com/astrolab-unveils-artemis-lunar-rover-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T234406">2022-03-10 23:44:06 UTC</a></sub>
 * [SpaceX’s first 33-engine Super Heavy booster reaches full height](https://www.teslarati.com/spacex-super-heavy-33-engine-prototype-stacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T224425">2022-03-10 22:44:25 UTC</a></sub>
 * [Soyuz embargo strands satellites with limited launch options](https://spacenews.com/soyuz-orphans-draft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T214408">2022-03-10 21:44:08 UTC</a></sub>
-* [Coverage, Activities Set for First Rollout of NASA’s Mega Moon Rocket](http://www.nasa.gov/press-release/coverage-activities-set-for-first-rollout-of-nasa-s-mega-moon-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T200400">2022-03-10 20:04:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T121213">2022-03-12 12:12:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T125059">2022-03-12 12:50:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
