@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ingenuity still “as good as new” after nearly a year on Mars](https://spacenews.com/ingenuity-still-as-good-as-new-after-nearly-a-year-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T143408">2022-03-12 14:34:08 UTC</a></sub>
 * [Bahrain joins Artemis Accords](https://spacenews.com/bahrain-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T123407">2022-03-12 12:34:07 UTC</a></sub>
 * [AST SpaceMobile books more SpaceX rides months after canceling Soyuz reservation](https://spacenews.com/ast-spacemobile-books-more-spacex-rides-months-after-canceling-soyuz-reservation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T225406">2022-03-11 22:54:06 UTC</a></sub>
 * [Boeing Starliner test flight next on ULA’s launch schedule](https://spaceflightnow.com/2022/03/11/boeing-starliner-test-flight-next-on-ulas-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T203403">2022-03-11 20:34:03 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Report: Ariane 6 workers are “hyperstressed,” SpaceX retort to Rogozin](https://arstechnica.com/science/2022/03/rocket-report-ariane-6-workers-are-hyperstressed-spacex-retort-to-rogozin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T120022">2022-03-11 12:00:22 UTC</a></sub>
 * [Astrolab unveils Artemis lunar rover design](https://spacenews.com/astrolab-unveils-artemis-lunar-rover-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T234406">2022-03-10 23:44:06 UTC</a></sub>
 * [SpaceX’s first 33-engine Super Heavy booster reaches full height](https://www.teslarati.com/spacex-super-heavy-33-engine-prototype-stacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T224425">2022-03-10 22:44:25 UTC</a></sub>
-* [Soyuz embargo strands satellites with limited launch options](https://spacenews.com/soyuz-orphans-draft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T214408">2022-03-10 21:44:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T143327">2022-03-12 14:33:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T150754">2022-03-12 15:07:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
