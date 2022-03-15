@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Agile supplies thrusters for Astrobotic, ispace and Masten lunar landers](https://spacenews.com/agile-space-industries-lunar-lander-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T231800">2022-03-14 23:18:00 UTC</a></sub>
 * [SpaceX drone ship leaves port for sixth back-to-back Starlink launch](https://www.teslarati.com/spacex-drone-ship-departure-fifth-back-to-back-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T225820">2022-03-14 22:58:20 UTC</a></sub>
 * [DoD decommissions two missile-tracking satellites after 12 years in orbit](https://spacenews.com/dod-decommissions-two-missile-tracking-satellites-after-12-years-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T225759">2022-03-14 22:57:59 UTC</a></sub>
 * [Launch of U.S. Space Force missile-warning satellite delayed indefinitely](https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T212801">2022-03-14 21:28:01 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Discuss Progress as Webb Telescope’s Mirrors Align](http://www.nasa.gov/press-release/nasa-to-discuss-progress-as-webb-telescope-s-mirrors-align) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162900">2022-03-14 16:29:00 UTC</a></sub>
 * [Astra scrubs return to flight mission for weather](https://www.nasaspaceflight.com/2022/03/astra-return-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T133359">2022-03-14 13:33:59 UTC</a></sub>
 * [Astra gears up for next launch, signs Spaceflight contract](https://spacenews.com/astra-gears-up-for-next-launch-signs-spaceflight-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T130422">2022-03-14 13:04:22 UTC</a></sub>
-* [SpaceX Falcon Heavy booster spotted at Kennedy Space Center](https://www.teslarati.com/spacex-falcon-heavy-launch-delays-booster-appearance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T111427">2022-03-14 11:14:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T233523">2022-03-14 23:35:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T003335">2022-03-15 00:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
