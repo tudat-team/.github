@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully](http://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T153800">2022-03-16 15:38:00 UTC</a></sub>
 * [NASA’s plant-growing technology could be used to produce food at military bases](https://spacenews.com/nasas-plant-growing-technology-could-be-used-to-produce-food-at-military-bases/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T140759">2022-03-16 14:07:59 UTC</a></sub>
 * [NASA Mourns Passing of Visionary Heliophysicist Eugene Parker](http://www.nasa.gov/press-release/nasa-mourns-passing-of-visionary-heliophysicist-eugene-parker) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T135800">2022-03-16 13:58:00 UTC</a></sub>
 * [SpaceX rapidly stacks Starship and Super Heavy with ‘Mechazilla’](https://www.teslarati.com/spacex-starship-super-heavy-full-stack-round-three/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110823">2022-03-16 11:08:23 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DoD estimates $2.5 billion price tag for global constellation to track hypersonic missiles](https://spacenews.com/dod-estimates-2-5-billion-price-tag-for-global-constellation-to-track-hypersonic-missiles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T190759">2022-03-15 19:07:59 UTC</a></sub>
 * [Astra’s Rocket 3.3 returns to flight with successful launch](https://spacenews.com/astras-rocket-3-3-returns-to-flight-with-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T181758">2022-03-15 18:17:58 UTC</a></sub>
 * [Kymeta secures $84 million to scale up antenna production](https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160759">2022-03-15 16:07:59 UTC</a></sub>
-* [Astra launches first successful mission with operational satellites](https://spaceflightnow.com/2022/03/15/astra-launches-first-successful-mission-with-operational-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T145755">2022-03-15 14:57:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T150814">2022-03-16 15:08:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T153825">2022-03-16 15:38:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
