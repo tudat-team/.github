@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Mourns Passing of Visionary Heliophysicist Eugene Parker](http://www.nasa.gov/press-release/nasa-mourns-passing-of-visionary-heliophysicist-eugene-parker) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T135800">2022-03-16 13:58:00 UTC</a></sub>
 * [SpaceX rapidly stacks Starship and Super Heavy with ‘Mechazilla’](https://www.teslarati.com/spacex-starship-super-heavy-full-stack-round-three/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110823">2022-03-16 11:08:23 UTC</a></sub>
 * [Spire to build space situational awareness satellites for NorthStar](https://spacenews.com/spire-to-build-space-situational-awareness-satellites-for-northstar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T110759">2022-03-16 11:07:59 UTC</a></sub>
 * [Astronauts prep for new solar arrays on nearly seven-hour spacewalk](https://spaceflightnow.com/2022/03/15/iss-us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T220755">2022-03-15 22:07:55 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Kymeta secures $84 million to scale up antenna production](https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T160759">2022-03-15 16:07:59 UTC</a></sub>
 * [Ukrainian space industry players continue work, eye European projects amid war](https://spacenews.com/ukrainian-space-industry-players-continue-work-eye-european-projects-amid-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T125759">2022-03-15 12:57:59 UTC</a></sub>
 * [ISS astronauts complete spacewalk as busy period of station operations begins](https://www.nasaspaceflight.com/2022/03/us-eva-79/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T121445">2022-03-15 12:14:45 UTC</a></sub>
-* [NASA ready to roll out SLS](https://spacenews.com/nasa-ready-to-roll-out-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T114759">2022-03-15 11:47:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T133625">2022-03-16 13:36:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T140729">2022-03-16 14:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
