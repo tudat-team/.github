@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Perseverance Rover Hightails It to Martian Delta](https://mars.nasa.gov/news/9149/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T161400">2022-03-18 16:14:00 UTC</a></sub>
 * [NASA’s Mega Moon Rocket, Spacecraft Complete First Roll to Launch Pad](http://www.nasa.gov/press-release/nasa-s-mega-moon-rocket-spacecraft-complete-first-roll-to-launch-pad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T132400">2022-03-18 13:24:00 UTC</a></sub>
 * [Poland, Virgin Orbit partner on Eastern Europe satellite launch initiative](https://spacenews.com/poland-virgin-orbit-partner-on-eastern-europe-launch-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T131420">2022-03-18 13:14:20 UTC</a></sub>
 * [Russia launches first all-Roscosmos cosmonaut mission to station](https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T115955">2022-03-18 11:59:55 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to launch reusable booster for record 12th time](https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T060755">2022-03-18 06:07:55 UTC</a></sub>
 * [Orbit Fab gets $12 million to integrate refueling port with military satellites](https://spacenews.com/orbit-fab-gets-12-million-to-integrate-refueling-port-with-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T221801">2022-03-17 22:18:01 UTC</a></sub>
 * [International talks on space norms to continue but U.S. will not engage directly with Russia](https://spacenews.com/international-talks-on-space-norms-will-continue-but-u-s-will-not-engage-directly-with-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T195759">2022-03-17 19:57:59 UTC</a></sub>
-* [NASA moon rocket SLS rolls out to “rebuilt” LC-39B ahead of Artemis 1 rehearsal](https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173440">2022-03-17 17:34:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T161056">2022-03-18 16:10:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T165221">2022-03-18 16:52:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
