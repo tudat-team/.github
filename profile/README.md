@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telesat mulls downsizing delayed LEO plan as costs mount](https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T223421">2022-03-18 22:34:21 UTC</a></sub>
 * [Another startup joins race to provide high-speed lunar communications](https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T194420">2022-03-18 19:44:20 UTC</a></sub>
 * [It’s huge, expensive, and years late—but the SLS rocket is finally here](https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T170158">2022-03-18 17:01:58 UTC</a></sub>
 * [NASA's Perseverance Rover Hightails It to Martian Delta](https://mars.nasa.gov/news/9149/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T161400">2022-03-18 16:14:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX set to break another Falcon 9 reusability record [webcast]](https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T111444">2022-03-18 11:14:44 UTC</a></sub>
 * [China is developing new solid rockets to boost overall space capabilities](https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T094759">2022-03-18 09:47:59 UTC</a></sub>
 * [SLS rolls out to pad for countdown test](https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T090759">2022-03-18 09:07:59 UTC</a></sub>
-* [SpaceX to launch reusable booster for record 12th time](https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T060755">2022-03-18 06:07:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T223553">2022-03-18 22:35:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T230818">2022-03-18 23:08:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
