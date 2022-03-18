@@ -559,7 +559,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to launch reusable booster for record 12th time](https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T060755">2022-03-18 06:07:55 UTC</a></sub>
 * [Orbit Fab gets $12 million to integrate refueling port with military satellites](https://spacenews.com/orbit-fab-gets-12-million-to-integrate-refueling-port-with-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T221801">2022-03-17 22:18:01 UTC</a></sub>
 * [International talks on space norms to continue but U.S. will not engage directly with Russia](https://spacenews.com/international-talks-on-space-norms-will-continue-but-u-s-will-not-engage-directly-with-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T195759">2022-03-17 19:57:59 UTC</a></sub>
-* [NASA moon rocket SLS ready for rollout to “rebuilt” LC-39B ahead of Artemis 1 rehearsal](https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173440">2022-03-17 17:34:40 UTC</a></sub>
+* [NASA moon rocket SLS rolls out to “rebuilt” LC-39B ahead of Artemis 1 rehearsal](https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173440">2022-03-17 17:34:40 UTC</a></sub>
 * [ESA suspends work with Russia on ExoMars mission](https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T152800">2022-03-17 15:28:00 UTC</a></sub>
 * [Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies](https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T130759">2022-03-17 13:07:59 UTC</a></sub>
 * [SpaceX tests fully stacked Starship rocket for the first time](https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T110821">2022-03-17 11:08:21 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T103814">2022-03-18 10:38:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T110659">2022-03-18 11:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
