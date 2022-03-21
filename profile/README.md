@@ -554,6 +554,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX severs ties with longtime partner Spaceflight Inc.](https://spacenews.com/spacex-severs-ties-with-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T215936">2022-03-21 21:59:36 UTC</a></sub>
+* [SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility](https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T211056">2022-03-21 21:10:56 UTC</a></sub>
+* [Focus for early-stage space companies turning to workforce challenges](https://spacenews.com/focus-for-early-stage-space-companies-turning-to-workforce-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T210940">2022-03-21 21:09:40 UTC</a></sub>
 * [Industry proposals sought for ‘cislunar highway patrol’ satellite](https://spacenews.com/industry-proposals-sought-for-cislunar-highway-patrol-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T204944">2022-03-21 20:49:44 UTC</a></sub>
 * [Starlink reaches 250,000 subscribers as it targets aviation and other markets](https://spacenews.com/starlink-reaches-250000-subscribers-as-it-targets-aviation-and-other-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T172940">2022-03-21 17:29:40 UTC</a></sub>
 * [James Webb teams successfully align mirror, commissioning continues](https://www.nasaspaceflight.com/2022/03/james-webb-align-mirror/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T162440">2022-03-21 16:24:40 UTC</a></sub>
@@ -561,9 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OneWeb turns to a competitor—SpaceX—to complete its constellation](https://arstechnica.com/science/2022/03/oneweb-turns-to-a-competitor-spacex-to-complete-its-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T143828">2022-03-21 14:38:28 UTC</a></sub>
 * [So how do Russian cosmonauts feel about Russia’s war on Ukraine?](https://arstechnica.com/science/2022/03/so-how-do-russian-cosmonauts-feel-about-russias-war-on-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T140039">2022-03-21 14:00:39 UTC</a></sub>
 * [OneWeb reaches launch deal with SpaceX](https://spacenews.com/oneweb-reaches-launch-deal-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T133949">2022-03-21 13:39:49 UTC</a></sub>
-* [Hope fading for recovery of European radar imaging satellite](https://spacenews.com/hope-fading-for-recovery-of-european-radar-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T093940">2022-03-21 09:39:40 UTC</a></sub>
-* [Plato exoplanet mission gets green light for next phase](https://www.esa.int/Science_Exploration/Space_Science/Plato_exoplanet_mission_gets_green_light_for_next_phase) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T080927">2022-03-21 08:09:27 UTC</a></sub>
-* [Cyber warfare gets real for satellite operators](https://spacenews.com/cyber-warfare-gets-real-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220320T225420">2022-03-20 22:54:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T213239">2022-03-21 21:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T220828">2022-03-21 22:08:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
