@@ -554,8 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Spacewalk underway for space station maintenance, upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T141917">2022-03-23 14:19:17 UTC</a></sub>
 * [Boeing eyes investment candidates at Satellite 2022](https://spacenews.com/boeing-satellite-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T133930">2022-03-23 13:39:30 UTC</a></sub>
-* [Spacewalk underway for space station maintenance, upgrades](https://spaceflightnow.com/2022/03/23/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T132921">2022-03-23 13:29:21 UTC</a></sub>
 * [Universal connectivity requires extensive collaboration](https://spacenews.com/ubiquitous-connectivity-satellite-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T130932">2022-03-23 13:09:32 UTC</a></sub>
 * [PSN orders Indonesia-focused satellite from Boeing for 2023 launch](https://spacenews.com/psn-orders-indonesia-focused-satellite-from-boeing-for-2023-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123913">2022-03-23 12:39:13 UTC</a></sub>
 * [ISS astronauts to perform final spacewalk of Expedition 66](https://www.nasaspaceflight.com/2022/03/us-eva-80/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T123527">2022-03-23 12:35:27 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T140744">2022-03-23 14:07:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T143251">2022-03-23 14:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
