@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force using Spire data to detect satellite jamming](https://spacenews.com/space-force-using-spire-data-to-detect-satellite-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T223926">2022-03-25 22:39:26 UTC</a></sub>
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T215000">2022-03-25 21:50:00 UTC</a></sub>
 * [Annual State of NASA Address, Media Budget Briefing Set for March 28](http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T211000">2022-03-25 21:10:00 UTC</a></sub>
 * [Hydrazine fueling operations underway for SLS booster steering system](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T194919">2022-03-25 19:49:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX frees up orbital launch site for upgraded Super Heavy booster](https://www.teslarati.com/spacex-starbase-upgraded-starship-prototypes-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T213032">2022-03-24 21:30:32 UTC</a></sub>
 * [NASA to Provide Live Coverage of Record-Setting US Astronaut Return](http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-record-setting-us-astronaut-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T195900">2022-03-24 19:59:00 UTC</a></sub>
 * [Panelists agree hiring remains the biggest challenge](https://spacenews.com/biggest-challenge-hiring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T194934">2022-03-24 19:49:34 UTC</a></sub>
-* [Accelerating satellite production timelines improving market health](https://spacenews.com/accelerating-satellite-production-timelines-improving-market-health/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T174935">2022-03-24 17:49:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T223616">2022-03-25 22:36:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T230802">2022-03-25 23:08:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
