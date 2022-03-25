@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Join the exoparty](https://www.planetary.org/the-downlink/join-the-exoparty) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T143016">2022-03-25 14:30:16 UTC</a></sub>
 * [Where are the moons that orbit exoplanets?](https://www.planetary.org/articles/where-are-moons-of-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T140049">2022-03-21 14:00:49 UTC</a></sub>
 * [Beyond the far side](https://www.planetary.org/the-downlink/beyond-the-far-side) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T143439">2022-03-18 14:34:39 UTC</a></sub>
 * [Announcing the First-Ever STEP Grant Winners: Citizen Science SETI and Determining Asteroid Properties](https://www.planetary.org/articles/step-grant-winners-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T142818">2022-03-16 14:28:18 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How we test spacecraft before launch](https://www.planetary.org/articles/how-we-test-spacecraft-before-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T150418">2022-03-09 15:04:18 UTC</a></sub>
 * [R/S RocketShip: Meet the special ship that brings ULA rockets to the launch site](https://blog.ulalaunch.com/blog/r/s-rocketship-meet-the-special-ship-that-brings-ula-rockets-to-the-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T144430">2022-03-08 14:44:30 UTC</a></sub>
 * [A fascination with Europa](https://www.planetary.org/articles/a-fascination-with-europa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153424">2022-03-07 15:34:24 UTC</a></sub>
-* [Your impact: March Equinox 2022](https://www.planetary.org/articles/your-impact-march-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220307T153422">2022-03-07 15:34:22 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T143331">2022-03-25 14:33:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T150808">2022-03-25 15:08:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
