@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [French startup raises funding to develop solar sails](https://spacenews.com/french-startup-raises-funding-to-develop-solar-sails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T225925">2022-03-26 22:59:25 UTC</a></sub>
 * [Intelsat rolls out network service that integrates Starlink and geostationary satellites](https://spacenews.com/intelsat-rolls-out-network-service-that-integrates-starlink-and-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T205931">2022-03-26 20:59:31 UTC</a></sub>
 * [Roman Space Telescope to search for other Earths by surveying space dust](https://www.nasaspaceflight.com/2022/03/roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T180209">2022-03-26 18:02:09 UTC</a></sub>
 * [FAA again delays completion of Starship environmental review](https://spacenews.com/faa-again-delays-completion-of-starship-environmental-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T164924">2022-03-26 16:49:24 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T215000">2022-03-25 21:50:00 UTC</a></sub>
 * [Annual State of NASA Address, Media Budget Briefing Set for March 28](http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T211000">2022-03-25 21:10:00 UTC</a></sub>
 * [Hydrazine loading operations conclude at the SLS launch pad](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T123925">2022-03-25 12:39:25 UTC</a></sub>
-* [SpaceX outfits Starship prototype with unique Starlink satellite dispenser](https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T111044">2022-03-25 11:10:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T223514">2022-03-26 22:35:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T230801">2022-03-26 23:08:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
