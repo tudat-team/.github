@@ -562,8 +562,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Hydrazine fueling operations underway for SLS booster steering system](https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T194919">2022-03-25 19:49:19 UTC</a></sub>
 * [SpaceX outfits Starship prototype with unique Starlink satellite dispenser](https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T111044">2022-03-25 11:10:44 UTC</a></sub>
 * [Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track](https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T110002">2022-03-25 11:00:02 UTC</a></sub>
-* [Northrop Grumman says customers are ‘lined up’ for on-orbit satellite servicing](https://spacenews.com/northrop-grumman-says-customers-are-lined-up-for-its-satellite-servicing-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T221931">2022-03-24 22:19:31 UTC</a></sub>
-* [SpaceX frees up orbital launch site for upgraded Super Heavy booster](https://www.teslarati.com/spacex-starbase-upgraded-starship-prototypes-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T213032">2022-03-24 21:30:32 UTC</a></sub>
+* [NASA gives priority to Artemis ground test over commercial astronaut launch](https://spaceflightnow.com/2022/03/25/nasa-gives-priority-to-artemis-ground-test-over-commercial-astronaut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T012916">2022-03-25 01:29:16 UTC</a></sub>
+* [SLS test could delay Crew Dragon launch](https://spacenews.com/sls-test-could-delay-crew-dragon-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T005939">2022-03-25 00:59:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T003526">2022-03-26 00:35:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T021436">2022-03-26 02:14:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
