@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FAA again delays completion of Starship environmental review](https://spacenews.com/faa-again-delays-completion-of-starship-environmental-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T164924">2022-03-26 16:49:24 UTC</a></sub>
 * [Terran Orbital stock cleared for trading on NYSE](https://spacenews.com/terran-orbital-merger-completed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T231935">2022-03-25 23:19:35 UTC</a></sub>
 * [Additional funding unlikely to accelerate commercial space station projects](https://spacenews.com/additional-funding-unlikely-to-accelerate-commercial-space-station-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T231935">2022-03-25 23:19:35 UTC</a></sub>
 * [Space Force using Spire data to detect satellite jamming](https://spacenews.com/space-force-using-spire-data-to-detect-satellite-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T223926">2022-03-25 22:39:26 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX outfits Starship prototype with unique Starlink satellite dispenser](https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T111044">2022-03-25 11:10:44 UTC</a></sub>
 * [Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track](https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T110002">2022-03-25 11:00:02 UTC</a></sub>
 * [SpaceX’s new Dragon spaceship named ‘Freedom’](https://spaceflightnow.com/2022/03/25/spacexs-new-dragon-spaceship-named-freedom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T054920">2022-03-25 05:49:20 UTC</a></sub>
-* [NASA gives priority to Artemis ground test over commercial astronaut launch](https://spaceflightnow.com/2022/03/25/nasa-gives-priority-to-artemis-ground-test-over-commercial-astronaut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T012916">2022-03-25 01:29:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T160935">2022-03-26 16:09:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T164930">2022-03-26 16:49:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
