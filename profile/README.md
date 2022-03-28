@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [If funded, NASA’s budget request removes excuses for further Artemis delays](https://arstechnica.com/science/2022/03/if-funded-nasas-budget-request-removes-excuses-for-further-artemis-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T224533">2022-03-28 22:45:33 UTC</a></sub>
 * [Declaración del administrador de la NASA sobre la solicitud de presupuesto del presidente para el año fiscal 2023](http://www.nasa.gov/press-release/declaraci-n-del-administrador-de-la-nasa-sobre-la-solicitud-de-presupuesto-del) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T181000">2022-03-28 18:10:00 UTC</a></sub>
 * [NASA Administrator Statement on President’s FY 2023 Budget Request](http://www.nasa.gov/press-release/nasa-administrator-statement-on-presidents-fy-2023-budget-request) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T180000">2022-03-28 18:00:00 UTC</a></sub>
 * [Biden’s 2023 defense budget adds billions for U.S. Space Force](https://spacenews.com/bidens-2023-defense-budget-adds-billions-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T173934">2022-03-28 17:39:34 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Provide Updates, Coverage for Final Test Ahead of Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-updates-coverage-for-final-test-ahead-of-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T142000">2022-03-28 14:20:00 UTC</a></sub>
 * [SpaceX’s Starbase environmental review suffers third delay](https://www.teslarati.com/spacex-starbase-faa-environmental-review-third-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T110013">2022-03-28 11:00:13 UTC</a></sub>
 * [Solar Orbiter successfully completes historic close pass of the Sun](https://www.nasaspaceflight.com/2022/03/solar-orbiter-close-pass/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220327T161630">2022-03-27 16:16:30 UTC</a></sub>
-* [NASA to delay Mars Sample Return, switch to dual-lander approach](https://spacenews.com/nasa-to-delay-mars-sample-return-switch-to-dual-lander-approach/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220327T004934">2022-03-27 00:49:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T223627">2022-03-28 22:36:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T230807">2022-03-28 23:08:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
