@@ -554,6 +554,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Declaración del administrador de la NASA sobre la solicitud de presupuesto del presidente para el año fiscal 2023](http://www.nasa.gov/press-release/declaraci-n-del-administrador-de-la-nasa-sobre-la-solicitud-de-presupuesto-del) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T181000">2022-03-28 18:10:00 UTC</a></sub>
+* [NASA Administrator Statement on President’s FY 2023 Budget Request](http://www.nasa.gov/press-release/nasa-administrator-statement-on-presidents-fy-2023-budget-request) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T180000">2022-03-28 18:00:00 UTC</a></sub>
+* [Biden’s 2023 defense budget adds billions for U.S. Space Force](https://spacenews.com/bidens-2023-defense-budget-adds-billions-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T173934">2022-03-28 17:39:34 UTC</a></sub>
 * [SES orders software-defined replacement satellite from Thales](https://spacenews.com/ses-orders-software-defined-replacement-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T165929">2022-03-28 16:59:29 UTC</a></sub>
 * [“Missile Row” pads at Cape Canaveral returning to action](https://www.nasaspaceflight.com/2022/03/cape-canaveral-missile-row/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T161521">2022-03-28 16:15:21 UTC</a></sub>
 * [White House requests $26 billion for NASA for 2023](https://spacenews.com/white-house-requests-26-billion-for-nasa-for-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T155932">2022-03-28 15:59:32 UTC</a></sub>
@@ -561,9 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX’s Starbase environmental review suffers third delay](https://www.teslarati.com/spacex-starbase-faa-environmental-review-third-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T110013">2022-03-28 11:00:13 UTC</a></sub>
 * [Solar Orbiter successfully completes historic close pass of the Sun](https://www.nasaspaceflight.com/2022/03/solar-orbiter-close-pass/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220327T161630">2022-03-27 16:16:30 UTC</a></sub>
 * [NASA to delay Mars Sample Return, switch to dual-lander approach](https://spacenews.com/nasa-to-delay-mars-sample-return-switch-to-dual-lander-approach/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220327T004934">2022-03-27 00:49:34 UTC</a></sub>
-* [French startup raises funding to develop solar sails](https://spacenews.com/french-startup-raises-funding-to-develop-solar-sails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T225925">2022-03-26 22:59:25 UTC</a></sub>
-* [Intelsat rolls out network service that integrates Starlink and geostationary satellites](https://spacenews.com/intelsat-rolls-out-network-service-that-integrates-starlink-and-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T205931">2022-03-26 20:59:31 UTC</a></sub>
-* [Roman Space Telescope to search for other Earths by surveying space dust](https://www.nasaspaceflight.com/2022/03/roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T180209">2022-03-26 18:02:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T173752">2022-03-28 17:37:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T181020">2022-03-28 18:10:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
