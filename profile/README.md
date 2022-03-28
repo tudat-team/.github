@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SES orders software-defined replacement satellite from Thales](https://spacenews.com/ses-orders-software-defined-replacement-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T165929">2022-03-28 16:59:29 UTC</a></sub>
 * [“Missile Row” pads at Cape Canaveral returning to action](https://www.nasaspaceflight.com/2022/03/cape-canaveral-missile-row/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T161521">2022-03-28 16:15:21 UTC</a></sub>
 * [White House requests $26 billion for NASA for 2023](https://spacenews.com/white-house-requests-26-billion-for-nasa-for-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T155932">2022-03-28 15:59:32 UTC</a></sub>
 * [NASA to Provide Updates, Coverage for Final Test Ahead of Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-updates-coverage-for-final-test-ahead-of-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T142000">2022-03-28 14:20:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [French startup raises funding to develop solar sails](https://spacenews.com/french-startup-raises-funding-to-develop-solar-sails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T225925">2022-03-26 22:59:25 UTC</a></sub>
 * [Intelsat rolls out network service that integrates Starlink and geostationary satellites](https://spacenews.com/intelsat-rolls-out-network-service-that-integrates-starlink-and-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T205931">2022-03-26 20:59:31 UTC</a></sub>
 * [Roman Space Telescope to search for other Earths by surveying space dust](https://www.nasaspaceflight.com/2022/03/roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T180209">2022-03-26 18:02:09 UTC</a></sub>
-* [FAA again delays completion of Starship environmental review](https://spacenews.com/faa-again-delays-completion-of-starship-environmental-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T164924">2022-03-26 16:49:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T171124">2022-03-28 17:11:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T173752">2022-03-28 17:37:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
