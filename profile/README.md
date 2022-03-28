@@ -555,6 +555,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Solar Orbiter successfully completes historic close pass of the Sun](https://www.nasaspaceflight.com/2022/03/solar-orbiter-close-pass/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220327T161630">2022-03-27 16:16:30 UTC</a></sub>
+* [NASA to delay Mars Sample Return, switch to dual-lander approach](https://spacenews.com/nasa-to-delay-mars-sample-return-switch-to-dual-lander-approach/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220327T004934">2022-03-27 00:49:34 UTC</a></sub>
 * [French startup raises funding to develop solar sails](https://spacenews.com/french-startup-raises-funding-to-develop-solar-sails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T225925">2022-03-26 22:59:25 UTC</a></sub>
 * [Intelsat rolls out network service that integrates Starlink and geostationary satellites](https://spacenews.com/intelsat-rolls-out-network-service-that-integrates-starlink-and-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T205931">2022-03-26 20:59:31 UTC</a></sub>
 * [Roman Space Telescope to search for other Earths by surveying space dust](https://www.nasaspaceflight.com/2022/03/roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T180209">2022-03-26 18:02:09 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Additional funding unlikely to accelerate commercial space station projects](https://spacenews.com/additional-funding-unlikely-to-accelerate-commercial-space-station-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T231935">2022-03-25 23:19:35 UTC</a></sub>
 * [Space Force using Spire data to detect satellite jamming](https://spacenews.com/space-force-using-spire-data-to-detect-satellite-jamming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T223926">2022-03-25 22:39:26 UTC</a></sub>
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T215000">2022-03-25 21:50:00 UTC</a></sub>
-* [Annual State of NASA Address, Media Budget Briefing Set for March 28](http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T211000">2022-03-25 21:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T003504">2022-03-28 00:35:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T022703">2022-03-28 02:27:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
