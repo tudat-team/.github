@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Synspective raises $100 million Series B round](https://spacenews.com/synspective-raises-100-million-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T110922">2022-03-29 11:09:22 UTC</a></sub>
+* [SpaceX gears up for busiest April yet](https://www.teslarati.com/spacex-april-2022-falcon-9-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T110022">2022-03-29 11:00:22 UTC</a></sub>
 * [No more excuses: NASA in line to get funding needed for Artemis plan](https://arstechnica.com/science/2022/03/if-funded-nasas-budget-request-removes-excuses-for-further-artemis-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T224533">2022-03-28 22:45:33 UTC</a></sub>
 * [Declaración del administrador de la NASA sobre la solicitud de presupuesto del presidente para el año fiscal 2023](http://www.nasa.gov/press-release/declaraci-n-del-administrador-de-la-nasa-sobre-la-solicitud-de-presupuesto-del) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T181000">2022-03-28 18:10:00 UTC</a></sub>
 * [NASA Administrator Statement on President’s FY 2023 Budget Request](http://www.nasa.gov/press-release/nasa-administrator-statement-on-presidents-fy-2023-budget-request) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T180000">2022-03-28 18:00:00 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [“Missile Row” pads at Cape Canaveral returning to action](https://www.nasaspaceflight.com/2022/03/cape-canaveral-missile-row/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T161521">2022-03-28 16:15:21 UTC</a></sub>
 * [White House requests $26 billion for NASA for 2023](https://spacenews.com/white-house-requests-26-billion-for-nasa-for-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T155932">2022-03-28 15:59:32 UTC</a></sub>
 * [NASA to Provide Updates, Coverage for Final Test Ahead of Moon Mission](http://www.nasa.gov/press-release/nasa-to-provide-updates-coverage-for-final-test-ahead-of-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T142000">2022-03-28 14:20:00 UTC</a></sub>
-* [SpaceX’s Starbase environmental review suffers third delay](https://www.teslarati.com/spacex-starbase-faa-environmental-review-third-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T110013">2022-03-28 11:00:13 UTC</a></sub>
-* [White House requests $26 billion for NASA in ’23, adds funds for second moon lander](https://spaceflightnow.com/2022/03/28/white-house-requests-26-billion-for-nasa-in-2023-including-funds-for-second-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T022922">2022-03-28 02:29:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T104608">2022-03-29 10:46:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T112355">2022-03-29 11:23:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
