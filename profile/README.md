@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin signs deal to use SpiderOak cybersecurity to protect satellite networks](https://spacenews.com/lockheed-martin-signs-deal-to-use-spideroak-cybersecurity-to-protect-satellite-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T190929">2022-03-29 19:09:29 UTC</a></sub>
 * [Singapore signs the Artemis Accords](https://spacenews.com/singapore-signs-the-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T133920">2022-03-29 13:39:20 UTC</a></sub>
 * [Impulse Space is betting on a future where launch is cheap](https://arstechnica.com/science/2022/03/impulse-space-is-betting-on-a-future-where-launch-is-cheap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T130018">2022-03-29 13:00:18 UTC</a></sub>
 * [China launches first Long March rocket with solid boosters](https://spacenews.com/china-launches-first-long-march-rocket-with-solid-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T122929">2022-03-29 12:29:29 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Declaración del administrador de la NASA sobre la solicitud de presupuesto del presidente para el año fiscal 2023](http://www.nasa.gov/press-release/declaraci-n-del-administrador-de-la-nasa-sobre-la-solicitud-de-presupuesto-del) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T181000">2022-03-28 18:10:00 UTC</a></sub>
 * [NASA Administrator Statement on President’s FY 2023 Budget Request](http://www.nasa.gov/press-release/nasa-administrator-statement-on-presidents-fy-2023-budget-request) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T180000">2022-03-28 18:00:00 UTC</a></sub>
 * [Biden’s 2023 defense budget adds billions for U.S. Space Force](https://spacenews.com/bidens-2023-defense-budget-adds-billions-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T173934">2022-03-28 17:39:34 UTC</a></sub>
-* [SES orders software-defined replacement satellite from Thales](https://spacenews.com/ses-orders-software-defined-replacement-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T165929">2022-03-28 16:59:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T190701">2022-03-29 19:07:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T193237">2022-03-29 19:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
