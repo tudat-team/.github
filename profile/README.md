@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pixxel raises $25 million for hyperspectral imaging constellation](https://spacenews.com/pixxel-raises-25-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T215928">2022-03-29 21:59:28 UTC</a></sub>
 * [NASA contracts SpaceX for a second crewed Starship Moon landing](https://www.teslarati.com/spacex-nasa-starship-moon-lander-new-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T195044">2022-03-29 19:50:44 UTC</a></sub>
 * [NASA Names Winners of Lunar Robotics Design Contest](http://www.nasa.gov/press-release/nasa-names-winners-of-lunar-robotics-design-contest) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T195000">2022-03-29 19:50:00 UTC</a></sub>
 * [Lockheed Martin signs deal to use SpiderOak cybersecurity to protect satellite networks](https://spacenews.com/lockheed-martin-signs-deal-to-use-spideroak-cybersecurity-to-protect-satellite-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T190929">2022-03-29 19:09:29 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Synspective raises $100 million Series B round](https://spacenews.com/synspective-raises-100-million-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T110922">2022-03-29 11:09:22 UTC</a></sub>
 * [SpaceX gears up for busiest April yet](https://www.teslarati.com/spacex-april-2022-falcon-9-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T110022">2022-03-29 11:00:22 UTC</a></sub>
 * [No more excuses: NASA in line to get funding needed for Artemis plan](https://arstechnica.com/science/2022/03/if-funded-nasas-budget-request-removes-excuses-for-further-artemis-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T224533">2022-03-28 22:45:33 UTC</a></sub>
-* [Declaración del administrador de la NASA sobre la solicitud de presupuesto del presidente para el año fiscal 2023](http://www.nasa.gov/press-release/declaraci-n-del-administrador-de-la-nasa-sobre-la-solicitud-de-presupuesto-del) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T181000">2022-03-28 18:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T213425">2022-03-29 21:34:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T220803">2022-03-29 22:08:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
