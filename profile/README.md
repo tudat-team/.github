@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Singapore signs the Artemis Accords](https://spacenews.com/singapore-signs-the-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T133920">2022-03-29 13:39:20 UTC</a></sub>
+* [Impulse Space is betting on a future where launch is cheap](https://arstechnica.com/science/2022/03/impulse-space-is-betting-on-a-future-where-launch-is-cheap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T130018">2022-03-29 13:00:18 UTC</a></sub>
 * [China launches first Long March rocket with solid boosters](https://spacenews.com/china-launches-first-long-march-rocket-with-solid-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T122929">2022-03-29 12:29:29 UTC</a></sub>
 * [Synspective raises $100 million Series B round](https://spacenews.com/synspective-raises-100-million-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T110922">2022-03-29 11:09:22 UTC</a></sub>
 * [SpaceX gears up for busiest April yet](https://www.teslarati.com/spacex-april-2022-falcon-9-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T110022">2022-03-29 11:00:22 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Administrator Statement on President’s FY 2023 Budget Request](http://www.nasa.gov/press-release/nasa-administrator-statement-on-presidents-fy-2023-budget-request) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T180000">2022-03-28 18:00:00 UTC</a></sub>
 * [Biden’s 2023 defense budget adds billions for U.S. Space Force](https://spacenews.com/bidens-2023-defense-budget-adds-billions-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T173934">2022-03-28 17:39:34 UTC</a></sub>
 * [SES orders software-defined replacement satellite from Thales](https://spacenews.com/ses-orders-software-defined-replacement-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T165929">2022-03-28 16:59:29 UTC</a></sub>
-* [“Missile Row” pads at Cape Canaveral returning to action](https://www.nasaspaceflight.com/2022/03/cape-canaveral-missile-row/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T161521">2022-03-28 16:15:21 UTC</a></sub>
-* [White House requests $26 billion for NASA for 2023](https://spacenews.com/white-house-requests-26-billion-for-nasa-for-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T155932">2022-03-28 15:59:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T132519">2022-03-29 13:25:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T134142">2022-03-29 13:41:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>

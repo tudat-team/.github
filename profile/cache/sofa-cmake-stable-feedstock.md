@@ -79,16 +79,41 @@ conda config --add channels tudat-team
 conda config --set channel_priority strict
 ```
 
-Once the `tudat-team` channel has been enabled, `sofa-cmake` can be installed with:
+Once the `tudat-team` channel has been enabled, `sofa-cmake` can be installed with `conda`:
 
 ```
 conda install sofa-cmake
 ```
 
-It is possible to list all of the versions of `sofa-cmake` available on your platform with:
+or with `mamba`:
+
+```
+mamba install sofa-cmake
+```
+
+It is possible to list all of the versions of `sofa-cmake` available on your platform with `conda`:
 
 ```
 conda search sofa-cmake --channel tudat-team
+```
+
+or with `mamba`:
+
+```
+mamba search sofa-cmake --channel tudat-team
+```
+
+Alternatively, `mamba repoquery` may provide more information:
+
+```
+# Search all versions available on your platform:
+mamba repoquery search sofa-cmake --channel tudat-team
+
+# List packages depending on `sofa-cmake`:
+mamba repoquery whoneeds sofa-cmake --channel tudat-team
+
+# List dependencies of `sofa-cmake`:
+mamba repoquery depends sofa-cmake --channel tudat-team
 ```
 
 
