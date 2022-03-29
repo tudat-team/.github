@@ -23,7 +23,7 @@ jobs:
       - id: Rerender
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          token: ${{ secrets.WORKFLOW_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           repository: tudat-team/${{ matrix.repository }}-feedstock
       - name: Inform
         uses: peter-evans/repository-dispatch@v1
@@ -54,7 +54,7 @@ jobs:
       - id: Rerender
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          token: ${{ secrets.WORKFLOW_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           repository: tudat-team/${{ matrix.repository }}-feedstock
       - name: Inform
         uses: peter-evans/repository-dispatch@v1
@@ -85,7 +85,7 @@ jobs:
       - id: Rerender
         uses: geoffreygarrett/conda-smithy-rerender@main
         with:
-          token: ${{ secrets.WORKFLOW_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           repository: tudat-team/${{ matrix.repository }}-feedstock
       - name: Inform
         uses: peter-evans/repository-dispatch@v1
