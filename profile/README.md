@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to launch Einstein Probe in 2023 to observe destructive cosmic events](https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T105913">2022-03-30 10:59:13 UTC</a></sub>
 * [NASA ready for high-stakes, low-profile SLS test](https://spacenews.com/nasa-ready-for-high-stakes-low-profile-sls-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T234935">2022-03-29 23:49:35 UTC</a></sub>
 * [Soyuz MS-19 to land in Kazakhstan amid tense U.S.-Russian relations](https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T221229">2022-03-29 22:12:29 UTC</a></sub>
 * [Pixxel raises $25 million for hyperspectral imaging constellation](https://spacenews.com/pixxel-raises-25-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T215928">2022-03-29 21:59:28 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Singapore signs the Artemis Accords](https://spacenews.com/singapore-signs-the-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T133920">2022-03-29 13:39:20 UTC</a></sub>
 * [Impulse Space is betting on a future where launch is cheap](https://arstechnica.com/science/2022/03/impulse-space-is-betting-on-a-future-where-launch-is-cheap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T130018">2022-03-29 13:00:18 UTC</a></sub>
 * [China launches first Long March rocket with solid boosters](https://spacenews.com/china-launches-first-long-march-rocket-with-solid-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T122929">2022-03-29 12:29:29 UTC</a></sub>
-* [Synspective raises $100 million Series B round](https://spacenews.com/synspective-raises-100-million-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T110922">2022-03-29 11:09:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T103819">2022-03-30 10:38:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T110650">2022-03-30 11:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
