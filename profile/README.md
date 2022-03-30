@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Jeff Matthews joins Radian Aerospace as director of strategy](https://spacenews.com/mattews-joins-radian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130913">2022-03-30 13:09:13 UTC</a></sub>
+* [A NASA astronaut just landed in a Russian spacecraft, and all is well](https://arstechnica.com/science/2022/03/a-nasa-astronaut-just-landed-in-a-russian-spacecraft-and-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130420">2022-03-30 13:04:20 UTC</a></sub>
 * [Soyuz returns astronaut and cosmonauts from space station](https://spacenews.com/soyuz-returns-astronaut-and-cosmonauts-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T121919">2022-03-30 12:19:19 UTC</a></sub>
 * [Virgin Orbit looks beyond satellite launch for growth opportunities](https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T112918">2022-03-30 11:29:18 UTC</a></sub>
 * [China to launch Einstein Probe in 2023 to observe violent cosmic events](https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T111913">2022-03-30 11:19:13 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Soyuz MS-19 lands in Kazakhstan amid tense U.S.-Russian relations](https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T221229">2022-03-29 22:12:29 UTC</a></sub>
 * [Pixxel raises $25 million for hyperspectral imaging constellation](https://spacenews.com/pixxel-raises-25-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T215928">2022-03-29 21:59:28 UTC</a></sub>
 * [NASA contracts SpaceX for a second crewed Starship Moon landing](https://www.teslarati.com/spacex-nasa-starship-moon-lander-new-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T195044">2022-03-29 19:50:44 UTC</a></sub>
-* [NASA Names Winners of Lunar Robotics Design Contest](http://www.nasa.gov/press-release/nasa-names-winners-of-lunar-robotics-design-contest) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T195000">2022-03-29 19:50:00 UTC</a></sub>
-* [Lockheed Martin signs deal to use SpiderOak cybersecurity to protect satellite networks](https://spacenews.com/lockheed-martin-signs-deal-to-use-spideroak-cybersecurity-to-protect-satellite-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T190929">2022-03-29 19:09:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T132515">2022-03-30 13:25:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T134126">2022-03-30 13:41:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
