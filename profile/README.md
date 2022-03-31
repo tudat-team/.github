@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin flies six on first New Shepard suborbital flight of 2022](https://spacenews.com/blue-origin-flies-six-on-first-new-shepard-suborbital-flight-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T143927">2022-03-31 14:39:27 UTC</a></sub>
 * [Blue Origin flies fourth suborbital crew mission](https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T141923">2022-03-31 14:19:23 UTC</a></sub>
 * [Starlink eyes Southeast Asia foothold with the Philippines](https://spacenews.com/starlink-eyes-southeast-asia-foothold-with-the-philippines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T134927">2022-03-31 13:49:27 UTC</a></sub>
 * [Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T132900">2022-03-31 13:29:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SES to work with NorthStar on space situational awareness](https://spacenews.com/ses-to-work-with-northstar-on-space-situational-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T111928">2022-03-31 11:19:28 UTC</a></sub>
 * [SpaceX rolls upgraded Super Heavy booster to the launch pad](https://www.teslarati.com/spacex-super-heavy-booster-7-test-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T110948">2022-03-31 11:09:48 UTC</a></sub>
 * [Northrop Grumman weighing options for new Artemis lunar lander competition](https://spacenews.com/northrop-grumman-weighing-options-for-new-artemis-lunar-lander-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T090913">2022-03-31 09:09:13 UTC</a></sub>
-* [Jeff Matthews joins Radian Aerospace as director of strategy](https://spacenews.com/mattews-joins-radian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130913">2022-03-30 13:09:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T143500">2022-03-31 14:35:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T150910">2022-03-31 15:09:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
