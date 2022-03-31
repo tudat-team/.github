@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T132900">2022-03-31 13:29:00 UTC</a></sub>
+* [Slingshot wins $25 million Space Force contract to develop digital twin of the space environment](https://spacenews.com/slingshot-wins-25-million-space-force-contract-to-develop-digital-twin-of-the-space-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T130933">2022-03-31 13:09:33 UTC</a></sub>
 * [Chinese spacecraft reenters atmosphere ahead of new space station missions](https://spacenews.com/chinese-spacecraft-reenters-atmosphere-ahead-of-new-space-station-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T123930">2022-03-31 12:39:30 UTC</a></sub>
 * [Watch live: Blue Origin ready for fourth suborbital crew flight today](https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121923">2022-03-31 12:19:23 UTC</a></sub>
 * [Blue Origin ready for launch of NS-20 suborbital crew mission](https://www.nasaspaceflight.com/2022/03/blue-origin-ns-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121139">2022-03-31 12:11:39 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Northrop Grumman weighing options for new Artemis lunar lander competition](https://spacenews.com/northrop-grumman-weighing-options-for-new-artemis-lunar-lander-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T090913">2022-03-31 09:09:13 UTC</a></sub>
 * [Jeff Matthews joins Radian Aerospace as director of strategy](https://spacenews.com/mattews-joins-radian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130913">2022-03-30 13:09:13 UTC</a></sub>
 * [A NASA astronaut just landed in a Russian spacecraft, and all is well](https://arstechnica.com/science/2022/03/a-nasa-astronaut-just-landed-in-a-russian-spacecraft-and-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130420">2022-03-30 13:04:20 UTC</a></sub>
-* [Soyuz returns astronaut and cosmonauts from space station](https://spacenews.com/soyuz-returns-astronaut-and-cosmonauts-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T121919">2022-03-30 12:19:19 UTC</a></sub>
-* [Virgin Orbit looks beyond satellite launch for growth opportunities](https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T112918">2022-03-30 11:29:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T132807">2022-03-31 13:28:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T134410">2022-03-31 13:44:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
