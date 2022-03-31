@@ -560,10 +560,10 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Orbit looks beyond satellite launch for growth opportunities](https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T112918">2022-03-30 11:29:18 UTC</a></sub>
 * [China to launch Einstein Probe in 2023 to observe violent cosmic events](https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T111913">2022-03-30 11:19:13 UTC</a></sub>
 * [SpaceX to end Crew Dragon capsule production as Starship’s shadow grows](https://www.teslarati.com/spacex-ends-crew-dragon-production-starship-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T110936">2022-03-30 11:09:36 UTC</a></sub>
+* [NASA astronaut back on Earth after record-setting flight](https://spaceflightnow.com/2022/03/30/record-setting-nasa-astronaut-back-on-earth-after-record-setting-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T025909">2022-03-30 02:59:09 UTC</a></sub>
 * [NASA ready for high-stakes, low-profile SLS test](https://spacenews.com/nasa-ready-for-high-stakes-low-profile-sls-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T234935">2022-03-29 23:49:35 UTC</a></sub>
 * [Soyuz MS-19 lands in Kazakhstan amid tense U.S.-Russian relations](https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T221229">2022-03-29 22:12:29 UTC</a></sub>
 * [Pixxel raises $25 million for hyperspectral imaging constellation](https://spacenews.com/pixxel-raises-25-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T215928">2022-03-29 21:59:28 UTC</a></sub>
-* [NASA contracts SpaceX for a second crewed Starship Moon landing](https://www.teslarati.com/spacex-nasa-starship-moon-lander-new-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T195044">2022-03-29 19:50:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T022208">2022-03-31 02:22:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T030751">2022-03-31 03:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
