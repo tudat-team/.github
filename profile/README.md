@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman weighing options for new Artemis lunar lander competition](https://spacenews.com/northrop-grumman-weighing-options-for-new-artemis-lunar-lander-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T090913">2022-03-31 09:09:13 UTC</a></sub>
 * [Jeff Matthews joins Radian Aerospace as director of strategy](https://spacenews.com/mattews-joins-radian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130913">2022-03-30 13:09:13 UTC</a></sub>
 * [A NASA astronaut just landed in a Russian spacecraft, and all is well](https://arstechnica.com/science/2022/03/a-nasa-astronaut-just-landed-in-a-russian-spacecraft-and-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130420">2022-03-30 13:04:20 UTC</a></sub>
 * [Soyuz returns astronaut and cosmonauts from space station](https://spacenews.com/soyuz-returns-astronaut-and-cosmonauts-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T121919">2022-03-30 12:19:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA astronaut back on Earth after record-setting flight](https://spaceflightnow.com/2022/03/30/record-setting-nasa-astronaut-back-on-earth-after-record-setting-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T025909">2022-03-30 02:59:09 UTC</a></sub>
 * [NASA ready for high-stakes, low-profile SLS test](https://spacenews.com/nasa-ready-for-high-stakes-low-profile-sls-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T234935">2022-03-29 23:49:35 UTC</a></sub>
 * [Soyuz MS-19 lands in Kazakhstan amid tense U.S.-Russian relations](https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T221229">2022-03-29 22:12:29 UTC</a></sub>
-* [Pixxel raises $25 million for hyperspectral imaging constellation](https://spacenews.com/pixxel-raises-25-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T215928">2022-03-29 21:59:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T083611">2022-03-31 08:36:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T090938">2022-03-31 09:09:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
