@@ -438,7 +438,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.10.6.dev10</code></td>
+    <td><code>2.10.6.dev11</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -554,6 +554,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese spacecraft reenters atmosphere ahead of new space station missions](https://spacenews.com/chinese-spacecraft-reenters-atmosphere-ahead-of-new-space-station-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T123930">2022-03-31 12:39:30 UTC</a></sub>
+* [Watch live: Blue Origin ready for fourth suborbital crew flight today](https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121923">2022-03-31 12:19:23 UTC</a></sub>
+* [Blue Origin ready for launch of NS-20 suborbital crew mission](https://www.nasaspaceflight.com/2022/03/blue-origin-ns-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121139">2022-03-31 12:11:39 UTC</a></sub>
 * [SES to work with NorthStar on space situational awareness](https://spacenews.com/ses-to-work-with-northstar-on-space-situational-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T111928">2022-03-31 11:19:28 UTC</a></sub>
 * [SpaceX rolls upgraded Super Heavy booster to the launch pad](https://www.teslarati.com/spacex-super-heavy-booster-7-test-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T110948">2022-03-31 11:09:48 UTC</a></sub>
 * [Northrop Grumman weighing options for new Artemis lunar lander competition](https://spacenews.com/northrop-grumman-weighing-options-for-new-artemis-lunar-lander-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T090913">2022-03-31 09:09:13 UTC</a></sub>
@@ -561,9 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A NASA astronaut just landed in a Russian spacecraft, and all is well](https://arstechnica.com/science/2022/03/a-nasa-astronaut-just-landed-in-a-russian-spacecraft-and-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T130420">2022-03-30 13:04:20 UTC</a></sub>
 * [Soyuz returns astronaut and cosmonauts from space station](https://spacenews.com/soyuz-returns-astronaut-and-cosmonauts-from-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T121919">2022-03-30 12:19:19 UTC</a></sub>
 * [Virgin Orbit looks beyond satellite launch for growth opportunities](https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T112918">2022-03-30 11:29:18 UTC</a></sub>
-* [China to launch Einstein Probe in 2023 to observe violent cosmic events](https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T111913">2022-03-30 11:19:13 UTC</a></sub>
-* [SpaceX to end Crew Dragon capsule production as Starship’s shadow grows](https://www.teslarati.com/spacex-ends-crew-dragon-production-starship-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T110936">2022-03-30 11:09:36 UTC</a></sub>
-* [NASA astronaut back on Earth after record-setting flight](https://spaceflightnow.com/2022/03/30/record-setting-nasa-astronaut-back-on-earth-after-record-setting-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T025909">2022-03-30 02:59:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121339">2022-03-31 12:13:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T125945">2022-03-31 12:59:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
