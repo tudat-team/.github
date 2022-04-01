@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch Transporter-4, first of six missions for Falcon 9 in April](https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T125612">2022-04-01 12:56:12 UTC</a></sub>
 * [SpaceX set to launch 40 satellites on fourth dedicated rideshare mission](https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T111000">2022-04-01 11:10:00 UTC</a></sub>
 * [Rocket Report: SpaceX to do “right” by OneWeb, ESA looks at backup launch plans](https://arstechnica.com/science/2022/04/rocket-report-spacex-to-do-right-by-oneweb-esa-looks-at-backup-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T110052">2022-04-01 11:00:52 UTC</a></sub>
 * [NASA still working with Russia on ISS seat barter agreement](https://spacenews.com/nasa-still-working-with-russia-on-iss-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T093926">2022-04-01 09:39:26 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T132900">2022-03-31 13:29:00 UTC</a></sub>
 * [Slingshot wins $25 million Space Force contract to develop digital twin of the space environment](https://spacenews.com/slingshot-wins-25-million-space-force-contract-to-develop-digital-twin-of-the-space-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T130933">2022-03-31 13:09:33 UTC</a></sub>
 * [Chinese spacecraft reenters atmosphere ahead of new space station missions](https://spacenews.com/chinese-spacecraft-reenters-atmosphere-ahead-of-new-space-station-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T123930">2022-03-31 12:39:30 UTC</a></sub>
-* [Blue Origin launches NS-20 suborbital crew mission](https://www.nasaspaceflight.com/2022/03/blue-origin-ns-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121139">2022-03-31 12:11:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T121523">2022-04-01 12:15:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T130408">2022-04-01 13:04:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
