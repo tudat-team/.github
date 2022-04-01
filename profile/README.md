@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Astronaut to Discuss American Space Record in News Conference](http://www.nasa.gov/press-release/nasa-astronaut-to-discuss-american-space-record-in-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T161000">2022-04-01 16:10:00 UTC</a></sub>
 * [What Sounds Captured by NASA's Perseverance Rover Reveal About Mars](https://mars.nasa.gov/news/9158/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T144900">2022-04-01 14:49:00 UTC</a></sub>
 * [NASA’s big rocket faces its last test before launching](https://arstechnica.com/science/2022/04/nasas-big-rocket-faces-its-last-test-before-launching/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T141702">2022-04-01 14:17:02 UTC</a></sub>
 * [SpaceX to launch Transporter-4, first of six missions for Falcon 9 in April](https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T125612">2022-04-01 12:56:12 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Origin flies six on first New Shepard suborbital flight of 2022](https://spacenews.com/blue-origin-flies-six-on-first-new-shepard-suborbital-flight-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T143927">2022-03-31 14:39:27 UTC</a></sub>
 * [Blue Origin flies fourth suborbital crew mission](https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T141923">2022-03-31 14:19:23 UTC</a></sub>
 * [Starlink eyes Southeast Asia foothold with the Philippines](https://spacenews.com/starlink-eyes-southeast-asia-foothold-with-the-philippines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T134927">2022-03-31 13:49:27 UTC</a></sub>
-* [Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T132900">2022-03-31 13:29:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T154011">2022-04-01 15:40:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T161041">2022-04-01 16:10:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
