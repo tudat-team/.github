@@ -557,7 +557,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Astronaut to Discuss American Space Record in News Conference](http://www.nasa.gov/press-release/nasa-astronaut-to-discuss-american-space-record-in-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T161000">2022-04-01 16:10:00 UTC</a></sub>
 * [What Sounds Captured by NASA's Perseverance Rover Reveal About Mars](https://mars.nasa.gov/news/9158/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T144900">2022-04-01 14:49:00 UTC</a></sub>
 * [NASA’s big rocket faces its last test before launching](https://arstechnica.com/science/2022/04/nasas-big-rocket-faces-its-last-test-before-launching/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T141702">2022-04-01 14:17:02 UTC</a></sub>
-* [SpaceX to launch Transporter-4, first of six missions for Falcon 9 in April](https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T125612">2022-04-01 12:56:12 UTC</a></sub>
+* [SpaceX launches Transporter-4, first of six missions for Falcon 9 in April](https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T125612">2022-04-01 12:56:12 UTC</a></sub>
 * [SpaceX set to launch 40 satellites on fourth dedicated rideshare mission](https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T111000">2022-04-01 11:10:00 UTC</a></sub>
 * [Rocket Report: SpaceX to do “right” by OneWeb, ESA looks at backup launch plans](https://arstechnica.com/science/2022/04/rocket-report-spacex-to-do-right-by-oneweb-esa-looks-at-backup-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T110052">2022-04-01 11:00:52 UTC</a></sub>
 * [NASA still working with Russia on ISS seat barter agreement](https://spacenews.com/nasa-still-working-with-russia-on-iss-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T093926">2022-04-01 09:39:26 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T171327">2022-04-01 17:13:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T173905">2022-04-01 17:39:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
