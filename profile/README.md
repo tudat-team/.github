@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s big rocket faces its last test before launching](https://arstechnica.com/science/2022/04/nasas-big-rocket-faces-its-last-test-before-launching/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T141702">2022-04-01 14:17:02 UTC</a></sub>
 * [SpaceX to launch Transporter-4, first of six missions for Falcon 9 in April](https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T125612">2022-04-01 12:56:12 UTC</a></sub>
 * [SpaceX set to launch 40 satellites on fourth dedicated rideshare mission](https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T111000">2022-04-01 11:10:00 UTC</a></sub>
 * [Rocket Report: SpaceX to do “right” by OneWeb, ESA looks at backup launch plans](https://arstechnica.com/science/2022/04/rocket-report-spacex-to-do-right-by-oneweb-esa-looks-at-backup-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T110052">2022-04-01 11:00:52 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starlink eyes Southeast Asia foothold with the Philippines](https://spacenews.com/starlink-eyes-southeast-asia-foothold-with-the-philippines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T134927">2022-03-31 13:49:27 UTC</a></sub>
 * [Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T132900">2022-03-31 13:29:00 UTC</a></sub>
 * [Slingshot wins $25 million Space Force contract to develop digital twin of the space environment](https://spacenews.com/slingshot-wins-25-million-space-force-contract-to-develop-digital-twin-of-the-space-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T130933">2022-03-31 13:09:33 UTC</a></sub>
-* [Chinese spacecraft reenters atmosphere ahead of new space station missions](https://spacenews.com/chinese-spacecraft-reenters-atmosphere-ahead-of-new-space-station-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T123930">2022-03-31 12:39:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T140820">2022-04-01 14:08:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T143526">2022-04-01 14:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
