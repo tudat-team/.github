@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA still working with Russia on ISS seat barter agreement](https://spacenews.com/nasa-still-working-with-russia-on-iss-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T093926">2022-04-01 09:39:26 UTC</a></sub>
 * [Blue Origin flies six on first New Shepard suborbital flight of 2022](https://spacenews.com/blue-origin-flies-six-on-first-new-shepard-suborbital-flight-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T143927">2022-03-31 14:39:27 UTC</a></sub>
 * [Blue Origin flies fourth suborbital crew mission](https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T141923">2022-03-31 14:19:23 UTC</a></sub>
 * [Starlink eyes Southeast Asia foothold with the Philippines](https://spacenews.com/starlink-eyes-southeast-asia-foothold-with-the-philippines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T134927">2022-03-31 13:49:27 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Origin launches NS-20 suborbital crew mission](https://www.nasaspaceflight.com/2022/03/blue-origin-ns-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121139">2022-03-31 12:11:39 UTC</a></sub>
 * [SES to work with NorthStar on space situational awareness](https://spacenews.com/ses-to-work-with-northstar-on-space-situational-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T111928">2022-03-31 11:19:28 UTC</a></sub>
 * [SpaceX rolls upgraded Super Heavy booster to the launch pad](https://www.teslarati.com/spacex-super-heavy-booster-7-test-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T110948">2022-03-31 11:09:48 UTC</a></sub>
-* [Northrop Grumman weighing options for new Artemis lunar lander competition](https://spacenews.com/northrop-grumman-weighing-options-for-new-artemis-lunar-lander-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T090913">2022-03-31 09:09:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T093536">2022-04-01 09:35:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T100926">2022-04-01 10:09:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
