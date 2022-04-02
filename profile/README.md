@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spacewalks, crewed missions, and science: March in orbit aboard the ISS](https://www.nasaspaceflight.com/2022/04/march-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T182557">2022-04-02 18:25:57 UTC</a></sub>
 * [Commercial BlackSky imaging satellites ride with Rocket Lab](https://spaceflightnow.com/2022/04/02/commercial-blacksky-imaging-satellites-ride-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T173922">2022-04-02 17:39:22 UTC</a></sub>
 * [37th Space Symposium attendance to top 10,000](https://spacenews.com/37th-space-symposium-attendance-to-top-10000/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T170930">2022-04-02 17:09:30 UTC</a></sub>
 * [Rocket Lab launches BlackSky satellites as it prepares for mid-air booster recovery](https://spacenews.com/rocket-lab-launches-blacksky-satellites-as-it-prepares-for-mid-air-booster-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T154926">2022-04-02 15:49:26 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA begins critical Artemis countdown rehearsal at Kennedy Space Center](https://spaceflightnow.com/2022/04/01/nasa-begins-critical-artemis-countdown-rehearsal-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T225923">2022-04-01 22:59:23 UTC</a></sub>
 * [NASA to Participate in Space Symposium, Broadcast Select Panels](http://www.nasa.gov/press-release/nasa-to-participate-in-space-symposium-broadcast-select-panels) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T210900">2022-04-01 21:09:00 UTC</a></sub>
 * [Forty payloads ride into orbit on SpaceX Falcon 9 rocket](https://spaceflightnow.com/2022/04/01/forty-payloads-ride-into-orbit-on-spacex-falcon-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T192924">2022-04-01 19:29:24 UTC</a></sub>
-* [NASA Astronaut to Discuss American Space Record in News Conference](http://www.nasa.gov/press-release/nasa-astronaut-to-discuss-american-space-record-in-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T161000">2022-04-01 16:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T180907">2022-04-02 18:09:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T183959">2022-04-02 18:39:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
