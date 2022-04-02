@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab launches BlackSky satellites as it prepares for mid-air booster recovery](https://spacenews.com/rocket-lab-launches-blacksky-satellites-as-it-prepares-for-mid-air-booster-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T154926">2022-04-02 15:49:26 UTC</a></sub>
+* [Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink](https://arstechnica.com/science/2022/04/no-no-no-russia-is-not-halting-cooperation-on-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T151549">2022-04-02 15:15:49 UTC</a></sub>
 * [Rocket Lab’s Electron launches two BlackSky satellites on 25th mission](https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T113940">2022-04-02 11:39:40 UTC</a></sub>
 * [SpaceX launches fourth dedicated rideshare mission](https://spacenews.com/spacex-launches-fourth-dedicated-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T230927">2022-04-01 23:09:27 UTC</a></sub>
 * [NASA begins critical Artemis countdown rehearsal at Kennedy Space Center](https://spaceflightnow.com/2022/04/01/nasa-begins-critical-artemis-countdown-rehearsal-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T225923">2022-04-01 22:59:23 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Astronaut to Discuss American Space Record in News Conference](http://www.nasa.gov/press-release/nasa-astronaut-to-discuss-american-space-record-in-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T161000">2022-04-01 16:10:00 UTC</a></sub>
 * [What Sounds Captured by NASA's Perseverance Rover Reveal About Mars](https://mars.nasa.gov/news/9158/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T144900">2022-04-01 14:49:00 UTC</a></sub>
 * [NASA’s big rocket faces its last test before launching](https://arstechnica.com/science/2022/04/nasas-big-rocket-faces-its-last-test-before-launching/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T141702">2022-04-01 14:17:02 UTC</a></sub>
-* [SpaceX launches Transporter-4, first of six missions for Falcon 9 in April](https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T125612">2022-04-01 12:56:12 UTC</a></sub>
-* [SpaceX set to launch 40 satellites on fourth dedicated rideshare mission](https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T111000">2022-04-01 11:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T153727">2022-04-02 15:37:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T160950">2022-04-02 16:09:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
