@@ -554,7 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Lab’s Electron to launch two BlackSky satellites on 25th mission](https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T113940">2022-04-02 11:39:40 UTC</a></sub>
+* [Rocket Lab’s Electron launches two BlackSky satellites on 25th mission](https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T113940">2022-04-02 11:39:40 UTC</a></sub>
 * [SpaceX launches fourth dedicated rideshare mission](https://spacenews.com/spacex-launches-fourth-dedicated-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T230927">2022-04-01 23:09:27 UTC</a></sub>
 * [NASA begins critical Artemis countdown rehearsal at Kennedy Space Center](https://spaceflightnow.com/2022/04/01/nasa-begins-critical-artemis-countdown-rehearsal-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T225923">2022-04-01 22:59:23 UTC</a></sub>
 * [NASA to Participate in Space Symposium, Broadcast Select Panels](http://www.nasa.gov/press-release/nasa-to-participate-in-space-symposium-broadcast-select-panels) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T210900">2022-04-01 21:09:00 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T131429">2022-04-02 13:14:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T133631">2022-04-02 13:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
