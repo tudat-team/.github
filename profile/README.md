@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Private mission ready for launch to the ISS](https://spacenews.com/private-mission-ready-for-launch-to-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T142927">2022-04-03 14:29:27 UTC</a></sub>
 * [SLS wet dress rehearsal brings final major pre-flight test for NASA moon rocket](https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T124302">2022-04-03 12:43:02 UTC</a></sub>
 * [Spacewalks, crewed missions, and science: March in orbit aboard the ISS](https://www.nasaspaceflight.com/2022/04/march-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T182557">2022-04-02 18:25:57 UTC</a></sub>
 * [Commercial BlackSky imaging satellites ride with Rocket Lab](https://spaceflightnow.com/2022/04/02/commercial-blacksky-imaging-satellites-ride-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T173922">2022-04-02 17:39:22 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab’s Electron launches two BlackSky satellites on 25th mission](https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T113940">2022-04-02 11:39:40 UTC</a></sub>
 * [SpaceX launches fourth dedicated rideshare mission](https://spacenews.com/spacex-launches-fourth-dedicated-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T230927">2022-04-01 23:09:27 UTC</a></sub>
 * [NASA begins critical Artemis countdown rehearsal at Kennedy Space Center](https://spaceflightnow.com/2022/04/01/nasa-begins-critical-artemis-countdown-rehearsal-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T225923">2022-04-01 22:59:23 UTC</a></sub>
-* [NASA to Participate in Space Symposium, Broadcast Select Panels](http://www.nasa.gov/press-release/nasa-to-participate-in-space-symposium-broadcast-select-panels) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T210900">2022-04-01 21:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T143252">2022-04-03 14:32:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T150757">2022-04-03 15:07:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
