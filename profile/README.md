@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX aces 12th launch of 2022, delivering dozens of satellites to orbit](https://www.teslarati.com/spacex-aces-12th-falcon-9-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T212947">2022-04-03 21:29:47 UTC</a></sub>
 * [NASA to Provide Update Today on Last Major Artemis Test Before Launch](http://www.nasa.gov/press-release/nasa-to-provide-update-today-on-last-major-artemis-test-before-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T180900">2022-04-03 18:09:00 UTC</a></sub>
 * [NASA scrubs first attempt at SLS countdown rehearsal](https://spacenews.com/nasa-scrubs-first-attempt-at-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T173927">2022-04-03 17:39:27 UTC</a></sub>
 * [Rogozin delays decision on space station future](https://spacenews.com/rogozin-delays-decision-on-space-station-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T163927">2022-04-03 16:39:27 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Commercial BlackSky imaging satellites ride with Rocket Lab](https://spaceflightnow.com/2022/04/02/commercial-blacksky-imaging-satellites-ride-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T173922">2022-04-02 17:39:22 UTC</a></sub>
 * [37th Space Symposium attendance to top 10,000](https://spacenews.com/37th-space-symposium-attendance-to-top-10000/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T170930">2022-04-02 17:09:30 UTC</a></sub>
 * [Rocket Lab launches BlackSky satellites as it prepares for mid-air booster recovery](https://spacenews.com/rocket-lab-launches-blacksky-satellites-as-it-prepares-for-mid-air-booster-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T154926">2022-04-02 15:49:26 UTC</a></sub>
-* [Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink](https://arstechnica.com/science/2022/04/no-no-no-russia-is-not-halting-cooperation-on-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T151549">2022-04-02 15:15:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T213359">2022-04-03 21:33:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T220755">2022-04-03 22:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
