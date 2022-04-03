@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA scrubs first attempt at SLS countdown rehearsal](https://spacenews.com/nasa-scrubs-first-attempt-at-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T173927">2022-04-03 17:39:27 UTC</a></sub>
 * [Rogozin delays decision on space station future](https://spacenews.com/rogozin-delays-decision-on-space-station-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T163927">2022-04-03 16:39:27 UTC</a></sub>
 * [Private mission ready for launch to the ISS](https://spacenews.com/private-mission-ready-for-launch-to-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T142927">2022-04-03 14:29:27 UTC</a></sub>
 * [SLS wet dress rehearsal scrubbed ahead of final major pre-flight test for NASA moon rocket](https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T124302">2022-04-03 12:43:02 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab launches BlackSky satellites as it prepares for mid-air booster recovery](https://spacenews.com/rocket-lab-launches-blacksky-satellites-as-it-prepares-for-mid-air-booster-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T154926">2022-04-02 15:49:26 UTC</a></sub>
 * [Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink](https://arstechnica.com/science/2022/04/no-no-no-russia-is-not-halting-cooperation-on-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T151549">2022-04-02 15:15:49 UTC</a></sub>
 * [Rocket Lab’s Electron launches two BlackSky satellites on 25th mission](https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T113940">2022-04-02 11:39:40 UTC</a></sub>
-* [SpaceX launches fourth dedicated rideshare mission](https://spacenews.com/spacex-launches-fourth-dedicated-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T230927">2022-04-01 23:09:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T173537">2022-04-03 17:35:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T180900">2022-04-03 18:09:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
