@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Xplore acquires Kubos and Major Tom software](https://spacenews.com/xplore-acquires-kubos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T220003">2022-04-04 22:00:03 UTC</a></sub>
+* [Space investors predict more acquisitions to combat hiring challenges](https://spacenews.com/space-investors-predict-more-acquisitions-to-combat-hiring-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
+* [Millennium prepares for mass manufacturing](https://spacenews.com/millennium-mass-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
+* [NASA plans talks with partners on ISS and Artemis](https://spacenews.com/nasa-plans-talks-with-partners-on-iss-and-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
+* [Millennium works with Boeing to address smallsat demand](https://spacenews.com/millennium-smallsat-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
 * [Spaceborne Computer-2 completes 24 experiments on ISS](https://spacenews.com/spaceborne-computer-2-symposium-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T181009">2022-04-04 18:10:09 UTC</a></sub>
 * [Telesat adjusts polar satellite design to tackle supply issues](https://spacenews.com/telesat-adjusts-polar-satellite-design-to-tackle-supply-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T151953">2022-04-04 15:19:53 UTC</a></sub>
 * [Lockheed Martin releases open-source satellite interface for on-orbit docking](https://spacenews.com/lockheed-martin-releases-open-source-satellite-interface-for-on-orbit-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T123928">2022-04-04 12:39:28 UTC</a></sub>
 * [SpaceX’s second private Crew Dragon astronaut launch slips to April 8th](https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T110950">2022-04-04 11:09:50 UTC</a></sub>
 * [Telesat gets security clearance to serve US government directly](https://spacenews.com/telesat-gets-security-clearance-to-serve-us-government-directly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T110927">2022-04-04 11:09:27 UTC</a></sub>
-* [Space experiment to push standardization in small satellites](https://spacenews.com/space-experiment-to-push-standardization-in-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T100926">2022-04-04 10:09:26 UTC</a></sub>
-* [The space arms race keeps accelerating, new reports warn](https://spacenews.com/the-space-arms-race-keeps-accelerating-new-reports-warn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T100926">2022-04-04 10:09:26 UTC</a></sub>
-* [SpaceX aces 12th launch of 2022, delivering dozens of satellites to orbit](https://www.teslarati.com/spacex-aces-12th-falcon-9-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T212947">2022-04-03 21:29:47 UTC</a></sub>
-* [NASA to Provide Update Today on Last Major Artemis Test Before Launch](http://www.nasa.gov/press-release/nasa-to-provide-update-today-on-last-major-artemis-test-before-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T180900">2022-04-03 18:09:00 UTC</a></sub>
-* [NASA scrubs first attempt at SLS countdown rehearsal](https://spacenews.com/nasa-scrubs-first-attempt-at-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T173927">2022-04-03 17:39:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T213427">2022-04-04 21:34:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T220757">2022-04-04 22:07:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
