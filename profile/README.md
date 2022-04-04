@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin releases open-source satellite interface for on-orbit docking](https://spacenews.com/lockheed-martin-releases-open-source-satellite-interface-for-on-orbit-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T123928">2022-04-04 12:39:28 UTC</a></sub>
 * [SpaceX’s second private Crew Dragon astronaut launch slips to April 8th](https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T110950">2022-04-04 11:09:50 UTC</a></sub>
 * [Telesat gets security clearance to serve US government directly](https://spacenews.com/telesat-gets-security-clearance-to-serve-us-government-directly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T110927">2022-04-04 11:09:27 UTC</a></sub>
 * [Space experiment to push standardization in small satellites](https://spacenews.com/space-experiment-to-push-standardization-in-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T100926">2022-04-04 10:09:26 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA scrubs first attempt at SLS countdown rehearsal](https://spacenews.com/nasa-scrubs-first-attempt-at-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T173927">2022-04-03 17:39:27 UTC</a></sub>
 * [Rogozin delays decision on space station future](https://spacenews.com/rogozin-delays-decision-on-space-station-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T163927">2022-04-03 16:39:27 UTC</a></sub>
 * [Private mission ready for launch to the ISS](https://spacenews.com/private-mission-ready-for-launch-to-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T142927">2022-04-03 14:29:27 UTC</a></sub>
-* [SLS in wet dress rehearsal, final major pre-flight test for NASA moon rocket](https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T124302">2022-04-03 12:43:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T121444">2022-04-04 12:14:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T125825">2022-04-04 12:58:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
