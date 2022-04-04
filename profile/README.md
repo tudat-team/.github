@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space experiment to push standardization in small satellites](https://spacenews.com/space-experiment-to-push-standardization-in-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T100926">2022-04-04 10:09:26 UTC</a></sub>
+* [The space arms race keeps accelerating, new reports warn](https://spacenews.com/the-space-arms-race-keeps-accelerating-new-reports-warn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T100926">2022-04-04 10:09:26 UTC</a></sub>
 * [SpaceX aces 12th launch of 2022, delivering dozens of satellites to orbit](https://www.teslarati.com/spacex-aces-12th-falcon-9-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T212947">2022-04-03 21:29:47 UTC</a></sub>
 * [NASA to Provide Update Today on Last Major Artemis Test Before Launch](http://www.nasa.gov/press-release/nasa-to-provide-update-today-on-last-major-artemis-test-before-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T180900">2022-04-03 18:09:00 UTC</a></sub>
 * [NASA scrubs first attempt at SLS countdown rehearsal](https://spacenews.com/nasa-scrubs-first-attempt-at-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T173927">2022-04-03 17:39:27 UTC</a></sub>
 * [Rogozin delays decision on space station future](https://spacenews.com/rogozin-delays-decision-on-space-station-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T163927">2022-04-03 16:39:27 UTC</a></sub>
 * [Private mission ready for launch to the ISS](https://spacenews.com/private-mission-ready-for-launch-to-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T142927">2022-04-03 14:29:27 UTC</a></sub>
-* [SLS wet dress rehearsal scrubbed ahead of final major pre-flight test for NASA moon rocket](https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T124302">2022-04-03 12:43:02 UTC</a></sub>
+* [SLS in wet dress rehearsal, final major pre-flight test for NASA moon rocket](https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T124302">2022-04-03 12:43:02 UTC</a></sub>
 * [Ground system problem halts Artemis 1 countdown dress rehearsal](https://spaceflightnow.com/2022/04/03/ground-system-problem-halts-artemis-1-countdown-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T011923">2022-04-03 01:19:23 UTC</a></sub>
 * [Spacewalks, crewed missions, and science: March in orbit aboard the ISS](https://www.nasaspaceflight.com/2022/04/march-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T182557">2022-04-02 18:25:57 UTC</a></sub>
-* [Commercial BlackSky imaging satellites ride with Rocket Lab](https://spaceflightnow.com/2022/04/02/commercial-blacksky-imaging-satellites-ride-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T173922">2022-04-02 17:39:22 UTC</a></sub>
-* [37th Space Symposium attendance to top 10,000](https://spacenews.com/37th-space-symposium-attendance-to-top-10000/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T170930">2022-04-02 17:09:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T103913">2022-04-04 10:39:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T110717">2022-04-04 11:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
