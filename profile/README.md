@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [York Space to triple satellite production to meet military and commercial demand](https://spacenews.com/york-space-to-triple-satellite-production-to-meet-military-and-commercial-demand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T130940">2022-04-05 13:09:40 UTC</a></sub>
+* [Japan’s ArkEdge Space closes $18.7 million Series A for nanosatellite projects](https://spacenews.com/japans-arkedge-space-closes-18-7-million-series-a-for-nanosatellite-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T130940">2022-04-05 13:09:40 UTC</a></sub>
 * [NASA to Discuss Final Test Status Today Before Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-final-test-status-today-before-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T113000">2022-04-05 11:30:00 UTC</a></sub>
 * [SpaceX’s upgraded Super Heavy booster sails through first major test](https://www.teslarati.com/spacex-super-heavy-b7-first-cryoproof-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T112046">2022-04-05 11:20:46 UTC</a></sub>
 * [Amazon signs multibillion-dollar Project Kuiper launch contracts](https://spacenews.com/amazon-signs-multibillion-dollar-project-kuiper-launch-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T110936">2022-04-05 11:09:36 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force looking to ease barriers to entry for commercial companies](https://spacenews.com/space-force-looking-to-ease-barriers-to-entry-for-commercial-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T224006">2022-04-04 22:40:06 UTC</a></sub>
 * [Head of U.S. Space Force launch operations ‘watching Starship closely’](https://spacenews.com/head-of-u-s-space-force-launch-operations-watching-starship-closely/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T222956">2022-04-04 22:29:56 UTC</a></sub>
 * [New L3Harris space boss says it’s time to rethink risk tolerance](https://spacenews.com/new-l3harris-space-boss-says-its-time-to-rethink-risk-tolerance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T222956">2022-04-04 22:29:56 UTC</a></sub>
-* [Space industry struggling to attract more skilled workers](https://spacenews.com/space-industry-struggling-to-attract-more-skilled-workers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T221005">2022-04-04 22:10:05 UTC</a></sub>
-* [Xplore acquires Kubos and Major Tom software](https://spacenews.com/xplore-acquires-kubos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T220003">2022-04-04 22:00:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T132214">2022-04-05 13:22:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T134124">2022-04-05 13:41:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
