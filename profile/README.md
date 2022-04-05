@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space industry CEOs pledge to create more inclusive workforce](https://spacenews.com/space-industry-ceos-pledge-to-create-more-inclusive-workforce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T164931">2022-04-05 16:49:31 UTC</a></sub>
 * [Raymond: 2023 budget proposal allows Space Force to ‘pivot’ to next-generation systems](https://spacenews.com/raymond-2023-budget-proposal-allows-space-force-to-pivot-to-next-generation-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T160935">2022-04-05 16:09:35 UTC</a></sub>
 * [Kendall: Space Force budget boost speaks to the value of space in defense strategy](https://spacenews.com/kendall-space-force-budget-boost-speaks-to-the-value-of-space-in-defense-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T155935">2022-04-05 15:59:35 UTC</a></sub>
 * [Benchmark to triple production capacity to meet demand](https://spacenews.com/benchmark-triples-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T142936">2022-04-05 14:29:36 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Discuss Final Test Status Today Before Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-final-test-status-today-before-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T113000">2022-04-05 11:30:00 UTC</a></sub>
 * [SpaceX’s upgraded Super Heavy booster sails through first major test](https://www.teslarati.com/spacex-super-heavy-b7-first-cryoproof-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T112046">2022-04-05 11:20:46 UTC</a></sub>
 * [Amazon signs multibillion-dollar Project Kuiper launch contracts](https://spacenews.com/amazon-signs-multibillion-dollar-project-kuiper-launch-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T110936">2022-04-05 11:09:36 UTC</a></sub>
-* [Jeff Bezos and Amazon just hired everybody but SpaceX for Project Kuiper](https://arstechnica.com/science/2022/04/amazon-signs-blockbuster-launch-deal-for-its-satellite-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T110010">2022-04-05 11:00:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T161050">2022-04-05 16:10:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T165357">2022-04-05 16:53:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
