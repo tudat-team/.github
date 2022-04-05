@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [US Air Force tests Elon Musk’s Starlink for F-35A Lightning II communications](https://www.teslarati.com/elon-musk-starlink-us-air-force-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T092119">2022-04-05 09:21:19 UTC</a></sub>
 * [Space Force looking to ease barriers to entry for commercial companies](https://spacenews.com/space-force-looking-to-ease-barriers-to-entry-for-commercial-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T224006">2022-04-04 22:40:06 UTC</a></sub>
-* [Head of U.S. Space Force launch operations ‘watching Starship closely’](https://spacenews.com/head-of-u-s-space-force-launch-operations-watching-starship-closely/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T222956">2022-04-04 22:29:56 UTC</a></sub>
 * [New L3Harris space boss says it’s time to rethink risk tolerance](https://spacenews.com/new-l3harris-space-boss-says-its-time-to-rethink-risk-tolerance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T222956">2022-04-04 22:29:56 UTC</a></sub>
+* [Head of U.S. Space Force launch operations ‘watching Starship closely’](https://spacenews.com/head-of-u-s-space-force-launch-operations-watching-starship-closely/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T222956">2022-04-04 22:29:56 UTC</a></sub>
 * [Space industry struggling to attract more skilled workers](https://spacenews.com/space-industry-struggling-to-attract-more-skilled-workers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T221005">2022-04-04 22:10:05 UTC</a></sub>
 * [Xplore acquires Kubos and Major Tom software](https://spacenews.com/xplore-acquires-kubos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T220003">2022-04-04 22:00:03 UTC</a></sub>
 * [NASA plans talks with partners on ISS and Artemis](https://spacenews.com/nasa-plans-talks-with-partners-on-iss-and-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
 * [Millennium works with Boeing to address smallsat demand](https://spacenews.com/millennium-smallsat-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
 * [Space investors predict more acquisitions to combat hiring challenges](https://spacenews.com/space-investors-predict-more-acquisitions-to-combat-hiring-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
 * [Millennium prepares for mass manufacturing](https://spacenews.com/millennium-mass-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T212011">2022-04-04 21:20:11 UTC</a></sub>
-* [Spaceborne Computer-2 completes 24 experiments on ISS](https://spacenews.com/spaceborne-computer-2-symposium-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T181009">2022-04-04 18:10:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T093604">2022-04-05 09:36:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T100847">2022-04-05 10:08:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
