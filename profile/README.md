@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon chooses everyone but SpaceX to launch its Starlink competitor](https://www.teslarati.com/amazon-project-kuiper-launch-contracts-everyone-but-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T202038">2022-04-05 20:20:38 UTC</a></sub>
 * [To counter threats, U.S. intelligence community leans on partners](https://spacenews.com/partnerships-to-counter-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T191940">2022-04-05 19:19:40 UTC</a></sub>
 * [Amazon launch contracts drive changes to launch vehicle production](https://spacenews.com/amazon-launch-contracts-drive-changes-to-launch-vehicle-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T184938">2022-04-05 18:49:38 UTC</a></sub>
 * [Space industry CEOs pledge to create more inclusive workforce](https://spacenews.com/space-industry-ceos-pledge-to-create-more-inclusive-workforce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T164931">2022-04-05 16:49:31 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Orbital Reef passes design review](https://spacenews.com/orbital-reef-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T140932">2022-04-05 14:09:32 UTC</a></sub>
 * [Japan’s ArkEdge Space closes $18.7 million Series A for nanosatellite projects](https://spacenews.com/japans-arkedge-space-closes-18-7-million-series-a-for-nanosatellite-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T130940">2022-04-05 13:09:40 UTC</a></sub>
 * [York Space to triple satellite production to meet military and commercial demand](https://spacenews.com/york-space-to-triple-satellite-production-to-meet-military-and-commercial-demand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T130940">2022-04-05 13:09:40 UTC</a></sub>
-* [NASA to Discuss Final Test Status Today Before Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-final-test-status-today-before-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T113000">2022-04-05 11:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T203636">2022-04-05 20:36:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T210658">2022-04-05 21:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
