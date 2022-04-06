@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New Chinese small sat manufacturing capacity could have international ramifications](https://spacenews.com/new-chinese-small-sat-manufacturing-capacity-could-have-international-ramifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T114909">2022-04-06 11:49:09 UTC</a></sub>
+* [That time when Soviet rocket scientists nearly nuked New York City](https://arstechnica.com/science/2022/04/that-time-when-soviet-rocket-scientists-nearly-nuked-new-york-city/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T113258">2022-04-06 11:32:58 UTC</a></sub>
+* [SpaceX rolls out Dragon and Falcon 9 for second private astronaut launch](https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T110930">2022-04-06 11:09:30 UTC</a></sub>
+* [SLS countdown test on hold after second scrub](https://spacenews.com/sls-countdown-test-on-hold-after-second-scrub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T110909">2022-04-06 11:09:09 UTC</a></sub>
 * [Tory Bruno: Amazon’s launch contracts a ‘big deal’ for U.S. and allies’ industrial competitiveness](https://spacenews.com/tory-bruno-amazons-launch-contracts-a-big-deal-for-u-s-and-allies-industrial-competitiveness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T105909">2022-04-06 10:59:09 UTC</a></sub>
 * [NASA's Pioneering Ingenuity Mars Helicopter Awarded Collier Trophy](https://mars.nasa.gov/news/9161/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T231000">2022-04-05 23:10:00 UTC</a></sub>
 * [Speedcast sees a dearth of satellite capacity ahead](https://spacenews.com/speedcast-sees-a-dearth-of-satellite-capacity-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T225936">2022-04-05 22:59:36 UTC</a></sub>
 * [Amazon hails progress in driving down Project Kuiper antenna costs](https://spacenews.com/amazon-hails-progress-in-driving-down-project-kuiper-antenna-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T223944">2022-04-05 22:39:44 UTC</a></sub>
 * [Amazon chooses everyone but SpaceX to launch its Starlink competitor](https://www.teslarati.com/amazon-project-kuiper-launch-contracts-everyone-but-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T202038">2022-04-05 20:20:38 UTC</a></sub>
 * [To counter threats, U.S. intelligence community leans on partners](https://spacenews.com/partnerships-to-counter-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T191940">2022-04-05 19:19:40 UTC</a></sub>
-* [Amazon launch contracts drive changes to launch vehicle production](https://spacenews.com/amazon-launch-contracts-drive-changes-to-launch-vehicle-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T184938">2022-04-05 18:49:38 UTC</a></sub>
-* [Space industry CEOs pledge to create more inclusive workforce](https://spacenews.com/space-industry-ceos-pledge-to-create-more-inclusive-workforce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T164931">2022-04-05 16:49:31 UTC</a></sub>
-* [Raymond: 2023 budget proposal allows Space Force to ‘pivot’ to next-generation systems](https://spacenews.com/raymond-2023-budget-proposal-allows-space-force-to-pivot-to-next-generation-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T160935">2022-04-05 16:09:35 UTC</a></sub>
-* [Kendall: Space Force budget boost speaks to the value of space in defense strategy](https://spacenews.com/kendall-space-force-budget-boost-speaks-to-the-value-of-space-in-defense-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T155935">2022-04-05 15:59:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T113311">2022-04-06 11:33:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T121514">2022-04-06 12:15:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
