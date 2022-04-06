@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX retires old Starship vehicles, puts new ones to the test](https://www.nasaspaceflight.com/2022/04/spacex-retires-vehicles-new-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T131207">2022-04-06 13:12:07 UTC</a></sub>
 * [New Chinese small sat manufacturing capacity could have international ramifications](https://spacenews.com/new-chinese-small-sat-manufacturing-capacity-could-have-international-ramifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T114909">2022-04-06 11:49:09 UTC</a></sub>
 * [That time when Soviet rocket scientists nearly nuked New York City](https://arstechnica.com/science/2022/04/that-time-when-soviet-rocket-scientists-nearly-nuked-new-york-city/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T113258">2022-04-06 11:32:58 UTC</a></sub>
 * [SpaceX rolls out Dragon and Falcon 9 for second private astronaut launch](https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T110930">2022-04-06 11:09:30 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Speedcast sees a dearth of satellite capacity ahead](https://spacenews.com/speedcast-sees-a-dearth-of-satellite-capacity-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T225936">2022-04-05 22:59:36 UTC</a></sub>
 * [Amazon hails progress in driving down Project Kuiper antenna costs](https://spacenews.com/amazon-hails-progress-in-driving-down-project-kuiper-antenna-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T223944">2022-04-05 22:39:44 UTC</a></sub>
 * [Amazon chooses everyone but SpaceX to launch its Starlink competitor](https://www.teslarati.com/amazon-project-kuiper-launch-contracts-everyone-but-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T202038">2022-04-05 20:20:38 UTC</a></sub>
-* [To counter threats, U.S. intelligence community leans on partners](https://spacenews.com/partnerships-to-counter-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T191940">2022-04-05 19:19:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T125930">2022-04-06 12:59:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T132948">2022-04-06 13:29:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
