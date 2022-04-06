@@ -554,7 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Falcon 9 rocket, Crew Dragon capsule on launch pad for test-firing today](https://spaceflightnow.com/2022/04/06/falcon-9-axiom-1-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T164905">2022-04-06 16:49:05 UTC</a></sub>
+* [Watch live: Falcon 9 rocket, Crew Dragon capsule on launch pad for test-firing today](https://spaceflightnow.com/2022/04/06/falcon-9-axiom-1-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T172906">2022-04-06 17:29:06 UTC</a></sub>
 * [Consequences for nefarious activity in space](https://spacenews.com/addressing-nefarious-space-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T142909">2022-04-06 14:29:09 UTC</a></sub>
 * [SpaceX retires old Starship vehicles, puts new ones to the test](https://www.nasaspaceflight.com/2022/04/spacex-retires-vehicles-new-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T131207">2022-04-06 13:12:07 UTC</a></sub>
 * [New Chinese small sat manufacturing capacity could have international ramifications](https://spacenews.com/new-chinese-small-sat-manufacturing-capacity-could-have-international-ramifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T114909">2022-04-06 11:49:09 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T171020">2022-04-06 17:10:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T173701">2022-04-06 17:37:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
