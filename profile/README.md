@@ -554,7 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [War in Ukraine highlights need for missile defense upgrade](https://spacenews.com/sda-tournear-space-symposium/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T195910">2022-04-06 19:59:10 UTC</a></sub>
+* [As Russia prepared to invade, U.S. government and satellite imagery suppliers teamed up to help Ukraine](https://spacenews.com/as-russia-prepared-to-invade-u-s-government-and-satellite-imagery-suppliers-teamed-up-to-help-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T202910">2022-04-06 20:29:10 UTC</a></sub>
+* [War in Ukraine underscores need for missile defense upgrade](https://spacenews.com/sda-tournear-space-symposium/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T201908">2022-04-06 20:19:08 UTC</a></sub>
 * [Falcon 9 rocket test-fired for Axiom commercial crew mission](https://spaceflightnow.com/2022/04/06/falcon-9-axiom-1-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T183905">2022-04-06 18:39:05 UTC</a></sub>
 * [Consequences for nefarious activity in space](https://spacenews.com/addressing-nefarious-space-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T142909">2022-04-06 14:29:09 UTC</a></sub>
 * [SpaceX retires old Starship vehicles, puts new ones to the test](https://www.nasaspaceflight.com/2022/04/spacex-retires-vehicles-new-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T131207">2022-04-06 13:12:07 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX rolls out Dragon and Falcon 9 for second private astronaut launch](https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T110930">2022-04-06 11:09:30 UTC</a></sub>
 * [SLS countdown test on hold after second scrub](https://spacenews.com/sls-countdown-test-on-hold-after-second-scrub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T110909">2022-04-06 11:09:09 UTC</a></sub>
 * [Tory Bruno: Amazon’s launch contracts a ‘big deal’ for U.S. and allies’ industrial competitiveness](https://spacenews.com/tory-bruno-amazons-launch-contracts-a-big-deal-for-u-s-and-allies-industrial-competitiveness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T105909">2022-04-06 10:59:09 UTC</a></sub>
-* [NASA's Pioneering Ingenuity Mars Helicopter Awarded Collier Trophy](https://mars.nasa.gov/news/9161/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T231000">2022-04-05 23:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T203403">2022-04-06 20:34:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T210806">2022-04-06 21:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
