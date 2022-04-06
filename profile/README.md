@@ -554,7 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Tory Bruno: Amazon’s launch order a ‘big deal’ for the West’s competitiveness](https://spacenews.com/tory-bruno-amazons-launch-contracts-a-big-deal-for-u-s-and-allies-industrial-competitiveness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T090909">2022-04-06 09:09:09 UTC</a></sub>
+* [Tory Bruno: Amazon’s launch contracts a ‘big deal’ for U.S. and allies’ industrial competitiveness](https://spacenews.com/tory-bruno-amazons-launch-contracts-a-big-deal-for-u-s-and-allies-industrial-competitiveness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T105909">2022-04-06 10:59:09 UTC</a></sub>
 * [NASA's Pioneering Ingenuity Mars Helicopter Awarded Collier Trophy](https://mars.nasa.gov/news/9161/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T231000">2022-04-05 23:10:00 UTC</a></sub>
 * [Speedcast sees a dearth of satellite capacity ahead](https://spacenews.com/speedcast-sees-a-dearth-of-satellite-capacity-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T225936">2022-04-05 22:59:36 UTC</a></sub>
 * [Amazon hails progress in driving down Project Kuiper antenna costs](https://spacenews.com/amazon-hails-progress-in-driving-down-project-kuiper-antenna-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T223944">2022-04-05 22:39:44 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T103928">2022-04-06 10:39:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T110746">2022-04-06 11:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
