@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Pioneering Ingenuity Mars Helicopter Awarded Collier Trophy](https://mars.nasa.gov/news/9161/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T231000">2022-04-05 23:10:00 UTC</a></sub>
 * [Speedcast sees a dearth of satellite capacity ahead](https://spacenews.com/speedcast-sees-a-dearth-of-satellite-capacity-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T225936">2022-04-05 22:59:36 UTC</a></sub>
 * [Amazon hails progress in driving down Project Kuiper antenna costs](https://spacenews.com/amazon-hails-progress-in-driving-down-project-kuiper-antenna-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T223944">2022-04-05 22:39:44 UTC</a></sub>
 * [Amazon chooses everyone but SpaceX to launch its Starlink competitor](https://www.teslarati.com/amazon-project-kuiper-launch-contracts-everyone-but-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T202038">2022-04-05 20:20:38 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Raymond: 2023 budget proposal allows Space Force to ‘pivot’ to next-generation systems](https://spacenews.com/raymond-2023-budget-proposal-allows-space-force-to-pivot-to-next-generation-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T160935">2022-04-05 16:09:35 UTC</a></sub>
 * [Kendall: Space Force budget boost speaks to the value of space in defense strategy](https://spacenews.com/kendall-space-force-budget-boost-speaks-to-the-value-of-space-in-defense-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T155935">2022-04-05 15:59:35 UTC</a></sub>
 * [Benchmark to triple production capacity to meet demand](https://spacenews.com/benchmark-triples-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T142936">2022-04-05 14:29:36 UTC</a></sub>
-* [Orbital Reef passes design review](https://spacenews.com/orbital-reef-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T140932">2022-04-05 14:09:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T233609">2022-04-05 23:36:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T003925">2022-04-06 00:39:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
