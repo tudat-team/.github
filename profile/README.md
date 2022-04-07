@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis lunar lander contenders revisit team rosters for round two](https://spacenews.com/artemis-lunar-lander-contenders-revisit-team-rosters-for-round-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T102943">2022-04-07 10:29:43 UTC</a></sub>
+* [ESA continues talks with NASA on ExoMars cooperation](https://spacenews.com/esa-continues-talks-with-nasa-on-exomars-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T100929">2022-04-07 10:09:29 UTC</a></sub>
 * [Space Force to shore up cybersecurity as threats proliferate](https://spacenews.com/space-force-to-shore-up-cybersecurity-as-threats-proliferate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T220910">2022-04-06 22:09:10 UTC</a></sub>
 * [NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center](https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T215905">2022-04-06 21:59:05 UTC</a></sub>
 * [As Russia prepared to invade, U.S. opened commercial imagery pipeline to Ukraine](https://spacenews.com/as-russia-prepared-to-invade-u-s-government-and-satellite-imagery-suppliers-teamed-up-to-help-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T213910">2022-04-06 21:39:10 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [War in Ukraine underscores need for missile defense upgrade](https://spacenews.com/sda-tournear-space-symposium/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T201908">2022-04-06 20:19:08 UTC</a></sub>
 * [Falcon 9 rocket test-fired for Axiom commercial crew mission](https://spaceflightnow.com/2022/04/06/falcon-9-axiom-1-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T183905">2022-04-06 18:39:05 UTC</a></sub>
 * [Consequences for nefarious activity in space](https://spacenews.com/addressing-nefarious-space-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T142909">2022-04-06 14:29:09 UTC</a></sub>
-* [SpaceX retires old Starship vehicles, puts new ones to the test](https://www.nasaspaceflight.com/2022/04/spacex-retires-vehicles-new-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T131207">2022-04-06 13:12:07 UTC</a></sub>
-* [New Chinese small sat manufacturing capacity could have international ramifications](https://spacenews.com/new-chinese-small-sat-manufacturing-capacity-could-have-international-ramifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T114909">2022-04-06 11:49:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T103819">2022-04-07 10:38:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T110755">2022-04-07 11:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
