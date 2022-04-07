@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Getting a jump on traffic: The sudden urgency of government-industry partnerships in space traffic management](https://spacenews.com/getting-a-jump-on-traffic-the-sudden-urgency-of-government-industry-partnerships-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T192914">2022-04-07 19:29:14 UTC</a></sub>
 * [Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon](https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T175443">2022-04-07 17:54:43 UTC</a></sub>
 * [Path to sustainable space unclear after Russia’s Ukraine invasion](https://spacenews.com/path-to-sustainable-space-unclear-after-russias-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T174910">2022-04-07 17:49:10 UTC</a></sub>
 * [Starlink loses French spectrum license](https://spacenews.com/starlink-loses-french-spectrum-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T173909">2022-04-07 17:39:09 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to launch quartet of mini geostationary satellites in 2023](https://www.teslarati.com/spacex-astranis-dedicated-falcon-9-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T110930">2022-04-07 11:09:30 UTC</a></sub>
 * [Artemis lunar lander contenders revisit team rosters for round two](https://spacenews.com/artemis-lunar-lander-contenders-revisit-team-rosters-for-round-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T102943">2022-04-07 10:29:43 UTC</a></sub>
 * [ESA continues talks with NASA on ExoMars cooperation](https://spacenews.com/esa-continues-talks-with-nasa-on-exomars-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T100929">2022-04-07 10:09:29 UTC</a></sub>
-* [Space Force to shore up cybersecurity as threats proliferate](https://spacenews.com/space-force-to-shore-up-cybersecurity-as-threats-proliferate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T220910">2022-04-06 22:09:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T190657">2022-04-07 19:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T193242">2022-04-07 19:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
