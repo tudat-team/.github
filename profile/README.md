@@ -554,6 +554,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon](https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T175443">2022-04-07 17:54:43 UTC</a></sub>
+* [Path to sustainable space unclear after Russia’s Ukraine invasion](https://spacenews.com/path-to-sustainable-space-unclear-after-russias-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T174910">2022-04-07 17:49:10 UTC</a></sub>
+* [Starlink loses French spectrum license](https://spacenews.com/starlink-loses-french-spectrum-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T173909">2022-04-07 17:39:09 UTC</a></sub>
 * [NASA's Curiosity Mars Rover Reroutes Away From 'Gator-Back' Rocks](https://mars.nasa.gov/news/9163/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T170900">2022-04-07 17:09:00 UTC</a></sub>
 * [E-Space sheds more light on sustainable megaconstellation plan](https://spacenews.com/e-space-sheds-more-light-on-sustainable-megaconstellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T163909">2022-04-07 16:39:09 UTC</a></sub>
 * [Antonov shortage threatens delivery delays for the biggest satellites](https://spacenews.com/antonov-aircraft-shortage-threatens-more-delays-for-geo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T140909">2022-04-07 14:09:09 UTC</a></sub>
@@ -561,9 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Artemis lunar lander contenders revisit team rosters for round two](https://spacenews.com/artemis-lunar-lander-contenders-revisit-team-rosters-for-round-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T102943">2022-04-07 10:29:43 UTC</a></sub>
 * [ESA continues talks with NASA on ExoMars cooperation](https://spacenews.com/esa-continues-talks-with-nasa-on-exomars-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T100929">2022-04-07 10:09:29 UTC</a></sub>
 * [Space Force to shore up cybersecurity as threats proliferate](https://spacenews.com/space-force-to-shore-up-cybersecurity-as-threats-proliferate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T220910">2022-04-06 22:09:10 UTC</a></sub>
-* [NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center](https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T215905">2022-04-06 21:59:05 UTC</a></sub>
-* [As Russia prepared to invade, U.S. opened commercial imagery pipeline to Ukraine](https://spacenews.com/as-russia-prepared-to-invade-u-s-government-and-satellite-imagery-suppliers-teamed-up-to-help-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T213910">2022-04-06 21:39:10 UTC</a></sub>
-* [NASA Selects Universities for Space Station Research Opportunities](http://www.nasa.gov/press-release/nasa-selects-universities-for-space-station-research-opportunities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T212900">2022-04-06 21:29:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T173735">2022-04-07 17:37:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T180951">2022-04-07 18:09:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
