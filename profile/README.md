@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Mars Rover Reroutes Away From 'Gator-Back' Rocks](https://mars.nasa.gov/news/9163/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T170900">2022-04-07 17:09:00 UTC</a></sub>
 * [E-Space sheds more light on sustainable megaconstellation plan](https://spacenews.com/e-space-sheds-more-light-on-sustainable-megaconstellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T163909">2022-04-07 16:39:09 UTC</a></sub>
 * [Antonov shortage threatens delivery delays for the biggest satellites](https://spacenews.com/antonov-aircraft-shortage-threatens-more-delays-for-geo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T140909">2022-04-07 14:09:09 UTC</a></sub>
 * [SpaceX to launch quartet of mini geostationary satellites in 2023](https://www.teslarati.com/spacex-astranis-dedicated-falcon-9-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T110930">2022-04-07 11:09:30 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center](https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T215905">2022-04-06 21:59:05 UTC</a></sub>
 * [As Russia prepared to invade, U.S. opened commercial imagery pipeline to Ukraine](https://spacenews.com/as-russia-prepared-to-invade-u-s-government-and-satellite-imagery-suppliers-teamed-up-to-help-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T213910">2022-04-06 21:39:10 UTC</a></sub>
 * [NASA Selects Universities for Space Station Research Opportunities](http://www.nasa.gov/press-release/nasa-selects-universities-for-space-station-research-opportunities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T212900">2022-04-06 21:29:00 UTC</a></sub>
-* [SpaceX’s second private astronaut launch on track after Falcon 9 static fire](https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T210937">2022-04-06 21:09:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T171130">2022-04-07 17:11:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T173735">2022-04-07 17:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
