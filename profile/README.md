@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astroscale to restart debris-removal demo with half the thrusters](https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T213909">2022-04-07 21:39:09 UTC</a></sub>
 * [NASA Awards Contract for Modeling, Simulation Capabilities to ANSYS](http://www.nasa.gov/press-release/nasa-awards-contract-for-modeling-simulation-capabilities-to-ansys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T200900">2022-04-07 20:09:00 UTC</a></sub>
 * [Getting a jump on traffic: The sudden urgency of government-industry partnerships in space traffic management](https://spacenews.com/getting-a-jump-on-traffic-the-sudden-urgency-of-government-industry-partnerships-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T192914">2022-04-07 19:29:14 UTC</a></sub>
 * [Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon](https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T175443">2022-04-07 17:54:43 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [E-Space sheds more light on sustainable megaconstellation plan](https://spacenews.com/e-space-sheds-more-light-on-sustainable-megaconstellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T163909">2022-04-07 16:39:09 UTC</a></sub>
 * [Antonov shortage threatens delivery delays for the biggest satellites](https://spacenews.com/antonov-aircraft-shortage-threatens-more-delays-for-geo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T140909">2022-04-07 14:09:09 UTC</a></sub>
 * [SpaceX to launch quartet of mini geostationary satellites in 2023](https://www.teslarati.com/spacex-astranis-dedicated-falcon-9-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T110930">2022-04-07 11:09:30 UTC</a></sub>
-* [Artemis lunar lander contenders revisit team rosters for round two](https://spacenews.com/artemis-lunar-lander-contenders-revisit-team-rosters-for-round-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T102943">2022-04-07 10:29:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T213441">2022-04-07 21:34:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T220813">2022-04-07 22:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
