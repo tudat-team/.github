@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First-of-its-kind commercial astronaut mission heads for space station](https://spaceflightnow.com/2022/04/08/first-of-its-kind-commercial-astronaut-mission-heads-for-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T212906">2022-04-08 21:29:06 UTC</a></sub>
 * [SpaceX launches first all-private astronaut crew to the International Space Station](https://www.teslarati.com/spacex-aces-first-all-private-space-station-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T183930">2022-04-08 18:39:30 UTC</a></sub>
 * [Axiom Private Astronauts Headed to International Space Station](http://www.nasa.gov/press-release/axiom-private-astronauts-headed-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T154900">2022-04-08 15:49:00 UTC</a></sub>
 * [SpaceX launches commercial mission to ISS](https://spacenews.com/spacex-launches-commercial-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T153909">2022-04-08 15:39:09 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [BlackSky looks to expand its military business amid growing interest in commercial satellite imagery](https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T232917">2022-04-07 23:29:17 UTC</a></sub>
 * [Private astronaut mission cleared for launch](https://spacenews.com/private-astronaut-mission-cleared-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T221919">2022-04-07 22:19:19 UTC</a></sub>
 * [Astroscale to restart debris-removal demo with half the thrusters](https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T213909">2022-04-07 21:39:09 UTC</a></sub>
-* [NASA Awards Contract for Modeling, Simulation Capabilities to ANSYS](http://www.nasa.gov/press-release/nasa-awards-contract-for-modeling-simulation-capabilities-to-ansys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T200900">2022-04-07 20:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T213436">2022-04-08 21:34:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T220840">2022-04-08 22:08:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
