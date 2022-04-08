@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NASA's FY 2023 Budget Stays the Course](https://www.planetary.org/articles/nasas-fy-2023-budget-analysis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T170927">2022-04-08 17:09:27 UTC</a></sub>
 * [The value of knowledge](https://www.planetary.org/the-downlink/the-value-of-knowledge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T143930">2022-04-08 14:39:30 UTC</a></sub>
 * [Not a planet? Not a problem.](https://www.planetary.org/the-downlink/not-a-planet-not-a-problem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T143944">2022-04-01 14:39:44 UTC</a></sub>
 * [NASA's FY 2023 Budget](https://www.planetary.org/space-policy/nasas-fy-2023-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T001001">2022-03-28 00:10:01 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Announcing the First-Ever STEP Grant Winners: Citizen Science SETI and Determining Asteroid Properties](https://www.planetary.org/articles/step-grant-winners-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T142818">2022-03-16 14:28:18 UTC</a></sub>
 * [The two-faced Moon](https://www.planetary.org/articles/the-two-faced-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T140432">2022-03-14 14:04:32 UTC</a></sub>
 * [Dive into these ocean worlds](https://www.planetary.org/the-downlink/dive-into-these-ocean-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T153420">2022-03-11 15:34:20 UTC</a></sub>
-* [Another Day in Action](https://www.planetary.org/articles/2022-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T203423">2022-03-10 20:34:23 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T171313">2022-04-08 17:13:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T174011">2022-04-08 17:40:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
