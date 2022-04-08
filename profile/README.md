@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom-1, the first ever private crewed mission to ISS, set for liftoff](https://www.nasaspaceflight.com/2022/04/axiom-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113203">2022-04-08 11:32:03 UTC</a></sub>
+* [Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase](https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113006">2022-04-08 11:30:06 UTC</a></sub>
 * [BlackSky looks to expand its military business amid growing interest in commercial satellite imagery](https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T232917">2022-04-07 23:29:17 UTC</a></sub>
 * [Private astronaut mission cleared for launch](https://spacenews.com/private-astronaut-mission-cleared-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T221919">2022-04-07 22:19:19 UTC</a></sub>
 * [Astroscale to restart debris-removal demo with half the thrusters](https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T213909">2022-04-07 21:39:09 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon](https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T175443">2022-04-07 17:54:43 UTC</a></sub>
 * [Path to sustainable space unclear after Russia’s Ukraine invasion](https://spacenews.com/path-to-sustainable-space-unclear-after-russias-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T174910">2022-04-07 17:49:10 UTC</a></sub>
 * [Starlink loses French spectrum license](https://spacenews.com/starlink-loses-french-spectrum-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T173909">2022-04-07 17:39:09 UTC</a></sub>
-* [NASA's Curiosity Mars Rover Reroutes Away From 'Gator-Back' Rocks](https://mars.nasa.gov/news/9163/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T170900">2022-04-07 17:09:00 UTC</a></sub>
-* [E-Space sheds more light on sustainable megaconstellation plan](https://spacenews.com/e-space-sheds-more-light-on-sustainable-megaconstellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T163909">2022-04-07 16:39:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113312">2022-04-08 11:33:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T121351">2022-04-08 12:13:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
