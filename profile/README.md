@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [The Axiom-1 crew launches today—are these guys tourists, astronauts, or what?](https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T123133">2022-04-08 12:31:33 UTC</a></sub>
-* [Axiom-1, the first ever private crewed mission to ISS, set for liftoff](https://www.nasaspaceflight.com/2022/04/axiom-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113203">2022-04-08 11:32:03 UTC</a></sub>
+* [Axiom Private Astronauts Headed to International Space Station](http://www.nasa.gov/press-release/axiom-private-astronauts-headed-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T154900">2022-04-08 15:49:00 UTC</a></sub>
+* [SpaceX launches commercial mission to ISS](https://spacenews.com/spacex-launches-commercial-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T153909">2022-04-08 15:39:09 UTC</a></sub>
+* [Dragon launches, carrying four private citizens to the space station [Updated]](https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T144533">2022-04-08 14:45:33 UTC</a></sub>
+* [Axiom-1 launches first ever private crewed mission to ISS](https://www.nasaspaceflight.com/2022/04/axiom-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113203">2022-04-08 11:32:03 UTC</a></sub>
 * [Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase](https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113006">2022-04-08 11:30:06 UTC</a></sub>
 * [BlackSky looks to expand its military business amid growing interest in commercial satellite imagery](https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T232917">2022-04-07 23:29:17 UTC</a></sub>
 * [Private astronaut mission cleared for launch](https://spacenews.com/private-astronaut-mission-cleared-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T221919">2022-04-07 22:19:19 UTC</a></sub>
 * [Astroscale to restart debris-removal demo with half the thrusters](https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T213909">2022-04-07 21:39:09 UTC</a></sub>
 * [NASA Awards Contract for Modeling, Simulation Capabilities to ANSYS](http://www.nasa.gov/press-release/nasa-awards-contract-for-modeling-simulation-capabilities-to-ansys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T200900">2022-04-07 20:09:00 UTC</a></sub>
 * [Getting a jump on traffic: The sudden urgency of government-industry partnerships in space traffic management](https://spacenews.com/getting-a-jump-on-traffic-the-sudden-urgency-of-government-industry-partnerships-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T192914">2022-04-07 19:29:14 UTC</a></sub>
-* [Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon](https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T175443">2022-04-07 17:54:43 UTC</a></sub>
-* [Path to sustainable space unclear after Russia’s Ukraine invasion](https://spacenews.com/path-to-sustainable-space-unclear-after-russias-ukraine-invasion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T174910">2022-04-07 17:49:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T154055">2022-04-08 15:40:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T161314">2022-04-08 16:13:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
