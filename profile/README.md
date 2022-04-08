@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BlackSky looks to expand its military business amid growing interest in commercial satellite imagery](https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T232917">2022-04-07 23:29:17 UTC</a></sub>
 * [Private astronaut mission cleared for launch](https://spacenews.com/private-astronaut-mission-cleared-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T221919">2022-04-07 22:19:19 UTC</a></sub>
 * [Astroscale to restart debris-removal demo with half the thrusters](https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T213909">2022-04-07 21:39:09 UTC</a></sub>
 * [NASA Awards Contract for Modeling, Simulation Capabilities to ANSYS](http://www.nasa.gov/press-release/nasa-awards-contract-for-modeling-simulation-capabilities-to-ansys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T200900">2022-04-07 20:09:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starlink loses French spectrum license](https://spacenews.com/starlink-loses-french-spectrum-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T173909">2022-04-07 17:39:09 UTC</a></sub>
 * [NASA's Curiosity Mars Rover Reroutes Away From 'Gator-Back' Rocks](https://mars.nasa.gov/news/9163/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T170900">2022-04-07 17:09:00 UTC</a></sub>
 * [E-Space sheds more light on sustainable megaconstellation plan](https://spacenews.com/e-space-sheds-more-light-on-sustainable-megaconstellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T163909">2022-04-07 16:39:09 UTC</a></sub>
-* [Antonov shortage threatens delivery delays for the biggest satellites](https://spacenews.com/antonov-aircraft-shortage-threatens-more-delays-for-geo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T140909">2022-04-07 14:09:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T233608">2022-04-07 23:36:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T003959">2022-04-08 00:39:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
