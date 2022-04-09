@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japanese satellite laser-comm startup Warpspace draws bead on U.S. market](https://spacenews.com/japanese-satellite-laser-comm-startup-warpspace-draws-bead-on-u-s-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T161909">2022-04-09 16:19:09 UTC</a></sub>
 * [Axiom mission arrives at ISS](https://spacenews.com/axiom-mission-arrives-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T155909">2022-04-09 15:59:09 UTC</a></sub>
 * [Citing valve problem, NASA will load only the SLS core stage in next countdown test](https://spaceflightnow.com/2022/04/09/citing-valve-problem-nasa-will-load-only-the-sls-core-stage-in-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T132908">2022-04-09 13:29:08 UTC</a></sub>
 * [Axiom-1 arrives at ISS for science-packed week on orbit](https://www.nasaspaceflight.com/2022/04/axiom-1-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T122932">2022-04-09 12:29:32 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Axiom Private Astronauts Headed to International Space Station](http://www.nasa.gov/press-release/axiom-private-astronauts-headed-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T154900">2022-04-08 15:49:00 UTC</a></sub>
 * [SpaceX launches commercial mission to ISS](https://spacenews.com/spacex-launches-commercial-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T153909">2022-04-08 15:39:09 UTC</a></sub>
 * [Dragon launches, carrying four private citizens to the space station [Updated]](https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T144533">2022-04-08 14:45:33 UTC</a></sub>
-* [Axiom-1 launches first ever private crewed mission to ISS](https://www.nasaspaceflight.com/2022/04/axiom-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113203">2022-04-08 11:32:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T161134">2022-04-09 16:11:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T165035">2022-04-09 16:50:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
