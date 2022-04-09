@@ -554,8 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Air Force space experiment will seek to demonstrate multi-orbit satellite navigation](https://spacenews.com/air-force-research-lab-experiment-to-assess-benefits-of-multi-orbit-satellite-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T205909">2022-04-09 20:59:09 UTC</a></sub>
 * [First crew of private astronauts welcomed aboard International Space Station](https://spaceflightnow.com/2022/04/09/first-crew-of-private-astronauts-welcomed-aboard-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T191905">2022-04-09 19:19:05 UTC</a></sub>
-* [Air Force Research Lab experiment to assess benefits of multi-orbit satellite navigation](https://spacenews.com/air-force-research-lab-experiment-to-assess-benefits-of-multi-orbit-satellite-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T184908">2022-04-09 18:49:08 UTC</a></sub>
 * [Japanese satellite laser-comm startup Warpspace draws bead on U.S. market](https://spacenews.com/japanese-satellite-laser-comm-startup-warpspace-draws-bead-on-u-s-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T161909">2022-04-09 16:19:09 UTC</a></sub>
 * [Axiom mission arrives at ISS](https://spacenews.com/axiom-mission-arrives-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T155909">2022-04-09 15:59:09 UTC</a></sub>
 * [Citing valve problem, NASA will load only the SLS core stage in next countdown test](https://spaceflightnow.com/2022/04/09/citing-valve-problem-nasa-will-load-only-the-sls-core-stage-in-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T132908">2022-04-09 13:29:08 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T203554">2022-04-09 20:35:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T210721">2022-04-09 21:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
