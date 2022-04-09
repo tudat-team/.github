@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom-1 arrives at ISS for science-packed week on orbit](https://www.nasaspaceflight.com/2022/04/axiom-1-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T122932">2022-04-09 12:29:32 UTC</a></sub>
 * [Vega C to launch Sentinel-1C in 2023](https://spacenews.com/vega-c-to-launch-sentinel-1c-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T225909">2022-04-08 22:59:09 UTC</a></sub>
 * [First-of-its-kind commercial astronaut mission heads for space station](https://spaceflightnow.com/2022/04/08/first-of-its-kind-commercial-astronaut-mission-heads-for-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T212906">2022-04-08 21:29:06 UTC</a></sub>
 * [SpaceX launches first all-private astronaut crew to the International Space Station](https://www.teslarati.com/spacex-aces-first-all-private-space-station-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T183930">2022-04-08 18:39:30 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Axiom-1 launches first ever private crewed mission to ISS](https://www.nasaspaceflight.com/2022/04/axiom-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113203">2022-04-08 11:32:03 UTC</a></sub>
 * [Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase](https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113006">2022-04-08 11:30:06 UTC</a></sub>
 * [BlackSky looks to expand its military business amid growing interest in commercial satellite imagery](https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T232917">2022-04-07 23:29:17 UTC</a></sub>
-* [Private astronaut mission cleared for launch](https://spacenews.com/private-astronaut-mission-cleared-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T221919">2022-04-07 22:19:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T121255">2022-04-09 12:12:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T125320">2022-04-09 12:53:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
