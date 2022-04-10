@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency to accelerate deployment of missile-tracking satellites](https://spacenews.com/space-development-agency-to-accelerate-deployment-of-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T110909">2022-04-10 11:09:09 UTC</a></sub>
 * [NASA to delay, modify SLS countdown rehearsal](https://spacenews.com/nasa-to-delay-modify-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T234908">2022-04-09 23:49:08 UTC</a></sub>
 * [Air Force space experiment will seek to demonstrate multi-orbit satellite navigation](https://spacenews.com/air-force-research-lab-experiment-to-assess-benefits-of-multi-orbit-satellite-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T205909">2022-04-09 20:59:09 UTC</a></sub>
 * [First crew of private astronauts welcomed aboard International Space Station](https://spaceflightnow.com/2022/04/09/first-crew-of-private-astronauts-welcomed-aboard-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T191905">2022-04-09 19:19:05 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Axiom-1 arrives at ISS for science-packed week on orbit](https://www.nasaspaceflight.com/2022/04/axiom-1-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T122932">2022-04-09 12:29:32 UTC</a></sub>
 * [Vega C to launch Sentinel-1C in 2023](https://spacenews.com/vega-c-to-launch-sentinel-1c-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T225909">2022-04-08 22:59:09 UTC</a></sub>
 * [First-of-its-kind commercial astronaut mission heads for space station](https://spaceflightnow.com/2022/04/08/first-of-its-kind-commercial-astronaut-mission-heads-for-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T212906">2022-04-08 21:29:06 UTC</a></sub>
-* [SpaceX launches first all-private astronaut crew to the International Space Station](https://www.teslarati.com/spacex-aces-first-all-private-space-station-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T183930">2022-04-08 18:39:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T113215">2022-04-10 11:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T121245">2022-04-10 12:12:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
