@@ -554,7 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Pythom Space tests its rocket with questionable safety practices](https://arstechnica.com/science/2022/04/pythom-space-tests-its-rocket-with-questionable-safety-practices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T145646">2022-04-11 14:56:46 UTC</a></sub>
+* [Company that aims to race SpaceX to Mars plays with fire](https://arstechnica.com/science/2022/04/pythom-space-tests-its-rocket-with-questionable-safety-practices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T145646">2022-04-11 14:56:46 UTC</a></sub>
 * [SatixFy architect Yoel Gat dies amid SPAC merger plans](https://spacenews.com/satixfy-architect-yoel-gat-dies-amid-spac-merger-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
 * [South Korea hires SpaceX to launch five spy satellites by 2025](https://spacenews.com/south-korea-hires-spacex-to-launch-five-spy-satellites-by-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
 * [ULA orders 116 Aerojet Rocketdyne engines for Vulcan’s upper stage](https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T150910">2022-04-11 15:09:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T154017">2022-04-11 15:40:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
