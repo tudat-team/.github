@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s SpaceX Crew-3 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T184900">2022-04-11 18:49:00 UTC</a></sub>
 * [Download your ‘News from the 37th Space Symposium’ special digital edition](https://spacenews.com/download-your-news-from-the-37th-space-symposium-special-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T175909">2022-04-11 17:59:09 UTC</a></sub>
 * [China launches three space missions, debuts new rocket configuration](https://spaceflightnow.com/2022/04/11/china-launches-three-more-space-missions-debuts-new-rocket-configuration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T170905">2022-04-11 17:09:05 UTC</a></sub>
 * [Space National Guard put on indefinite hold](https://spacenews.com/space-national-guard-put-on-indefinite-hold/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T160910">2022-04-11 16:09:10 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SatixFy architect Yoel Gat dies amid SPAC merger plans](https://spacenews.com/satixfy-architect-yoel-gat-dies-amid-spac-merger-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
 * [NASA to Discuss Plans Today for Artemis Moon Mission Modified Test](http://www.nasa.gov/press-release/nasa-to-discuss-plans-today-for-artemis-moon-mission-modified-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T134900">2022-04-11 13:49:00 UTC</a></sub>
 * [SpaceX static fires Falcon 9 rocket for next NRO spy satellite launch](https://www.teslarati.com/spacex-nrol-85-falcon-9-static-fire-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T105931">2022-04-11 10:59:31 UTC</a></sub>
-* [Companies build up teams to compete for Artemis lunar rover](https://spacenews.com/companies-build-up-teams-to-compete-for-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T102909">2022-04-11 10:29:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T190648">2022-04-11 19:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T193233">2022-04-11 19:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
