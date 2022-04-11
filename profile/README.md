@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX static fires Falcon 9 rocket for next NRO spy satellite launch](https://www.teslarati.com/spacex-nrol-85-falcon-9-static-fire-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T105931">2022-04-11 10:59:31 UTC</a></sub>
 * [Companies build up teams to compete for Artemis lunar rover](https://spacenews.com/companies-build-up-teams-to-compete-for-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T102909">2022-04-11 10:29:09 UTC</a></sub>
 * [Euclid moving into final phase of testing following integration milestone](https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T205618">2022-04-10 20:56:18 UTC</a></sub>
 * [House committee leaders ask White House to withdraw proposed NTSB regulations on commercial launch investigations](https://spacenews.com/house-committee-leaders-ask-white-house-to-withdraw-proposed-ntsb-regulations-on-commercial-launch-investigations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T201909">2022-04-10 20:19:09 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [First crew of private astronauts welcomed aboard International Space Station](https://spaceflightnow.com/2022/04/09/first-crew-of-private-astronauts-welcomed-aboard-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T191905">2022-04-09 19:19:05 UTC</a></sub>
 * [Japanese satellite laser-comm startup Warpspace draws bead on U.S. market](https://spacenews.com/japanese-satellite-laser-comm-startup-warpspace-draws-bead-on-u-s-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T161909">2022-04-09 16:19:09 UTC</a></sub>
 * [Axiom mission arrives at ISS](https://spacenews.com/axiom-mission-arrives-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T155909">2022-04-09 15:59:09 UTC</a></sub>
-* [Citing valve problem, NASA will load only the SLS core stage in next countdown test](https://spaceflightnow.com/2022/04/09/citing-valve-problem-nasa-will-load-only-the-sls-core-stage-in-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T132908">2022-04-09 13:29:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T110731">2022-04-11 11:07:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T113321">2022-04-11 11:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
