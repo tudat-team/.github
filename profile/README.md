@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pythom Space tests its rocket with questionable safety practices](https://arstechnica.com/science/2022/04/pythom-space-tests-its-rocket-with-questionable-safety-practices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T145646">2022-04-11 14:56:46 UTC</a></sub>
 * [SatixFy architect Yoel Gat dies amid SPAC merger plans](https://spacenews.com/satixfy-architect-yoel-gat-dies-amid-spac-merger-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
 * [South Korea hires SpaceX to launch five spy satellites by 2025](https://spacenews.com/south-korea-hires-spacex-to-launch-five-spy-satellites-by-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
 * [ULA orders 116 Aerojet Rocketdyne engines for Vulcan’s upper stage](https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Euclid moving into final phase of testing following integration milestone](https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T205618">2022-04-10 20:56:18 UTC</a></sub>
 * [House committee leaders ask White House to withdraw proposed NTSB regulations on commercial launch investigations](https://spacenews.com/house-committee-leaders-ask-white-house-to-withdraw-proposed-ntsb-regulations-on-commercial-launch-investigations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T201909">2022-04-10 20:19:09 UTC</a></sub>
 * [Space Development Agency to accelerate deployment of missile-tracking satellites](https://spacenews.com/space-development-agency-to-accelerate-deployment-of-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T110909">2022-04-10 11:09:09 UTC</a></sub>
-* [NASA to delay, modify SLS countdown rehearsal](https://spacenews.com/nasa-to-delay-modify-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T234908">2022-04-09 23:49:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T143458">2022-04-11 14:34:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T150910">2022-04-11 15:09:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
