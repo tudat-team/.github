@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [ULA orders 116 engines from Aerojet Rocketdyne for Vulcan’s upper stage](https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T133909">2022-04-11 13:39:09 UTC</a></sub>
+* [SatixFy architect Yoel Gat dies amid SPAC merger plans](https://spacenews.com/satixfy-architect-yoel-gat-dies-amid-spac-merger-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
+* [South Korea hires SpaceX to launch five spy satellites by 2025](https://spacenews.com/south-korea-hires-spacex-to-launch-five-spy-satellites-by-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
+* [ULA orders 116 Aerojet Rocketdyne engines for Vulcan’s upper stage](https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
+* [NASA to Discuss Plans Today for Artemis Moon Mission Modified Test](http://www.nasa.gov/press-release/nasa-to-discuss-plans-today-for-artemis-moon-mission-modified-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T134900">2022-04-11 13:49:00 UTC</a></sub>
 * [SpaceX static fires Falcon 9 rocket for next NRO spy satellite launch](https://www.teslarati.com/spacex-nrol-85-falcon-9-static-fire-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T105931">2022-04-11 10:59:31 UTC</a></sub>
 * [Companies build up teams to compete for Artemis lunar rover](https://spacenews.com/companies-build-up-teams-to-compete-for-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T102909">2022-04-11 10:29:09 UTC</a></sub>
 * [Euclid moving into final phase of testing following integration milestone](https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T205618">2022-04-10 20:56:18 UTC</a></sub>
 * [House committee leaders ask White House to withdraw proposed NTSB regulations on commercial launch investigations](https://spacenews.com/house-committee-leaders-ask-white-house-to-withdraw-proposed-ntsb-regulations-on-commercial-launch-investigations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T201909">2022-04-10 20:19:09 UTC</a></sub>
 * [Space Development Agency to accelerate deployment of missile-tracking satellites](https://spacenews.com/space-development-agency-to-accelerate-deployment-of-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T110909">2022-04-10 11:09:09 UTC</a></sub>
 * [NASA to delay, modify SLS countdown rehearsal](https://spacenews.com/nasa-to-delay-modify-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T234908">2022-04-09 23:49:08 UTC</a></sub>
-* [Air Force space experiment will seek to demonstrate multi-orbit satellite navigation](https://spacenews.com/air-force-research-lab-experiment-to-assess-benefits-of-multi-orbit-satellite-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T205909">2022-04-09 20:59:09 UTC</a></sub>
-* [First crew of private astronauts welcomed aboard International Space Station](https://spaceflightnow.com/2022/04/09/first-crew-of-private-astronauts-welcomed-aboard-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T191905">2022-04-09 19:19:05 UTC</a></sub>
-* [Japanese satellite laser-comm startup Warpspace draws bead on U.S. market](https://spacenews.com/japanese-satellite-laser-comm-startup-warpspace-draws-bead-on-u-s-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T161909">2022-04-09 16:19:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T140759">2022-04-11 14:07:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T143458">2022-04-11 14:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
