@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra wins order for electric thrusters from LeoStella](https://spacenews.com/astra-wins-order-for-electric-thrusters-from-leostella/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T131909">2022-04-12 13:19:09 UTC</a></sub>
 * [SpaceX to launch five South Korean military satellites by 2025](https://www.teslarati.com/spacex-south-korea-425-project-five-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T110931">2022-04-12 11:09:31 UTC</a></sub>
 * [NASA defends decision to proceed with modified SLS countdown test](https://spacenews.com/nasa-defends-decision-to-proceed-with-modified-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T110909">2022-04-12 11:09:09 UTC</a></sub>
 * [How sherpas guide startups through government contracting terrain](https://spacenews.com/how-sherpas-guide-startups-through-government-contracting-terrain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T090909">2022-04-12 09:09:09 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to launch NASA’s SWOT water topography satellite on reused Falcon 9](https://www.teslarati.com/spacex-nasa-swot-launch-reused-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T213931">2022-04-11 21:39:31 UTC</a></sub>
 * [NASA’s SpaceX Crew-3 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T184900">2022-04-11 18:49:00 UTC</a></sub>
 * [Download your ‘News from the 37th Space Symposium’ special digital edition](https://spacenews.com/download-your-news-from-the-37th-space-symposium-special-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T175909">2022-04-11 17:59:09 UTC</a></sub>
-* [China launches three space missions, debuts new rocket configuration](https://spaceflightnow.com/2022/04/11/china-launches-three-more-space-missions-debuts-new-rocket-configuration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T170905">2022-04-11 17:09:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T132809">2022-04-12 13:28:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T134507">2022-04-12 13:45:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
