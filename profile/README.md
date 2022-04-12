@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab confirms plan to catch booster with helicopter later this month](https://spaceflightnow.com/2022/04/11/rocket-lab-confirms-plan-to-catch-booster-with-helicopter-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T234905">2022-04-11 23:49:05 UTC</a></sub>
+* [Moog opens spacecraft-integration facility](https://spacenews.com/new-moog-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T232911">2022-04-11 23:29:11 UTC</a></sub>
 * [NASA Awards Contracts for Aerospace Testing and Facilities Operations](http://www.nasa.gov/press-release/nasa-awards-contracts-for-aerospace-testing-and-facilities-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T215900">2022-04-11 21:59:00 UTC</a></sub>
 * [SpaceX to launch NASA’s SWOT water topography satellite on reused Falcon 9](https://www.teslarati.com/spacex-nasa-swot-launch-reused-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T213931">2022-04-11 21:39:31 UTC</a></sub>
 * [NASA’s SpaceX Crew-3 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T184900">2022-04-11 18:49:00 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space National Guard put on indefinite hold](https://spacenews.com/space-national-guard-put-on-indefinite-hold/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T160910">2022-04-11 16:09:10 UTC</a></sub>
 * [Company that aims to race SpaceX to Mars plays with fire](https://arstechnica.com/science/2022/04/pythom-space-tests-its-rocket-with-questionable-safety-practices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T145646">2022-04-11 14:56:46 UTC</a></sub>
 * [South Korea hires SpaceX to launch five spy satellites by 2025](https://spacenews.com/south-korea-hires-spacex-to-launch-five-spy-satellites-by-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
-* [ULA orders 116 Aerojet Rocketdyne engines for Vulcan’s upper stage](https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
-* [SatixFy architect Yoel Gat dies amid SPAC merger plans](https://spacenews.com/satixfy-architect-yoel-gat-dies-amid-spac-merger-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T135910">2022-04-11 13:59:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T233720">2022-04-11 23:37:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T003455">2022-04-12 00:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
