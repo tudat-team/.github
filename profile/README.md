@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA restarts moon rocket wet dress rehearsal countdown](https://spaceflightnow.com/2022/04/12/nasa-restarts-moon-rocket-wet-dress-rehearsal-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T222906">2022-04-12 22:29:06 UTC</a></sub>
+* [GAO completes investigation of the decision to relocate U.S. Space Command](https://spacenews.com/gao-completes-investigation-of-the-decision-to-relocate-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T221909">2022-04-12 22:19:09 UTC</a></sub>
 * [Astranis adds extra year of life to small GEO satellite design](https://spacenews.com/astranis-adds-extra-year-of-life-to-small-geo-satellite-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T213909">2022-04-12 21:39:09 UTC</a></sub>
 * [Defense Intelligence Agency calls attention to China’s and Russia’s growing presence in space](https://spacenews.com/defense-intelligence-agency-calls-attention-to-chinas-and-russias-growing-presence-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T204909">2022-04-12 20:49:09 UTC</a></sub>
 * [NASA, UAE Mars Missions Agree to Share Science Data](https://mars.nasa.gov/news/9167/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T165900">2022-04-12 16:59:00 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astra wins order for electric thrusters from LeoStella](https://spacenews.com/astra-wins-order-for-electric-thrusters-from-leostella/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T131909">2022-04-12 13:19:09 UTC</a></sub>
 * [SpaceX to launch five South Korean military satellites by 2025](https://www.teslarati.com/spacex-south-korea-425-project-five-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T110931">2022-04-12 11:09:31 UTC</a></sub>
 * [NASA defends decision to proceed with modified SLS countdown test](https://spacenews.com/nasa-defends-decision-to-proceed-with-modified-sls-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T110909">2022-04-12 11:09:09 UTC</a></sub>
-* [How sherpas guide startups through government contracting terrain](https://spacenews.com/how-sherpas-guide-startups-through-government-contracting-terrain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T090909">2022-04-12 09:09:09 UTC</a></sub>
-* [Rocket Lab confirms plan to catch booster with helicopter later this month](https://spaceflightnow.com/2022/04/11/rocket-lab-confirms-plan-to-catch-booster-with-helicopter-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T234905">2022-04-11 23:49:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T223629">2022-04-12 22:36:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T230823">2022-04-12 23:08:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
