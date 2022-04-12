@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Defense Intelligence Agency calls attention to China’s and Russia’s growing presence in space](https://spacenews.com/defense-intelligence-agency-calls-attention-to-chinas-and-russias-growing-presence-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T204909">2022-04-12 20:49:09 UTC</a></sub>
 * [NASA, UAE Mars Missions Agree to Share Science Data](https://mars.nasa.gov/news/9167/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T165900">2022-04-12 16:59:00 UTC</a></sub>
 * [NASA to restart fueling test of SLS rocket, with key modifications](https://arstechnica.com/science/2022/04/nasa-to-restart-fueling-test-of-sls-rocket-with-key-modifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T144852">2022-04-12 14:48:52 UTC</a></sub>
 * [US, India agree to cooperate on space situational awareness](https://spacenews.com/us-india-agree-to-cooperate-on-space-situational-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T143909">2022-04-12 14:39:09 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How sherpas guide startups through government contracting terrain](https://spacenews.com/how-sherpas-guide-startups-through-government-contracting-terrain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T090909">2022-04-12 09:09:09 UTC</a></sub>
 * [Rocket Lab confirms plan to catch booster with helicopter later this month](https://spaceflightnow.com/2022/04/11/rocket-lab-confirms-plan-to-catch-booster-with-helicopter-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T234905">2022-04-11 23:49:05 UTC</a></sub>
 * [Moog opens spacecraft-integration facility](https://spacenews.com/new-moog-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T232911">2022-04-11 23:29:11 UTC</a></sub>
-* [NASA Awards Contracts for Aerospace Testing and Facilities Operations](http://www.nasa.gov/press-release/nasa-awards-contracts-for-aerospace-testing-and-facilities-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T215900">2022-04-11 21:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T203640">2022-04-12 20:36:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T210729">2022-04-12 21:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
