@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA ends cooperation with Russia on lunar missions](https://spacenews.com/esa-ends-cooperation-with-russia-on-lunar-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T225908">2022-04-13 22:59:08 UTC</a></sub>
+* [Dirk Hoke to lead propulsion startup Plasmos](https://spacenews.com/hoke-joins-plasmos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T220908">2022-04-13 22:09:08 UTC</a></sub>
 * [Intelligence official says U.S. government is not micromanaging commercial imagery](https://spacenews.com/intelligence-official-says-u-s-government-is-not-micromanaging-commercial-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T214909">2022-04-13 21:49:09 UTC</a></sub>
 * [NASA Sets Coverage for Russian Spacewalks Outside Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalks-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T194900">2022-04-13 19:49:00 UTC</a></sub>
 * [Trying to sound impressive, Putin says Russia will resume lunar program](https://arstechnica.com/science/2022/04/trying-to-sound-impressive-putin-says-russia-will-resume-lunar-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T190406">2022-04-13 19:04:06 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [White House releases in-space servicing strategy](https://spacenews.com/white-house-releases-in-space-servicing-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T113908">2022-04-13 11:39:08 UTC</a></sub>
 * [SpaceX rapidly constructing Starship’s first Florida launch pad and tower](https://www.teslarati.com/spacex-starship-florida-launch-pad-tower-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T110933">2022-04-13 11:09:33 UTC</a></sub>
 * [Satellites to test-fly new cyber software](https://spacenews.com/satellites-to-test-fly-new-cyber-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T070908">2022-04-13 07:09:08 UTC</a></sub>
-* [NASA restarts moon rocket wet dress rehearsal countdown](https://spaceflightnow.com/2022/04/12/nasa-restarts-moon-rocket-wet-dress-rehearsal-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T222906">2022-04-12 22:29:06 UTC</a></sub>
-* [GAO completes investigation of the decision to relocate U.S. Space Command](https://spacenews.com/gao-completes-investigation-of-the-decision-to-relocate-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T221909">2022-04-12 22:19:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T223602">2022-04-13 22:36:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T230827">2022-04-13 23:08:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
