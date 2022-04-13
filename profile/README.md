@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX rapidly constructing Starship’s first Florida launch pad and tower](https://www.teslarati.com/spacex-starship-florida-launch-pad-tower-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T110933">2022-04-13 11:09:33 UTC</a></sub>
 * [Satellites to test-fly new cyber software](https://spacenews.com/satellites-to-test-fly-new-cyber-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T070908">2022-04-13 07:09:08 UTC</a></sub>
 * [NASA restarts moon rocket wet dress rehearsal countdown](https://spaceflightnow.com/2022/04/12/nasa-restarts-moon-rocket-wet-dress-rehearsal-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T222906">2022-04-12 22:29:06 UTC</a></sub>
 * [GAO completes investigation of the decision to relocate U.S. Space Command](https://spacenews.com/gao-completes-investigation-of-the-decision-to-relocate-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T221909">2022-04-12 22:19:09 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to restart fueling test of SLS rocket, with key modifications](https://arstechnica.com/science/2022/04/nasa-to-restart-fueling-test-of-sls-rocket-with-key-modifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T144852">2022-04-12 14:48:52 UTC</a></sub>
 * [US, India agree to cooperate on space situational awareness](https://spacenews.com/us-india-agree-to-cooperate-on-space-situational-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T143909">2022-04-12 14:39:09 UTC</a></sub>
 * [Astra wins order for electric thrusters from LeoStella](https://spacenews.com/astra-wins-order-for-electric-thrusters-from-leostella/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T131909">2022-04-12 13:19:09 UTC</a></sub>
-* [SpaceX to launch five South Korean military satellites by 2025](https://www.teslarati.com/spacex-south-korea-425-project-five-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T110931">2022-04-12 11:09:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T110729">2022-04-13 11:07:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T113322">2022-04-13 11:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
