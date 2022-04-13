@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intelligence official says U.S. government is not micromanaging commercial imagery](https://spacenews.com/intelligence-official-says-u-s-government-is-not-micromanaging-commercial-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T214909">2022-04-13 21:49:09 UTC</a></sub>
 * [NASA Sets Coverage for Russian Spacewalks Outside Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalks-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T194900">2022-04-13 19:49:00 UTC</a></sub>
 * [Trying to sound impressive, Putin says Russia will resume lunar program](https://arstechnica.com/science/2022/04/trying-to-sound-impressive-putin-says-russia-will-resume-lunar-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T190406">2022-04-13 19:04:06 UTC</a></sub>
 * [Space Force looking at what it will take to refuel satellites in orbit](https://spacenews.com/space-force-looking-at-what-it-will-take-to-refuel-satellites-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T173908">2022-04-13 17:39:08 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Satellites to test-fly new cyber software](https://spacenews.com/satellites-to-test-fly-new-cyber-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T070908">2022-04-13 07:09:08 UTC</a></sub>
 * [NASA restarts moon rocket wet dress rehearsal countdown](https://spaceflightnow.com/2022/04/12/nasa-restarts-moon-rocket-wet-dress-rehearsal-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T222906">2022-04-12 22:29:06 UTC</a></sub>
 * [GAO completes investigation of the decision to relocate U.S. Space Command](https://spacenews.com/gao-completes-investigation-of-the-decision-to-relocate-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T221909">2022-04-12 22:19:09 UTC</a></sub>
-* [Astranis adds extra year of life to small GEO satellite design](https://spacenews.com/astranis-adds-extra-year-of-life-to-small-geo-satellite-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T213909">2022-04-12 21:39:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T213512">2022-04-13 21:35:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T220751">2022-04-13 22:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
