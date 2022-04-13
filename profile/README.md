@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force looking at what it will take to refuel satellites in orbit](https://spacenews.com/space-force-looking-at-what-it-will-take-to-refuel-satellites-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T173908">2022-04-13 17:39:08 UTC</a></sub>
+* [Accelerators offer startups an introduction to government markets](https://spacenews.com/accelerators-offer-startups-an-introduction-to-government-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T171908">2022-04-13 17:19:08 UTC</a></sub>
 * [White House releases in-space servicing strategy](https://spacenews.com/white-house-releases-in-space-servicing-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T113908">2022-04-13 11:39:08 UTC</a></sub>
 * [SpaceX rapidly constructing Starship’s first Florida launch pad and tower](https://www.teslarati.com/spacex-starship-florida-launch-pad-tower-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T110933">2022-04-13 11:09:33 UTC</a></sub>
 * [Satellites to test-fly new cyber software](https://spacenews.com/satellites-to-test-fly-new-cyber-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T070908">2022-04-13 07:09:08 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astranis adds extra year of life to small GEO satellite design](https://spacenews.com/astranis-adds-extra-year-of-life-to-small-geo-satellite-design/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T213909">2022-04-12 21:39:09 UTC</a></sub>
 * [Defense Intelligence Agency calls attention to China’s and Russia’s growing presence in space](https://spacenews.com/defense-intelligence-agency-calls-attention-to-chinas-and-russias-growing-presence-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T204909">2022-04-12 20:49:09 UTC</a></sub>
 * [NASA, UAE Mars Missions Agree to Share Science Data](https://mars.nasa.gov/news/9167/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T165900">2022-04-12 16:59:00 UTC</a></sub>
-* [NASA to restart fueling test of SLS rocket, with key modifications](https://arstechnica.com/science/2022/04/nasa-to-restart-fueling-test-of-sls-rocket-with-key-modifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T144852">2022-04-12 14:48:52 UTC</a></sub>
-* [US, India agree to cooperate on space situational awareness](https://spacenews.com/us-india-agree-to-cooperate-on-space-situational-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T143909">2022-04-12 14:39:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [OFT-2: Pegasus barge brings Atlas V to launch site](https://blog.ulalaunch.com/blog/oft-2-pegasus-barge-brings-atlas-v-to-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T171935">2022-04-13 17:19:35 UTC</a></sub>
 * [NASA's FY 2023 Budget Stays the Course](https://www.planetary.org/articles/nasas-fy-2023-budget-analysis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T170927">2022-04-08 17:09:27 UTC</a></sub>
 * [The value of knowledge](https://www.planetary.org/the-downlink/the-value-of-knowledge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T143930">2022-04-08 14:39:30 UTC</a></sub>
 * [Not a planet? Not a problem.](https://www.planetary.org/the-downlink/not-a-planet-not-a-problem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T143944">2022-04-01 14:39:44 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Beyond the far side](https://www.planetary.org/the-downlink/beyond-the-far-side) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T143439">2022-03-18 14:34:39 UTC</a></sub>
 * [Announcing the First-Ever STEP Grant Winners: Citizen Science SETI and Determining Asteroid Properties](https://www.planetary.org/articles/step-grant-winners-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T142818">2022-03-16 14:28:18 UTC</a></sub>
 * [The two-faced Moon](https://www.planetary.org/articles/the-two-faced-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T140432">2022-03-14 14:04:32 UTC</a></sub>
-* [Dive into these ocean worlds](https://www.planetary.org/the-downlink/dive-into-these-ocean-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T153420">2022-03-11 15:34:20 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T171334">2022-04-13 17:13:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T173910">2022-04-13 17:39:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
