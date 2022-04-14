@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astranis eyes U.S. military customers for its small geostationary satellites](https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T203918">2022-04-14 20:39:18 UTC</a></sub>
 * [Avanti sheds $550 million of debt to free up growth plan](https://spacenews.com/avanti-sheds-550-million-of-debt-to-free-up-growth-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T195918">2022-04-14 19:59:18 UTC</a></sub>
 * [NASA Invites Media to Cover Boeing’s Orbital Flight Test-2 Mission](http://www.nasa.gov/press-release/nasa-invites-media-to-cover-boeing-s-orbital-flight-test-2-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T190900">2022-04-14 19:09:00 UTC</a></sub>
 * [Space domain awareness: A secret weapon against shadowy threats in orbit](https://spacenews.com/space-domain-awareness-a-secret-weapon-against-shadowy-threats-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T180919">2022-04-14 18:09:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CAPSTONE cubesat ready for cislunar mission](https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T143919">2022-04-14 14:39:19 UTC</a></sub>
 * [Capella unveils automated tasking products](https://spacenews.com/capella-3-new-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T130918">2022-04-14 13:09:18 UTC</a></sub>
 * [NASA into next attempt to complete modified Artemis 1 Wet Dress Rehearsal](https://www.nasaspaceflight.com/2022/04/sls-wdr-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T125203">2022-04-14 12:52:03 UTC</a></sub>
-* [China gears up for new space station missions, record-breaking crew set to return home](https://spacenews.com/china-gears-up-for-new-space-station-missions-record-breaking-crew-set-to-return-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T122920">2022-04-14 12:29:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T203643">2022-04-14 20:36:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T210729">2022-04-14 21:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
