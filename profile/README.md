@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage Set for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-4-briefing-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T222900">2022-04-14 22:29:00 UTC</a></sub>
 * [NASA halts third attempt at SLS practice countdown](https://spacenews.com/nasa-halts-third-attempt-at-sls-practice-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T213918">2022-04-14 21:39:18 UTC</a></sub>
 * [Astranis eyes U.S. military customers for its small geostationary satellites](https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T203918">2022-04-14 20:39:18 UTC</a></sub>
 * [Avanti sheds $550 million of debt to free up growth plan](https://spacenews.com/avanti-sheds-550-million-of-debt-to-free-up-growth-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T195918">2022-04-14 19:59:18 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Releases Equity Action Plan to Make Space More Accessible to All](http://www.nasa.gov/press-release/nasa-releases-equity-action-plan-to-make-space-more-accessible-to-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
 * [La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos](http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
 * [CAPSTONE cubesat ready for cislunar mission](https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T143919">2022-04-14 14:39:19 UTC</a></sub>
-* [Capella unveils automated tasking products](https://spacenews.com/capella-3-new-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T130918">2022-04-14 13:09:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T223804">2022-04-14 22:38:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T230819">2022-04-14 23:08:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
