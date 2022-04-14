@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CAPSTONE cubesat ready for cislunar mission](https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T143919">2022-04-14 14:39:19 UTC</a></sub>
 * [Capella unveils automated tasking products](https://spacenews.com/capella-3-new-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T130918">2022-04-14 13:09:18 UTC</a></sub>
 * [NASA into next attempt to complete modified Artemis 1 Wet Dress Rehearsal](https://www.nasaspaceflight.com/2022/04/sls-wdr-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T125203">2022-04-14 12:52:03 UTC</a></sub>
 * [China gears up for new space station missions, record-breaking crew set to return home](https://spacenews.com/china-gears-up-for-new-space-station-missions-record-breaking-crew-set-to-return-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T122920">2022-04-14 12:29:20 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA ends cooperation with Russia on lunar missions](https://spacenews.com/esa-ends-cooperation-with-russia-on-lunar-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T225908">2022-04-13 22:59:08 UTC</a></sub>
 * [Dirk Hoke to lead propulsion startup Plasmos](https://spacenews.com/hoke-joins-plasmos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T220908">2022-04-13 22:09:08 UTC</a></sub>
 * [Intelligence official says U.S. government is not micromanaging commercial imagery](https://spacenews.com/intelligence-official-says-u-s-government-is-not-micromanaging-commercial-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T214909">2022-04-13 21:49:09 UTC</a></sub>
-* [NASA Sets Coverage for Russian Spacewalks Outside Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalks-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T194900">2022-04-13 19:49:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T143450">2022-04-14 14:34:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T150845">2022-04-14 15:08:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
