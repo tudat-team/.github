@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA shifts Earth science mission to previously flown Falcon 9](https://spacenews.com/nasa-shifts-earth-science-mission-to-previously-flown-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T115907">2022-04-14 11:59:07 UTC</a></sub>
 * [SpaceX, NASA refine Crew-4 launch date as Axiom astronauts focus on science](https://www.teslarati.com/spacex-nasa-crew-4-launch-delay-axiom-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T110927">2022-04-14 11:09:27 UTC</a></sub>
 * [Russian invasion of Ukraine exposes cybersecurity threat to commercial satellites](https://spacenews.com/russian-invasion-of-ukraine-exposes-cybersecurity-threat-to-commercial-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T090908">2022-04-14 09:09:08 UTC</a></sub>
 * [ESA ends cooperation with Russia on lunar missions](https://spacenews.com/esa-ends-cooperation-with-russia-on-lunar-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T225908">2022-04-13 22:59:08 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Trying to sound impressive, Putin says Russia will resume lunar program](https://arstechnica.com/science/2022/04/trying-to-sound-impressive-putin-says-russia-will-resume-lunar-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T190406">2022-04-13 19:04:06 UTC</a></sub>
 * [Space Force looking at what it will take to refuel satellites in orbit](https://spacenews.com/space-force-looking-at-what-it-will-take-to-refuel-satellites-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T173908">2022-04-13 17:39:08 UTC</a></sub>
 * [Accelerators offer startups an introduction to government markets](https://spacenews.com/accelerators-offer-startups-an-introduction-to-government-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T171908">2022-04-13 17:19:08 UTC</a></sub>
-* [White House releases in-space servicing strategy](https://spacenews.com/white-house-releases-in-space-servicing-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T113908">2022-04-13 11:39:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T113320">2022-04-14 11:33:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T121517">2022-04-14 12:15:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
