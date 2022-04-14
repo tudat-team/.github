@@ -554,8 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA Releases Equity Action Plan to Make Space More Accessible to All](http://www.nasa.gov/press-release/nasa-releases-equity-action-plan-to-make-space-more-accessible-to-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
 * [La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos](http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
+* [NASA Releases Equity Action Plan to Make Space More Accessible to All](http://www.nasa.gov/press-release/nasa-releases-equity-action-plan-to-make-space-more-accessible-to-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
 * [CAPSTONE cubesat ready for cislunar mission](https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T143919">2022-04-14 14:39:19 UTC</a></sub>
 * [Capella unveils automated tasking products](https://spacenews.com/capella-3-new-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T130918">2022-04-14 13:09:18 UTC</a></sub>
 * [NASA into next attempt to complete modified Artemis 1 Wet Dress Rehearsal](https://www.nasaspaceflight.com/2022/04/sls-wdr-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T125203">2022-04-14 12:52:03 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T161058">2022-04-14 16:10:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T165524">2022-04-14 16:55:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
