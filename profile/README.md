@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to Cover Boeing’s Orbital Flight Test-2 Mission](http://www.nasa.gov/press-release/nasa-invites-media-to-cover-boeing-s-orbital-flight-test-2-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T190900">2022-04-14 19:09:00 UTC</a></sub>
 * [Space domain awareness: A secret weapon against shadowy threats in orbit](https://spacenews.com/space-domain-awareness-a-secret-weapon-against-shadowy-threats-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T180919">2022-04-14 18:09:19 UTC</a></sub>
 * [Kepler validates intersatellite data-relay terminal](https://spacenews.com/kepler-validates-intersatellite-data-relay-terminal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T170918">2022-04-14 17:09:18 UTC</a></sub>
-* [La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos](http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
 * [NASA Releases Equity Action Plan to Make Space More Accessible to All](http://www.nasa.gov/press-release/nasa-releases-equity-action-plan-to-make-space-more-accessible-to-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
+* [La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos](http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
 * [CAPSTONE cubesat ready for cislunar mission](https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T143919">2022-04-14 14:39:19 UTC</a></sub>
 * [Capella unveils automated tasking products](https://spacenews.com/capella-3-new-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T130918">2022-04-14 13:09:18 UTC</a></sub>
 * [NASA into next attempt to complete modified Artemis 1 Wet Dress Rehearsal](https://www.nasaspaceflight.com/2022/04/sls-wdr-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T125203">2022-04-14 12:52:03 UTC</a></sub>
 * [China gears up for new space station missions, record-breaking crew set to return home](https://spacenews.com/china-gears-up-for-new-space-station-missions-record-breaking-crew-set-to-return-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T122920">2022-04-14 12:29:20 UTC</a></sub>
 * [NASA shifts Earth science mission to previously flown Falcon 9](https://spacenews.com/nasa-shifts-earth-science-mission-to-previously-flown-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T115907">2022-04-14 11:59:07 UTC</a></sub>
-* [SpaceX, NASA refine Crew-4 launch date as Axiom astronauts focus on science](https://www.teslarati.com/spacex-nasa-crew-4-launch-delay-axiom-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T110927">2022-04-14 11:09:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T190804">2022-04-14 19:08:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T193247">2022-04-14 19:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
