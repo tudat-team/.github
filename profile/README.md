@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Coverage Set for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-coverage-set-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T134000">2022-04-15 13:40:00 UTC</a></sub>
 * [SpaceX begins stress-testing upgraded Super Heavy booster](https://www.teslarati.com/spacex-super-heavy-booster-7-stress-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T111025">2022-04-15 11:10:25 UTC</a></sub>
 * [Rocket Report: NASA scrubs third SLS fueling test, Pythom Space strikes back](https://arstechnica.com/science/2022/04/rocket-report-nasa-scrubs-third-sls-fueling-test-pythom-space-strikes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T110040">2022-04-15 11:00:40 UTC</a></sub>
 * [Coverage Set for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-4-briefing-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T222900">2022-04-14 22:29:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Invites Media to Cover Boeing’s Orbital Flight Test-2 Mission](http://www.nasa.gov/press-release/nasa-invites-media-to-cover-boeing-s-orbital-flight-test-2-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T190900">2022-04-14 19:09:00 UTC</a></sub>
 * [Space domain awareness: A secret weapon against shadowy threats in orbit](https://spacenews.com/space-domain-awareness-a-secret-weapon-against-shadowy-threats-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T180919">2022-04-14 18:09:19 UTC</a></sub>
 * [Kepler validates intersatellite data-relay terminal](https://spacenews.com/kepler-validates-intersatellite-data-relay-terminal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T170918">2022-04-14 17:09:18 UTC</a></sub>
-* [NASA Releases Equity Action Plan to Make Space More Accessible to All](http://www.nasa.gov/press-release/nasa-releases-equity-action-plan-to-make-space-more-accessible-to-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T132108">2022-04-15 13:21:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T134038">2022-04-15 13:40:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
