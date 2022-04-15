@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese astronauts undock from space station, head for landing](https://spaceflightnow.com/2022/04/15/chinese-astronauts-undock-from-space-station-head-for-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T223926">2022-04-15 22:39:26 UTC</a></sub>
 * [NASA and Space Force cooperate on near Earth object data](https://spacenews.com/nasa-and-space-force-cooperate-on-near-earth-object-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T202937">2022-04-15 20:29:37 UTC</a></sub>
 * [Chinese Shiyan-10 satellite reappears in new Molniya orbit months after launch anomaly](https://spacenews.com/chinese-shiyan-10-satellite-reappears-in-new-molniya-orbit-months-after-launch-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T142943">2022-04-15 14:29:43 UTC</a></sub>
 * [NASA Coverage Set for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-coverage-set-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T134000">2022-04-15 13:40:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA halts third attempt at SLS practice countdown](https://spacenews.com/nasa-halts-third-attempt-at-sls-practice-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T213918">2022-04-14 21:39:18 UTC</a></sub>
 * [Astranis eyes U.S. military customers for its small geostationary satellites](https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T203918">2022-04-14 20:39:18 UTC</a></sub>
 * [Avanti sheds $550 million of debt to free up growth plan](https://spacenews.com/avanti-sheds-550-million-of-debt-to-free-up-growth-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T195918">2022-04-14 19:59:18 UTC</a></sub>
-* [NASA Invites Media to Cover Boeing’s Orbital Flight Test-2 Mission](http://www.nasa.gov/press-release/nasa-invites-media-to-cover-boeing-s-orbital-flight-test-2-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T190900">2022-04-14 19:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T223658">2022-04-15 22:36:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T230903">2022-04-15 23:09:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
