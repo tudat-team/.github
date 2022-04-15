@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX begins stress-testing upgraded Super Heavy booster](https://www.teslarati.com/spacex-super-heavy-booster-7-stress-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T111025">2022-04-15 11:10:25 UTC</a></sub>
+* [Rocket Report: NASA scrubs third SLS fueling test, Pythom Space strikes back](https://arstechnica.com/science/2022/04/rocket-report-nasa-scrubs-third-sls-fueling-test-pythom-space-strikes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T110040">2022-04-15 11:00:40 UTC</a></sub>
 * [Coverage Set for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-4-briefing-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T222900">2022-04-14 22:29:00 UTC</a></sub>
 * [NASA halts third attempt at SLS practice countdown](https://spacenews.com/nasa-halts-third-attempt-at-sls-practice-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T213918">2022-04-14 21:39:18 UTC</a></sub>
 * [Astranis eyes U.S. military customers for its small geostationary satellites](https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T203918">2022-04-14 20:39:18 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space domain awareness: A secret weapon against shadowy threats in orbit](https://spacenews.com/space-domain-awareness-a-secret-weapon-against-shadowy-threats-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T180919">2022-04-14 18:09:19 UTC</a></sub>
 * [Kepler validates intersatellite data-relay terminal](https://spacenews.com/kepler-validates-intersatellite-data-relay-terminal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T170918">2022-04-14 17:09:18 UTC</a></sub>
 * [NASA Releases Equity Action Plan to Make Space More Accessible to All](http://www.nasa.gov/press-release/nasa-releases-equity-action-plan-to-make-space-more-accessible-to-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
-* [La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos](http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T155900">2022-04-14 15:59:00 UTC</a></sub>
-* [CAPSTONE cubesat ready for cislunar mission](https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T143919">2022-04-14 14:39:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T113304">2022-04-15 11:33:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T121355">2022-04-15 12:13:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
