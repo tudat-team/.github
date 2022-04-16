@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA ready for Ax-1 return and Crew-4 launch](https://spacenews.com/nasa-ready-for-ax-1-return-and-crew-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T230949">2022-04-15 23:09:49 UTC</a></sub>
 * [Chinese astronauts undock from space station, head for landing](https://spaceflightnow.com/2022/04/15/chinese-astronauts-undock-from-space-station-head-for-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T223926">2022-04-15 22:39:26 UTC</a></sub>
 * [NASA and Space Force cooperate on near Earth object data](https://spacenews.com/nasa-and-space-force-cooperate-on-near-earth-object-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T202937">2022-04-15 20:29:37 UTC</a></sub>
 * [Chinese Shiyan-10 satellite reappears in new Molniya orbit months after launch anomaly](https://spacenews.com/chinese-shiyan-10-satellite-reappears-in-new-molniya-orbit-months-after-launch-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T142943">2022-04-15 14:29:43 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Coverage Set for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-4-briefing-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T222900">2022-04-14 22:29:00 UTC</a></sub>
 * [NASA halts third attempt at SLS practice countdown](https://spacenews.com/nasa-halts-third-attempt-at-sls-practice-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T213918">2022-04-14 21:39:18 UTC</a></sub>
 * [Astranis eyes U.S. military customers for its small geostationary satellites](https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T203918">2022-04-14 20:39:18 UTC</a></sub>
-* [Avanti sheds $550 million of debt to free up growth plan](https://spacenews.com/avanti-sheds-550-million-of-debt-to-free-up-growth-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T195918">2022-04-14 19:59:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T233630">2022-04-15 23:36:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T003813">2022-04-16 00:38:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
