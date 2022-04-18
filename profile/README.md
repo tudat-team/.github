@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Mars scientists look to less expensive missions](https://spacenews.com/mars-scientists-look-to-less-expensive-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T113940">2022-04-18 11:39:40 UTC</a></sub>
 * [NASA asks SpaceX to decide the fate of ‘Dragon XL’ lunar cargo spacecraft](https://www.teslarati.com/nasa-spacex-dragon-xl-lunar-cargo-spacecraft-rfi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T111035">2022-04-18 11:10:35 UTC</a></sub>
 * [Seeking growth in unpredictable times: A conversation with SES CEO Steve Collar](https://spacenews.com/seeking-growth-in-unpredictable-times-a-conversation-with-ses-ceo-steve-collar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T080936">2022-04-18 08:09:36 UTC</a></sub>
 * [COMSPOC executive to join DoD space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T075936">2022-04-18 07:59:36 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to roll back its mega rocket after failing to complete countdown test](https://arstechnica.com/science/2022/04/nasa-to-roll-back-its-mega-rocket-after-failing-to-complete-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T031036">2022-04-17 03:10:36 UTC</a></sub>
 * [NASA to return Artemis moon rocket to assembly building for repairs](https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T015926">2022-04-17 01:59:26 UTC</a></sub>
 * [Shenzhou-13 astronauts return to Earth after 182-day mission](https://spacenews.com/shenzhou-13-astronauts-return-to-earth-after-182-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T195937">2022-04-16 19:59:37 UTC</a></sub>
-* [Far side: the moon’s use as a new astronomical site](https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T121941">2022-04-16 12:19:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T113314">2022-04-18 11:33:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T121514">2022-04-18 12:15:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
