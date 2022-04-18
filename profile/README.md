@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Celebrates Earth Day with Every #NASAEarthling](http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-every-nasaearthling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T210900">2022-04-18 21:09:00 UTC</a></sub>
 * [Lockheed Martin proposes multi-layer space network for missile defense](https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T204918">2022-04-18 20:49:18 UTC</a></sub>
 * [Russian cosmonauts begin spacewalk to outfit European robotic arm](https://spaceflightnow.com/2022/04/18/russian-eva-52/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T155930">2022-04-18 15:59:30 UTC</a></sub>
-* [Cosmonauts preparing for spacewalk to activate space station’s European Robotic Arm](https://www.nasaspaceflight.com/2022/04/cosmonauts-spacewalk-european-robotic-arm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T130420">2022-04-18 13:04:20 UTC</a></sub>
+* [Cosmonauts complete spacewalk to activate space station’s European Robotic Arm](https://www.nasaspaceflight.com/2022/04/cosmonauts-spacewalk-european-robotic-arm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T130420">2022-04-18 13:04:20 UTC</a></sub>
 * [Mars scientists look to less expensive missions](https://spacenews.com/mars-scientists-look-to-less-expensive-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T113940">2022-04-18 11:39:40 UTC</a></sub>
 * [NASA asks SpaceX to decide the fate of ‘Dragon XL’ lunar cargo spacecraft](https://www.teslarati.com/nasa-spacex-dragon-xl-lunar-cargo-spacecraft-rfi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T111035">2022-04-18 11:10:35 UTC</a></sub>
 * [Seeking growth in unpredictable times: A conversation with SES CEO Steve Collar](https://spacenews.com/seeking-growth-in-unpredictable-times-a-conversation-with-ses-ceo-steve-collar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T080936">2022-04-18 08:09:36 UTC</a></sub>
 * [COMSPOC executive to join DoD space policy office](https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T075936">2022-04-18 07:59:36 UTC</a></sub>
 * [SpaceX reuses Falcon 9 booster for second spy satellite launch in two months](https://www.teslarati.com/spacex-second-nro-spy-satellite-launch-two-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T212114">2022-04-17 21:21:14 UTC</a></sub>
 * [SpaceX launches and lands rocket National Reconnaissance Office mission](https://spaceflightnow.com/2022/04/17/spacex-launches-and-lands-rocket-on-mission-for-national-reconnaissance-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T150926">2022-04-17 15:09:26 UTC</a></sub>
-* [SpaceX launches NROL-85 spy satellite for U.S. National Reconnaissance Office](https://spacenews.com/spacex-launches-nrol-85-spy-satellite-for-u-s-national-reconnaissance-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T134940">2022-04-17 13:49:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T213332">2022-04-18 21:33:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T220818">2022-04-18 22:08:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
