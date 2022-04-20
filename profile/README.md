@@ -563,7 +563,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission](https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T100918">2022-04-20 10:09:18 UTC</a></sub>
 * [Ingenuity’s record-breaking year transforms Mars exploration](https://spaceflightnow.com/2022/04/19/ingenuitys-record-breaking-year-transforms-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T215914">2022-04-19 21:59:14 UTC</a></sub>
 * [Lonestar emerges from stealth with plans for lunar data centers](https://spacenews.com/lonestar-emerges-from-stealth-with-plans-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T191918">2022-04-19 19:19:18 UTC</a></sub>
-* [NASA's Perseverance Rover Arrives at Delta for New Science Campaign](https://mars.nasa.gov/news/9170/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161900">2022-04-19 16:19:00 UTC</a></sub>
+* [NASA's Perseverance Rover Captures Video of Solar Eclipse on Mars](https://mars.nasa.gov/news/9172/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T170900">2022-04-19 17:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T170020">2022-04-20 17:00:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T174418">2022-04-20 17:44:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
