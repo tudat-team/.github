@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches and lands another Falcon 9 booster 12 times](https://www.teslarati.com/spacex-falcon-9-booster-12th-launch-round-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T192938">2022-04-21 19:29:38 UTC</a></sub>
 * [ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight](https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T164915">2022-04-21 16:49:15 UTC</a></sub>
 * [NASA Updates Coverage for Axiom Mission 1 Departure from Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-axiom-mission-1-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T134900">2022-04-21 13:49:00 UTC</a></sub>
 * [SpaceX launch cadence moves forward with 53 more Starlink satellites to orbit](https://www.nasaspaceflight.com/2022/04/starlink-4-14-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T130649">2022-04-21 13:06:49 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [South Korea’s double-digit space budget boost](https://spacenews.com/south-koreas-double-digit-space-budget-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T081918">2022-04-21 08:19:18 UTC</a></sub>
 * [NASA selects six companies to demonstrate commercial successors to TDRS](https://spacenews.com/nasa-selects-six-companies-to-demonstrate-commercial-successors-to-tdrs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T080917">2022-04-21 08:09:17 UTC</a></sub>
 * [OneWeb signs contract to launch satellites from India in 2022](https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
-* [DoD a main proponent of anti-satellite test ban: ‘We are not disarming’](https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203918">2022-04-20 20:39:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T190548">2022-04-21 19:05:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T193304">2022-04-21 19:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
