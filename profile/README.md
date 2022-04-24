@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA readies SLS moon rocket for return to Vehicle Assembly Building](https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T220415">2022-04-24 22:04:15 UTC</a></sub>
+* [Historic Axiom-1 mission set for return from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T212449">2022-04-24 21:24:49 UTC</a></sub>
 * [China to conduct asteroid deflection test around 2025](https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T121419">2022-04-24 12:14:19 UTC</a></sub>
 * [Space startups argue for more agile business models](https://spacenews.com/space-startups-argue-for-more-agile-business-models/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T194419">2022-04-23 19:44:19 UTC</a></sub>
 * [SpaceX again waves off return of Axiom crew mission](https://spaceflightnow.com/2022/04/23/spacex-again-waves-off-return-of-axiom-crew-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T155415">2022-04-23 15:54:15 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Copernic Space welcomes Kevin O’Connell to advisory board](https://spacenews.com/oconnell-works-with-copernic-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T225342">2022-04-22 22:53:42 UTC</a></sub>
 * [Space Force radar that monitors low Earth orbit to feed data directly to cloud platform](https://spacenews.com/space-force-radar-that-monitors-low-earth-orbit-to-feed-data-directly-to-cloud-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
 * [Japan’s ispace negotiating first commercial moon landing insurance](https://spacenews.com/japans-ispace-negotiating-first-commercial-moon-landing-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
-* [Starlink signs first inflight Wi-Fi deal for services later this year](https://spacenews.com/starlink-signs-first-inflight-wi-fi-deal-for-services-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T145342">2022-04-22 14:53:42 UTC</a></sub>
-* [South Korea “welcomes” U.S. moratorium on anti-satellite missile tests; China skeptical](https://spacenews.com/south-korea-welcomes-u-s-moratorium-on-anti-satellite-missile-tests-china-skeptical/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T125342">2022-04-22 12:53:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T213434">2022-04-24 21:34:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T220755">2022-04-24 22:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
