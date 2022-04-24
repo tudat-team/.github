@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to conduct asteroid deflection test around 2025](https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T121419">2022-04-24 12:14:19 UTC</a></sub>
 * [Space startups argue for more agile business models](https://spacenews.com/space-startups-argue-for-more-agile-business-models/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T194419">2022-04-23 19:44:19 UTC</a></sub>
 * [SpaceX again waves off return of Axiom crew mission](https://spaceflightnow.com/2022/04/23/spacex-again-waves-off-return-of-axiom-crew-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T155415">2022-04-23 15:54:15 UTC</a></sub>
 * [Iridium and General Dynamics submit joint bid for Space Development Agency contract](https://spacenews.com/iridium-and-general-dynamics-submit-joint-bid-for-space-development-agency-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T101342">2022-04-23 10:13:42 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japan’s ispace negotiating first commercial moon landing insurance](https://spacenews.com/japans-ispace-negotiating-first-commercial-moon-landing-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
 * [Starlink signs first inflight Wi-Fi deal for services later this year](https://spacenews.com/starlink-signs-first-inflight-wi-fi-deal-for-services-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T145342">2022-04-22 14:53:42 UTC</a></sub>
 * [South Korea “welcomes” U.S. moratorium on anti-satellite missile tests; China skeptical](https://spacenews.com/south-korea-welcomes-u-s-moratorium-on-anti-satellite-missile-tests-china-skeptical/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T125342">2022-04-22 12:53:42 UTC</a></sub>
-* [House appropriator promises to mark up NASA spending bill on schedule](https://spacenews.com/house-appropriator-promises-to-mark-up-nasa-spending-bill-on-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T115342">2022-04-22 11:53:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T121329">2022-04-24 12:13:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T125516">2022-04-24 12:55:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
