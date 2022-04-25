@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kleos unveils dedicated, taskable RF monitoring missions](https://spacenews.com/kleos-mission-as-a-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T060419">2022-04-25 06:04:19 UTC</a></sub>
 * [NASA readies SLS moon rocket for return to Vehicle Assembly Building](https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T220415">2022-04-24 22:04:15 UTC</a></sub>
 * [Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T212449">2022-04-24 21:24:49 UTC</a></sub>
 * [China to conduct asteroid deflection test around 2025](https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T121419">2022-04-24 12:14:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Iridium and General Dynamics submit joint bid for Space Development Agency contract](https://spacenews.com/iridium-and-general-dynamics-submit-joint-bid-for-space-development-agency-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T101342">2022-04-23 10:13:42 UTC</a></sub>
 * [NASA space technology programs face “constraining” budget](https://spacenews.com/nasa-space-technology-programs-face-constraining-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T003421">2022-04-23 00:34:21 UTC</a></sub>
 * [Copernic Space welcomes Kevin O’Connell to advisory board](https://spacenews.com/oconnell-works-with-copernic-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T225342">2022-04-22 22:53:42 UTC</a></sub>
-* [Space Force radar that monitors low Earth orbit to feed data directly to cloud platform](https://spacenews.com/space-force-radar-that-monitors-low-earth-orbit-to-feed-data-directly-to-cloud-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T053537">2022-04-25 05:35:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T061228">2022-04-25 06:12:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
