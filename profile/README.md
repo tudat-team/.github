@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink secures first major airline Wi-Fi deal with Hawaiian Airlines](https://spacenews.com/starlink-secures-first-major-airline-wi-fi-deal-with-hawaiian-airlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T152419">2022-04-25 15:24:19 UTC</a></sub>
 * [Photos: Close-ups of NASA’s moon rocket on the launch pad](https://spaceflightnow.com/2022/04/25/photos-close-ups-of-nasas-moon-rocket-on-the-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T150415">2022-04-25 15:04:15 UTC</a></sub>
 * [ManTech tracking foreign influence using open-source intelligence](https://spacenews.com/mantech-tracking-foreign-influence-using-open-source-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T144418">2022-04-25 14:44:18 UTC</a></sub>
 * [First all-private mission to the space station will finally come home](https://arstechnica.com/science/2022/04/first-all-private-mission-to-the-space-station-will-finally-come-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T142531">2022-04-25 14:25:31 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX’s private Dragon astronauts leave space station five days late](https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T110436">2022-04-25 11:04:36 UTC</a></sub>
 * [U.S. ASAT ban meant to support U.N. discussions on space threats](https://spacenews.com/u-s-asat-ban-meant-to-support-u-n-discussions-on-space-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T105418">2022-04-25 10:54:18 UTC</a></sub>
 * [Axiom’s private astronauts depart space station after 15-day stay](https://spaceflightnow.com/2022/04/25/axioms-private-astronauts-depart-space-station-after-15-day-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T092415">2022-04-25 09:24:15 UTC</a></sub>
-* [Kleos unveils dedicated, taskable RF monitoring missions](https://spacenews.com/kleos-mission-as-a-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T060419">2022-04-25 06:04:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T151004">2022-04-25 15:10:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T154155">2022-04-25 15:41:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
