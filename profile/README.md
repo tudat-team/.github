@@ -555,15 +555,15 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [NASA readies SLS moon rocket for return to Vehicle Assembly Building](https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T220415">2022-04-24 22:04:15 UTC</a></sub>
-* [Historic Axiom-1 mission set for return from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T212449">2022-04-24 21:24:49 UTC</a></sub>
+* [Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T212449">2022-04-24 21:24:49 UTC</a></sub>
 * [China to conduct asteroid deflection test around 2025](https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T121419">2022-04-24 12:14:19 UTC</a></sub>
+* [Ax-1 undocks from space station after extended stay](https://spacenews.com/ax-1-undocks-from-space-station-after-extended-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T020418">2022-04-24 02:04:18 UTC</a></sub>
 * [Space startups argue for more agile business models](https://spacenews.com/space-startups-argue-for-more-agile-business-models/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T194419">2022-04-23 19:44:19 UTC</a></sub>
 * [SpaceX again waves off return of Axiom crew mission](https://spaceflightnow.com/2022/04/23/spacex-again-waves-off-return-of-axiom-crew-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T155415">2022-04-23 15:54:15 UTC</a></sub>
 * [Iridium and General Dynamics submit joint bid for Space Development Agency contract](https://spacenews.com/iridium-and-general-dynamics-submit-joint-bid-for-space-development-agency-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T101342">2022-04-23 10:13:42 UTC</a></sub>
 * [NASA space technology programs face “constraining” budget](https://spacenews.com/nasa-space-technology-programs-face-constraining-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T003421">2022-04-23 00:34:21 UTC</a></sub>
 * [Copernic Space welcomes Kevin O’Connell to advisory board](https://spacenews.com/oconnell-works-with-copernic-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T225342">2022-04-22 22:53:42 UTC</a></sub>
 * [Space Force radar that monitors low Earth orbit to feed data directly to cloud platform](https://spacenews.com/space-force-radar-that-monitors-low-earth-orbit-to-feed-data-directly-to-cloud-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
-* [Japan’s ispace negotiating first commercial moon landing insurance](https://spacenews.com/japans-ispace-negotiating-first-commercial-moon-landing-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200342">2022-04-22 20:03:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T003626">2022-04-25 00:36:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T024709">2022-04-25 02:47:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
