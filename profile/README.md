@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NRO plans for immediate and long-term acquisition of commercial satellite data](https://spacenews.com/nro-short-long-term-commercial-data-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T041418">2022-04-26 04:14:18 UTC</a></sub>
 * [Artemis 1 vehicle heads back to VAB while NASA discusses what to do next](https://www.nasaspaceflight.com/2022/04/artemis-1-vab-nasa-discusses-what-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T215137">2022-04-25 21:51:37 UTC</a></sub>
 * [SpaceX Dragon returns private astronauts to Earth after an extra week in space](https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T203437">2022-04-25 20:34:37 UTC</a></sub>
 * [Vice Adm. Sharp: Commercial satellites a key counterforce to Russian disinformation](https://spacenews.com/vice-adm-sharp-commercial-satellites-a-key-counterforce-to-russian-disinformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T193422">2022-04-25 19:34:22 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Historic Axiom-1 mission returned from ISS as Crew-4 prepares for launch](https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T162449">2022-04-25 16:24:49 UTC</a></sub>
 * [Starlink secures first major airline Wi-Fi deal with Hawaiian Airlines](https://spacenews.com/starlink-secures-first-major-airline-wi-fi-deal-with-hawaiian-airlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T152419">2022-04-25 15:24:19 UTC</a></sub>
 * [Photos: Close-ups of NASA’s moon rocket on the launch pad](https://spaceflightnow.com/2022/04/25/photos-close-ups-of-nasas-moon-rocket-on-the-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T150415">2022-04-25 15:04:15 UTC</a></sub>
-* [ManTech tracking foreign influence using open-source intelligence](https://spacenews.com/mantech-tracking-foreign-influence-using-open-source-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T144418">2022-04-25 14:44:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T034348">2022-04-26 03:43:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T041952">2022-04-26 04:19:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
