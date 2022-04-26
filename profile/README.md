@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ACT to embed thermal management in Carbon Mapper structures](https://spacenews.com/act-carbon-mapper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T171419">2022-04-26 17:14:19 UTC</a></sub>
 * [Hubble discovers exoplanet unconventionally forming at an extreme distance, NASA confirms 5,000 discovered exoplanets](https://www.nasaspaceflight.com/2022/04/hubble-discovers-exoplanet-forming-an-extreme-confirms-5000-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T161605">2022-04-26 16:16:05 UTC</a></sub>
 * [Halifax International raising funds to build imaging satellites for Ukraine](https://spacenews.com/halifax-international-raising-funds-to-build-imaging-satellites-for-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T155418">2022-04-26 15:54:18 UTC</a></sub>
 * [SpaceX rapidly pivots from Dragon landing to another launch in 39 hours](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T152151">2022-04-26 15:21:51 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX rapidly turns around drone ship for sixth launch this month](https://www.teslarati.com/spacex-rapid-drone-ship-turnaround-starlink-launch-prep-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T111438">2022-04-26 11:14:38 UTC</a></sub>
 * [PredaSAR nears first launch of its radar imaging constellation](https://spacenews.com/predasar-nears-first-launch-of-its-radar-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T110418">2022-04-26 11:04:18 UTC</a></sub>
 * [NASA to repurpose OSIRIS-REx for second asteroid encounter](https://spacenews.com/nasa-to-repurpose-osiris-rex-for-second-asteroid-encounter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T103419">2022-04-26 10:34:19 UTC</a></sub>
-* [NRO plans for immediate and long-term acquisition of commercial satellite data](https://spacenews.com/nro-short-long-term-commercial-data-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T041418">2022-04-26 04:14:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T171832">2022-04-26 17:18:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T174112">2022-04-26 17:41:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
