@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Government trying to streamline procurement of commercial space data](https://spacenews.com/government-trying-to-streamline-procurement-of-commercial-space-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T141418">2022-04-27 14:14:18 UTC</a></sub>
 * [DoD intelligence chief: U.S. made ‘gutsy decision’ to release sensitive imagery to counter Russia’s deception ops](https://spacenews.com/dod-intelligence-chief-u-s-made-gutsy-decision-to-release-sensitive-imagery-to-counter-russias-deception-ops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T134418">2022-04-27 13:44:18 UTC</a></sub>
 * [China to build a lunar communications and navigation constellation](https://spacenews.com/china-to-build-a-lunar-communications-and-navigation-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T113419">2022-04-27 11:34:19 UTC</a></sub>
 * [SpaceX sends four astronauts into orbit for the second time in a month](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T084551">2022-04-27 08:45:51 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Dixon calls for greater transparency and data interoperability](https://spacenews.com/dixon-calls-for-transparency-interoperability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T234418">2022-04-26 23:44:18 UTC</a></sub>
 * [NASA Selects Investigation Teams to Join Geospace Dynamics Mission](http://www.nasa.gov/press-release/nasa-selects-investigation-teams-to-join-geospace-dynamics-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T223400">2022-04-26 22:34:00 UTC</a></sub>
 * [SpaceX poised for quick turnaround between astronaut missions](https://spaceflightnow.com/2022/04/26/spacex-poised-for-quick-turnaround-between-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T222419">2022-04-26 22:24:19 UTC</a></sub>
-* [Synthetic data helps train algorithms to spot rare objects](https://spacenews.com/synthetic-data-geoint/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T220419">2022-04-26 22:04:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T140855">2022-04-27 14:08:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T143510">2022-04-27 14:35:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
