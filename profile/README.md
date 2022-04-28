@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Chooses Small Businesses to Continue Exploration Tech Development](http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T182500">2022-04-28 18:25:00 UTC</a></sub>
+* [James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning](https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T181637">2022-04-28 18:16:37 UTC</a></sub>
 * [Watch live: Russian cosmonauts begin 250th space station spacewalk](https://spaceflightnow.com/2022/04/28/russian-eva-53/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T160418">2022-04-28 16:04:18 UTC</a></sub>
 * [Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters](https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T153427">2022-04-28 15:34:27 UTC</a></sub>
 * [China’s Wenchang aims to become commercial space hub](https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T113431">2022-04-28 11:34:31 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Crew-4 arrives at ISS](https://spacenews.com/crew-4-arrives-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T105423">2022-04-28 10:54:23 UTC</a></sub>
 * [Four astronauts arrive at space station for long-term stay](https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T051419">2022-04-28 05:14:19 UTC</a></sub>
 * [Crew Dragon Freedom makes its first docking at the ISS on the Crew-4 mission](https://www.nasaspaceflight.com/2022/04/dragon-freedom-docks-crew-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T233725">2022-04-27 23:37:25 UTC</a></sub>
-* [DalBello to lead Office of Space Commerce](https://spacenews.com/dalbello-to-lead-office-of-space-commerce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T214418">2022-04-27 21:44:18 UTC</a></sub>
-* [Ingenuity helicopter flies over leftover wreckage from Mars landing last year](https://spaceflightnow.com/2022/04/27/ingenuity-helicopter-flies-over-leftover-wreckage-from-mars-landing-last-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T203415">2022-04-27 20:34:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T181112">2022-04-28 18:11:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T184447">2022-04-28 18:44:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
