@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Four astronauts arrive at space station for long-term stay](https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T051419">2022-04-28 05:14:19 UTC</a></sub>
 * [Crew Dragon Freedom makes its first docking at the ISS on the Crew-4 mission](https://www.nasaspaceflight.com/2022/04/dragon-freedom-docks-crew-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T233725">2022-04-27 23:37:25 UTC</a></sub>
 * [DalBello to lead Office of Space Commerce](https://spacenews.com/dalbello-to-lead-office-of-space-commerce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T214418">2022-04-27 21:44:18 UTC</a></sub>
 * [Ingenuity helicopter flies over leftover wreckage from Mars landing last year](https://spaceflightnow.com/2022/04/27/ingenuity-helicopter-flies-over-leftover-wreckage-from-mars-landing-last-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T203415">2022-04-27 20:34:15 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Government trying to streamline procurement of commercial space data](https://spacenews.com/government-trying-to-streamline-procurement-of-commercial-space-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T141418">2022-04-27 14:14:18 UTC</a></sub>
 * [DoD intelligence chief: U.S. made ‘gutsy decision’ to release sensitive imagery to counter Russia’s deception ops](https://spacenews.com/dod-intelligence-chief-u-s-made-gutsy-decision-to-release-sensitive-imagery-to-counter-russias-deception-ops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T134418">2022-04-27 13:44:18 UTC</a></sub>
 * [China to build a lunar communications and navigation constellation](https://spacenews.com/china-to-build-a-lunar-communications-and-navigation-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T113419">2022-04-27 11:34:19 UTC</a></sub>
-* [SpaceX sends four astronauts into orbit for the second time in a month](https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T084551">2022-04-27 08:45:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T045835">2022-04-28 04:58:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T053850">2022-04-28 05:38:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
