@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s Wenchang aims to become commercial space hub](https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T113431">2022-04-28 11:34:31 UTC</a></sub>
 * [Inmarsat’s telemetry network for rockets ready for launch](https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T112429">2022-04-28 11:24:29 UTC</a></sub>
 * [SpaceX director says six Crew Dragon launches per year is a sustainable goal](https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T111502">2022-04-28 11:15:02 UTC</a></sub>
 * [Crew-4 arrives at ISS](https://spacenews.com/crew-4-arrives-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T105423">2022-04-28 10:54:23 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ingenuity helicopter flies over leftover wreckage from Mars landing last year](https://spaceflightnow.com/2022/04/27/ingenuity-helicopter-flies-over-leftover-wreckage-from-mars-landing-last-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T203415">2022-04-27 20:34:15 UTC</a></sub>
 * [NASA's Mars Helicopter Spots Gear That Helped Perseverance Rover Land](https://mars.nasa.gov/news/9177/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T202400">2022-04-27 20:24:00 UTC</a></sub>
 * [Op-ed | South Africa’s Space Journey Charts a Course for the Continent](https://spacenews.com/south-africas-space-journey-charts-a-course-for-the-continent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T190418">2022-04-27 19:04:18 UTC</a></sub>
-* [Three Americans, one Italian launch on SpaceX’s new “Freedom” spacecraft](https://spaceflightnow.com/2022/04/27/three-americans-one-italian-launch-on-first-flight-of-spacexs-freedom-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T180417">2022-04-27 18:04:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T113304">2022-04-28 11:33:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T121537">2022-04-28 12:15:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
