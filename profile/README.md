@@ -558,12 +558,12 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force sees room for more competitors in national security launch](https://spacenews.com/space-force-sees-room-for-more-competitors-in-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T201623">2022-04-28 20:16:23 UTC</a></sub>
 * [NASA Chooses Small Businesses to Continue Exploration Tech Development](http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T182500">2022-04-28 18:25:00 UTC</a></sub>
 * [James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning](https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T181637">2022-04-28 18:16:37 UTC</a></sub>
-* [Watch live: Russian cosmonauts begin 250th space station spacewalk](https://spaceflightnow.com/2022/04/28/russian-eva-53/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T160418">2022-04-28 16:04:18 UTC</a></sub>
 * [Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters](https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T153427">2022-04-28 15:34:27 UTC</a></sub>
 * [China’s Wenchang aims to become commercial space hub](https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T113431">2022-04-28 11:34:31 UTC</a></sub>
 * [Inmarsat’s telemetry network for rockets ready for launch](https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T112429">2022-04-28 11:24:29 UTC</a></sub>
 * [SpaceX director says six Crew Dragon launches per year is a sustainable goal](https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T111502">2022-04-28 11:15:02 UTC</a></sub>
 * [Crew-4 arrives at ISS](https://spacenews.com/crew-4-arrives-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T105423">2022-04-28 10:54:23 UTC</a></sub>
+* [Four astronauts arrive at space station for long-term stay](https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T051419">2022-04-28 05:14:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T233710">2022-04-28 23:37:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T004234">2022-04-29 00:42:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
