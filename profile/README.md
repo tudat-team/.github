@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kelly plays down Russian ASAT threat](https://spacenews.com/kelly-plays-down-russian-asat-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T111341">2022-05-02 11:13:41 UTC</a></sub>
 * [U.S. to ramp up spending on classified communications satellites](https://spacenews.com/u-s-to-ramp-up-spending-on-classified-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T171341">2022-05-01 17:13:41 UTC</a></sub>
 * [Falcon 9 busier than ever as Starship reviews delayed again](https://spacenews.com/falcon-9-busier-than-ever-as-starship-reviews-delayed-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T023349">2022-05-01 02:33:49 UTC</a></sub>
 * [Emirati astronaut to fly long-duration space station mission](https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T163737">2022-04-30 16:37:37 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starlink Group 4-16 launches, breaks SpaceX turnaround records](https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T181938">2022-04-29 18:19:38 UTC</a></sub>
 * [Arabsat orders first fully software-defined satellite](https://spacenews.com/arabsat-orders-first-fully-software-defined-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T165001">2022-04-29 16:50:01 UTC</a></sub>
 * [NASA Invites Comment on Initial Plans for Mars Sample Return Program](http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T144000">2022-04-29 14:40:00 UTC</a></sub>
-* [After flying 150th Falcon 9, SpaceX continues to make efficiency gains](https://arstechnica.com/science/2022/04/spacex-makes-progress-on-cadence-and-reuse-as-it-passes-150-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T132833">2022-04-29 13:28:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T110751">2022-05-02 11:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T113419">2022-05-02 11:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
