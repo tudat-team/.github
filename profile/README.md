@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Calvelli to assume duties as U.S. Air Force’s space acquisition executive](https://spacenews.com/calvelli-to-assume-duties-as-u-s-air-forces-space-acquisition-executive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T202320">2022-05-02 20:23:20 UTC</a></sub>
 * [Rocket Lab Set For First Booster Catch Attempt During There And Back Again Mission](https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T195852">2022-05-02 19:58:52 UTC</a></sub>
 * [SpaceX engineer says NASA should plan for Starship’s “significant” capability](https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T185316">2022-05-02 18:53:16 UTC</a></sub>
 * [Vyoma agrees data management partnership for SSA constellation](https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T144328">2022-05-02 14:43:28 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Falcon 9 busier than ever as Starship reviews delayed again](https://spacenews.com/falcon-9-busier-than-ever-as-starship-reviews-delayed-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T023349">2022-05-01 02:33:49 UTC</a></sub>
 * [Emirati astronaut to fly long-duration space station mission](https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T163737">2022-04-30 16:37:37 UTC</a></sub>
 * [First Dream Chaser vehicle takes shape](https://spacenews.com/first-dream-chaser-vehicle-takes-shape/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223011">2022-04-29 22:30:11 UTC</a></sub>
-* [SpaceX smashes Falcon 9 booster turnaround record](https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T222104">2022-04-29 22:21:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Job opening: Chief Financial Officer](https://www.planetary.org/careers/job-opening-chief-financial-officer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T203509">2022-05-02 20:35:09 UTC</a></sub>
 * [Surreal solar sights](https://www.planetary.org/the-downlink/surreal-solar-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T143039">2022-04-29 14:30:39 UTC</a></sub>
 * [OFT-2: Atlas V rocket assembled to launch Boeing's Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-rocket-assembled-to-launch-boeings-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T203446">2022-04-26 20:34:46 UTC</a></sub>
 * [Our planet’s day in the sun](https://www.planetary.org/the-downlink/our-planets-day-in-the-sun) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T143358">2022-04-22 14:33:58 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Apollo 16](https://www.planetary.org/space-missions/apollo-16) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T140047">2022-04-15 14:00:47 UTC</a></sub>
 * [When will we explore Enceladus to find alien life?](https://www.planetary.org/articles/alien-life-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T140933">2022-04-14 14:09:33 UTC</a></sub>
 * [OFT-2: Pegasus barge brings Atlas V to launch site](https://blog.ulalaunch.com/blog/oft-2-pegasus-barge-brings-atlas-v-to-launch-site) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T171935">2022-04-13 17:19:35 UTC</a></sub>
-* [NASA's FY 2023 Budget Stays the Course](https://www.planetary.org/articles/nasas-fy-2023-budget-analysis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T170927">2022-04-08 17:09:27 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T203216">2022-05-02 20:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T210639">2022-05-02 21:06:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
