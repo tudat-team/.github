@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab Set For First Booster Catch Attempt During There And Back Again Mission](https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T195852">2022-05-02 19:58:52 UTC</a></sub>
 * [SpaceX engineer says NASA should plan for Starship’s “significant” capability](https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T185316">2022-05-02 18:53:16 UTC</a></sub>
 * [Vyoma agrees data management partnership for SSA constellation](https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T144328">2022-05-02 14:43:28 UTC</a></sub>
 * [The Western space community should put Dmitry Rogozin on “ignore”](https://arstechnica.com/science/2022/05/the-western-space-community-should-put-dmitry-rogozin-on-ignore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T130255">2022-05-02 13:02:55 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Emirati astronaut to fly long-duration space station mission](https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T163737">2022-04-30 16:37:37 UTC</a></sub>
 * [First Dream Chaser vehicle takes shape](https://spacenews.com/first-dream-chaser-vehicle-takes-shape/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223011">2022-04-29 22:30:11 UTC</a></sub>
 * [SpaceX smashes Falcon 9 booster turnaround record](https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T222104">2022-04-29 22:21:04 UTC</a></sub>
-* [Rocket Lab waiting for ‘ideal’ weather before launch and recovery attempt](https://spaceflightnow.com/2022/04/29/rocket-lab-waiting-for-ideal-weather-before-launch-and-recovery-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T194002">2022-04-29 19:40:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T193501">2022-05-02 19:35:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T200748">2022-05-02 20:07:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
