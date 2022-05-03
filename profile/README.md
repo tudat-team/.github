@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AST SpaceMobile licensed to connect test satellite to US cellular phones](https://spacenews.com/ast-spacemobile-licensed-to-connect-test-satellite-to-us-cellular-phones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T213330">2022-05-03 21:33:30 UTC</a></sub>
 * [Rocket Lab briefly catches booster in mid-air after successful launch](https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T194307">2022-05-03 19:43:07 UTC</a></sub>
 * [NASA Announces Winners of 2022 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T175400">2022-05-03 17:54:00 UTC</a></sub>
 * [South Korea’s Innospace schedules December test launch carrying Brazilian military payload](https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T165315">2022-05-03 16:53:15 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CAPSTONE up next for Rocket Lab](https://spacenews.com/capstone-up-next-for-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T114305">2022-05-03 11:43:05 UTC</a></sub>
 * [Rocket Lab catches Electron booster with a helicopter on first attempt](https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T111436">2022-05-03 11:14:36 UTC</a></sub>
 * [Space Force selects 125 industry proposals for on-orbit servicing technologies](https://spacenews.com/space-force-selects-125-industry-proposals-for-on-orbit-servicing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T235331">2022-05-02 23:53:31 UTC</a></sub>
-* [‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat](https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T231333">2022-05-02 23:13:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T213633">2022-05-03 21:36:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T220850">2022-05-03 22:08:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
