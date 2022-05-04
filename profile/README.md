@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NaraSpace Technology closes $7.88 million Series A for nanosatellite project](https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T042330">2022-05-04 04:23:30 UTC</a></sub>
 * [ExoMars official says launch unlikely before 2028](https://spacenews.com/exomars-official-says-launch-unlikely-before-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T233321">2022-05-03 23:33:21 UTC</a></sub>
 * [AST SpaceMobile licensed to connect test satellite to US cellular phones](https://spacenews.com/ast-spacemobile-licensed-to-connect-test-satellite-to-us-cellular-phones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T213330">2022-05-03 21:33:30 UTC</a></sub>
 * [Rocket Lab briefly catches booster in mid-air after successful launch](https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T194307">2022-05-03 19:43:07 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA chief says cost-plus contracts are a “plague” on the space agency](https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T161447">2022-05-03 16:14:47 UTC</a></sub>
 * [Rocket Lab catches a 1-ton booster falling back from space](https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T131205">2022-05-03 13:12:05 UTC</a></sub>
 * [CAPSTONE up next for Rocket Lab](https://spacenews.com/capstone-up-next-for-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T114305">2022-05-03 11:43:05 UTC</a></sub>
-* [Rocket Lab catches Electron booster with a helicopter on first attempt](https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T111436">2022-05-03 11:14:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T042139">2022-05-04 04:21:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T045403">2022-05-04 04:54:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
