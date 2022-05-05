@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch](https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T220350">2022-05-05 22:03:50 UTC</a></sub>
+* [One year since SN15, Starbase lays groundwork for orbital attempt](https://www.nasaspaceflight.com/2022/05/one-year-since-sn15-starbase-lays-groundwork-for-orbital-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T211211">2022-05-05 21:12:11 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 25th Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-25th-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T191300">2022-05-05 19:13:00 UTC</a></sub>
 * [Tomorrow.io on track for 2024 weather constellation](https://spacenews.com/tomorrow-io-adds-microwave-sounders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T180310">2022-05-05 18:03:10 UTC</a></sub>
 * [NOAA seeks input on new satellite sensors and digital twin](https://spacenews.com/noaa-baas-emerging-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T170321">2022-05-05 17:03:21 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Discuss Webb Telescope Alignment, Instrument Setup](http://www.nasa.gov/press-release/nasa-to-discuss-webb-telescope-alignment-instrument-setup) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T153300">2022-05-05 15:33:00 UTC</a></sub>
 * [Dragon crew capsule undocks from space station, heads for splashdown Friday](https://spaceflightnow.com/2022/05/05/dragon-crew-capsule-undocks-from-space-station-heads-for-splashdown-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T150304">2022-05-05 15:03:04 UTC</a></sub>
 * [Report: U.S. defense and intelligence agencies slow to embrace small-satellite revolution](https://spacenews.com/report-u-s-defense-and-intelligence-agencies-slow-to-embrace-small-satellite-revolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T131318">2022-05-05 13:13:18 UTC</a></sub>
-* [China launches new batches of Jilin-1 commercial remote sensing satellites](https://spacenews.com/china-launches-new-batches-of-jilin-1-commercial-remote-sensing-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T121319">2022-05-05 12:13:19 UTC</a></sub>
-* [Senate rejects effort to strip NASA lunar lander provision from authorization bill](https://spacenews.com/senate-rejects-effort-to-strip-nasa-lunar-lander-provision-from-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T113308">2022-05-05 11:33:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T213610">2022-05-05 21:36:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T220858">2022-05-05 22:08:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
