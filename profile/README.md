@@ -554,7 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX to launch morning Starlink mission from Kennedy Space Center](https://www.nasaspaceflight.com/2022/05/starlink-4-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065932">2022-05-06 06:59:32 UTC</a></sub>
+* [SpaceX launches morning Starlink mission from Kennedy Space Center](https://www.nasaspaceflight.com/2022/05/starlink-4-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065932">2022-05-06 06:59:32 UTC</a></sub>
 * [SpaceX caps an incredibly busy month with a NASA crew landing Friday morning](https://arstechnica.com/science/2022/05/spacex-caps-an-incredibly-busy-month-with-a-nasa-crew-landing-friday-morning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T065835">2022-05-06 06:58:35 UTC</a></sub>
 * [NASA, ESA Astronauts Safely Return to Earth](http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T060300">2022-05-06 06:03:00 UTC</a></sub>
 * [Crew-3 splashes down in Gulf of Mexico](https://spacenews.com/crew-3-splashes-down-in-gulf-of-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T052326">2022-05-06 05:23:26 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T093820">2022-05-06 09:38:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T100934">2022-05-06 10:09:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
