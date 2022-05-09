@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tianzhou 4 cargo launch to begin busy space station year for China](https://www.nasaspaceflight.com/2022/05/tianzhou-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170739">2022-05-09 17:07:39 UTC</a></sub>
 * [NASA’s Glenn Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-s-glenn-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T165300">2022-05-09 16:53:00 UTC</a></sub>
 * [South Korea’s new president seeks independent space agency, deeper US space cooperation](https://spacenews.com/south-koreas-new-president-seeks-independent-space-agency-deeper-us-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T155326">2022-05-09 15:53:26 UTC</a></sub>
 * [NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T152300">2022-05-09 15:23:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Super Heavy booster returns to launch pad after major repairs](https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110509">2022-05-09 11:05:09 UTC</a></sub>
 * [Momentus receives approvals for first tug launch](https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T110347">2022-05-09 11:03:47 UTC</a></sub>
 * [NASA defends decision to shut down SOFIA](https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T211324">2022-05-08 21:13:24 UTC</a></sub>
-* [FAA and NTSB discussing roles in commercial spaceflight investigations](https://spacenews.com/faa-and-ntsb-discussing-roles-in-commercial-spaceflight-investigations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T223319">2022-05-07 22:33:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T172517">2022-05-09 17:25:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T174309">2022-05-09 17:43:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
