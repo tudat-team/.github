@@ -558,12 +558,12 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX agrees to launch dozens of Satellogic Earth imaging satellites](https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222403">2022-05-09 22:24:03 UTC</a></sub>
 * [Globalstar agrees terms with “global customer” for terrestrial connectivity](https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222339">2022-05-09 22:23:39 UTC</a></sub>
 * [NASA, Boeing to Discuss Readiness of Uncrewed Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-discuss-readiness-of-uncrewed-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222300">2022-05-09 22:23:00 UTC</a></sub>
-* [China launches Tianzhou 4 cargo ship for space station](https://spaceflightnow.com/2022/05/09/long-march-7-tianzhou-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T184318">2022-05-09 18:43:18 UTC</a></sub>
 * [Tianzhou 4 cargo launch to begin busy space station year for China](https://www.nasaspaceflight.com/2022/05/tianzhou-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170739">2022-05-09 17:07:39 UTC</a></sub>
 * [NASA’s Glenn Research Center Director to Retire](http://www.nasa.gov/press-release/nasa-s-glenn-research-center-director-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T165300">2022-05-09 16:53:00 UTC</a></sub>
 * [South Korea’s new president seeks independent space agency, deeper US space cooperation](https://spacenews.com/south-koreas-new-president-seeks-independent-space-agency-deeper-us-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T155326">2022-05-09 15:53:26 UTC</a></sub>
 * [NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T152300">2022-05-09 15:23:00 UTC</a></sub>
 * [CACI to launch experimental satellite to demonstrate alternative to GPS navigation](https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T140328">2022-05-09 14:03:28 UTC</a></sub>
+* [As Centaur turns 60 years old, ULA prepares to evolve Centaur V](https://www.nasaspaceflight.com/2022/05/centaur-turns-60/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T135331">2022-05-09 13:53:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T061117">2022-05-10 06:11:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T064527">2022-05-10 06:45:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
