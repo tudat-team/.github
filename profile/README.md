@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orbex unveils prototype of rocket preparing for UK’s first vertical launch](https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T184335">2022-05-11 18:43:35 UTC</a></sub>
 * [Colombia signs Artemis Accords](https://spacenews.com/colombia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T115337">2022-05-11 11:53:37 UTC</a></sub>
 * [Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes](https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T112341">2022-05-11 11:23:41 UTC</a></sub>
 * [SpaceX President updates schedule for Starship’s orbital launch debut](https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111417">2022-05-11 11:14:17 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to invest in testing infrastructure to evaluate new systems](https://spacenews.com/space-force-to-invest-in-testing-infrastructure-to-evaluate-new-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T212338">2022-05-10 21:23:38 UTC</a></sub>
 * [Spire Global adding high-capacity Ku-band antennas to satellites](https://spacenews.com/spire-global-adding-high-capacity-ku-band-antennas-to-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T201337">2022-05-10 20:13:37 UTC</a></sub>
 * [NASA to Provide Update on InSight Mars Lander](http://www.nasa.gov/press-release/nasa-to-provide-update-on-insight-mars-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T194300">2022-05-10 19:43:00 UTC</a></sub>
-* [National Reconnaissance Office partners with U.K. on space mission to fly on Virgin Orbit rocket](https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T145336">2022-05-10 14:53:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T181035">2022-05-11 18:10:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T184430">2022-05-11 18:44:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
