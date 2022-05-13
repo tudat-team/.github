@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch 2,500th Starlink satellite in third back-to-back mission](https://www.nasaspaceflight.com/2022/05/spacex-2500th-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T203603">2022-05-13 20:36:03 UTC</a></sub>
 * [Inmarsat agrees plan to move ground station out of the Netherlands](https://spacenews.com/inmarsat-agrees-plan-to-move-ground-station-out-of-netherlands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T185336">2022-05-13 18:53:36 UTC</a></sub>
 * [Chinese startup suffers third consecutive launch failure](https://spaceflightnow.com/2022/05/13/chinese-startup-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T171331">2022-05-13 17:13:31 UTC</a></sub>
 * [SpaceX planning two Starlink launches Friday and Saturday, weather permitting](https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T144331">2022-05-13 14:43:31 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Arctic connectivity competition is heating up](https://spacenews.com/arctic-connectivity-competition-is-heating-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T102338">2022-05-13 10:23:38 UTC</a></sub>
 * [Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213400">2022-05-12 21:34:00 UTC</a></sub>
 * [SES mulls direct-to-handheld 5G satellite business](https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T213343">2022-05-12 21:33:43 UTC</a></sub>
-* [NOAA reveals first images from new weather satellite](https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T210332">2022-05-12 21:03:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T203911">2022-05-13 20:39:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T210756">2022-05-13 21:07:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
