@@ -556,7 +556,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [Inmarsat agrees to move ground station out of the Netherlands](https://spacenews.com/inmarsat-agrees-plan-to-move-ground-station-out-of-netherlands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T215338">2022-05-13 21:53:38 UTC</a></sub>
 * [Pace of work put strain on private astronaut mission to ISS](https://spacenews.com/pace-of-work-put-strain-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T212338">2022-05-13 21:23:38 UTC</a></sub>
-* [SpaceX to launch 2,500th Starlink satellite in third back-to-back mission](https://www.nasaspaceflight.com/2022/05/spacex-2500th-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T203603">2022-05-13 20:36:03 UTC</a></sub>
+* [SpaceX launches 2,500th Starlink satellite in third back-to-back mission](https://www.nasaspaceflight.com/2022/05/spacex-2500th-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T203603">2022-05-13 20:36:03 UTC</a></sub>
 * [Chinese startup suffers third consecutive launch failure](https://spaceflightnow.com/2022/05/13/chinese-startup-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T171331">2022-05-13 17:13:31 UTC</a></sub>
 * [SpaceX planning two Starlink launches Friday and Saturday, weather permitting](https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T144331">2022-05-13 14:43:31 UTC</a></sub>
 * [Chinese rocket company suffers third consecutive launch failure](https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T112339">2022-05-13 11:23:39 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T153959">2022-05-14 15:39:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T161049">2022-05-14 16:10:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
