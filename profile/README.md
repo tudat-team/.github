@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Air Liquide continue working on Artemis 1 WDR issues](https://www.nasaspaceflight.com/2022/05/nasa-air-liquide-artemis-1-wdr/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T224220">2022-05-16 22:42:20 UTC</a></sub>
 * [Spacecom plots maritime expansion after netting first customer](https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T202335">2022-05-16 20:23:35 UTC</a></sub>
 * [India hit by more suspected space debris](https://spacenews.com/india-hit-by-more-suspected-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T174336">2022-05-16 17:43:36 UTC</a></sub>
 * [U.S. Space Force sees future demand for surveillance beyond Earth orbit](https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154335">2022-05-16 15:43:35 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launcher announces customers for first Orbiter space tug mission](https://spacenews.com/launcher-announces-customers-for-first-orbiter-space-tug-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T110341">2022-05-16 11:03:41 UTC</a></sub>
 * [Redwire warns of volatility in commercial space markets](https://spacenews.com/redwire-warns-of-volatility-in-commercial-space-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T225341">2022-05-14 22:53:41 UTC</a></sub>
 * [SpaceX launches Starlink 4-15 mission, expands booster fleet](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T165426">2022-05-14 16:54:26 UTC</a></sub>
-* [Air Force looking at next steps on Space Command basing decision](https://spacenews.com/air-force-looking-at-next-steps-on-space-command-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T164337">2022-05-14 16:43:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T223811">2022-05-16 22:38:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T230901">2022-05-16 23:09:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
