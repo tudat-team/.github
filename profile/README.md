@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spacecom plots maritime expansion after netting first customer](https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T202335">2022-05-16 20:23:35 UTC</a></sub>
 * [India hit by more suspected space debris](https://spacenews.com/india-hit-by-more-suspected-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T174336">2022-05-16 17:43:36 UTC</a></sub>
 * [U.S. Space Force sees future demand for surveillance beyond Earth orbit](https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154335">2022-05-16 15:43:35 UTC</a></sub>
 * [Former NASA leaders praise Boeing’s willingness to risk commercial crew](https://arstechnica.com/science/2022/05/actually-boeing-is-probably-the-savior-of-nasas-commercial-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T154041">2022-05-16 15:40:41 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Redwire warns of volatility in commercial space markets](https://spacenews.com/redwire-warns-of-volatility-in-commercial-space-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T225341">2022-05-14 22:53:41 UTC</a></sub>
 * [SpaceX launches Starlink 4-15 mission, expands booster fleet](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T165426">2022-05-14 16:54:26 UTC</a></sub>
 * [Air Force looking at next steps on Space Command basing decision](https://spacenews.com/air-force-looking-at-next-steps-on-space-command-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T164337">2022-05-14 16:43:37 UTC</a></sub>
-* [SpaceX’s first-gen Starlink fleet halfway complete after back-to-back launches](https://spaceflightnow.com/2022/05/14/spacexs-first-gen-starlink-network-halfway-complete-after-back-to-back-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T151334">2022-05-14 15:13:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T203922">2022-05-16 20:39:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T210808">2022-05-16 21:08:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
