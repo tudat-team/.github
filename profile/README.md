@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Military experiment demonstrates intersatellite laser communications in low Earth orbit](https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T214336">2022-05-17 21:43:36 UTC</a></sub>
 * [SpaceX already raising Falcon 9 rocket vertical for next Starlink launch](https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T205415">2022-05-17 20:54:15 UTC</a></sub>
 * [Operational AST SpaceMobile satellites could proceed without prototype](https://spacenews.com/operational-ast-spacemobile-satellites-could-proceed-without-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T204336">2022-05-17 20:43:36 UTC</a></sub>
 * [NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions](http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T201400">2022-05-17 20:14:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA reveals launch dates for Artemis I through the first half of 2023](https://arstechnica.com/science/2022/05/nasa-reveals-launch-dates-for-artemis-i-through-the-first-half-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T174125">2022-05-17 17:41:25 UTC</a></sub>
 * [DIU selects nuclear-powered spacecraft designs for 2027 demonstrations](https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140342">2022-05-17 14:03:42 UTC</a></sub>
 * [Uzbekistan woos Starlink, OneWeb to bring satellite broadband](https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
-* [Satellites key to Canada’s Arctic surveillance strategy](https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T134339">2022-05-17 13:43:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T213642">2022-05-17 21:36:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T220946">2022-05-17 22:09:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
