@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kongsberg orders spy satellites for Norwegian maritime surveillance](https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T154351">2022-05-18 15:43:51 UTC</a></sub>
 * [SpaceX completes 21st launch and landing of 2022](https://www.teslarati.com/spacex-21st-falcon-9-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T114405">2022-05-18 11:44:05 UTC</a></sub>
 * [Proposed constellations would enhance Arctic weather observations](https://spacenews.com/proposed-constellations-would-enhance-arctic-weather-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T114337">2022-05-18 11:43:37 UTC</a></sub>
 * [SpaceX launches Starlink 4-18, third Starlink mission in five days](https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072620">2022-05-18 07:26:20 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX already raising Falcon 9 rocket vertical for next Starlink launch](https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T205415">2022-05-17 20:54:15 UTC</a></sub>
 * [Operational AST SpaceMobile satellites could proceed without prototype](https://spacenews.com/operational-ast-spacemobile-satellites-could-proceed-without-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T204336">2022-05-17 20:43:36 UTC</a></sub>
 * [NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions](http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T201400">2022-05-17 20:14:00 UTC</a></sub>
-* [NASA Seeks Input on Moon to Mars Objectives, Comments Due May 31](http://www.nasa.gov/press-release/nasa-seeks-input-on-moon-to-mars-objectives-comments-due-may-31) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T193400">2022-05-17 19:34:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T161153">2022-05-18 16:11:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T165854">2022-05-18 16:58:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
