@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing’s Starliner capsule completes first “nail-biting” docking at space station](https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T200659">2022-05-21 20:06:59 UTC</a></sub>
 * [Starliner makes first docking with ISS on OFT-2 mission](https://www.nasaspaceflight.com/2022/05/oft-2-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T003216">2022-05-21 00:32:16 UTC</a></sub>
 * [Space Perspective raises $17 million](https://spacenews.com/space-perspective-raises-17-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T112654">2022-05-20 11:26:54 UTC</a></sub>
 * [Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas](https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T110051">2022-05-20 11:00:51 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starliner Launches to Space Station on Uncrewed Flight Test for NASA](http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T235400">2022-05-19 23:54:00 UTC</a></sub>
 * [Atlas 5 launches Starliner on second uncrewed test flight](https://spacenews.com/atlas-5-launches-starliner-on-second-uncrewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T233345">2022-05-19 23:33:45 UTC</a></sub>
 * [Telesat tests LEO broadband prototype in India](https://spacenews.com/telesat-tests-leo-broadband-prototype-in-india/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T222349">2022-05-19 22:23:49 UTC</a></sub>
-* [Inmarsat uses ships as stepping stones in mesh network trial](https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T214337">2022-05-19 21:43:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T193237">2022-05-21 19:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T200932">2022-05-21 20:09:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
