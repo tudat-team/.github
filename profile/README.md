@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing Starliner joins SpaceX’s Crew Dragon at the International Space Station](https://www.teslarati.com/boing-starliner-space-crew-dragon-space-station-meetup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T110739">2022-05-23 11:07:39 UTC</a></sub>
 * [Military looking for new ways to acquire and use commercial satellite data](https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T050655">2022-05-23 05:06:55 UTC</a></sub>
 * [Starliner launches to remain on Atlas 5](https://spacenews.com/starliner-launches-to-remain-on-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T232704">2022-05-22 23:27:04 UTC</a></sub>
 * [NASA plans early June rollout of SLS for next countdown test](https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T230700">2022-05-21 23:07:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas](https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T110051">2022-05-20 11:00:51 UTC</a></sub>
 * [Boeing successfully launches Starliner spacecraft to orbit in do-over test flight](https://www.theverge.com/2022/5/19/23131232/boeing-cst-100-starliner-launch-success-iss-nasa-oft-2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T093000">2022-05-20 09:30:00 UTC</a></sub>
 * [Chinese launch startup Orienspace raises $59.9 million in Series A round](https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T082337">2022-05-20 08:23:37 UTC</a></sub>
-* [Starliner docks with ISS for the first time](https://spacenews.com/starliner-docks-with-iss-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T011718">2022-05-20 01:17:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T104152">2022-05-23 10:41:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T111229">2022-05-23 11:12:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
