@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [BlueHalo wins $1.4 billion contract to upgrade U.S. satellite control network](https://spacenews.com/bluehalo-wins-1-4-billion-contract-to-upgrade-u-s-satellite-control-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T182329">2022-05-24 18:23:29 UTC</a></sub>
+* [NASA denies SpaceX Crew Dragon propellant leak report, reveals unrelated heat shield defect](https://www.teslarati.com/spacex-crew-dragon-heat-shield-nasa-denies-propellant-leak-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T210424">2022-05-24 21:04:24 UTC</a></sub>
+* [NASA Awards Contract to National Academy of Sciences](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-sciences) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T204300">2022-05-24 20:43:00 UTC</a></sub>
+* [NASA Awards Contract to National Academy of Science](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T202300">2022-05-24 20:23:00 UTC</a></sub>
+* [SpaceX swapping heat shield for next crew flight due to ‘manufacturing defect’](https://spaceflightnow.com/2022/05/24/spacex-swapping-heat-shield-for-next-crew-mission-due-to-manufacturing-defect/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T201318">2022-05-24 20:13:18 UTC</a></sub>
 * [AWS picks 10 startups for 2022 space accelerator](https://spacenews.com/aws-picks-10-startups-for-2022-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T182329">2022-05-24 18:23:29 UTC</a></sub>
+* [BlueHalo wins $1.4 billion contract to upgrade U.S. satellite control network](https://spacenews.com/bluehalo-wins-1-4-billion-contract-to-upgrade-u-s-satellite-control-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T182329">2022-05-24 18:23:29 UTC</a></sub>
 * [Starlink’s RV service lets users jump the line for a price](https://spacenews.com/starlinks-rv-service-enables-lets-users-jump-the-line-for-a-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T181329">2022-05-24 18:13:29 UTC</a></sub>
 * [NASA-Supported Solar Sail Could Take Science to New Heights](http://www.nasa.gov/press-release/nasa-supported-solar-sail-could-take-science-to-new-heights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T155300">2022-05-24 15:53:00 UTC</a></sub>
 * [Azure Space offers Custom Vision tools for satellite imagery](https://spacenews.com/microsoft-custom-vision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T150322">2022-05-24 15:03:22 UTC</a></sub>
 * [Japan Air Self Defense Force awards contract to LeoLabs](https://spacenews.com/leolabs-contract-japan-ministry-of-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T132319">2022-05-24 13:23:19 UTC</a></sub>
-* [New photo reveals a NASA spacecraft cloaked in Martian dust](https://arstechnica.com/science/2022/05/red-dust-has-completely-covered-nasas-seismic-spacecraft-on-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T132030">2022-05-24 13:20:30 UTC</a></sub>
-* [Quad nations unveil satellite-based maritime monitoring initiative](https://spacenews.com/quad-nations-unveil-satellite-based-maritime-monitoring-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T131328">2022-05-24 13:13:28 UTC</a></sub>
-* [Software problem delays NASA Psyche launch](https://spacenews.com/software-problem-delays-nasa-psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T121326">2022-05-24 12:13:26 UTC</a></sub>
-* [Benchmark works with Space Forge to develop reusable engines](https://spacenews.com/benchmark-works-with-space-force-to-develop-reusable-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T114315">2022-05-24 11:43:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T203945">2022-05-24 20:39:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T210828">2022-05-24 21:08:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
