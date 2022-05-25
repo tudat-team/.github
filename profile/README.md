@@ -558,7 +558,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Administrator, Arizona Students to Hear from Station Astronauts](http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T213300">2022-05-25 21:33:00 UTC</a></sub>
 * [Virgin Orbit expects first U.K. launch in August](https://spacenews.com/virgin-orbit-expects-first-u-k-launch-in-august/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T212325">2022-05-25 21:23:25 UTC</a></sub>
 * [SpaceX delivers 59 spacecraft to orbit on fifth flawless rideshare launch](https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T200358">2022-05-25 20:03:58 UTC</a></sub>
-* [Starliner undocks from the ISS, prepares to return to Earth](https://www.nasaspaceflight.com/2022/05/oft-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183712">2022-05-25 18:37:12 UTC</a></sub>
+* [Starliner completes OFT-2 test flight with White Sands landing](https://www.nasaspaceflight.com/2022/05/oft-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183712">2022-05-25 18:37:12 UTC</a></sub>
 * [BlackSky, Maxar, Planet win 10-year NRO contracts for satellite imagery](https://spacenews.com/blacksky-maxar-planet-win-10-year-nro-contracts-for-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T170330">2022-05-25 17:03:30 UTC</a></sub>
 * [Industry looks to decentralized approaches to space sustainability](https://spacenews.com/industry-looks-to-decentralized-approaches-to-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T162319">2022-05-25 16:23:19 UTC</a></sub>
 * [Earth’s orbital debris problem is worsening, and policy solutions are difficult](https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T150940">2022-05-25 15:09:40 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T223852">2022-05-25 22:38:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T230906">2022-05-25 23:09:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
