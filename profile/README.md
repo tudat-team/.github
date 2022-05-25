@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Earth’s orbital debris problem is worsening, and policy solutions are difficult](https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T150940">2022-05-25 15:09:40 UTC</a></sub>
 * [NASA Invites Media to Discuss Space Station Science, Climate Research](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T142400">2022-05-25 14:24:00 UTC</a></sub>
 * [SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission](https://www.nasaspaceflight.com/2022/05/transporter-5-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T140119">2022-05-25 14:01:19 UTC</a></sub>
 * [Launcher wins Space Force contract to support engine development](https://spacenews.com/launcher-wins-space-force-contract-to-support-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T113335">2022-05-25 11:33:35 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Systems Command refines front-door concept](https://spacenews.com/ssc-front-door-pathways/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T233328">2022-05-24 23:33:28 UTC</a></sub>
 * [NASA denies SpaceX Crew Dragon propellant leak report, reveals unrelated heat shield defect](https://www.teslarati.com/spacex-crew-dragon-heat-shield-nasa-denies-propellant-leak-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T210424">2022-05-24 21:04:24 UTC</a></sub>
 * [NASA Awards Contract to National Academy of Sciences](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-sciences) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T204300">2022-05-24 20:43:00 UTC</a></sub>
-* [NASA Awards Contract to National Academy of Science](http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T202300">2022-05-24 20:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T151008">2022-05-25 15:10:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T154227">2022-05-25 15:42:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
