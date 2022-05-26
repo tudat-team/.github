@@ -533,7 +533,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.5.23-rc</code></td>
+    <td><code>0.6.3.dev18</code></td>
   </tr>
 
 </table>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T130600">2022-05-26 13:06:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T135015">2022-05-26 13:50:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
