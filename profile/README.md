@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China rolls out rocket for Shenzhou-14 crewed mission](https://spacenews.com/china-rolls-out-rocket-for-shenzhou-14-crewed-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220529T111351">2022-05-29 11:13:51 UTC</a></sub>
 * [KARI names KPLO as it begins communication testing](https://www.nasaspaceflight.com/2022/05/kplo-name-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220528T173410">2022-05-28 17:34:10 UTC</a></sub>
 * [NASA to reexamine space-based solar power](https://spacenews.com/nasa-to-reexamine-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220528T172356">2022-05-28 17:23:56 UTC</a></sub>
 * [Starlink approved in Nigeria and Mozambique, says Elon Musk](https://spacenews.com/starlink-approved-in-nigeria-and-mozambique-says-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T214348">2022-05-27 21:43:48 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The Philippines gives green light to Starlink](https://spacenews.com/the-philippines-gives-green-light-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T135352">2022-05-27 13:53:52 UTC</a></sub>
 * [Astroscale gets funds for 2024 debris-removal mission](https://spacenews.com/astroscale-gets-funds-for-2024-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T133352">2022-05-27 13:33:52 UTC</a></sub>
 * [China targets permanently shadowed regions at lunar south pole](https://spacenews.com/china-targets-permanently-shadowed-regions-at-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T124349">2022-05-27 12:43:49 UTC</a></sub>
-* [SpaceX rolls out first new Starship prototype in nine months](https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T111507">2022-05-27 11:15:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220529T110704">2022-05-29 11:07:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220529T113357">2022-05-29 11:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
