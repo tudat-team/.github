@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrocast buying Hiber to boost funding and expansion plans](https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T180404">2022-05-31 18:04:04 UTC</a></sub>
 * [AstroForge aims to succeed where other asteroid mining companies have failed](https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T164801">2022-05-31 16:48:01 UTC</a></sub>
 * [Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules](https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T160354">2022-05-31 16:03:54 UTC</a></sub>
 * [Rocket to launch China’s next space station module arrives at launch center](https://spacenews.com/rocket-to-launch-chinas-next-space-station-module-arrives-at-launch-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T134346">2022-05-31 13:43:46 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ingenuity “hunkering down” during Martian dust storms and winter](https://spacenews.com/ingenuity-hunkering-down-during-martian-dust-storms-and-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T223357">2022-05-30 22:33:57 UTC</a></sub>
 * [James Webb targets detailed as commissioning nears completion](https://www.nasaspaceflight.com/2022/05/james-webb-first-research-targets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T200659">2022-05-30 20:06:59 UTC</a></sub>
 * [Space Force identifies national security launches funded in 2022 and 2023](https://spacenews.com/space-force-identifies-national-security-launches-funded-in-2022-and-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T191359">2022-05-30 19:13:59 UTC</a></sub>
-* [Lawmakers seek another big increase for DoD ‘responsive launch’](https://spacenews.com/lawmakers-seek-another-big-increase-for-dod-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T164346">2022-05-30 16:43:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T181038">2022-05-31 18:10:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T184506">2022-05-31 18:45:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
