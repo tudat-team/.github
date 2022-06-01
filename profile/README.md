@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arianespace narrows Vega C and Ariane 6 maiden flight windows](https://spacenews.com/arianespace-narrows-vega-c-and-ariane-6-maiden-flight-windows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T144348">2022-06-01 14:43:48 UTC</a></sub>
 * [Avio Q&A: Powering the growth trajectory](https://spacenews.com/avio-qa-powering-the-growth-trajectory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T132351">2022-06-01 13:23:51 UTC</a></sub>
 * [Startups raise millions for lunar rovers and asteroid mining](https://spacenews.com/startups-raise-millions-for-lunar-rovers-and-asteroid-mining/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T115350">2022-06-01 11:53:50 UTC</a></sub>
 * [SpaceX to begin launching new ‘shell’ of Starlink satellites in July](https://www.teslarati.com/spacex-new-starlink-shell-launches-july-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T111407">2022-06-01 11:14:07 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [AstroForge aims to succeed where other asteroid mining companies have failed](https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T164801">2022-05-31 16:48:01 UTC</a></sub>
 * [Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules](https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T160354">2022-05-31 16:03:54 UTC</a></sub>
 * [Rocket to launch China’s next space station module arrives at launch center](https://spacenews.com/rocket-to-launch-chinas-next-space-station-module-arrives-at-launch-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T134346">2022-05-31 13:43:46 UTC</a></sub>
-* [Against Quad? China launches satellite-based Earth observation initiative with BRICS nations](https://spacenews.com/against-quad-china-launches-satellite-based-earth-observation-initiative-with-brics-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T132357">2022-05-31 13:23:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What’s up in the night sky: June 2022](https://www.planetary.org/night-sky/night-sky-what-to-see-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T140410">2022-06-01 14:04:10 UTC</a></sub>
 * [It’s not easy being this far out](https://www.planetary.org/the-downlink/its-not-easy-being-this-far-out) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143423">2022-05-27 14:34:23 UTC</a></sub>
 * [OFT-2: Atlas V successfully launches Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-successfully-launches-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T154730">2022-05-20 15:47:30 UTC</a></sub>
 * [A little too close for comfort](https://www.planetary.org/the-downlink/a-little-too-close-for-comfort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T143739">2022-05-20 14:37:39 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RocketStars:  Meet ULA's mission integration engineer for Starliner](https://blog.ulalaunch.com/blog/rocketstars-meet-ulas-mission-integration-engineer-for-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T183414">2022-05-13 18:34:14 UTC</a></sub>
 * [Your cosmic community](https://www.planetary.org/the-downlink/your-cosmic-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T143401">2022-05-13 14:34:01 UTC</a></sub>
 * [When to worry about an asteroid striking Earth](https://www.planetary.org/articles/asteroid-hitting-earth-when-to-worry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T140355">2022-05-10 14:03:55 UTC</a></sub>
-* [That’s so metal](https://www.planetary.org/the-downlink/thats-so-metal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T143414">2022-05-06 14:34:14 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T140219">2022-06-01 14:02:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T144403">2022-06-01 14:44:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
