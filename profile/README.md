@@ -561,8 +561,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Administrator to Launch Artemis Learning Lunchbox Initiative](http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T195400">2022-06-01 19:54:00 UTC</a></sub>
 * [NASA Scientists Available for 2022 Hurricane Season Interviews](http://www.nasa.gov/press-release/nasa-scientists-available-for-2022-hurricane-season-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T181400">2022-06-01 18:14:00 UTC</a></sub>
 * [NASA Partners with Industry for New Spacewalking, Moonwalking Services](http://www.nasa.gov/press-release/nasa-partners-with-industry-for-new-spacewalking-moonwalking-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T180300">2022-06-01 18:03:00 UTC</a></sub>
-* [Científicas de la NASA disponibles para entrevistas sobre huracanes](http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 * [NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode](https://mars.nasa.gov/news/9200/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
+* [Científicas de la NASA disponibles para entrevistas sobre huracanes](http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172400">2022-06-01 17:24:00 UTC</a></sub>
 * [MDA sees Canadarm3 commercial spinoff success in robotic partnership with Lockheed Martin, General Motors](https://www.nasaspaceflight.com/2022/06/mda-robotics-lm-gm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T164730">2022-06-01 16:47:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T061128">2022-06-02 06:11:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T073937">2022-06-02 07:39:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
