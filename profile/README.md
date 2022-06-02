@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After 9 difficult months, Firefly is set to take its next shot at orbit](https://arstechnica.com/science/2022/06/after-9-difficult-months-firefly-is-set-to-take-its-next-shot-at-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140813">2022-06-02 14:08:13 UTC</a></sub>
 * [Long March 2C launches 9 navigation test satellites for Chinese automaker](https://spacenews.com/long-march-2c-launches-nine-navigation-test-satellites-for-chinese-automaker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T120346">2022-06-02 12:03:46 UTC</a></sub>
 * [Momentus attempting to fix anomalies with first Vigoride tug](https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114346">2022-06-02 11:43:46 UTC</a></sub>
 * [Chinese automaker launches nine satellites to aid self-driving cars](https://spaceflightnow.com/2022/06/02/chinese-automaker-launches-nine-satellites-to-aid-self-driving-cars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T114343">2022-06-02 11:43:43 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA selects Axiom Space and Collins Aerospace for spacesuit contracts](https://spacenews.com/nasa-selects-axiom-space-and-collins-aerospace-for-spacesuit-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T215346">2022-06-01 21:53:46 UTC</a></sub>
 * [SpaceX, ULA awarded eight more US military launch contracts](https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T210414">2022-06-01 21:04:14 UTC</a></sub>
 * [NASA Administrator to Launch Artemis Learning Lunchbox Initiative](http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T195400">2022-06-01 19:54:00 UTC</a></sub>
-* [NASA Scientists Available for 2022 Hurricane Season Interviews](http://www.nasa.gov/press-release/nasa-scientists-available-for-2022-hurricane-season-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T181400">2022-06-01 18:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [China is getting serious about planetary defense](https://www.planetary.org/articles/china-planetary-defense-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140404">2022-06-02 14:04:04 UTC</a></sub>
 * [What’s up in the night sky: June 2022](https://www.planetary.org/night-sky/night-sky-what-to-see-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T140410">2022-06-01 14:04:10 UTC</a></sub>
 * [It’s not easy being this far out](https://www.planetary.org/the-downlink/its-not-easy-being-this-far-out) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143423">2022-05-27 14:34:23 UTC</a></sub>
 * [OFT-2: Atlas V successfully launches Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-successfully-launches-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T154730">2022-05-20 15:47:30 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RocketStars: ULA software launches human spaceflight missions](https://blog.ulalaunch.com/blog/rocketstars-ula-software-launches-human-spaceflight-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220515T003430">2022-05-15 00:34:30 UTC</a></sub>
 * [RocketStars:  Meet ULA's mission integration engineer for Starliner](https://blog.ulalaunch.com/blog/rocketstars-meet-ulas-mission-integration-engineer-for-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T183414">2022-05-13 18:34:14 UTC</a></sub>
 * [Your cosmic community](https://www.planetary.org/the-downlink/your-cosmic-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T143401">2022-05-13 14:34:01 UTC</a></sub>
-* [When to worry about an asteroid striking Earth](https://www.planetary.org/articles/asteroid-hitting-earth-when-to-worry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T140355">2022-05-10 14:03:55 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T142124">2022-06-02 14:21:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T144051">2022-06-02 14:40:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
