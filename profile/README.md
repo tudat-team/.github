@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to Learn About Mission Studying Thunderstorms](http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-mission-studying-thunderstorms) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T155400">2022-06-03 15:54:00 UTC</a></sub>
 * [European parliamentarian seeks to build up ties between U.S. and E.U. in space](https://spacenews.com/european-parliamentarian-seeks-to-build-up-ties-between-u-s-and-e-u-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T122347">2022-06-03 12:23:47 UTC</a></sub>
 * [SpaceX’s upgraded Starship passes first ‘cryoproof’ test after repairs](https://www.teslarati.com/spacex-starship-24-passes-cryoproof-after-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T111409">2022-06-03 11:14:09 UTC</a></sub>
 * [Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch](https://arstechnica.com/science/2022/06/rocket-report-india-wants-its-own-spacex-firefly-targets-july-for-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T110058">2022-06-03 11:00:58 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to buy five additional Crew Dragon flights](https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T201348">2022-06-02 20:13:48 UTC</a></sub>
 * [NASA Selects New Instruments for Priority Artemis Science on Moon](http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T200400">2022-06-02 20:04:00 UTC</a></sub>
 * [NASA Invites Media to Headquarters to Meet Commercial Crew Astronauts](http://www.nasa.gov/press-release/nasa-invites-media-to-headquarters-to-meet-commercial-crew-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T194400">2022-06-02 19:44:00 UTC</a></sub>
-* [Lockheed and ABL’s first UK vertical launch slips into 2023](https://spacenews.com/lockheed-and-abls-first-uk-vertical-launch-slips-into-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T194346">2022-06-02 19:43:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T153923">2022-06-03 15:39:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T161129">2022-06-03 16:11:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
