@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin set to launch six more people to suborbital space](https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T122343">2022-06-04 12:23:43 UTC</a></sub>
 * [NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage](http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T212300">2022-06-03 21:23:00 UTC</a></sub>
 * [May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting](https://www.nasaspaceflight.com/2022/06/may-iss-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T191852">2022-06-03 19:18:52 UTC</a></sub>
 * [Sony launches space laser communications business](https://spacenews.com/sony-launches-space-laser-communications-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T190348">2022-06-03 19:03:48 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX’s upgraded Starship passes first ‘cryoproof’ test after repairs](https://www.teslarati.com/spacex-starship-24-passes-cryoproof-after-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T111409">2022-06-03 11:14:09 UTC</a></sub>
 * [Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch](https://arstechnica.com/science/2022/06/rocket-report-india-wants-its-own-spacex-firefly-targets-july-for-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T110058">2022-06-03 11:00:58 UTC</a></sub>
 * [Russian Soyuz rocket launches with space station cargo freighter](https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T095342">2022-06-03 09:53:42 UTC</a></sub>
-* [NASA just bought the rest of the space station crew flights from SpaceX](https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210256">2022-06-02 21:02:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T121247">2022-06-04 12:12:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T125306">2022-06-04 12:53:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
