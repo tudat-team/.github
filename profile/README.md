@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India’s Bellatrix Aerospace raises $8 million Series A for in-space propulsion project](https://spacenews.com/indias-bellatrix-aerospace-raises-8-million-series-a-for-in-space-propulsion-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145346">2022-06-06 14:53:46 UTC</a></sub>
+* [Russia seeks to hijack German telescope on its X-ray spacecraft](https://arstechnica.com/science/2022/06/russia-and-germany-are-fighting-over-an-x-ray-telescope-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145016">2022-06-06 14:50:16 UTC</a></sub>
 * [SpaceX’s NASA Crew Dragon launch manifest doubles in three months](https://www.teslarati.com/spacex-nasa-crew-dragon-manifest-doubles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T111412">2022-06-06 11:14:12 UTC</a></sub>
 * [NASA’s SLS moon rocket returning to launch pad today for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T071345">2022-06-06 07:13:45 UTC</a></sub>
 * [SpaceX CEO Elon Musk teases next-gen Starlink satellites, Starship factories](https://www.teslarati.com/spacex-elon-musk-all-hands-meeting-starship-starlink-falcon-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T204411">2022-06-05 20:44:11 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Canyon looks to demonstrate small-satellite performance at very low altitude](https://spacenews.com/blue-canyon-looks-to-demonstrate-small-satellite-performance-at-very-low-altitude/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T144347">2022-06-05 14:43:47 UTC</a></sub>
 * [Chinese crew arrives at space station for six-month construction mission](https://spaceflightnow.com/2022/06/05/chinese-astronauts-arrive-at-tiangong-space-station-for-six-month-construction-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T130347">2022-06-05 13:03:47 UTC</a></sub>
 * [Shenzhou-14 crewed mission arrives at Chinese space station](https://spacenews.com/shenzhou-14-crewed-mission-arrives-at-chinese-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T101348">2022-06-05 10:13:48 UTC</a></sub>
-* [China launches Shenzhou 14 mission to support module installation](https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T184123">2022-06-04 18:41:23 UTC</a></sub>
-* [Chinese astronauts prep for six-month space station construction flight](https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T165342">2022-06-04 16:53:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T143308">2022-06-06 14:33:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T150820">2022-06-06 15:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
