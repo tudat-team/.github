@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Globalstar spare satellite to launch on SpaceX rocket this month](https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T164343">2022-06-07 16:43:43 UTC</a></sub>
 * [Redwire, MDA, to produce tactical communications antennas for military satellites](https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T160347">2022-06-07 16:03:47 UTC</a></sub>
 * [South Korea cancels Apophis probe](https://spacenews.com/south-korea-cancels-apophis-probe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T150347">2022-06-07 15:03:47 UTC</a></sub>
 * [NASA and SpaceX stand down on Dragon launch to study hydrazine issue](https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T145437">2022-06-07 14:54:37 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s SLS moon rocket returns to launch pad for more testing](https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T231342">2022-06-06 23:13:42 UTC</a></sub>
 * [Starlink regains permission to operate in France](https://spacenews.com/starlink-regains-permission-to-operate-in-france/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T152347">2022-06-06 15:23:47 UTC</a></sub>
 * [India’s Bellatrix Aerospace raises $8 million Series A for in-space propulsion project](https://spacenews.com/indias-bellatrix-aerospace-raises-8-million-series-a-for-in-space-propulsion-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145346">2022-06-06 14:53:46 UTC</a></sub>
-* [Russia seeks to hijack German telescope on its X-ray spacecraft](https://arstechnica.com/science/2022/06/russia-and-germany-are-fighting-over-an-x-ray-telescope-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145016">2022-06-06 14:50:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,16 +574,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How The Planetary Society got to Mars](https://www.planetary.org/articles/how-the-planetary-society-got-to-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163415">2022-06-07 16:34:15 UTC</a></sub>
+* [Your impact: June Solstice 2022](https://www.planetary.org/articles/your-impact-june-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163412">2022-06-07 16:34:12 UTC</a></sub>
+* [Renaissance in red](https://www.planetary.org/articles/renaissance-in-red) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163410">2022-06-07 16:34:10 UTC</a></sub>
+* [What is a supermoon?](https://www.planetary.org/night-sky/what-is-a-supermoon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T162415">2022-06-07 16:24:15 UTC</a></sub>
 * [Remembering our journey](https://www.planetary.org/articles/remembering-our-journey) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T070405">2022-06-07 07:04:05 UTC</a></sub>
 * [USSF-12: ULA stacks Atlas V rocket for Space Force launch](https://blog.ulalaunch.com/blog/ussf-12-ula-stacks-atlas-v-rocket-for-space-force-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T195419">2022-06-06 19:54:19 UTC</a></sub>
 * [Request for Proposals for the 2022 Science and Technology Empowered by the Public (STEP) Grants](https://www.planetary.org/articles/step-grants-2022-request-for-proposals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T140411">2022-06-06 14:04:11 UTC</a></sub>
 * [A hazy shade of winter](https://www.planetary.org/the-downlink/a-hazy-shade-of-winter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143404">2022-06-03 14:34:04 UTC</a></sub>
 * [Mars Pathfinder, the start of modern Mars exploration](https://www.planetary.org/space-missions/pathfinder) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T140413">2022-06-03 14:04:13 UTC</a></sub>
 * [China is getting serious about planetary defense](https://www.planetary.org/articles/china-planetary-defense-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140404">2022-06-02 14:04:04 UTC</a></sub>
-* [What’s up in the night sky: June 2022](https://www.planetary.org/night-sky/night-sky-what-to-see-this-month) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T140410">2022-06-01 14:04:10 UTC</a></sub>
-* [It’s not easy being this far out](https://www.planetary.org/the-downlink/its-not-easy-being-this-far-out) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143423">2022-05-27 14:34:23 UTC</a></sub>
-* [OFT-2: Atlas V successfully launches Starliner](https://blog.ulalaunch.com/blog/oft-2-atlas-v-successfully-launches-starliner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T154730">2022-05-20 15:47:30 UTC</a></sub>
-* [A little too close for comfort](https://www.planetary.org/the-downlink/a-little-too-close-for-comfort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T143739">2022-05-20 14:37:39 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T161056">2022-06-07 16:10:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T165517">2022-06-07 16:55:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
