@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korea cancels Apophis probe](https://spacenews.com/south-korea-cancels-apophis-probe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T150347">2022-06-07 15:03:47 UTC</a></sub>
+* [NASA and SpaceX stand down on Dragon launch to study hydrazine issue](https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T145437">2022-06-07 14:54:37 UTC</a></sub>
 * [Redwire to produce tactical communications antennas for military satellites](https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T123351">2022-06-07 12:33:51 UTC</a></sub>
 * [SpaceX, NASA call off Cargo Dragon launch after discovering fuel leak](https://www.teslarati.com/spacex-nasa-cargo-dragon-fuel-leak-crs-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T111414">2022-06-07 11:14:14 UTC</a></sub>
 * [Cheops AO-3 Programmes](https://sci.esa.int/web/cheops/-/cheops-ao-3-programmes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T074401">2022-06-07 07:44:01 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starlink regains permission to operate in France](https://spacenews.com/starlink-regains-permission-to-operate-in-france/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T152347">2022-06-06 15:23:47 UTC</a></sub>
 * [India’s Bellatrix Aerospace raises $8 million Series A for in-space propulsion project](https://spacenews.com/indias-bellatrix-aerospace-raises-8-million-series-a-for-in-space-propulsion-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145346">2022-06-06 14:53:46 UTC</a></sub>
 * [Russia seeks to hijack German telescope on its X-ray spacecraft](https://arstechnica.com/science/2022/06/russia-and-germany-are-fighting-over-an-x-ray-telescope-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T145016">2022-06-06 14:50:16 UTC</a></sub>
-* [SpaceX’s NASA Crew Dragon launch manifest doubles in three months](https://www.teslarati.com/spacex-nasa-crew-dragon-manifest-doubles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T111412">2022-06-06 11:14:12 UTC</a></sub>
-* [Cargo Dragon mission postponed to investigate potential propellant leak](https://spacenews.com/cargo-dragon-mission-postponed-to-investigate-potential-propellant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T022350">2022-06-06 02:23:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T150825">2022-06-07 15:08:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T154044">2022-06-07 15:40:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
