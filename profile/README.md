@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House armed services panel calls on DoD to buy commercial space technology and data](https://spacenews.com/house-armed-services-panel-calls-on-dod-to-buy-commercial-space-technology-and-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T220405">2022-06-08 22:04:05 UTC</a></sub>
+* [Inmarsat satellite tests signal for replacing lost UK navigation capability](https://spacenews.com/inmarsat-satellite-tests-signal-for-replacing-lost-uk-navigation-capability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T211418">2022-06-08 21:14:18 UTC</a></sub>
 * [NASA Administrator, STEM Partner Connect Orlando Children with Artemis](http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T200400">2022-06-08 20:04:00 UTC</a></sub>
 * [Northrop Grumman to boost production of solid rocket motors following big contract from ULA](https://spacenews.com/northrop-grumman-to-boost-production-of-solid-rocket-motors-following-big-contract-from-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T194402">2022-06-08 19:44:02 UTC</a></sub>
 * [NASA Leadership to Advocate for Agency Missions at ESA Council Meeting](http://www.nasa.gov/press-release/nasa-leadership-to-advocate-for-agency-missions-at-esa-council-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T181500">2022-06-08 18:15:00 UTC</a></sub>
-* [SpaceX preparing to launch Nilesat-301 on first GTO mission of 2022](https://www.nasaspaceflight.com/2022/06/falcon-9-nilesat-301/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T175800">2022-06-08 17:58:00 UTC</a></sub>
+* [SpaceX launches Nilesat-301 on first GTO mission of 2022](https://www.nasaspaceflight.com/2022/06/falcon-9-nilesat-301/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T175800">2022-06-08 17:58:00 UTC</a></sub>
 * [NASA, FEMA Release Comprehensive Climate Action Guide](http://www.nasa.gov/press-release/nasa-fema-release-comprehensive-climate-action-guide) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T170400">2022-06-08 17:04:00 UTC</a></sub>
 * [The large Vulcan rocket is unlikely to make its debut in 2022](https://arstechnica.com/science/2022/06/the-large-vulcan-rocket-is-unlikely-to-make-its-debut-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T165500">2022-06-08 16:55:00 UTC</a></sub>
 * [China aims for space-based solar power test in LEO in 2028, GEO in 2030](https://spacenews.com/china-aims-for-space-based-solar-power-test-in-leo-in-2028-geo-in-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T155411">2022-06-08 15:54:11 UTC</a></sub>
 * [France joins Artemis Accords](https://spacenews.com/france-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T113406">2022-06-08 11:34:06 UTC</a></sub>
-* [SpaceX preparing giant crane to assemble Starship’s first Florida launch tower](https://www.teslarati.com/spacex-starship-florida-launch-tower-crane-assembly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T111520">2022-06-08 11:15:20 UTC</a></sub>
-* [Elon Musk reportedly extends timeline for potential Starlink IPO](https://spacenews.com/elon-musk-reportedly-extends-timeline-for-potential-starlink-ipo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T223348">2022-06-07 22:33:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T213416">2022-06-08 21:34:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T220751">2022-06-08 22:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
