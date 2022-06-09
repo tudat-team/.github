@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What might JWST reveal about TRAPPIST-1?](https://www.planetary.org/articles/james-webb-space-telescope-trappist-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140513">2022-06-09 14:05:13 UTC</a></sub>
 * [How The Planetary Society got to Mars](https://www.planetary.org/articles/how-the-planetary-society-got-to-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163415">2022-06-07 16:34:15 UTC</a></sub>
 * [Your impact: June Solstice 2022](https://www.planetary.org/articles/your-impact-june-solstice-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163412">2022-06-07 16:34:12 UTC</a></sub>
 * [Renaissance in red](https://www.planetary.org/articles/renaissance-in-red) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T163410">2022-06-07 16:34:10 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Request for Proposals for the 2022 Science and Technology Empowered by the Public (STEP) Grants](https://www.planetary.org/articles/step-grants-2022-request-for-proposals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T140411">2022-06-06 14:04:11 UTC</a></sub>
 * [A hazy shade of winter](https://www.planetary.org/the-downlink/a-hazy-shade-of-winter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143404">2022-06-03 14:34:04 UTC</a></sub>
 * [Mars Pathfinder, the start of modern Mars exploration](https://www.planetary.org/space-missions/pathfinder) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T140413">2022-06-03 14:04:13 UTC</a></sub>
-* [China is getting serious about planetary defense](https://www.planetary.org/articles/china-planetary-defense-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T140404">2022-06-02 14:04:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T140734">2022-06-09 14:07:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T143417">2022-06-09 14:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
