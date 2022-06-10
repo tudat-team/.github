@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA embraces high-risk, high-reward research with UAP study](https://spacenews.com/nasa-embraces-high-risk-high-reward-research-with-uap-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T120411">2022-06-10 12:04:11 UTC</a></sub>
+* [SpaceX Starship prototype returns to factory after simulated Raptor testing](https://www.teslarati.com/spacex-starship-s24-completes-simulated-raptor-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T111511">2022-06-10 11:15:11 UTC</a></sub>
 * [NASA Offers Earth Scientist Interviews Ahead of TROPICS Mission](http://www.nasa.gov/press-release/nasa-offers-earth-scientist-interviews-ahead-of-tropics-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T230500">2022-06-09 23:05:00 UTC</a></sub>
 * [NASA audit reveals massive overruns in SLS mobile launch platform](https://spacenews.com/nasa-audit-reveals-massive-overruns-in-sls-mobile-launch-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T195414">2022-06-09 19:54:14 UTC</a></sub>
 * [NASA’s second mobile launcher is too heavy, years late, and pushing $1 billion](https://arstechnica.com/science/2022/06/nasas-second-mobile-launcher-is-too-heavy-years-late-and-pushing-1-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T170643">2022-06-09 17:06:43 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force delivers first of two U.S. payloads to launch on Space Norway’s arctic broadband mission](https://spacenews.com/space-force-delivers-first-of-two-u-s-payloads-to-launch-on-space-norways-arctic-broadband-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T152414">2022-06-09 15:24:14 UTC</a></sub>
 * [NASA to Discuss New Unidentified Aerial Phenomena Study Today](http://www.nasa.gov/press-release/nasa-to-discuss-new-unidentified-aerial-phenomena-study-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T144400">2022-06-09 14:44:00 UTC</a></sub>
 * [Psyche launch delay forcing revamp of rideshare mission](https://spacenews.com/psyche-launch-delay-forcing-revamp-of-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T113437">2022-06-09 11:34:37 UTC</a></sub>
-* [SpaceX rolls out Starship tank prototype to test upgraded domes](https://www.teslarati.com/spacex-starship-upgraded-dome-test-tank-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T111508">2022-06-09 11:15:08 UTC</a></sub>
-* [Rocket Report: Four Falcon Heavy launches this year; meet the Baguette-one](https://arstechnica.com/science/2022/06/rocket-report-four-falcon-heavy-launches-this-year-meet-the-baguette-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T110010">2022-06-09 11:00:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T113313">2022-06-10 11:33:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T121509">2022-06-10 12:15:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
