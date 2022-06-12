@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Two hurricane research satellites lost in Astra launch failure](https://spaceflightnow.com/2022/06/12/two-hurricane-research-satellites-lost-in-astra-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T210350">2022-06-12 21:03:50 UTC</a></sub>
 * [Astra launch of NASA TROPICS cubesats fails](https://spacenews.com/astra-launch-of-nasa-tropics-cubesats-fails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T190412">2022-06-12 19:04:12 UTC</a></sub>
 * [Astra launch fails on first TROPICS flight for NASA](https://www.nasaspaceflight.com/2022/06/astra-tropics-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T150138">2022-06-12 15:01:38 UTC</a></sub>
 * [DoD space agency to acquire 10 satellites for experiments in low Earth orbit](https://spacenews.com/dod-space-agency-to-acquire-10-satellites-for-experiments-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T145408">2022-06-12 14:54:08 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Xenesis signs launch pact with Evolution Space](https://spacenews.com/xenesis-signs-launch-with-evolution-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T190412">2022-06-10 19:04:12 UTC</a></sub>
 * [Efforts continue to fully deploy Lucy solar array](https://spacenews.com/efforts-continue-to-fully-deploy-lucy-solar-array/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T162417">2022-06-10 16:24:17 UTC</a></sub>
 * [NASA Student Business Competition Gets Boost by White House Initiative](http://www.nasa.gov/press-release/nasa-student-business-competition-gets-boost-by-white-house-initiative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T153500">2022-06-10 15:35:00 UTC</a></sub>
-* [Lockheed Martin powers up Artemis 2 Orion, updates status on other capsules](https://www.nasaspaceflight.com/2022/06/orion-status-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T152242">2022-06-10 15:22:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T203549">2022-06-12 20:35:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T210639">2022-06-12 21:06:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
