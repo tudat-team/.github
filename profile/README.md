@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [GAO finds CASIS not making full use of advisory committee](https://spacenews.com/gao-finds-casis-not-making-full-use-of-advisory-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T113232">2022-06-13 11:32:32 UTC</a></sub>
 * [Photos: Artemis 1 rocket hauled to launch pad for another countdown rehearsal](https://spaceflightnow.com/2022/06/12/photos-artemis-1-rocket-hauled-to-launch-pad-for-another-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T214354">2022-06-12 21:43:54 UTC</a></sub>
 * [Two hurricane research satellites lost in Astra launch failure](https://spaceflightnow.com/2022/06/12/two-hurricane-research-satellites-lost-in-astra-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T210350">2022-06-12 21:03:50 UTC</a></sub>
 * [Astra launch of NASA TROPICS cubesats fails](https://spacenews.com/astra-launch-of-nasa-tropics-cubesats-fails/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T190412">2022-06-12 19:04:12 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. Space Force orders eight launches from ULA and SpaceX](https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T230353">2022-06-10 23:03:53 UTC</a></sub>
 * [NASA to Discuss, Conduct Test to Prepare for Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-conduct-test-to-prepare-for-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T214400">2022-06-10 21:44:00 UTC</a></sub>
 * [Xenesis signs launch pact with Evolution Space](https://spacenews.com/xenesis-signs-launch-with-evolution-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T190412">2022-06-10 19:04:12 UTC</a></sub>
-* [Efforts continue to fully deploy Lucy solar array](https://spacenews.com/efforts-continue-to-fully-deploy-lucy-solar-array/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T162417">2022-06-10 16:24:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T110731">2022-06-13 11:07:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T113318">2022-06-13 11:33:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
