@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media, Public to View Webb Telescope’s First Images](http://www.nasa.gov/press-release/nasa-invites-media-public-to-view-webb-telescope-s-first-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T155300">2022-06-14 15:53:00 UTC</a></sub>
 * [Northrop Grumman demonstrates Mynaric laser terminals for military constellation](https://spacenews.com/northrop-grumman-demonstrates-mynaric-laser-terminals-for-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T133236">2022-06-14 13:32:36 UTC</a></sub>
 * [Cargo Dragon launch rescheduled for July after identifying hydrazine leak](https://spacenews.com/cargo-dragon-launch-rescheduled-for-july-after-identifying-hydrazine-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T112224">2022-06-14 11:22:24 UTC</a></sub>
 * [SpaceX, NASA blame Cargo Dragon leak on faulty valve, delay launch further](https://www.teslarati.com/spacex-nasa-cargo-dragon-crs-25-delay-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T111335">2022-06-14 11:13:35 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX a big step closer to orbital Starship launches after passing FAA environmental review](https://www.teslarati.com/spacex-a-big-step-closer-to-orbital-starship-launches-after-passing-faa-environmental-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T215308">2022-06-13 21:53:08 UTC</a></sub>
 * [Atlas wins Defense Innovation Unit Award for hybrid network](https://spacenews.com/atlas-diu-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T215222">2022-06-13 21:52:22 UTC</a></sub>
 * [FAA environmental review to allow Starship orbital launches after changes](https://spacenews.com/faa-environmental-review-to-allow-starship-orbital-launches-after-changes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T195221">2022-06-13 19:52:21 UTC</a></sub>
-* [Ariane 6 launch debut pushed into 2023](https://spacenews.com/ariane-6-launch-debut-pushed-into-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T194246">2022-06-13 19:42:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T154112">2022-06-14 15:41:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T161147">2022-06-14 16:11:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
