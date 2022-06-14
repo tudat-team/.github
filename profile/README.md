@@ -563,7 +563,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Discoveries Highlighted at American Astronomical Society Meeting](http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T142300">2022-06-13 14:23:00 UTC</a></sub>
 * [GAO finds CASIS not making full use of advisory committee](https://spacenews.com/gao-finds-casis-not-making-full-use-of-advisory-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T113232">2022-06-13 11:32:32 UTC</a></sub>
 * [SpaceX faces NASA hurdle for Starship backup launch pad](https://www.reuters.com/technology/spacex-faces-nasa-hurdle-starship-backup-launch-pad-2022-06-13/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T100800">2022-06-13 10:08:00 UTC</a></sub>
-* [Okapi:Orbits raises $5.7 million in seed funding round](https://spacenews.com/okapi-seed-round-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T000238">2022-06-13 00:02:38 UTC</a></sub>
+* [SpaceX wraps up Falcon 9 launch, sends drone ship to sea for the next one](https://www.teslarati.com/spacex-nilesat-301-booster-return-starlink-launch-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T045328">2022-06-13 04:53:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T043019">2022-06-14 04:30:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T050852">2022-06-14 05:08:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
