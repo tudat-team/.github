@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BlueHalo wins $11 million Air Force contract for laser communications terminals](https://spacenews.com/bluehalo-wins-11-million-air-force-contract-for-laser-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T071215">2022-06-14 07:12:15 UTC</a></sub>
 * [Air Force scientist takes over as director of Space Force rapid procurement agency](https://spacenews.com/air-force-scientist-takes-over-as-director-of-space-force-rapid-procurement-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T061234">2022-06-14 06:12:34 UTC</a></sub>
 * [SpaceX a big step closer to orbital Starship launches after passing FAA environmental review](https://www.teslarati.com/spacex-a-big-step-closer-to-orbital-starship-launches-after-passing-faa-environmental-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T215308">2022-06-13 21:53:08 UTC</a></sub>
 * [Atlas wins Defense Innovation Unit Award for hybrid network](https://spacenews.com/atlas-diu-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T215222">2022-06-13 21:52:22 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [BlueWalker 3 launch window opens Aug. 15](https://spacenews.com/bluewalker-3-launch-window-opens-aug-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T162231">2022-06-13 16:22:31 UTC</a></sub>
 * [NASA Discoveries Highlighted at American Astronomical Society Meeting](http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T142300">2022-06-13 14:23:00 UTC</a></sub>
 * [GAO finds CASIS not making full use of advisory committee](https://spacenews.com/gao-finds-casis-not-making-full-use-of-advisory-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T113232">2022-06-13 11:32:32 UTC</a></sub>
-* [SpaceX faces NASA hurdle for Starship backup launch pad](https://www.reuters.com/technology/spacex-faces-nasa-hurdle-starship-backup-launch-pad-2022-06-13/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T100800">2022-06-13 10:08:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T070828">2022-06-14 07:08:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T073424">2022-06-14 07:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
