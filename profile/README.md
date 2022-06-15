@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA and NASA to cooperate on Earth science and lunar mission](https://spacenews.com/esa-and-nasa-to-cooperate-on-earth-science-and-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T191226">2022-06-15 19:12:26 UTC</a></sub>
 * [Retired four-star general John Hyten joins Blue Origin as strategic advisor](https://spacenews.com/retired-four-star-general-john-hyten-joins-blue-origin-as-strategic-advisor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T180236">2022-06-15 18:02:36 UTC</a></sub>
 * [NASA, ESA Finalize Agreements on Climate, Artemis Cooperation](http://www.nasa.gov/press-release/nasa-esa-finalize-agreements-on-climate-artemis-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T164300">2022-06-15 16:43:00 UTC</a></sub>
 * [An In-Orbit Game of Cat and Mouse: Close approaches prompt calls for communications and norms](https://spacenews.com/an-in-orbit-game-of-cat-and-mouse-close-approaches-prompt-calls-for-communications-and-norms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T154220">2022-06-15 15:42:20 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starlink and OneWeb reach spectrum coordination plan](https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T193238">2022-06-14 19:32:38 UTC</a></sub>
 * [Aerospacelab to build “megafactory” in Belgium](https://spacenews.com/aerospacelab-factory-charleroi/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T180236">2022-06-14 18:02:36 UTC</a></sub>
 * [Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis](https://www.nasaspaceflight.com/2022/06/osiris-rex-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173321">2022-06-14 17:33:21 UTC</a></sub>
-* [Explosion at Chinese space launch center revealed by satellite imagery](https://spacenews.com/explosion-at-chinese-space-launch-center-revealed-by-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173226">2022-06-14 17:32:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T190724">2022-06-15 19:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T193225">2022-06-15 19:32:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
