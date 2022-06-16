@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Updates Astronaut Assignments for Boeing Starliner Test Flight](http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T184300">2022-06-16 18:43:00 UTC</a></sub>
 * [Quadsat gets ESA funding for ready-to-fly antenna testing kits](https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T164240">2022-06-16 16:42:40 UTC</a></sub>
 * [Euroconsult anticipates growing demand for last-mile logistics](https://spacenews.com/euroconsult-last-mile-logistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150219">2022-06-16 15:02:19 UTC</a></sub>
 * [SpaceX planning another trifecta of launches this weekend](https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150208">2022-06-16 15:02:08 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OneWeb tests inflight connectivity on Boeing 777](https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T214223">2022-06-15 21:42:23 UTC</a></sub>
 * [House appropriators approve funding increase for DoD, support space programs](https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T210226">2022-06-15 21:02:26 UTC</a></sub>
 * [Tensions mount between Russia and Europe over joint Spektr-RG telescope](https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T194630">2022-06-15 19:46:30 UTC</a></sub>
-* [NASA, Partner Agency Leaders to Talk to Space Station Astronauts](http://www.nasa.gov/press-release/nasa-partner-agency-leaders-to-talk-to-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T193300">2022-06-15 19:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T180931">2022-06-16 18:09:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T184328">2022-06-16 18:43:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
