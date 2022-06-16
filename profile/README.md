@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [D-Orbit charts ambitious course for space logistics business](https://spacenews.com/d-orbit-ambitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T234235">2022-06-15 23:42:35 UTC</a></sub>
+* [Fourth SLS countdown test set for June 20](https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T233224">2022-06-15 23:32:24 UTC</a></sub>
 * [OneWeb tests inflight connectivity on Boeing 777](https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T214223">2022-06-15 21:42:23 UTC</a></sub>
 * [House appropriators approve funding increase for DoD, support space programs](https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T210226">2022-06-15 21:02:26 UTC</a></sub>
 * [Tensions mount between Russia and Europe over joint Spektr-RG telescope](https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T194630">2022-06-15 19:46:30 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA and NASA to cooperate on Earth science and lunar mission](https://spacenews.com/esa-and-nasa-to-cooperate-on-earth-science-and-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T191226">2022-06-15 19:12:26 UTC</a></sub>
 * [Retired four-star general John Hyten joins Blue Origin as strategic advisor](https://spacenews.com/retired-four-star-general-john-hyten-joins-blue-origin-as-strategic-advisor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T180236">2022-06-15 18:02:36 UTC</a></sub>
 * [NASA, ESA Finalize Agreements on Climate, Artemis Cooperation](http://www.nasa.gov/press-release/nasa-esa-finalize-agreements-on-climate-artemis-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T164300">2022-06-15 16:43:00 UTC</a></sub>
-* [An In-Orbit Game of Cat and Mouse: Close approaches prompt calls for communications and norms](https://spacenews.com/an-in-orbit-game-of-cat-and-mouse-close-approaches-prompt-calls-for-communications-and-norms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T154220">2022-06-15 15:42:20 UTC</a></sub>
-* [SpaceX CEO Elon Musk claims Starship will be ready for first orbital launch in July](https://www.teslarati.com/spacex-elon-musk-starship-orbital-launch-debut-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T111335">2022-06-15 11:13:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T233639">2022-06-15 23:36:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T004400">2022-06-16 00:44:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
