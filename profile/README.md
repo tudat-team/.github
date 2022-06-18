@@ -554,7 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Falcon 9 to launch Germany’s SARah-1 from Vandenberg](https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T131551">2022-06-18 13:15:51 UTC</a></sub>
+* [Falcon 9 launches Germany’s SARah-1 from Vandenberg](https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T131551">2022-06-18 13:15:51 UTC</a></sub>
 * [Speedcast plotting major satellite capacity expansion](https://spacenews.com/speedcast-plotting-major-satellite-capacity-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T195222">2022-06-17 19:52:22 UTC</a></sub>
 * [South Korean rocket’s second launch rescheduled for June 21](https://spacenews.com/south-korean-rockets-second-launch-rescheduled-for-june-21/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T183226">2022-06-17 18:32:26 UTC</a></sub>
 * [Impulse Space raises an additional $10 million for orbital transfer vehicles](https://spacenews.com/impulse-space-raises-an-additional-10-million-for-orbital-transfer-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T154234">2022-06-17 15:42:34 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T143337">2022-06-18 14:33:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T150737">2022-06-18 15:07:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
