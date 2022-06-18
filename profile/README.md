@@ -563,7 +563,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astronomers renew concerns about Starlink satellite brightness](https://spacenews.com/astronomers-renew-concerns-about-starlink-satellite-brightness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T120238">2022-06-17 12:02:38 UTC</a></sub>
 * [SpaceX fires employees involved in letter rebuking Musk](https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T075200">2022-06-17 07:52:00 UTC</a></sub>
 * [Astronomers want “strong finish” for SOFIA](https://spacenews.com/astronomers-want-strong-finish-for-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T070231">2022-06-17 07:02:31 UTC</a></sub>
-* [VP Hosts NASA for Family STEM Event, Disney Pixar’s Lightyear Viewing](http://www.nasa.gov/press-release/vp-hosts-nasa-for-family-stem-event-disney-pixar-s-lightyear-viewing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T033300">2022-06-17 03:33:00 UTC</a></sub>
+* [German military radar satellite ready for SpaceX rocket ride](https://spaceflightnow.com/2022/06/17/german-military-radar-satellite-ready-for-spacex-rocket-ride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T065207">2022-06-17 06:52:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T070721">2022-06-18 07:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T073315">2022-06-18 07:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
