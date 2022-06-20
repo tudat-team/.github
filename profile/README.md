@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House Armed Services bill proposes $75 million for rapid space launch activities](https://spacenews.com/house-armed-services-bill-proposes-75-million-for-rapid-space-launch-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T153222">2022-06-20 15:32:22 UTC</a></sub>
 * [NASA making fourth attempt to complete Artemis 1 Wet Dress Rehearsal](https://www.nasaspaceflight.com/2022/06/artemis-1-wdr-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T133907">2022-06-20 13:39:07 UTC</a></sub>
 * [SpaceX to attempt to crush Starship test tank](https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T110324">2022-06-20 11:03:24 UTC</a></sub>
 * [We got a leaked look at NASA’s future Moon missions—and likely delays](https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104518">2022-06-20 10:45:18 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Researchers use Hubble to observe dead star destroying planetary system](https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T174835">2022-06-19 17:48:35 UTC</a></sub>
 * [SpaceX performs three launches within two days amid internal dissent](https://spacenews.com/spacex-performs-three-launches-within-two-days-amid-internal-dissent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T162238">2022-06-19 16:22:38 UTC</a></sub>
 * [SpaceX launches third Falcon 9 rocket in less than two days](https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T091212">2022-06-19 09:12:12 UTC</a></sub>
-* [SpaceX launches Globalstar satellite on mysterious Falcon 9 mission](https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T210002">2022-06-18 21:00:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T150835">2022-06-20 15:08:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T154001">2022-06-20 15:40:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
