@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Captures Stunning Views of a Changing Mars Landscape](https://mars.nasa.gov/news/9209/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T162300">2022-06-22 16:23:00 UTC</a></sub>
 * [For the first time, a small rocket will launch a private spacecraft to the Moon](https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T153500">2022-06-22 15:35:00 UTC</a></sub>
 * [DoD Satcom: Big money for military satellites, slow shift to commercial services](https://spacenews.com/dod-satcom-big-money-for-military-satellites-slow-shift-to-commercial-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T140229">2022-06-22 14:02:29 UTC</a></sub>
 * [Viasat shareholders approve Inmarsat acquisition](https://spacenews.com/viasat-shareholders-approve-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T135230">2022-06-22 13:52:30 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX gets permit for “Project Echo” in Central Texas](https://www.teslarati.com/spacex-project-echo-bastrop-county-texas-permits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T090321">2022-06-22 09:03:21 UTC</a></sub>
 * [SmallSat Alliance unveils Collegiate Space Competition](https://spacenews.com/first-collegiate-smallsat-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T235229">2022-06-21 23:52:29 UTC</a></sub>
 * [SpaceX warns 5G plan would deny Starlink to most Americans](https://spacenews.com/spacex-warns-5g-plan-would-deny-starlink-to-most-americans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T205222">2022-06-21 20:52:22 UTC</a></sub>
-* [NASA's InSight Gets a Few Extra Weeks of Mars Science](https://mars.nasa.gov/news/9207/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T192200">2022-06-21 19:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T161116">2022-06-22 16:11:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T165552">2022-06-22 16:55:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
