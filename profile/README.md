@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Viasat shareholders approve Inmarsat acquisition](https://spacenews.com/viasat-shareholders-approve-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T135230">2022-06-22 13:52:30 UTC</a></sub>
 * [House bill trims NASA budget proposal](https://spacenews.com/house-bill-trims-nasa-budget-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T120225">2022-06-22 12:02:25 UTC</a></sub>
 * [NASA encouraged by SLS countdown rehearsal](https://spacenews.com/nasa-encouraged-by-sls-countdown-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T115218">2022-06-22 11:52:18 UTC</a></sub>
 * [Kuaizhou-1A returns to flight with test satellite launch](https://spacenews.com/kuaizhou-1a-returns-to-flight-with-test-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T092221">2022-06-22 09:22:21 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA's InSight Gets a Few Extra Weeks of Mars Science](https://mars.nasa.gov/news/9207/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T192200">2022-06-21 19:22:00 UTC</a></sub>
 * [NASA counts down to within 29 seconds of launching the large SLS rocket](https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T174504">2022-06-21 17:45:04 UTC</a></sub>
 * [House Appropriations Committee warns of cost pressures in Space Force programs](https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T164230">2022-06-21 16:42:30 UTC</a></sub>
-* [NASA Announces Artemis Concept Awards for Nuclear Power on Moon](http://www.nasa.gov/press-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T152300">2022-06-21 15:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T130656">2022-06-22 13:06:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T135339">2022-06-22 13:53:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
