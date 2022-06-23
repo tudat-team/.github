@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Second segment added to Starship launch tower at Kennedy Space Center](https://spaceflightnow.com/2022/06/23/second-segment-added-to-starship-launch-tower-at-kennedy-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T131211">2022-06-23 13:12:11 UTC</a></sub>
 * [Microsoft, Xplore and NOAA demonstrate cloud-based satellite operations](https://spacenews.com/noaa-microsoft-xplore-noaa-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T130238">2022-06-23 13:02:38 UTC</a></sub>
 * [Office of Space Commerce on a “listening tour” for civil space traffic management](https://spacenews.com/office-of-space-commerce-on-a-listening-tour-for-civil-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T120229">2022-06-23 12:02:29 UTC</a></sub>
 * [SpaceX’s record-breaking Falcon 9 booster returns to port](https://www.teslarati.com/spacex-record-breaking-falcon-9-booster-returns-to-port-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T110332">2022-06-23 11:03:32 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Contracts for Mission Enabling Services](http://www.nasa.gov/press-release/nasa-awards-contracts-for-mission-enabling-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T201300">2022-06-22 20:13:00 UTC</a></sub>
 * [NASA moves up Lunar Trailblazer launch](https://spacenews.com/nasa-moves-up-lunar-trailblazer-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T201225">2022-06-22 20:12:25 UTC</a></sub>
 * [NASA Introduces 2022 Class of Flight Directors](http://www.nasa.gov/press-release/nasa-introduces-2022-class-of-flight-directors) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T193300">2022-06-22 19:33:00 UTC</a></sub>
-* [La NASA presenta sus nuevos directores de vuelo](http://www.nasa.gov/press-release/la-nasa-presenta-sus-nuevos-directores-de-vuelo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T192300">2022-06-22 19:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T130815">2022-06-23 13:08:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T135236">2022-06-23 13:52:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
