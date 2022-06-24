@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Announces Launch Delay for Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T181200">2022-06-24 18:12:00 UTC</a></sub>
 * [Space Force establishes intelligence unit to put sharper focus on orbital threats](https://spacenews.com/space-force-establishes-intelligence-unit-to-put-sharper-focus-on-orbital-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180205">2022-06-24 18:02:05 UTC</a></sub>
 * [SLS readies for roll back to VAB; final launch preparations to begin](https://www.nasaspaceflight.com/2022/06/sls-readiness-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180100">2022-06-24 18:01:00 UTC</a></sub>
 * [NASA declares SLS countdown rehearsal complete](https://spacenews.com/nasa-declares-sls-countdown-rehearsal-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T173203">2022-06-24 17:32:03 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX installs Super Heavy booster on launch mount with giant robot arms](https://www.teslarati.com/spacex-starship-super-heavy-booster-rollout-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114321">2022-06-24 11:43:21 UTC</a></sub>
 * [X Prize Foundation studying active debris removal competition](https://spacenews.com/x-prize-foundation-studying-active-debris-removal-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114218">2022-06-24 11:42:18 UTC</a></sub>
 * [Rocket Report: SpaceX steamroller rolls on; Russian rocket workers are idled](https://arstechnica.com/science/2022/06/rocket-report-spacex-steamroller-rolls-on-russian-rocket-workers-are-idled/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T110059">2022-06-24 11:00:59 UTC</a></sub>
-* [Parallel Paths for Space Sustainability](https://spacenews.com/parallel-paths-for-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T082222">2022-06-24 08:22:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T181119">2022-06-24 18:11:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T184359">2022-06-24 18:43:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
