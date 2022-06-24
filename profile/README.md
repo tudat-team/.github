@@ -554,6 +554,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Software testing problem delays Psyche launch](https://spacenews.com/software-testing-problem-delays-psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T204208">2022-06-24 20:42:08 UTC</a></sub>
+* [Telesat requests UK license to connect Lightspeed terminals](https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T203209">2022-06-24 20:32:09 UTC</a></sub>
+* [NASA Awards Facilities Engineering Design, Inspection Services Contract](http://www.nasa.gov/press-release/nasa-awards-facilities-engineering-design-inspection-services-contract-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T201200">2022-06-24 20:12:00 UTC</a></sub>
 * [NASA Announces Launch Delay for Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T181200">2022-06-24 18:12:00 UTC</a></sub>
 * [Space Force establishes intelligence unit to put sharper focus on orbital threats](https://spacenews.com/space-force-establishes-intelligence-unit-to-put-sharper-focus-on-orbital-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180205">2022-06-24 18:02:05 UTC</a></sub>
 * [SLS readies for roll back to VAB; final launch preparations to begin](https://www.nasaspaceflight.com/2022/06/sls-readiness-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180100">2022-06-24 18:01:00 UTC</a></sub>
@@ -561,9 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Orbion to supply propulsion for General Atomics weather satellite](https://spacenews.com/orbion-ga-ems-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T164203">2022-06-24 16:42:03 UTC</a></sub>
 * [NASA to Discuss Psyche Asteroid Mission](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T140200">2022-06-24 14:02:00 UTC</a></sub>
 * [SpaceX moves a massive rocket with 33 engines to its launch pad for tests](https://arstechnica.com/science/2022/06/spacex-making-progress-toward-orbital-starship-test-flight-later-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T134909">2022-06-24 13:49:09 UTC</a></sub>
-* [SpaceX installs Super Heavy booster on launch mount with giant robot arms](https://www.teslarati.com/spacex-starship-super-heavy-booster-rollout-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114321">2022-06-24 11:43:21 UTC</a></sub>
-* [X Prize Foundation studying active debris removal competition](https://spacenews.com/x-prize-foundation-studying-active-debris-removal-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T114218">2022-06-24 11:42:18 UTC</a></sub>
-* [Rocket Report: SpaceX steamroller rolls on; Russian rocket workers are idled](https://arstechnica.com/science/2022/06/rocket-report-spacex-steamroller-rolls-on-russian-rocket-workers-are-idled/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T110059">2022-06-24 11:00:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T203647">2022-06-24 20:36:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T210707">2022-06-24 21:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
