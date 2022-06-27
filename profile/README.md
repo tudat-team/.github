@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House appropriators partially restore funding for planetary defense mission](https://spacenews.com/house-appropriators-partially-restore-funding-for-planetary-defense-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T163127">2022-06-27 16:31:27 UTC</a></sub>
+* [Orbital Starship prepares for Static Fire campaign](https://www.nasaspaceflight.com/2022/06/orbital-starship-static-fire-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T161456">2022-06-27 16:14:56 UTC</a></sub>
 * [NASA to Cover Northrop Grumman Cygnus Departure from Space Station](http://www.nasa.gov/press-release/nasa-to-cover-northrop-grumman-cygnus-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T145100">2022-06-27 14:51:00 UTC</a></sub>
 * [Lawmakers seek to accelerate asteroid finder and want more Mars helicopters](https://arstechnica.com/science/2022/06/lawmakers-seek-to-accelerate-asteroid-finder-and-want-more-mars-helicopters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T142612">2022-06-27 14:26:12 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023](https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T115147">2022-06-27 11:51:47 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater](https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T164233">2022-06-25 16:42:33 UTC</a></sub>
 * [New head of Space Force acquisitions looks to get back to basics](https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T221206">2022-06-24 22:12:06 UTC</a></sub>
 * [Telespazio to play key role in satellite servicing market](https://spacenews.com/telespazio-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T212223">2022-06-24 21:22:23 UTC</a></sub>
-* [NASA targeting late summer launch for first Artemis moon rocket](https://spaceflightnow.com/2022/06/24/nasa-targeting-late-summer-launch-for-first-artemis-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T210200">2022-06-24 21:02:00 UTC</a></sub>
-* [Software testing problem delays Psyche launch](https://spacenews.com/software-testing-problem-delays-psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T204208">2022-06-24 20:42:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T161116">2022-06-27 16:11:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T165839">2022-06-27 16:58:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
