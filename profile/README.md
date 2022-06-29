@@ -562,8 +562,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Help NASA Scientists Find Clouds on Mars](https://mars.nasa.gov/news/9215/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T163100">2022-06-28 16:31:00 UTC</a></sub>
 * [Chinese commercial launch firm Expace raises $237 million](https://spacenews.com/chinese-commercial-launch-firm-expace-raises-237-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T154124">2022-06-28 15:41:24 UTC</a></sub>
 * [Northrop Grumman’s Cygnus supply ship departs space station](https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T115120">2022-06-28 11:51:20 UTC</a></sub>
-* [Cygnus departs ISS after reboost test](https://spacenews.com/cygnus-departs-iss-after-reboost-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
 * [Electron launches CAPSTONE lunar cubesat](https://spacenews.com/electron-launches-capstone-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
+* [Cygnus departs ISS after reboost test](https://spacenews.com/cygnus-departs-iss-after-reboost-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T114124">2022-06-28 11:41:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T073647">2022-06-29 07:36:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T081123">2022-06-29 08:11:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
