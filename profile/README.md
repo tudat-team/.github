@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches SES-22 C-band replacement satellite](https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T215123">2022-06-29 21:51:23 UTC</a></sub>
 * [NASA administrator tests positive for COVID](https://spacenews.com/nasa-administrator-tests-positive-for-covid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T205123">2022-06-29 20:51:23 UTC</a></sub>
 * [NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions](http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T200100">2022-06-29 20:01:00 UTC</a></sub>
 * [Space Force considering strategy for procuring national security launch services](https://spacenews.com/space-force-considering-strategy-for-procuring-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T194123">2022-06-29 19:41:23 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Falcon 9 set to launch SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
 * [My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater](https://mars.nasa.gov/news/9217/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T161100">2022-06-29 16:11:00 UTC</a></sub>
 * [Avio gets pandemic recovery funds to develop launchers for the 2030s](https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T144123">2022-06-29 14:41:23 UTC</a></sub>
-* [Sierra Space signs agreement with Turkish Space Agency](https://spacenews.com/sierra-space-signs-agreement-with-turkish-space-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T130127">2022-06-29 13:01:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T213559">2022-06-29 21:35:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T220814">2022-06-29 22:08:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
