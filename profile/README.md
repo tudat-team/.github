@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Cargo Dragon launch slips to mid-July](https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T212146">2022-06-30 21:21:46 UTC</a></sub>
 * [NASA Awards Engineering, Technology, Science Contract](http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T201100">2022-06-30 20:11:00 UTC</a></sub>
 * [Florida Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T174100">2022-06-30 17:41:00 UTC</a></sub>
 * [ULA Atlas V to launch USSF-12 with two experimental military satellites](https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T161019">2022-06-30 16:10:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches SES-22 C-band replacement satellite](https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T215123">2022-06-29 21:51:23 UTC</a></sub>
 * [NASA administrator tests positive for COVID](https://spacenews.com/nasa-administrator-tests-positive-for-covid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T205123">2022-06-29 20:51:23 UTC</a></sub>
 * [NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions](http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T200100">2022-06-29 20:01:00 UTC</a></sub>
-* [Space Force considering strategy for procuring national security launch services](https://spacenews.com/space-force-considering-strategy-for-procuring-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T194123">2022-06-29 19:41:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T213654">2022-06-30 21:36:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T220836">2022-06-30 22:08:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
