@@ -555,7 +555,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [SpaceX completes 35th Falcon 9 launch in 33 weeks](https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235147">2022-06-29 23:51:47 UTC</a></sub>
-* [Virgin Orbit to launch seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235105">2022-06-29 23:51:05 UTC</a></sub>
+* [Virgin Orbit delays launch of seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235105">2022-06-29 23:51:05 UTC</a></sub>
 * [SpaceX launches SES-22 C-band replacement satellite](https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T215123">2022-06-29 21:51:23 UTC</a></sub>
 * [NASA administrator tests positive for COVID](https://spacenews.com/nasa-administrator-tests-positive-for-covid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T205123">2022-06-29 20:51:23 UTC</a></sub>
 * [NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions](http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T200100">2022-06-29 20:01:00 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T041011">2022-06-30 04:10:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050100">2022-06-30 05:01:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
