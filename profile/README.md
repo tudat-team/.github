@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX completes 35th Falcon 9 launch in 33 weeks](https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235147">2022-06-29 23:51:47 UTC</a></sub>
+* [Virgin Orbit to launch seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235105">2022-06-29 23:51:05 UTC</a></sub>
 * [SpaceX launches SES-22 C-band replacement satellite](https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T215123">2022-06-29 21:51:23 UTC</a></sub>
 * [NASA administrator tests positive for COVID](https://spacenews.com/nasa-administrator-tests-positive-for-covid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T205123">2022-06-29 20:51:23 UTC</a></sub>
 * [NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions](http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T200100">2022-06-29 20:01:00 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175119">2022-06-29 17:51:19 UTC</a></sub>
 * [NASA scientists say images from the Webb telescope nearly brought them to tears](https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T174553">2022-06-29 17:45:53 UTC</a></sub>
 * [Falcon 9 launches SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
-* [My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater](https://mars.nasa.gov/news/9217/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T161100">2022-06-29 16:11:00 UTC</a></sub>
-* [Avio gets pandemic recovery funds to develop launchers for the 2030s](https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T144123">2022-06-29 14:41:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T233634">2022-06-29 23:36:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T004231">2022-06-30 00:42:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
