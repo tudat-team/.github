@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China looks to launch liquid propellant rockets from the seas](https://spacenews.com/china-looks-to-launch-liquid-propellant-rockets-from-the-seas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T105123">2022-06-30 10:51:23 UTC</a></sub>
 * [SpaceX completes 35th Falcon 9 launch in 33 weeks](https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235147">2022-06-29 23:51:47 UTC</a></sub>
 * [Virgin Orbit delays launch of seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235105">2022-06-29 23:51:05 UTC</a></sub>
 * [SpaceX launches SES-22 C-band replacement satellite](https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T215123">2022-06-29 21:51:23 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Shares Climate, Earth Science Resources at Folklife Festival](http://www.nasa.gov/press-release/nasa-shares-climate-earth-science-resources-at-folklife-festival) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T191100">2022-06-29 19:11:00 UTC</a></sub>
 * [ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral](https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175119">2022-06-29 17:51:19 UTC</a></sub>
 * [NASA scientists say images from the Webb telescope nearly brought them to tears](https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T174553">2022-06-29 17:45:53 UTC</a></sub>
-* [Falcon 9 launches SES-22 geostationary communications satellite](https://www.nasaspaceflight.com/2022/06/ses-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171034">2022-06-29 17:10:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T110712">2022-06-30 11:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T113402">2022-06-30 11:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
