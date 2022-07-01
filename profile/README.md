@@ -559,11 +559,11 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Florida Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T174100">2022-06-30 17:41:00 UTC</a></sub>
 * [Atlas V launch with two experimental military satellites delayed due to weather](https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T161019">2022-06-30 16:10:19 UTC</a></sub>
 * [China looks to launch liquid propellant rockets from the seas](https://spacenews.com/china-looks-to-launch-liquid-propellant-rockets-from-the-seas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T105123">2022-06-30 10:51:23 UTC</a></sub>
+* [SpaceX wins FCC approval to connect Starlink satellites to moving vehicles](https://www.teslarati.com/spacex-starlink-moving-vehicles-fcc-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T022202">2022-06-30 02:22:02 UTC</a></sub>
 * [House appropriators reduce proposed budget for FAA commercial space office](https://spacenews.com/house-appropriators-reduce-proposed-budget-for-faa-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T004123">2022-06-30 00:41:23 UTC</a></sub>
 * [Kepler books orbital transfer vehicle for next launch](https://spacenews.com/kepler-books-orbital-transfer-vehicle-for-next-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000122">2022-06-30 00:01:22 UTC</a></sub>
 * [SpaceX completes 35th Falcon 9 launch in 33 weeks](https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235147">2022-06-29 23:51:47 UTC</a></sub>
 * [Virgin Orbit delays launch of seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T235105">2022-06-29 23:51:05 UTC</a></sub>
-* [SpaceX launches SES-22 C-band replacement satellite](https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T215123">2022-06-29 21:51:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T005136">2022-07-01 00:51:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T032029">2022-07-01 03:20:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
