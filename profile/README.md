@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: NASA moving SLS moon rocket back to hangar tonight](https://spaceflightnow.com/2022/07/02/watch-live-nasa-moving-sls-moon-rocket-back-to-hangar-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T020126">2022-07-02 02:01:26 UTC</a></sub>
 * [ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite](https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T235124">2022-07-01 23:51:24 UTC</a></sub>
 * [Agile to consolidate operations in new Colorado plant](https://spacenews.com/agile-consolidates-design-manufacturing-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T175123">2022-07-01 17:51:23 UTC</a></sub>
 * [Yes, Boeing’s Starliner spacecraft really could fly astronauts this year](https://arstechnica.com/science/2022/07/yes-boeings-starliner-spacecraft-really-could-fly-astronauts-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T153416">2022-07-01 15:34:16 UTC</a></sub>
-* [Atlas V to make second launch attempt with USSF-12 mission](https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T141019">2022-07-01 14:10:19 UTC</a></sub>
+* [Atlas V launches two experimental military satellites on USSF-12 mission](https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T141019">2022-07-01 14:10:19 UTC</a></sub>
 * [OneWeb to launch second-generation satellites with Relativity Space](https://spacenews.com/oneweb-to-launch-second-generation-satellites-with-relativity-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T120128">2022-07-01 12:01:28 UTC</a></sub>
 * [Rocket Report: ULA starts military lobbying campaign, SLS to launch in 2 months](https://arstechnica.com/science/2022/07/rocket-report-ula-starts-military-lobbying-campaign-sls-to-launch-in-2-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T110028">2022-07-01 11:00:28 UTC</a></sub>
 * [Venus orbiter, lunar constellation and exoplanets telescopes among candidates as China selects new space science missions](https://spacenews.com/venus-orbiter-lunar-constellation-and-exoplanets-telescopes-among-candidates-as-china-selects-new-space-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T081123">2022-07-01 08:11:23 UTC</a></sub>
+* [Virgin Orbit to launch seven satellites for US Space Force and NASA](https://www.nasaspaceflight.com/2022/07/virgin-orbit-straight-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T055105">2022-07-01 05:51:05 UTC</a></sub>
 * [SpaceX Cargo Dragon launch slips to mid-July](https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T212146">2022-06-30 21:21:46 UTC</a></sub>
-* [NASA Awards Engineering, Technology, Science Contract](http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T201100">2022-06-30 20:11:00 UTC</a></sub>
-* [Indian rocket launches three satellites for Singapore](https://spaceflightnow.com/2022/06/30/indian-rocket-launches-three-satellites-for-singapore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T174120">2022-06-30 17:41:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T004628">2022-07-02 00:46:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T030653">2022-07-02 03:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
