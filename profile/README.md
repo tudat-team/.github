@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite](https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T235124">2022-07-01 23:51:24 UTC</a></sub>
 * [Agile to consolidate operations in new Colorado plant](https://spacenews.com/agile-consolidates-design-manufacturing-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T175123">2022-07-01 17:51:23 UTC</a></sub>
 * [Yes, Boeing’s Starliner spacecraft really could fly astronauts this year](https://arstechnica.com/science/2022/07/yes-boeings-starliner-spacecraft-really-could-fly-astronauts-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T153416">2022-07-01 15:34:16 UTC</a></sub>
 * [Atlas V to make second launch attempt with USSF-12 mission](https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T141019">2022-07-01 14:10:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Cargo Dragon launch slips to mid-July](https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T212146">2022-06-30 21:21:46 UTC</a></sub>
 * [NASA Awards Engineering, Technology, Science Contract](http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T201100">2022-06-30 20:11:00 UTC</a></sub>
 * [Indian rocket launches three satellites for Singapore](https://spaceflightnow.com/2022/06/30/indian-rocket-launches-three-satellites-for-singapore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T174120">2022-06-30 17:41:20 UTC</a></sub>
-* [Florida Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T174100">2022-06-30 17:41:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T233610">2022-07-01 23:36:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T004628">2022-07-02 00:46:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
