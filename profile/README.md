@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
 * [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
 * [How do planets get moons?](https://www.planetary.org/articles/how-planets-get-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T140141">2022-06-30 14:01:41 UTC</a></sub>
 * [China looks to outer Solar System with nuclear Neptune orbiter](https://www.planetary.org/articles/china-nuclear-neptune-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T140151">2022-06-28 14:01:51 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RocketStars: Ly brings together requirements for USSF-12 launch](https://blog.ulalaunch.com/blog/rocketstars-ly-brings-together-requirements-for-ussf-12-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T132339">2022-06-24 13:23:39 UTC</a></sub>
 * [How do planets get rings?](https://www.planetary.org/articles/how-do-planets-get-rings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T140329">2022-06-21 14:03:29 UTC</a></sub>
 * [Updates from our Shoemaker NEO Grant winners](https://www.planetary.org/articles/updates-from-our-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T180305">2022-06-20 18:03:05 UTC</a></sub>
-* [Persevering through it all](https://www.planetary.org/the-downlink/persevering-through-it-all) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T143318">2022-06-17 14:33:18 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T233459">2022-07-02 23:34:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T004608">2022-07-03 00:46:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
