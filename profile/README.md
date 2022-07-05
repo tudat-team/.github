@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russian astronauts use space station to promote anti-Ukraine propaganda](https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T123857">2022-07-05 12:38:57 UTC</a></sub>
 * [Kongsberg to acquire majority stake in NanoAvionics](https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T113425">2022-07-05 11:34:25 UTC</a></sub>
 * [Space botany, cargo arrivals, and autonomous robots: a busy June on the ISS](https://www.nasaspaceflight.com/2022/07/june-on-the-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T170958">2022-07-04 17:09:58 UTC</a></sub>
 * [CAPSTONE heads to the moon](https://spacenews.com/capstone-heads-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T133246">2022-07-04 13:32:46 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New Zealand joins ASAT testing ban](https://spacenews.com/new-zealand-joins-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T004214">2022-07-03 00:42:14 UTC</a></sub>
 * [NASA and Roscosmos continue seat barter discussions](https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T224123">2022-07-02 22:41:23 UTC</a></sub>
 * [SLS rolled back to VAB for final launch preparations](https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T214913">2022-07-02 21:49:13 UTC</a></sub>
-* [In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar](https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T182121">2022-07-02 18:21:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T121639">2022-07-05 12:16:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T131057">2022-07-05 13:10:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
