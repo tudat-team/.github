@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Dish says SpaceX’s Starlink 5G interference study is flawed](https://spacenews.com/dish-says-spacexs-starlink-5g-interference-study-is-flawed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T220528">2022-07-07 22:05:28 UTC</a></sub>
+* [Space Force effort to open doors to private sector is a slow go](https://spacenews.com/space-force-effort-to-open-doors-to-private-sector-is-a-slow-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T212528">2022-07-07 21:25:28 UTC</a></sub>
 * [NASA Updates Coverage for Webb Telescope’s First Images Reveal](http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T192500">2022-07-07 19:25:00 UTC</a></sub>
 * [Stellar Ventures unveils $23 million early-stage fund](https://spacenews.com/introducing-stellar-ventures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T160533">2022-07-07 16:05:33 UTC</a></sub>
 * [Defense Innovation Unit selects contractors to build hybrid space network](https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140531">2022-07-07 14:05:31 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CAPSTONE communications restored](https://spacenews.com/capstone-communications-restored/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T222459">2022-07-06 22:24:59 UTC</a></sub>
 * [Satellite companies watching where DoD goes with 5G](https://spacenews.com/satellite-companies-watching-where-dod-goes-with-5g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T220459">2022-07-06 22:04:59 UTC</a></sub>
 * [Communications established with payload on stabilized PSLV upper stage](https://spacenews.com/communications-established-with-payload-on-stabilized-pslv-upper-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T215500">2022-07-06 21:55:00 UTC</a></sub>
-* [Looking to the future, Virgin Galactic purchases 2 more motherships](https://arstechnica.com/science/2022/07/looking-to-the-future-virgin-galactic-purchases-2-more-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T211347">2022-07-06 21:13:47 UTC</a></sub>
-* [Virgin Galactic selects Aurora Flight Sciences to build new motherships](https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T201500">2022-07-06 20:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T213526">2022-07-07 21:35:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T220805">2022-07-07 22:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
