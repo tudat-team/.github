@@ -563,7 +563,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Dish says SpaceX’s Starlink 5G interference study is flawed](https://spacenews.com/dish-says-spacexs-starlink-5g-interference-study-is-flawed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T220528">2022-07-07 22:05:28 UTC</a></sub>
 * [Space Force effort to open doors to private sector is a slow go](https://spacenews.com/space-force-effort-to-open-doors-to-private-sector-is-a-slow-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T212528">2022-07-07 21:25:28 UTC</a></sub>
 * [NASA Updates Coverage for Webb Telescope’s First Images Reveal](http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T192500">2022-07-07 19:25:00 UTC</a></sub>
-* [Stellar Ventures unveils $23 million early-stage fund](https://spacenews.com/introducing-stellar-ventures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T160533">2022-07-07 16:05:33 UTC</a></sub>
+* [SpaceX launches 53 more Starlink internet satellites](https://spaceflightnow.com/2022/07/07/falcon-9-starlink-4-21-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T174524">2022-07-07 17:45:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T172830">2022-07-08 17:28:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T174720">2022-07-08 17:47:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
