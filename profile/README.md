@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Second commercial Lynk Global satellite still looking for launch](https://spacenews.com/second-commercial-lynk-global-satellite-still-looking-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T203528">2022-07-08 20:35:28 UTC</a></sub>
 * [NASA Highlights Climate Research on Cargo Launch, Sets Coverage](http://www.nasa.gov/press-release/nasa-highlights-climate-research-on-cargo-launch-sets-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T181500">2022-07-08 18:15:00 UTC</a></sub>
 * [Artemis 1 launch team overcomes obstacles to complete WDR test objectives](https://www.nasaspaceflight.com/2022/07/artemis-1-wdr-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T144402">2022-07-08 14:44:02 UTC</a></sub>
 * [Rocket Report: A Minotaur explodes after launch; Starship rolls to the pad](https://arstechnica.com/science/2022/07/rocket-report-a-minotaur-explodes-after-launch-starship-rolls-to-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T110044">2022-07-08 11:00:44 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA studies options for Vega C upper stage engine ahead of first launch](https://spacenews.com/esa-studies-options-for-vega-c-upper-stage-engine-ahead-of-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T222529">2022-07-07 22:25:29 UTC</a></sub>
 * [Dish says SpaceX’s Starlink 5G interference study is flawed](https://spacenews.com/dish-says-spacexs-starlink-5g-interference-study-is-flawed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T220528">2022-07-07 22:05:28 UTC</a></sub>
 * [Space Force effort to open doors to private sector is a slow go](https://spacenews.com/space-force-effort-to-open-doors-to-private-sector-is-a-slow-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T212528">2022-07-07 21:25:28 UTC</a></sub>
-* [NASA Updates Coverage for Webb Telescope’s First Images Reveal](http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T192500">2022-07-07 19:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T200900">2022-07-08 20:09:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T204007">2022-07-08 20:40:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
