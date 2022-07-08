@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Highlights Climate Research on Cargo Launch, Sets Coverage](http://www.nasa.gov/press-release/nasa-highlights-climate-research-on-cargo-launch-sets-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T181500">2022-07-08 18:15:00 UTC</a></sub>
 * [Artemis 1 launch team overcomes obstacles to complete WDR test objectives](https://www.nasaspaceflight.com/2022/07/artemis-1-wdr-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T144402">2022-07-08 14:44:02 UTC</a></sub>
 * [Rocket Report: A Minotaur explodes after launch; Starship rolls to the pad](https://arstechnica.com/science/2022/07/rocket-report-a-minotaur-explodes-after-launch-starship-rolls-to-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T110044">2022-07-08 11:00:44 UTC</a></sub>
 * [Starlink Maritime is now available for ocean-going vessels.](https://www.teslarati.com/starlink-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T233551">2022-07-07 23:35:51 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Dish says SpaceX’s Starlink 5G interference study is flawed](https://spacenews.com/dish-says-spacexs-starlink-5g-interference-study-is-flawed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T220528">2022-07-07 22:05:28 UTC</a></sub>
 * [Space Force effort to open doors to private sector is a slow go](https://spacenews.com/space-force-effort-to-open-doors-to-private-sector-is-a-slow-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T212528">2022-07-07 21:25:28 UTC</a></sub>
 * [NASA Updates Coverage for Webb Telescope’s First Images Reveal](http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T192500">2022-07-07 19:25:00 UTC</a></sub>
-* [SpaceX launches 53 more Starlink internet satellites](https://spaceflightnow.com/2022/07/07/falcon-9-starlink-4-21-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T174524">2022-07-07 17:45:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T180951">2022-07-08 18:09:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T184350">2022-07-08 18:43:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
