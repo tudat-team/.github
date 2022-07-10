@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX ready to begin launching third Starlink shell](https://www.nasaspaceflight.com/2022/07/starlink-3-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T172616">2022-07-10 17:26:16 UTC</a></sub>
 * [Elon Musk & Everyday Astronaut share detailed tour of SpaceX Raptor 2 engine](https://www.teslarati.com/elon-musk-detailed-tour-spacex-raptor-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220709T210547">2022-07-09 21:05:47 UTC</a></sub>
 * [Northrop Grumman gets $22 million Space Force contract to build small-satellite carrier bus](https://spacenews.com/northrop-grumman-gets-22-million-space-force-contract-to-build-small-satellite-carrier-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220709T175528">2022-07-09 17:55:28 UTC</a></sub>
 * [Second commercial Lynk Global satellite still looking for launch](https://spacenews.com/second-commercial-lynk-global-satellite-still-looking-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T203528">2022-07-08 20:35:28 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starlink Maritime is now available for ocean-going vessels.](https://www.teslarati.com/starlink-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T233551">2022-07-07 23:35:51 UTC</a></sub>
 * [Space Force coming to grips with cybersecurity threats](https://spacenews.com/space-force-coming-to-grips-with-cybersecurity-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T230528">2022-07-07 23:05:28 UTC</a></sub>
 * [NASA rebukes Russian use of space station for propaganda purposes [Updated]](https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223057">2022-07-07 22:30:57 UTC</a></sub>
-* [ESA studies options for Vega C upper stage engine ahead of first launch](https://spacenews.com/esa-studies-options-for-vega-c-upper-stage-engine-ahead-of-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T222529">2022-07-07 22:25:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T173535">2022-07-10 17:35:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T181126">2022-07-10 18:11:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
