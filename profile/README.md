@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [President Biden Reveals First Image from NASA’s Webb Telescope](http://www.nasa.gov/press-release/president-biden-reveals-first-image-from-nasa-s-webb-telescope) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T230500">2022-07-11 23:05:00 UTC</a></sub>
+* [Biden revela la primera imagen del telescopio Webb de la NASA](http://www.nasa.gov/press-release/biden-revela-la-primera-imagen-del-telescopio-webb-de-la-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T225500">2022-07-11 22:55:00 UTC</a></sub>
 * [Japanese startup to demo robotic arm onboard ISS in 2023](https://spacenews.com/japanese-startup-to-demo-robotic-arm-onboard-iss-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T212530">2022-07-11 21:25:30 UTC</a></sub>
 * [Hyten: Space Force ‘hasn’t cracked the code’ on faster acquisitions](https://spacenews.com/hyten-space-force-hasnt-cracked-the-code-on-faster-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T194531">2022-07-11 19:45:31 UTC</a></sub>
 * [Watch live: President Biden to unveil first science image from Webb telescope](https://spaceflightnow.com/2022/07/11/webb-first-image/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T192524">2022-07-11 19:25:24 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Department of Homeland Security publishes space policy](https://spacenews.com/department-of-homeland-security-publishes-space-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T113529">2022-07-11 11:35:29 UTC</a></sub>
 * [Richard Branson won the space tourism battle, but his company lost the war](https://arstechnica.com/science/2022/07/a-year-after-sir-richards-historic-flight-were-still-waiting-for-an-encore/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T112537">2022-07-11 11:25:37 UTC</a></sub>
 * [SpaceX’s 50th dedicated Starlink mission begins filling new network layer](https://spaceflightnow.com/2022/07/11/spacexs-50th-dedicated-starlink-mission-begins-filling-new-network-layer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T064524">2022-07-11 06:45:24 UTC</a></sub>
-* [Astronomers eagerly await first images from the James Webb Space Telescope](https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T225524">2022-07-10 22:55:24 UTC</a></sub>
-* [CAPSTONE probe overcomes radio glitch on course for moon](https://spaceflightnow.com/2022/07/10/capstone-probe-overcomes-communications-glitch-on-course-for-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T175524">2022-07-10 17:55:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
 * [JWST versus Hubble: How are they different?](https://www.planetary.org/articles/jwst-versus-hubble) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T140547">2022-07-11 14:05:47 UTC</a></sub>
 * [Breaking new ground](https://www.planetary.org/the-downlink/breaking-new-ground) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T143548">2022-07-08 14:35:48 UTC</a></sub>
 * [The 2022 Student Rocket Launch: Preparing for Liftoff!](https://blog.ulalaunch.com/blog/the-2022-student-rocket-launch-preparing-for-liftoff) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140612">2022-07-07 14:06:12 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
 * [How do planets get moons?](https://www.planetary.org/articles/how-planets-get-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T140141">2022-06-30 14:01:41 UTC</a></sub>
 * [China looks to outer Solar System with nuclear Neptune orbiter](https://www.planetary.org/articles/china-nuclear-neptune-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T140151">2022-06-28 14:01:51 UTC</a></sub>
-* [RocketStars: Gleba's job powers WFOV during launch](https://blog.ulalaunch.com/blog/rocketstars-glebas-job-powers-wfov-during-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T130154">2022-06-27 13:01:54 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223648">2022-07-11 22:36:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T230822">2022-07-11 23:08:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
