@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: President Biden to unveil first science image from Webb telescope](https://spaceflightnow.com/2022/07/11/webb-first-image/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T192524">2022-07-11 19:25:24 UTC</a></sub>
 * [NASA's Perseverance Scouts Mars Sample Return Campaign Landing Sites](https://mars.nasa.gov/news/9222/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T181500">2022-07-11 18:15:00 UTC</a></sub>
 * [Space industry warned to prepare for impact from lurking recession](https://spacenews.com/space-industry-warned-to-prepare-for-impact-from-lurking-recession/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T175528">2022-07-11 17:55:28 UTC</a></sub>
 * [Department of Homeland Security publishes space policy](https://spacenews.com/department-of-homeland-security-publishes-space-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T113529">2022-07-11 11:35:29 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CAPSTONE probe overcomes radio glitch on course for moon](https://spaceflightnow.com/2022/07/10/capstone-probe-overcomes-communications-glitch-on-course-for-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T175524">2022-07-10 17:55:24 UTC</a></sub>
 * [SpaceX launches first mission to third shell of Starlink constellation](https://www.nasaspaceflight.com/2022/07/starlink-3-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T172616">2022-07-10 17:26:16 UTC</a></sub>
 * [Russian Soyuz rocket hauls Glonass navigation satellite to space](https://spaceflightnow.com/2022/07/10/russian-soyuz-rocket-hauls-glonass-navigation-satellite-to-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T085524">2022-07-10 08:55:24 UTC</a></sub>
-* [SpaceX begins launching new shell of polar Starlink satellites](https://www.teslarati.com/spacex-starlink-launch-new-polar-shell/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T041547">2022-07-10 04:15:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T190650">2022-07-11 19:06:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T193246">2022-07-11 19:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
