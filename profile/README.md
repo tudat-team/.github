@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX’s 50th dedicated Starlink mission begins filling new network layer](https://spaceflightnow.com/2022/07/11/spacexs-50th-dedicated-starlink-mission-begins-filling-new-network-layer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T064524">2022-07-11 06:45:24 UTC</a></sub>
 * [Astronomers eagerly await first images from the James Webb Space Telescope](https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T225524">2022-07-10 22:55:24 UTC</a></sub>
 * [SpaceX launches first mission to third shell of Starlink constellation](https://www.nasaspaceflight.com/2022/07/starlink-3-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T172616">2022-07-10 17:26:16 UTC</a></sub>
 * [SpaceX begins launching new shell of polar Starlink satellites](https://www.teslarati.com/spacex-starlink-launch-new-polar-shell/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T041547">2022-07-10 04:15:47 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Highlights Climate Research on Cargo Launch, Sets Coverage](http://www.nasa.gov/press-release/nasa-highlights-climate-research-on-cargo-launch-sets-coverage) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T181500">2022-07-08 18:15:00 UTC</a></sub>
 * [Artemis 1 launch team overcomes obstacles to complete WDR test objectives](https://www.nasaspaceflight.com/2022/07/artemis-1-wdr-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T144402">2022-07-08 14:44:02 UTC</a></sub>
 * [Rocket Report: A Minotaur explodes after launch; Starship rolls to the pad](https://arstechnica.com/science/2022/07/rocket-report-a-minotaur-explodes-after-launch-starship-rolls-to-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T110044">2022-07-08 11:00:44 UTC</a></sub>
-* [Starlink Maritime is now available for ocean-going vessels.](https://www.teslarati.com/starlink-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T233551">2022-07-07 23:35:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T061151">2022-07-11 06:11:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T064611">2022-07-11 06:46:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
