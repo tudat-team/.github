@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NRO space missions mark new level of US-Australia cooperation](https://spacenews.com/nro-space-missions-mark-new-level-of-us-australia-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T143825">2022-07-12 14:38:25 UTC</a></sub>
 * [Watch live: Scientists releasing more images from Webb telescope today](https://spaceflightnow.com/2022/07/12/webb-first-light/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T141820">2022-07-12 14:18:20 UTC</a></sub>
 * [BAE Systems delivers jam-resistant GPS receivers to Germany](https://spacenews.com/bae-systems-delivers-jam-resistant-gps-receivers-to-germany/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
 * [Space cybersecurity firm SpiderOak adds retired general Pawlikowski to its advisory board](https://spacenews.com/space-cybersecurity-firm-spideroak-adds-retired-general-pawlikowski-to-its-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
 * [China to target near-Earth object 2020 PN1 for asteroid deflection mission](https://spacenews.com/china-to-target-near-earth-object-2020-pn1-for-asteroid-deflection-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T121824">2022-07-12 12:18:24 UTC</a></sub>
-* [BlackSky and Esri unveil tasking through ArcGIS Online](https://spacenews.com/blacksky-esri-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
 * [Earth imagery companies reimagine satellite tasking](https://spacenews.com/satellite-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
+* [BlackSky and Esri unveil tasking through ArcGIS Online](https://spacenews.com/blacksky-esri-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
 * [Starship booster test ends in fiery anomaly](https://spacenews.com/starship-booster-test-ends-in-fiery-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T093823">2022-07-12 09:38:23 UTC</a></sub>
 * [ABL static fires rocket for first orbital launch attempt](https://spacenews.com/abl-static-fires-rocket-for-first-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T085823">2022-07-12 08:58:23 UTC</a></sub>
 * [NASA releases first color image from James Webb Space Telescope](https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T234527">2022-07-11 23:45:27 UTC</a></sub>
-* [Webb telescope peers deeper into the universe than ever before](https://spaceflightnow.com/2022/07/11/webb-first-image/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T232524">2022-07-11 23:25:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [LIVE: See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T150839">2022-07-12 15:08:39 UTC</a></sub>
 * [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
 * [JWST versus Hubble: How are they different?](https://www.planetary.org/articles/jwst-versus-hubble) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T140547">2022-07-11 14:05:47 UTC</a></sub>
 * [Breaking new ground](https://www.planetary.org/the-downlink/breaking-new-ground) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T143548">2022-07-08 14:35:48 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
 * [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
 * [How do planets get moons?](https://www.planetary.org/articles/how-planets-get-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T140141">2022-06-30 14:01:41 UTC</a></sub>
-* [China looks to outer Solar System with nuclear Neptune orbiter](https://www.planetary.org/articles/china-nuclear-neptune-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T140151">2022-06-28 14:01:51 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T143504">2022-07-12 14:35:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T151840">2022-07-12 15:18:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
