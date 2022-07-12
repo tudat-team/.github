@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ABL static fires rocket for first orbital launch attempt](https://spacenews.com/abl-static-fires-rocket-for-first-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T085823">2022-07-12 08:58:23 UTC</a></sub>
 * [NASA releases first color image from James Webb Space Telescope](https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T234527">2022-07-11 23:45:27 UTC</a></sub>
 * [Webb telescope peers deeper into the universe than ever before](https://spaceflightnow.com/2022/07/11/webb-first-image/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T232524">2022-07-11 23:25:24 UTC</a></sub>
 * [Webb’s first image reveals fine details of galaxies from billions of years ago](https://arstechnica.com/science/2022/07/webbs-first-light-reveals-a-plethora-of-galaxies-in-a-tiny-patch-of-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T230922">2022-07-11 23:09:22 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Hyten: Space Force ‘hasn’t cracked the code’ on faster acquisitions](https://spacenews.com/hyten-space-force-hasnt-cracked-the-code-on-faster-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T194531">2022-07-11 19:45:31 UTC</a></sub>
 * [NASA's Perseverance Scouts Mars Sample Return Campaign Landing Sites](https://mars.nasa.gov/news/9222/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T181500">2022-07-11 18:15:00 UTC</a></sub>
 * [Space industry warned to prepare for impact from lurking recession](https://spacenews.com/space-industry-warned-to-prepare-for-impact-from-lurking-recession/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T175528">2022-07-11 17:55:28 UTC</a></sub>
-* [Department of Homeland Security publishes space policy](https://spacenews.com/department-of-homeland-security-publishes-space-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T113529">2022-07-11 11:35:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T084425">2022-07-12 08:44:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T091739">2022-07-12 09:17:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
