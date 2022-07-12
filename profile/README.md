@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Webb views the ‘cosmic cliffs’ of Carina Nebula](https://spaceflightnow.com/2022/07/12/webb-views-the-cosmic-cliffs-of-carina-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161820">2022-07-12 16:18:20 UTC</a></sub>
 * [La NASA revela las primeras imágenes del telescopio Webb de un universo nunca antes visto](http://www.nasa.gov/press-release/la-nasa-revela-las-primeras-im-genes-del-telescopio-webb-de-un-universo-nunca-antes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
 * [NASA Reveals Webb Telescope’s First Images of Unseen Universe](http://www.nasa.gov/press-release/nasa-reveals-webb-telescope-s-first-images-of-unseen-universe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
 * [SpaceX starts testing its Super Heavy booster, and it’s “not good”](https://arstechnica.com/science/2022/07/spacex-starts-testing-its-super-heavy-booster-and-its-not-good/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154028">2022-07-12 15:40:28 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space cybersecurity firm SpiderOak adds retired general Pawlikowski to its advisory board](https://spacenews.com/space-cybersecurity-firm-spideroak-adds-retired-general-pawlikowski-to-its-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
 * [China to target near-Earth object 2020 PN1 for asteroid deflection mission](https://spacenews.com/china-to-target-near-earth-object-2020-pn1-for-asteroid-deflection-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T121824">2022-07-12 12:18:24 UTC</a></sub>
 * [BlackSky and Esri unveil tasking through ArcGIS Online](https://spacenews.com/blacksky-esri-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
-* [Earth imagery companies reimagine satellite tasking](https://spacenews.com/satellite-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161133">2022-07-12 16:11:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T165557">2022-07-12 16:55:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
