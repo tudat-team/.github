@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [La NASA revela las primeras imágenes del telescopio Webb de un universo nunca antes visto](http://www.nasa.gov/press-release/la-nasa-revela-las-primeras-im-genes-del-telescopio-webb-de-un-universo-nunca-antes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
+* [NASA Reveals Webb Telescope’s First Images of Unseen Universe](http://www.nasa.gov/press-release/nasa-reveals-webb-telescope-s-first-images-of-unseen-universe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154800">2022-07-12 15:48:00 UTC</a></sub>
+* [SpaceX starts testing its Super Heavy booster, and it’s “not good”](https://arstechnica.com/science/2022/07/spacex-starts-testing-its-super-heavy-booster-and-its-not-good/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154028">2022-07-12 15:40:28 UTC</a></sub>
 * [NRO space missions mark new level of US-Australia cooperation](https://spacenews.com/nro-space-missions-mark-new-level-of-us-australia-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T143825">2022-07-12 14:38:25 UTC</a></sub>
 * [Watch live: Scientists releasing more images from Webb telescope today](https://spaceflightnow.com/2022/07/12/webb-first-light/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T141820">2022-07-12 14:18:20 UTC</a></sub>
 * [BAE Systems delivers jam-resistant GPS receivers to Germany](https://spacenews.com/bae-systems-delivers-jam-resistant-gps-receivers-to-germany/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
 * [Space cybersecurity firm SpiderOak adds retired general Pawlikowski to its advisory board](https://spacenews.com/space-cybersecurity-firm-spideroak-adds-retired-general-pawlikowski-to-its-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T130823">2022-07-12 13:08:23 UTC</a></sub>
 * [China to target near-Earth object 2020 PN1 for asteroid deflection mission](https://spacenews.com/china-to-target-near-earth-object-2020-pn1-for-asteroid-deflection-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T121824">2022-07-12 12:18:24 UTC</a></sub>
-* [Earth imagery companies reimagine satellite tasking](https://spacenews.com/satellite-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
 * [BlackSky and Esri unveil tasking through ArcGIS Online](https://spacenews.com/blacksky-esri-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
-* [Starship booster test ends in fiery anomaly](https://spacenews.com/starship-booster-test-ends-in-fiery-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T093823">2022-07-12 09:38:23 UTC</a></sub>
-* [ABL static fires rocket for first orbital launch attempt](https://spacenews.com/abl-static-fires-rocket-for-first-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T085823">2022-07-12 08:58:23 UTC</a></sub>
-* [NASA releases first color image from James Webb Space Telescope](https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T234527">2022-07-11 23:45:27 UTC</a></sub>
+* [Earth imagery companies reimagine satellite tasking](https://spacenews.com/satellite-tasking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113823">2022-07-12 11:38:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,7 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
-* [LIVE: See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T150839">2022-07-12 15:08:39 UTC</a></sub>
+* [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
 * [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
 * [JWST versus Hubble: How are they different?](https://www.planetary.org/articles/jwst-versus-hubble) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T140547">2022-07-11 14:05:47 UTC</a></sub>
 * [Breaking new ground](https://www.planetary.org/the-downlink/breaking-new-ground) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T143548">2022-07-08 14:35:48 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T154021">2022-07-12 15:40:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161133">2022-07-12 16:11:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
