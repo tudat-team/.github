@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Office of Space Commerce to start developing architecture for traffic management](https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T224835">2022-07-13 22:48:35 UTC</a></sub>
+* [NASA Administrator Joins President Biden’s Cancer Cabinet](http://www.nasa.gov/press-release/nasa-administrator-joins-president-biden-s-cancer-cabinet) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T221900">2022-07-13 22:19:00 UTC</a></sub>
 * [Second ViaSat-3 payload arrives in California for integration](https://spacenews.com/second-viasat-3-payload-arrives-in-california-for-integration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T203835">2022-07-13 20:38:35 UTC</a></sub>
 * [Air Force completes draft environmental review of U.S. Space Command candidate locations](https://spacenews.com/air-force-completes-draft-environmental-review-of-u-s-space-command-candidate-locations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T190837">2022-07-13 19:08:37 UTC</a></sub>
 * [NASA, ESA, CSA release historic first images from the James Webb Space Telescope](https://www.nasaspaceflight.com/2022/07/webb-first-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T164621">2022-07-13 16:46:21 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [As rumors swirl about his future, Russia’s space chief darkens his rhetoric](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T154433">2022-07-13 15:44:33 UTC</a></sub>
 * [Russia threatens ISS European robotic arm after ExoMars termination](https://spacenews.com/russia-threatens-iss-european-robotic-arm-after-exomars-termination/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111838">2022-07-13 11:18:38 UTC</a></sub>
 * [ESA launches upgraded Vega-C rocket on first mission](https://www.nasaspaceflight.com/2022/07/vega-c-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T110747">2022-07-13 11:07:47 UTC</a></sub>
-* [NASA sees JWST success helping win agency support and funding](https://spacenews.com/nasa-sees-jwst-success-helping-win-agency-support-and-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T082844">2022-07-13 08:28:44 UTC</a></sub>
-* [Analysis: Space Force budget growth could be short lived](https://spacenews.com/analysis-space-force-budget-growth-could-be-short-lived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T080842">2022-07-13 08:08:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T223632">2022-07-13 22:36:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T230822">2022-07-13 23:08:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
