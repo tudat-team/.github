@@ -555,7 +555,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [First JWST images excite and relieve astronomers](https://spacenews.com/first-jwst-images-excite-and-relieve-astronomers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T225823">2022-07-12 22:58:23 UTC</a></sub>
-* [Rocket Lab to launch first of two back-to-back missions for NRO](https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T223721">2022-07-12 22:37:21 UTC</a></sub>
+* [Rocket Lab launches first of two back-to-back missions for NRO](https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T223721">2022-07-12 22:37:21 UTC</a></sub>
 * [JWST teases new era in exoplanet astronomy](https://spaceflightnow.com/2022/07/12/jwst-teases-new-era-in-exoplanet-research/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T213819">2022-07-12 21:38:19 UTC</a></sub>
 * [OneWeb backs up Starlink 5G interference warning](https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T204825">2022-07-12 20:48:25 UTC</a></sub>
 * [A dying star through the eyes of the James Webb Space Telescope](https://spaceflightnow.com/2022/07/12/a-dying-star-through-the-eyes-of-the-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T190819">2022-07-12 19:08:19 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T070743">2022-07-13 07:07:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T073503">2022-07-13 07:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
