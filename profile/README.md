@@ -554,7 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Vega-C lifts off on maiden flight](https://spacenews.com/vega-c-lifts-off-on-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T133837">2022-07-13 13:38:37 UTC</a></sub>
+* [Vega C lifts off on maiden flight](https://spacenews.com/vega-c-lifts-off-on-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T160849">2022-07-13 16:08:49 UTC</a></sub>
+* [As rumors swirl about his future, Russia’s space chief darkens his rhetoric](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T154433">2022-07-13 15:44:33 UTC</a></sub>
 * [Russia threatens ISS European robotic arm after ExoMars termination](https://spacenews.com/russia-threatens-iss-european-robotic-arm-after-exomars-termination/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111838">2022-07-13 11:18:38 UTC</a></sub>
 * [ESA launches upgraded Vega-C rocket on first mission](https://www.nasaspaceflight.com/2022/07/vega-c-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T110747">2022-07-13 11:07:47 UTC</a></sub>
 * [NASA sees JWST success helping win agency support and funding](https://spacenews.com/nasa-sees-jwst-success-helping-win-agency-support-and-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T082844">2022-07-13 08:28:44 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab launches first of two back-to-back missions for NRO](https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T223721">2022-07-12 22:37:21 UTC</a></sub>
 * [JWST teases new era in exoplanet astronomy](https://spaceflightnow.com/2022/07/12/jwst-teases-new-era-in-exoplanet-research/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T213819">2022-07-12 21:38:19 UTC</a></sub>
 * [OneWeb backs up Starlink 5G interference warning](https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T204825">2022-07-12 20:48:25 UTC</a></sub>
-* [A dying star through the eyes of the James Webb Space Telescope](https://spaceflightnow.com/2022/07/12/a-dying-star-through-the-eyes-of-the-james-webb-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T190819">2022-07-12 19:08:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T154235">2022-07-13 15:42:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T161243">2022-07-13 16:12:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
