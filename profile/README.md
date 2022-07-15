@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Administrator, Deputy to Attend Farnborough Airshow](http://www.nasa.gov/press-release/nasa-administrator-deputy-to-attend-farnborough-airshow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T205000">2022-07-15 20:50:00 UTC</a></sub>
 * [Elon Musk: “Tesla is to protect life on Earth”](https://www.teslarati.com/elon-musk-tesla-protect-life-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T171107">2022-07-15 17:11:07 UTC</a></sub>
 * [Rogozin removed as head of Roscosmos as seat barter agreement signed](https://spacenews.com/rogozin-removed-as-head-of-roscosmos-as-seat-barter-agreement-signed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T165012">2022-07-15 16:50:12 UTC</a></sub>
 * [We want to hear from you](https://spacenews.com/we-want-to-hear-from-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T164019">2022-07-15 16:40:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic selects Arizona for spaceplane manufacturing facility](https://spacenews.com/virgin-galactic-selects-arizona-for-spaceplane-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T114010">2022-07-15 11:40:10 UTC</a></sub>
 * [Rocket Report: Vega-C is a sight to see; will Europe push SpaceX aside?](https://arstechnica.com/science/2022/07/rocket-report-vega-c-is-a-sight-to-see-will-europe-push-spacex-aside/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T113050">2022-07-15 11:30:50 UTC</a></sub>
 * [NASA division proposing program to send scientists to ISS](https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
-* [A common ground system for military satellites is proving to be harder than envisioned](https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T214830">2022-07-14 21:48:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T203726">2022-07-15 20:37:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T210744">2022-07-15 21:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
