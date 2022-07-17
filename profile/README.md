@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX ties annual launch record seven months into 2022](https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T210106">2022-07-17 21:01:06 UTC</a></sub>
 * [Fourth shell of Starlink constellation reaches 1,000 satellites](https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T130046">2022-07-17 13:00:46 UTC</a></sub>
 * [Return To Space documentary nominated for an Emmy](https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T232100">2022-07-16 23:21:00 UTC</a></sub>
 * [Saudi Arabia signs Artemis Accords](https://spacenews.com/saudi-arabia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T202014">2022-07-16 20:20:14 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches 25th Dragon resupply mission to space station](https://spaceflightnow.com/2022/07/15/spacex-launches-25th-dragon-resupply-mission-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T233004">2022-07-15 23:30:04 UTC</a></sub>
 * [NASA Administrator, Deputy to Attend Farnborough Airshow](http://www.nasa.gov/press-release/nasa-administrator-deputy-to-attend-farnborough-airshow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T205000">2022-07-15 20:50:00 UTC</a></sub>
 * [Elon Musk: “Tesla is to protect life on Earth”](https://www.teslarati.com/elon-musk-tesla-protect-life-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T171107">2022-07-15 17:11:07 UTC</a></sub>
-* [Rogozin removed as head of Roscosmos as seat barter agreement signed](https://spacenews.com/rogozin-removed-as-head-of-roscosmos-as-seat-barter-agreement-signed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T165012">2022-07-15 16:50:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T203623">2022-07-17 20:36:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T210735">2022-07-17 21:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
