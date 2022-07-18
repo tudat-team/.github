@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [US-UK special relationship deepens in space](https://spacenews.com/us-uk-special-relationship-deepens-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T131012">2022-07-18 13:10:12 UTC</a></sub>
 * [UAE announces plans for radar satellite constellation and space fund](https://spacenews.com/uae-announces-plans-for-radar-satellite-constellation-and-space-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T110015">2022-07-18 11:00:15 UTC</a></sub>
 * [Firefly gears up for second Alpha launch](https://spacenews.com/firefly-gears-up-for-second-alpha-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T231014">2022-07-17 23:10:14 UTC</a></sub>
 * [SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year](https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T212003">2022-07-17 21:20:03 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Return To Space documentary nominated for an Emmy](https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T232100">2022-07-16 23:21:00 UTC</a></sub>
 * [Saudi Arabia signs Artemis Accords](https://spacenews.com/saudi-arabia-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T202014">2022-07-16 20:20:14 UTC</a></sub>
 * [SpaceX cargo ship delivers dust storm instrument to International Space Station](https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T162003">2022-07-16 16:20:03 UTC</a></sub>
-* [Cargo Dragon C208-3 arrives at Station loaded with science experiments](https://www.nasaspaceflight.com/2022/07/crs-25-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T152148">2022-07-16 15:21:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
 * [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
 * [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Why this Ceres mission could change the search for alien life](https://www.planetary.org/articles/ceres-sample-return-mission-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140555">2022-07-07 14:05:55 UTC</a></sub>
 * [Ingenuity, NASA’s Mars Helicopter](https://www.planetary.org/space-missions/ingenuity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T140446">2022-07-05 14:04:46 UTC</a></sub>
 * [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
-* [Planetary accessorizing](https://www.planetary.org/the-downlink/planetary-accessorizing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T143142">2022-07-01 14:31:42 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T130925">2022-07-18 13:09:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140334">2022-07-18 14:03:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
