@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [L3Harris, Northrop Grumman to build 28 missile-tracking satellites for U.S. Space Development Agency](https://spacenews.com/l3harris-northrop-grumman-to-build-28-missile-tracking-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T190017">2022-07-18 19:00:17 UTC</a></sub>
 * [As Webb begins observing exoplanets, scientists use Spitzer data & brown dwarfs to reveal how silicate clouds form](https://www.nasaspaceflight.com/2022/07/spitzer-brown-dwarfs-silicate-clouds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T174312">2022-07-18 17:43:12 UTC</a></sub>
 * [SpaceX is now launching 10 rockets for every one by its main competitor](https://arstechnica.com/science/2022/07/spacex-just-matched-its-record-for-annual-launches-and-its-only-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T171750">2022-07-18 17:17:50 UTC</a></sub>
 * [Raytheon to acquire UK startup Northern Space and Security](https://spacenews.com/raytheon-to-acquire-uk-startup-northern-space-and-security/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T154008">2022-07-18 15:40:08 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year](https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T212003">2022-07-17 21:20:03 UTC</a></sub>
 * [SpaceX ties annual launch record seven months into 2022](https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T210106">2022-07-17 21:01:06 UTC</a></sub>
 * [Fourth shell of Starlink constellation reaches 1,000 satellites](https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T130046">2022-07-17 13:00:46 UTC</a></sub>
-* [Fireball sends SpaceX Super Heavy booster back to the factory](https://www.teslarati.com/spacex-super-heavy-booster-fireball-repairs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T065117">2022-07-17 06:51:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SBIRS GEO 6: Atlas V to complete SBIRS constellation](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-complete-sbirs-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T193135">2022-07-18 19:31:35 UTC</a></sub>
 * [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
 * [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The 2022 Student Rocket Launch: Preparing for Liftoff!](https://blog.ulalaunch.com/blog/the-2022-student-rocket-launch-preparing-for-liftoff) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140612">2022-07-07 14:06:12 UTC</a></sub>
 * [Why this Ceres mission could change the search for alien life](https://www.planetary.org/articles/ceres-sample-return-mission-alien-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140555">2022-07-07 14:05:55 UTC</a></sub>
 * [Ingenuity, NASA’s Mars Helicopter](https://www.planetary.org/space-missions/ingenuity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T140446">2022-07-05 14:04:46 UTC</a></sub>
-* [USSF-12: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T232149">2022-07-02 23:21:49 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T190650">2022-07-18 19:06:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T193229">2022-07-18 19:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
