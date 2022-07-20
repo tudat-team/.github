@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA sets a late-August launch date for SLS, and it may actually happen](https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T164018">2022-07-20 16:40:18 UTC</a></sub>
 * [Millennium Space reveals results of DARPA’s ‘Red-Eye’ smallsat experiment](https://spacenews.com/millennium-space-reveals-results-of-darpas-red-eye-smallsat-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155017">2022-07-20 15:50:17 UTC</a></sub>
 * [NASA Sets Coverage for Russian, European Spacewalk](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-european-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T151000">2022-07-20 15:10:00 UTC</a></sub>
 * [OneWeb and Hanwha partner to tap Australia’s military broadband market](https://spacenews.com/oneweb-and-hanwha-partner-to-tap-australias-military-broadband-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T150013">2022-07-20 15:00:13 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope](https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T215106">2022-07-19 21:51:06 UTC</a></sub>
 * [Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T211000">2022-07-19 21:10:00 UTC</a></sub>
 * [ESA funds Skimsat demonstrator study for VLEO](https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
-* [Oxford Space and SSTL unveil Wrapped Rib SAR antenna](https://spacenews.com/oss-sstl-wrapped-rib/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T202014">2022-07-19 20:20:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T161131">2022-07-20 16:11:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T165632">2022-07-20 16:56:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
