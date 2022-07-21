@@ -555,7 +555,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Watch live: Russian cosmonaut, European astronaut head outside ISS on spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T160958">2022-07-21 16:09:58 UTC</a></sub>
-* [SpaceX to break 2021 record with 32nd launch of 2022](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T153354">2022-07-21 15:33:54 UTC</a></sub>
+* [SpaceX scrubs Starlink 3-2 launch attempt](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T153354">2022-07-21 15:33:54 UTC</a></sub>
 * [China could shift to fully reusable super heavy-launcher in wake of Starship](https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T151017">2022-07-21 15:10:17 UTC</a></sub>
 * [SpaceX adds fourth tower segment to Florida Starship launch pad](https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T133002">2022-07-21 13:30:02 UTC</a></sub>
 * [Isar Aerospace to launch from French Guiana](https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T111022">2022-07-21 11:10:22 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T174016">2022-07-21 17:40:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T181110">2022-07-21 18:11:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
