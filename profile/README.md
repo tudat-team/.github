@@ -554,8 +554,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SLS moon rocket booster test-fired in Utah](https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T204003">2022-07-21 20:40:03 UTC</a></sub>
+* [NASA Selects Draper to Fly Research to Far Side of Moon](http://www.nasa.gov/press-release/nasa-selects-draper-to-fly-research-to-far-side-of-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T203100">2022-07-21 20:31:00 UTC</a></sub>
 * [Senate NDAA directs independent review how the Space Force acquires technologies](https://spacenews.com/senate-ndaa-directs-independent-review-how-the-space-force-acquires-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T191015">2022-07-21 19:10:15 UTC</a></sub>
-* [Watch live: SLS moon rocket booster ready for test-firing in Utah](https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T191004">2022-07-21 19:10:04 UTC</a></sub>
 * [Satellite Vu orders second satellite for tracking heat waste](https://spacenews.com/satellite-vu-orders-second-satellite-for-tracking-heat-waste/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190022">2022-07-21 19:00:22 UTC</a></sub>
 * [NASA, ESA to Discuss Mars Sample Return Mission](http://www.nasa.gov/press-release/nasa-esa-to-discuss-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190000">2022-07-21 19:00:00 UTC</a></sub>
 * [Watch live: Russian cosmonaut, European astronaut head outside ISS on spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T160958">2022-07-21 16:09:58 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China could shift to fully reusable super heavy-launcher in wake of Starship](https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T151017">2022-07-21 15:10:17 UTC</a></sub>
 * [SpaceX adds fourth tower segment to Florida Starship launch pad](https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T133002">2022-07-21 13:30:02 UTC</a></sub>
 * [Isar Aerospace to launch from French Guiana](https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T111022">2022-07-21 11:10:22 UTC</a></sub>
-* [UK’s ‘Astra Carta’ movement sees space sustainability as chance to lead](https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T234019">2022-07-20 23:40:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T203910">2022-07-21 20:39:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T210931">2022-07-21 21:09:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
