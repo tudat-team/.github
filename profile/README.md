@@ -438,7 +438,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.10.6.dev30</code></td>
+    <td><code>2.10.6.dev32</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Faith, Doubt, and Contact](https://www.planetary.org/articles/contact-movie-25th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130053">2022-07-21 13:00:53 UTC</a></sub>
 * [Job Opening: Host/Producer, Planetary Radio](https://www.planetary.org/careers/job-opening-host-producer-planetary-radio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T161044">2022-07-20 16:10:44 UTC</a></sub>
 * [A Personal Message to Planetary Radio Listeners](https://www.planetary.org/articles/personal-message-planetary-radio-listeners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T155101">2022-07-20 15:51:01 UTC</a></sub>
 * [SBIRS GEO 6: Atlas V to complete SBIRS constellation](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-complete-sbirs-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T193135">2022-07-18 19:31:35 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
 * [JWST versus Hubble: How are they different?](https://www.planetary.org/articles/jwst-versus-hubble) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T140547">2022-07-11 14:05:47 UTC</a></sub>
 * [Breaking new ground](https://www.planetary.org/the-downlink/breaking-new-ground) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T143548">2022-07-08 14:35:48 UTC</a></sub>
-* [The 2022 Student Rocket Launch: Preparing for Liftoff!](https://blog.ulalaunch.com/blog/the-2022-student-rocket-launch-preparing-for-liftoff) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T140612">2022-07-07 14:06:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T121617">2022-07-21 12:16:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130746">2022-07-21 13:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
