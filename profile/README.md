@@ -113,8 +113,8 @@ conda install -c tudat-team <package>
     <td>
 <details>
 <summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=master">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=master"/>
 </a>
 </summary>
 <table>
@@ -122,29 +122,29 @@ conda install -c tudat-team <package>
 <tbody><tr>
 <td>linux_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_arm64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_"/>
 </a>
 </td>
 </tr>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T073640">2022-07-22 07:36:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T081257">2022-07-22 08:12:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
