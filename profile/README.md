@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
 * [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
 * [Faith, Doubt, and Contact](https://www.planetary.org/articles/contact-movie-25th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130053">2022-07-21 13:00:53 UTC</a></sub>
 * [Job Opening: Host/Producer, Planetary Radio](https://www.planetary.org/careers/job-opening-host-producer-planetary-radio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T161044">2022-07-20 16:10:44 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
 * [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
 * [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
-* [JWST versus Hubble: How are they different?](https://www.planetary.org/articles/jwst-versus-hubble) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T140547">2022-07-11 14:05:47 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T140819">2022-07-22 14:08:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143736">2022-07-22 14:37:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
