@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX and Mattel partner to create rocket ship toys to encourage tapping into your inner space explorer](https://www.teslarati.com/spacex-and-mattel-create-rocket-ship-toys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T222059">2022-07-22 22:20:59 UTC</a></sub>
 * [UK launches consultation on Virgin Orbit launch](https://spacenews.com/uk-launches-consultation-on-virgin-orbit-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T211014">2022-07-22 21:10:14 UTC</a></sub>
 * [SCOUT wins defense contract to demonstrate utility of commercial data from sensors in space](https://spacenews.com/scout-wins-defense-contract-to-demonstrate-utility-of-commercial-data-from-sensors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T195022">2022-07-22 19:50:22 UTC</a></sub>
 * [SpaceX breaks 2021 record with 32nd launch of the year](https://www.nasaspaceflight.com/2022/07/starlink-3-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143354">2022-07-22 14:33:54 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russian cosmonaut, European astronaut complete joint spacewalk](https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T223000">2022-07-21 22:30:00 UTC</a></sub>
 * [SpaceX calls rare last-minute abort during California launch countdown](https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T222002">2022-07-21 22:20:02 UTC</a></sub>
 * [Crew Dragon mission delayed after booster damaged in transport](https://spacenews.com/crew-dragon-mission-delayed-after-booster-damaged-in-transport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T220021">2022-07-21 22:00:21 UTC</a></sub>
-* [NASA to Host Media Activities in Houston Ahead of Lunar Mission](http://www.nasa.gov/press-release/nasa-to-host-media-activities-in-houston-ahead-of-lunar-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T212000">2022-07-21 21:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T223812">2022-07-22 22:38:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T230828">2022-07-22 23:08:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
