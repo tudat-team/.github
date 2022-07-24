@@ -554,7 +554,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX to continue Starlink deployment with Starlink 4-25 mission](https://www.nasaspaceflight.com/2022/07/starlink-4-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T104617">2022-07-24 10:46:17 UTC</a></sub>
+* [Roman Space Telescope top challenge for new NASA astrophysics director](https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T150021">2022-07-24 15:00:21 UTC</a></sub>
+* [Video: SpaceX Falcon 9 over the moon](https://www.teslarati.com/spacex-falcon-9-over-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T144109">2022-07-24 14:41:09 UTC</a></sub>
+* [SpaceX continues Starlink deployment with Starlink 4-25 mission](https://www.nasaspaceflight.com/2022/07/starlink-4-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T104617">2022-07-24 10:46:17 UTC</a></sub>
 * [New science lab for China’s space station launches on Long March 5B rocket](https://spaceflightnow.com/2022/07/24/long-march-5b-wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T103002">2022-07-24 10:30:02 UTC</a></sub>
 * [Chang Zheng 5B launches Wentian Laboratory Module](https://www.nasaspaceflight.com/2022/07/wentian-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061223">2022-07-24 06:12:23 UTC</a></sub>
 * [Vaya Space aims for flight operations next year with STAR-3D vortex hybrid engine](https://www.nasaspaceflight.com/2022/07/vaya-space-star-3d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T172114">2022-07-23 17:21:14 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX test-fires Falcon 9 rocket for Sunday launch from Florida](https://spaceflightnow.com/2022/07/23/starlink-4-25-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T133004">2022-07-23 13:30:04 UTC</a></sub>
 * [Watch live: SpaceX preps for Falcon 9 test-firing in Florida](https://spaceflightnow.com/2022/07/23/watch-live-spacex-preps-for-falcon-9-test-firing-in-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T124955">2022-07-23 12:49:55 UTC</a></sub>
 * [SpaceX and Mattel partner to create rocket ship toys to encourage tapping into your inner space explorer](https://www.teslarati.com/spacex-and-mattel-create-rocket-ship-toys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T222059">2022-07-22 22:20:59 UTC</a></sub>
-* [UK launches consultation on Virgin Orbit launch](https://spacenews.com/uk-launches-consultation-on-virgin-orbit-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T211014">2022-07-22 21:10:14 UTC</a></sub>
-* [SCOUT wins defense contract to demonstrate utility of commercial data from sensors in space](https://spacenews.com/scout-wins-defense-contract-to-demonstrate-utility-of-commercial-data-from-sensors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T195022">2022-07-22 19:50:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T143521">2022-07-24 14:35:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T150820">2022-07-24 15:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
