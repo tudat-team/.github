@@ -555,6 +555,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Massive Long March 5B booster predicted to reenter on July 31](https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T181008">2022-07-26 18:10:08 UTC</a></sub>
+* [Russia says it will quit the International Space Station after 2024 and build its own](https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T180000">2022-07-26 18:00:00 UTC</a></sub>
 * [Data from OSIRIS-REx reveals loose surface of asteroid Bennu and “early aging” of asteroids](https://www.nasaspaceflight.com/2022/07/osiris-rex-bennu-aging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165237">2022-07-26 16:52:37 UTC</a></sub>
 * [NASA: no notification by Russia to end ISS participation](https://spacenews.com/nasa-no-notification-by-russia-to-end-iss-participation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165020">2022-07-26 16:50:20 UTC</a></sub>
 * [Sierra Space establishes national security advisory group](https://spacenews.com/sierra-space-establishes-national-security-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140019">2022-07-26 14:00:19 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DoD signaling demand for satellite support services in geostationary orbit](https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T200011">2022-07-25 20:00:11 UTC</a></sub>
 * [NASA Goddard Center Director Shares Plans to Retire](http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T170000">2022-07-25 17:00:00 UTC</a></sub>
 * [Boeing aiming to deliver second SLS Core Stage to NASA in March](https://www.nasaspaceflight.com/2022/07/boeing-second-sls-core-march/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T161443">2022-07-25 16:14:43 UTC</a></sub>
-* [NASA Air’s Space Station R&D, Benefits to Humanity Conference](http://www.nasa.gov/press-release/nasa-air-s-space-station-rd-benefits-to-humanity-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T140000">2022-07-25 14:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T181058">2022-07-26 18:10:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T184417">2022-07-26 18:44:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
