@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA selects Viasat for multi-orbit satellite communications study](https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T222013">2022-07-26 22:20:13 UTC</a></sub>
 * [Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices](https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T213022">2022-07-26 21:30:22 UTC</a></sub>
 * [NASA Prepares for Space Launch System Rocket Services Contract](http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T203000">2022-07-26 20:30:00 UTC</a></sub>
 * [Massive Long March 5B booster predicted to reenter on July 31](https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T181008">2022-07-26 18:10:08 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Sierra Space establishes national security advisory group](https://spacenews.com/sierra-space-establishes-national-security-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140019">2022-07-26 14:00:19 UTC</a></sub>
 * [Orbit Fab to donate regolith to lunar resources trust](https://spacenews.com/orbit-fab-to-donate-regolith-to-lunar-resources-trust/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T131019">2022-07-26 13:10:19 UTC</a></sub>
 * [HawkEye 360 opens satellite manufacturing facility in Virginia](https://spacenews.com/hawkeye-360-opens-satellite-manufacturing-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T074014">2022-07-26 07:40:14 UTC</a></sub>
-* [DoD signaling demand for satellite support services in geostationary orbit](https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T200011">2022-07-25 20:00:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T220817">2022-07-26 22:08:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T223848">2022-07-26 22:38:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
