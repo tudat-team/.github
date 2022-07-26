@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sierra Space establishes national security advisory group](https://spacenews.com/sierra-space-establishes-national-security-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140019">2022-07-26 14:00:19 UTC</a></sub>
 * [Orbit Fab to donate regolith to lunar resources trust](https://spacenews.com/orbit-fab-to-donate-regolith-to-lunar-resources-trust/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T131019">2022-07-26 13:10:19 UTC</a></sub>
 * [HawkEye 360 opens satellite manufacturing facility in Virginia](https://spacenews.com/hawkeye-360-opens-satellite-manufacturing-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T074014">2022-07-26 07:40:14 UTC</a></sub>
 * [DoD signaling demand for satellite support services in geostationary orbit](https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T200011">2022-07-25 20:00:11 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill](https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T072009">2022-07-25 07:20:09 UTC</a></sub>
 * [Eutelsat and OneWeb agree multi-orbit merger plan](https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T063014">2022-07-25 06:30:14 UTC</a></sub>
 * [SpaceX’s next crew launch delayed by booster damage](https://spaceflightnow.com/2022/07/25/spacexs-next-crew-launch-delayed-by-booster-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T050958">2022-07-25 05:09:58 UTC</a></sub>
-* [Wentian science module docks with China’s space station](https://spaceflightnow.com/2022/07/24/wentian-science-module-docks-with-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T211009">2022-07-24 21:10:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Life on Venus? New updates on the search](https://www.planetary.org/articles/life-on-venus-new-updates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140100">2022-07-26 14:01:00 UTC</a></sub>
 * [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
 * [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
 * [Faith, Doubt, and Contact](https://www.planetary.org/articles/contact-movie-25th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130053">2022-07-21 13:00:53 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chandrayaan-1, India’s first Moon mission](https://www.planetary.org/space-missions/chandrayaan-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T140054">2022-07-18 14:00:54 UTC</a></sub>
 * [Love at first sights](https://www.planetary.org/the-downlink/love-at-first-sights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143050">2022-07-15 14:30:50 UTC</a></sub>
 * [See JWST's amazing first science images](https://www.planetary.org/articles/james-webb-space-telescope-first-science-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T152841">2022-07-12 15:28:41 UTC</a></sub>
-* [See JWST’s first deep field image](https://www.planetary.org/articles/jwst-first-deep-field-image) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T223549">2022-07-11 22:35:49 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140807">2022-07-26 14:08:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T143502">2022-07-26 14:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
