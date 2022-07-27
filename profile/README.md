@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Marks 25 Years Since Pathfinder Touched Down on Mars](https://mars.nasa.gov/news/9232/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T181000">2022-07-27 18:10:00 UTC</a></sub>
+* [Orion teams ready for Artemis 1 as pre-launch preparations head into the home stretch](https://www.nasaspaceflight.com/2022/07/orion-artemis-1-home-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T174530">2022-07-27 17:45:30 UTC</a></sub>
 * [NASA Will Inspire World When It Returns Mars Samples to Earth in 2033](http://www.nasa.gov/press-release/nasa-will-inspire-world-when-it-returns-mars-samples-to-earth-in-2033) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T150000">2022-07-27 15:00:00 UTC</a></sub>
 * [NASA prepares to award SLS launch services contract to Boeing-Northrop joint venture](https://spacenews.com/nasa-prepares-to-award-sls-launch-services-contract-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T090010">2022-07-27 09:00:10 UTC</a></sub>
 * [CAS Space puts six satellites in orbit with first orbital launch](https://spacenews.com/cas-space-puts-six-satellites-in-orbit-with-first-orbital-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T085015">2022-07-27 08:50:15 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Prepares for Space Launch System Rocket Services Contract](http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T203000">2022-07-26 20:30:00 UTC</a></sub>
 * [Massive Long March 5B booster predicted to reenter on July 31](https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T181008">2022-07-26 18:10:08 UTC</a></sub>
 * [Russia says it will quit the International Space Station after 2024 and build its own](https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T180000">2022-07-26 18:00:00 UTC</a></sub>
-* [Data from OSIRIS-REx reveals loose surface of asteroid Bennu and “early aging” of asteroids](https://www.nasaspaceflight.com/2022/07/osiris-rex-bennu-aging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165237">2022-07-26 16:52:37 UTC</a></sub>
-* [NASA: no notification by Russia to end ISS participation](https://spacenews.com/nasa-no-notification-by-russia-to-end-iss-participation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165020">2022-07-26 16:50:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T181023">2022-07-27 18:10:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T184243">2022-07-27 18:42:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
