@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Administrator Statement on Agency Authorization Bill](http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T220000">2022-07-28 22:00:00 UTC</a></sub>
 * [Awaiting Static Fire as SpaceX sets up Starship’s test campaign](https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201158">2022-07-28 20:11:58 UTC</a></sub>
 * [Senate appropriators boost military space programs in proposed 2023 spending bill](https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T201014">2022-07-28 20:10:14 UTC</a></sub>
 * [Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged](https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T161013">2022-07-28 16:10:13 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Iridium enters development deal to bring its network to smartphones](https://spacenews.com/iridium-agrees-development-deal-to-bring-its-network-to-smartphones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
 * [NASA and ESA remove rover from Mars Sample Return plans](https://spacenews.com/nasa-and-esa-remove-rover-from-mars-sample-return-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233023">2022-07-27 23:30:23 UTC</a></sub>
 * [Rocket Lab to supply solar power units for U.S. Space Force missile warning satellites](https://spacenews.com/rocket-lab-to-supply-solar-power-units-for-u-s-space-force-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T225019">2022-07-27 22:50:19 UTC</a></sub>
-* [NASA to Host Briefings to Preview Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-to-preview-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T221000">2022-07-27 22:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T213546">2022-07-28 21:35:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T220729">2022-07-28 22:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
