@@ -554,7 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Long March 5B rocket stage makes uncontrolled reentry over Indian Ocean](https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T180015">2022-07-30 18:00:15 UTC</a></sub>
+* [Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean](https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181019">2022-07-30 18:10:19 UTC</a></sub>
+* [NASA Administrator Statement on Chinese Space Debris](http://www.nasa.gov/press-release/nasa-administrator-statement-on-chinese-space-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T181000">2022-07-30 18:10:00 UTC</a></sub>
 * [Large Chinese rocket booster expected to fall back to Earth today](https://spaceflightnow.com/2022/07/30/long-march-5b-re-entry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T154958">2022-07-30 15:49:58 UTC</a></sub>
 * [NASA taps Draper for first U.S. landing on far side of the moon](https://spaceflightnow.com/2022/07/29/nasa-taps-draper-for-first-u-s-landing-on-far-side-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T220004">2022-07-29 22:00:04 UTC</a></sub>
 * [Hydrosat secures Tier 1 remote sensing operating license](https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T202017">2022-07-29 20:20:17 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Congress passes NASA authorization bill](https://spacenews.com/congress-passes-nasa-authorization-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T113014">2022-07-29 11:30:14 UTC</a></sub>
 * [Draft Senate appropriations bill matches overall NASA request for fiscal year 2023](https://spacenews.com/draft-senate-appropriations-bill-matches-overall-nasa-request-for-fiscal-year-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T104016">2022-07-29 10:40:16 UTC</a></sub>
 * [SpaceX may launch Starlink in the Philippines in December](https://www.teslarati.com/spacex-launch-starlink-philippines-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T015058">2022-07-29 01:50:58 UTC</a></sub>
-* [NASA Administrator Statement on Agency Authorization Bill](http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T220000">2022-07-28 22:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T180933">2022-07-30 18:09:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T184058">2022-07-30 18:40:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
