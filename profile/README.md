@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hyundai partners with research institutes to develop vehicle for lunar surface exploration](https://spacenews.com/hyundai-partners-with-research-institutes-to-develop-vehicle-for-lunar-surface-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T133123">2022-08-02 13:31:23 UTC</a></sub>
 * [NASA revises requirements for ISS private astronaut missions](https://spacenews.com/nasa-revises-requirements-for-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T114117">2022-08-02 11:41:17 UTC</a></sub>
 * [Rocket Lab’s Electron to launch NROL-199 mission](https://www.nasaspaceflight.com/2022/08/rocket-labs-nrol-199/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T214101">2022-08-01 21:41:01 UTC</a></sub>
 * [NASA Television Transponder Change Monday, Aug. 29](http://www.nasa.gov/press-release/nasa-television-transponder-change-monday-aug-29) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T211200">2022-08-01 21:12:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Isotropic Systems rebrands as All.Space and unveils latest terminal](https://spacenews.com/isotropic-rebrands-as-all-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T153117">2022-08-01 15:31:17 UTC</a></sub>
 * [We’re about to enter the heart of the Atlantic hurricane season](https://arstechnica.com/science/2022/08/the-atlantic-hurricane-season-is-off-to-a-slow-start-but-that-probably-wont-last/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T140304">2022-08-01 14:03:04 UTC</a></sub>
 * [Space Force to take on bigger role planning future DoD space investments](https://spacenews.com/space-force-to-take-on-bigger-role-planning-future-dod-space-investments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T115119">2022-08-01 11:51:19 UTC</a></sub>
-* [SpaceX Super Heavy tank prototype survives crush testing](https://www.teslarati.com/spacex-super-heavy-tank-survives-crush-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T055153">2022-08-01 05:51:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T130800">2022-08-02 13:08:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T135400">2022-08-02 13:54:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
