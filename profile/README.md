@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed invests in Xona’s GPS-alternative constellation](https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T191126">2022-08-03 19:11:26 UTC</a></sub>
 * [SpaceX working to improve fairing recovery for continued success](https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T165353">2022-08-03 16:53:53 UTC</a></sub>
 * [Russia wants a better look at what America’s newest spy satellite can do](https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T164659">2022-08-03 16:46:59 UTC</a></sub>
 * [ESA ends efforts to recover Sentinel-1B](https://spacenews.com/esa-ends-efforts-to-recover-sentinel-1b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T151116">2022-08-03 15:11:16 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Biden to sign chips bill in a boost for satellite supply chains](https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T225125">2022-08-02 22:51:25 UTC</a></sub>
 * [Final SBIRS missile warning satellite ready for launch](https://spaceflightnow.com/2022/08/02/final-sbirs-missile-warning-satellite-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T174109">2022-08-02 17:41:09 UTC</a></sub>
 * [Report: U.S. should push for global rules on space traffic management](https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T173126">2022-08-02 17:31:26 UTC</a></sub>
-* [Why space debris keeps falling out of the sky—and will continue to do so](https://arstechnica.com/science/2022/08/why-space-debris-keeps-falling-out-of-the-sky-and-will-continue-to-do-so/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162723">2022-08-02 16:27:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T190709">2022-08-03 19:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T193237">2022-08-03 19:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
