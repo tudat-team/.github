@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA ends efforts to recover Sentinel-1B](https://spacenews.com/esa-ends-efforts-to-recover-sentinel-1b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T151116">2022-08-03 15:11:16 UTC</a></sub>
 * [Slingshot acquires Numerica’s space-tracking business and UK space data firm Seradata](https://spacenews.com/slingshot-acquires-numericas-space-tracking-business-and-uk-space-data-firm-seradata/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120124">2022-08-03 12:01:24 UTC</a></sub>
 * [Momentus deploys additional satellites from Vigoride tug](https://spacenews.com/momentus-deploys-additional-satellites-from-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T105124">2022-08-03 10:51:24 UTC</a></sub>
 * [ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite](https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T232113">2022-08-02 23:21:13 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-5 Mission](http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-5-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T162100">2022-08-02 16:21:00 UTC</a></sub>
 * [Hyundai partners with research institutes to develop vehicle for lunar surface exploration](https://spacenews.com/hyundai-partners-with-research-institutes-to-develop-vehicle-for-lunar-surface-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T133123">2022-08-02 13:31:23 UTC</a></sub>
 * [NASA revises requirements for ISS private astronaut missions](https://spacenews.com/nasa-revises-requirements-for-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T114117">2022-08-02 11:41:17 UTC</a></sub>
-* [Elon Musk sets expectations for SpaceX’s first orbital Starship launches](https://www.teslarati.com/spacex-starship-orbital-launch-debut-elon-musk-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T051210">2022-08-02 05:12:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T143530">2022-08-03 14:35:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T151239">2022-08-03 15:12:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
