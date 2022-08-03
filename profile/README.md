@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Why we have the SLS](https://www.planetary.org/articles/why-we-have-the-sls) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T123151">2022-08-03 12:31:51 UTC</a></sub>
 * [The Cost of SLS and Orion](https://www.planetary.org/space-policy/cost-of-sls-and-orion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120202">2022-08-03 12:02:02 UTC</a></sub>
 * [Triton, Neptune's largest moon](https://www.planetary.org/worlds/triton) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140202">2022-08-02 14:02:02 UTC</a></sub>
 * [RocketStars: Ron McKee serves as SBIRS GEO 6 launch conductor](https://blog.ulalaunch.com/blog/rocketstars-ron-mckee-serves-as-sbirs-geo-6-launch-conductor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T162233">2022-08-01 16:22:33 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Life on Venus? New updates on the search](https://www.planetary.org/articles/life-on-venus-new-updates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140100">2022-07-26 14:01:00 UTC</a></sub>
 * [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
 * [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
-* [Faith, Doubt, and Contact](https://www.planetary.org/articles/contact-movie-25th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130053">2022-07-21 13:00:53 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T121714">2022-08-03 12:17:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T131000">2022-08-03 13:10:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
