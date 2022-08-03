@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Slingshot acquires Numerica’s space-tracking business and UK space data firm Seradata](https://spacenews.com/slingshot-acquires-numericas-space-tracking-business-and-uk-space-data-firm-seradata/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120124">2022-08-03 12:01:24 UTC</a></sub>
 * [Momentus deploys additional satellites from Vigoride tug](https://spacenews.com/momentus-deploys-additional-satellites-from-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T105124">2022-08-03 10:51:24 UTC</a></sub>
 * [ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite](https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T232113">2022-08-02 23:21:13 UTC</a></sub>
 * [Biden to sign chips bill in a boost for satellite supply chains](https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T225125">2022-08-02 22:51:25 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Hyundai partners with research institutes to develop vehicle for lunar surface exploration](https://spacenews.com/hyundai-partners-with-research-institutes-to-develop-vehicle-for-lunar-surface-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T133123">2022-08-02 13:31:23 UTC</a></sub>
 * [NASA revises requirements for ISS private astronaut missions](https://spacenews.com/nasa-revises-requirements-for-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T114117">2022-08-02 11:41:17 UTC</a></sub>
 * [Elon Musk sets expectations for SpaceX’s first orbital Starship launches](https://www.teslarati.com/spacex-starship-orbital-launch-debut-elon-musk-timeline/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T051210">2022-08-02 05:12:10 UTC</a></sub>
-* [RS-25 delays impact Aerojet earnings](https://spacenews.com/rs-25-delays-impact-aerojet-earnings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T021116">2022-08-02 02:11:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The Cost of SLS and Orion](https://www.planetary.org/space-policy/cost-of-sls-and-orion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120202">2022-08-03 12:02:02 UTC</a></sub>
 * [Triton, Neptune's largest moon](https://www.planetary.org/worlds/triton) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T140202">2022-08-02 14:02:02 UTC</a></sub>
 * [RocketStars: Ron McKee serves as SBIRS GEO 6 launch conductor](https://blog.ulalaunch.com/blog/rocketstars-ron-mckee-serves-as-sbirs-geo-6-launch-conductor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T162233">2022-08-01 16:22:33 UTC</a></sub>
 * [Sights beyond the visible](https://www.planetary.org/the-downlink/sights-beyond-the-visible) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T143058">2022-07-29 14:30:58 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
 * [Slowly returning to in-person member events](https://www.planetary.org/articles/returning-to-in-person-member-events) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T140115">2022-07-21 14:01:15 UTC</a></sub>
 * [Faith, Doubt, and Contact](https://www.planetary.org/articles/contact-movie-25th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T130053">2022-07-21 13:00:53 UTC</a></sub>
-* [Job Opening: Host/Producer, Planetary Radio](https://www.planetary.org/careers/job-opening-host-producer-planetary-radio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T161044">2022-07-20 16:10:44 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T113403">2022-08-03 11:34:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T121714">2022-08-03 12:17:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
