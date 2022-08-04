@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Blue Origin to launch six more passengers to suborbital space](https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133103">2022-08-04 13:31:03 UTC</a></sub>
 * [Geospatial analysis provider Descartes Labs sold to private equity firm](https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130105">2022-08-04 13:01:05 UTC</a></sub>
 * [ULA launches the last SBIRS U.S. Space Force missile warning satellite](https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T105110">2022-08-04 10:51:10 UTC</a></sub>
 * [ULA’s Atlas V launches final SBIRS GEO missile detection satellite](https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T080424">2022-08-04 08:04:24 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Lockheed invests in Xona’s GPS-alternative constellation](https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T191126">2022-08-03 19:11:26 UTC</a></sub>
 * [SpaceX working to improve fairing recovery for continued success](https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T165353">2022-08-03 16:53:53 UTC</a></sub>
 * [Russia wants a better look at what America’s newest spy satellite can do](https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T164659">2022-08-03 16:46:59 UTC</a></sub>
-* [ESA ends efforts to recover Sentinel-1B](https://spacenews.com/esa-ends-efforts-to-recover-sentinel-1b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T151116">2022-08-03 15:11:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130738">2022-08-04 13:07:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T135219">2022-08-04 13:52:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
