@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NESDIS awards enterprise cloud contract to SAIC and Carahsoft](https://spacenews.com/saic-carahsoft-noaa-cloud/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T200105">2022-08-04 20:01:05 UTC</a></sub>
 * [Spire to host second optical payload for South Korea’s Hancom](https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193106">2022-08-04 19:31:06 UTC</a></sub>
 * [Key Russian official confirms his country’s commitment to the space station](https://arstechnica.com/science/2022/08/key-russian-official-confirms-his-countrys-commitment-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T191000">2022-08-04 19:10:00 UTC</a></sub>
 * [SAM's Top 5 Discoveries Aboard NASA's Curiosity Rover at Mars](https://mars.nasa.gov/news/9239/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T181100">2022-08-04 18:11:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Consolidation wave pushes rivals SES and Intelsat into merger talks](https://spacenews.com/consolidation-wave-pushes-rivals-ses-and-intelsat-into-merger-talks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T151105">2022-08-04 15:11:05 UTC</a></sub>
 * [Blue Origin launches six more passengers to suborbital space](https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T145103">2022-08-04 14:51:03 UTC</a></sub>
 * [Blue Origin launches sixth New Shepard crewed suborbital flight](https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T143109">2022-08-04 14:31:09 UTC</a></sub>
-* [Geospatial analysis provider Descartes Labs sold to private equity firm](https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130105">2022-08-04 13:01:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193412">2022-08-04 19:34:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T200956">2022-08-04 20:09:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
