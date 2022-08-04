@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA’s Atlas V to launch final SBIRS GEO missile detection satellite](https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T080424">2022-08-04 08:04:24 UTC</a></sub>
 * [Rocket Lab launches classified mission for National Reconnaissance Office](https://spacenews.com/rocket-lab-launches-classified-mission-for-national-reconnaissance-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T073107">2022-08-04 07:31:07 UTC</a></sub>
 * [First SLS launch remains on schedule for late August](https://spacenews.com/first-sls-launch-remains-on-schedule-for-late-august/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T223116">2022-08-03 22:31:16 UTC</a></sub>
 * [With solar arrays now operational, Lucy’s got some shimmering to do](https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T212310">2022-08-03 21:23:10 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA ends efforts to recover Sentinel-1B](https://spacenews.com/esa-ends-efforts-to-recover-sentinel-1b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T151116">2022-08-03 15:11:16 UTC</a></sub>
 * [Slingshot acquires Numerica’s space-tracking business and UK space data firm Seradata](https://spacenews.com/slingshot-acquires-numericas-space-tracking-business-and-uk-space-data-firm-seradata/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120124">2022-08-03 12:01:24 UTC</a></sub>
 * [Momentus deploys additional satellites from Vigoride tug](https://spacenews.com/momentus-deploys-additional-satellites-from-vigoride-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T105124">2022-08-03 10:51:24 UTC</a></sub>
-* [SpaceX set for first Moon launch [webcast]](https://www.teslarati.com/spacex-first-moon-launch-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T053123">2022-08-03 05:31:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T073532">2022-08-04 07:35:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T081151">2022-08-04 08:11:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
