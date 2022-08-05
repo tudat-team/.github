@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: SpaceX launches Korea to the Moon, Georgia’s litigious spaceport](https://arstechnica.com/science/2022/08/rocket-report-spacex-launches-korea-to-the-moon-georgias-litigious-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T113024">2022-08-05 11:30:24 UTC</a></sub>
 * [Chinese space firm raises funds for commercial weather data satellite constellation](https://spacenews.com/chinese-space-firm-raises-funds-for-commercial-weather-data-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T101454">2022-08-05 10:14:54 UTC</a></sub>
 * [Virgin Galactic again delays start of commercial suborbital flights](https://spacenews.com/virgin-galactic-again-delays-start-of-commercial-suborbital-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T075454">2022-08-05 07:54:54 UTC</a></sub>
 * [NASA and Roscosmos officials restate intent to operate ISS after 2024](https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T231106">2022-08-04 23:11:06 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spire to host second optical payload for South Korea’s Hancom](https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193106">2022-08-04 19:31:06 UTC</a></sub>
 * [Key Russian official confirms his country’s commitment to the space station](https://arstechnica.com/science/2022/08/key-russian-official-confirms-his-countrys-commitment-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T191000">2022-08-04 19:10:00 UTC</a></sub>
 * [SAM's Top 5 Discoveries Aboard NASA's Curiosity Rover at Mars](https://mars.nasa.gov/news/9239/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T181100">2022-08-04 18:11:00 UTC</a></sub>
-* [NRO’s spy satellite fleet to become more diverse](https://spacenews.com/nros-spy-satellite-fleet-to-become-more-diverse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T175105">2022-08-04 17:51:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T113601">2022-08-05 11:36:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T121647">2022-08-05 12:16:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
