@@ -574,6 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [European Spaceflight Update - ESA wants space-based solar power](https://www.getrevue.co/profile/andrewparsonson/issues/esa-wants-space-based-solar-power-1281360) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T070546">2022-08-05 07:05:46 UTC</a></sub>
 * [SBIRS GEO 6: Atlas V successfully launches for Space Force](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T142140">2022-08-04 14:21:40 UTC</a></sub>
 * [Why we have the SLS](https://www.planetary.org/articles/why-we-have-the-sls) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T123151">2022-08-03 12:31:51 UTC</a></sub>
 * [The Cost of SLS and Orion](https://www.planetary.org/space-policy/cost-of-sls-and-orion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T120202">2022-08-03 12:02:02 UTC</a></sub>
@@ -583,7 +584,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Uranus' mysterious moons: why NASA wants to explore Ariel and Miranda](https://www.planetary.org/articles/nasa-mission-uranus-moons-ariel-miranda) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T140058">2022-07-28 14:00:58 UTC</a></sub>
 * [SBIRS GEO 6: Atlas V to maximize payload's orbital delivery](https://blog.ulalaunch.com/blog/sbirs-geo-6-atlas-v-to-maximize-payloads-orbital-delivery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T154118">2022-07-27 15:41:18 UTC</a></sub>
 * [Life on Venus? New updates on the search](https://www.planetary.org/articles/life-on-venus-new-updates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T140100">2022-07-26 14:01:00 UTC</a></sub>
-* [A space smorgasbord](https://www.planetary.org/the-downlink/a-space-smorgasbord) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T143050">2022-07-22 14:30:50 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T070804">2022-08-05 07:08:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T073526">2022-08-05 07:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
