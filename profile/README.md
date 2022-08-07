@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India’s new small satellite launcher fails to put satellites into correct orbit](https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T092504">2022-08-07 09:25:04 UTC</a></sub>
 * [Ellie In Space X Teslarati (double interview)](https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T160523">2022-08-06 16:05:23 UTC</a></sub>
 * [Entire NASA astronaut corps eligible for Artemis missions](https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T155455">2022-08-06 15:54:55 UTC</a></sub>
 * [Curiosity marks 10 years on Mars as discoveries continue](https://www.nasaspaceflight.com/2022/08/curiosity-10-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T154354">2022-08-06 15:43:54 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [FCC considers opening up more Ku-band to non-GEO satellite operators](https://spacenews.com/fcc-considers-opening-up-more-ku-band-to-non-geo-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T183455">2022-08-05 18:34:55 UTC</a></sub>
 * [As losses mount, Astra announces a radical pivot to a larger launch vehicle](https://arstechnica.com/science/2022/08/as-losses-mount-astra-announces-a-radical-pivot-to-a-larger-launch-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T162546">2022-08-05 16:25:46 UTC</a></sub>
 * [10 Years Since Landing, NASA's Curiosity Mars Rover Still Has Drive](https://mars.nasa.gov/news/9240/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T161500">2022-08-05 16:15:00 UTC</a></sub>
-* [South Korea’s first lunar orbiter on way to the moon](https://spacenews.com/south-koreas-first-lunar-orbiter-on-way-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T125455">2022-08-05 12:54:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T093554">2022-08-07 09:35:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T100850">2022-08-07 10:08:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
