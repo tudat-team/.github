@@ -555,7 +555,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [NASA looking for new launch of remaining TROPICS cubesats](https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T184508">2022-08-08 18:45:08 UTC</a></sub>
-* [Peter Beck explains why Electron may only ever launch 10-15 times a year](https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T173221">2022-08-08 17:32:21 UTC</a></sub>
+* [Peter Beck explains why Electron may only ever launch 10-15 times a year [Updated]](https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T173221">2022-08-08 17:32:21 UTC</a></sub>
 * [Northrop Grumman and Firefly to partner on upgraded Antares](https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T170510">2022-08-08 17:05:10 UTC</a></sub>
 * [NASA Announces New CubeSat Launch Initiative Partnership Opportunities](http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T163500">2022-08-08 16:35:00 UTC</a></sub>
 * [SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field](https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T160508">2022-08-08 16:05:08 UTC</a></sub>
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T203802">2022-08-08 20:38:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T210806">2022-08-08 21:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
