@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sidus Space could launch LizzieSat-1 without thrusters](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T205524">2022-08-09 20:55:24 UTC</a></sub>
+* [Starlink Group 4-26 slated for Tuesday launch from LC-39A](https://www.nasaspaceflight.com/2022/08/starlink-4-26/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T204326">2022-08-09 20:43:26 UTC</a></sub>
+* [Aerospace develops lost-cost optical ground network](https://spacenews.com/aerospace-optical-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T203519">2022-08-09 20:35:19 UTC</a></sub>
+* [China’s secretive space plane flies higher and longer than before](https://arstechnica.com/science/2022/08/chinas-secretive-space-plane-flies-higher-and-longer-than-before/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200651">2022-08-09 20:06:51 UTC</a></sub>
 * [SpaceX sees continued strong demand for rideshare missions](https://spacenews.com/spacex-sees-continued-strong-demand-for-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200513">2022-08-09 20:05:13 UTC</a></sub>
-* [Sidus open to ISS and rideshare deployments for LizzieSat constellation](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T192522">2022-08-09 19:25:22 UTC</a></sub>
-* [Atlas Space Operations upgrades user interface to ease scheduling](https://spacenews.com/atlas-user-interface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
 * [Telespazio unveils product line for NewSpace market](https://spacenews.com/telespazio-ease-product-line/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
+* [Atlas Space Operations upgrades user interface to ease scheduling](https://spacenews.com/atlas-user-interface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
 * [Download your Tuesday ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T184520">2022-08-09 18:45:20 UTC</a></sub>
 * [Terran Orbital prioritizes work on SDA smallsats over PredaSAR](https://spacenews.com/terran-orbital-prioritizes-work-on-sda-smallsats-over-predasar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T170522">2022-08-09 17:05:22 UTC</a></sub>
 * [Starlink satellites encounter Russian ASAT debris squalls](https://spacenews.com/starlink-satellites-encounter-russian-asat-debris-squalls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T152520">2022-08-09 15:25:20 UTC</a></sub>
-* [California, Indiana Students to Hear from Astronauts on Space Station](http://www.nasa.gov/press-release/california-indiana-students-to-hear-from-astronauts-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140600">2022-08-09 14:06:00 UTC</a></sub>
-* [SpaceX rolls out Falcon 9 rocket as Starship work continues at pad 39A](https://spaceflightnow.com/2022/08/09/spacex-rolls-out-falcon-9-rocket-as-starship-work-continues-at-pad-39a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140520">2022-08-09 14:05:20 UTC</a></sub>
-* [Busek finds headroom to double in size](https://spacenews.com/busek-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T120530">2022-08-09 12:05:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T203850">2022-08-09 20:38:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T210742">2022-08-09 21:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
