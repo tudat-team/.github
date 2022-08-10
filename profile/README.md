@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX fires up Starship booster at orbital launch pad](https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T235552">2022-08-09 23:55:52 UTC</a></sub>
 * [U.S. Space Command basing decision approaching final stretch](https://spacenews.com/u-s-space-command-basing-decision-approaching-final-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T222519">2022-08-09 22:25:19 UTC</a></sub>
 * [D-Orbit to deploy 20 Astrocast satellites over three years](https://spacenews.com/d-orbit-to-deploy-20-astrocast-satellites-over-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T220533">2022-08-09 22:05:33 UTC</a></sub>
 * [Aerospace develops low-cost optical ground network](https://spacenews.com/aerospace-optical-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China’s secretive space plane flies higher and longer than before](https://arstechnica.com/science/2022/08/chinas-secretive-space-plane-flies-higher-and-longer-than-before/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200651">2022-08-09 20:06:51 UTC</a></sub>
 * [SpaceX sees continued strong demand for rideshare missions](https://spacenews.com/spacex-sees-continued-strong-demand-for-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200513">2022-08-09 20:05:13 UTC</a></sub>
 * [Atlas Space Operations upgrades user interface to ease scheduling](https://spacenews.com/atlas-user-interface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
-* [Telespazio unveils product line for NewSpace market](https://spacenews.com/telespazio-ease-product-line/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T233728">2022-08-09 23:37:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T004622">2022-08-10 00:46:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
