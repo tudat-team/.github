@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [La NASA busca experimentos de estudiantes para remontarse en el segundo reto TechRise](http://www.nasa.gov/press-release/la-nasa-busca-experimentos-de-estudiantes-para-remontarse-en-el-segundo-reto-techrise) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T185500">2022-08-10 18:55:00 UTC</a></sub>
 * [NASA cubesat bumped from rideshare launch because of orbital debris mitigation concerns](https://spacenews.com/nasa-cubesat-bumped-from-rideshare-launch-because-of-orbital-debris-mitigation-concerns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T183519">2022-08-10 18:35:19 UTC</a></sub>
 * [NASA Seeks Student Experiments to Soar in Second TechRise Challenge](http://www.nasa.gov/press-release/nasa-seeks-student-experiments-to-soar-in-second-techrise-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T181500">2022-08-10 18:15:00 UTC</a></sub>
 * [Maxar’s satellite business looks to gain foothold in defense market](https://spacenews.com/maxars-satellite-business-looks-to-gain-foothold-in-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T175520">2022-08-10 17:55:20 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NanoAvionics expands into heavier smallsat market](https://spacenews.com/nanoavionics-expands-into-heavier-smallsat-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T143530">2022-08-10 14:35:30 UTC</a></sub>
 * [SpaceX breathes fire in South Texas for the first time in 2022](https://arstechnica.com/science/2022/08/spacex-breathes-fire-in-south-texas-for-the-first-time-in-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T141144">2022-08-10 14:11:44 UTC</a></sub>
 * [Capella unveils a new generation of radar satellites](https://spacenews.com/capella-acadia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T130524">2022-08-10 13:05:24 UTC</a></sub>
-* [Blue Canyon Technologies to build Tomorrow.io microwave satellites](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T124521">2022-08-10 12:45:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T190659">2022-08-10 19:06:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T193234">2022-08-10 19:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
