@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Capella unveils a new generation of radar satellites](https://spacenews.com/capella-acadia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T130524">2022-08-10 13:05:24 UTC</a></sub>
 * [Blue Canyon Technologies to build Tomorrow.io microwave satellites](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T124521">2022-08-10 12:45:21 UTC</a></sub>
 * [Nelson satisfied with NASA authorization act](https://spacenews.com/nelson-satisfied-with-nasa-authorization-act/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T112517">2022-08-10 11:25:17 UTC</a></sub>
 * [Falcon 9 rocket deploys SpaceX’s 3,000th Starlink internet satellite](https://spaceflightnow.com/2022/08/10/falcon-9-rocket-deploys-spacexs-3000th-starlink-internet-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T065508">2022-08-10 06:55:08 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Aerospace develops low-cost optical ground network](https://spacenews.com/aerospace-optical-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
 * [Maxar to supply 14 satellites for U.S. military missile-tracking constellation](https://spacenews.com/maxar-to-supply-14-satellites-for-u-s-military-missile-tracking-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
 * [Sidus Space could launch LizzieSat-1 without thrusters](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T205524">2022-08-09 20:55:24 UTC</a></sub>
-* [Starlink Group 4-26 launches on Falcon 9 from LC-39A](https://www.nasaspaceflight.com/2022/08/starlink-4-26/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T204326">2022-08-09 20:43:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T130231">2022-08-10 13:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T134945">2022-08-10 13:49:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
