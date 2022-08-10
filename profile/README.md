@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Canyon Technologies to build Tomorrow.io constellation](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T041520">2022-08-10 04:15:20 UTC</a></sub>
 * [SpaceX fires up Starship booster at orbital launch pad](https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T235552">2022-08-09 23:55:52 UTC</a></sub>
 * [U.S. Space Command basing decision approaching final stretch](https://spacenews.com/u-s-space-command-basing-decision-approaching-final-stretch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T222519">2022-08-09 22:25:19 UTC</a></sub>
 * [D-Orbit to deploy 20 Astrocast satellites over three years](https://spacenews.com/d-orbit-to-deploy-20-astrocast-satellites-over-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T220533">2022-08-09 22:05:33 UTC</a></sub>
-* [Maxar to supply 14 satellites for U.S. military missile-tracking constellation](https://spacenews.com/maxar-to-supply-14-satellites-for-u-s-military-missile-tracking-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
 * [Aerospace develops low-cost optical ground network](https://spacenews.com/aerospace-optical-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
+* [Maxar to supply 14 satellites for U.S. military missile-tracking constellation](https://spacenews.com/maxar-to-supply-14-satellites-for-u-s-military-missile-tracking-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213527">2022-08-09 21:35:27 UTC</a></sub>
 * [Sidus Space could launch LizzieSat-1 without thrusters](https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T205524">2022-08-09 20:55:24 UTC</a></sub>
 * [Starlink Group 4-26 launches on Falcon 9 from LC-39A](https://www.nasaspaceflight.com/2022/08/starlink-4-26/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T204326">2022-08-09 20:43:26 UTC</a></sub>
 * [China’s secretive space plane flies higher and longer than before](https://arstechnica.com/science/2022/08/chinas-secretive-space-plane-flies-higher-and-longer-than-before/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200651">2022-08-09 20:06:51 UTC</a></sub>
 * [SpaceX sees continued strong demand for rideshare missions](https://spacenews.com/spacex-sees-continued-strong-demand-for-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200513">2022-08-09 20:05:13 UTC</a></sub>
-* [Telespazio unveils product line for NewSpace market](https://spacenews.com/telespazio-ease-product-line/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T191528">2022-08-09 19:15:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T041057">2022-08-10 04:10:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T044556">2022-08-10 04:45:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
