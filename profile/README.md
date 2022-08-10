@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Maxar’s satellite business looks to gain foothold in defense market](https://spacenews.com/maxars-satellite-business-looks-to-gain-foothold-in-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T175520">2022-08-10 17:55:20 UTC</a></sub>
 * [Expedition 67 in final stretch as European Robotic Arm commissioning continues](https://www.nasaspaceflight.com/2022/08/expedition-67-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T173031">2022-08-10 17:30:31 UTC</a></sub>
 * [First cubesat completed for NASA space science constellation](https://spacenews.com/first-cubesat-completed-for-nasa-space-science-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T160524">2022-08-10 16:05:24 UTC</a></sub>
 * [Student payloads to fly on RocketStar suborbital test flight](https://spacenews.com/student-payloads-rocketstar-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T145535">2022-08-10 14:55:35 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Canyon Technologies to build Tomorrow.io microwave satellites](https://spacenews.com/blue-canyon-tomorrow-io/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T124521">2022-08-10 12:45:21 UTC</a></sub>
 * [Nelson satisfied with NASA authorization act](https://spacenews.com/nelson-satisfied-with-nasa-authorization-act/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T112517">2022-08-10 11:25:17 UTC</a></sub>
 * [Falcon 9 rocket deploys SpaceX’s 3,000th Starlink internet satellite](https://spaceflightnow.com/2022/08/10/falcon-9-rocket-deploys-spacexs-3000th-starlink-internet-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T065508">2022-08-10 06:55:08 UTC</a></sub>
-* [SpaceX fires up Starship booster at orbital launch pad](https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T235552">2022-08-09 23:55:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T174056">2022-08-10 17:40:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T181057">2022-08-10 18:10:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
