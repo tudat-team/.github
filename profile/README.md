@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astro Digital Q&A: Taking smallsats to the mainstream](https://spacenews.com/astro-digital-qa-taking-smallsats-to-the-mainstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T110526">2022-08-11 11:05:26 UTC</a></sub>
 * [SpaceX fires up Starship and Super Heavy booster hours apart](https://www.teslarati.com/spacex-starship-super-heavy-back-to-back-static-fires/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T074619">2022-08-11 07:46:19 UTC</a></sub>
 * [Canada’s MDA eyes UK expansion](https://spacenews.com/canadas-mda-eyes-uk-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T235527">2022-08-10 23:55:27 UTC</a></sub>
 * [Lockheed Martin’s venture fund to increase investments in space companies](https://spacenews.com/lockheed-martins-venture-fund-to-increase-investments-in-space-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T231527">2022-08-10 23:15:27 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Stream Artemis I Rollout, Briefings on Science, Tech Payloads](http://www.nasa.gov/press-release/nasa-to-stream-artemis-i-rollout-briefings-on-science-tech-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T211500">2022-08-10 21:15:00 UTC</a></sub>
 * [U.S. Army a key customer of BlackSky’s next-generation imaging satellite](https://spacenews.com/u-s-army-a-key-customer-of-blackskys-next-generation-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T210517">2022-08-10 21:05:17 UTC</a></sub>
 * [NASA Sets Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T204500">2022-08-10 20:45:00 UTC</a></sub>
-* [DARPA selects companies for inter-satellite laser communications project](https://spacenews.com/darpa-selects-companies-for-inter-satellite-laser-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T195521">2022-08-10 19:55:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T110758">2022-08-11 11:07:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T113437">2022-08-11 11:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
