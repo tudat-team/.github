@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Download your Thursday ‘News from the 2022 Small Satellite show’ digital edition](https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T155527">2022-08-11 15:55:27 UTC</a></sub>
 * [Lunar Reconnaissance Orbiter discovers thermally stable areas in surface pits suitable for future lunar bases](https://www.nasaspaceflight.com/2022/08/lro-surface-pit-temperatures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T151548">2022-08-11 15:15:48 UTC</a></sub>
 * [Spaceflight’s chemically powered space tug heads for launch](https://spacenews.com/spaceflights-chemically-powered-space-tug-heads-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T141523">2022-08-11 14:15:23 UTC</a></sub>
 * [Astro Digital Q&A: Taking smallsats to the mainstream](https://spacenews.com/astro-digital-qa-taking-smallsats-to-the-mainstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T110526">2022-08-11 11:05:26 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Orbital Insight and Asterra join forces to monitor infrastructure](https://spacenews.com/orbital-insight-asterra/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T225530">2022-08-10 22:55:30 UTC</a></sub>
 * [SpaceX loses $900 million in rural broadband subsidies](https://spacenews.com/spacex-loses-900-million-rural-broadband-subsidy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T214517">2022-08-10 21:45:17 UTC</a></sub>
 * [Increased solar activity creates new challenges for smallsats](https://spacenews.com/increased-solar-activity-creates-new-challenges-for-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T211528">2022-08-10 21:15:28 UTC</a></sub>
-* [NASA to Stream Artemis I Rollout, Briefings on Science, Tech Payloads](http://www.nasa.gov/press-release/nasa-to-stream-artemis-i-rollout-briefings-on-science-tech-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T211500">2022-08-10 21:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T154024">2022-08-11 15:40:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T161117">2022-08-11 16:11:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
