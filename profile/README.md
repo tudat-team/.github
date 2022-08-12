@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intelsat and OneWeb to provide multi-orbit inflight connectivity](https://spacenews.com/intelsat-and-oneweb-to-provide-multi-orbit-inflight-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T170529">2022-08-12 17:05:29 UTC</a></sub>
 * [SpaceX to continue Starlink expansion with third launch to shell 3](https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T165059">2022-08-12 16:50:59 UTC</a></sub>
 * [Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran](https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T113056">2022-08-12 11:30:56 UTC</a></sub>
 * [SpaceX set to launch third batch of sun-synchronous Starlink satellites](https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T073620">2022-08-12 07:36:20 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA, Boeing to Hold Media Update on Starliner Progress](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-starliner-progress) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T191500">2022-08-11 19:15:00 UTC</a></sub>
 * [Small launch vehicle industry growth slows](https://spacenews.com/small-launch-vehicle-industry-growth-slows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T181524">2022-08-11 18:15:24 UTC</a></sub>
 * [Kayhan updates Pathfinder spaceflight safety platform](https://spacenews.com/kayhan-update-smallsat-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T173521">2022-08-11 17:35:21 UTC</a></sub>
-* [FCC considers new rules for emerging space capabilities](https://spacenews.com/fcc-considers-new-rules-for-emerging-space-capabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T161516">2022-08-11 16:15:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T172400">2022-08-12 17:24:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T174210">2022-08-12 17:42:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
