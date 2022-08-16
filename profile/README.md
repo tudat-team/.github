@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin scraps original recovery ship for New Glenn boosters](https://spacenews.com/blue-origin-scraps-original-recovery-ship-for-new-glenn-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T220125">2022-08-16 22:01:25 UTC</a></sub>
 * [Orion Space wins U.S. Space Force contract for on-orbit services experiment](https://spacenews.com/orion-space-wins-u-s-space-force-contract-for-on-orbit-services-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T205127">2022-08-16 20:51:27 UTC</a></sub>
 * [SLS ready to roll to LC-39B for launch, teams prepare for multiple launch trajectories](https://www.nasaspaceflight.com/2022/08/artemis-1-launch-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T182514">2022-08-16 18:25:14 UTC</a></sub>
 * [After ICBM test, US stresses it was “not the result of current world events”](https://arstechnica.com/science/2022/08/after-icbm-test-us-stresses-it-was-not-the-result-of-current-world-events/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T143015">2022-08-16 14:30:15 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Science Leadership to Hold Town Hall Meeting](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T190200">2022-08-15 19:02:00 UTC</a></sub>
 * [No, seriously, NASA’s Space Launch System is ready to take flight](https://arstechnica.com/science/2022/08/nasa-declares-that-its-space-launch-system-rocket-is-now-ready-to-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T181346">2022-08-15 18:13:46 UTC</a></sub>
 * [D-Orbit cancels SPAC merger plan](https://spacenews.com/d-orbit-cancels-spac-merger-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T171135">2022-08-15 17:11:35 UTC</a></sub>
-* [SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa](https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T153131">2022-08-15 15:31:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T213530">2022-08-16 21:35:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T220838">2022-08-16 22:08:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
