@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russian cosmonauts to continue outfitting European robotic arm outside space station](https://spaceflightnow.com/2022/08/17/russian-eva-54/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T054112">2022-08-17 05:41:12 UTC</a></sub>
 * [AST SpaceMobile delays commercial satellite debut by six months](https://spacenews.com/ast-spacemobile-delays-commercial-satellite-debut-by-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T222125">2022-08-16 22:21:25 UTC</a></sub>
 * [Blue Origin scraps original recovery ship for New Glenn boosters](https://spacenews.com/blue-origin-scraps-original-recovery-ship-for-new-glenn-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T220125">2022-08-16 22:01:25 UTC</a></sub>
 * [Orion Space wins U.S. Space Force contract for on-orbit services experiment](https://spacenews.com/orion-space-wins-u-s-space-force-contract-for-on-orbit-services-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T205127">2022-08-16 20:51:27 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China’s spaceplane remains in orbit but clues emerge from recovered launch debris](https://spacenews.com/chinas-spaceplane-remains-in-orbit-but-clues-emerge-from-recovered-launch-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T111131">2022-08-16 11:11:31 UTC</a></sub>
 * [Ball and Seagate test data storage devices for satellites](https://spacenews.com/ball-and-seagate-data-storage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T033124">2022-08-16 03:31:24 UTC</a></sub>
 * [NASA Awards Next-Generation Spaceflight Computing Processor Contract](http://www.nasa.gov/press-release/nasa-awards-next-generation-spaceflight-computing-processor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T210100">2022-08-15 21:01:00 UTC</a></sub>
-* [NASA Science Leadership to Hold Town Hall Meeting](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T190200">2022-08-15 19:02:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T053559">2022-08-17 05:35:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T061216">2022-08-17 06:12:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
