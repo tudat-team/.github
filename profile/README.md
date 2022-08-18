@@ -562,8 +562,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russian spacewalk to end early as suit power issue appears](https://www.nasaspaceflight.com/2022/08/rs-eva-54-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T135504">2022-08-17 13:55:04 UTC</a></sub>
 * [Rocket Lab will self-fund a mission to search for life in the clouds of Venus](https://arstechnica.com/science/2022/08/rocket-lab-will-self-fund-a-mission-to-search-for-life-in-the-clouds-of-venus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T130947">2022-08-17 13:09:47 UTC</a></sub>
 * [Seeking Regulatory Mercy: The case for extending constellation deployment deadlines](https://spacenews.com/seeking-regulatory-mercy-the-case-for-extending-constellation-deployment-deadlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T080124">2022-08-17 08:01:24 UTC</a></sub>
+* [SpaceX Falcon Heavy rocket could still launch first military mission in 2022](https://www.teslarati.com/spacex-falcon-heavy-first-military-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T020216">2022-08-17 02:02:16 UTC</a></sub>
 * [AST SpaceMobile delays commercial satellite debut by six months](https://spacenews.com/ast-spacemobile-delays-commercial-satellite-debut-by-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T222125">2022-08-16 22:21:25 UTC</a></sub>
-* [Blue Origin scraps original recovery ship for New Glenn boosters](https://spacenews.com/blue-origin-scraps-original-recovery-ship-for-new-glenn-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T220125">2022-08-16 22:01:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T005159">2022-08-18 00:51:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T032426">2022-08-18 03:24:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
