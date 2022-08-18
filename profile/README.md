@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Announce Candidate Landing Regions for Artemis III Moon Mission](http://www.nasa.gov/press-release/nasa-to-announce-candidate-landing-regions-for-artemis-iii-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T231100">2022-08-17 23:11:00 UTC</a></sub>
 * [SLS arrives at the pad for Artemis 1 launch](https://spacenews.com/sls-arrives-at-the-pad-for-artemis-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T224126">2022-08-17 22:41:26 UTC</a></sub>
 * [Commercial geospatial technologies that detect GPS disruptions to be tested in military exercises](https://spacenews.com/commercial-geospatial-technologies-that-detect-gps-disruptions-to-be-tested-in-military-exercises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T223116">2022-08-17 22:31:16 UTC</a></sub>
 * [Russian spacewalk cut short by spacesuit power system problem](https://spaceflightnow.com/2022/08/17/russian-eva-54/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T195112">2022-08-17 19:51:12 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Seeking Regulatory Mercy: The case for extending constellation deployment deadlines](https://spacenews.com/seeking-regulatory-mercy-the-case-for-extending-constellation-deployment-deadlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T080124">2022-08-17 08:01:24 UTC</a></sub>
 * [AST SpaceMobile delays commercial satellite debut by six months](https://spacenews.com/ast-spacemobile-delays-commercial-satellite-debut-by-six-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T222125">2022-08-16 22:21:25 UTC</a></sub>
 * [Blue Origin scraps original recovery ship for New Glenn boosters](https://spacenews.com/blue-origin-scraps-original-recovery-ship-for-new-glenn-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T220125">2022-08-16 22:01:25 UTC</a></sub>
-* [Orion Space wins U.S. Space Force contract for on-orbit services experiment](https://spacenews.com/orion-space-wins-u-s-space-force-contract-for-on-orbit-services-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T205127">2022-08-16 20:51:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T233625">2022-08-17 23:36:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T005159">2022-08-18 00:51:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
