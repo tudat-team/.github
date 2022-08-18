@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [European space chief says continent will lead in space-based solar power](https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T125423">2022-08-18 12:54:23 UTC</a></sub>
 * [Mynaric hires president to oversee production of laser communications systems](https://spacenews.com/mynaric-hires-president-to-oversee-production-of-laser-communications-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T114122">2022-08-18 11:41:22 UTC</a></sub>
 * [R3-IoT becomes Krucial to branch out of aquaculture](https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T080119">2022-08-18 08:01:19 UTC</a></sub>
 * [NASA to Announce Candidate Landing Regions for Artemis III Moon Mission](http://www.nasa.gov/press-release/nasa-to-announce-candidate-landing-regions-for-artemis-iii-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T231100">2022-08-17 23:11:00 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NOAA, NASA, and Northrop Grumman complete major testing for JPSS-2 before launch](https://www.nasaspaceflight.com/2022/08/jpss-2-testing-complete/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T160204">2022-08-17 16:02:04 UTC</a></sub>
 * [Russian spacewalk to end early as suit power issue appears](https://www.nasaspaceflight.com/2022/08/rs-eva-54-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T135504">2022-08-17 13:55:04 UTC</a></sub>
 * [Rocket Lab will self-fund a mission to search for life in the clouds of Venus](https://arstechnica.com/science/2022/08/rocket-lab-will-self-fund-a-mission-to-search-for-life-in-the-clouds-of-venus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T130947">2022-08-17 13:09:47 UTC</a></sub>
-* [Seeking Regulatory Mercy: The case for extending constellation deployment deadlines](https://spacenews.com/seeking-regulatory-mercy-the-case-for-extending-constellation-deployment-deadlines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T080124">2022-08-17 08:01:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T121829">2022-08-18 12:18:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T131131">2022-08-18 13:11:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
