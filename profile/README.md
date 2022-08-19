@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Identifies Candidate Regions for Landing Next Americans on Moon](http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T170100">2022-08-19 17:01:00 UTC</a></sub>
+* [La NASA identifica regiones candidatas para un alunizaje humano](http://www.nasa.gov/press-release/la-nasa-identifica-regiones-candidatas-para-un-alunizaje-humano) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T170100">2022-08-19 17:01:00 UTC</a></sub>
 * [SpaceX rolls out Falcon 9 rocket for Starlink launch](https://spaceflightnow.com/2022/08/19/spacex-rolls-out-falcon-9-rocket-for-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T165113">2022-08-19 16:51:13 UTC</a></sub>
 * [Kentucky, Oklahoma Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/kentucky-oklahoma-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T161100">2022-08-19 16:11:00 UTC</a></sub>
 * [SpaceX to launch third Starlink mission in less than two weeks](https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T161005">2022-08-19 16:10:05 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA selects astrophysics mission proposals for study](https://spacenews.com/nasa-selects-astrophysics-mission-proposals-for-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T120114">2022-08-19 12:01:14 UTC</a></sub>
 * [Rocket Report: Europe wants a super-heavy lifter, Starship nets launch contract](https://arstechnica.com/science/2022/08/rocket-report-europe-wants-a-super-heavy-lifter-starship-nets-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T110044">2022-08-19 11:00:44 UTC</a></sub>
 * [Maxar receives delayed Ovzon 3 satellite parts](https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
-* [SpaceX’s next-gen Starship rocket wins first satellite launch contract](https://www.teslarati.com/spacex-starship-first-satellite-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T211215">2022-08-18 21:12:15 UTC</a></sub>
-* [NASA Selects Proposals to Study Stellar Explosions, Galaxies, Stars](http://www.nasa.gov/press-release/nasa-selects-proposals-to-study-stellar-explosions-galaxies-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T202200">2022-08-18 20:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T172154">2022-08-19 17:21:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T174322">2022-08-19 17:43:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
