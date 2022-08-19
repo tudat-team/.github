@@ -554,6 +554,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Europe wants a super-heavy lifter, Starship nets launch contract](https://arstechnica.com/science/2022/08/rocket-report-europe-wants-a-super-heavy-lifter-starship-nets-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T110044">2022-08-19 11:00:44 UTC</a></sub>
 * [Maxar receives delayed Ovzon 3 satellite parts](https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
 * [As DoD shifts to smaller satellites, new questions emerge on how to manage rideshare launches](https://spacenews.com/as-dod-shifts-to-smaller-satellites-new-questions-emerge-on-how-to-manage-rideshare-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T221115">2022-08-18 22:11:15 UTC</a></sub>
 * [SpaceX’s next-gen Starship rocket wins first satellite launch contract](https://www.teslarati.com/spacex-starship-first-satellite-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T211215">2022-08-18 21:12:15 UTC</a></sub>
@@ -563,7 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ukraine gains enhanced access to Iceye imagery and data](https://spacenews.com/iceye-ukraine-sar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T181116">2022-08-18 18:11:16 UTC</a></sub>
 * [La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue](http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T165200">2022-08-18 16:52:00 UTC</a></sub>
 * [NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T163100">2022-08-18 16:31:00 UTC</a></sub>
-* [Europe is seriously considering a major investment in space-based solar power](https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T125423">2022-08-18 12:54:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T110731">2022-08-19 11:07:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T113442">2022-08-19 11:34:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
