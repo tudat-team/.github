@@ -554,6 +554,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Schiess takes over U.S. Space Command’s coalition forces component](https://spacenews.com/schiess-takes-over-u-s-space-commands-coalition-forces-component/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T184120">2022-08-22 18:41:20 UTC</a></sub>
+* [SpaceX adds Falcon 9 back to second-gen Starlink launch plan](https://spacenews.com/spacex-adds-falcon-9-back-to-second-gen-starlink-launch-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T182120">2022-08-22 18:21:20 UTC</a></sub>
 * [APL’s Future Vision: Q&A with Robert Braun](https://spacenews.com/apls-future-vision-qa-with-robert-braun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T155121">2022-08-22 15:51:21 UTC</a></sub>
 * [Orbital Reef passes NASA review](https://spacenews.com/orbital-reef-passes-nasa-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T140125">2022-08-22 14:01:25 UTC</a></sub>
 * [For its latest images, the Webb telescope looked closer to home](https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T132000">2022-08-22 13:20:00 UTC</a></sub>
@@ -562,8 +564,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA cautions planetary science funding falls short of decadal projections](https://spacenews.com/nasa-cautions-planetary-science-funding-falls-short-of-decadal-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T230121">2022-08-21 23:01:21 UTC</a></sub>
 * [Five companies win $4.8 billion in contracts from the National Air and Space Intelligence Center](https://spacenews.com/five-companies-win-4-8-billion-in-contracts-from-the-national-air-and-space-intelligence-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T205112">2022-08-21 20:51:12 UTC</a></sub>
 * [Booster 7 prepares for additional Static Fires as future plans evolve](https://www.nasaspaceflight.com/2022/08/booster-7-additional-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T193653">2022-08-21 19:36:53 UTC</a></sub>
-* [Space Force wargame challenges satellite operators to think critically](https://spacenews.com/space-force-wargame-challenges-satellite-operators-to-think-critically/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T180114">2022-08-21 18:01:14 UTC</a></sub>
-* [SpaceX cargo capsule returns to Earth with leaky NASA spacesuit](https://spaceflightnow.com/2022/08/21/spacex-cargo-capsule-returns-to-earth-with-leaky-nasa-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T151110">2022-08-21 15:11:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T181035">2022-08-22 18:10:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T184350">2022-08-22 18:43:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
