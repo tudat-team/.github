@@ -558,12 +558,12 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Artemis 1 passes flight readiness review](https://spacenews.com/artemis-1-passes-flight-readiness-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T110119">2022-08-23 11:01:19 UTC</a></sub>
 * [Schiess takes over U.S. Space Command’s coalition forces component](https://spacenews.com/schiess-takes-over-u-s-space-commands-coalition-forces-component/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T184120">2022-08-22 18:41:20 UTC</a></sub>
 * [SpaceX adds Falcon 9 back to second-gen Starlink launch plan](https://spacenews.com/spacex-adds-falcon-9-back-to-second-gen-starlink-launch-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T182120">2022-08-22 18:21:20 UTC</a></sub>
+* [Webb images of Jupiter show auroras, rings, moons](https://spaceflightnow.com/2022/08/22/webb-images-of-jupiter-show-auroras-rings-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T163108">2022-08-22 16:31:08 UTC</a></sub>
 * [APL’s Future Vision: Q&A with Robert Braun](https://spacenews.com/apls-future-vision-qa-with-robert-braun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T155121">2022-08-22 15:51:21 UTC</a></sub>
 * [Orbital Reef passes NASA review](https://spacenews.com/orbital-reef-passes-nasa-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T140125">2022-08-22 14:01:25 UTC</a></sub>
 * [For its latest images, the Webb telescope looked closer to home](https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T132000">2022-08-22 13:20:00 UTC</a></sub>
 * [SpaceLink partners with Parsons for DARPA’s inter-satellite communications project](https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130123">2022-08-22 13:01:23 UTC</a></sub>
 * [China claims progress on rockets for crewed lunar landings and moon base](https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T124115">2022-08-22 12:41:15 UTC</a></sub>
-* [NASA managers give “go” for Artemis 1 launch after flight readiness review](https://spaceflightnow.com/2022/08/22/nasa-managers-give-go-for-artemis-1-launch-after-flight-readiness-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T053108">2022-08-22 05:31:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T161532">2022-08-23 16:15:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T165311">2022-08-23 16:53:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
