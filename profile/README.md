@@ -554,16 +554,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Three Companies to Help NASA Advance Solar Array Technology for Moon](http://www.nasa.gov/press-release/three-companies-to-help-nasa-advance-solar-array-technology-for-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T201100">2022-08-23 20:11:00 UTC</a></sub>
 * [Report: Industry has to face reality that commercial satellites will be targets in war](https://spacenews.com/report-industry-has-to-face-reality-that-commercial-satellites-will-be-targets-in-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T194126">2022-08-23 19:41:26 UTC</a></sub>
 * [Axiom taps Epsilon3 software platform for space station development](https://spacenews.com/axiom-taps-epsilon3-software-platform-for-space-station-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T191118">2022-08-23 19:11:18 UTC</a></sub>
 * [China’s official view of NASA’s Artemis program appears to be dismissive](https://arstechnica.com/science/2022/08/chinese-view-of-nasas-moon-plans-trying-hard-to-relive-apollo-glories/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T173006">2022-08-23 17:30:06 UTC</a></sub>
-* [NASA Invites Media to Witness World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
 * [La NASA invita a la prensa a la primera prueba de defensa planetaria](http://www.nasa.gov/press-release/la-nasa-invita-a-la-prensa-a-la-primera-prueba-de-defensa-planetaria) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
+* [NASA Invites Media to Witness World’s First Planetary Defense Test](http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T170200">2022-08-23 17:02:00 UTC</a></sub>
 * [The SLS rocket is the worst thing to happen to NASA—but maybe also the best?](https://arstechnica.com/science/2022/08/the-sls-rocket-is-the-worst-thing-to-happen-to-nasa-but-maybe-also-the-best/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T113057">2022-08-23 11:30:57 UTC</a></sub>
 * [Artemis 1 passes flight readiness review](https://spacenews.com/artemis-1-passes-flight-readiness-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T110119">2022-08-23 11:01:19 UTC</a></sub>
 * [Schiess takes over U.S. Space Command’s coalition forces component](https://spacenews.com/schiess-takes-over-u-s-space-commands-coalition-forces-component/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T184120">2022-08-22 18:41:20 UTC</a></sub>
 * [SpaceX adds Falcon 9 back to second-gen Starlink launch plan](https://spacenews.com/spacex-adds-falcon-9-back-to-second-gen-starlink-launch-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T182120">2022-08-22 18:21:20 UTC</a></sub>
-* [Webb images of Jupiter show auroras, rings, moons](https://spaceflightnow.com/2022/08/22/webb-images-of-jupiter-show-auroras-rings-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T163108">2022-08-22 16:31:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T203753">2022-08-23 20:37:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T210807">2022-08-23 21:08:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
