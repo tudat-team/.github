@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX readies Falcon 9 rocket for weekend launch](https://spaceflightnow.com/2022/08/25/watch-live-spacex-readies-falcon-9-rocket-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T125107">2022-08-25 12:51:07 UTC</a></sub>
 * [ESA ready for “historic” Artemis 1 mission](https://spacenews.com/esa-ready-for-historic-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T120115">2022-08-25 12:01:15 UTC</a></sub>
 * [NASA astronaut ready for Soyuz flight to ISS](https://spacenews.com/nasa-astronaut-ready-for-soyuz-flight-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T111118">2022-08-25 11:11:18 UTC</a></sub>
 * [Former NASA official on trying to stop SLS: “There was just such visible hostility”](https://arstechnica.com/science/2022/08/former-nasa-official-on-trying-to-stop-sls-there-was-just-such-visible-hostility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T110025">2022-08-25 11:00:25 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX & T-Mobile plan to announce plans to increase connectivity](https://www.teslarati.com/spacex-t-mobile-plans-increase-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T174154">2022-08-24 17:41:54 UTC</a></sub>
 * [Megaconstellation startup E-Space expands leadership team](https://spacenews.com/megaconstellation-startup-e-space-expands-leadership-team/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T174111">2022-08-24 17:41:11 UTC</a></sub>
 * [Astrobotic wins NASA funding for CubeRover mission](https://spacenews.com/astrobotic-wins-nasa-funding-for-cuberover-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T134118">2022-08-24 13:41:18 UTC</a></sub>
-* [Scout Space and university labs win contracts for on-orbit servicing project](https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T130124">2022-08-24 13:01:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T121840">2022-08-25 12:18:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T130815">2022-08-25 13:08:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
