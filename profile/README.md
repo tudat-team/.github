@@ -582,6 +582,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NRO to add more commercial imagery providers as it builds a ‘hybrid architecture’](https://spacenews.com/nro-to-add-more-commercial-imagery-providers-as-it-builds-a-hybrid-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220120">2022-08-25 22:01:20 UTC</a></sub>
+* [Starliner crewed test flight slips to early 2023](https://spacenews.com/starliner-crewed-test-flight-slips-to-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T211115">2022-08-25 21:11:15 UTC</a></sub>
 * [Colorado, Indiana Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T202100">2022-08-25 20:21:00 UTC</a></sub>
 * [FCC Commissioner criticizes Starlink’s $900 million subsidy rejection](https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T193115">2022-08-25 19:31:15 UTC</a></sub>
 * [NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater](https://mars.nasa.gov/news/9252/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T183100">2022-08-25 18:31:00 UTC</a></sub>
@@ -590,8 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX test-fires repaired booster for weekend Starlink launch](https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T164108">2022-08-25 16:41:08 UTC</a></sub>
 * [Watch live: SpaceX readies Falcon 9 rocket for weekend launch](https://spaceflightnow.com/2022/08/25/watch-live-spacex-readies-falcon-9-rocket-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T125107">2022-08-25 12:51:07 UTC</a></sub>
 * [ESA ready for “historic” Artemis 1 mission](https://spacenews.com/esa-ready-for-historic-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T120115">2022-08-25 12:01:15 UTC</a></sub>
-* [NASA astronaut ready for Soyuz flight to ISS](https://spacenews.com/nasa-astronaut-ready-for-soyuz-flight-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T111118">2022-08-25 11:11:18 UTC</a></sub>
-* [Former NASA official on trying to stop SLS: “There was just such visible hostility”](https://arstechnica.com/science/2022/08/former-nasa-official-on-trying-to-stop-sls-there-was-just-such-visible-hostility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T110025">2022-08-25 11:00:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T213647">2022-08-25 21:36:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220934">2022-08-25 22:09:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
