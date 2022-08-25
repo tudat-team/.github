@@ -212,6 +212,13 @@ conda install -c tudat-team <package>
 <table>
 <thead><tr><th>Variant</th><th>Status</th></tr></thead>
 <tbody><tr>
+<td>linux_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
 <td>linux_64_python3.7.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
@@ -230,6 +237,13 @@ conda install -c tudat-team <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -254,6 +268,13 @@ conda install -c tudat-team <package>
 </a>
 </td>
 </tr><tr>
+<td>osx_arm64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
 <td>osx_arm64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
@@ -265,6 +286,13 @@ conda install -c tudat-team <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -563,7 +591,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Scout Space and university labs win contracts for on-orbit servicing project](https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T130124">2022-08-24 13:01:24 UTC</a></sub>
 * [Starship uncrewed lunar lander test a “skeleton” of crewed lander](https://spacenews.com/starship-uncrewed-lunar-lander-test-a-skeleton-of-crewed-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T110115">2022-08-24 11:01:15 UTC</a></sub>
 * [SpaceX Starship booster heads to launch pad for the fifth time](https://www.teslarati.com/spacex-starship-booster-launch-pad-fifth-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T084205">2022-08-24 08:42:05 UTC</a></sub>
-* [NASA, Rice University Mark 60th Anniversary of John F. Kennedy Speech](http://www.nasa.gov/press-release/nasa-rice-university-mark-60th-anniversary-of-john-f-kennedy-speech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T211200">2022-08-23 21:12:00 UTC</a></sub>
+* [SpaceX to squeeze in Falcon 9 Starlink launch before NASA’s Moon rocket debut](https://www.teslarati.com/spacex-falcon-9-starlink-launch-before-nasa-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T045217">2022-08-24 04:52:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T033153">2022-08-25 03:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T051312">2022-08-25 05:13:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
