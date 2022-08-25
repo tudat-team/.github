@@ -582,6 +582,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater](https://mars.nasa.gov/news/9252/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T183100">2022-08-25 18:31:00 UTC</a></sub>
+* [NASA Awards Services Contract to Help Immerse Students in STEM](http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T181100">2022-08-25 18:11:00 UTC</a></sub>
 * [U.S. Army signs agreement to test space data from HawkEye 360 satellites](https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T165121">2022-08-25 16:51:21 UTC</a></sub>
 * [SpaceX test-fires repaired booster for weekend Starlink launch](https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T164108">2022-08-25 16:41:08 UTC</a></sub>
 * [Watch live: SpaceX readies Falcon 9 rocket for weekend launch](https://spaceflightnow.com/2022/08/25/watch-live-spacex-readies-falcon-9-rocket-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T125107">2022-08-25 12:51:07 UTC</a></sub>
@@ -590,8 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Former NASA official on trying to stop SLS: “There was just such visible hostility”](https://arstechnica.com/science/2022/08/former-nasa-official-on-trying-to-stop-sls-there-was-just-such-visible-hostility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T110025">2022-08-25 11:00:25 UTC</a></sub>
 * [Team Miles prepares for inflight test of new thruster technology](https://spacenews.com/team-miles-cubesat-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T233120">2022-08-24 23:31:20 UTC</a></sub>
 * [‘State of the space industrial base’ report calls for national plan to compete with China](https://spacenews.com/state-of-the-space-industrial-base-report-calls-for-national-plan-to-compete-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T204119">2022-08-24 20:41:19 UTC</a></sub>
-* [Following in the footsteps of Saturn, SLS prepares for test flight](https://www.nasaspaceflight.com/2022/08/saturn-test-flights-to-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T181354">2022-08-24 18:13:54 UTC</a></sub>
-* [SpaceX & T-Mobile plan to announce plans to increase connectivity](https://www.teslarati.com/spacex-t-mobile-plans-increase-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T174154">2022-08-24 17:41:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T181023">2022-08-25 18:10:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T184342">2022-08-25 18:43:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
