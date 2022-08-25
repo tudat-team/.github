@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Colorado, Indiana Students to Hear from NASA Astronaut in Space](http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T202100">2022-08-25 20:21:00 UTC</a></sub>
 * [FCC Commissioner criticizes Starlink’s $900 million subsidy rejection](https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T193115">2022-08-25 19:31:15 UTC</a></sub>
 * [NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater](https://mars.nasa.gov/news/9252/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T183100">2022-08-25 18:31:00 UTC</a></sub>
 * [NASA Awards Services Contract to Help Immerse Students in STEM](http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T181100">2022-08-25 18:11:00 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA ready for “historic” Artemis 1 mission](https://spacenews.com/esa-ready-for-historic-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T120115">2022-08-25 12:01:15 UTC</a></sub>
 * [NASA astronaut ready for Soyuz flight to ISS](https://spacenews.com/nasa-astronaut-ready-for-soyuz-flight-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T111118">2022-08-25 11:11:18 UTC</a></sub>
 * [Former NASA official on trying to stop SLS: “There was just such visible hostility”](https://arstechnica.com/science/2022/08/former-nasa-official-on-trying-to-stop-sls-there-was-just-such-visible-hostility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T110025">2022-08-25 11:00:25 UTC</a></sub>
-* [Team Miles prepares for inflight test of new thruster technology](https://spacenews.com/team-miles-cubesat-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T233120">2022-08-24 23:31:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T203901">2022-08-25 20:39:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T210818">2022-08-25 21:08:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
