@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Airbus highlights European Service Module work for Artemis](https://www.nasaspaceflight.com/2022/08/european-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T192012">2022-08-26 19:20:12 UTC</a></sub>
 * [SpaceX satellite deployment plan backed by U.S. appeals court](https://www.teslarati.com/spacex-sattelite-deployment-backed-by-court/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T162144">2022-08-26 16:21:44 UTC</a></sub>
 * [Cubesats to hitch rides on Artemis 1](https://spacenews.com/cubesats-to-hitch-rides-on-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110119">2022-08-26 11:01:19 UTC</a></sub>
 * [Rocket Report: At long last the SLS is ready, Alpha gets a launch date](https://arstechnica.com/science/2022/08/rocket-report-at-long-last-the-sls-is-ready-alpha-gets-a-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110027">2022-08-26 11:00:27 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Forget 5G wireless, SpaceX and T-Mobile want to offer Zero-G coverage](https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T034014">2022-08-26 03:40:14 UTC</a></sub>
 * [Work on Orion capsules continue as Artemis I prepares to launch](https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T225645">2022-08-25 22:56:45 UTC</a></sub>
 * [Turion Space licensed to sell commercial SSA data](https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223121">2022-08-25 22:31:21 UTC</a></sub>
-* [Orion crew module hatch closed for Artemis 1 test flight](https://spaceflightnow.com/2022/08/25/orion-crew-module-hatch-closed-for-artemis-1-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T221111">2022-08-25 22:11:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T190701">2022-08-26 19:07:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T193234">2022-08-26 19:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
