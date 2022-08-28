@@ -587,11 +587,11 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Grants fuel Dawn Aerospace propulsion development](https://spacenews.com/dawn-grants-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T201115">2022-08-27 20:11:15 UTC</a></sub>
 * [Countdown for first Artemis 1 launch attempt begins](https://spacenews.com/countdown-for-first-artemis-1-launch-attempt-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T182122">2022-08-27 18:21:22 UTC</a></sub>
 * [Aiming for the Moon: Artemis I countdown begins for historic flight](https://www.nasaspaceflight.com/2022/08/artemis-i-countdown-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T142725">2022-08-27 14:27:25 UTC</a></sub>
+* [F-22 Demonstration Team flies by Starbase & Starship](https://www.teslarati.com/f-22-demo-team-flies-by-starbase-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T022202">2022-08-27 02:22:02 UTC</a></sub>
+* [FCC reversal $885.5M Starlink award has no lawful basis, commissioner says](https://www.teslarati.com/fcc-reverasl-starlink-award-no-lawful-basis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T014155">2022-08-27 01:41:55 UTC</a></sub>
 * [US appeals court upholds Starlink deployment change](https://spacenews.com/us-appeals-court-upholds-starlink-deployment-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T215140">2022-08-26 21:51:40 UTC</a></sub>
 * [Airbus highlights European Service Module work for Artemis](https://www.nasaspaceflight.com/2022/08/european-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T192012">2022-08-26 19:20:12 UTC</a></sub>
 * [SpaceX satellite deployment plan backed by U.S. appeals court](https://www.teslarati.com/spacex-sattelite-deployment-backed-by-court/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T162144">2022-08-26 16:21:44 UTC</a></sub>
-* [Cubesats to hitch rides on Artemis 1](https://spacenews.com/cubesats-to-hitch-rides-on-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110119">2022-08-26 11:01:19 UTC</a></sub>
-* [Rocket Report: At long last the SLS is ready, Alpha gets a launch date](https://arstechnica.com/science/2022/08/rocket-report-at-long-last-the-sls-is-ready-alpha-gets-a-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T110027">2022-08-26 11:00:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T005329">2022-08-28 00:53:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T032228">2022-08-28 03:22:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
