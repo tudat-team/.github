@@ -584,7 +584,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [Starlink secures first cruise line customer with Royal Caribbean](https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T225115">2022-08-30 22:51:15 UTC</a></sub>
 * [Royal Caribbean will be the first in the cruise industry to adopt Starlink](https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T214209">2022-08-30 21:42:09 UTC</a></sub>
-* [SpaceX to attempt 150th Falcon recovery on Starlink Group 3-4](https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T185953">2022-08-30 18:59:53 UTC</a></sub>
+* [SpaceX nails 150th Falcon recovery attempt on Starlink Group 3-4](https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T185953">2022-08-30 18:59:53 UTC</a></sub>
 * [South Korea seeks $459 million for lunar lander project](https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T160118">2022-08-30 16:01:18 UTC</a></sub>
 * [Orbit Fab announces in-space hydrazine refueling service](https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T144123">2022-08-30 14:41:23 UTC</a></sub>
 * [Astra to sell electric thrusters to Airbus OneWeb Satellites](https://spacenews.com/astra-to-sell-electric-thrusters-to-airbus-oneweb-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T100127">2022-08-30 10:01:27 UTC</a></sub>
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T054110">2022-08-31 05:41:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T064959">2022-08-31 06:49:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
