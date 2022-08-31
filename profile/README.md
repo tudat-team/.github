@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine](https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121124">2022-08-31 12:11:24 UTC</a></sub>
 * [U.S. looking to encourage more countries to join ASAT testing ban](https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110112">2022-08-31 11:01:12 UTC</a></sub>
 * [Chinese megawatt-level space nuclear reactor passes review](https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T103122">2022-08-31 10:31:22 UTC</a></sub>
 * [Starlink secures first cruise line customer with Royal Caribbean](https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T225115">2022-08-30 22:51:15 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Orbit Fab announces in-space hydrazine refueling service](https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T144123">2022-08-30 14:41:23 UTC</a></sub>
 * [Astra to sell electric thrusters to Airbus OneWeb Satellites](https://spacenews.com/astra-to-sell-electric-thrusters-to-airbus-oneweb-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T100127">2022-08-30 10:01:27 UTC</a></sub>
 * [SpaceX Falcon 9 rocket completes 57th operational Starlink launch](https://www.teslarati.com/spacex-falcon-9-rocket-57th-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T071153">2022-08-30 07:11:53 UTC</a></sub>
-* [Next Artemis 1 launch attempt set for Sept. 3](https://spacenews.com/next-artemis-1-launch-attempt-set-for-sept-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T021124">2022-08-30 02:11:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T113513">2022-08-31 11:35:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121931">2022-08-31 12:19:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
