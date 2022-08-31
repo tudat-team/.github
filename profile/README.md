@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage for Artemis I Moon Mission Next Launch Attempt](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-next-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T174100">2022-08-31 17:41:00 UTC</a></sub>
 * [A faulty sensor may have scrubbed the launch of NASA’s massive SLS rocket](https://arstechnica.com/science/2022/08/nasa-will-make-second-attempt-to-launch-the-sls-rocket-on-saturday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T134111">2022-08-31 13:41:11 UTC</a></sub>
 * [NASA and China are eyeing the same landing sites near the lunar south pole](https://spacenews.com/nasa-and-china-are-eyeing-the-same-landing-sites-near-the-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T130124">2022-08-31 13:01:24 UTC</a></sub>
 * [Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine](https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121124">2022-08-31 12:11:24 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Royal Caribbean will be the first in the cruise industry to adopt Starlink](https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T214209">2022-08-30 21:42:09 UTC</a></sub>
 * [SpaceX nails 150th Falcon recovery attempt on Starlink Group 3-4](https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T185953">2022-08-30 18:59:53 UTC</a></sub>
 * [South Korea seeks $459 million for lunar lander project](https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T160118">2022-08-30 16:01:18 UTC</a></sub>
-* [Orbit Fab announces in-space hydrazine refueling service](https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T144123">2022-08-30 14:41:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T173950">2022-08-31 17:39:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T181118">2022-08-31 18:11:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
