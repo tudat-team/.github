@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA will pay Boeing more than twice as much as SpaceX for crew seats](https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T133126">2022-09-01 13:31:26 UTC</a></sub>
 * [Firefly hires new CEO ahead of second launch](https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T111117">2022-09-01 11:11:17 UTC</a></sub>
 * [NASA and SpaceX finalize extension of commercial crew contract](https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T074120">2022-09-01 07:41:20 UTC</a></sub>
 * [Intelsat’s Galaxy 15 mutes payload as it drifts into other satellite paths](https://spacenews.com/intelsats-galaxy-15-mutes-payload-as-its-drifts-into-other-satellite-paths/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T233127">2022-08-31 23:31:27 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A faulty sensor may have scrubbed the launch of NASA’s massive SLS rocket](https://arstechnica.com/science/2022/08/nasa-will-make-second-attempt-to-launch-the-sls-rocket-on-saturday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T134111">2022-08-31 13:41:11 UTC</a></sub>
 * [NASA and China are eyeing the same landing sites near the lunar south pole](https://spacenews.com/nasa-and-china-are-eyeing-the-same-landing-sites-near-the-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T130124">2022-08-31 13:01:24 UTC</a></sub>
 * [Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine](https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121124">2022-08-31 12:11:24 UTC</a></sub>
-* [U.S. looking to encourage more countries to join ASAT testing ban](https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110112">2022-08-31 11:01:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T130712">2022-09-01 13:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T135115">2022-09-01 13:51:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
