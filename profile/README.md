@@ -582,6 +582,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio](https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T161115">2022-09-01 16:11:15 UTC</a></sub>
+* [Startup OQ Technology raises $13 million to expand satellite IoT network](https://spacenews.com/startup-oq-technology-raises-13-million-to-expand-satellite-iot-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T155116">2022-09-01 15:51:16 UTC</a></sub>
 * [Video: Interview with former NASA astronaut Doug Hurley](https://spaceflightnow.com/2022/09/01/video-interview-with-former-nasa-astronaut-doug-hurley/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T153108">2022-09-01 15:31:08 UTC</a></sub>
 * [NASA Sets TV Coverage for Russian Spacewalk](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-russian-spacewalk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T142100">2022-09-01 14:21:00 UTC</a></sub>
 * [NASA will pay Boeing more than twice as much as SpaceX for crew seats](https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T133126">2022-09-01 13:31:26 UTC</a></sub>
@@ -590,8 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intelsat’s Galaxy 15 mutes payload as it drifts into other satellite paths](https://spacenews.com/intelsats-galaxy-15-mutes-payload-as-its-drifts-into-other-satellite-paths/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T233127">2022-08-31 23:31:27 UTC</a></sub>
 * [U.S. Space Command calls for investment in technologies for deep space missions](https://spacenews.com/u-s-space-command-calls-for-investment-in-technologies-for-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T190116">2022-08-31 19:01:16 UTC</a></sub>
 * [NASA, Axiom Sign Second Private Astronaut Mission to Space Station Order](http://www.nasa.gov/press-release/nasa-axiom-sign-second-private-astronaut-mission-to-space-station-order) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T184100">2022-08-31 18:41:00 UTC</a></sub>
-* [NASA Sets Coverage for Artemis I Moon Mission Next Launch Attempt](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-next-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T174100">2022-08-31 17:41:00 UTC</a></sub>
-* [A faulty sensor may have scrubbed the launch of NASA’s massive SLS rocket](https://arstechnica.com/science/2022/08/nasa-will-make-second-attempt-to-launch-the-sls-rocket-on-saturday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T134111">2022-08-31 13:41:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T161205">2022-09-01 16:12:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T165549">2022-09-01 16:55:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
