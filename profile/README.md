@@ -591,7 +591,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine](https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121124">2022-08-31 12:11:24 UTC</a></sub>
 * [U.S. looking to encourage more countries to join ASAT testing ban](https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110112">2022-08-31 11:01:12 UTC</a></sub>
 * [Chinese megawatt-level space nuclear reactor passes review](https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T103122">2022-08-31 10:31:22 UTC</a></sub>
-* [Starlink secures first cruise line customer with Royal Caribbean](https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T225115">2022-08-30 22:51:15 UTC</a></sub>
+* [NASA awards SpaceX five more Dragon astronaut launch contracts](https://www.teslarati.com/nasa-buys-five-more-spacex-dragon-astronaut-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T023153">2022-08-31 02:31:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T004901">2022-09-01 00:49:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T032814">2022-09-01 03:28:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
