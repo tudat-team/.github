@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Artemis I Launch Update Saturday](http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T174100">2022-09-03 17:41:00 UTC</a></sub>
 * [Second Artemis 1 launch attempt scrubbed](https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T154116">2022-09-03 15:41:16 UTC</a></sub>
 * [NASA scrubs second attempt to launch Artemis I after hydrogen leak [Updated]](https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T151552">2022-09-03 15:15:52 UTC</a></sub>
 * [Solar Orbiter to look at Venus' magnetic field as it swings by the planet](https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T090000">2022-09-03 09:00:00 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Airbus discusses technical aspects of the European Service Module](https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T141406">2022-09-02 14:14:06 UTC</a></sub>
 * [Rocket Report: Used Electron engine gets retested; Canadian spaceport is a go](https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T110055">2022-09-02 11:00:55 UTC</a></sub>
 * [Countdown begins for second Artemis 1 launch attempt](https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T081121">2022-09-02 08:11:21 UTC</a></sub>
-* [Giant solar sail will propel tiny spacecraft to intercept and study asteroid](https://spaceflightnow.com/2022/09/02/giant-solar-sail-will-propel-tiny-spacecraft-to-intercept-and-study-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T021110">2022-09-02 02:11:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T173804">2022-09-03 17:38:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T181040">2022-09-03 18:10:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
