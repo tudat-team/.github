@@ -586,7 +586,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Second Artemis 1 launch attempt scrubbed](https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T154116">2022-09-03 15:41:16 UTC</a></sub>
 * [NASA scrubs second attempt to launch Artemis I after hydrogen leak [Updated]](https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T151552">2022-09-03 15:15:52 UTC</a></sub>
 * [Solar Orbiter to look at Venus' magnetic field as it swings by the planet](https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T090000">2022-09-03 09:00:00 UTC</a></sub>
-* [SLS ready for second attempt as Artemis I launch nears](https://www.nasaspaceflight.com/2022/09/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T003033">2022-09-03 00:30:33 UTC</a></sub>
+* [SLS teams scrub second launch attempt for Artemis I as hydrogen leaks persist](https://www.nasaspaceflight.com/2022/09/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T003033">2022-09-03 00:30:33 UTC</a></sub>
 * [Lunar demo mission to provide “stress test” for NASA’s Artemis moon program](https://spaceflightnow.com/2022/09/02/lunar-demo-mission-to-provide-stress-test-for-nasas-artemis-moon-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T224107">2022-09-02 22:41:07 UTC</a></sub>
 * [Watch live: Russian cosmonauts on spacewalk outside space station](https://spaceflightnow.com/2022/09/02/watch-live-russian-cosmonauts-on-spacewalk-outside-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T162109">2022-09-02 16:21:09 UTC</a></sub>
 * [Airbus discusses technical aspects of the European Service Module](https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T141406">2022-09-02 14:14:06 UTC</a></sub>
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T181040">2022-09-03 18:10:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T184254">2022-09-03 18:42:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
