@@ -587,11 +587,11 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Airbus discusses technical aspects of the European Service Module](https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T141406">2022-09-02 14:14:06 UTC</a></sub>
 * [Rocket Report: Used Electron engine gets retested; Canadian spaceport is a go](https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T110055">2022-09-02 11:00:55 UTC</a></sub>
 * [Countdown begins for second Artemis 1 launch attempt](https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T081121">2022-09-02 08:11:21 UTC</a></sub>
+* [Russian cosmonauts work on robotic arm outside space station](https://spaceflightnow.com/2022/09/02/russian-eva-55/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T003105">2022-09-02 00:31:05 UTC</a></sub>
+* [NASA completes agreement with Axiom Space for second private astronaut mission](https://spacenews.com/nasa-completes-agreement-with-axiom-space-for-second-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T002128">2022-09-02 00:21:28 UTC</a></sub>
 * [SpaceX filing shows plans for massive building in Bastrop County](https://www.teslarati.com/spacex-filing-massive-building-bastrop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T233159">2022-09-01 23:31:59 UTC</a></sub>
 * [SpaceX targeting 100 launches in 2023](https://www.teslarati.com/spacex-targeting-100-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T215208">2022-09-01 21:52:08 UTC</a></sub>
 * [UK releases military ‘space power’ doctrine](https://spacenews.com/uk-releases-military-space-power-doctrine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T204111">2022-09-01 20:41:11 UTC</a></sub>
-* [Spire to add ThrustMe propulsion to Lemur cubesats](https://spacenews.com/spire-thrustme/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T203119">2022-09-01 20:31:19 UTC</a></sub>
-* [Webb telescope eyes Phantom Galaxy with mid-infrared camera](https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T184112">2022-09-01 18:41:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T234016">2022-09-02 23:40:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T004823">2022-09-03 00:48:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
