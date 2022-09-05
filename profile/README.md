@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China begins launch campaign for final space station module](https://spacenews.com/china-begins-launch-campaign-for-final-space-station-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T095119">2022-09-05 09:51:19 UTC</a></sub>
 * [SpaceX launches first Starlink rideshare mission of 2022](https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T174530">2022-09-04 17:45:30 UTC</a></sub>
 * [Falcon 9 launches Starlink satellites, Boeing rideshare payload](https://spaceflightnow.com/2022/09/04/falcon-9-starlink-4-20-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T043111">2022-09-04 04:31:11 UTC</a></sub>
 * [SpaceX sends Starlink satellites, Boeing demonstrator into orbit on 40th launch of 2022](https://www.teslarati.com/spacex-starlink-rideshare-boeing-test-sat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T040202">2022-09-04 04:02:02 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA scrubs second attempt to launch Artemis I after hydrogen leak [Updated]](https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T151552">2022-09-03 15:15:52 UTC</a></sub>
 * [Solar Orbiter to look at Venus' magnetic field as it swings by the planet](https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T090000">2022-09-03 09:00:00 UTC</a></sub>
 * [SLS teams scrub second launch attempt for Artemis I as hydrogen leaks persist](https://www.nasaspaceflight.com/2022/09/artemis-i-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T003033">2022-09-03 00:30:33 UTC</a></sub>
-* [Hydrogen leak delays moonshot by at least several weeks](https://spaceflightnow.com/2022/09/03/hydrogen-leak-delays-moonshot-by-at-least-several-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T001110">2022-09-03 00:11:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T093920">2022-09-05 09:39:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T101008">2022-09-05 10:10:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
