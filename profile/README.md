@@ -582,7 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Starlink Group 4-20 to be first Starlink rideshare mission in 2022](https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T174530">2022-09-04 17:45:30 UTC</a></sub>
+* [SpaceX launches first Starlink rideshare mission of 2022](https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T174530">2022-09-04 17:45:30 UTC</a></sub>
 * [Years after shuttle, NASA rediscovers the perils of liquid hydrogen](https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T223827">2022-09-03 22:38:27 UTC</a></sub>
 * [NASA to Provide Artemis I Launch Update Saturday](http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T174100">2022-09-03 17:41:00 UTC</a></sub>
 * [Second Artemis 1 launch attempt scrubbed](https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T154116">2022-09-03 15:41:16 UTC</a></sub>
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T005811">2022-09-05 00:58:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T034224">2022-09-05 03:42:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
