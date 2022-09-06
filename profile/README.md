@@ -582,6 +582,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches twice in under two hours and conducts spacewalk](https://www.nasaspaceflight.com/2022/09/double-launch-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T211010">2022-09-06 21:10:10 UTC</a></sub>
 * [High-power European broadband satellite set for launch from French Guiana](https://spaceflightnow.com/2022/09/06/powerhouse-european-broadband-satellite-set-for-launch-from-french-guiana-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T201113">2022-09-06 20:11:13 UTC</a></sub>
 * [Aerospace opens $100 million facility in Colorado Springs for military space activities](https://spacenews.com/aerospace-opens-100-million-facility-in-colorado-springs-for-military-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T183113">2022-09-06 18:31:13 UTC</a></sub>
 * [DoD updates space policy, formally adopts ‘tenets of responsible behavior’](https://spacenews.com/dod-updates-space-policy-formally-adopts-tenets-of-responsible-behavior/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T164125">2022-09-06 16:41:25 UTC</a></sub>
@@ -591,7 +592,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China performs two launches inside two hours](https://spacenews.com/china-performs-two-launches-inside-two-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T123122">2022-09-06 12:31:22 UTC</a></sub>
 * [Starlink Maritime deployed on the most Instagrammed superyacht](https://www.teslarati.com/starlink-maritime-instagrammed-superyacht/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T214147">2022-09-05 21:41:47 UTC</a></sub>
 * [Research, spacewalks, and maintenance: Expedition 67’s final month aboard the ISS](https://www.nasaspaceflight.com/2022/09/iss-update-august-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T173557">2022-09-05 17:35:57 UTC</a></sub>
-* [Space Force extends Saber Astronautics’ contract for space visualization software](https://spacenews.com/space-force-extends-saber-astronautics-contract-for-space-visualization-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T150117">2022-09-05 15:01:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T213711">2022-09-06 21:37:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T220917">2022-09-06 22:09:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
