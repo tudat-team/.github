@@ -610,6 +610,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [KMI wins three Space Force study contracts for debris cleanup technology](https://spacenews.com/kmi-wins-three-space-force-study-contracts-for-debris-cleanup-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T120107">2022-09-07 12:01:07 UTC</a></sub>
+* [OneWeb takes $229 million charge for canceled Soyuz launches](https://spacenews.com/oneweb-takes-229-million-charge-for-canceled-soyuz-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T114108">2022-09-07 11:41:08 UTC</a></sub>
 * [Rocket Lab signs on to U.S. military’s ‘rocket cargo’ program](https://spacenews.com/rocket-lab-signs-on-to-u-s-militarys-rocket-cargo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T221120">2022-09-06 22:11:20 UTC</a></sub>
 * [China launches twice in under two hours and conducts spacewalk](https://www.nasaspaceflight.com/2022/09/double-launch-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T211010">2022-09-06 21:10:10 UTC</a></sub>
 * [High-power European broadband satellite set for launch from French Guiana](https://spaceflightnow.com/2022/09/06/powerhouse-european-broadband-satellite-set-for-launch-from-french-guiana-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T201113">2022-09-06 20:11:13 UTC</a></sub>
@@ -618,8 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astounding new Webb image reveals tens of thousands of young stars](https://arstechnica.com/science/2022/09/astounding-new-webb-image-reveals-tens-of-thousands-of-young-stars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T152900">2022-09-06 15:29:00 UTC</a></sub>
 * [European space chief “cannot see” a return to cooperation with Russia](https://arstechnica.com/science/2022/09/european-space-chief-cannot-see-a-return-to-cooperation-with-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T134334">2022-09-06 13:43:34 UTC</a></sub>
 * [South Korean lunar orbiter succeeds in critical trajectory correction maneuver](https://spacenews.com/south-korean-lunar-orbiter-succeeds-in-critical-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T134134">2022-09-06 13:41:34 UTC</a></sub>
-* [China performs two launches inside two hours](https://spacenews.com/china-performs-two-launches-inside-two-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T123122">2022-09-06 12:31:22 UTC</a></sub>
-* [NASA to repair SLS liquid hydrogen leak on the pad](https://spacenews.com/nasa-to-repair-sls-liquid-hydrogen-leak-on-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T012112">2022-09-06 01:21:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T113632">2022-09-07 11:36:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T121918">2022-09-07 12:19:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
