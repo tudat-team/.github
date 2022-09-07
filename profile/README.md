@@ -591,7 +591,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [European space chief “cannot see” a return to cooperation with Russia](https://arstechnica.com/science/2022/09/european-space-chief-cannot-see-a-return-to-cooperation-with-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T134334">2022-09-06 13:43:34 UTC</a></sub>
 * [South Korean lunar orbiter succeeds in critical trajectory correction maneuver](https://spacenews.com/south-korean-lunar-orbiter-succeeds-in-critical-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T134134">2022-09-06 13:41:34 UTC</a></sub>
 * [China performs two launches inside two hours](https://spacenews.com/china-performs-two-launches-inside-two-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T123122">2022-09-06 12:31:22 UTC</a></sub>
-* [Starlink Maritime deployed on the most Instagrammed superyacht](https://www.teslarati.com/starlink-maritime-instagrammed-superyacht/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T214147">2022-09-05 21:41:47 UTC</a></sub>
+* [NASA to repair SLS liquid hydrogen leak on the pad](https://spacenews.com/nasa-to-repair-sls-liquid-hydrogen-leak-on-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T012112">2022-09-06 01:21:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -624,7 +624,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T005654">2022-09-07 00:56:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T034252">2022-09-07 03:42:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
