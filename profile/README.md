@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [GAO: Defense, intelligence agencies need a better plan to buy commercial satellite imagery](https://spacenews.com/gao-defense-intelligence-agencies-need-a-better-plan-to-buy-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T195108">2022-09-07 19:51:08 UTC</a></sub>
 * [NASA to repair Artemis 1 moon rocket’s leaky hydrogen connector at launch pad](https://spaceflightnow.com/2022/09/07/nasa-to-repair-artemis-1-moon-rockets-leaky-hydrogen-connector-at-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T173103">2022-09-07 17:31:03 UTC</a></sub>
 * [Ariane 5 to launch advanced broadband satellite for Eutelsat](https://www.nasaspaceflight.com/2022/09/ariane-5-konnect-vhts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T161739">2022-09-07 16:17:39 UTC</a></sub>
 * [India’s Skyroot Aerospace raises $51 million ahead of inaugural launch](https://spacenews.com/indias-skyroot-aerospace-raises-51-million-ahead-of-inaugural-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [KMI wins three Space Force study contracts for debris cleanup technology](https://spacenews.com/kmi-wins-three-space-force-study-contracts-for-debris-cleanup-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T120107">2022-09-07 12:01:07 UTC</a></sub>
 * [OneWeb takes $229 million charge for canceled Soyuz launches](https://spacenews.com/oneweb-takes-229-million-charge-for-canceled-soyuz-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T114108">2022-09-07 11:41:08 UTC</a></sub>
 * [Rocket Lab signs on to U.S. military’s ‘rocket cargo’ program](https://spacenews.com/rocket-lab-signs-on-to-u-s-militarys-rocket-cargo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T221120">2022-09-06 22:11:20 UTC</a></sub>
-* [China launches twice in under two hours and conducts spacewalk](https://www.nasaspaceflight.com/2022/09/double-launch-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T211010">2022-09-06 21:10:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T193457">2022-09-07 19:34:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T201031">2022-09-07 20:10:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
