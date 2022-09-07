@@ -610,6 +610,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India’s Skyroot Aerospace raises $51 million ahead of inaugural launch](https://spacenews.com/indias-skyroot-aerospace-raises-51-million-ahead-of-inaugural-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
+* [Near Space Labs offers free imagery for researchers](https://spacenews.com/near-space-labs-grant-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
 * [BAE Systems developing multi-sensor satellite cluster for military intelligence](https://spacenews.com/bae-systems-developing-multi-sensor-satellite-cluster-for-military-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T132106">2022-09-07 13:21:06 UTC</a></sub>
 * [Albedo announces $48 million Series A funding round](https://spacenews.com/albedo-series-a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T130107">2022-09-07 13:01:07 UTC</a></sub>
 * [KMI wins three Space Force study contracts for debris cleanup technology](https://spacenews.com/kmi-wins-three-space-force-study-contracts-for-debris-cleanup-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T120107">2022-09-07 12:01:07 UTC</a></sub>
@@ -618,8 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China launches twice in under two hours and conducts spacewalk](https://www.nasaspaceflight.com/2022/09/double-launch-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T211010">2022-09-06 21:10:10 UTC</a></sub>
 * [High-power European broadband satellite set for launch from French Guiana](https://spaceflightnow.com/2022/09/06/powerhouse-european-broadband-satellite-set-for-launch-from-french-guiana-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T201113">2022-09-06 20:11:13 UTC</a></sub>
 * [Aerospace opens $100 million facility in Colorado Springs for military space activities](https://spacenews.com/aerospace-opens-100-million-facility-in-colorado-springs-for-military-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T183113">2022-09-06 18:31:13 UTC</a></sub>
-* [DoD updates space policy, formally adopts ‘tenets of responsible behavior’](https://spacenews.com/dod-updates-space-policy-formally-adopts-tenets-of-responsible-behavior/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T164125">2022-09-06 16:41:25 UTC</a></sub>
-* [Astounding new Webb image reveals tens of thousands of young stars](https://arstechnica.com/science/2022/09/astounding-new-webb-image-reveals-tens-of-thousands-of-young-stars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T152900">2022-09-06 15:29:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T132304">2022-09-07 13:23:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T140517">2022-09-07 14:05:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
