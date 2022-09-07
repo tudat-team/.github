@@ -466,7 +466,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.10.6.dev36</code></td>
+    <td><code>2.10.6.dev37</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -480,6 +480,13 @@ conda install -c tudat-team/label/dev <package>
 <table>
 <thead><tr><th>Variant</th><th>Status</th></tr></thead>
 <tbody><tr>
+<td>linux_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
 <td>linux_64_python3.7.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
@@ -498,6 +505,13 @@ conda install -c tudat-team/label/dev <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -522,6 +536,13 @@ conda install -c tudat-team/label/dev <package>
 </a>
 </td>
 </tr><tr>
+<td>osx_arm64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
 <td>osx_arm64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
@@ -533,6 +554,13 @@ conda install -c tudat-team/label/dev <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -561,7 +589,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.6.4.dev4</code></td>
+    <td><code>0.6.4.dev5</code></td>
   </tr>
 
 </table>
@@ -624,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T034252">2022-09-07 03:42:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T052639">2022-09-07 05:26:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
