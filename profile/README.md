@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX, Firefly Aerospace targeting three rocket launches in two days](https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T071125">2022-09-08 07:11:25 UTC</a></sub>
 * [U.S.-French Earth science satellite ready to ship for December launch](https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T231107">2022-09-07 23:11:07 UTC</a></sub>
 * [NASA to Discuss Status of Next Artemis I Moon Mission Launch Attempt](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-next-artemis-i-moon-mission-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T213100">2022-09-07 21:31:00 UTC</a></sub>
 * [NASA Taps Axiom Space for First Artemis Moonwalking Spacesuits](http://www.nasa.gov/press-release/nasa-taps-axiom-space-for-first-artemis-moonwalking-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T211100">2022-09-07 21:11:00 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ariane 5 launches advanced broadband satellite for Eutelsat](https://www.nasaspaceflight.com/2022/09/ariane-5-konnect-vhts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T161739">2022-09-07 16:17:39 UTC</a></sub>
 * [India’s Skyroot Aerospace raises $51 million ahead of inaugural launch](https://spacenews.com/indias-skyroot-aerospace-raises-51-million-ahead-of-inaugural-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
 * [Near Space Labs offers free imagery for researchers](https://spacenews.com/near-space-labs-grant-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T133109">2022-09-07 13:31:09 UTC</a></sub>
-* [BAE Systems developing multi-sensor satellite cluster for military intelligence](https://spacenews.com/bae-systems-developing-multi-sensor-satellite-cluster-for-military-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T132106">2022-09-07 13:21:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T070333">2022-09-08 07:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T074907">2022-09-08 07:49:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
