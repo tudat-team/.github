@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA preparing for late September Artemis 1 launch attempt](https://spacenews.com/nasa-preparing-for-late-september-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T221106">2022-09-08 22:11:06 UTC</a></sub>
 * [Solid rocket startup Adranos opens fuel-production facility in Indiana](https://spacenews.com/solid-rocket-fuel-startup-adranos-opens-fuel-production-facility-in-indiana/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T220106">2022-09-08 22:01:06 UTC</a></sub>
 * [Blue Canyon delivers first satellite bus for DARPA’s Blackjack constellation](https://spacenews.com/blue-canyon-delivers-first-satellite-bus-for-darpas-blackjack-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T195105">2022-09-08 19:51:05 UTC</a></sub>
 * [NASA discusses path to SLS repairs as launch uncertainty looms for September, October](https://www.nasaspaceflight.com/2022/09/artemis-i-update-sept8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T171252">2022-09-08 17:12:52 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX, Firefly Aerospace targeting three rocket launches in two days](https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T071125">2022-09-08 07:11:25 UTC</a></sub>
 * [U.S.-French Earth science satellite ready to ship for December launch](https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T231107">2022-09-07 23:11:07 UTC</a></sub>
 * [NASA to Discuss Status of Next Artemis I Moon Mission Launch Attempt](http://www.nasa.gov/press-release/nasa-to-discuss-status-of-next-artemis-i-moon-mission-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T213100">2022-09-07 21:31:00 UTC</a></sub>
-* [NASA Taps Axiom Space for First Artemis Moonwalking Spacesuits](http://www.nasa.gov/press-release/nasa-taps-axiom-space-for-first-artemis-moonwalking-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T211100">2022-09-07 21:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T220947">2022-09-08 22:09:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T224113">2022-09-08 22:41:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
