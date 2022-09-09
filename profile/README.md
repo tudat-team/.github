@@ -618,8 +618,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA selects Axiom Space to develop Artemis spacesuit](https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T110105">2022-09-08 11:01:05 UTC</a></sub>
 * [Ariane 5 launches Konnect VHTS satellite for Eutelsat](https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T102106">2022-09-08 10:21:06 UTC</a></sub>
 * [SpaceX, Firefly Aerospace targeting three rocket launches in two days](https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T071125">2022-09-08 07:11:25 UTC</a></sub>
-* [FCC to set five-year deadline for deorbiting LEO satellites](https://spacenews.com/fcc-to-set-five-year-deadline-for-deorbiting-leo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T030106">2022-09-08 03:01:06 UTC</a></sub>
-* [U.S.-French Earth science satellite ready to ship for December launch](https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T231107">2022-09-07 23:11:07 UTC</a></sub>
+* [NASA officials evaluating late September launch dates for Artemis 1 moon mission](https://spaceflightnow.com/2022/09/08/nasa-officials-evaluating-late-september-launch-dates-for-artemis-1-moon-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T052101">2022-09-08 05:21:01 UTC</a></sub>
+* [SpaceX Starship prototype ignites six engines, starts major brush fire](https://www.teslarati.com/spacex-starship-six-engine-test-brush-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T045123">2022-09-08 04:51:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T045122">2022-09-09 04:51:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T055037">2022-09-09 05:50:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
