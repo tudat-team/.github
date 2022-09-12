@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Startups to test advanced computing technology on lunar missions](https://spacenews.com/lunar-computer-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T133106">2022-09-12 13:31:06 UTC</a></sub>
 * [Major operator consolidation is a long time coming](https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132107">2022-09-12 13:21:07 UTC</a></sub>
 * [Riding the consolidation wave](https://spacenews.com/riding-the-consolidation-wave/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T131107">2022-09-12 13:11:07 UTC</a></sub>
 * [Watch live: Blue Origin ready for uncrewed suborbital launch today](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T130102">2022-09-12 13:01:02 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Photos: Firefly’s second Alpha rocket raised on launch pad](https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T211102">2022-09-11 21:11:02 UTC</a></sub>
 * [Firefly scrubs second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171632">2022-09-11 17:16:32 UTC</a></sub>
 * [Starlink keeps this former Tesla employee online in the desert](https://www.teslarati.com/starlink-former-tesla-employee-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T151128">2022-09-11 15:11:28 UTC</a></sub>
-* [This should be the absolute peak of hurricane season—but it’s dead quiet out there](https://arstechnica.com/science/2022/09/this-should-be-the-absolute-peak-of-hurricane-season-but-its-dead-quiet-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T140145">2022-09-11 14:01:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -630,6 +630,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A rose by any other name](https://www.planetary.org/articles/a-rose-by-any-other-name) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135132">2022-09-12 13:51:32 UTC</a></sub>
+* [Your impact: September equinox 2022](https://www.planetary.org/articles/your-impact-september-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135131">2022-09-12 13:51:31 UTC</a></sub>
+* [Patience for Uranus](https://www.planetary.org/articles/patience-for-uranus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135129">2022-09-12 13:51:29 UTC</a></sub>
 * [Stars in the making](https://www.planetary.org/the-downlink/stars-in-the-making) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T143131">2022-09-09 14:31:31 UTC</a></sub>
 * [European Spaceflight Update - Let’s talk about Isar Aerospace ](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-isar-aerospace-1332931) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T144234">2022-09-05 14:42:34 UTC</a></sub>
 * [Space rocks!](https://www.planetary.org/the-downlink/space-rocks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143204">2022-09-02 14:32:04 UTC</a></sub>
@@ -637,9 +640,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [European Spaceflight Update - Europe is going to the Moon aboard Artemis 1](https://www.getrevue.co/profile/andrewparsonson/issues/europe-is-going-to-the-moon-aboard-artemis-1-1322484) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T131223">2022-08-29 13:12:23 UTC</a></sub>
 * [It’s a team effort](https://www.planetary.org/the-downlink/its-a-team-effort) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T143145">2022-08-26 14:31:45 UTC</a></sub>
 * [Who gets to use JWST and what's it like?](https://www.planetary.org/articles/how-to-use-jwst) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T140156">2022-08-26 14:01:56 UTC</a></sub>
-* [ICPS-1: ULA teams support Artemis I countdown and launch](https://blog.ulalaunch.com/blog/icps-1-ula-teams-support-artemis-i-countdown-and-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T170225">2022-08-25 17:02:25 UTC</a></sub>
-* [How NASA will use helicopters to return samples from Mars in 2033](https://www.planetary.org/articles/nasa-mars-sample-return-helicopters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T140144">2022-08-23 14:01:44 UTC</a></sub>
-* [European Spaceflight Update - Let’s talk about RFA](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-rfa-1311921) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T141234">2022-08-22 14:12:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132119">2022-09-12 13:21:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T140204">2022-09-12 14:02:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
