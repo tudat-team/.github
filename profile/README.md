@@ -611,7 +611,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Photos: Firefly’s second Alpha rocket raised on launch pad](https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T211102">2022-09-11 21:11:02 UTC</a></sub>
-* [Firefly aims for orbit on second demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171632">2022-09-11 17:16:32 UTC</a></sub>
+* [Firefly scrubs second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171632">2022-09-11 17:16:32 UTC</a></sub>
 * [Starlink keeps this former Tesla employee online in the desert](https://www.teslarati.com/starlink-former-tesla-employee-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T151128">2022-09-11 15:11:28 UTC</a></sub>
 * [This should be the absolute peak of hurricane season—but it’s dead quiet out there](https://arstechnica.com/science/2022/09/this-should-be-the-absolute-peak-of-hurricane-season-but-its-dead-quiet-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T140145">2022-09-11 14:01:45 UTC</a></sub>
 * [CAPSTONE enters safe mode during trajectory correction maneuver](https://spacenews.com/capstone-enters-safe-mode-during-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T084111">2022-09-11 08:41:11 UTC</a></sub>
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T234137">2022-09-11 23:41:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T005432">2022-09-12 00:54:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
