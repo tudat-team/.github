@@ -610,16 +610,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat and OneWeb consider second-generation LEO plans](https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a></sub>
+* [Blue Origin capsule escapes rocket failure on uncrewed flight over Texas](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161101">2022-09-12 16:11:01 UTC</a></sub>
+* [Six space companies join Techstars aerospace accelerator](https://spacenews.com/techstars-fall-2022-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T160108">2022-09-12 16:01:08 UTC</a></sub>
+* [NASA to Host Briefing on Perseverance Mars Rover Mission Operations](http://www.nasa.gov/press-release/nasa-to-host-briefing-on-perseverance-mars-rover-mission-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T155100">2022-09-12 15:51:00 UTC</a></sub>
+* [After Blue Origin’s rocket explodes, its spacecraft makes a dramatic escape](https://arstechnica.com/science/2022/09/blue-origin-rocket-explodes-on-ascent-but-spacecraft-escape-system-works-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T153952">2022-09-12 15:39:52 UTC</a></sub>
 * [New Shepard suffers in-flight abort on uncrewed suborbital flight](https://spacenews.com/new-shepard-suffers-in-flight-abort-on-uncrewed-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T152108">2022-09-12 15:21:08 UTC</a></sub>
 * [Firefly aiming for orbit on second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T151632">2022-09-12 15:16:32 UTC</a></sub>
 * [Startups to test advanced computing technology on lunar missions](https://spacenews.com/lunar-computer-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T133106">2022-09-12 13:31:06 UTC</a></sub>
 * [Major operator consolidation is a long time coming](https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132107">2022-09-12 13:21:07 UTC</a></sub>
 * [Riding the consolidation wave](https://spacenews.com/riding-the-consolidation-wave/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T131107">2022-09-12 13:11:07 UTC</a></sub>
-* [Watch live: Blue Origin ready for uncrewed suborbital launch today](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T130102">2022-09-12 13:01:02 UTC</a></sub>
-* [Surging demand for satellite data services, Euroconsult forecast](https://spacenews.com/euroconsult-forecast-wsbw-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T110107">2022-09-12 11:01:07 UTC</a></sub>
-* [White House requests proposals for regulating novel commercial space activities](https://spacenews.com/white-house-requests-proposals-for-regulating-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T104109">2022-09-12 10:41:09 UTC</a></sub>
-* [KT SAT orders Koreasat 6A communications satellite from Thales](https://spacenews.com/kt-sat-orders-koreasat-6a-communications-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T070108">2022-09-12 07:01:08 UTC</a></sub>
-* [Photos: Firefly’s second Alpha rocket raised on launch pad](https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T211102">2022-09-11 21:11:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161527">2022-09-12 16:15:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170118">2022-09-12 17:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
