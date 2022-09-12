@@ -610,6 +610,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Major operator consolidation is a long time coming](https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132107">2022-09-12 13:21:07 UTC</a></sub>
+* [Riding the consolidation wave](https://spacenews.com/riding-the-consolidation-wave/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T131107">2022-09-12 13:11:07 UTC</a></sub>
+* [Watch live: Blue Origin ready for uncrewed suborbital launch today](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T130102">2022-09-12 13:01:02 UTC</a></sub>
 * [Surging demand for satellite data services, Euroconsult forecast](https://spacenews.com/euroconsult-forecast-wsbw-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T110107">2022-09-12 11:01:07 UTC</a></sub>
 * [White House requests proposals for regulating novel commercial space activities](https://spacenews.com/white-house-requests-proposals-for-regulating-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T104109">2022-09-12 10:41:09 UTC</a></sub>
 * [KT SAT orders Koreasat 6A communications satellite from Thales](https://spacenews.com/kt-sat-orders-koreasat-6a-communications-satellite-from-thales/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T070108">2022-09-12 07:01:08 UTC</a></sub>
@@ -617,9 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Firefly scrubs second Alpha demonstration flight](https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171632">2022-09-11 17:16:32 UTC</a></sub>
 * [Starlink keeps this former Tesla employee online in the desert](https://www.teslarati.com/starlink-former-tesla-employee-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T151128">2022-09-11 15:11:28 UTC</a></sub>
 * [This should be the absolute peak of hurricane season—but it’s dead quiet out there](https://arstechnica.com/science/2022/09/this-should-be-the-absolute-peak-of-hurricane-season-but-its-dead-quiet-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T140145">2022-09-11 14:01:45 UTC</a></sub>
-* [CAPSTONE enters safe mode during trajectory correction maneuver](https://spacenews.com/capstone-enters-safe-mode-during-trajectory-correction-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T084111">2022-09-11 08:41:11 UTC</a></sub>
-* [SpaceX launches 52nd Falcon 9 rocket in 52 weeks](https://www.teslarati.com/spacex-52nd-falcon-9-rocket-52-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T053126">2022-09-11 05:31:26 UTC</a></sub>
-* [Court approves sale of Masten assets to Astrobotic](https://spacenews.com/court-approves-sale-of-masten-assets-to-astrobotic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T040108">2022-09-11 04:01:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T122129">2022-09-12 12:21:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T132119">2022-09-12 13:21:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
