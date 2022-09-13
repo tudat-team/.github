@@ -610,8 +610,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Slingshot Aerospace rolls out free space-traffic control service](https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
+* [Competition is growing in the space-data-relay sector](https://spacenews.com/data-relay-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T123105">2022-09-13 12:31:05 UTC</a></sub>
 * [Speedcast nets first Starlink reseller deal for enterprise and maritime](https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
+* [Slingshot Aerospace rolls out free space-traffic control service](https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120108">2022-09-13 12:01:08 UTC</a></sub>
 * [Artemis 1 launch plans slip again](https://spacenews.com/artemis-1-launch-plans-slip-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T095105">2022-09-13 09:51:05 UTC</a></sub>
 * [Redwire and Sodern to cooperate on star tracker](https://spacenews.com/redwire-and-sodern-to-cooperate-on-star-tracker/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T090110">2022-09-13 09:01:10 UTC</a></sub>
 * [ESA seeks major funding increase at ministerial](https://spacenews.com/esa-seeks-major-funding-increase-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T075106">2022-09-13 07:51:06 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Georgia, Illinois Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/georgia-illinois-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T221100">2022-09-12 22:11:00 UTC</a></sub>
 * [Eutelsat and OneWeb consider second-generation LEO plans](https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a></sub>
 * [Blue Origin capsule escapes rocket failure on uncrewed flight over Texas](https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161101">2022-09-12 16:11:01 UTC</a></sub>
-* [Six space companies join Techstars aerospace accelerator](https://spacenews.com/techstars-fall-2022-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T160108">2022-09-12 16:01:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T122027">2022-09-13 12:20:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T132130">2022-09-13 13:21:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
