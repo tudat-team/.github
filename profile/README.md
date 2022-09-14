@@ -614,7 +614,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How Starlink & T-Mobile’s partnership will impact 5G for the better for AI cameras](https://www.teslarati.com/starlink-t-mobile-5g-ai-cameras/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T194132">2022-09-13 19:41:32 UTC</a></sub>
 * [NASA Funds Projects to Study Orbital Debris, Space Sustainability](http://www.nasa.gov/press-release/nasa-funds-projects-to-study-orbital-debris-space-sustainability) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T193100">2022-09-13 19:31:00 UTC</a></sub>
 * [Space Force nominee sees growing threats to U.S. satellites from rival powers](https://spacenews.com/space-force-nominee-sees-growing-threats-to-u-s-satellites-from-rival-powers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T175106">2022-09-13 17:51:06 UTC</a></sub>
-* [Starlink Group 4-34 mission to complete SpaceX doubleheader](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T174941">2022-09-13 17:49:41 UTC</a></sub>
+* [Weather delays Starlink Group 4-34 mission](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T174941">2022-09-13 17:49:41 UTC</a></sub>
 * [Arianespace and OneWeb reach settlement for suspended launches](https://spacenews.com/arianespace-and-oneweb-reach-settlement-for-suspended-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T172104">2022-09-13 17:21:04 UTC</a></sub>
 * [NASA Announces Pending Departure of Science Associate Administrator](http://www.nasa.gov/press-release/nasa-announces-pending-departure-of-science-associate-administrator) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T170100">2022-09-13 17:01:00 UTC</a></sub>
 * [China launches Zhongxing-1E military communications satellite](https://spacenews.com/china-launches-zhongxing-1e-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T155104">2022-09-13 15:51:04 UTC</a></sub>
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T005309">2022-09-14 00:53:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T033520">2022-09-14 03:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
