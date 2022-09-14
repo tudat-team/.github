@@ -610,6 +610,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japan, Germany declare moratorium on anti-satellite missile tests](https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T131104">2022-09-14 13:11:04 UTC</a></sub>
+* [Morpheus Space raises $28 million in Series A round](https://spacenews.com/morpheus-series-a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T130105">2022-09-14 13:01:05 UTC</a></sub>
 * [NASA science head to step down](https://spacenews.com/nasa-science-head-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T115106">2022-09-14 11:51:06 UTC</a></sub>
 * [Blue Origin says still “super early” into New Shepard launch failure investigation](https://spacenews.com/blue-origin-says-still-super-early-into-new-shepard-launch-failure-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T084108">2022-09-14 08:41:08 UTC</a></sub>
 * [Iceye and Satlantis propose optical and radar satellite constellation](https://spacenews.com/iceye-satlantis-tandem4eo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T073108">2022-09-14 07:31:08 UTC</a></sub>
@@ -618,8 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How Starlink & T-Mobile’s partnership will impact 5G for the better for AI cameras](https://www.teslarati.com/starlink-t-mobile-5g-ai-cameras/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T194132">2022-09-13 19:41:32 UTC</a></sub>
 * [NASA Funds Projects to Study Orbital Debris, Space Sustainability](http://www.nasa.gov/press-release/nasa-funds-projects-to-study-orbital-debris-space-sustainability) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T193100">2022-09-13 19:31:00 UTC</a></sub>
 * [Space Force nominee sees growing threats to U.S. satellites from rival powers](https://spacenews.com/space-force-nominee-sees-growing-threats-to-u-s-satellites-from-rival-powers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T175106">2022-09-13 17:51:06 UTC</a></sub>
-* [Weather delays Starlink Group 4-34 mission](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T174941">2022-09-13 17:49:41 UTC</a></sub>
-* [Arianespace and OneWeb reach settlement for suspended launches](https://spacenews.com/arianespace-and-oneweb-reach-settlement-for-suspended-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T172104">2022-09-13 17:21:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T121954">2022-09-14 12:19:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T132151">2022-09-14 13:21:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
