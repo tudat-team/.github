@@ -610,6 +610,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite operators weigh strategies for an industry in transformation](https://spacenews.com/satellite-operators-weigh-strategies-for-an-industry-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T164009">2022-09-15 16:40:09 UTC</a></sub>
+* [Rocket Lab’s “The Owl Spreads Its Wings” mission set for launch](https://www.nasaspaceflight.com/2022/09/the-owl-spreads-its-wings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155201">2022-09-15 15:52:01 UTC</a></sub>
+* [NASA's Perseverance Rover Investigates Geologically Rich Mars Terrain](https://mars.nasa.gov/news/9261/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155000">2022-09-15 15:50:00 UTC</a></sub>
 * [NASA’s Perseverance Rover Investigates Geologically Rich Mars Terrain](http://www.nasa.gov/press-release/nasa-s-perseverance-rover-investigates-geologically-rich-mars-terrain) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T153000">2022-09-15 15:30:00 UTC</a></sub>
 * [GHGSat taps Spire to expand greenhouse gas monitoring constellation](https://spacenews.com/ghgsat-taps-spire-to-expand-greenhouse-gas-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T134010">2022-09-15 13:40:10 UTC</a></sub>
 * [Satlantis orders OHB Sweden satellites for multispectral mission](https://spacenews.com/satlantis-orders-ohb-sweden-satellites-for-multispectral-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T110015">2022-09-15 11:00:15 UTC</a></sub>
@@ -617,9 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Vast Space to develop artificial-gravity space station](https://spacenews.com/vast-space-intro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085009">2022-09-15 08:50:09 UTC</a></sub>
 * [New launch vehicles inch towards the pad](https://spacenews.com/new-launch-vehicles-inch-towards-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T083010">2022-09-15 08:30:10 UTC</a></sub>
 * [Telespazio signs European distribution deal for NorthStar’s SSA data](https://spacenews.com/telespazio-signs-european-distribution-deal-for-northstars-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T075012">2022-09-15 07:50:12 UTC</a></sub>
-* [Space Development Agency’s first launch slips due to supply chain setbacks](https://spacenews.com/space-development-agencys-first-launch-slips-due-to-supply-chain-setbacks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T185105">2022-09-14 18:51:05 UTC</a></sub>
-* [Starship vehicles move to next phase of testing despite issues](https://www.nasaspaceflight.com/2022/09/starship-next-phase-of-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T164616">2022-09-14 16:46:16 UTC</a></sub>
-* [Microsoft continues expanding Azure Space](https://spacenews.com/microsoft-azure-wsbw-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T152105">2022-09-14 15:21:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T161323">2022-09-15 16:13:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T165750">2022-09-15 16:57:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
