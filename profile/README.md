@@ -611,7 +611,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Satellite operators weigh strategies for an industry in transformation](https://spacenews.com/satellite-operators-weigh-strategies-for-an-industry-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T164009">2022-09-15 16:40:09 UTC</a></sub>
-* [Rocket Lab’s “The Owl Spreads Its Wings” mission set for launch](https://www.nasaspaceflight.com/2022/09/the-owl-spreads-its-wings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155201">2022-09-15 15:52:01 UTC</a></sub>
+* [Rocket Lab launches “The Owl Spreads Its Wings” mission](https://www.nasaspaceflight.com/2022/09/the-owl-spreads-its-wings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155201">2022-09-15 15:52:01 UTC</a></sub>
 * [NASA's Perseverance Rover Investigates Geologically Rich Mars Terrain](https://mars.nasa.gov/news/9261/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T155000">2022-09-15 15:50:00 UTC</a></sub>
 * [NASA’s Perseverance Rover Investigates Geologically Rich Mars Terrain](http://www.nasa.gov/press-release/nasa-s-perseverance-rover-investigates-geologically-rich-mars-terrain) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T153000">2022-09-15 15:30:00 UTC</a></sub>
 * [GHGSat taps Spire to expand greenhouse gas monitoring constellation](https://spacenews.com/ghgsat-taps-spire-to-expand-greenhouse-gas-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T134010">2022-09-15 13:40:10 UTC</a></sub>
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T220935">2022-09-15 22:09:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T224117">2022-09-15 22:41:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
