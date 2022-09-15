@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [GHGSat taps Spire to expand greenhouse gas monitoring constellation](https://spacenews.com/ghgsat-taps-spire-to-expand-greenhouse-gas-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T134010">2022-09-15 13:40:10 UTC</a></sub>
 * [Satlantis orders OHB Sweden satellites for multispectral mission](https://spacenews.com/satlantis-orders-ohb-sweden-satellites-for-multispectral-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T110015">2022-09-15 11:00:15 UTC</a></sub>
 * [NASA requests proposals for two ISS private astronaut missions](https://spacenews.com/nasa-requests-proposals-for-two-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T104009">2022-09-15 10:40:09 UTC</a></sub>
 * [Vast Space to develop artificial-gravity space station](https://spacenews.com/vast-space-intro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085009">2022-09-15 08:50:09 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starship vehicles move to next phase of testing despite issues](https://www.nasaspaceflight.com/2022/09/starship-next-phase-of-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T164616">2022-09-14 16:46:16 UTC</a></sub>
 * [Microsoft continues expanding Azure Space](https://spacenews.com/microsoft-azure-wsbw-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T152105">2022-09-14 15:21:05 UTC</a></sub>
 * [Bandwidth-hungry regional satellite operators hunting for options](https://spacenews.com/bandwidth-hungry-regional-satellite-operators-hunting-for-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T142105">2022-09-14 14:21:05 UTC</a></sub>
-* [AST SpaceMobile secures communications with prototype](https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T140106">2022-09-14 14:01:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -630,6 +630,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Tianwen-3: China’s Mars sample return mission](https://www.planetary.org/articles/tianwen-3-china-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T140029">2022-09-15 14:00:29 UTC</a></sub>
 * [What Cassini continues to reveal about Saturn](https://www.planetary.org/articles/cassini-continues-to-reveal-saturn) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140127">2022-09-13 14:01:27 UTC</a></sub>
 * [Commercial Spaceflight Principles](https://www.planetary.org/space-policy/commercial-spaceflight-principles) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190130">2022-09-12 19:01:30 UTC</a></sub>
 * [European Spaceflight Update - ArianeGroup boss throws shade](https://www.getrevue.co/profile/andrewparsonson/issues/arianegroup-boss-throws-shade-1343991) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T141137">2022-09-12 14:11:37 UTC</a></sub>
@@ -639,7 +640,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Stars in the making](https://www.planetary.org/the-downlink/stars-in-the-making) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T143131">2022-09-09 14:31:31 UTC</a></sub>
 * [European Spaceflight Update - Let’s talk about Isar Aerospace ](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-isar-aerospace-1332931) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T144234">2022-09-05 14:42:34 UTC</a></sub>
 * [Space rocks!](https://www.planetary.org/the-downlink/space-rocks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143204">2022-09-02 14:32:04 UTC</a></sub>
-* [Are planets with two stars promising places for life?](https://www.planetary.org/articles/habitability-of-planets-around-two-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T140202">2022-08-30 14:02:02 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T132216">2022-09-15 13:22:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T140448">2022-09-15 14:04:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
