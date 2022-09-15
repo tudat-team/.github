@@ -610,6 +610,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vast Space to develop artificial-gravity space station](https://spacenews.com/vast-space-intro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085009">2022-09-15 08:50:09 UTC</a></sub>
+* [New launch vehicles inch towards the pad](https://spacenews.com/new-launch-vehicles-inch-towards-the-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T083010">2022-09-15 08:30:10 UTC</a></sub>
 * [Telespazio signs European distribution deal for NorthStar’s SSA data](https://spacenews.com/telespazio-signs-european-distribution-deal-for-northstars-ssa-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T075012">2022-09-15 07:50:12 UTC</a></sub>
 * [Space Development Agency’s first launch slips due to supply chain setbacks](https://spacenews.com/space-development-agencys-first-launch-slips-due-to-supply-chain-setbacks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T185105">2022-09-14 18:51:05 UTC</a></sub>
 * [Starship vehicles move to next phase of testing despite issues](https://www.nasaspaceflight.com/2022/09/starship-next-phase-of-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T164616">2022-09-14 16:46:16 UTC</a></sub>
@@ -618,8 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [AST SpaceMobile secures communications with prototype](https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T140106">2022-09-14 14:01:06 UTC</a></sub>
 * [Japan, Germany declare moratorium on anti-satellite missile tests](https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T131104">2022-09-14 13:11:04 UTC</a></sub>
 * [Morpheus Space raises $28 million in Series A round](https://spacenews.com/morpheus-series-a/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T130105">2022-09-14 13:01:05 UTC</a></sub>
-* [NASA science head to step down](https://spacenews.com/nasa-science-head-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T115106">2022-09-14 11:51:06 UTC</a></sub>
-* [Blue Origin says still “super early” into New Shepard launch failure investigation](https://spacenews.com/blue-origin-says-still-super-early-into-new-shepard-launch-failure-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T084108">2022-09-14 08:41:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T081313">2022-09-15 08:13:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085036">2022-09-15 08:50:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
