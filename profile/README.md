@@ -198,7 +198,7 @@ conda install -c tudat-team <package>
 </table>
 </details>
 </td>
-    <td><code>2.10.9</code></td>
+    <td><code>2.11.0</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/master" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
@@ -466,7 +466,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.10.6.dev40</code></td>
+    <td><code>2.11.0.dev0</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX rolls out “high-performance” satellite internet for residential users](https://www.teslarati.com/spacex-high-performance-internet-residential-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T082029">2022-09-16 08:20:29 UTC</a></sub>
 * [Rocket Lab launches Japanese radar imaging satellite on 30th Electron mission](https://spacenews.com/rocket-lab-launches-japanese-radar-imaging-satellite-on-30th-electron-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T062009">2022-09-16 06:20:09 UTC</a></sub>
 * [U.S. weighing options to compensate commercial companies if satellites are attacked](https://spacenews.com/u-s-weighing-options-to-compensate-commercial-companies-if-satellites-are-attacked/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T225009">2022-09-15 22:50:09 UTC</a></sub>
 * [Satellite operators weigh strategies for an industry in transformation](https://spacenews.com/satellite-operators-weigh-strategies-for-an-industry-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T164009">2022-09-15 16:40:09 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [GHGSat taps Spire to expand greenhouse gas monitoring constellation](https://spacenews.com/ghgsat-taps-spire-to-expand-greenhouse-gas-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T134010">2022-09-15 13:40:10 UTC</a></sub>
 * [Satlantis orders OHB Sweden satellites for multispectral mission](https://spacenews.com/satlantis-orders-ohb-sweden-satellites-for-multispectral-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T110015">2022-09-15 11:00:15 UTC</a></sub>
 * [NASA requests proposals for two ISS private astronaut missions](https://spacenews.com/nasa-requests-proposals-for-two-iss-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T104009">2022-09-15 10:40:09 UTC</a></sub>
-* [Vast Space to develop artificial-gravity space station](https://spacenews.com/vast-space-intro/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085009">2022-09-15 08:50:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T081241">2022-09-16 08:12:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T084624">2022-09-16 08:46:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
