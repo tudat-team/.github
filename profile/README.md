@@ -631,6 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Pursues Astronaut Lunar Landers for Future Artemis Moon Missions](http://www.nasa.gov/press-release/nasa-pursues-astronaut-lunar-landers-for-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T203000">2022-09-16 20:30:00 UTC</a></sub>
 * [NASA to Televise Artemis I Demonstration Test, Host Media Call](http://www.nasa.gov/press-release/nasa-to-televise-artemis-i-demonstration-test-host-media-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T192000">2022-09-16 19:20:00 UTC</a></sub>
 * [SpaceX and NASA in final preparations for Crew-5 mission](https://www.nasaspaceflight.com/2022/09/crew-5-preperations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T151312">2022-09-16 15:13:12 UTC</a></sub>
 * [Viasat’s Inmarsat acquisition clears UK national security review](https://spacenews.com/viasats-inmarsat-acquisition-clears-uk-national-security-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143011">2022-09-16 14:30:11 UTC</a></sub>
@@ -640,7 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [PLD Space completes static-fire tests of Miura 1](https://spacenews.com/pld-space-completes-static-fire-tests-of-miura-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T105010">2022-09-16 10:50:10 UTC</a></sub>
 * [EarthDaily constellation built for change-detection analysis](https://spacenews.com/earthdaily-analytics-wsbw/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T102008">2022-09-16 10:20:08 UTC</a></sub>
 * [Congress asks for more transparency into New Shepard failure investigation](https://spacenews.com/congress-asks-for-more-transparency-into-new-shepard-failure-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T092009">2022-09-16 09:20:09 UTC</a></sub>
-* [SpaceX rolls out “high-performance” satellite internet for residential users](https://www.teslarati.com/spacex-high-performance-internet-residential-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T082029">2022-09-16 08:20:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -651,6 +651,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NROL-91: Delta IV Heavy readied for Vandenberg launch](https://blog.ulalaunch.com/blog/nrol-91-delta-iv-heavy-readied-for-vandenberg-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T204044">2022-09-16 20:40:44 UTC</a></sub>
 * [Outer worlds and outstanding science](https://www.planetary.org/the-downlink/outer-worlds-and-outstanding-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143029">2022-09-16 14:30:29 UTC</a></sub>
 * [Tianwen-3: China’s Mars sample return mission](https://www.planetary.org/articles/tianwen-3-china-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T140029">2022-09-15 14:00:29 UTC</a></sub>
 * [What Cassini continues to reveal about Saturn](https://www.planetary.org/articles/cassini-continues-to-reveal-saturn) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140127">2022-09-13 14:01:27 UTC</a></sub>
@@ -660,7 +661,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Your impact: September equinox 2022](https://www.planetary.org/articles/your-impact-september-equinox-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135131">2022-09-12 13:51:31 UTC</a></sub>
 * [Patience for Uranus](https://www.planetary.org/articles/patience-for-uranus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T135129">2022-09-12 13:51:29 UTC</a></sub>
 * [Stars in the making](https://www.planetary.org/the-downlink/stars-in-the-making) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T143131">2022-09-09 14:31:31 UTC</a></sub>
-* [European Spaceflight Update - Let’s talk about Isar Aerospace ](https://www.getrevue.co/profile/andrewparsonson/issues/let-s-talk-about-isar-aerospace-1332931) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T144234">2022-09-05 14:42:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T201034">2022-09-16 20:10:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T204130">2022-09-16 20:41:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
