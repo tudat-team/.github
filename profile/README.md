@@ -636,11 +636,11 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Shanghai rocket maker considering developing huge methane-fueled rockets](https://spacenews.com/shanghai-rocket-maker-considering-developing-huge-methane-fueled-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T123011">2022-09-18 12:30:11 UTC</a></sub>
 * [NASA requests proposal for second Artemis crewed lunar lander](https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T111010">2022-09-18 11:10:10 UTC</a></sub>
 * [New tri-agency office to coordinate U.S. missile-defense space programs](https://spacenews.com/new-tri-agency-office-to-coordinate-u-s-missile-defense-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T223021">2022-09-16 22:30:21 UTC</a></sub>
+* [Chinese Long March 7 rocket launches military communications satellite](https://spaceflightnow.com/2022/09/16/chinese-long-march-7-rocket-launches-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T215006">2022-09-16 21:50:06 UTC</a></sub>
 * [NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T214000">2022-09-16 21:40:00 UTC</a></sub>
 * [NASA Pursues Astronaut Lunar Landers for Future Artemis Moon Missions](http://www.nasa.gov/press-release/nasa-pursues-astronaut-lunar-landers-for-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T203000">2022-09-16 20:30:00 UTC</a></sub>
 * [NASA to Televise Artemis I Demonstration Test, Host Media Call](http://www.nasa.gov/press-release/nasa-to-televise-artemis-i-demonstration-test-host-media-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T192000">2022-09-16 19:20:00 UTC</a></sub>
 * [SpaceX and NASA in final preparations for Crew-5 mission](https://www.nasaspaceflight.com/2022/09/crew-5-preperations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T151312">2022-09-16 15:13:12 UTC</a></sub>
-* [Viasat’s Inmarsat acquisition clears UK national security review](https://spacenews.com/viasats-inmarsat-acquisition-clears-uk-national-security-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T143011">2022-09-16 14:30:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T213821">2022-09-18 21:38:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T220906">2022-09-18 22:09:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
