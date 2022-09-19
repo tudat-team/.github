@@ -631,6 +631,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic announces plans for lunar power service](https://spacenews.com/astrobotic-announces-plans-for-lunar-power-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T170010">2022-09-19 17:00:10 UTC</a></sub>
+* [NASA's InSight 'Hears' Its First Meteoroid Impacts on Mars](https://mars.nasa.gov/news/9264/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T160000">2022-09-19 16:00:00 UTC</a></sub>
 * [Planet shares information on Tanager hyperspectral constellation](https://spacenews.com/planet-hyperspectral-details/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T131011">2022-09-19 13:10:11 UTC</a></sub>
 * [France to increase space spending by 25%](https://spacenews.com/france-to-increase-space-spending-by-25/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T092009">2022-09-19 09:20:09 UTC</a></sub>
 * [Satellite imaging companies look for growth in data analytics](https://spacenews.com/satellite-imaging-companies-look-for-growth-in-data-analytics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T080010">2022-09-19 08:00:10 UTC</a></sub>
@@ -639,8 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Private industry aims to fill demand for space threat intelligence](https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T141009">2022-09-18 14:10:09 UTC</a></sub>
 * [Shanghai rocket maker considering developing huge methane-fueled rockets](https://spacenews.com/shanghai-rocket-maker-considering-developing-huge-methane-fueled-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T123011">2022-09-18 12:30:11 UTC</a></sub>
 * [SpaceX aces 60th operational Starlink launch after string of scrubs](https://www.teslarati.com/spacex-aces-60th-operational-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T065028">2022-09-18 06:50:28 UTC</a></sub>
-* [SpaceX successfully launches Starlink mission on sixth try](https://spaceflightnow.com/2022/09/18/falcon-9-starlink-4-34-live-coverage-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T043007">2022-09-18 04:30:07 UTC</a></sub>
-* [NASA requests proposals for second Artemis crewed lunar lander](https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T040009">2022-09-18 04:00:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T161321">2022-09-19 16:13:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T170156">2022-09-19 17:01:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
