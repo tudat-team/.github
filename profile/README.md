@@ -631,6 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite imaging companies look for growth in data analytics](https://spacenews.com/satellite-imaging-companies-look-for-growth-in-data-analytics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T080010">2022-09-19 08:00:10 UTC</a></sub>
 * [Starlink Group 4-34 mission finally lifts off after weather delays](https://www.nasaspaceflight.com/2022/09/starlink-4-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T234941">2022-09-18 23:49:41 UTC</a></sub>
 * [Hubble and VLT discover spiraling structure of young stars, hints at star formation in early universe](https://www.nasaspaceflight.com/2022/09/ngc-346-spiral/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T164504">2022-09-18 16:45:04 UTC</a></sub>
 * [Private industry aims to fill demand for space threat intelligence](https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T141009">2022-09-18 14:10:09 UTC</a></sub>
@@ -640,7 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA requests proposals for second Artemis crewed lunar lander](https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T040009">2022-09-18 04:00:09 UTC</a></sub>
 * [New tri-agency office to coordinate U.S. missile-defense space programs](https://spacenews.com/new-tri-agency-office-to-coordinate-u-s-missile-defense-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T223021">2022-09-16 22:30:21 UTC</a></sub>
 * [Chinese Long March 7 rocket launches military communications satellite](https://spaceflightnow.com/2022/09/16/chinese-long-march-7-rocket-launches-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T215006">2022-09-16 21:50:06 UTC</a></sub>
-* [NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station](http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T214000">2022-09-16 21:40:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T073234">2022-09-19 07:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T081743">2022-09-19 08:17:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
