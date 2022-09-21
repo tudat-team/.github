@@ -631,6 +631,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX filing shows plans to bring Starlink to U.S. school buses](https://www.teslarati.com/spacex-starlink-school-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T170030">2022-09-21 17:00:30 UTC</a></sub>
+* [Arkisys’ first flight to demonstrate universal interface adapter](https://spacenews.com/arkisys-applique/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T163010">2022-09-21 16:30:10 UTC</a></sub>
 * [Spaced Ventures petition for SpaceX shares hits $11.4 million](https://spacenews.com/spaced-ventures-spacex-petition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T154008">2022-09-21 15:40:08 UTC</a></sub>
 * [Lander companies prepare to shoot for the moon](https://spacenews.com/lander-companies-prepare-to-shoot-for-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T150010">2022-09-21 15:00:10 UTC</a></sub>
 * [Soyuz MS-22 lofts two Russians and one American to ISS](https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T140737">2022-09-21 14:07:37 UTC</a></sub>
@@ -639,8 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Artemis Accords signatories hold first meeting](https://spacenews.com/artemis-accords-signatories-hold-first-meeting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T105009">2022-09-21 10:50:09 UTC</a></sub>
 * [NASA teams prepare for SLS fueling test to inform launch date](https://www.nasaspaceflight.com/2022/09/artemis-i-fueling-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T092134">2022-09-21 09:21:34 UTC</a></sub>
 * [Draft solicitation for national security space launch services expected in early 2023](https://spacenews.com/draft-solicitation-for-national-security-space-launch-services-expected-in-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T235009">2022-09-20 23:50:09 UTC</a></sub>
-* [Space Force procurement chief criticizes over-engineered satellite programs](https://spacenews.com/space-force-procurement-chief-criticizes-over-engineered-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T232009">2022-09-20 23:20:09 UTC</a></sub>
-* [Next batch of OneWeb satellites arrive in India for launch](https://spacenews.com/next-batch-of-oneweb-satellites-arrive-in-india-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T213010">2022-09-20 21:30:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T161309">2022-09-21 16:13:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T170410">2022-09-21 17:04:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
