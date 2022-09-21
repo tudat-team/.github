@@ -631,6 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Webb telescope captures dazzling views of Neptune and its moons](https://arstechnica.com/science/2022/09/webb-telescope-captures-dazzling-views-of-neptune-and-its-moons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T131833">2022-09-21 13:18:33 UTC</a></sub>
 * [Artemis Accords signatories hold first meeting](https://spacenews.com/artemis-accords-signatories-hold-first-meeting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T105009">2022-09-21 10:50:09 UTC</a></sub>
 * [NASA teams prepare for SLS fueling test to inform launch date](https://www.nasaspaceflight.com/2022/09/artemis-i-fueling-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T092134">2022-09-21 09:21:34 UTC</a></sub>
 * [Draft solicitation for national security space launch services expected in early 2023](https://spacenews.com/draft-solicitation-for-national-security-space-launch-services-expected-in-early-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T235009">2022-09-20 23:50:09 UTC</a></sub>
@@ -640,7 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s Stakeholder Collaborations Help Inform Moon to Mars Planning](http://www.nasa.gov/press-release/nasa-s-stakeholder-collaborations-help-inform-moon-to-mars-planning) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T135000">2022-09-20 13:50:00 UTC</a></sub>
 * [NASA set for “kinder, gentler” SLS tanking test](https://spacenews.com/nasa-set-for-kinder-gentler-sls-tanking-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T113012">2022-09-20 11:30:12 UTC</a></sub>
 * [New report raises questions on DoD’s multi-orbit plan for space sensors](https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T101012">2022-09-20 10:10:12 UTC</a></sub>
-* [SAIC to build small satellites with startup Rogue Space](https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T071009">2022-09-20 07:10:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T122056">2022-09-21 12:20:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T132331">2022-09-21 13:23:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
