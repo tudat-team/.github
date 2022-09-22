@@ -631,6 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Marlink to offer Starlink to maritime and enterprise customers](https://spacenews.com/marlink-to-offer-starlink-to-maritime-and-enterprise-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T163010">2022-09-22 16:30:10 UTC</a></sub>
 * [NASA studying issue with JWST instrument](https://spacenews.com/nasa-studying-issue-with-jwst-instrument/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T095009">2022-09-22 09:50:09 UTC</a></sub>
 * [DoD to end procurements of geosynchronous missile-warning satellites](https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T232009">2022-09-21 23:20:09 UTC</a></sub>
 * [SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk](https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T222031">2022-09-21 22:20:31 UTC</a></sub>
@@ -640,7 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Astronaut Frank Rubio, Crewmates Arrive Safely at Space Station](http://www.nasa.gov/press-release/nasa-astronaut-frank-rubio-crewmates-arrive-safely-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T172000">2022-09-21 17:20:00 UTC</a></sub>
 * [SpaceX filing shows plans to bring Starlink to U.S. school buses](https://www.teslarati.com/spacex-starlink-school-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T170030">2022-09-21 17:00:30 UTC</a></sub>
 * [Arkisys’ first flight to demonstrate universal interface adapter](https://spacenews.com/arkisys-applique/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T163010">2022-09-21 16:30:10 UTC</a></sub>
-* [Spaced Ventures petition for SpaceX shares hits $11.4 million](https://spacenews.com/spaced-ventures-spacex-petition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T154008">2022-09-21 15:40:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -651,6 +651,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketStars: Delta IV Tiger Team member living his dream](https://blog.ulalaunch.com/blog/rocketstars-delta-iv-tiger-team-member-living-his-dream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T170036">2022-09-22 17:00:36 UTC</a></sub>
 * [DART impact: What to expect](https://www.planetary.org/articles/dart-impact-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214025">2022-09-21 21:40:25 UTC</a></sub>
 * [Whoop whoop whoop! nasa insight 'hears' an asteroid impact on mars](https://www.syfy.com/syfy-wire/bad-astronomy-asteroid-impacts-on-mars-heard-by-nasa-insight-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T120000">2022-09-21 12:00:00 UTC</a></sub>
 * [SES-20/21: Commercial satellite tandem stacked atop Atlas V](https://blog.ulalaunch.com/blog/ses-20/21-commercial-satellite-tandem-stacked-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T204035">2022-09-20 20:40:35 UTC</a></sub>
@@ -660,7 +661,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Tianwen-3: China’s Mars sample return mission](https://www.planetary.org/articles/tianwen-3-china-mars-sample-return-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T140029">2022-09-15 14:00:29 UTC</a></sub>
 * [What Cassini continues to reveal about Saturn](https://www.planetary.org/articles/cassini-continues-to-reveal-saturn) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T140127">2022-09-13 14:01:27 UTC</a></sub>
 * [Commercial Spaceflight Principles](https://www.planetary.org/space-policy/commercial-spaceflight-principles) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T190130">2022-09-12 19:01:30 UTC</a></sub>
-* [European Spaceflight Update - ArianeGroup boss throws shade](https://www.getrevue.co/profile/andrewparsonson/issues/arianegroup-boss-throws-shade-1343991) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T141137">2022-09-12 14:11:37 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T161341">2022-09-22 16:13:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T170044">2022-09-22 17:00:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
