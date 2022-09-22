@@ -631,6 +631,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Marlink plans to offer Starlink to maritime customers](https://www.teslarati.com/marlink-plans-to-offer-starlink-to-maritime-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173027">2022-09-22 17:30:27 UTC</a></sub>
+* [Mangata seeks permission to connect UK user terminals](https://spacenews.com/mangata-seeks-permission-to-connect-uk-user-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173009">2022-09-22 17:30:09 UTC</a></sub>
 * [Marlink to offer Starlink to maritime and enterprise customers](https://spacenews.com/marlink-to-offer-starlink-to-maritime-and-enterprise-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T163010">2022-09-22 16:30:10 UTC</a></sub>
 * [NASA studying issue with JWST instrument](https://spacenews.com/nasa-studying-issue-with-jwst-instrument/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T095009">2022-09-22 09:50:09 UTC</a></sub>
 * [DoD to end procurements of geosynchronous missile-warning satellites](https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T232009">2022-09-21 23:20:09 UTC</a></sub>
@@ -639,8 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [L3Harris’ missile-tracking satellites will use a newly designed Maxar bus](https://spacenews.com/l3harris-missile-tracking-satellites-will-use-a-newly-designed-maxar-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T220010">2022-09-21 22:00:10 UTC</a></sub>
 * [Amazon and Telesat coordinate their planned NGSO constellations](https://spacenews.com/amazon-and-telesat-coordinate-their-planned-ngso-constellations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T214009">2022-09-21 21:40:09 UTC</a></sub>
 * [NASA Astronaut Frank Rubio, Crewmates Arrive Safely at Space Station](http://www.nasa.gov/press-release/nasa-astronaut-frank-rubio-crewmates-arrive-safely-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T172000">2022-09-21 17:20:00 UTC</a></sub>
-* [SpaceX filing shows plans to bring Starlink to U.S. school buses](https://www.teslarati.com/spacex-starlink-school-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T170030">2022-09-21 17:00:30 UTC</a></sub>
-* [Arkisys’ first flight to demonstrate universal interface adapter](https://spacenews.com/arkisys-applique/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T163010">2022-09-21 16:30:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T170044">2022-09-22 17:00:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T174916">2022-09-22 17:49:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
