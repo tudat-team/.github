@@ -631,6 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA’s Delta 4 prepares for final West Coast launch as Vandenberg seeks new tenants](https://spacenews.com/ulas-delta-4-prepares-for-final-west-coast-launch-as-vandenberg-officials-seek-new-tenants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T154012">2022-09-23 15:40:12 UTC</a></sub>
 * [Airbus talks ESM delivery process for upcoming Artemis flights](https://www.nasaspaceflight.com/2022/09/airbus-esm-delivery-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T141642">2022-09-23 14:16:42 UTC</a></sub>
 * [Axiom Space to fly Saudi astronauts](https://spacenews.com/axiom-space-to-fly-saudi-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T113012">2022-09-23 11:30:12 UTC</a></sub>
 * [Rocket Report: SpaceX fires up seven Raptors; SpinLaunch raises big funding round](https://arstechnica.com/science/2022/09/rocket-report-spacex-fires-up-seven-raptors-spinlaunch-raises-big-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T110001">2022-09-23 11:00:01 UTC</a></sub>
@@ -640,7 +641,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Provide Media Update on Demonstration Test, Artemis I Mission](http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-demonstration-test-artemis-i-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T211000">2022-09-22 21:10:00 UTC</a></sub>
 * [Marlink plans to offer Starlink to maritime customers](https://www.teslarati.com/marlink-plans-to-offer-starlink-to-maritime-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173027">2022-09-22 17:30:27 UTC</a></sub>
 * [Mangata seeks permission to connect UK user terminals](https://spacenews.com/mangata-seeks-permission-to-connect-uk-user-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T173009">2022-09-22 17:30:09 UTC</a></sub>
-* [Marlink to offer Starlink to maritime and enterprise customers](https://spacenews.com/marlink-to-offer-starlink-to-maritime-and-enterprise-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T163010">2022-09-22 16:30:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -673,7 +673,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T151144">2022-09-23 15:11:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T154551">2022-09-23 15:45:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
