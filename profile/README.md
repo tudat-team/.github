@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NRO satellite flies to orbit in Delta 4’s final West Coast launch](https://spacenews.com/nro-satellite-flies-to-orbit-in-delta-4s-final-west-coast-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T232013">2022-09-24 23:20:13 UTC</a></sub>
 * [NASA waves off Tuesday launch for Artemis moon rocket](https://spaceflightnow.com/2022/09/24/nasa-waves-off-tuesday-launch-for-artemis-moon-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T212013">2022-09-24 21:20:13 UTC</a></sub>
 * [NASA postpones Artemis 1 launch because of tropical storm](https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T161059">2022-09-24 16:10:59 UTC</a></sub>
 * [NASA cancels Artemis I launch attempt but delays roll back decision](https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153518">2022-09-24 15:35:18 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Photos: Delta 4-Heavy rocket on the launch pad in California](https://spaceflightnow.com/2022/09/23/photos-delta-4-heavy-rocket-on-the-launch-pad-in-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T212013">2022-09-23 21:20:13 UTC</a></sub>
 * [NASA seems to be in full “send it” mode for the Artemis I mission](https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T210642">2022-09-23 21:06:42 UTC</a></sub>
 * [Elon Musk activates Starlink for Iranian citizens after US Sec of State issued a General License](https://www.teslarati.com/elon-musk-starlink-iran-us-sec-of-state/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T191028">2022-09-23 19:10:28 UTC</a></sub>
-* [Avanti turns to regional operator partnerships to expand satellite coverage](https://spacenews.com/avanti-turns-to-regional-operator-partnerships-to-expand-satellite-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T185010">2022-09-23 18:50:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T230939">2022-09-24 23:09:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T234209">2022-09-24 23:42:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
