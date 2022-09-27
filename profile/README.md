@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [TransAstra and Celestron to modify telescopes for spaceflight](https://spacenews.com/transastra-celestron-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T091008">2022-09-27 09:10:08 UTC</a></sub>
 * [UK shortlists Astroscale and ClearSpace for multi-debris removal mission](https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T185009">2022-09-26 18:50:09 UTC</a></sub>
 * [Brace for impact: DART successfully slams into asteroid](https://www.nasaspaceflight.com/2022/09/dart-impact/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T181101">2022-09-26 18:11:01 UTC</a></sub>
 * [Hurricane Ian prompts NASA to move Artemis moon rocket back to its hangar](https://spaceflightnow.com/2022/09/26/hurricane-ian-prompts-nasa-to-move-artemis-moon-rocket-back-to-its-hangar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T165006">2022-09-26 16:50:06 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA spacecraft successfully slams into asteroid ten months after SpaceX launch](https://www.teslarati.com/nasa-dart-spacecraft-impacts-asteroid-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T053030">2022-09-26 05:30:30 UTC</a></sub>
 * [NASA’s DART Mission Hits Asteroid in First-Ever Planetary Defense Test](http://www.nasa.gov/press-release/nasa-s-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T011000">2022-09-26 01:10:00 UTC</a></sub>
 * [DART collides with asteroid in planetary defense test](https://spacenews.com/dart-collides-with-asteroid-in-planetary-defense-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T000009">2022-09-26 00:00:09 UTC</a></sub>
-* [NASA spacecraft on track for asteroid deflection experiment](https://spaceflightnow.com/2022/09/25/nasa-spacecraft-on-track-for-asteroid-deflection-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T201005">2022-09-25 20:10:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T083349">2022-09-27 08:33:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T091935">2022-09-27 09:19:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
