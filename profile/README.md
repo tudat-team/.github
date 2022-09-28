@@ -618,8 +618,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ian reaches major hurricane status, will be a historic storm for Florida](https://arstechnica.com/science/2022/09/ian-reaches-major-hurricane-status-will-be-a-historic-storm-for-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T124806">2022-09-27 12:48:06 UTC</a></sub>
 * [Lawmakers press Air Force for final decision on U.S. Space Command](https://spacenews.com/lawmakers-press-air-force-for-final-decision-on-u-s-space-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T101009">2022-09-27 10:10:09 UTC</a></sub>
 * [TransAstra and Celestron to modify telescopes for spaceflight](https://spacenews.com/transastra-celestron-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T091008">2022-09-27 09:10:08 UTC</a></sub>
+* [Hurricane Ian delays SpaceX’s next NASA astronaut launch](https://www.teslarati.com/spacex-nasa-hurricane-delays-astronaut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T015052">2022-09-27 01:50:52 UTC</a></sub>
 * [NASA to assess SLS work and next launch opportunities after rollback](https://spacenews.com/nasa-to-assess-sls-work-and-next-launch-opportunities-after-rollback/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T005018">2022-09-27 00:50:18 UTC</a></sub>
-* [UK shortlists Astroscale and ClearSpace for multi-debris removal mission](https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T185009">2022-09-26 18:50:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T010101">2022-09-28 01:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T035820">2022-09-28 03:58:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
