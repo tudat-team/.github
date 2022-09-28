@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live views from Kennedy Space Center as Hurricane Ian impacts Florida](https://spaceflightnow.com/2022/09/28/hurricane-ian-impacts-ksc-live/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T181009">2022-09-28 18:10:09 UTC</a></sub>
 * [Florida spaceports brace for Hurricane Ian](https://www.nasaspaceflight.com/2022/09/brace-for-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T155400">2022-09-28 15:54:00 UTC</a></sub>
 * [NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch](http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T144000">2022-09-28 14:40:00 UTC</a></sub>
 * [As a meteorologist, Hurricane Ian is the nightmare storm I worry about most](https://arstechnica.com/science/2022/09/as-a-meteorologist-hurricane-ian-is-the-nightmare-storm-i-worry-about-most/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T133447">2022-09-28 13:34:47 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Laboratory Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-laboratory-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T151000">2022-09-27 15:10:00 UTC</a></sub>
 * [Crew-5 launch preparations continue amid hurricane threat](https://spacenews.com/crew-5-launch-preparations-continue-amid-hurricane-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T143031">2022-09-27 14:30:31 UTC</a></sub>
 * [China conducts trio of orbital launches across two days](https://spacenews.com/china-conducts-trio-of-orbital-launches-across-two-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140029">2022-09-27 14:00:29 UTC</a></sub>
-* [Artemis 1 rocket moved to hangar as spaceport completes hurricane preps](https://spaceflightnow.com/2022/09/27/artemis-1-rocket-moved-to-hangar-as-kennedy-space-center-completes-hurricane-preps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T134006">2022-09-27 13:40:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T182627">2022-09-28 18:26:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T185535">2022-09-28 18:55:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
