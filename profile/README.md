@@ -610,8 +610,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NRO signs agreements with six commercial providers of space-based RF data](https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
+* [NASA Awards Commercial Small Satellite Data Acquisition Agreement](http://www.nasa.gov/press-release/nasa-awards-commercial-small-satellite-data-acquisition-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T200100">2022-09-28 20:01:00 UTC</a></sub>
 * [Lynk Global to deploy experimental 5G payload in December](https://spacenews.com/lynk-global-to-deploy-experimental-5g-payload-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
+* [NRO signs agreements with six commercial providers of space-based RF data](https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
 * [Watch live views from Kennedy Space Center as Hurricane Ian impacts Florida](https://spaceflightnow.com/2022/09/28/hurricane-ian-impacts-ksc-live/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T181009">2022-09-28 18:10:09 UTC</a></sub>
 * [Florida spaceports brace for Hurricane Ian](https://www.nasaspaceflight.com/2022/09/brace-for-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T155400">2022-09-28 15:54:00 UTC</a></sub>
 * [NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch](http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T144000">2022-09-28 14:40:00 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Kayhan, Astroscale, UT Austin win Space Force study contract for in-orbit servicing technology](https://spacenews.com/kayhan-astroscale-ut-austin-win-space-force-study-contract-for-in-orbit-servicing-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T111012">2022-09-28 11:10:12 UTC</a></sub>
 * [China seeks new partners for lunar and deep space exploration](https://spacenews.com/china-seeks-new-partners-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T074013">2022-09-28 07:40:13 UTC</a></sub>
 * [China conducts three launches with Shiyan and Yaogan satellites](https://www.nasaspaceflight.com/2022/09/china-three-launches-shiyan-yaogan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T155145">2022-09-27 15:51:45 UTC</a></sub>
-* [NASA Awards Laboratory Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-laboratory-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T151000">2022-09-27 15:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T193928">2022-09-28 19:39:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T201149">2022-09-28 20:11:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
