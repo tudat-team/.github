@@ -610,6 +610,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to Discuss New Science, Commercial Study Today](http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-new-science-commercial-study-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T164100">2022-09-29 16:41:00 UTC</a></sub>
+* [FCC approves new orbital debris rule](https://spacenews.com/fcc-approves-new-orbital-debris-rule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T164039">2022-09-29 16:40:39 UTC</a></sub>
 * [NASA Awards Contracts in Support of Entry, Decent, Landing Technology](http://www.nasa.gov/press-release/nasa-awards-contracts-in-support-of-entry-decent-landing-technology) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T144100">2022-09-29 14:41:00 UTC</a></sub>
 * [Juno just raced by Europa, providing our best look in 20 years at the icy world](https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T132020">2022-09-29 13:20:20 UTC</a></sub>
 * [NASA and Astra modify TROPICS launch contract](https://spacenews.com/nasa-and-astra-modify-tropics-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T115031">2022-09-29 11:50:31 UTC</a></sub>
@@ -618,8 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Shift to remote work draws mixed reactions](https://spacenews.com/remote-working-trend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T235034">2022-09-28 23:50:34 UTC</a></sub>
 * [Lamborn: ‘Merit on both sides’ of debate over Space National Guard](https://spacenews.com/lamborn-merit-on-both-sides-of-debate-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T232030">2022-09-28 23:20:30 UTC</a></sub>
 * [SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida](https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T212029">2022-09-28 21:20:29 UTC</a></sub>
-* [NASA Awards Commercial Small Satellite Data Acquisition Agreement](http://www.nasa.gov/press-release/nasa-awards-commercial-small-satellite-data-acquisition-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T200100">2022-09-28 20:01:00 UTC</a></sub>
-* [NRO signs agreements with six commercial providers of space-based RF data](https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T191043">2022-09-28 19:10:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T161705">2022-09-29 16:17:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T170650">2022-09-29 17:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
