@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space surveillance telescope developed by the U.S. begins operations in Australia](https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T175009">2022-09-30 17:50:09 UTC</a></sub>
 * [National Space Council to seek industry input on future regulatory framework](https://spacenews.com/national-space-council-to-seek-industry-input-on-future-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T164009">2022-09-30 16:40:09 UTC</a></sub>
 * [NASA, USGS Map Minerals to Understand Earth Makeup, Climate Change](http://www.nasa.gov/press-release/nasa-usgs-map-minerals-to-understand-earth-makeup-climate-change) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T164000">2022-09-30 16:40:00 UTC</a></sub>
 * [Space Force studying requirements for cislunar space domain awareness](https://spacenews.com/space-force-studying-requirements-for-cislunar-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T153015">2022-09-30 15:30:15 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Report: BE-4 engine breathes fire; Delta IV Heavy puts on a show](https://arstechnica.com/science/2022/09/rocket-report-be-4-engine-breathes-fire-delta-iv-heavy-puts-on-a-show/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T110059">2022-09-30 11:00:59 UTC</a></sub>
 * [SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft](https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T225027">2022-09-29 22:50:27 UTC</a></sub>
 * [NASA and SpaceX are studying a Hubble telescope boost, adding 15 to 20 years of life](https://arstechnica.com/science/2022/09/nasa-and-spacex-are-studying-a-hubble-telescope-boost-adding-15-to-20-years-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224539">2022-09-29 22:45:39 UTC</a></sub>
-* [First ViaSat-3 enters environmental testing](https://spacenews.com/first-viasat-3-enters-environmental-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224010">2022-09-29 22:40:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T170720">2022-09-30 17:07:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T175418">2022-09-30 17:54:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
