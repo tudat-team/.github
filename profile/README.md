@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Preps resume for SpaceX crew launch after Hurricane Ian](https://spaceflightnow.com/2022/10/01/preps-resume-for-spacex-crew-launch-after-hurricane-ian/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T213007">2022-10-01 21:30:07 UTC</a></sub>
 * [Firefly, Millennium Space selected for U.S. Space Force rapid-launch demonstration](https://spacenews.com/firefly-millennium-space-selected-for-u-s-space-force-rapid-launch-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T173010">2022-10-01 17:30:10 UTC</a></sub>
 * [Firefly’s Alpha rocket reaches orbit on second launch](https://spacenews.com/fireflys-alpha-rocket-reaches-orbit-on-second-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T150010">2022-10-01 15:00:10 UTC</a></sub>
 * [Firefly succeeds on second Alpha flight](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T091632">2022-10-01 09:16:32 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space surveillance telescope developed by the U.S. begins operations in Australia](https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T175009">2022-09-30 17:50:09 UTC</a></sub>
 * [National Space Council to seek industry input on future regulatory framework](https://spacenews.com/national-space-council-to-seek-industry-input-on-future-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T164009">2022-09-30 16:40:09 UTC</a></sub>
 * [NASA, USGS Map Minerals to Understand Earth Makeup, Climate Change](http://www.nasa.gov/press-release/nasa-usgs-map-minerals-to-understand-earth-makeup-climate-change) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T164000">2022-09-30 16:40:00 UTC</a></sub>
-* [Space Force studying requirements for cislunar space domain awareness](https://spacenews.com/space-force-studying-requirements-for-cislunar-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T153015">2022-09-30 15:30:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T210849">2022-10-01 21:08:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T214014">2022-10-01 21:40:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
