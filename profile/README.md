@@ -612,7 +612,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
 * [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
-* [SpaceX preparing for launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
+* [SpaceX delays launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
 * [Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184013">2022-10-03 18:40:13 UTC</a></sub>
 * [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
 * [Viasat sells tactical data communications business to L3Harris for $1.96 billion](https://spacenews.com/viasat-sells-tactical-data-communications-business-to-l3harris-for-1-96-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T142011">2022-10-03 14:20:11 UTC</a></sub>
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T231140">2022-10-03 23:11:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T234707">2022-10-03 23:47:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
