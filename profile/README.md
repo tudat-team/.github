@@ -610,9 +610,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Atlas 5 rocket rolls launch pad at Cape Canaveral](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T180008">2022-10-03 18:00:08 UTC</a></sub>
 * [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
 * [Viasat sells tactical data communications business to L3Harris for $1.96 billion](https://spacenews.com/viasat-sells-tactical-data-communications-business-to-l3harris-for-1-96-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T142011">2022-10-03 14:20:11 UTC</a></sub>
-* [Watch live: Atlas 5 rocket set to roll to launch pad today at Cape Canaveral](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T131007">2022-10-03 13:10:07 UTC</a></sub>
 * [With orbital launch, Firefly takes an early lead in the 1-ton rocket race](https://arstechnica.com/science/2022/10/with-orbital-launch-firefly-takes-an-early-lead-in-the-1-ton-rocket-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T130922">2022-10-03 13:09:22 UTC</a></sub>
 * [Amid Starship milestones, Booster 7 set to return for pre-launch testing](https://www.nasaspaceflight.com/2022/10/starship-booster-7-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T202758">2022-10-02 20:27:58 UTC</a></sub>
 * [NASA pushes back Artemis 1 launch to November](https://spacenews.com/nasa-pushes-back-artemis-1-launch-to-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T005012">2022-10-02 00:50:12 UTC</a></sub>
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T175839">2022-10-03 17:58:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T182902">2022-10-03 18:29:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
