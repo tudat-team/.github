@@ -610,16 +610,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency](https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213012">2022-10-04 21:30:12 UTC</a></sub>
 * [AEI claims majority stake in York Space Systems](https://spacenews.com/aei-acquires-york-stake/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T203011">2022-10-04 20:30:11 UTC</a></sub>
 * [NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T162000">2022-10-04 16:20:00 UTC</a></sub>
 * [Final Atlas V 531 to launch dual SES-20 and SES-21 satellites](https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T151157">2022-10-04 15:11:57 UTC</a></sub>
 * [NASA Science Leadership to Hold Town Hall Meeting Thursday](http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T143000">2022-10-04 14:30:00 UTC</a></sub>
 * [SpaceX has been bidding against itself for NASA’s science missions for a while](https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T131054">2022-10-04 13:10:54 UTC</a></sub>
-* [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
 * [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
+* [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
+* [SpaceX targeting three launches from three pads in 31 hours](https://www.teslarati.com/spacex-three-launches-three-pads-one-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T213030">2022-10-03 21:30:30 UTC</a></sub>
 * [SpaceX delays launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
-* [Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184013">2022-10-03 18:40:13 UTC</a></sub>
-* [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T211009">2022-10-04 21:10:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T214115">2022-10-04 21:41:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
