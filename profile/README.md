@@ -610,9 +610,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [For most science missions, NASA is down to a single launch provider](https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T131054">2022-10-04 13:10:54 UTC</a></sub>
-* [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
+* [SpaceX has been bidding against itself for NASA’s science missions for awhile](https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T131054">2022-10-04 13:10:54 UTC</a></sub>
 * [Redwire back on acquisition trail with deal for QinetiQ Space](https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
+* [EnerStar Solutions announces third Starlink enterprise reseller deal](https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224016">2022-10-03 22:40:16 UTC</a></sub>
 * [SpaceX delays launch of 52 Starlink satellites from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-29/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184700">2022-10-03 18:47:00 UTC</a></sub>
 * [Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats](https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T184013">2022-10-03 18:40:13 UTC</a></sub>
 * [After an amazing run at Mars, India says its orbiter has no more fuel](https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T172648">2022-10-03 17:26:48 UTC</a></sub>
@@ -630,6 +630,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The best space pictures from JWST](https://www.planetary.org/space-missions/best-jwst-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T140042">2022-10-04 14:00:42 UTC</a></sub>
 * [RocketStars: Guidance expert lends expertise to complex Atlas V launch](https://blog.ulalaunch.com/blog/rocketstars-guidance-expert-lends-expertise-to-complex-atlas-v-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T160249">2022-10-03 16:02:49 UTC</a></sub>
 * [European Spaceflight Update - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T141051">2022-10-03 14:10:51 UTC</a></sub>
 * [RocketStars: Richards' career connects Atlas, Delta and Vulcan](https://blog.ulalaunch.com/blog/rocketstars-richards-career-connects-atlas-delta-and-vulcan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221002T193057">2022-10-02 19:30:57 UTC</a></sub>
@@ -639,7 +640,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [European Spaceflight Update - Wired gets it wrong](https://www.getrevue.co/profile/andrewparsonson/issues/wired-gets-it-wrong-1368173) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T135041">2022-09-26 13:50:41 UTC</a></sub>
 * [Brighten up your day](https://www.planetary.org/the-downlink/brighten-up-your-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T143027">2022-09-23 14:30:27 UTC</a></sub>
 * [RocketStars: McFarland is one of ULA's most experienced teammates](https://blog.ulalaunch.com/blog/rocketstars-mcfarland-is-one-of-ulas-most-experienced-teammates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T122040">2022-09-23 12:20:40 UTC</a></sub>
-* [RocketStars: Delta IV Tiger Team member living his dream](https://blog.ulalaunch.com/blog/rocketstars-delta-iv-tiger-team-member-living-his-dream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T170036">2022-09-22 17:00:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T132707">2022-10-04 13:27:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T141340">2022-10-04 14:13:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
