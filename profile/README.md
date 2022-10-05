@@ -630,6 +630,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SES-20/21: Atlas V successfully launches for SES](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T045050">2022-10-05 04:50:50 UTC</a></sub>
 * [The best space pictures from JWST](https://www.planetary.org/space-missions/best-jwst-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T140042">2022-10-04 14:00:42 UTC</a></sub>
 * [RocketStars: Guidance expert lends expertise to complex Atlas V launch](https://blog.ulalaunch.com/blog/rocketstars-guidance-expert-lends-expertise-to-complex-atlas-v-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T160249">2022-10-03 16:02:49 UTC</a></sub>
 * [European Spaceflight Update - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T141051">2022-10-03 14:10:51 UTC</a></sub>
@@ -639,7 +640,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [See DART’s final images before it smashed into an asteroid](https://www.planetary.org/articles/nasa-dart-final-images-asteroid-crash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T233140">2022-09-26 23:31:40 UTC</a></sub>
 * [European Spaceflight Update - Wired gets it wrong](https://www.getrevue.co/profile/andrewparsonson/issues/wired-gets-it-wrong-1368173) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T135041">2022-09-26 13:50:41 UTC</a></sub>
 * [Brighten up your day](https://www.planetary.org/the-downlink/brighten-up-your-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T143027">2022-09-23 14:30:27 UTC</a></sub>
-* [RocketStars: McFarland is one of ULA's most experienced teammates](https://blog.ulalaunch.com/blog/rocketstars-mcfarland-is-one-of-ulas-most-experienced-teammates) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T122040">2022-09-23 12:20:40 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T042229">2022-10-05 04:22:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T052340">2022-10-05 05:23:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
