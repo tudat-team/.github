@@ -610,11 +610,11 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [AFRL developing ‘cyber range’ to test vulnerabilities of space networks](https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T220015">2022-10-06 22:00:15 UTC</a></sub>
+* [AFRL developing ‘cyber range’ for space operators](https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T234010">2022-10-06 23:40:10 UTC</a></sub>
 * [Virgin Orbit awaiting license for first U.K. launch](https://spacenews.com/virgin-orbit-awaiting-license-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T213010">2022-10-06 21:30:10 UTC</a></sub>
 * [India on track for OneWeb launch in second half of October](https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T201009">2022-10-06 20:10:09 UTC</a></sub>
 * [York Space wins $200 million Space Development Agency contract for 12 satellites](https://spacenews.com/york-space-wins-200-million-space-development-agency-contract-for-12-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T190011">2022-10-06 19:00:11 UTC</a></sub>
-* [SpaceX to carry Intelsat Galaxy sats on third launch of the week](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T184446">2022-10-06 18:44:46 UTC</a></sub>
+* [SpaceX scrubs Intelsat Galaxy sats launch](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T184446">2022-10-06 18:44:46 UTC</a></sub>
 * [Dual satellite launch for Intelsat next on SpaceX’s launch schedule](https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T181010">2022-10-06 18:10:10 UTC</a></sub>
 * [UK competition watchdog has concerns about Viasat’s Inmarsat takeover](https://spacenews.com/uk-competition-watchdog-has-concerns-about-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T164012">2022-10-06 16:40:12 UTC</a></sub>
 * [Sierra Space hires former SpaceX executive as CIO](https://spacenews.com/sierra-space-hires-former-spacex-executive-as-cio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T142016">2022-10-06 14:20:16 UTC</a></sub>
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T231218">2022-10-06 23:12:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T234909">2022-10-06 23:49:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
