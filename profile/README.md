@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK competition watchdog has concerns about Viasat’s Inmarsat takeover](https://spacenews.com/uk-competition-watchdog-has-concerns-about-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T164012">2022-10-06 16:40:12 UTC</a></sub>
 * [Sierra Space hires former SpaceX executive as CIO](https://spacenews.com/sierra-space-hires-former-spacex-executive-as-cio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T142016">2022-10-06 14:20:16 UTC</a></sub>
 * [Roscosmos official supports continued cooperation with NASA on ISS](https://spacenews.com/roscosmos-official-supports-continued-cooperation-with-nasa-on-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T124018">2022-10-06 12:40:18 UTC</a></sub>
 * [Report highlights U.S. concerns over China’s space infrastructure in South America](https://spacenews.com/report-highlights-u-s-concerns-over-chinas-space-infrastructure-in-south-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T121018">2022-10-06 12:10:18 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month](https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T220012">2022-10-05 22:00:12 UTC</a></sub>
 * [SpaceX says 5G plan could disrupt Starlink more than previously thought](https://spacenews.com/spacex-says-5g-plan-could-disrupt-starlink-more-than-previously-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T211015">2022-10-05 21:10:15 UTC</a></sub>
 * [On the ground in Ukraine using Starlink to stay connected](https://www.teslarati.com/ukraine-using-starlink-connected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T201038">2022-10-05 20:10:38 UTC</a></sub>
-* [NASA Invites Media to Learn About Inflatable Heat Shield Demo](http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-inflatable-heat-shield-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T192000">2022-10-05 19:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T161657">2022-10-06 16:16:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T170503">2022-10-06 17:05:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
