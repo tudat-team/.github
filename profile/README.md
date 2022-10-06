@@ -639,7 +639,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [JWST’s carbon dioxide discovery is good news for Earth-like worlds](https://www.planetary.org/articles/jwst-carbon-dioxide-discovery-earth-like-worlds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T140119">2022-09-27 14:01:19 UTC</a></sub>
 * [See DART’s final images before it smashed into an asteroid](https://www.planetary.org/articles/nasa-dart-final-images-asteroid-crash) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T233140">2022-09-26 23:31:40 UTC</a></sub>
 * [European Spaceflight Update - Wired gets it wrong](https://www.getrevue.co/profile/andrewparsonson/issues/wired-gets-it-wrong-1368173) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T135041">2022-09-26 13:50:41 UTC</a></sub>
-* [Brighten up your day](https://www.planetary.org/the-downlink/brighten-up-your-day) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T143027">2022-09-23 14:30:27 UTC</a></sub>
+* [NROL-91: Delta IV Heavy successfully launches for NRO](https://blog.ulalaunch.com/blog/ussf-12-atlas-v-successfully-launches-for-space-force-0-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T153046">2022-09-24 15:30:46 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T151345">2022-10-06 15:13:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T154847">2022-10-06 15:48:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
