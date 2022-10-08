@@ -617,7 +617,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Eutelsat says satellite jammers within Iran are disrupting foreign channels](https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T194009">2022-10-07 19:40:09 UTC</a></sub>
 * [Rocket Lab launches Argos tracking payload](https://spacenews.com/rocket-lab-launches-argos-tracking-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T193012">2022-10-07 19:30:12 UTC</a></sub>
 * [NASA's InSight Waits Out Dust Storm](https://mars.nasa.gov/news/9275/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T161000">2022-10-07 16:10:00 UTC</a></sub>
-* [SpaceX launch with Intelsat Galaxy sats scrubbed again Friday](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145146">2022-10-07 14:51:46 UTC</a></sub>
+* [SpaceX successfully lofts Intelsat Galaxy duo](https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145146">2022-10-07 14:51:46 UTC</a></sub>
 * [Rocket Lab launches “It Argos Up From Here” mission](https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T143736">2022-10-07 14:37:36 UTC</a></sub>
 * [Ariane 6 upper stage testing underway](https://spacenews.com/ariane-6-upper-stage-testing-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T123015">2022-10-07 12:30:15 UTC</a></sub>
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T231030">2022-10-08 23:10:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T234459">2022-10-08 23:44:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
