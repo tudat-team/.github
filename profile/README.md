@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contract for Facilities Operations, Maintenance Service](http://www.nasa.gov/press-release/nasa-awards-contract-for-facilities-operations-maintenance-service) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T202000">2022-10-13 20:20:00 UTC</a></sub>
 * [Phase Four adopts iodine for next-gen Max-V engine](https://spacenews.com/phase-four-adopts-iodine-for-next-gen-max-v-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T184010">2022-10-13 18:40:10 UTC</a></sub>
 * [Artemis 1, ispace lander set November launch dates](https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T102010">2022-10-13 10:20:10 UTC</a></sub>
 * [China launches radar satellite for environmental monitoring](https://spacenews.com/china-launches-radar-satellite-for-environmental-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T100010">2022-10-13 10:00:10 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Amazon to launch two Project Kuiper satellites on Vulcan’s first flight](https://spacenews.com/amazon-to-launch-two-project-kuiper-satellites-on-vulcans-first-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T171012">2022-10-12 17:10:12 UTC</a></sub>
 * [NASA says the Artemis I mission will be ready to launch in one month](https://arstechnica.com/science/2022/10/nasa-targets-mid-november-for-its-third-artemis-i-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T164030">2022-10-12 16:40:30 UTC</a></sub>
 * [On space matters, Biden’s national security strategy adopts a less combative tone](https://spacenews.com/on-space-matters-bidens-national-security-strategy-adopts-a-less-combative-tone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T161016">2022-10-12 16:10:16 UTC</a></sub>
-* [OneWeb unveils Innovation Challenge competition](https://spacenews.com/oneweb-2022-innovation-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T155015">2022-10-12 15:50:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T201148">2022-10-13 20:11:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T204511">2022-10-13 20:45:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
