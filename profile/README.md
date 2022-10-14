@@ -618,8 +618,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Phase Four adopts iodine for next-gen Max-V engine](https://spacenews.com/phase-four-adopts-iodine-for-next-gen-max-v-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T184010">2022-10-13 18:40:10 UTC</a></sub>
 * [Artemis 1, ispace lander set November launch dates](https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T102010">2022-10-13 10:20:10 UTC</a></sub>
 * [China launches radar satellite for environmental monitoring](https://spacenews.com/china-launches-radar-satellite-for-environmental-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T100010">2022-10-13 10:00:10 UTC</a></sub>
+* [SpaceX, NASA targeting Moon launches days apart](https://www.teslarati.com/spacex-nasa-two-moon-launches-days-apart/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T053028">2022-10-13 05:30:28 UTC</a></sub>
 * [Mars Mission Shields Up for Tests](https://mars.nasa.gov/news/9276/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T211000">2022-10-12 21:10:00 UTC</a></sub>
-* [Dennis Tito, first space tourist, books trip around the moon on SpaceX’s Starship](https://spaceflightnow.com/2022/10/12/dennis-tito-the-first-space-tourist-books-trip-around-the-moon-on-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T172006">2022-10-12 17:20:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T040500">2022-10-14 04:05:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T054904">2022-10-14 05:49:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
