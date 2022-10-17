@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Firefly looking ahead after “To The Black” payloads reenter early](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T194216">2022-10-17 19:42:16 UTC</a></sub>
 * [SES to appeal Intelsat C-band sharing decision](https://spacenews.com/ses-to-appeal-intelsat-c-band-sharing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T171756">2022-10-17 17:17:56 UTC</a></sub>
 * [Satellite broadband players poised to compete for U.S. military customers](https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T161756">2022-10-17 16:17:56 UTC</a></sub>
 * [China considering mission to Ceres and large dark matter space telescope](https://spacenews.com/china-considering-mission-to-ceres-and-large-dark-matter-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T132756">2022-10-17 13:27:56 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Lucy completes its first Earth gravity assist after a year in space](https://www.nasaspaceflight.com/2022/10/lucy-first-earth-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T162758">2022-10-15 16:27:58 UTC</a></sub>
 * [DoD eyeing options to provide satcom in Ukraine as it continues talks with SpaceX](https://spacenews.com/dod-eyeing-options-to-provide-satcom-in-ukraine-as-it-continues-talks-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T023826">2022-10-15 02:38:26 UTC</a></sub>
 * [Crew-4 returns to Earth](https://spacenews.com/crew-4-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T231043">2022-10-14 23:10:43 UTC</a></sub>
-* [SpaceX launch to deploy first in new generation of Airbus-built satellites](https://spaceflightnow.com/2022/10/14/spacex-launch-to-deploy-first-in-new-generation-of-airbus-built-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T223015">2022-10-14 22:30:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T201201">2022-10-17 20:12:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T204525">2022-10-17 20:45:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
