@@ -610,6 +610,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Panasonic Avionics to bring OneWeb LEO broadband to planes](https://spacenews.com/panasonic-avionics-to-bring-oneweb-leo-broadband-to-planes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T144756">2022-10-18 14:47:56 UTC</a></sub>
+* [Partnerships seen as key for LEO operators to enter Asia](https://spacenews.com/partnerships-seen-as-key-for-leo-operators-to-enter-asia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T143758">2022-10-18 14:37:58 UTC</a></sub>
 * [China gears up for launches to complete Tiangong space station](https://spacenews.com/china-gears-up-for-launches-to-complete-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T104756">2022-10-18 10:47:56 UTC</a></sub>
 * [Orbex raises Series C round](https://spacenews.com/orbex-raises-series-c-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T090758">2022-10-18 09:07:58 UTC</a></sub>
 * [Falcon 9 leading candidate to launch European science mission](https://spacenews.com/falcon-9-leading-candidate-to-launch-european-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T075759">2022-10-18 07:57:59 UTC</a></sub>
@@ -618,8 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Firefly looking ahead after “To The Black” payloads reenter early](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T194216">2022-10-17 19:42:16 UTC</a></sub>
 * [SES to appeal Intelsat C-band sharing decision](https://spacenews.com/ses-to-appeal-intelsat-c-band-sharing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T171756">2022-10-17 17:17:56 UTC</a></sub>
 * [Satellite broadband players poised to compete for U.S. military customers](https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T161756">2022-10-17 16:17:56 UTC</a></sub>
-* [China considering mission to Ceres and large dark matter space telescope](https://spacenews.com/china-considering-mission-to-ceres-and-large-dark-matter-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T132756">2022-10-17 13:27:56 UTC</a></sub>
-* [NASA outlines case for making sole-source SLS award to Boeing-Northrop joint venture](https://spacenews.com/nasa-outlines-case-for-making-sole-source-sls-award-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T094800">2022-10-17 09:48:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T141856">2022-10-18 14:18:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T145039">2022-10-18 14:50:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
