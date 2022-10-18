@@ -610,16 +610,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Apollo Astronaut James McDivitt Dies at Age 93](http://www.nasa.gov/press-release/apollo-astronaut-james-mcdivitt-dies-at-age-93) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T234800">2022-10-17 23:48:00 UTC</a></sub>
 * [U.S. military waiting for industry to demonstrate space transportation concepts](https://spacenews.com/u-s-military-waiting-for-industry-to-demonstrate-space-transportation-concepts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T204757">2022-10-17 20:47:57 UTC</a></sub>
 * [Firefly looking ahead after “To The Black” payloads reenter early](https://www.nasaspaceflight.com/2022/10/firefly-to-the-black-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T194216">2022-10-17 19:42:16 UTC</a></sub>
 * [SES to appeal Intelsat C-band sharing decision](https://spacenews.com/ses-to-appeal-intelsat-c-band-sharing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T171756">2022-10-17 17:17:56 UTC</a></sub>
 * [Satellite broadband players poised to compete for U.S. military customers](https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T161756">2022-10-17 16:17:56 UTC</a></sub>
 * [China considering mission to Ceres and large dark matter space telescope](https://spacenews.com/china-considering-mission-to-ceres-and-large-dark-matter-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T132756">2022-10-17 13:27:56 UTC</a></sub>
 * [NASA outlines case for making sole-source SLS award to Boeing-Northrop joint venture](https://spacenews.com/nasa-outlines-case-for-making-sole-source-sls-award-to-boeing-northrop-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T094800">2022-10-17 09:48:00 UTC</a></sub>
+* [CORRECTION: Apollo Astronaut James McDivitt Dies at Age 93](http://www.nasa.gov/press-release/correction-apollo-astronaut-james-mcdivitt-dies-at-age-93) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T002800">2022-10-17 00:28:00 UTC</a></sub>
 * [Starship set for full stack fueling test ahead of static fire campaign](https://www.nasaspaceflight.com/2022/10/starship-update-oct-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221016T170011">2022-10-16 17:00:11 UTC</a></sub>
 * [SpaceX launches European TV broadcasting satellite](https://spaceflightnow.com/2022/10/15/spacex-launches-european-tv-broadcasting-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T171752">2022-10-15 17:17:52 UTC</a></sub>
-* [Lucy completes its first Earth gravity assist after a year in space](https://www.nasaspaceflight.com/2022/10/lucy-first-earth-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T162758">2022-10-15 16:27:58 UTC</a></sub>
-* [DoD eyeing options to provide satcom in Ukraine as it continues talks with SpaceX](https://spacenews.com/dod-eyeing-options-to-provide-satcom-in-ukraine-as-it-continues-talks-with-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T023826">2022-10-15 02:38:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T234740">2022-10-17 23:47:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T010154">2022-10-18 01:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
