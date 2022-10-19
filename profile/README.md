@@ -610,8 +610,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA gives green light for space station spacewalks to resume](https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
+* [SpaceX slashes base price of smallsat rideshare program, adds “Plates”](https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T072819">2022-10-19 07:28:19 UTC</a></sub>
 * [SDA slide reveals Tranche 0 optical terminal manufacturers](https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
+* [NASA gives green light for space station spacewalks to resume](https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234755">2022-10-18 23:47:55 UTC</a></sub>
 * [Inmarsat sale clears Australia’s foreign investment watchdog](https://spacenews.com/inmarsat-sale-clears-australias-foreign-investment-watchdog/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T210755">2022-10-18 21:07:55 UTC</a></sub>
 * [Pentagon: It’s up to SpaceX to decide what to do about Starlink in Ukraine](https://spacenews.com/pentagon-its-up-to-spacex-to-decide-what-to-do-about-starlink-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T203756">2022-10-18 20:37:56 UTC</a></sub>
 * [Eutelsat fortifying jamming defenses over Middle East](https://spacenews.com/eutelsat-fortifying-jamming-defenses-over-middle-east/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T202756">2022-10-18 20:27:56 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s SpaceX Crew-4 to Discuss Mission After Returning to Earth](http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-to-discuss-mission-after-returning-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T191800">2022-10-18 19:18:00 UTC</a></sub>
 * [NASA: Charla en directo con el astronauta Frank Rubio desde el espacio](http://www.nasa.gov/press-release/nasa-charla-en-directo-con-el-astronauta-frank-rubio-desde-el-espacio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T185800">2022-10-18 18:58:00 UTC</a></sub>
 * [TESS returns from safe mode, the case of the missing exoplanet atmosphere](https://www.nasaspaceflight.com/2022/10/tess-safe-mode-incident/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T163532">2022-10-18 16:35:32 UTC</a></sub>
-* [Panasonic Avionics to bring OneWeb LEO broadband to planes](https://spacenews.com/panasonic-avionics-to-bring-oneweb-leo-broadband-to-planes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T144756">2022-10-18 14:47:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T065443">2022-10-19 06:54:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T073554">2022-10-19 07:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
