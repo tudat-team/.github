@@ -610,6 +610,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Participate in ASCEND Conference, Brief Media on Tech Demo](http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T203300">2022-10-20 20:33:00 UTC</a></sub>
+* [Video of Starlink terminal in Iran shared on Instagram](https://www.teslarati.com/video-starlink-terminal-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T202342">2022-10-20 20:23:42 UTC</a></sub>
 * [Space Force tries to turn over a new leaf in satellite procurement](https://spacenews.com/space-force-tries-to-turn-over-a-new-leaf-in-satellite-procurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T173321">2022-10-20 17:33:21 UTC</a></sub>
 * [Why NASA Is Trying To Crash Land on Mars](https://mars.nasa.gov/news/9283/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T171300">2022-10-20 17:13:00 UTC</a></sub>
 * [Another batch of Starlink satellites launch from Cape Canaveral](https://spaceflightnow.com/2022/10/20/falcon-9-starlink-4-36-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T161317">2022-10-20 16:13:17 UTC</a></sub>
@@ -618,8 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches the 3,500th Starlink satellite](https://www.nasaspaceflight.com/2022/10/spacex-3500-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T130356">2022-10-20 13:03:56 UTC</a></sub>
 * [Relativity Space expands engine test facilities at Stennis](https://spacenews.com/relativity-space-expands-engine-test-facilities-at-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T080317">2022-10-20 08:03:17 UTC</a></sub>
 * [Space Force briefing on military space race catches Jeff Bezos’ attention](https://spacenews.com/space-force-briefing-on-military-space-race-catches-jeff-bezos-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T224756">2022-10-19 22:47:56 UTC</a></sub>
-* [Starlink taking preorders for high-speed private jet broadband service](https://spacenews.com/starlink-taking-preorders-for-high-speed-private-jet-broadband-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T215756">2022-10-19 21:57:56 UTC</a></sub>
-* [UK defense committee calls for thorough Eutelsat/OneWeb review](https://spacenews.com/uk-defense-committee-calls-for-thorough-eutelsat-oneweb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T211755">2022-10-19 21:17:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T201140">2022-10-20 20:11:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T204538">2022-10-20 20:45:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
