@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity Space expands engine test facilities at Stennis](https://spacenews.com/relativity-space-expands-engine-test-facilities-at-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T080317">2022-10-20 08:03:17 UTC</a></sub>
 * [Space Force briefing on military space race catches Jeff Bezos’ attention](https://spacenews.com/space-force-briefing-on-military-space-race-catches-jeff-bezos-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T224756">2022-10-19 22:47:56 UTC</a></sub>
 * [Starlink taking preorders for high-speed private jet broadband service](https://spacenews.com/starlink-taking-preorders-for-high-speed-private-jet-broadband-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T215756">2022-10-19 21:57:56 UTC</a></sub>
 * [UK defense committee calls for thorough Eutelsat/OneWeb review](https://spacenews.com/uk-defense-committee-calls-for-thorough-eutelsat-oneweb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T211755">2022-10-19 21:17:55 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Curiosity Mars Rover Reaches Long-Awaited Salty Region](https://mars.nasa.gov/news/9281/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T160800">2022-10-19 16:08:00 UTC</a></sub>
 * [Canada to contribute satellite and instruments to NASA-led Earth science mission](https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T085755">2022-10-19 08:57:55 UTC</a></sub>
 * [SpaceX slashes base price of smallsat rideshare program, adds “Plates”](https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T072819">2022-10-19 07:28:19 UTC</a></sub>
-* [SpaceX ready for 30th Starlink launch of 2022](https://www.teslarati.com/spacex-30th-starlink-launch-2022-webcast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T065335">2022-10-19 06:53:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T081440">2022-10-20 08:14:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T085348">2022-10-20 08:53:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
