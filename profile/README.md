@@ -630,6 +630,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [New wonders to behold](https://www.planetary.org/the-downlink/new-wonders-to-behold) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T143409">2022-10-21 14:34:09 UTC</a></sub>
 * [The live space feeds you should be following right now](https://www.planetary.org/articles/live-space-feeds-you-should-follow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T140342">2022-10-20 14:03:42 UTC</a></sub>
 * [JPSS-2: Payloads stacked atop Atlas V for launch](https://blog.ulalaunch.com/blog/jpss-2-payloads-stacked-atop-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131357">2022-10-20 13:13:57 UTC</a></sub>
 * [Vulcan: SRBs delivered to power first launch](https://blog.ulalaunch.com/blog/vulcan-srbs-delivered-to-power-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T140826">2022-10-19 14:08:26 UTC</a></sub>
@@ -639,7 +640,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [JPSS-2: Atlas V to launch weather satellite and tech demonstration](https://blog.ulalaunch.com/blog/jpss-2-atlas-v-to-launch-weather-satellite-and-tech-demonstration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T141038">2022-10-13 14:10:38 UTC</a></sub>
 * [Rocket Lab’s private Venus mission](https://www.planetary.org/space-missions/rocket-lab-venus-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T140028">2022-10-13 14:00:28 UTC</a></sub>
 * [NASA says DART's asteroid impact was a huge success](https://www.planetary.org/articles/nasa-says-dart-impact-successful) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T183039">2022-10-11 18:30:39 UTC</a></sub>
-* [How JWST will reveal our Solar System beyond Neptune](https://www.planetary.org/articles/jwst-reveal-kuiper-belt-objects) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T140053">2022-10-11 14:00:53 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T142143">2022-10-21 14:21:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T145605">2022-10-21 14:56:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
