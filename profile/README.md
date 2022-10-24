@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to activate sensor on Wide-Field-of-View missile warning satellite](https://spacenews.com/space-force-to-activate-sensor-on-wide-field-of-view-missile-warning-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T202915">2022-10-24 20:29:15 UTC</a></sub>
 * [On eve of first launch, Relativity Space seeks to join SpaceX as “disruptor”](https://arstechnica.com/science/2022/10/on-eve-of-first-launch-relativity-space-seeks-to-join-spacex-as-disruptor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T185723">2022-10-24 18:57:23 UTC</a></sub>
 * [War in Ukraine shifts priorities among European government agencies](https://spacenews.com/war-in-ukraine-shifts-priorities-among-european-government-agencies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T181915">2022-10-24 18:19:15 UTC</a></sub>
 * [Maryland Students, Navy Pilots to Hear from NASA Astronauts in Space](http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T171900">2022-10-24 17:19:00 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX assembles Falcon Heavy rocket for first launch in 40 months](https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221023T053337">2022-10-23 05:33:37 UTC</a></sub>
 * [Report offers wide-ranging recommendations on space safety](https://spacenews.com/report-offers-wide-ranging-recommendations-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T224321">2022-10-22 22:43:21 UTC</a></sub>
 * [Soyuz rocket launches with demo satellite for Russian internet constellation](https://spaceflightnow.com/2022/10/22/soyuz-gonets-skif-d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T214317">2022-10-22 21:43:17 UTC</a></sub>
-* [OneWeb resumes launches with first commercial GSLV Mk.III](https://www.nasaspaceflight.com/2022/10/oneweb-gslv-mk-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T141551">2022-10-22 14:15:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T201157">2022-10-24 20:11:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T204556">2022-10-24 20:45:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
