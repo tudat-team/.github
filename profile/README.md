@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX assembles Falcon Heavy rocket for first launch in 40 months](https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221023T053337">2022-10-23 05:33:37 UTC</a></sub>
 * [Report offers wide-ranging recommendations on space safety](https://spacenews.com/report-offers-wide-ranging-recommendations-on-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T224321">2022-10-22 22:43:21 UTC</a></sub>
 * [Soyuz rocket launches with demo satellite for Russian internet constellation](https://spaceflightnow.com/2022/10/22/soyuz-gonets-skif-d/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T214317">2022-10-22 21:43:17 UTC</a></sub>
 * [OneWeb resumes launches with first commercial GSLV Mk.III](https://www.nasaspaceflight.com/2022/10/oneweb-gslv-mk-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T141551">2022-10-22 14:15:51 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Iridium sheds more light on direct-to-smartphone plan](https://spacenews.com/iridium-sheds-more-light-on-direct-to-smartphone-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211321">2022-10-21 21:13:21 UTC</a></sub>
 * [NASA to Host Briefing on InSight, Mars Reconnaissance Orbiter Findings](http://www.nasa.gov/press-release/nasa-to-host-briefing-on-insight-mars-reconnaissance-orbiter-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211300">2022-10-21 21:13:00 UTC</a></sub>
 * [NASA to Discuss Latest EMIT Findings, Helps Address Climate Change](http://www.nasa.gov/press-release/nasa-to-discuss-latest-emit-findings-helps-address-climate-change) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T203300">2022-10-21 20:33:00 UTC</a></sub>
-* [OneWeb launch sign of greater role for India in commercial launch market](https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T120321">2022-10-21 12:03:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T041011">2022-10-24 04:10:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T055749">2022-10-24 05:57:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
