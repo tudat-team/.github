@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Factory Augsburg talks reusability plans and 3D printing](https://www.nasaspaceflight.com/2022/10/rfa-reuse-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T164603">2022-10-24 16:46:03 UTC</a></sub>
 * [Apex raises seed round to mass produce smallsats](https://spacenews.com/apex-raises-seed-round-to-mass-produce-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T130916">2022-10-24 13:09:16 UTC</a></sub>
 * [Preligens aims to become a long-term DoD supplier](https://spacenews.com/preligens-expands-in-u-s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T110321">2022-10-24 11:03:21 UTC</a></sub>
 * [SpaceX assembles Falcon Heavy rocket for first launch in 40 months](https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221023T053337">2022-10-23 05:33:37 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch](http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T222300">2022-10-21 22:23:00 UTC</a></sub>
 * [NASA To Host Briefing on Insight, Mars Reconnaissance Orbiter Findings](https://mars.nasa.gov/news/9284/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T221300">2022-10-21 22:13:00 UTC</a></sub>
 * [Space Force to award up to $50 million in contracts for Space Test Program experiments](https://spacenews.com/space-force-to-award-up-to-50-million-in-contracts-for-space-test-program-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T212320">2022-10-21 21:23:20 UTC</a></sub>
-* [Iridium sheds more light on direct-to-smartphone plan](https://spacenews.com/iridium-sheds-more-light-on-direct-to-smartphone-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T211321">2022-10-21 21:13:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T161810">2022-10-24 16:18:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T170617">2022-10-24 17:06:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
