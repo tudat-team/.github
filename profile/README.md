@@ -610,6 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The ISS has had to maneuver yet again from Russian satellite debris](https://arstechnica.com/science/2022/10/nearly-a-year-after-anti-satellite-test-the-iss-is-still-dodging-russian-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T133336">2022-10-25 13:33:36 UTC</a></sub>
 * [Orbit Fab secures new investor to support satellite refueling efforts](https://spacenews.com/orbit-fab-secures-new-investor-to-support-satellite-refueling-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T130913">2022-10-25 13:09:13 UTC</a></sub>
 * [China’s spaceplane raises orbit and national funding](https://spacenews.com/chinas-spaceplane-raises-orbit-and-national-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T115916">2022-10-25 11:59:16 UTC</a></sub>
 * [Polaris Dawn crewed mission could suffer additional delays](https://spacenews.com/polaris-dawn-crewed-mission-could-suffer-additional-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T110917">2022-10-25 11:09:17 UTC</a></sub>
@@ -619,7 +620,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [On eve of first launch, Relativity Space seeks to join SpaceX as “disruptor”](https://arstechnica.com/science/2022/10/on-eve-of-first-launch-relativity-space-seeks-to-join-spacex-as-disruptor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T185723">2022-10-24 18:57:23 UTC</a></sub>
 * [War in Ukraine shifts priorities among European government agencies](https://spacenews.com/war-in-ukraine-shifts-priorities-among-european-government-agencies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T181915">2022-10-24 18:19:15 UTC</a></sub>
 * [Maryland Students, Navy Pilots to Hear from NASA Astronauts in Space](http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T171900">2022-10-24 17:19:00 UTC</a></sub>
-* [Rocket Factory Augsburg talks reusability plans and 3D printing](https://www.nasaspaceflight.com/2022/10/rfa-reuse-interview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T164603">2022-10-24 16:46:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -630,6 +630,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Your guide to water on Mars](https://www.planetary.org/articles/your-guide-to-water-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T140932">2022-10-25 14:09:32 UTC</a></sub>
 * [Europe in Space - Who should take responsibility for Ariane 6 delay?](https://www.getrevue.co/profile/andrewparsonson/issues/who-should-take-responsibility-for-ariane-6-delay-1412780) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T140944">2022-10-24 14:09:44 UTC</a></sub>
 * [New wonders to behold](https://www.planetary.org/the-downlink/new-wonders-to-behold) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T143409">2022-10-21 14:34:09 UTC</a></sub>
 * [The live space feeds you should be following right now](https://www.planetary.org/articles/live-space-feeds-you-should-follow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T140342">2022-10-20 14:03:42 UTC</a></sub>
@@ -639,7 +640,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Good omens](https://www.planetary.org/the-downlink/good-omens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T143209">2022-10-14 14:32:09 UTC</a></sub>
 * [Europe in Space - The mysterious beginnings of MaiaSpace](https://www.getrevue.co/profile/andrewparsonson/issues/the-mysterious-beginnings-of-maiaspace-1379481) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T085042">2022-10-14 08:50:42 UTC</a></sub>
 * [JPSS-2: Atlas V to launch weather satellite and tech demonstration](https://blog.ulalaunch.com/blog/jpss-2-atlas-v-to-launch-weather-satellite-and-tech-demonstration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T141038">2022-10-13 14:10:38 UTC</a></sub>
-* [Rocket Lab’s private Venus mission](https://www.planetary.org/space-missions/rocket-lab-venus-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T140028">2022-10-13 14:00:28 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T132917">2022-10-25 13:29:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T142206">2022-10-25 14:22:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
