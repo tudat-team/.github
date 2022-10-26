@@ -219,13 +219,6 @@ conda install -c tudat-team <package>
 </a>
 </td>
 </tr><tr>
-<td>linux_64_python3.7.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.7.____cpython"/>
-</a>
-</td>
-</tr><tr>
 <td>linux_64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
@@ -244,13 +237,6 @@ conda install -c tudat-team <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.10.____cpython"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_64_python3.7.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.7.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -293,13 +279,6 @@ conda install -c tudat-team <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.10.____cpython"/>
-</a>
-</td>
-</tr><tr>
-<td>win_64_python3.7.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.7.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -652,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T030859">2022-10-26 03:08:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T043223">2022-10-26 04:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
