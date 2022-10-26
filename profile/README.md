@@ -589,6 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX becomes NASA’s second-largest vendor, surpassing Boeing](https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T141012">2022-10-26 14:10:12 UTC</a></sub>
 * [ISS partners weigh options for using commercial space stations](https://spacenews.com/iss-partners-weigh-options-for-using-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T113941">2022-10-26 11:39:41 UTC</a></sub>
 * [Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’](https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T214913">2022-10-25 21:49:13 UTC</a></sub>
 * [Newly acquired NanoAvionics plots major smallsat expansion](https://spacenews.com/newly-acquired-nanoavionics-plots-major-smallsat-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T203919">2022-10-25 20:39:19 UTC</a></sub>
@@ -598,7 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Array Labs raises $5 million for 3D-imagery constellation](https://spacenews.com/introducing-array-labs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T175914">2022-10-25 17:59:14 UTC</a></sub>
 * [The ISS has had to maneuver yet again from Russian satellite debris](https://arstechnica.com/science/2022/10/nearly-a-year-after-anti-satellite-test-the-iss-is-still-dodging-russian-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T133336">2022-10-25 13:33:36 UTC</a></sub>
 * [Orbit Fab secures new investor to support satellite refueling efforts](https://spacenews.com/orbit-fab-secures-new-investor-to-support-satellite-refueling-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T130913">2022-10-25 13:09:13 UTC</a></sub>
-* [China’s spaceplane raises orbit and national funding](https://spacenews.com/chinas-spaceplane-raises-orbit-and-national-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T115916">2022-10-25 11:59:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T140502">2022-10-26 14:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T144327">2022-10-26 14:43:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
