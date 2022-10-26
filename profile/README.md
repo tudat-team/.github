@@ -610,13 +610,13 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Russian cargo ship set for launch on flight to space station](https://spaceflightnow.com/2022/10/25/soyuz-progress-ms-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T235909">2022-10-25 23:59:09 UTC</a></sub>
 * [Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’](https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T214913">2022-10-25 21:49:13 UTC</a></sub>
 * [Newly acquired NanoAvionics plots major smallsat expansion](https://spacenews.com/newly-acquired-nanoavionics-plots-major-smallsat-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T203919">2022-10-25 20:39:19 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 26th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T193900">2022-10-25 19:39:00 UTC</a></sub>
 * [Starlink’s survivability in war a good sign for DoD’s future constellation](https://spacenews.com/starlinks-survivability-in-war-a-good-sign-for-dods-future-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T184913">2022-10-25 18:49:13 UTC</a></sub>
 * [Progress MS-21 to launch to ISS on resupply mission](https://www.nasaspaceflight.com/2022/10/ms-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T183612">2022-10-25 18:36:12 UTC</a></sub>
 * [Array Labs raises $5 million for 3D-imagery constellation](https://spacenews.com/introducing-array-labs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T175914">2022-10-25 17:59:14 UTC</a></sub>
-* [Russian cargo ship arrives at launch pad for flight to space station](https://spaceflightnow.com/2022/10/25/soyuz-progress-ms-21-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T151909">2022-10-25 15:19:09 UTC</a></sub>
 * [The ISS has had to maneuver yet again from Russian satellite debris](https://arstechnica.com/science/2022/10/nearly-a-year-after-anti-satellite-test-the-iss-is-still-dodging-russian-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T133336">2022-10-25 13:33:36 UTC</a></sub>
 * [Orbit Fab secures new investor to support satellite refueling efforts](https://spacenews.com/orbit-fab-secures-new-investor-to-support-satellite-refueling-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T130913">2022-10-25 13:09:13 UTC</a></sub>
 * [China’s spaceplane raises orbit and national funding](https://spacenews.com/chinas-spaceplane-raises-orbit-and-national-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T115916">2022-10-25 11:59:16 UTC</a></sub>
@@ -652,7 +652,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T234248">2022-10-25 23:42:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T005332">2022-10-26 00:53:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
