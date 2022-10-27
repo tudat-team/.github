@@ -589,6 +589,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [As clock ticks on Amazon’s constellation, buying Starship launches not out of the question](https://spacenews.com/as-clock-ticks-on-amazons-constellation-buying-starship-launches-not-out-of-the-question/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T182914">2022-10-27 18:29:14 UTC</a></sub>
+* [NASA's InSight Lander Detects Stunning Meteoroid Impact on Mars](https://mars.nasa.gov/news/9289/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T180900">2022-10-27 18:09:00 UTC</a></sub>
 * [Falcon 9 set to launch Starlink Group 4-31 from Vandenberg](https://www.nasaspaceflight.com/2022/10/starlink-4-31/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T171546">2022-10-27 17:15:46 UTC</a></sub>
 * [Russia threatens a retaliatory strike against US commercial satellites](https://arstechnica.com/science/2022/10/russia-threatens-a-retaliatory-strike-against-us-commercial-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T155657">2022-10-27 15:56:57 UTC</a></sub>
 * [NASA’s Economic Benefit Reaches All 50 States](http://www.nasa.gov/press-release/nasa-s-economic-benefit-reaches-all-50-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T144900">2022-10-27 14:49:00 UTC</a></sub>
@@ -597,8 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Quantum Space announces first cislunar mission](https://spacenews.com/quantum-space-announces-first-cislunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150913">2022-10-26 15:09:13 UTC</a></sub>
 * [SpaceX becomes NASA’s second-largest vendor, surpassing Boeing](https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T141012">2022-10-26 14:10:12 UTC</a></sub>
 * [ISS partners weigh options for using commercial space stations](https://spacenews.com/iss-partners-weigh-options-for-using-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T113941">2022-10-26 11:39:41 UTC</a></sub>
-* [Boeing’s Starliner charges approach $900 million](https://spacenews.com/boeings-starliner-charges-approach-900-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T011913">2022-10-26 01:19:13 UTC</a></sub>
-* [Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’](https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T214913">2022-10-25 21:49:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -609,6 +609,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Digital Community Manager (6-month temporary position)](https://www.planetary.org/digital-community-manager-6-month-temporary-position) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T183933">2022-10-27 18:39:33 UTC</a></sub>
 * [LOFTID: Demonstrating technology for large inflatable heat shields](https://blog.ulalaunch.com/blog/loftid-demonstrating-technology-for-large-inflatable-heat-shields) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T135941">2022-10-27 13:59:41 UTC</a></sub>
 * [LOFTID: ULA former chief scientist instrumental in making mission a reality](https://blog.ulalaunch.com/blog/loftid-ula-former-chief-scientist-instrumental-in-making-mission-a-reality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T133942">2022-10-27 13:39:42 UTC</a></sub>
 * [Planetary Radio has a new host](https://www.planetary.org/articles/planetary-radio-has-a-new-host) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150028">2022-10-26 15:00:28 UTC</a></sub>
@@ -618,7 +619,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New wonders to behold](https://www.planetary.org/the-downlink/new-wonders-to-behold) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T143409">2022-10-21 14:34:09 UTC</a></sub>
 * [The live space feeds you should be following right now](https://www.planetary.org/articles/live-space-feeds-you-should-follow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T140342">2022-10-20 14:03:42 UTC</a></sub>
 * [JPSS-2: Payloads stacked atop Atlas V for launch](https://blog.ulalaunch.com/blog/jpss-2-payloads-stacked-atop-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131357">2022-10-20 13:13:57 UTC</a></sub>
-* [Vulcan: SRBs delivered to power first launch](https://blog.ulalaunch.com/blog/vulcan-srbs-delivered-to-power-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T140826">2022-10-19 14:08:26 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T181259">2022-10-27 18:12:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T184948">2022-10-27 18:49:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
