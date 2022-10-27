@@ -609,6 +609,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [LOFTID: Demonstrating technology for large inflatable heat shields](https://blog.ulalaunch.com/blog/loftid-demonstrating-technology-for-large-inflatable-heat-shields) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T135941">2022-10-27 13:59:41 UTC</a></sub>
+* [LOFTID: ULA former chief scientist instrumental in making mission a reality](https://blog.ulalaunch.com/blog/loftid-ula-former-chief-scientist-instrumental-in-making-mission-a-reality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T133942">2022-10-27 13:39:42 UTC</a></sub>
 * [Planetary Radio has a new host](https://www.planetary.org/articles/planetary-radio-has-a-new-host) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150028">2022-10-26 15:00:28 UTC</a></sub>
 * [Freelance Audio Editor (Contract)](https://www.planetary.org/freelance-audio-editor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T130931">2022-10-26 13:09:31 UTC</a></sub>
 * [Your guide to water on Mars](https://www.planetary.org/articles/your-guide-to-water-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T140932">2022-10-25 14:09:32 UTC</a></sub>
@@ -617,8 +619,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The live space feeds you should be following right now](https://www.planetary.org/articles/live-space-feeds-you-should-follow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T140342">2022-10-20 14:03:42 UTC</a></sub>
 * [JPSS-2: Payloads stacked atop Atlas V for launch](https://blog.ulalaunch.com/blog/jpss-2-payloads-stacked-atop-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T131357">2022-10-20 13:13:57 UTC</a></sub>
 * [Vulcan: SRBs delivered to power first launch](https://blog.ulalaunch.com/blog/vulcan-srbs-delivered-to-power-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T140826">2022-10-19 14:08:26 UTC</a></sub>
-* [Europe in Space - German launch startups are raising cash](https://www.getrevue.co/profile/andrewparsonson/issues/german-launch-startups-are-raising-cash-1402196) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T140825">2022-10-17 14:08:25 UTC</a></sub>
-* [Good omens](https://www.planetary.org/the-downlink/good-omens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T143209">2022-10-14 14:32:09 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T131427">2022-10-27 13:14:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T140518">2022-10-27 14:05:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
