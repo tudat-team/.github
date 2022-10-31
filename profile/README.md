@@ -589,7 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [China launches third space station module, but rocket will return uncontrollably](https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T135007">2022-10-31 13:50:07 UTC</a></sub>
+* [It’s time to play “find the falling Chinese rocket” once again](https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T135007">2022-10-31 13:50:07 UTC</a></sub>
 * [Australia joins ASAT test ban, raising like-minded countries to eight](https://spacenews.com/australia-joins-asat-test-ban-raising-like-minded-countries-to-eight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T132933">2022-10-31 13:29:33 UTC</a></sub>
 * [Perseverance to establish sample cache for later return to Earth](https://spacenews.com/perseverance-to-establish-sample-cache-for-later-return-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T111953">2022-10-31 11:19:53 UTC</a></sub>
 * [China tests engines for moon mission rocket](https://spacenews.com/china-tests-engines-for-moon-mission-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T103930">2022-10-31 10:39:30 UTC</a></sub>
@@ -609,6 +609,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Europe in Space - A detailed analysis of French launch startup Latitude](https://www.getrevue.co/profile/andrewparsonson/issues/a-detailed-analysis-of-french-launch-startup-latitude-1423796) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T141158">2022-10-31 14:11:58 UTC</a></sub>
 * [Best space pictures of the month: October 2022](https://www.planetary.org/articles/best-space-pictures-october-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140021">2022-10-31 14:00:21 UTC</a></sub>
 * [RocketStars: LOFTID // James Cusin](https://blog.ulalaunch.com/blog/rocketstars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T145101">2022-10-29 14:51:01 UTC</a></sub>
 * [Creepy Cosmos! Scary space! Petrifying planets!](https://www.planetary.org/the-downlink/creepy-cosmos-scary-space-petrifying-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T143930">2022-10-28 14:39:30 UTC</a></sub>
@@ -618,7 +619,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Planetary Radio has a new host](https://www.planetary.org/articles/planetary-radio-has-a-new-host) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T150028">2022-10-26 15:00:28 UTC</a></sub>
 * [Freelance Audio Editor (Contract)](https://www.planetary.org/freelance-audio-editor-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T130931">2022-10-26 13:09:31 UTC</a></sub>
 * [Your guide to water on Mars](https://www.planetary.org/articles/your-guide-to-water-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T140932">2022-10-25 14:09:32 UTC</a></sub>
-* [Europe in Space - Who should take responsibility for Ariane 6 delay?](https://www.getrevue.co/profile/andrewparsonson/issues/who-should-take-responsibility-for-ariane-6-delay-1412780) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T140944">2022-10-24 14:09:44 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140744">2022-10-31 14:07:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T144603">2022-10-31 14:46:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
