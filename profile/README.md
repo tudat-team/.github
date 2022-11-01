@@ -589,6 +589,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force funds experiment on use of AI to predict satellite failures](https://spacenews.com/space-force-funds-experiment-on-use-of-ai-to-predict-satellite-failures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161913">2022-11-01 16:19:13 UTC</a></sub>
+* [NASA Prepares to Say 'Farewell' to InSight Spacecraft](https://mars.nasa.gov/news/9292/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161900">2022-11-01 16:19:00 UTC</a></sub>
 * [SpaceX successfully launches its first Falcon Heavy in 40 months](https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T151404">2022-11-01 15:14:04 UTC</a></sub>
 * [SpaceX Falcon Heavy launches first U.S. national security mission](https://spacenews.com/spacex-falcon-heavy-launches-first-u-s-national-security-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T150913">2022-11-01 15:09:13 UTC</a></sub>
 * [Japanese lunar lander, with NASA rideshare, to launch this month](https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T114913">2022-11-01 11:49:13 UTC</a></sub>
@@ -597,8 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Falcon Heavy rocket rolls to pad for Tuesday launch, dual booster landing](https://www.teslarati.com/spacex-falcon-heavy-rocket-tuesday-launch-dual-booster-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T223933">2022-10-31 22:39:33 UTC</a></sub>
 * [Arianespace partners with Australian space tug startup](https://spacenews.com/arianespace-partners-with-australian-space-tug-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T221913">2022-10-31 22:19:13 UTC</a></sub>
 * [Falcon Heavy rocket on the launch pad for one of SpaceX’s most complex missions](https://spaceflightnow.com/2022/10/31/falcon-heavy-rocket-on-the-launch-pad-for-one-of-spacexs-most-complex-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T213910">2022-10-31 21:39:10 UTC</a></sub>
-* [NASA predicts first Starship orbital launch as soon as December](https://spacenews.com/nasa-predicts-first-starship-orbital-launch-as-soon-as-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T212914">2022-10-31 21:29:14 UTC</a></sub>
-* [Final module docks at China’s Tiangong space station](https://spacenews.com/final-module-docks-at-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T210913">2022-10-31 21:09:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161407">2022-11-01 16:14:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T165920">2022-11-01 16:59:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
