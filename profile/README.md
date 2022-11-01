@@ -591,7 +591,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [Japanese lunar lander, with NASA rideshare, to launch this month](https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T114913">2022-11-01 11:49:13 UTC</a></sub>
 * [New guidance from Space Force acquisition boss: ‘The traditional ways must be reformed’](https://spacenews.com/new-guidance-from-space-force-acquisition-boss-the-traditional-ways-must-be-reformed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T111913">2022-11-01 11:19:13 UTC</a></sub>
-* [SpaceX Falcon Heavy to loft USSF-44 on first flight in three years](https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T023425">2022-11-01 02:34:25 UTC</a></sub>
+* [SpaceX Falcon Heavy lofts USSF-44 on first flight in three years](https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T023425">2022-11-01 02:34:25 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket rolls to pad for Tuesday launch, dual booster landing](https://www.teslarati.com/spacex-falcon-heavy-rocket-tuesday-launch-dual-booster-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T223933">2022-10-31 22:39:33 UTC</a></sub>
 * [Arianespace partners with Australian space tug startup](https://spacenews.com/arianespace-partners-with-australian-space-tug-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T221913">2022-10-31 22:19:13 UTC</a></sub>
 * [Falcon Heavy rocket on the launch pad for one of SpaceX’s most complex missions](https://spaceflightnow.com/2022/10/31/falcon-heavy-rocket-on-the-launch-pad-for-one-of-spacexs-most-complex-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T213910">2022-10-31 21:39:10 UTC</a></sub>
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T140130">2022-11-01 14:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T144732">2022-11-01 14:47:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
