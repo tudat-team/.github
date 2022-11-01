@@ -589,6 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The close-up view of two Falcon rockets landing is as majestic as you think](https://arstechnica.com/science/2022/11/a-camera-next-to-the-falcon-landing-pads-captured-tuesdays-dramatic-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T205309">2022-11-01 20:53:09 UTC</a></sub>
 * [SpaceX’s Falcon Heavy rocket back in action after a three-year hiatus](https://www.teslarati.com/spacex-falcon-heavy-rocket-aces-geostationary-launch-dual-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T203933">2022-11-01 20:39:33 UTC</a></sub>
 * [Spire selected to design satellite for DARPA experiment in very low orbit](https://spacenews.com/spire-selected-to-design-satellite-for-darpa-experiment-in-very-low-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T194913">2022-11-01 19:49:13 UTC</a></sub>
 * [Wyvern raises $7 million for hyperspectral imaging constellation](https://spacenews.com/wyvern-raises-7-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T190913">2022-11-01 19:09:13 UTC</a></sub>
@@ -598,7 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX successfully launches its first Falcon Heavy in 40 months](https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T151404">2022-11-01 15:14:04 UTC</a></sub>
 * [SpaceX Falcon Heavy launches first U.S. national security mission](https://spacenews.com/spacex-falcon-heavy-launches-first-u-s-national-security-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T150913">2022-11-01 15:09:13 UTC</a></sub>
 * [Japanese lunar lander, with NASA rideshare, to launch this month](https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T114913">2022-11-01 11:49:13 UTC</a></sub>
-* [New guidance from Space Force acquisition boss: ‘The traditional ways must be reformed’](https://spacenews.com/new-guidance-from-space-force-acquisition-boss-the-traditional-ways-must-be-reformed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T111913">2022-11-01 11:19:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T210912">2022-11-01 21:09:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T213844">2022-11-01 21:38:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
