@@ -589,6 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s mystery spaceplane releases object into orbit](https://spacenews.com/chinas-mystery-spaceplane-releases-object-into-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132918">2022-11-02 13:29:18 UTC</a></sub>
 * [Amazon, Microsoft, SpiderOak join Defense Innovation Unit’s hybrid space network project](https://spacenews.com/amazon-microsoft-spikeroak-join-defense-innovation-units-hybrid-space-network-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T131914">2022-11-02 13:19:14 UTC</a></sub>
 * [Rocket Lab to attempt booster recovery on upcoming Electron launch](https://spacenews.com/rocket-lab-to-attempt-booster-recovery-on-upcoming-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T114914">2022-11-02 11:49:14 UTC</a></sub>
 * [Orbex to build Scottish launch site](https://spacenews.com/orbex-to-build-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T230913">2022-11-01 23:09:13 UTC</a></sub>
@@ -598,7 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spire selected to design satellite for DARPA experiment in very low orbit](https://spacenews.com/spire-selected-to-design-satellite-for-darpa-experiment-in-very-low-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T194913">2022-11-01 19:49:13 UTC</a></sub>
 * [Wyvern raises $7 million for hyperspectral imaging constellation](https://spacenews.com/wyvern-raises-7-million-for-hyperspectral-imaging-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T190913">2022-11-01 19:09:13 UTC</a></sub>
 * [Leidos selected by Northrop Grumman to supply sensor payloads for U.S. missile-tracking satellites](https://spacenews.com/leidos-selected-by-northrop-grumman-to-supply-sensor-payloads-for-u-s-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T171913">2022-11-01 17:19:13 UTC</a></sub>
-* [Space Force funds experiment on use of AI to predict satellite failures](https://spacenews.com/space-force-funds-experiment-on-use-of-ai-to-predict-satellite-failures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161913">2022-11-01 16:19:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132334">2022-11-02 13:23:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T140533">2022-11-02 14:05:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
