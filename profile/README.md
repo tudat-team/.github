@@ -589,7 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX to launch second Hotbird satellite for Eutelsat](https://www.nasaspaceflight.com/2022/11/hotbird-13g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T224922">2022-11-02 22:49:22 UTC</a></sub>
+* [SpaceX launches second Hotbird satellite for Eutelsat](https://www.nasaspaceflight.com/2022/11/hotbird-13g/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T054922">2022-11-03 05:49:22 UTC</a></sub>
 * [SpaceX teams in Florida prep for second launch in as many days](https://spaceflightnow.com/2022/11/02/spacex-teams-in-florida-prep-for-second-launch-in-as-many-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T220909">2022-11-02 22:09:09 UTC</a></sub>
 * [Virgin Galactic picks suppliers for future spaceplanes](https://spacenews.com/virgin-galactic-picks-suppliers-for-future-spaceplanes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T203913">2022-11-02 20:39:13 UTC</a></sub>
 * [Saltzman takes command as new chief of the U.S. Space Force](https://spacenews.com/saltzman-takes-command-as-new-chief-of-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T182913">2022-11-02 18:29:13 UTC</a></sub>
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T053953">2022-11-03 05:39:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T061220">2022-11-03 06:12:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
