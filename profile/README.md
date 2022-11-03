@@ -589,6 +589,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Artemis 1 moon rocket ready for ride back to launch pad](https://spaceflightnow.com/2022/11/03/nasas-artemis-1-moon-rocket-ready-for-ride-back-to-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T230909">2022-11-03 23:09:09 UTC</a></sub>
+* [SpaceX launches Hotbird 13G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T223912">2022-11-03 22:39:12 UTC</a></sub>
+* [NRO to sign deals with commercial providers of hyperspectral imaging](https://spacenews.com/nro-to-sign-deals-with-commercial-providers-of-hyperspectral-imaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T220913">2022-11-03 22:09:13 UTC</a></sub>
 * [Civilian space traffic management office coming along, but ‘don’t expect magic’](https://spacenews.com/civilian-space-traffic-management-office-coming-along-but-dont-expect-magic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T211913">2022-11-03 21:19:13 UTC</a></sub>
 * [First Starliner crewed flight further delayed](https://spacenews.com/first-starliner-crewed-flight-further-delayed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T203916">2022-11-03 20:39:16 UTC</a></sub>
 * [NASA to Discuss Psyche Independent Review Board Results](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-independent-review-board-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T194900">2022-11-03 19:49:00 UTC</a></sub>
@@ -596,9 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Provide Coverage of Preview Briefing, US Spacewalks](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-preview-briefing-us-spacewalks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T162900">2022-11-03 16:29:00 UTC</a></sub>
 * [FCC proposes new bureau for space activities](https://spacenews.com/fcc-proposes-new-bureau-for-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T150914">2022-11-03 15:09:14 UTC</a></sub>
 * [Rocket from Chinese space station module launch predicted to make uncontrolled reentry Nov. 4](https://spacenews.com/rocket-from-chinese-space-station-module-launch-predicted-to-uncontrolled-reentry-nov-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T134913">2022-11-03 13:49:13 UTC</a></sub>
-* [SpaceX launches Hotbird 3G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T132917">2022-11-03 13:29:17 UTC</a></sub>
-* [Falling Chinese rocket expected to enter Earth’s atmosphere in <2 days](https://arstechnica.com/science/2022/11/your-chance-of-dying-from-a-falling-chinese-rocket-less-than-1-in-a-trillion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T125121">2022-11-03 12:51:21 UTC</a></sub>
-* [Exotrail signs launch agreement with Isar Aerospace](https://spacenews.com/exotrail-signs-launch-agreement-with-isar-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T094914">2022-11-03 09:49:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T223607">2022-11-03 22:36:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T231028">2022-11-03 23:10:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
