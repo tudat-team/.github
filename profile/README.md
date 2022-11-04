@@ -589,7 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Catch Me If You Can: Rocket Lab to attempt mid-air recovery again](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
+* [Rocket Lab launches successfully, fails mid-air recovery attempt](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
 * [Virgin Galactic delays development of ship capable of higher flight rate](https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T135942">2022-11-04 13:59:42 UTC</a></sub>
 * [SLS returns to LC-39B for next Artemis I launch opportunity](https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T114910">2022-11-04 11:49:10 UTC</a></sub>
 * [Virgin Galactic delays introduction of second suborbital spaceship](https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T113918">2022-11-04 11:39:18 UTC</a></sub>
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T173944">2022-11-04 17:39:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T181120">2022-11-04 18:11:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
