@@ -589,6 +589,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab launches Swedish satellite, fails to catch booster](https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195913">2022-11-04 19:59:13 UTC</a></sub>
+* [As Psyche Mission Moves Forward, NASA Responds to Independent Review](http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195900">2022-11-04 19:59:00 UTC</a></sub>
 * [NASA Leaders to Participate in Annual Global Climate Conference](http://www.nasa.gov/press-release/nasa-leaders-to-participate-in-annual-global-climate-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T191900">2022-11-04 19:19:00 UTC</a></sub>
 * [NASA Sets Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T182900">2022-11-04 18:29:00 UTC</a></sub>
 * [Rocket Lab launches successfully, fails mid-air recovery attempt](https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T151619">2022-11-04 15:16:19 UTC</a></sub>
@@ -597,8 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic delays introduction of second suborbital spaceship](https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T113918">2022-11-04 11:39:18 UTC</a></sub>
 * [Long March 5B rocket reenters over Pacific Ocean after forcing airspace closures in Europe](https://spacenews.com/long-march-5b-stage-reenters-over-pacific-ocean-after-forcing-airspace-closures-in-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T110913">2022-11-04 11:09:13 UTC</a></sub>
 * [Rocket Report: SLS boosters may expire in December; Blue Origin delivers the BE-4s](https://arstechnica.com/science/2022/11/rocket-report-sls-boosters-may-expire-in-december-blue-origin-delivers-the-be-4s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T110031">2022-11-04 11:00:31 UTC</a></sub>
-* [SpaceX launches Hotbird 13G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T223912">2022-11-03 22:39:12 UTC</a></sub>
-* [NRO to sign deals with commercial providers of hyperspectral imaging](https://spacenews.com/nro-to-sign-deals-with-commercial-providers-of-hyperspectral-imaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T220913">2022-11-03 22:09:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T193300">2022-11-04 19:33:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T201013">2022-11-04 20:10:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
