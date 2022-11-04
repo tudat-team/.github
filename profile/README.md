@@ -589,7 +589,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA’s Artemis 1 moon rocket ready for ride back to launch pad](https://spaceflightnow.com/2022/11/03/nasas-artemis-1-moon-rocket-ready-for-ride-back-to-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T230909">2022-11-03 23:09:09 UTC</a></sub>
 * [SpaceX launches Hotbird 13G to extend Eutelsat’s broadcast coverage](https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T223912">2022-11-03 22:39:12 UTC</a></sub>
 * [NRO to sign deals with commercial providers of hyperspectral imaging](https://spacenews.com/nro-to-sign-deals-with-commercial-providers-of-hyperspectral-imaging/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T220913">2022-11-03 22:09:13 UTC</a></sub>
 * [Civilian space traffic management office coming along, but ‘don’t expect magic’](https://spacenews.com/civilian-space-traffic-management-office-coming-along-but-dont-expect-magic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T211913">2022-11-03 21:19:13 UTC</a></sub>
@@ -599,6 +598,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Provide Coverage of Preview Briefing, US Spacewalks](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-preview-briefing-us-spacewalks) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T162900">2022-11-03 16:29:00 UTC</a></sub>
 * [FCC proposes new bureau for space activities](https://spacenews.com/fcc-proposes-new-bureau-for-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T150914">2022-11-03 15:09:14 UTC</a></sub>
 * [Rocket from Chinese space station module launch predicted to make uncontrolled reentry Nov. 4](https://spacenews.com/rocket-from-chinese-space-station-module-launch-predicted-to-uncontrolled-reentry-nov-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T134913">2022-11-03 13:49:13 UTC</a></sub>
+* [Falling Chinese rocket expected to enter Earth’s atmosphere in <2 days](https://arstechnica.com/science/2022/11/your-chance-of-dying-from-a-falling-chinese-rocket-less-than-1-in-a-trillion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T125121">2022-11-03 12:51:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T050131">2022-11-04 05:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T054043">2022-11-04 05:40:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
