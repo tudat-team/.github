@@ -589,6 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force official: We need the Commerce Department’s space traffic office to be successful](https://spacenews.com/space-force-official-we-need-the-commerce-departments-space-traffic-office-to-be-successful/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T192915">2022-11-07 19:29:15 UTC</a></sub>
 * [NASA Administrator Names Glenn Research Center Director](http://www.nasa.gov/press-release/nasa-administrator-names-glenn-research-center-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T173900">2022-11-07 17:39:00 UTC</a></sub>
 * [Northrop Grumman’s ‘S.S. Sally Ride’ cargo ship launches on flight to space station](https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T115909">2022-11-07 11:59:09 UTC</a></sub>
 * [Antares launches Cygnus cargo mission to ISS](https://spacenews.com/antares-launches-cygnus-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T111914">2022-11-07 11:19:14 UTC</a></sub>
@@ -598,7 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [First Starliner crew flight slips to April 2023](https://spaceflightnow.com/2022/11/06/first-starliner-crew-flight-slips-to-april-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T121910">2022-11-06 12:19:10 UTC</a></sub>
 * [Space Force lays out timeline for 2023 rapid-response launch experiment](https://spacenews.com/space-force-lays-out-timeline-for-2023-rapid-response-launch-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T104913">2022-11-06 10:49:13 UTC</a></sub>
 * [SpaceX ships Starship’s 200th upgraded Raptor engine](https://www.teslarati.com/spacex-starship-200th-upgraded-raptor-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T020930">2022-11-06 02:09:30 UTC</a></sub>
-* [German team wins $5 million ANA Avatar XPrize in space-themed competition](https://spacenews.com/ana-avatar-xprize/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T231913">2022-11-05 23:19:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T190733">2022-11-07 19:07:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T193244">2022-11-07 19:32:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
