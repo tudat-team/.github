@@ -589,6 +589,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Maxar acquires another tech company as it pursues growth in gaming and media](https://spacenews.com/maxar-acquires-another-tech-company-as-it-pursues-growth-in-gaming-and-media/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T080915">2022-11-07 08:09:15 UTC</a></sub>
 * [Space Force lays out timeline for 2023 rapid-response launch experiment](https://spacenews.com/space-force-lays-out-timeline-for-2023-rapid-response-launch-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T104913">2022-11-06 10:49:13 UTC</a></sub>
 * [SpaceX ships Starship’s 200th upgraded Raptor engine](https://www.teslarati.com/spacex-starship-200th-upgraded-raptor-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T020930">2022-11-06 02:09:30 UTC</a></sub>
 * [German team wins $5 million ANA Avatar XPrize in space-themed competition](https://spacenews.com/ana-avatar-xprize/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T231913">2022-11-05 23:19:13 UTC</a></sub>
@@ -598,7 +599,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA, USAID Partnership Strengthens Global Development](http://www.nasa.gov/press-release/nasa-usaid-partnership-strengthens-global-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T203900">2022-11-04 20:39:00 UTC</a></sub>
 * [Rocket Lab launches Swedish satellite, fails to catch booster](https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195913">2022-11-04 19:59:13 UTC</a></sub>
 * [NASA’s Artemis 1 moon rocket back on pad 39B for nighttime launch attempt](https://spaceflightnow.com/2022/11/04/nasas-artemis-1-moon-rocket-back-on-pad-39b-for-nighttime-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195910">2022-11-04 19:59:10 UTC</a></sub>
-* [As Psyche Mission Moves Forward, NASA Responds to Independent Review](http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T195900">2022-11-04 19:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T073521">2022-11-07 07:35:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T081357">2022-11-07 08:13:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
