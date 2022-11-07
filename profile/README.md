@@ -589,16 +589,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [11 Starlink dishes spotted on a Norwegian Breakaway cruise](https://www.teslarati.com/11-starlink-dishes-norwegian-cruise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T205940">2022-11-07 20:59:40 UTC</a></sub>
+* [Intelsat orders small GEO satellite from 3D printing specialist](https://spacenews.com/intelsat-orders-small-geo-satellite-from-3d-printing-specialist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T203915">2022-11-07 20:39:15 UTC</a></sub>
+* [Cygnus cargo ship launches to space station, deploys one of two solar arrays](https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T202914">2022-11-07 20:29:14 UTC</a></sub>
+* [Subtropical Storm Nicole delays SpaceX launch; Artemis 1 rocket stays on pad](https://spaceflightnow.com/2022/11/07/subtropical-storm-nicole-delays-spacex-launch-artemis-1-moon-rocket-stays-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T201911">2022-11-07 20:19:11 UTC</a></sub>
 * [Inmarsat wins $410 million U.S. Army contract to connect tracking devices](https://spacenews.com/inmarsat-wins-410-million-u-s-army-contract-to-connect-tracking-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T195916">2022-11-07 19:59:16 UTC</a></sub>
 * [Space Force official: We need the Commerce Department’s space traffic office to be successful](https://spacenews.com/space-force-official-we-need-the-commerce-departments-space-traffic-office-to-be-successful/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T192915">2022-11-07 19:29:15 UTC</a></sub>
 * [NASA Administrator Names Glenn Research Center Director](http://www.nasa.gov/press-release/nasa-administrator-names-glenn-research-center-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T173900">2022-11-07 17:39:00 UTC</a></sub>
-* [Northrop Grumman’s ‘S.S. Sally Ride’ cargo ship launches on flight to space station](https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T115909">2022-11-07 11:59:09 UTC</a></sub>
 * [Antares launches Cygnus cargo mission to ISS](https://spacenews.com/antares-launches-cygnus-cargo-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T111914">2022-11-07 11:19:14 UTC</a></sub>
 * [Maxar acquires another tech company as it pursues growth in gaming and media](https://spacenews.com/maxar-acquires-another-tech-company-as-it-pursues-growth-in-gaming-and-media/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T080915">2022-11-07 08:09:15 UTC</a></sub>
 * [SS Sally Ride Cygnus launches to ISS on NG-18 mission](https://www.nasaspaceflight.com/2022/11/ng-18-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T074841">2022-11-07 07:48:41 UTC</a></sub>
-* [China launches high-power Ka-band communications satellite](https://spaceflightnow.com/2022/11/06/china-launches-high-power-ka-band-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T125909">2022-11-06 12:59:09 UTC</a></sub>
-* [First Starliner crew flight slips to April 2023](https://spaceflightnow.com/2022/11/06/first-starliner-crew-flight-slips-to-april-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T121910">2022-11-06 12:19:10 UTC</a></sub>
-* [Space Force lays out timeline for 2023 rapid-response launch experiment](https://spacenews.com/space-force-lays-out-timeline-for-2023-rapid-response-launch-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T104913">2022-11-06 10:49:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -631,7 +631,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T203916">2022-11-07 20:39:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T210927">2022-11-07 21:09:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
