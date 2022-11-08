@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cognitive Space gets $1.2 million  U.S. Air Force contract extension for satellite-tasking software](https://spacenews.com/cognitive-space-gets-1-2-million-u-s-air-force-contract-extension-for-satellite-tasking-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150914">2022-11-08 15:09:14 UTC</a></sub>
 * [NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida](https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T134420">2022-11-08 13:44:20 UTC</a></sub>
 * [Virgin Orbit says U.K launch licensing taking longer than expected](https://spacenews.com/virgin-orbit-says-u-k-launch-licensing-taking-longer-than-expected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T125912">2022-11-08 12:59:12 UTC</a></sub>
 * [Safran buys Syrlinks space-based radio frequency business](https://spacenews.com/safran-buys-syrlinks-space-based-radio-frequency-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T225913">2022-11-07 22:59:13 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Cygnus cargo ship launches to space station, deploys one of two solar arrays](https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T202914">2022-11-07 20:29:14 UTC</a></sub>
 * [Subtropical Storm Nicole delays SpaceX launch; Artemis 1 rocket stays on pad](https://spaceflightnow.com/2022/11/07/subtropical-storm-nicole-delays-spacex-launch-artemis-1-moon-rocket-stays-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T201911">2022-11-07 20:19:11 UTC</a></sub>
 * [Inmarsat wins $410 million U.S. Army contract to connect tracking devices](https://spacenews.com/inmarsat-wins-410-million-u-s-army-contract-to-connect-tracking-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T195916">2022-11-07 19:59:16 UTC</a></sub>
-* [Space Force official: We need the Commerce Department’s space traffic office to be successful](https://spacenews.com/space-force-official-we-need-the-commerce-departments-space-traffic-office-to-be-successful/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T192915">2022-11-07 19:29:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [VOICE: Will this Chinese candidate mission to Venus fly?](https://www.planetary.org/articles/voice-chinese-candidate-mission-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150928">2022-11-08 15:09:28 UTC</a></sub>
 * [Europe in Space - Mysterious beginnings of MaiaSpace: Part 2](https://www.getrevue.co/profile/andrewparsonson/issues/mysterious-beginnings-of-maiaspace-part-2-1434750) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T143017">2022-11-07 14:30:17 UTC</a></sub>
 * [A year in review and a reddish hue](https://www.planetary.org/the-downlink/a-year-in-review-and-a-reddish-hue) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T143932">2022-11-04 14:39:32 UTC</a></sub>
 * [Job opening: Director of Government Relations](https://www.planetary.org/careers/job-opening-director-of-government-relations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T160932">2022-11-03 16:09:32 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Creepy Cosmos! Scary space! Petrifying planets!](https://www.planetary.org/the-downlink/creepy-cosmos-scary-space-petrifying-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T143930">2022-10-28 14:39:30 UTC</a></sub>
 * [Digital Community Manager (6-month temporary position)](https://www.planetary.org/digital-community-manager-6-month-temporary-position) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T183933">2022-10-27 18:39:33 UTC</a></sub>
 * [LOFTID: Demonstrating technology for large inflatable heat shields](https://blog.ulalaunch.com/blog/loftid-demonstrating-technology-for-large-inflatable-heat-shields) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T135941">2022-10-27 13:59:41 UTC</a></sub>
-* [LOFTID: ULA former chief scientist instrumental in making mission a reality](https://blog.ulalaunch.com/blog/loftid-ula-former-chief-scientist-instrumental-in-making-mission-a-reality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T133942">2022-10-27 13:39:42 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150949">2022-11-08 15:09:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T154044">2022-11-08 15:40:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
