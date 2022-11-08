@@ -462,105 +462,84 @@ conda install -c tudat-team/label/dev <package>
 <td>linux_64_python3.10.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.10.____cpython"/>
-</a>
-</td>
-</tr><tr>
-<td>linux_64_python3.7.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.7.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>linux_64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.8.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.8.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>linux_64_python3.9.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_python3.9.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.9.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64_python3.10.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.10.____cpython"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_64_python3.7.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.7.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.8.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.8.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64_python3.9.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_python3.9.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.9.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_arm64_python3.10.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.10.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_arm64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.8.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.8.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_arm64_python3.9.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_python3.9.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.9.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64_python3.10.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.10.____cpython"/>
-</a>
-</td>
-</tr><tr>
-<td>win_64_python3.7.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.7.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win%20win_64_python3.10.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.8.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win%20win_64_python3.8.____cpython"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64_python3.9.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_python3.9.____cpython"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=master&amp;jobName=win&amp;configuration=win%20win_64_python3.9.____cpython"/>
 </a>
 </td>
 </tr>
@@ -568,7 +547,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.0.dev2</code></td>
+    <td><code>0.7.0.dev3</code></td>
   </tr>
 
 </table>
@@ -631,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T035430">2022-11-08 03:54:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T043449">2022-11-08 04:34:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
