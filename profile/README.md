@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida](https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T134420">2022-11-08 13:44:20 UTC</a></sub>
 * [Virgin Orbit says U.K launch licensing taking longer than expected](https://spacenews.com/virgin-orbit-says-u-k-launch-licensing-taking-longer-than-expected/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T125912">2022-11-08 12:59:12 UTC</a></sub>
 * [Safran buys Syrlinks space-based radio frequency business](https://spacenews.com/safran-buys-syrlinks-space-based-radio-frequency-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T225913">2022-11-07 22:59:13 UTC</a></sub>
 * [NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo](http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T224900">2022-11-07 22:49:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Subtropical Storm Nicole delays SpaceX launch; Artemis 1 rocket stays on pad](https://spaceflightnow.com/2022/11/07/subtropical-storm-nicole-delays-spacex-launch-artemis-1-moon-rocket-stays-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T201911">2022-11-07 20:19:11 UTC</a></sub>
 * [Inmarsat wins $410 million U.S. Army contract to connect tracking devices](https://spacenews.com/inmarsat-wins-410-million-u-s-army-contract-to-connect-tracking-devices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T195916">2022-11-07 19:59:16 UTC</a></sub>
 * [Space Force official: We need the Commerce Department’s space traffic office to be successful](https://spacenews.com/space-force-official-we-need-the-commerce-departments-space-traffic-office-to-be-successful/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T192915">2022-11-07 19:29:15 UTC</a></sub>
-* [NASA Administrator Names Glenn Research Center Director](http://www.nasa.gov/press-release/nasa-administrator-names-glenn-research-center-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T173900">2022-11-07 17:39:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T131033">2022-11-08 13:10:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T135745">2022-11-08 13:57:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
