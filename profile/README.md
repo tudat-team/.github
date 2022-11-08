@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Canopy Aerospace to supply thermal protection for spacecraft and hypersonics](https://spacenews.com/introducing-canopy-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T195913">2022-11-08 19:59:13 UTC</a></sub>
 * [RFA reveals second stage and updates test path to 2023 launch](https://www.nasaspaceflight.com/2022/11/rfa-second-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T173151">2022-11-08 17:31:51 UTC</a></sub>
 * [Cognitive Space gets $1.2 million  U.S. Air Force contract extension for satellite-tasking software](https://spacenews.com/cognitive-space-gets-1-2-million-u-s-air-force-contract-extension-for-satellite-tasking-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T150914">2022-11-08 15:09:14 UTC</a></sub>
 * [NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida](https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T134420">2022-11-08 13:44:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [11 Starlink dishes spotted on a Norwegian Breakaway cruise](https://www.teslarati.com/11-starlink-dishes-norwegian-cruise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T205940">2022-11-07 20:59:40 UTC</a></sub>
 * [Intelsat orders small GEO satellite from 3D printing specialist](https://spacenews.com/intelsat-orders-small-geo-satellite-from-3d-printing-specialist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T203915">2022-11-07 20:39:15 UTC</a></sub>
 * [Cygnus cargo ship launches to space station, deploys one of two solar arrays](https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T202914">2022-11-07 20:29:14 UTC</a></sub>
-* [Subtropical Storm Nicole delays SpaceX launch; Artemis 1 rocket stays on pad](https://spaceflightnow.com/2022/11/07/subtropical-storm-nicole-delays-spacex-launch-artemis-1-moon-rocket-stays-on-launch-pad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T201911">2022-11-07 20:19:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T193928">2022-11-08 19:39:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T201144">2022-11-08 20:11:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
