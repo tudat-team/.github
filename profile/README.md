@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [HawkEye 360 delivers satellites for Rocket Lab’s first launch from U.S. soil](https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T211913">2022-11-09 21:19:13 UTC</a></sub>
 * [NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm](https://mars.nasa.gov/news/9299/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T205900">2022-11-09 20:59:00 UTC</a></sub>
 * [Atlas launch to test inflatable heat shield](https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T203913">2022-11-09 20:39:13 UTC</a></sub>
 * [China ditches expendable rocket plan for its Moon program](https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T191658">2022-11-09 19:16:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Cygnus cargo ship arrive at space station after solar array trouble](https://spaceflightnow.com/2022/11/09/cygnus-cargo-ship-arrive-at-space-station-after-solar-array-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T113909">2022-11-09 11:39:09 UTC</a></sub>
 * [Telesat buys in-orbit satellite to help cover Anik F2 shortfall](https://spacenews.com/telesat-buys-in-orbit-satellite-to-help-cover-anik-f2-shortfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T204915">2022-11-08 20:49:15 UTC</a></sub>
 * [DARPA’s robot could start servicing satellites in 2025](https://spacenews.com/darpas-robot-could-start-servicing-satellites-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T201914">2022-11-08 20:19:14 UTC</a></sub>
-* [Canopy Aerospace to supply thermal protection for spacecraft and hypersonics](https://spacenews.com/introducing-canopy-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T195913">2022-11-08 19:59:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T213809">2022-11-09 21:38:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T220906">2022-11-09 22:09:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
