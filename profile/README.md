@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency still hoping to launch satellites next month, ‘but there’s risk’](https://spacenews.com/space-development-agency-still-hoping-to-launch-satellites-next-month-but-theres-risk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T220914">2022-11-10 22:09:14 UTC</a></sub>
+* [Apple lays the groundwork for emergency SOS via satellite service](https://spacenews.com/apple-lays-the-groundwork-for-emergency-sos-via-satellite-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T212913">2022-11-10 21:29:13 UTC</a></sub>
+* [Starlink launches donation website](https://www.teslarati.com/starlink-donation-website/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T211931">2022-11-10 21:19:31 UTC</a></sub>
 * [Pioneering Astronaut Bob Behnken Retires from NASA](http://www.nasa.gov/press-release/pioneering-astronaut-bob-behnken-retires-from-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T204900">2022-11-10 20:49:00 UTC</a></sub>
 * [NASA to Brief Media on First Earth Water-Monitoring Satellite Mission](http://www.nasa.gov/press-release/nasa-to-brief-media-on-first-earth-water-monitoring-satellite-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T195900">2022-11-10 19:59:00 UTC</a></sub>
 * [Antenna developer NXT Comm’s assets up for sale](https://spacenews.com/antenna-developer-nxt-comms-assets-up-for-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T160913">2022-11-10 16:09:13 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to continue Lunar Trailblazer despite cost overrun](https://spacenews.com/nasa-to-continue-lunar-trailblazer-despite-cost-overrun/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T130913">2022-11-10 13:09:13 UTC</a></sub>
 * [Atlas 5 launches weather satellite, reentry tech demo mission](https://spacenews.com/atlas-5-launches-weather-satellite-reentry-tech-demo-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T113913">2022-11-10 11:39:13 UTC</a></sub>
 * [Atlas rocket bids farewell to California as ULA readies for Vulcan](https://www.nasaspaceflight.com/2022/11/jpss-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T002949">2022-11-10 00:29:49 UTC</a></sub>
-* [Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites](https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
-* [HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil](https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T222913">2022-11-09 22:29:13 UTC</a></sub>
-* [NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm](https://mars.nasa.gov/news/9299/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T205900">2022-11-09 20:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T213653">2022-11-10 21:36:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T220926">2022-11-10 22:09:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
