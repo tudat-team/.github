@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA says its SLS rocket is good to go for a launch attempt next Wednesday](https://arstechnica.com/science/2022/11/nasa-says-its-sls-rocket-is-good-to-go-for-a-launch-attempt-next-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T222828">2022-11-11 22:28:28 UTC</a></sub>
+* [Starfish books launch for in-orbit satellite docking mission next fall](https://spacenews.com/starfish-books-launch-for-in-orbit-satellite-docking-mission-next-fall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T221658">2022-11-11 22:16:58 UTC</a></sub>
 * [Space Force orders new weather satellite from Ball Aerospace](https://spacenews.com/space-force-orders-new-weather-satellite-from-ball-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T210657">2022-11-11 21:06:57 UTC</a></sub>
 * [SES, Hughes demonstrate satellite internet on General Atomics surveillance drone](https://spacenews.com/ses-hughes-demonstrate-satellite-internet-on-general-atomics-surveillance-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T172659">2022-11-11 17:26:59 UTC</a></sub>
 * [NASA to Brief Status of Artemis I Moon Mission Today](http://www.nasa.gov/press-release/nasa-to-brief-status-of-artemis-i-moon-mission-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T165700">2022-11-11 16:57:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China wants to ramp up the launch rate of its Long March 5B rocket](https://spacenews.com/china-wants-to-ramp-up-the-launch-rate-of-its-long-march-5b-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T124657">2022-11-11 12:46:57 UTC</a></sub>
 * [NASA investigating “very minor” Artemis hurricane damage](https://spacenews.com/nasa-investigating-very-minor-artemis-hurricane-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T121700">2022-11-11 12:17:00 UTC</a></sub>
 * [Rocket Report: Indian commercial rocket has launch date; Branson must face lawsuit](https://arstechnica.com/science/2022/11/rocket-report-indian-commercial-rocket-has-launch-date-branson-must-face-lawsuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T120041">2022-11-11 12:00:41 UTC</a></sub>
-* [Advanced Space wins $72 million Air Force contract for lunar experiment](https://spacenews.com/advanced-space-wins-72-million-air-force-contract-for-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T224915">2022-11-10 22:49:15 UTC</a></sub>
-* [Space Development Agency still hoping to launch satellites next month, ‘but there’s risk’](https://spacenews.com/space-development-agency-still-hoping-to-launch-satellites-next-month-but-theres-risk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T220914">2022-11-10 22:09:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T220852">2022-11-11 22:08:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T223922">2022-11-11 22:39:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
