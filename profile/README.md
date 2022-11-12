@@ -416,28 +416,28 @@ conda install -c tudat-team/label/dev <package>
 <td>linux_64</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux_64_"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_64_"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_arm64</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx_arm64_"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=master">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=win&amp;configuration=win_64_"/>
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&amp;jobName=win&amp;configuration=win%20win_64_"/>
 </a>
 </td>
 </tr>
@@ -445,7 +445,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.11.0.dev2</code></td>
+    <td><code>2.11.0.dev3</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -547,7 +547,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.0.dev3</code></td>
+    <td><code>0.7.0.dev4</code></td>
   </tr>
 
 </table>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T034813">2022-11-12 03:48:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T042046">2022-11-12 04:20:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
