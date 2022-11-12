@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Falcon 9 B1051 to make final flight on Galaxy-31 & 32 mission](https://www.nasaspaceflight.com/2022/11/galaxy-31-32/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T140452">2022-11-12 14:04:52 UTC</a></sub>
+* [Falcon 9 B1051 makes final flight on Galaxy-31 & 32 mission](https://www.nasaspaceflight.com/2022/11/galaxy-31-32/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T140452">2022-11-12 14:04:52 UTC</a></sub>
 * [NASA moving ahead with Nov. 16 Artemis 1 launch attempt](https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T230658">2022-11-11 23:06:58 UTC</a></sub>
 * [NASA Sets New Coverage for Artemis I Moon Mission Launch](http://www.nasa.gov/press-release/nasa-sets-new-coverage-for-artemis-i-moon-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T224700">2022-11-11 22:47:00 UTC</a></sub>
 * [NASA says its SLS rocket is good to go for a launch attempt next Wednesday](https://arstechnica.com/science/2022/11/nasa-says-its-sls-rocket-is-good-to-go-for-a-launch-attempt-next-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T222828">2022-11-11 22:28:28 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T161125">2022-11-12 16:11:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T165021">2022-11-12 16:50:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
