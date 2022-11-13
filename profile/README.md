@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA seeks funding for navigation technology programs at ministerial](https://spacenews.com/esa-seeks-funding-for-navigation-technology-programs-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T231658">2022-11-12 23:16:58 UTC</a></sub>
 * [X-37B space plane completes its sixth mission, lands after nearly 30 months in orbit](https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T194658">2022-11-12 19:46:58 UTC</a></sub>
 * [SpaceX launches Falcon 9 booster into retirement on Intelsat mission](https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T173654">2022-11-12 17:36:54 UTC</a></sub>
 * [Falcon 9 B1051 makes final flight on Galaxy-31 & 32 mission](https://www.nasaspaceflight.com/2022/11/galaxy-31-32/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T140452">2022-11-12 14:04:52 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starfish books launch for in-orbit satellite docking mission next fall](https://spacenews.com/starfish-books-launch-for-in-orbit-satellite-docking-mission-next-fall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T221658">2022-11-11 22:16:58 UTC</a></sub>
 * [Space Force orders new weather satellite from Ball Aerospace](https://spacenews.com/space-force-orders-new-weather-satellite-from-ball-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T210657">2022-11-11 21:06:57 UTC</a></sub>
 * [SES, Hughes demonstrate satellite internet on General Atomics surveillance drone](https://spacenews.com/ses-hughes-demonstrate-satellite-internet-on-general-atomics-surveillance-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T172659">2022-11-11 17:26:59 UTC</a></sub>
-* [NASA to Brief Status of Artemis I Moon Mission Today](http://www.nasa.gov/press-release/nasa-to-brief-status-of-artemis-i-moon-mission-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T165700">2022-11-11 16:57:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T233813">2022-11-12 23:38:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T004638">2022-11-13 00:46:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
