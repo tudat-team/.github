@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches a pair of Intelsat satellites on expendable Falcon 9](https://spacenews.com/spacex-launches-a-pair-of-intelsat-satellites-on-expendable-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T192658">2022-11-14 19:26:58 UTC</a></sub>
 * [Booster 7 resumes static fire testing as SpaceX ramps up Starship production](https://www.nasaspaceflight.com/2022/11/b7-resumes-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T175149">2022-11-14 17:51:49 UTC</a></sub>
 * [The first cubesat to fly and operate at the Moon has successfully arrived](https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T164223">2022-11-14 16:42:23 UTC</a></sub>
 * [The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III](https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T120049">2022-11-14 12:00:49 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX expends Falcon 9 booster for the first time in almost three years](https://www.teslarati.com/spacex-expends-first-falcon-9-booster-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T073717">2022-11-13 07:37:17 UTC</a></sub>
 * [Engineers assessing hurricane-damaged insulation before Artemis launch Wednesday](https://spaceflightnow.com/2022/11/13/engineers-assessing-hurricane-damaged-insulation-before-artemis-1-launch-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T073654">2022-11-13 07:36:54 UTC</a></sub>
 * [ESA seeks funding for navigation technology programs at ministerial](https://spacenews.com/esa-seeks-funding-for-navigation-technology-programs-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T231658">2022-11-12 23:16:58 UTC</a></sub>
-* [X-37B space plane completes its sixth mission, lands after nearly 30 months in orbit](https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T194658">2022-11-12 19:46:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T190725">2022-11-14 19:07:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T193254">2022-11-14 19:32:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
