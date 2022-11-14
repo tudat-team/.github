@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The first cubesat to fly and operate at the Moon has successfully arrived](https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T164223">2022-11-14 16:42:23 UTC</a></sub>
 * [The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III](https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T120049">2022-11-14 12:00:49 UTC</a></sub>
 * [CAPSTONE enters lunar orbit](https://spacenews.com/capstone-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T104659">2022-11-14 10:46:59 UTC</a></sub>
 * [Delayed NASA Venus mission looks for a reprieve](https://spacenews.com/delayed-nasa-venus-mission-looks-for-a-reprieve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T140658">2022-11-13 14:06:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [X-37B space plane completes its sixth mission, lands after nearly 30 months in orbit](https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T194658">2022-11-12 19:46:58 UTC</a></sub>
 * [SpaceX launches Falcon 9 booster into retirement on Intelsat mission](https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T173654">2022-11-12 17:36:54 UTC</a></sub>
 * [Falcon 9 B1051 makes final flight on Galaxy-31 & 32 mission](https://www.nasaspaceflight.com/2022/11/galaxy-31-32/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T140452">2022-11-12 14:04:52 UTC</a></sub>
-* [NASA moving ahead with Nov. 16 Artemis 1 launch attempt](https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T230658">2022-11-11 23:06:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T161233">2022-11-14 16:12:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T165858">2022-11-14 16:58:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
