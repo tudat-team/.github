@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contracts for Acquisition of Liquid Hydrogen](http://www.nasa.gov/press-release/nasa-awards-contracts-for-acquisition-of-liquid-hydrogen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T211700">2022-11-14 21:17:00 UTC</a></sub>
 * [SpaceX launches a pair of Intelsat satellites on expendable Falcon 9](https://spacenews.com/spacex-launches-a-pair-of-intelsat-satellites-on-expendable-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T192658">2022-11-14 19:26:58 UTC</a></sub>
 * [Booster 7 resumes static fire testing as SpaceX ramps up Starship production](https://www.nasaspaceflight.com/2022/11/b7-resumes-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T175149">2022-11-14 17:51:49 UTC</a></sub>
 * [The first cubesat to fly and operate at the Moon has successfully arrived](https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T164223">2022-11-14 16:42:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Delayed NASA Venus mission looks for a reprieve](https://spacenews.com/delayed-nasa-venus-mission-looks-for-a-reprieve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T140658">2022-11-13 14:06:58 UTC</a></sub>
 * [SpaceX expends Falcon 9 booster for the first time in almost three years](https://www.teslarati.com/spacex-expends-first-falcon-9-booster-three-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T073717">2022-11-13 07:37:17 UTC</a></sub>
 * [Engineers assessing hurricane-damaged insulation before Artemis launch Wednesday](https://spaceflightnow.com/2022/11/13/engineers-assessing-hurricane-damaged-insulation-before-artemis-1-launch-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T073654">2022-11-13 07:36:54 UTC</a></sub>
-* [ESA seeks funding for navigation technology programs at ministerial](https://spacenews.com/esa-seeks-funding-for-navigation-technology-programs-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T231658">2022-11-12 23:16:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T213657">2022-11-14 21:36:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T221121">2022-11-14 22:11:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
