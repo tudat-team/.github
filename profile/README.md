@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards SpaceX Second Contract Option for Artemis Moon Landing](http://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T224700">2022-11-15 22:47:00 UTC</a></sub>
+* [Experts Available to Discuss NASA Webb Telescope Science Results](http://www.nasa.gov/press-release/experts-available-to-discuss-nasa-webb-telescope-science-results) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T221700">2022-11-15 22:17:00 UTC</a></sub>
 * [NASA to Share First Results of Inflatable Heat Shield Technology Test](http://www.nasa.gov/press-release/nasa-to-share-first-results-of-inflatable-heat-shield-technology-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T215700">2022-11-15 21:57:00 UTC</a></sub>
 * [MyRadar expands wildfire detection with NOAA funding](https://spacenews.com/myradar-noaa-grant/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T201720">2022-11-15 20:17:20 UTC</a></sub>
 * [NGA to increase spending on commercial Earth monitoring services](https://spacenews.com/nga-to-increase-spending-on-commercial-earth-monitoring-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T200723">2022-11-15 20:07:23 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Europe seeks greater autonomy and independence in space](https://spacenews.com/europe-seeks-greater-autonomy-and-independence-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T191719">2022-11-15 19:17:19 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T182800">2022-11-15 18:28:00 UTC</a></sub>
 * [Boeing’s anti-jam satellite communications payload on track for 2024 launch](https://spacenews.com/boeings-anti-jam-satellite-communications-payload-on-track-for-2024-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165724">2022-11-15 16:57:24 UTC</a></sub>
-* [Eutelsat’s board approves OneWeb merger](https://spacenews.com/eutelsats-board-approves-oneweb-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T152728">2022-11-15 15:27:28 UTC</a></sub>
-* [South Korea’s Danuri orbiter demonstrates ‘space internet’ en route to moon](https://spacenews.com/south-koreas-danuri-orbiter-demonstrates-space-internet-en-route-to-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T141716">2022-11-15 14:17:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T223646">2022-11-15 22:36:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T230843">2022-11-15 23:08:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
