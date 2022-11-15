@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Benchmark expands staff and facilities to meet demand](https://spacenews.com/benchmark-2022-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
+* [Kayhan and Morpheus offer “one-click” collision avoidance](https://spacenews.com/morpheus-kayhan-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T080719">2022-11-15 08:07:19 UTC</a></sub>
 * [NASA continues with Artemis 1 launch attempt after evaluating hurricane damage](https://spacenews.com/nasa-continues-with-artemis-1-launch-attempt-after-evaluating-hurricane-damage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T072716">2022-11-15 07:27:16 UTC</a></sub>
 * [ClearSpace announces life extension collaboration with Intelsat](https://spacenews.com/clearspace-announces-life-extension-collaboration-with-intelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T235659">2022-11-14 23:56:59 UTC</a></sub>
 * [Terran Orbital sees staff departures as it turns focus to military satellites](https://spacenews.com/terran-orbital-sees-staff-departures-as-it-turns-focus-to-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T232659">2022-11-14 23:26:59 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Contracts for Acquisition of Liquid Hydrogen](http://www.nasa.gov/press-release/nasa-awards-contracts-for-acquisition-of-liquid-hydrogen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T211700">2022-11-14 21:17:00 UTC</a></sub>
 * [SpaceX launches a pair of Intelsat satellites on expendable Falcon 9](https://spacenews.com/spacex-launches-a-pair-of-intelsat-satellites-on-expendable-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T192658">2022-11-14 19:26:58 UTC</a></sub>
 * [Booster 7 resumes static fire testing as SpaceX ramps up Starship production](https://www.nasaspaceflight.com/2022/11/b7-resumes-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T175149">2022-11-14 17:51:49 UTC</a></sub>
-* [The first cubesat to fly and operate at the Moon has successfully arrived](https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T164223">2022-11-14 16:42:23 UTC</a></sub>
-* [The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III](https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T120049">2022-11-14 12:00:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T073534">2022-11-15 07:35:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T081207">2022-11-15 08:12:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
