@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Conspiracy theorists flood FCC with complaints about Elon Musk & Starlink](https://www.teslarati.com/conspiracy-theorist-fcc-complaints-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T205817">2022-11-17 20:58:17 UTC</a></sub>
+* [Boeing reorganizes defense unit, Kay Sears to lead space and launch business](https://spacenews.com/boeing-reorganizes-defense-unit-kay-sears-to-lead-space-and-launch-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T202708">2022-11-17 20:27:08 UTC</a></sub>
 * [NASA's Perseverance Rover Investigates Intriguing Martian Bedrock](https://mars.nasa.gov/news/9304/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T185700">2022-11-17 18:57:00 UTC</a></sub>
 * [Precious Payload partners with Arkisys, Rocket Factory Augsburg to market payload slots and launches](https://spacenews.com/precious-payload-partners-with-arkisys-rocket-factory-augsburg-to-market-payload-slots-and-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T175717">2022-11-17 17:57:17 UTC</a></sub>
 * [Azure Orbital Space unveils software tools for space applications](https://spacenews.com/azure-orbital-software-development-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T140720">2022-11-17 14:07:20 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spire Global reveals larger, new-gen 16U satellite bus](https://spacenews.com/spire-global-reveals-larger-new-gen-16u-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T212724">2022-11-16 21:27:24 UTC</a></sub>
 * [Apple bringing SOS via satellite services to Europe in December](https://spacenews.com/apple-bringing-sos-via-satellite-services-to-europe-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T202714">2022-11-16 20:27:14 UTC</a></sub>
 * [On the NRO’s wish list: AI technologies to manage satellites and data](https://spacenews.com/on-the-nros-wish-list-ai-technologies-to-manage-satellites-and-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T195724">2022-11-16 19:57:24 UTC</a></sub>
-* [SpaceRyde announces multiple launches with ISILaunch](https://spacenews.com/spaceryde-and-isilaunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T190712">2022-11-16 19:07:12 UTC</a></sub>
-* [Rocket Factory Augsburg signs deal to test engines at DLR premises](https://spacenews.com/rocket-factory-augsburg-signs-deal-to-test-engines-at-dlr-premises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T170723">2022-11-16 17:07:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T203629">2022-11-17 20:36:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T210805">2022-11-17 21:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
