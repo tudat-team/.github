@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Precious Payload partners with Arkisys, Rocket Factory Augsburg to market payload slots and launches](https://spacenews.com/precious-payload-partners-with-arkisys-rocket-factory-augsburg-to-market-payload-slots-and-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T175717">2022-11-17 17:57:17 UTC</a></sub>
 * [Azure Orbital Space unveils software tools for space applications](https://spacenews.com/azure-orbital-software-development-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T140720">2022-11-17 14:07:20 UTC</a></sub>
 * [Spaceport Cornwall receives first U.K. spaceport license](https://spacenews.com/spaceport-cornwall-receives-first-u-k-spaceport-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T130713">2022-11-17 13:07:13 UTC</a></sub>
 * [Artemis I releases 10 cubesats, including a Moon lander, for technology and research](https://www.nasaspaceflight.com/2022/11/artemis-i-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T220500">2022-11-16 22:05:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceRyde announces multiple launches with ISILaunch](https://spacenews.com/spaceryde-and-isilaunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T190712">2022-11-16 19:07:12 UTC</a></sub>
 * [Rocket Factory Augsburg signs deal to test engines at DLR premises](https://spacenews.com/rocket-factory-augsburg-signs-deal-to-test-engines-at-dlr-premises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T170723">2022-11-16 17:07:23 UTC</a></sub>
 * [Companies have diverging views on the future of European launch](https://spacenews.com/companies-have-diverging-views-on-the-future-of-european-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T145719">2022-11-16 14:57:19 UTC</a></sub>
-* [Liftoff! NASA’s Artemis I Mega Rocket Launches Orion to Moon](http://www.nasa.gov/press-release/liftoff-nasa-s-artemis-i-mega-rocket-launches-orion-to-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T093700">2022-11-16 09:37:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T173717">2022-11-17 17:37:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T181033">2022-11-17 18:10:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
