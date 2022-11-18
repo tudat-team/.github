@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japan agrees to space station extension and Gateway contributions](https://spacenews.com/japan-agrees-to-space-station-extension-and-gateway-contributions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T123715">2022-11-18 12:37:15 UTC</a></sub>
 * [Rocket Report: Long March 6A breaks apart after launch; SLS soars in debut](https://arstechnica.com/science/2022/11/rocket-report-long-march-6a-breaks-apart-after-launch-sls-soars-in-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T120015">2022-11-18 12:00:15 UTC</a></sub>
 * [NASA calls test of inflatable heat shield a success](https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T095732">2022-11-18 09:57:32 UTC</a></sub>
 * [Skyrora working towards 2023 orbital launch after suborbital failure](https://spacenews.com/skyrora-working-towards-2023-orbital-launch-after-suborbital-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T094728">2022-11-18 09:47:28 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing reorganizes defense unit, Kay Sears to lead space and launch business](https://spacenews.com/boeing-reorganizes-defense-unit-kay-sears-to-lead-space-and-launch-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T202708">2022-11-17 20:27:08 UTC</a></sub>
 * [NASA's Perseverance Rover Investigates Intriguing Martian Bedrock](https://mars.nasa.gov/news/9304/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T185700">2022-11-17 18:57:00 UTC</a></sub>
 * [Precious Payload partners with Arkisys, Rocket Factory Augsburg to market payload slots and launches](https://spacenews.com/precious-payload-partners-with-arkisys-rocket-factory-augsburg-to-market-payload-slots-and-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T175717">2022-11-17 17:57:17 UTC</a></sub>
-* [Azure Orbital Space unveils software tools for space applications](https://spacenews.com/azure-orbital-software-development-kit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T140720">2022-11-17 14:07:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T121628">2022-11-18 12:16:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T130012">2022-11-18 13:00:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
