@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis 1 launch boosts ESA’s exploration ambitions](https://spacenews.com/artemis-1-launch-boosts-esas-exploration-ambitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T170723">2022-11-20 17:07:23 UTC</a></sub>
 * [Space Force opens door to Blue Origin with new cooperative agreement](https://spacenews.com/space-force-opens-door-to-blue-origin-with-new-cooperative-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T111715">2022-11-20 11:17:15 UTC</a></sub>
 * [SpaceX to launch last new cargo Dragon spacecraft](https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T180719">2022-11-19 18:07:19 UTC</a></sub>
 * [Orion ready for lunar flyby maneuver](https://spacenews.com/orion-ready-for-lunar-flyby-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T025719">2022-11-19 02:57:19 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Contract for Liquid Helium Acquisition at Kennedy](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-helium-acquisition-at-kennedy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T211700">2022-11-18 21:17:00 UTC</a></sub>
 * [Europe reaches funding deal for sovereign broadband constellation](https://spacenews.com/europe-reaches-funding-deal-for-sovereign-broadband-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T155712">2022-11-18 15:57:12 UTC</a></sub>
 * [Maryland, Oklahoma Students to Hear from Space Station Astronauts](http://www.nasa.gov/press-release/maryland-oklahoma-students-to-hear-from-space-station-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T151800">2022-11-18 15:18:00 UTC</a></sub>
-* [Japanese lunar lander slated to launch Nov. 28 at the earliest](https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T131728">2022-11-18 13:17:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T170737">2022-11-20 17:07:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T173506">2022-11-20 17:35:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
