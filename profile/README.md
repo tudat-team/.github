@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA leadership optimistic about funding as ministerial begins](https://spacenews.com/esa-leadership-optimistic-about-funding-as-ministerial-begins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T123724">2022-11-22 12:37:24 UTC</a></sub>
 * [NASA Awards Contract for NASA Financial Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-nasa-financial-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211700">2022-11-21 21:17:00 UTC</a></sub>
 * [Space Force to recompete contract for integration of rideshare payloads](https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T200724">2022-11-21 20:07:24 UTC</a></sub>
 * [CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T192700">2022-11-21 19:27:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Canadian startup developing lunar rover to deliver power](https://spacenews.com/canadian-startup-developing-lunar-rover-to-deliver-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T160715">2022-11-21 16:07:15 UTC</a></sub>
 * [NASA to Share Orion Update Today After Spacecraft Flies by Moon](http://www.nasa.gov/press-release/nasa-to-share-orion-update-today-after-spacecraft-flies-by-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T152800">2022-11-21 15:28:00 UTC</a></sub>
 * [New Space Force procurement shop subscribes to the space-as-a-service model](https://spacenews.com/fighting-fomo-with-comso/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T150716">2022-11-21 15:07:16 UTC</a></sub>
-* [NASA confirms decision to keep JWST name after historical report](https://spacenews.com/nasa-confirms-decision-to-keep-jwst-name-after-historical-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T114716">2022-11-21 11:47:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T121729">2022-11-22 12:17:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T130347">2022-11-22 13:03:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
