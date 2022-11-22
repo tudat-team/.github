@@ -572,7 +572,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to recompete contract for integration of rideshare payloads](https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T200724">2022-11-21 20:07:24 UTC</a></sub>
 * [CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions](http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T192700">2022-11-21 19:27:00 UTC</a></sub>
 * [NASA’s Orion spacecraft completes powered flyby of the moon](https://spaceflightnow.com/2022/11/21/nasas-orion-spacecraft-completes-powered-flyby-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T190702">2022-11-21 19:07:02 UTC</a></sub>
-* [SpaceX to launch Eutelsat-10B on final flight of booster B1049](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T182328">2022-11-21 18:23:28 UTC</a></sub>
+* [SpaceX delays Eutelsat-10B launch on final flight of B1049](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T182328">2022-11-21 18:23:28 UTC</a></sub>
 * [Orion soars around the Moon with a lonely Earth in the distance](https://arstechnica.com/science/2022/11/orion-soars-around-the-moon-with-a-lonely-earth-in-the-distance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T161305">2022-11-21 16:13:05 UTC</a></sub>
 * [Canadian startup developing lunar rover to deliver power](https://spacenews.com/canadian-startup-developing-lunar-rover-to-deliver-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T160715">2022-11-21 16:07:15 UTC</a></sub>
 * [NASA to Share Orion Update Today After Spacecraft Flies by Moon](http://www.nasa.gov/press-release/nasa-to-share-orion-update-today-after-spacecraft-flies-by-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T152800">2022-11-21 15:28:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T024349">2022-11-22 02:43:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T033427">2022-11-22 03:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
