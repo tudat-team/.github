@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hungary to spend $100 million on private astronaut mission to ISS](https://spacenews.com/hungary-to-spend-100-million-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T095728">2022-11-23 09:57:28 UTC</a></sub>
 * [France, Germany and Italy sign agreement on launch vehicle development](https://spacenews.com/france-germany-and-italy-sign-agreement-on-launch-vehicle-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T080739">2022-11-23 08:07:39 UTC</a></sub>
 * [Viasat wins $325 million U.S. Special Operations Command contract](https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T230723">2022-11-22 23:07:23 UTC</a></sub>
 * [NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T224700">2022-11-22 22:47:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Invites Public Comment on Plans for Mars Sample Return Campaign](http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T191800">2022-11-22 19:18:00 UTC</a></sub>
 * [Weather delays NASA, SpaceX CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T155646">2022-11-22 15:56:46 UTC</a></sub>
 * [NASA’s new rocket blows the doors off its mobile launch tower](https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T142326">2022-11-22 14:23:26 UTC</a></sub>
-* [Europe looks to commercialize lunar exploration efforts](https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T133712">2022-11-22 13:37:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T093502">2022-11-23 09:35:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T100913">2022-11-23 10:09:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
