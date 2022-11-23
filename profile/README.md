@@ -571,7 +571,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Viasat wins $325 million U.S. Special Operations Command contract](https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T230723">2022-11-22 23:07:23 UTC</a></sub>
 * [NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T224700">2022-11-22 22:47:00 UTC</a></sub>
 * [Space Force establishes permanent presence in Indo-Pacific region](https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T221720">2022-11-22 22:17:20 UTC</a></sub>
-* [SpaceX now targeting Tuesday evening for Eutelsat-10B launch](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T212328">2022-11-22 21:23:28 UTC</a></sub>
+* [SpaceX dodges weather to launch Eutelsat-10B](https://www.nasaspaceflight.com/2022/11/eutelsat-10b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T212328">2022-11-22 21:23:28 UTC</a></sub>
 * [The not-quite-tangible reality of Virtual Ground Stations](https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T192724">2022-11-22 19:27:24 UTC</a></sub>
 * [NASA Invites Public Comment on Plans for Mars Sample Return Campaign](http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T191800">2022-11-22 19:18:00 UTC</a></sub>
 * [Weather delays NASA, SpaceX CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T155646">2022-11-22 15:56:46 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T041019">2022-11-23 04:10:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T044041">2022-11-23 04:40:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
