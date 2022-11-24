@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [2022 impact report](https://www.planetary.org/articles/2022-impact-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T150712">2022-11-24 15:07:12 UTC</a></sub>
 * [The best gift ideas for space fans in 2022](https://www.planetary.org/articles/best-gifts-space-fans-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T150830">2022-11-22 15:08:30 UTC</a></sub>
 * [Europe in Space - A European astronaut story](https://www.getrevue.co/profile/andrewparsonson/issues/a-european-astronaut-story-1459429) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T143857">2022-11-21 14:38:57 UTC</a></sub>
 * [On the Issues](https://www.planetary.org/issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T140811">2022-11-21 14:08:11 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Meet The Planetary Academy](https://www.planetary.org/articles/meet-the-planetary-academy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T165811">2022-11-15 16:58:11 UTC</a></sub>
 * [NASA’s Artemis I mission has successfully launched](https://www.planetary.org/articles/nasa-artemis-i-successfully-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T065814">2022-11-15 06:58:14 UTC</a></sub>
 * [LightSail 2 is about to burn up](https://www.planetary.org/articles/lightsail-2-is-about-to-burn-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T221713">2022-11-14 22:17:13 UTC</a></sub>
-* [Europe in Space - More vehicles than customers](https://www.getrevue.co/profile/andrewparsonson/issues/more-vehicles-than-customers-1446755) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T141723">2022-11-14 14:17:23 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T143342">2022-11-24 14:33:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T150819">2022-11-24 15:08:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
