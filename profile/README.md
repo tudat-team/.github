@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab to launch remaining NASA TROPICS satellites](https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T173657">2022-11-25 17:36:57 UTC</a></sub>
 * [Equipment defect delays first commercial Vega C flight](https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T171657">2022-11-25 17:16:57 UTC</a></sub>
 * [ESA announces new astronaut class](https://spacenews.com/esa-announces-new-astronaut-class/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T233658">2022-11-23 23:36:58 UTC</a></sub>
 * [ESA secures 16.9 billion euros at ministerial](https://spacenews.com/esa-secures-16-9-billion-euros-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T175657">2022-11-23 17:56:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches Eutelsat 10B on expendable Falcon 9](https://spacenews.com/134683-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140658">2022-11-23 14:06:58 UTC</a></sub>
 * [Maxar to compensate Echostar for Jupiter 3 delays](https://spacenews.com/maxar-to-compensate-echostar-for-jupiter-3-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T133657">2022-11-23 13:36:57 UTC</a></sub>
 * [China to use space station to test space-based solar power](https://spacenews.com/china-to-use-space-station-to-test-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T123658">2022-11-23 12:36:58 UTC</a></sub>
-* [Hungary to spend $100 million on private astronaut mission to ISS](https://spacenews.com/hungary-to-spend-100-million-on-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T095728">2022-11-23 09:57:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T173356">2022-11-25 17:33:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T181050">2022-11-25 18:10:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
