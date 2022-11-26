@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship](http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T200700">2022-11-26 20:07:00 UTC</a></sub>
+* [Join us for a fireside chat with Lori Garver & Jim Bridenstine](https://spacenews.com/join-us-for-a-fireside-chat-with-lori-garver-jim-bridenstine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T192657">2022-11-26 19:26:57 UTC</a></sub>
 * [India’s PSLV rocket launches nine satellites in final mission of 2022](https://spacenews.com/indias-pslv-rocket-launches-nine-satellites-in-final-mission-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T154658">2022-11-26 15:46:58 UTC</a></sub>
 * [NASA, SpaceX ready for second attempt to launch CRS-26 mission to ISS](https://www.nasaspaceflight.com/2022/11/crs-26-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T135646">2022-11-26 13:56:46 UTC</a></sub>
 * [Orion enters lunar distant retrograde orbit](https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T234659">2022-11-25 23:46:59 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab to launch remaining NASA TROPICS satellites](https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T173657">2022-11-25 17:36:57 UTC</a></sub>
 * [Equipment defect delays first commercial Vega C flight](https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T171657">2022-11-25 17:16:57 UTC</a></sub>
 * [ESA announces new astronaut class](https://spacenews.com/esa-announces-new-astronaut-class/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T233658">2022-11-23 23:36:58 UTC</a></sub>
-* [ESA secures 16.9 billion euros at ministerial](https://spacenews.com/esa-secures-16-9-billion-euros-at-ministerial/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T175657">2022-11-23 17:56:57 UTC</a></sub>
-* [“Alexa, turn on the lights”; Lockheed Martin, Amazon, Cisco test virtual assistant, deep space video conferencing](https://www.nasaspaceflight.com/2022/11/callisto-orion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T170921">2022-11-23 17:09:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T193220">2022-11-26 19:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T200818">2022-11-26 20:08:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
