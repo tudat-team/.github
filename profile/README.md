@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Dragon cargo ship to deliver new solar arrays to space station](https://spaceflightnow.com/2022/11/26/spacex-launches-dragon-cargo-ship-to-deliver-new-solar-arrays-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T211654">2022-11-26 21:16:54 UTC</a></sub>
 * [SpaceX launches new cargo Dragon spacecraft to space station](https://spacenews.com/spacex-launches-new-cargo-dragon-spacecraft-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T203658">2022-11-26 20:36:58 UTC</a></sub>
 * [Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship](http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T200700">2022-11-26 20:07:00 UTC</a></sub>
 * [Join us for a fireside chat with Lori Garver & Jim Bridenstine](https://spacenews.com/join-us-for-a-fireside-chat-with-lori-garver-jim-bridenstine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T192657">2022-11-26 19:26:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Share Artemis I Update with Orion at Farthest Point from Earth](http://www.nasa.gov/press-release/nasa-to-share-artemis-i-update-with-orion-at-farthest-point-from-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230700">2022-11-25 23:07:00 UTC</a></sub>
 * [ISRO launches ocean research satellite aboard PSLV](https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T230317">2022-11-25 23:03:17 UTC</a></sub>
 * [Rocket Lab to launch remaining NASA TROPICS satellites](https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T173657">2022-11-25 17:36:57 UTC</a></sub>
-* [Equipment defect delays first commercial Vega C flight](https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T171657">2022-11-25 17:16:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T213227">2022-11-26 21:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T220725">2022-11-26 22:07:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
