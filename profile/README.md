@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Watch live: SpaceX supply ship on track to arrive at space station](https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T120654">2022-11-27 12:06:54 UTC</a></sub>
+* [SpaceX supply ship docks at space station](https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T125654">2022-11-27 12:56:54 UTC</a></sub>
 * [SpaceX launches Dragon cargo ship to deliver new solar arrays to space station](https://spaceflightnow.com/2022/11/26/spacex-launches-dragon-cargo-ship-to-deliver-new-solar-arrays-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T211654">2022-11-26 21:16:54 UTC</a></sub>
 * [SpaceX launches new cargo Dragon spacecraft to space station](https://spacenews.com/spacex-launches-new-cargo-dragon-spacecraft-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T203658">2022-11-26 20:36:58 UTC</a></sub>
 * [Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship](http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T200700">2022-11-26 20:07:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T131607">2022-11-27 13:16:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T133608">2022-11-27 13:36:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
