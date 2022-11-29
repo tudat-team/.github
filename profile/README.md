@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korean leader eyes “landing on moon in 2032, Mars in 2045”](https://spacenews.com/134853-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T145442">2022-11-29 14:54:42 UTC</a></sub>
 * [NASA, ICON Advance Lunar Construction Technology for Moon Missions](http://www.nasa.gov/press-release/nasa-icon-advance-lunar-construction-technology-for-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T141400">2022-11-29 14:14:00 UTC</a></sub>
 * [China to finish busy Space station year with Shenzhou-15](https://www.nasaspaceflight.com/2022/11/shenzhou-15-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140045">2022-11-29 14:00:45 UTC</a></sub>
 * [Orion flies far beyond the Moon, returns an instantly iconic photo](https://arstechnica.com/science/2022/11/orion-flies-far-beyond-the-moon-returns-an-instantly-iconic-photo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T134224">2022-11-29 13:42:24 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [We’ve reached the end of a bizarre Atlantic hurricane season](https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T155409">2022-11-28 15:54:09 UTC</a></sub>
 * [China outlines pathway for lunar and deep space exploration](https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T105657">2022-11-28 10:56:57 UTC</a></sub>
 * [Three Chinese astronauts ready for flight to Tiangong space station](https://spaceflightnow.com/2022/11/28/three-chinese-astronauts-ready-for-flight-to-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T100438">2022-11-28 10:04:38 UTC</a></sub>
-* [SpaceX set to launch Japanese Moon lander, NASA ice surveyor cubesat](https://www.teslarati.com/spacex-ispace-japanese-moon-lander-nasa-cubesat-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T050500">2022-11-28 05:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T143434">2022-11-29 14:34:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T150850">2022-11-29 15:08:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
