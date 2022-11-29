@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK firm to release GEO-compatible smartphone early next year](https://spacenews.com/uk-firm-to-release-geo-compatible-smartphone-early-next-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T195441">2022-11-29 19:54:41 UTC</a></sub>
 * [Pentagon report: China’s space strategy shaped by technological change](https://spacenews.com/pentagon-report-chinas-space-strategy-shaped-by-technological-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T190442">2022-11-29 19:04:42 UTC</a></sub>
 * [NASA to Cancel GeoCarb Mission, Expands Greenhouse Gas Portfolio](http://www.nasa.gov/press-release/nasa-to-cancel-geocarb-mission-expands-greenhouse-gas-portfolio) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T181400">2022-11-29 18:14:00 UTC</a></sub>
 * [Amazon used AWS on a satellite in orbit to speed up data analysis in ‘first-of-its kind’ experiment](https://www.cnbc.com/2022/11/29/amazon-aws-experiment-satellite-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T163001">2022-11-29 16:30:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Orion flies far beyond the Moon, returns an instantly iconic photo](https://arstechnica.com/science/2022/11/orion-flies-far-beyond-the-moon-returns-an-instantly-iconic-photo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T134224">2022-11-29 13:42:24 UTC</a></sub>
 * [ESA’s ExoMars plans depend on NASA contributions](https://spacenews.com/esas-exomars-plans-depend-on-nasa-contributions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T130441">2022-11-29 13:04:41 UTC</a></sub>
 * [Artemis 1 mission reaches halfway point](https://spacenews.com/artemis-1-mission-reaches-halfway-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T121453">2022-11-29 12:14:53 UTC</a></sub>
-* [Demonstration of new layer of missile-warning satellites planned for 2026](https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T234442">2022-11-28 23:44:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T193249">2022-11-29 19:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T200855">2022-11-29 20:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
