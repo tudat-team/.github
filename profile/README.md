@@ -570,7 +570,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [South Korean leader eyes “landing on moon in 2032, Mars in 2045”](https://spacenews.com/134853-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T145442">2022-11-29 14:54:42 UTC</a></sub>
 * [NASA, ICON Advance Lunar Construction Technology for Moon Missions](http://www.nasa.gov/press-release/nasa-icon-advance-lunar-construction-technology-for-moon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T141400">2022-11-29 14:14:00 UTC</a></sub>
-* [China to finish busy Space station year with Shenzhou-15](https://www.nasaspaceflight.com/2022/11/shenzhou-15-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140045">2022-11-29 14:00:45 UTC</a></sub>
+* [China finishing busy Space station year with Shenzhou-15](https://www.nasaspaceflight.com/2022/11/shenzhou-15-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140045">2022-11-29 14:00:45 UTC</a></sub>
 * [Orion flies far beyond the Moon, returns an instantly iconic photo](https://arstechnica.com/science/2022/11/orion-flies-far-beyond-the-moon-returns-an-instantly-iconic-photo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T134224">2022-11-29 13:42:24 UTC</a></sub>
 * [ESA’s ExoMars plans depend on NASA contributions](https://spacenews.com/esas-exomars-plans-depend-on-nasa-contributions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T130441">2022-11-29 13:04:41 UTC</a></sub>
 * [Artemis 1 mission reaches halfway point](https://spacenews.com/artemis-1-mission-reaches-halfway-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T121453">2022-11-29 12:14:53 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T153638">2022-11-29 15:36:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T161120">2022-11-29 16:11:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
