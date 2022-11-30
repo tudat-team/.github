@@ -571,7 +571,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Shenzhou 15 astronauts arrive at China’s space station for first crew handover](https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T231446">2022-11-29 23:14:46 UTC</a></sub>
 * [NASA cancels GeoCarb greenhouse gas monitoring mission](https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T225445">2022-11-29 22:54:45 UTC</a></sub>
 * [Shay Har-Noy takes the helm at Edgybees](https://spacenews.com/har-noy-to-edgybees/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T223446">2022-11-29 22:34:46 UTC</a></sub>
-* [SpaceX to launch Falcon 9 with private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222555">2022-11-29 22:25:55 UTC</a></sub>
+* [SpaceX delays Falcon 9 launch with private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222555">2022-11-29 22:25:55 UTC</a></sub>
 * [SpaceX fires up 11 engines as it prepares massive rocket for orbital test](https://arstechnica.com/science/2022/11/spacex-completes-long-duration-test-fire-of-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T222401">2022-11-29 22:24:01 UTC</a></sub>
 * [SiriusXM orders pair of satellites to expand in Canada and Alaska](https://spacenews.com/siriusxm-orders-pair-of-satellites-to-expand-in-canada-and-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T212446">2022-11-29 21:24:46 UTC</a></sub>
 * [U.S. Space Command supports use of ‘responsive launch’ to deter China and Russia](https://spacenews.com/u-s-space-command-supports-use-of-responsive-launch-to-deter-china-and-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T203442">2022-11-29 20:34:42 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T041037">2022-11-30 04:10:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T044112">2022-11-30 04:41:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
