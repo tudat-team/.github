@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vega C to launch five Copernicus spacecraft](https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T111442">2022-11-30 11:14:42 UTC</a></sub>
 * [China’s Tianzhou-4 cargo spacecraft deployed a small satellite before deorbiting](https://spacenews.com/chinas-tianzhou-4-cargo-spacecraft-deployed-a-small-satellite-before-deorbiting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T101443">2022-11-30 10:14:43 UTC</a></sub>
 * [Shenzhou 15 astronauts arrive at China’s space station for first crew handover](https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T231446">2022-11-29 23:14:46 UTC</a></sub>
 * [NASA cancels GeoCarb greenhouse gas monitoring mission](https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T225445">2022-11-29 22:54:45 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SiriusXM orders pair of satellites to expand in Canada and Alaska](https://spacenews.com/siriusxm-orders-pair-of-satellites-to-expand-in-canada-and-alaska/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T212446">2022-11-29 21:24:46 UTC</a></sub>
 * [U.S. Space Command supports use of ‘responsive launch’ to deter China and Russia](https://spacenews.com/u-s-space-command-supports-use-of-responsive-launch-to-deter-china-and-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T203442">2022-11-29 20:34:42 UTC</a></sub>
 * [UK firm to release GEO-compatible smartphone early next year](https://spacenews.com/uk-firm-to-release-geo-compatible-smartphone-early-next-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T195441">2022-11-29 19:54:41 UTC</a></sub>
-* [Pentagon report: China’s space strategy shaped by technological change](https://spacenews.com/pentagon-report-chinas-space-strategy-shaped-by-technological-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T190442">2022-11-29 19:04:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T113236">2022-11-30 11:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T121654">2022-11-30 12:16:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
