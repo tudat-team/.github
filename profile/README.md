@@ -575,9 +575,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing talks Core Stage performance on Artemis I, looks ahead to future Core Stages and EUS debut](https://www.nasaspaceflight.com/2022/11/core-stage-sls-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T190640">2022-11-30 19:06:40 UTC</a></sub>
 * [SpaceX set to launch two spacecraft to the Moon tonight](https://arstechnica.com/science/2022/11/spacex-set-to-launch-two-spacecraft-to-the-moon-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T174932">2022-11-30 17:49:32 UTC</a></sub>
 * [NASA Responds to Independent Review of Earth System Observatory](http://www.nasa.gov/press-release/nasa-responds-to-independent-review-of-earth-system-observatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T170400">2022-11-30 17:04:00 UTC</a></sub>
+* [SpaceX delays Falcon 9 launch carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T132555">2022-11-30 13:25:55 UTC</a></sub>
 * [Vega C to launch five Copernicus spacecraft](https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T111442">2022-11-30 11:14:42 UTC</a></sub>
 * [China’s Tianzhou-4 cargo spacecraft deployed a small satellite before deorbiting](https://spacenews.com/chinas-tianzhou-4-cargo-spacecraft-deployed-a-small-satellite-before-deorbiting/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T101443">2022-11-30 10:14:43 UTC</a></sub>
-* [Shenzhou 15 astronauts arrive at China’s space station for first crew handover](https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T231446">2022-11-29 23:14:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T233503">2022-11-30 23:35:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T004805">2022-12-01 00:48:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
