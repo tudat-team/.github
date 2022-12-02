@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orion begins return leg of Artemis 1 mission](https://spacenews.com/orion-begins-return-leg-of-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T093447">2022-12-02 09:34:47 UTC</a></sub>
 * [SpaceX Starlink Gen2 constellation weakened by “partial” FCC grant](https://www.teslarati.com/spacex-starlink-gen2-constellation-fcc-license-partial-grant/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T080506">2022-12-02 08:05:06 UTC</a></sub>
 * [Rocket Lab launches subsidiary focused on national security market](https://spacenews.com/rocket-lab-launches-subsidiary-focused-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T235442">2022-12-01 23:54:42 UTC</a></sub>
 * [Orion capsule leaves lunar orbit, heads for moon flyby and return to Earth](https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T232438">2022-12-01 23:24:38 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Solid Rocket Boosters meet performance targets in first-look data review for Artemis I](https://www.nasaspaceflight.com/2022/12/artemis-i-srb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T191708">2022-12-01 19:17:08 UTC</a></sub>
 * [Investing in Space: Moon rising](https://www.cnbc.com/2022/12/01/investing-in-space-moon-rising.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T161618">2022-12-01 16:16:18 UTC</a></sub>
 * [Astronomers say a new, huge satellite is as bright as the brightest stars](https://arstechnica.com/science/2022/12/a-new-satellite-has-become-one-of-the-20-brightest-stars-in-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T154949">2022-12-01 15:49:49 UTC</a></sub>
-* [Cognitive Space hires retired general as strategic advisor](https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T153443">2022-12-01 15:34:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T093249">2022-12-02 09:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T100844">2022-12-02 10:08:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
