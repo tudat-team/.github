@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OneWeb aims to deploy a record 40 satellites in SpaceX mission](https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T141444">2022-12-02 14:14:44 UTC</a></sub>
+* [Astra chief engineer resigns in another blow for beleaguered rocket builder](https://www.cnbc.com/2022/12/02/astra-chief-engineer-benjamin-lyon-resigns-from-rocket-builder.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T140944">2022-12-02 14:09:44 UTC</a></sub>
 * [Rocket Report: SpaceX launch delayed indefinitely; Virgin Orbit cancels funding round](https://arstechnica.com/science/2022/12/rocket-report-sls-gets-an-excellent-report-card-canadian-companys-sexbomb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T130022">2022-12-02 13:00:22 UTC</a></sub>
 * [FCC grants partial approval for Starlink second-generation constellation](https://spacenews.com/fcc-grants-partial-approval-for-starlink-second-generation-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T120442">2022-12-02 12:04:42 UTC</a></sub>
 * [Orion begins return leg of Artemis 1 mission](https://spacenews.com/orion-begins-return-leg-of-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T093447">2022-12-02 09:34:47 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Orion capsule leaves lunar orbit, heads for moon flyby and return to Earth](https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T232438">2022-12-01 23:24:38 UTC</a></sub>
 * [Eutelsat orders GEO broadband satellite with LEO in mind](https://spacenews.com/eutelsat-orders-geo-broadband-satellite-with-leo-in-mind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T221443">2022-12-01 22:14:43 UTC</a></sub>
 * [FCC authorizes SpaceX to begin deploying up to 7,500 next-generation Starlink satellites](https://www.cnbc.com/2022/12/01/fcc-authorizes-spacex-gen2-starlink-up-to-7500-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T215919">2022-12-01 21:59:19 UTC</a></sub>
-* [NASA Awards Environmental Compliance, Restoration Services Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-restoration-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T211400">2022-12-01 21:14:00 UTC</a></sub>
-* [Solid Rocket Boosters meet performance targets in first-look data review for Artemis I](https://www.nasaspaceflight.com/2022/12/artemis-i-srb-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T191708">2022-12-01 19:17:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T143225">2022-12-02 14:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T150727">2022-12-02 15:07:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
