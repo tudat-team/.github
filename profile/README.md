@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After bankruptcy and war, OneWeb turns to a competitor for help](https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T150605">2022-12-02 15:06:05 UTC</a></sub>
 * [OneWeb aims to deploy a record 40 satellites in SpaceX mission](https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T141444">2022-12-02 14:14:44 UTC</a></sub>
 * [Astra chief engineer resigns in another blow for beleaguered rocket builder](https://www.cnbc.com/2022/12/02/astra-chief-engineer-benjamin-lyon-resigns-from-rocket-builder.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T140944">2022-12-02 14:09:44 UTC</a></sub>
 * [Rocket Report: SpaceX launch delayed indefinitely; Virgin Orbit cancels funding round](https://arstechnica.com/science/2022/12/rocket-report-sls-gets-an-excellent-report-card-canadian-companys-sexbomb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T130022">2022-12-02 13:00:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab launches subsidiary focused on national security market](https://spacenews.com/rocket-lab-launches-subsidiary-focused-on-national-security-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T235442">2022-12-01 23:54:42 UTC</a></sub>
 * [Orion capsule leaves lunar orbit, heads for moon flyby and return to Earth](https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T232438">2022-12-01 23:24:38 UTC</a></sub>
 * [Eutelsat orders GEO broadband satellite with LEO in mind](https://spacenews.com/eutelsat-orders-geo-broadband-satellite-with-leo-in-mind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T221443">2022-12-01 22:14:43 UTC</a></sub>
-* [FCC authorizes SpaceX to begin deploying up to 7,500 next-generation Starlink satellites](https://www.cnbc.com/2022/12/01/fcc-authorizes-spacex-gen2-starlink-up-to-7500-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T215919">2022-12-01 21:59:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Much has passed in decades past](https://www.planetary.org/the-downlink/much-has-passed-in-decades-past) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T153501">2022-12-02 15:35:01 UTC</a></sub>
 * [NASA’s economic impact? Hundreds of thousands of jobs.](https://www.planetary.org/articles/nasas-economic-impact-fy2021) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T140500">2022-12-02 14:05:00 UTC</a></sub>
 * [Best space pictures of the month: November 2022](https://www.planetary.org/articles/best-space-pictures-november-2022) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T150503">2022-11-30 15:05:03 UTC</a></sub>
 * [What the 2022 midterm elections mean for NASA](https://www.planetary.org/articles/2022-midterm-elections) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140504">2022-11-29 14:05:04 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [On the Issues](https://www.planetary.org/issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T140811">2022-11-21 14:08:11 UTC</a></sub>
 * [Gifts from above](https://www.planetary.org/the-downlink/gifts-from-above) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T202715">2022-11-18 20:27:15 UTC</a></sub>
 * [Launching and descending](https://www.planetary.org/the-downlink/launching-and-descending) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T153802">2022-11-18 15:38:02 UTC</a></sub>
-* [LightSail 2 completes mission with atmospheric reentry](https://www.planetary.org/articles/lightsail-2-completes-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T215804">2022-11-17 21:58:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T153311">2022-12-02 15:33:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T161030">2022-12-02 16:10:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
