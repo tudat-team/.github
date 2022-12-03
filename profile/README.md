@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX rolls out new business line focused on military satellite services](https://spacenews.com/spacex-rolls-out-new-business-line-focused-on-military-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T153443">2022-12-03 15:34:43 UTC</a></sub>
 * [Watch live: Astronauts install new solar array outside International Space Station](https://spaceflightnow.com/2022/12/03/iss-eva-82/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T150439">2022-12-03 15:04:39 UTC</a></sub>
 * [Space Force establishes component at U.S. Central Command](https://spacenews.com/space-force-establishes-component-at-u-s-central-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T221443">2022-12-02 22:14:43 UTC</a></sub>
 * [NASA Sets Coverage of Orion’s Historic Moon Mission Return, Splashdown](http://www.nasa.gov/press-release/nasa-sets-coverage-of-orion-s-historic-moon-mission-return-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T212400">2022-12-02 21:24:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astra chief engineer resigns, CEO shakes up management ‘to execute faster’](https://www.cnbc.com/2022/12/02/astra-chief-engineer-benjamin-lyon-resigns-from-rocket-builder.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T140944">2022-12-02 14:09:44 UTC</a></sub>
 * [Rocket Report: SpaceX launch delayed indefinitely; Virgin Orbit cancels funding round](https://arstechnica.com/science/2022/12/rocket-report-sls-gets-an-excellent-report-card-canadian-companys-sexbomb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T130022">2022-12-02 13:00:22 UTC</a></sub>
 * [FCC grants partial approval for Starlink second-generation constellation](https://spacenews.com/fcc-grants-partial-approval-for-starlink-second-generation-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T120442">2022-12-02 12:04:42 UTC</a></sub>
-* [Orion begins return leg of Artemis 1 mission](https://spacenews.com/orion-begins-return-leg-of-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T093447">2022-12-02 09:34:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T153232">2022-12-03 15:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T160930">2022-12-03 16:09:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
