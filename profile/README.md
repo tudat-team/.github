@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites](https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160925">2022-12-05 16:09:25 UTC</a></sub>
 * [Dmitry Rogozin may be in some trouble in Russia](https://arstechnica.com/science/2022/12/dmitry-rogozin-may-be-in-some-trouble-in-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T144223">2022-12-05 14:42:23 UTC</a></sub>
 * [E-Space buys RF hardware developer CommAgility](https://spacenews.com/e-space-buys-rf-hardware-developer-commagility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T143442">2022-12-05 14:34:42 UTC</a></sub>
 * [Growth of SSA systems could create problems for satellite operators](https://spacenews.com/growth-of-ssa-systems-could-create-problems-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T123448">2022-12-05 12:34:48 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astronauts install new solar array outside International Space Station](https://spaceflightnow.com/2022/12/03/iss-eva-82/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T220438">2022-12-03 22:04:38 UTC</a></sub>
 * [Power upgrade: Station crew install new iROSA, work power channel issue on ISS](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T201055">2022-12-03 20:10:55 UTC</a></sub>
 * [SpaceX rolls out new business line focused on military satellite services](https://spacenews.com/spacex-rolls-out-new-business-line-focused-on-military-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T153443">2022-12-03 15:34:43 UTC</a></sub>
-* [Space Force establishes component at U.S. Central Command](https://spacenews.com/space-force-establishes-component-at-u-s-central-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T221443">2022-12-02 22:14:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T161035">2022-12-05 16:10:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T164519">2022-12-05 16:45:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
