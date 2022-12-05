@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis 1 capsule beams back spectacular farewell views of the moon](https://spaceflightnow.com/2022/12/05/artemis-1-capsule-beams-back-spectacular-farewell-views-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T200439">2022-12-05 20:04:39 UTC</a></sub>
 * [NASA Administrator Names New Leadership at Two Agency Centers](http://www.nasa.gov/press-release/nasa-administrator-names-new-leadership-at-two-agency-centers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T174400">2022-12-05 17:44:00 UTC</a></sub>
 * [SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites](https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160925">2022-12-05 16:09:25 UTC</a></sub>
 * [Dmitry Rogozin may be in some trouble in Russia](https://arstechnica.com/science/2022/12/dmitry-rogozin-may-be-in-some-trouble-in-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T144223">2022-12-05 14:42:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chris Pearson takes the reins at Agile Space Industries](https://spacenews.com/pearson-becomes-agile-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T100444">2022-12-05 10:04:44 UTC</a></sub>
 * [Chinese crew back on Earth after six months on Tiangong space station](https://spaceflightnow.com/2022/12/04/chinese-crew-back-on-earth-after-six-months-on-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221204T182438">2022-12-04 18:24:38 UTC</a></sub>
 * [U.S. Space Force chief: The use of space technology in Ukraine ‘is what we can expect in the future’](https://spacenews.com/u-s-space-force-chief-the-use-of-space-technology-in-ukraine-is-what-we-can-expect-in-the-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221204T164442">2022-12-04 16:44:42 UTC</a></sub>
-* [Astronauts install new solar array outside International Space Station](https://spaceflightnow.com/2022/12/03/iss-eva-82/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T220438">2022-12-03 22:04:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T193219">2022-12-05 19:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T200832">2022-12-05 20:08:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
