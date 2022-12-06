@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Orion swings by the moon on its way back to Earth](https://spacenews.com/orion-swings-by-the-moon-on-its-way-back-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T101442">2022-12-06 10:14:42 UTC</a></sub>
 * [Advisory panel to examine DoD’s demand for commercial space systems](https://spacenews.com/advisory-panel-to-examine-dods-demand-for-commercial-space-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T230442">2022-12-05 23:04:42 UTC</a></sub>
 * [Ukraine’s Promin Aerospace on track for 2023 flight test](https://spacenews.com/promin-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T224442">2022-12-05 22:44:42 UTC</a></sub>
 * [Artemis 1 capsule beams back spectacular farewell views of the moon](https://spaceflightnow.com/2022/12/05/artemis-1-capsule-beams-back-spectacular-farewell-views-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T200439">2022-12-05 20:04:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [E-Space buys RF hardware developer CommAgility](https://spacenews.com/e-space-buys-rf-hardware-developer-commagility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T143442">2022-12-05 14:34:42 UTC</a></sub>
 * [Growth of SSA systems could create problems for satellite operators](https://spacenews.com/growth-of-ssa-systems-could-create-problems-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T123448">2022-12-05 12:34:48 UTC</a></sub>
 * [After the Artemis I mission’s brilliant success, why is an encore 2 years away?](https://arstechnica.com/science/2022/12/artemis-i-has-finally-launched-what-comes-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T120056">2022-12-05 12:00:56 UTC</a></sub>
-* [Chris Pearson takes the reins at Agile Space Industries](https://spacenews.com/pearson-becomes-agile-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T100444">2022-12-05 10:04:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T103538">2022-12-06 10:35:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T110640">2022-12-06 11:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
