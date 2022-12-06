@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Mangata Networks gets funds for Scottish satellite manufacturing hub](https://spacenews.com/mangata-networks-gets-funds-for-scottish-satellite-manufacturing-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T230442">2022-12-06 23:04:42 UTC</a></sub>
+* [NASA to Discuss Climate Research, Mitigation Efforts](http://www.nasa.gov/press-release/nasa-to-discuss-climate-research-mitigation-efforts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T221400">2022-12-06 22:14:00 UTC</a></sub>
 * [SpaceX set to launch 40 satellites for Starlink rival OneWeb](https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T212500">2022-12-06 21:25:00 UTC</a></sub>
 * [NASA Administrator, Astronauts Bring Space to Washington Schools](http://www.nasa.gov/press-release/nasa-administrator-astronauts-bring-space-to-washington-schools) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T212400">2022-12-06 21:24:00 UTC</a></sub>
 * [Defense, Commerce Departments select companies to prototype space traffic management solutions](https://spacenews.com/defense-commerce-departments-select-companies-to-prototype-space-traffic-management-solutions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T210442">2022-12-06 21:04:42 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chinese commercial methane-fueled rocket set for first launch](https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T133442">2022-12-06 13:34:42 UTC</a></sub>
 * [Slingshot Aerospace completes $40.8 million funding round](https://spacenews.com/slingshot-aerospace-completes-40-8-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T120442">2022-12-06 12:04:42 UTC</a></sub>
 * [Orion swings by the moon on its way back to Earth](https://spacenews.com/orion-swings-by-the-moon-on-its-way-back-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T101442">2022-12-06 10:14:42 UTC</a></sub>
-* [Advisory panel to examine DoD’s demand for commercial space systems](https://spacenews.com/advisory-panel-to-examine-dods-demand-for-commercial-space-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T230442">2022-12-05 23:04:42 UTC</a></sub>
-* [Ukraine’s Promin Aerospace on track for 2023 flight test](https://spacenews.com/promin-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T224442">2022-12-05 22:44:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T223356">2022-12-06 22:33:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T230811">2022-12-06 23:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
