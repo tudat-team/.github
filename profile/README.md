@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Defense, Commerce Departments select companies to prototype space traffic management solutions](https://spacenews.com/defense-commerce-departments-select-companies-to-prototype-space-traffic-management-solutions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T210442">2022-12-06 21:04:42 UTC</a></sub>
 * [Blue Origin conducts fairing testing amid quiet New Glenn progress](https://www.nasaspaceflight.com/2022/12/blue-origin-new-glenn/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T172426">2022-12-06 17:24:26 UTC</a></sub>
 * [After lunar flyby, NASA’s Orion spacecraft is set to splash down on Sunday](https://arstechnica.com/science/2022/12/after-lunar-flyby-nasas-orion-spacecraft-is-set-to-splashdown-on-sunday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T143827">2022-12-06 14:38:27 UTC</a></sub>
 * [Chinese commercial methane-fueled rocket set for first launch](https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T133442">2022-12-06 13:34:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ukraine’s Promin Aerospace on track for 2023 flight test](https://spacenews.com/promin-perseveres/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T224442">2022-12-05 22:44:42 UTC</a></sub>
 * [Artemis 1 capsule beams back spectacular farewell views of the moon](https://spaceflightnow.com/2022/12/05/artemis-1-capsule-beams-back-spectacular-farewell-views-of-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T200439">2022-12-05 20:04:39 UTC</a></sub>
 * [NASA Administrator Names New Leadership at Two Agency Centers](http://www.nasa.gov/press-release/nasa-administrator-names-new-leadership-at-two-agency-centers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T174400">2022-12-05 17:44:00 UTC</a></sub>
-* [SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites](https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160925">2022-12-05 16:09:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T203241">2022-12-06 20:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T210723">2022-12-06 21:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
