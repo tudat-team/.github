@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese commercial methane-fueled rocket set for first launch](https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T133442">2022-12-06 13:34:42 UTC</a></sub>
 * [Slingshot Aerospace completes $40.8 million funding round](https://spacenews.com/slingshot-aerospace-completes-40-8-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T120442">2022-12-06 12:04:42 UTC</a></sub>
 * [Orion swings by the moon on its way back to Earth](https://spacenews.com/orion-swings-by-the-moon-on-its-way-back-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T101442">2022-12-06 10:14:42 UTC</a></sub>
 * [Advisory panel to examine DoD’s demand for commercial space systems](https://spacenews.com/advisory-panel-to-examine-dods-demand-for-commercial-space-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T230442">2022-12-05 23:04:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites](https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160925">2022-12-05 16:09:25 UTC</a></sub>
 * [Dmitry Rogozin may be in some trouble in Russia](https://arstechnica.com/science/2022/12/dmitry-rogozin-may-be-in-some-trouble-in-russia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T144223">2022-12-05 14:42:23 UTC</a></sub>
 * [E-Space buys RF hardware developer CommAgility](https://spacenews.com/e-space-buys-rf-hardware-developer-commagility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T143442">2022-12-05 14:34:42 UTC</a></sub>
-* [Growth of SSA systems could create problems for satellite operators](https://spacenews.com/growth-of-ssa-systems-could-create-problems-for-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T123448">2022-12-05 12:34:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T132204">2022-12-06 13:22:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T133806">2022-12-06 13:38:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
