@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin and Dynetics bidding on second Artemis lunar lander](https://spacenews.com/blue-origin-and-dynetics-bidding-on-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T174442">2022-12-07 17:44:42 UTC</a></sub>
+* [NASA's Perseverance Rover Gets the Dirt on Mars](https://mars.nasa.gov/news/9311/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T174400">2022-12-07 17:44:00 UTC</a></sub>
 * [Boosters 7 and 9 in dual flow toward Starbase test milestones](https://www.nasaspaceflight.com/2022/12/booster-7-9-flow-milestones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T171229">2022-12-07 17:12:29 UTC</a></sub>
 * [NASA Sets Coverage for SWOT Water Survey Mission Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-swot-water-survey-mission-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T140400">2022-12-07 14:04:00 UTC</a></sub>
 * [Fifty years later, remastered images reveal Apollo 17 in stunning clarity](https://arstechnica.com/science/2022/12/fifty-years-later-remastered-images-reveal-apollo-17-in-stunning-clarity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T135029">2022-12-07 13:50:29 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China is considering expanding its Tiangong space station](https://spacenews.com/china-is-considering-expanding-its-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T123446">2022-12-07 12:34:46 UTC</a></sub>
 * [Space Force procurement chief emphatic about the ‘need for speed’](https://spacenews.com/space-force-procurement-chief-emphatic-about-the-need-for-speed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T233442">2022-12-06 23:34:42 UTC</a></sub>
 * [Mangata Networks gets funds for Scottish satellite manufacturing hub](https://spacenews.com/mangata-networks-gets-funds-for-scottish-satellite-manufacturing-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T230442">2022-12-06 23:04:42 UTC</a></sub>
-* [NASA to Discuss Climate Research, Mitigation Efforts](http://www.nasa.gov/press-release/nasa-to-discuss-climate-research-mitigation-efforts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T221400">2022-12-06 22:14:00 UTC</a></sub>
-* [SpaceX set to launch 40 satellites for Starlink rival OneWeb](https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T212500">2022-12-06 21:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T173315">2022-12-07 17:33:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T181000">2022-12-07 18:10:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
