@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Safety, Mission Assurance Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-support-services-contract-1) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T213400">2022-12-07 21:34:00 UTC</a></sub>
+* [NDAA compromise bill wants more focus on satellite protection, responsive launch](https://spacenews.com/ndaa-compromise-bill-wants-more-focus-on-satellite-protection-responsive-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T212442">2022-12-07 21:24:42 UTC</a></sub>
+* [NASA Awards Contract for Liquid Hydrogen](http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-hydrogen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T211400">2022-12-07 21:14:00 UTC</a></sub>
 * [Blue Origin and Dynetics bidding on second Artemis lunar lander](https://spacenews.com/blue-origin-and-dynetics-bidding-on-second-artemis-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T174442">2022-12-07 17:44:42 UTC</a></sub>
 * [NASA's Perseverance Rover Gets the Dirt on Mars](https://mars.nasa.gov/news/9311/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T174400">2022-12-07 17:44:00 UTC</a></sub>
 * [Boosters 7 and 9 in dual flow toward Starbase test milestones](https://www.nasaspaceflight.com/2022/12/booster-7-9-flow-milestones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T171229">2022-12-07 17:12:29 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Fifty years later, remastered images reveal Apollo 17 in stunning clarity](https://arstechnica.com/science/2022/12/fifty-years-later-remastered-images-reveal-apollo-17-in-stunning-clarity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T135029">2022-12-07 13:50:29 UTC</a></sub>
 * [TriSept and SpiderOak unveil strategic partnership](https://spacenews.com/trisept-and-spideroak-unveil-strategic-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T130443">2022-12-07 13:04:43 UTC</a></sub>
 * [NASA confirms NEO Surveyor for 2028 launch](https://spacenews.com/nasa-confirms-neo-surveyor-for-2028-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T125442">2022-12-07 12:54:42 UTC</a></sub>
-* [China is considering expanding its Tiangong space station](https://spacenews.com/china-is-considering-expanding-its-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T123446">2022-12-07 12:34:46 UTC</a></sub>
-* [Space Force procurement chief emphatic about the ‘need for speed’](https://spacenews.com/space-force-procurement-chief-emphatic-about-the-need-for-speed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T233442">2022-12-06 23:34:42 UTC</a></sub>
-* [Mangata Networks gets funds for Scottish satellite manufacturing hub](https://spacenews.com/mangata-networks-gets-funds-for-scottish-satellite-manufacturing-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T230442">2022-12-06 23:04:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T213226">2022-12-07 21:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T220742">2022-12-07 22:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
