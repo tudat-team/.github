@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX requests permission for direct-to-smartphone service](https://spacenews.com/spacex-requests-permission-for-direct-to-smartphone-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T225334">2022-12-08 22:53:34 UTC</a></sub>
+* [Michigan Students to Hear from Current NASA Space Station Astronaut](http://www.nasa.gov/press-release/michigan-students-to-hear-from-current-nasa-space-station-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T223300">2022-12-08 22:33:00 UTC</a></sub>
+* [Dawn Aerospace raises $20 million for propulsion and spaceplane work](https://spacenews.com/dawn-raises-20-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T222334">2022-12-08 22:23:34 UTC</a></sub>
 * [SES government unit rebranded as SES Space & Defense](https://spacenews.com/ses-government-unit-rebranded-as-ses-space-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220333">2022-12-08 22:03:33 UTC</a></sub>
 * [NASA Selects Eastern Region Protective Services Contractor](http://www.nasa.gov/press-release/nasa-selects-eastern-region-protective-services-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220300">2022-12-08 22:03:00 UTC</a></sub>
 * [Collins Aerospace selected to develop new space station spacesuit](https://spacenews.com/collins-aerospace-selected-to-develop-new-space-station-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T214333">2022-12-08 21:43:33 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Terran Orbital creates new business unit to produce imaging satellites](https://spacenews.com/terran-orbit-creates-new-business-unit-to-produce-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T211334">2022-12-08 21:13:34 UTC</a></sub>
 * [SpaceX to launch its first of three missions for OneWeb](https://www.nasaspaceflight.com/2022/12/oneweb-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193754">2022-12-08 19:37:54 UTC</a></sub>
 * [Virgin Orbit delays first U.K. launch](https://spacenews.com/virgin-orbit-delays-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T174334">2022-12-08 17:43:34 UTC</a></sub>
-* [Investing in Space: Temper your expectations](https://www.cnbc.com/2022/12/08/investing-in-space-temper-your-expectations.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T171733">2022-12-08 17:17:33 UTC</a></sub>
-* [NASA talks Mobile Launcher refurbishment, modifications needed for Artemis II crew debut of SLS](https://www.nasaspaceflight.com/2022/12/ml-rollback-mod-timelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T142412">2022-12-08 14:24:12 UTC</a></sub>
-* [Astrobotic lander undergoes tests ahead of launch](https://spacenews.com/astrobotic-lander-undergoes-tests-ahead-of-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T132334">2022-12-08 13:23:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T223256">2022-12-08 22:32:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T230855">2022-12-08 23:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
