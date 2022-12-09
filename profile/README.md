@@ -576,7 +576,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Collins Aerospace selected to develop new space station spacesuit](https://spacenews.com/collins-aerospace-selected-to-develop-new-space-station-spacesuit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T214333">2022-12-08 21:43:33 UTC</a></sub>
 * [NASA Taps Collins Aerospace to Develop New Space Station Spacesuits](http://www.nasa.gov/press-release/nasa-taps-collins-aerospace-to-develop-new-space-station-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T212300">2022-12-08 21:23:00 UTC</a></sub>
 * [Terran Orbital creates new business unit to produce imaging satellites](https://spacenews.com/terran-orbit-creates-new-business-unit-to-produce-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T211334">2022-12-08 21:13:34 UTC</a></sub>
-* [SpaceX to launch its first of three missions for OneWeb](https://www.nasaspaceflight.com/2022/12/oneweb-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193754">2022-12-08 19:37:54 UTC</a></sub>
+* [SpaceX launches first of three missions for OneWeb](https://www.nasaspaceflight.com/2022/12/oneweb-15/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T193754">2022-12-08 19:37:54 UTC</a></sub>
 * [Virgin Orbit delays first U.K. launch](https://spacenews.com/virgin-orbit-delays-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T174334">2022-12-08 17:43:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T233413">2022-12-08 23:34:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T004054">2022-12-09 00:40:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
