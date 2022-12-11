@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Command promotes role in Artemis 1](https://spacenews.com/space-command-promotes-role-in-artemis-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T164333">2022-12-11 16:43:33 UTC</a></sub>
 * [Orion into final critical in-flight test as reentry and splashdown arrive](https://www.nasaspaceflight.com/2022/12/artemis-i-eom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T142335">2022-12-11 14:23:35 UTC</a></sub>
 * [Japanese moon lander, NASA hitchhiker payload launched by SpaceX](https://spaceflightnow.com/2022/12/11/falcon-9-ispace-mission-1-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T104330">2022-12-11 10:43:30 UTC</a></sub>
 * [Falcon 9 launches ispace lander and NASA cubesat to the moon](https://spacenews.com/falcon-9-launches-ispace-lander-and-nasa-cubesat-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T095333">2022-12-11 09:53:33 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s Lunar Flashlight hitching ride to moon on SpaceX rocket](https://spaceflightnow.com/2022/12/10/nasas-lunar-flashlight-hitching-ride-to-moon-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T072330">2022-12-10 07:23:30 UTC</a></sub>
 * [Orion moonship closes in for Sunday re-entry and splashdown](https://spaceflightnow.com/2022/12/10/orion-moonship-closes-in-for-sunday-re-entry-and-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T050330">2022-12-10 05:03:30 UTC</a></sub>
 * [Repairs and upgrades await SLS mobile launcher before crewed lunar mission](https://spaceflightnow.com/2022/12/09/repairs-and-upgrades-await-sls-mobile-launcher-before-crewed-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T235330">2022-12-09 23:53:30 UTC</a></sub>
-* [Antenna maker Anywaves plots aggressive US expansion](https://spacenews.com/antenna-maker-anywaves-plots-aggressive-us-expansion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T225338">2022-12-09 22:53:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T170645">2022-12-11 17:06:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T173225">2022-12-11 17:32:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
