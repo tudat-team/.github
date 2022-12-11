@@ -568,9 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Falcon 9 carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T072555">2022-12-11 07:25:55 UTC</a></sub>
 * [Boeing expanding SLS Core Stage production to KSC to build Artemis inventory](https://www.nasaspaceflight.com/2022/12/boeing-expanding-cs-prod/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T165414">2022-12-10 16:54:14 UTC</a></sub>
 * [Europe celebrates performance of Orion service module](https://spacenews.com/europe-celebrates-performance-of-orion-service-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T154334">2022-12-10 15:43:34 UTC</a></sub>
-* [SpaceX now ready for Falcon 9 launch carrying private Japanese moon lander](https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T132555">2022-12-10 13:25:55 UTC</a></sub>
 * [NASA’s Lunar Flashlight hitching ride to moon on SpaceX rocket](https://spaceflightnow.com/2022/12/10/nasas-lunar-flashlight-hitching-ride-to-moon-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T072330">2022-12-10 07:23:30 UTC</a></sub>
 * [Orion moonship closes in for Sunday re-entry and splashdown](https://spaceflightnow.com/2022/12/10/orion-moonship-closes-in-for-sunday-re-entry-and-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T050330">2022-12-10 05:03:30 UTC</a></sub>
 * [Repairs and upgrades await SLS mobile launcher before crewed lunar mission](https://spaceflightnow.com/2022/12/09/repairs-and-upgrades-await-sls-mobile-launcher-before-crewed-lunar-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T235330">2022-12-09 23:53:30 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T083617">2022-12-11 08:36:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T090721">2022-12-11 09:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
