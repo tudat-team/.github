@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [After decades of false starts, NASA really is returning to the Moon this time](https://arstechnica.com/science/2022/12/after-decades-of-false-starts-nasa-really-is-returning-to-the-moon-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T220021">2022-12-11 22:00:21 UTC</a></sub>
+* [Here’s why NASA’s Artemis I mission is so rare, and so remarkable](https://arstechnica.com/science/2022/12/after-decades-of-false-starts-nasa-really-is-returning-to-the-moon-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T220021">2022-12-11 22:00:21 UTC</a></sub>
 * [SpaceX launches lunar lander for Japanese venture ispace, which aims to create moon economy](https://www.cnbc.com/2022/12/11/spacex-launches-japanese-ispace-lunar-lander-first-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T204630">2022-12-11 20:46:30 UTC</a></sub>
 * [Splashdown! NASA’s Orion Returns to Earth After Historic Moon Mission](http://www.nasa.gov/press-release/splashdown-nasa-s-orion-returns-to-earth-after-historic-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T181300">2022-12-11 18:13:00 UTC</a></sub>
 * [NASA’s Orion capsule splashes down, completing the first Artemis moon mission](https://www.cnbc.com/2022/12/11/nasa-completes-artemis-i-moon-mission-with-orion-capsule-splash-down.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T175525">2022-12-11 17:55:25 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T223312">2022-12-11 22:33:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T230734">2022-12-11 23:07:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
