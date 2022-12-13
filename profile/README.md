@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First African nations sign Artemis Accords](https://spacenews.com/first-african-nations-sign-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T230333">2022-12-13 23:03:33 UTC</a></sub>
 * [Ariane 5 launches triple satellite mission to geostationary transfer orbit](https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T213334">2022-12-13 21:33:34 UTC</a></sub>
 * [NASA’s Big 2022: Historic Moon Mission, Webb Telescope Images, More](http://www.nasa.gov/press-release/nasa-s-big-2022-historic-moon-mission-webb-telescope-images-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T204300">2022-12-13 20:43:00 UTC</a></sub>
 * [Bill Nelson came to NASA to do two things, and he’s all out of bubblegum](https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T195546">2022-12-13 19:55:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [United Nations General Assembly approves ASAT test ban resolution](https://spacenews.com/united-nations-general-assembly-approves-asat-test-ban-resolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T105334">2022-12-13 10:53:34 UTC</a></sub>
 * [Elon’s Twitter dilemma](https://spacenews.com/elons-twitter-dilemma/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T225334">2022-12-12 22:53:34 UTC</a></sub>
 * [ThinkOrbital designing platform for in-space manufacturing, debris removal](https://spacenews.com/thinkorbital-designing-platform-for-in-space-manufacturing-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T214334">2022-12-12 21:43:34 UTC</a></sub>
-* [Technical issue likely to blame for Iranian news channel outage, says Eutelsat](https://spacenews.com/technical-issue-likely-to-blame-for-iranian-news-channel-outage-says-eutelsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T205334">2022-12-12 20:53:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T223413">2022-12-13 22:34:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T230823">2022-12-13 23:08:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
