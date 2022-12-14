@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space debris expert: Orbits will be lost—and people will die—later this decade](https://arstechnica.com/science/2022/12/space-debris-expert-orbits-will-be-lost-and-people-will-die-later-this-decade/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T114558">2022-12-14 11:45:58 UTC</a></sub>
 * [Ariane 5 rocket launches new European Meteosat satellite, two Intelsat comsats](https://spaceflightnow.com/2022/12/13/ariane-5-rocket-launches-new-european-meteosat-satellite-two-intelsat-comsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T235330">2022-12-13 23:53:30 UTC</a></sub>
 * [First African nations sign Artemis Accords](https://spacenews.com/first-african-nations-sign-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T230333">2022-12-13 23:03:33 UTC</a></sub>
 * [Ariane 5 launches triple satellite mission to geostationary transfer orbit](https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T213334">2022-12-13 21:33:34 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Quantum Space raises $15 million for cislunar spacecraft](https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150334">2022-12-13 15:03:34 UTC</a></sub>
 * [After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE](https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145001">2022-12-13 14:50:01 UTC</a></sub>
 * [United Nations General Assembly approves ASAT test ban resolution](https://spacenews.com/united-nations-general-assembly-approves-asat-test-ban-resolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T105334">2022-12-13 10:53:34 UTC</a></sub>
-* [SpaceX targeting salvo of three Falcon 9 launches this week](https://www.teslarati.com/spacex-targeting-three-back-to-back-launches-later-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T070350">2022-12-13 07:03:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T113257">2022-12-14 11:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T121506">2022-12-14 12:15:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
