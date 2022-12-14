@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space launch supply chokepoint puts U.S. in vulnerable spot, expert warns](https://spacenews.com/space-launch-supply-chokepoint-puts-u-s-in-vulnerable-spot-expert-warns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T175146">2022-12-14 17:51:46 UTC</a></sub>
 * [Historic first launch of Chinese private methane-fueled rocket ends in failure](https://spacenews.com/historic-first-launch-of-chinese-private-methane-fueled-rocket-ends-in-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T165200">2022-12-14 16:52:00 UTC</a></sub>
 * [Space debris expert: Orbits will be lost—and people will die—later this decade](https://arstechnica.com/science/2022/12/space-debris-expert-orbits-will-be-lost-and-people-will-die-later-this-decade/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T114558">2022-12-14 11:45:58 UTC</a></sub>
 * [Ariane 5 rocket launches new European Meteosat satellite, two Intelsat comsats](https://spaceflightnow.com/2022/12/13/ariane-5-rocket-launches-new-european-meteosat-satellite-two-intelsat-comsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T235330">2022-12-13 23:53:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Bill Nelson came to NASA to do two things, and he’s all out of bubblegum](https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T195546">2022-12-13 19:55:46 UTC</a></sub>
 * [Arianespace launches three spacecraft, Intelsat talks satellite refresh efforts](https://www.nasaspaceflight.com/2022/12/ariane-5-va259/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T163830">2022-12-13 16:38:30 UTC</a></sub>
 * [Quantum Space raises $15 million for cislunar spacecraft](https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T150334">2022-12-13 15:03:34 UTC</a></sub>
-* [After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE](https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T145001">2022-12-13 14:50:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T173323">2022-12-14 17:33:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T181001">2022-12-14 18:10:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
