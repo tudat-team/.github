@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Contract to Maintain Webb Telescope Operations](http://www.nasa.gov/press-release/nasa-awards-contract-to-maintain-webb-telescope-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T213100">2022-12-15 21:31:00 UTC</a></sub>
+* [NASA, AST & Science Sign Joint Spaceflight Safety Agreement](http://www.nasa.gov/press-release/nasa-ast-science-sign-joint-spaceflight-safety-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T211100">2022-12-15 21:11:00 UTC</a></sub>
 * [Soyuz MS-22 suffers coolant leak, canceling Russian spacewalk](https://www.nasaspaceflight.com/2022/12/soyuz-ms-22-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T195918">2022-12-15 19:59:18 UTC</a></sub>
 * [Investing in Space: Coopetition](https://www.cnbc.com/2022/12/15/investing-in-space-coopetition.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T164908">2022-12-15 16:49:08 UTC</a></sub>
 * [Soyuz leak cancels space station spacewalk](https://spacenews.com/soyuz-leak-cancels-space-station-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T123146">2022-12-15 12:31:46 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX delays Falcon 9 launch of SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T005457">2022-12-15 00:54:57 UTC</a></sub>
 * [Microsoft and Viasat partner to expand global connectivity access](https://spacenews.com/microsoft-and-viasat-partner-to-expand-global-connectivity-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T234146">2022-12-14 23:41:46 UTC</a></sub>
 * [NASA and Rocket Lab ready for first Electron launch from Wallops](https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
-* [U.S. space internet companies fear competitive threat from China](https://spacenews.com/u-s-space-internet-companies-fear-competitive-threat-from-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
-* [U.S. national security space strategy emphasizes resilient systems, responsible behavior](https://spacenews.com/u-s-national-security-space-strategy-emphasizes-resilient-systems-responsible-behavior/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T220147">2022-12-14 22:01:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T213226">2022-12-15 21:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T220656">2022-12-15 22:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
