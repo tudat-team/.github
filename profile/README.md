@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX Falcon 9 to launch SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T005457">2022-12-15 00:54:57 UTC</a></sub>
+* [SpaceX delays Falcon 9 launch of SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T005457">2022-12-15 00:54:57 UTC</a></sub>
 * [Microsoft and Viasat partner to expand global connectivity access](https://spacenews.com/microsoft-and-viasat-partner-to-expand-global-connectivity-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T234146">2022-12-14 23:41:46 UTC</a></sub>
 * [NASA and Rocket Lab ready for first Electron launch from Wallops](https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
 * [U.S. space internet companies fear competitive threat from China](https://spacenews.com/u-s-space-internet-companies-fear-competitive-threat-from-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T232146">2022-12-14 23:21:46 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T032048">2022-12-15 03:20:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T033738">2022-12-15 03:37:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
