@@ -573,11 +573,11 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Maxar Technologies acquired by private equity firm in $6.4 billion deal](https://spacenews.com/maxar-technologies-acquired-by-private-equity-firm-in-6-4-billion-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 * [Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut](https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T120032">2022-12-16 12:00:32 UTC</a></sub>
 * [China completes seventh space launch inside 10 days](https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T091147">2022-12-16 09:11:47 UTC</a></sub>
+* [SpaceX launches SWOT ocean research mission](https://www.nasaspaceflight.com/2022/12/falcon-9-swot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T050157">2022-12-16 05:01:57 UTC</a></sub>
 * [EOI Space forges equity and sales pact with Japan’s NTT Data](https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T233146">2022-12-15 23:31:46 UTC</a></sub>
 * [Arqit drops plan to operate quantum encryption satellites](https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
 * [Space acquisition chief: DoD will buy small satellites, at fixed prices](https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
 * [NASA Awards Contract to Maintain Webb Telescope Operations](http://www.nasa.gov/press-release/nasa-awards-contract-to-maintain-webb-telescope-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T213100">2022-12-15 21:31:00 UTC</a></sub>
-* [NASA, AST & Science Sign Joint Spaceflight Safety Agreement](http://www.nasa.gov/press-release/nasa-ast-science-sign-joint-spaceflight-safety-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T211100">2022-12-15 21:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T133301">2022-12-16 13:33:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T140655">2022-12-16 14:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
