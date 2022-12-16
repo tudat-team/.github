@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China completes seventh space launch inside 10 days](https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T091147">2022-12-16 09:11:47 UTC</a></sub>
 * [EOI Space forges equity and sales pact with Japan’s NTT Data](https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T233146">2022-12-15 23:31:46 UTC</a></sub>
-* [Space acquisition chief: DoD will buy small satellites, at fixed prices](https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
 * [Arqit drops plan to operate quantum encryption satellites](https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
+* [Space acquisition chief: DoD will buy small satellites, at fixed prices](https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
 * [NASA Awards Contract to Maintain Webb Telescope Operations](http://www.nasa.gov/press-release/nasa-awards-contract-to-maintain-webb-telescope-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T213100">2022-12-15 21:31:00 UTC</a></sub>
 * [NASA, AST & Science Sign Joint Spaceflight Safety Agreement](http://www.nasa.gov/press-release/nasa-ast-science-sign-joint-spaceflight-safety-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T211100">2022-12-15 21:11:00 UTC</a></sub>
 * [Soyuz MS-22 suffers coolant leak, canceling Russian spacewalk](https://www.nasaspaceflight.com/2022/12/soyuz-ms-22-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T195918">2022-12-15 19:59:18 UTC</a></sub>
 * [Investing in Space: Coopetition](https://www.cnbc.com/2022/12/15/investing-in-space-coopetition.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T164908">2022-12-15 16:49:08 UTC</a></sub>
 * [Soyuz leak cancels space station spacewalk](https://spacenews.com/soyuz-leak-cancels-space-station-spacewalk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T123146">2022-12-15 12:31:46 UTC</a></sub>
 * [Satellite to take pulse of Earth’s water cycle ready for launch on SpaceX rocket](https://spaceflightnow.com/2022/12/15/satellite-to-take-pulse-of-earths-water-cycle-ready-for-launch-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T071142">2022-12-15 07:11:42 UTC</a></sub>
-* [Russian engineers assessing leak from Soyuz crew spacecraft](https://spaceflightnow.com/2022/12/15/spacewalk-canceled-after-coolant-leak-from-russian-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T055142">2022-12-15 05:51:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T093227">2022-12-16 09:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T100810">2022-12-16 10:08:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
