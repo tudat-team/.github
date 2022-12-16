@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Report: India looking to purchase Russian engines; the US Electron is nigh](https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T120032">2022-12-16 12:00:32 UTC</a></sub>
+* [Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut](https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T120032">2022-12-16 12:00:32 UTC</a></sub>
 * [China completes seventh space launch inside 10 days](https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T091147">2022-12-16 09:11:47 UTC</a></sub>
 * [EOI Space forges equity and sales pact with Japan’s NTT Data](https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T233146">2022-12-15 23:31:46 UTC</a></sub>
 * [Arqit drops plan to operate quantum encryption satellites](https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T232146">2022-12-15 23:21:46 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T121314">2022-12-16 12:13:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T124943">2022-12-16 12:49:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
