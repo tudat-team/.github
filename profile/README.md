@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX booster launches for record 15th time on Starlink mission](https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223143">2022-12-17 22:31:43 UTC</a></sub>
 * [SpaceX to launch second mission from Florida within two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T145622">2022-12-17 14:56:22 UTC</a></sub>
 * [NASA postpones spacewalk to support Soyuz investigation](https://spacenews.com/nasa-postpones-spacewalk-to-support-soyuz-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T142146">2022-12-17 14:21:46 UTC</a></sub>
 * [VentureScope sets up accelerator for U.S. Air Force personnel](https://spacenews.com/venturescope-refinery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T233147">2022-12-16 23:31:47 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA's Perseverance Rover to Begin Building Martian Sample Depot](https://mars.nasa.gov/news/9319/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T152100">2022-12-16 15:21:00 UTC</a></sub>
 * [Space company Maxar agrees to go private in $6.4 billion deal ](https://www.cnbc.com/2022/12/16/maxar-selling-to-private-equity-investors-advent-bci.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T145132">2022-12-16 14:51:32 UTC</a></sub>
 * [NASA Launches International Mission to Survey Earth’s Water](http://www.nasa.gov/press-release/nasa-launches-international-mission-to-survey-earth-s-water) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T133200">2022-12-16 13:32:00 UTC</a></sub>
-* [Falcon 9 launches ocean science mission for NASA and CNES](https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T125146">2022-12-16 12:51:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223220">2022-12-17 22:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T230700">2022-12-17 23:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
