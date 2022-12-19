@@ -570,7 +570,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [L3Harris to acquire Aerojet Rocketdyne for $4.7 billion](https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T231146">2022-12-18 23:11:46 UTC</a></sub>
 * [NASA signs spaceflight safety agreement with AST SpaceMobile](https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T191153">2022-12-18 19:11:53 UTC</a></sub>
-* [Rocket Lab Electron ready to make first launch from American soil](https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T181103">2022-12-18 18:11:03 UTC</a></sub>
+* [Upper level winds scrub first Electron launch from American soil](https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T181103">2022-12-18 18:11:03 UTC</a></sub>
 * [SpaceX launches second mission from Florida within two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T015622">2022-12-18 01:56:22 UTC</a></sub>
 * [SpaceX booster launches for record 15th time on Starlink mission](https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T223143">2022-12-17 22:31:43 UTC</a></sub>
 * [FAA clears Rocket Lab for first launch from U.S. spaceport](https://spaceflightnow.com/2022/12/17/faa-clears-rocket-lab-for-first-launch-from-u-s-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T194142">2022-12-17 19:41:42 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T003616">2022-12-19 00:36:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T020230">2022-12-19 02:02:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
