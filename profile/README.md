@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [L3Harris to acquire Aerojet Rocketdyne for $4.7 billion](https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T231146">2022-12-18 23:11:46 UTC</a></sub>
 * [NASA signs spaceflight safety agreement with AST SpaceMobile](https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T191153">2022-12-18 19:11:53 UTC</a></sub>
 * [Rocket Lab Electron ready to make first launch from American soil](https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T181103">2022-12-18 18:11:03 UTC</a></sub>
 * [SpaceX launches second mission from Florida within two days](https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T015622">2022-12-18 01:56:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Perseverance prepares to deposit Mars sample cache](https://spacenews.com/perseverance-prepares-to-deposit-mars-sample-cache/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T025146">2022-12-17 02:51:46 UTC</a></sub>
 * [VentureScope sets up accelerator for U.S. Air Force personnel](https://spacenews.com/venturescope-refinery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T233147">2022-12-16 23:31:47 UTC</a></sub>
 * [White House revamps membership of National Space Council advisory group](https://spacenews.com/white-house-revamps-membership-of-national-space-council-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T210148">2022-12-16 21:01:48 UTC</a></sub>
-* [Here’s what we know, and what we don’t, about the damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/heres-what-we-know-and-what-we-dont-about-the-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T164231">2022-12-16 16:42:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T233237">2022-12-18 23:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T003616">2022-12-19 00:36:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
