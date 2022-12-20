@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Launch Services Contract for Sentinel-6B Mission](http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-sentinel-6b-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T212100">2022-12-20 21:21:00 UTC</a></sub>
 * [Arianespace to launch first operational Vega-C with two Earth observation satellites](https://www.nasaspaceflight.com/2022/12/vega-c-vv22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T200337">2022-12-20 20:03:37 UTC</a></sub>
 * [After a long struggle with Martian dust, NASA’s InSight probe has gone quiet](https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T163751">2022-12-20 16:37:51 UTC</a></sub>
 * [Fiscal year 2023 omnibus bill provides $25.4 billion for NASA](https://spacenews.com/fiscal-year-2023-omnibus-bill-provides-25-4-billion-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T130146">2022-12-20 13:01:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russians assess flight worthiness of damaged Soyuz docked at space station](https://spaceflightnow.com/2022/12/19/russians-assess-flight-worthiness-of-damaged-soyuz-docked-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T190142">2022-12-19 19:01:42 UTC</a></sub>
 * [With Hubble and Spitzer, researchers discover water-filled exoplanets](https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T172409">2022-12-19 17:24:09 UTC</a></sub>
 * [Russia says it will take no immediate action on damaged Soyuz spacecraft](https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T155955">2022-12-19 15:59:55 UTC</a></sub>
-* [South Korean spacecraft enters lunar orbit with deceleration maneuver](https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T141146">2022-12-19 14:11:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T213229">2022-12-20 21:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T220718">2022-12-20 22:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
