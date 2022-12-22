@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Spacewalk begins outside space station after debris threat](https://spaceflightnow.com/2022/12/22/iss-eva-83/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143146">2022-12-22 14:31:46 UTC</a></sub>
 * [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
+* [US spacewalk underway to install fourth iROSA after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
 * [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
 * [Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation](https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T110146">2022-12-22 11:01:46 UTC</a></sub>
 * [NASA’s InSight lander bows out after ground-shaking Mars mission](https://spaceflightnow.com/2022/12/21/nasas-insight-lander-bows-out-after-ground-shaking-mars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T231142">2022-12-21 23:11:42 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Laser links are great for satellite relay, but challenges abound for taking it to ground](https://spacenews.com/walking-a-narrow-beam-laser-links-are-great-for-satellite-relay-but-challenges-abound-for-taking-it-to-ground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T194145">2022-12-21 19:41:45 UTC</a></sub>
 * [Terran 1 and Terran R testing in full swing before Relativity’s debut](https://www.nasaspaceflight.com/2022/12/terran-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T190333">2022-12-21 19:03:33 UTC</a></sub>
 * [NASA declares end of InSight Mars mission](https://spacenews.com/nasa-declares-end-of-insight-mars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T180146">2022-12-21 18:01:46 UTC</a></sub>
-* [NASA to Host Media Briefing on Space Station Spacecraft Leak Probe](http://www.nasa.gov/press-release/nasa-to-host-media-briefing-on-space-station-spacecraft-leak-probe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T171200">2022-12-21 17:12:00 UTC</a></sub>
-* [NASA Retires InSight Mars Lander Mission After Years of Science](http://www.nasa.gov/press-release/nasa-retires-insight-mars-lander-mission-after-years-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T161100">2022-12-21 16:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143228">2022-12-22 14:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T150825">2022-12-22 15:08:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
