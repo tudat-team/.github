@@ -573,7 +573,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Studies flag environmental impact of reentry](https://spacenews.com/studies-flag-environmental-impact-of-reentry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T154146">2022-12-22 15:41:46 UTC</a></sub>
 * [Watch live: Spacewalk begins outside space station after debris threat](https://spaceflightnow.com/2022/12/22/iss-eva-83/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143146">2022-12-22 14:31:46 UTC</a></sub>
 * [China sets out clear and independent long-term vision for space](https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131147">2022-12-22 13:11:47 UTC</a></sub>
-* [US spacewalk underway to install fourth iROSA after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
+* [US spacewalk to install fourth iROSA completed after debris avoidance maneuver](https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131055">2022-12-22 13:10:55 UTC</a></sub>
 * [Independent panel to investigate Vega C launch failure](https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T130146">2022-12-22 13:01:46 UTC</a></sub>
 * [Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation](https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T110146">2022-12-22 11:01:46 UTC</a></sub>
 * [NASA’s InSight lander bows out after ground-shaking Mars mission](https://spaceflightnow.com/2022/12/21/nasas-insight-lander-bows-out-after-ground-shaking-mars-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T231142">2022-12-21 23:11:42 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T203234">2022-12-22 20:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T210702">2022-12-22 21:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
