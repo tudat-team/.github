@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Magnestar creates platform to predict RF interference](https://spacenews.com/introducing-magnestar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T130332">2022-12-27 13:03:32 UTC</a></sub>
 * [SpaceX’s first “next-gen” Starlink satellites are suspiciously familiar](https://www.teslarati.com/spacex-last-starlink-launch-2022-mystery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221226T075349">2022-12-26 07:53:49 UTC</a></sub>
 * [Congress adds $1.7 billion for U.S. Space Force in 2023 spending bill](https://spacenews.com/congress-adds-1-7-billion-for-u-s-space-force-in-2023-spending-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221224T202330">2022-12-24 20:23:30 UTC</a></sub>
 * [Senate passes orbit debris cleanup bill](https://spacenews.com/senate-passes-orbit-debris-cleanup-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T202331">2022-12-23 20:23:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Explores a Winter Wonderland on Mars](https://mars.nasa.gov/news/9326/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T233200">2022-12-22 23:32:00 UTC</a></sub>
 * [NASA Awards Contract for Aircraft Support Services](http://www.nasa.gov/press-release/nasa-awards-contract-for-aircraft-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T214100">2022-12-22 21:41:00 UTC</a></sub>
 * [Eutelsat taking financial hit from TV sanctions against Russia and Iran](https://spacenews.com/eutelsat-taking-financial-hit-from-tv-sanctions-against-russia-and-iran/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T211146">2022-12-22 21:11:46 UTC</a></sub>
-* [Northrop Grumman clears key hurdle for space-based solar power](https://spacenews.com/northrop-grumman-tests-space-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T183147">2022-12-22 18:31:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T131235">2022-12-27 13:12:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T133224">2022-12-27 13:32:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
