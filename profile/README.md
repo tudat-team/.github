@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to launch new station modules and collaborate with Europe on science missions in 2023](https://www.nasaspaceflight.com/2022/12/china-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T215625">2022-12-30 21:56:25 UTC</a></sub>
+* [Starlink opens offices in Azerbaijan](https://www.teslarati.com/starlink-azerbaijan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T213349">2022-12-30 21:33:49 UTC</a></sub>
 * [China looks to build space partnerships with Gulf nations](https://spacenews.com/china-looks-to-build-space-partnerships-with-gulf-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T135330">2022-12-30 13:53:30 UTC</a></sub>
 * [SpaceX completes record year with Israeli imaging satellite launch](https://spacenews.com/spacex-completes-record-year-with-israeli-imaging-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T132330">2022-12-30 13:23:30 UTC</a></sub>
 * [SpaceX ties 42-year-old Soviet record with last launch of 2022](https://www.teslarati.com/spacex-ties-42-year-old-record-last-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T083347">2022-12-30 08:33:47 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Cubesat launched on Artemis 1 trying to fix propulsion system](https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T130330">2022-12-29 13:03:30 UTC</a></sub>
 * [China sends second Shiyan-10 test satellite sent into orbit with its final launch of 2022](https://spacenews.com/china-sends-second-shiyan-10-test-satellite-sent-into-orbit-with-its-final-launch-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T122331">2022-12-29 12:23:31 UTC</a></sub>
 * [ESA to hire more staff after budget increase](https://spacenews.com/esa-to-hire-more-staff-after-budget-increase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T012331">2022-12-29 01:23:31 UTC</a></sub>
-* [Russian space program facing challenges ahead of ambitious 2023](https://www.nasaspaceflight.com/2022/12/russia-ambitious-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T211623">2022-12-28 21:16:23 UTC</a></sub>
-* [Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing](https://spacenews.com/thales-alenia-space-studying-reusable-spacecraft-for-in-orbit-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T143341">2022-12-28 14:33:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T213242">2022-12-30 21:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T220712">2022-12-30 22:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
