@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Apollo Astronaut Walter Cunningham Dies at 90](http://www.nasa.gov/press-release/apollo-astronaut-walter-cunningham-dies-at-90) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T222300">2023-01-03 22:23:00 UTC</a></sub>
+* [SpaceX launches 114 small satellites on first mission of 2023](https://spaceflightnow.com/2023/01/03/falcon-9-transporter-6-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T221326">2023-01-03 22:13:26 UTC</a></sub>
 * [NASA Awards Space and Earth Sciences Data Analysis-V Contract](http://www.nasa.gov/press-release/nasa-awards-space-and-earth-sciences-data-analysis-v-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T212300">2023-01-03 21:23:00 UTC</a></sub>
 * [SpaceX kicks off 2023 with second largest rideshare launch](https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T201346">2023-01-03 20:13:46 UTC</a></sub>
 * [Space Force launches weather-imaging cubesat for year-long demonstration](https://spacenews.com/space-force-launches-weather-imaging-cubesat-for-year-long-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T192334">2023-01-03 19:23:34 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [After doubling launch record in 2022, can SpaceX take another step up in 2023?](https://arstechnica.com/science/2023/01/after-doubling-launch-record-in-2022-can-spacex-take-another-step-up-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T134848">2023-01-03 13:48:48 UTC</a></sub>
 * [NASA planetary science budget remains under stress](https://spacenews.com/nasa-planetary-science-budget-remains-under-stress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T125329">2023-01-03 12:53:29 UTC</a></sub>
 * [SpaceX rings in 2023 with Transporter-6 rideshare mission](https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020012">2023-01-03 02:00:12 UTC</a></sub>
-* [Space solar power experiment, 36 Planet imaging satellites on SpaceX rideshare mission](https://spaceflightnow.com/2023/01/02/space-solar-power-experiment-36-planet-earth-imaging-satellites-on-spacex-rideshare-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T124326">2023-01-02 12:43:26 UTC</a></sub>
-* [Military officials forecast 87 launches from Florida’s Space Coast in 2023](https://spaceflightnow.com/2023/01/02/military-officials-forecast-87-launches-from-floridas-space-coast-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T055327">2023-01-02 05:53:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T223256">2023-01-03 22:32:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T230746">2023-01-03 23:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
