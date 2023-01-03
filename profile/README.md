@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX ringing in 2023 with Transporter-6 rideshare mission](https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020012">2023-01-03 02:00:12 UTC</a></sub>
+* [Revenue shortfall causes layoffs and delays at Satellogic](https://spacenews.com/revenue-shortfall-causes-layoffs-and-delays-at-satellogic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T004329">2023-01-02 00:43:29 UTC</a></sub>
 * [SpaceX will try to follow record-breaking 2022 with busier 2023](https://www.nasaspaceflight.com/2022/12/spacex-2022-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T190130">2022-12-31 19:01:30 UTC</a></sub>
 * [SpaceX threw its annual 2022 holiday parties and was a hit on TikTok](https://www.teslarati.com/spacex-2022-holiday-party-tiktok/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T142349">2022-12-31 14:23:49 UTC</a></sub>
 * [SpaceX launch of Israeli satellite marks company’s 61st mission of 2022](https://spaceflightnow.com/2022/12/30/spacex-launch-of-israeli-satellite-marks-companys-61st-mission-of-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T230326">2022-12-30 23:03:26 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China looks to build space partnerships with Gulf nations](https://spacenews.com/china-looks-to-build-space-partnerships-with-gulf-nations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T135330">2022-12-30 13:53:30 UTC</a></sub>
 * [SpaceX completes record year with Israeli imaging satellite launch](https://spacenews.com/spacex-completes-record-year-with-israeli-imaging-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T132330">2022-12-30 13:23:30 UTC</a></sub>
 * [SpaceX ties 42-year-old Soviet record with last launch of 2022](https://www.teslarati.com/spacex-ties-42-year-old-record-last-launch-2022/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T083347">2022-12-30 08:33:47 UTC</a></sub>
-* [SpaceX launches EROS-C3 observation satellite from Vandenberg](https://www.nasaspaceflight.com/2022/12/eros-c3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T075020">2022-12-30 07:50:20 UTC</a></sub>
-* [Investing in Space: A year to forget for space stocks](https://www.cnbc.com/2022/12/29/investing-in-space-a-year-to-forget-for-space-stocks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T155142">2022-12-29 15:51:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T003923">2023-01-03 00:39:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T020551">2023-01-03 02:05:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
