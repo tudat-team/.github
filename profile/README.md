@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China is expanding its Wenchang spaceport to host commercial and crewed moon launches](https://spacenews.com/china-is-expanding-its-wenchang-spaceport-to-host-commercial-and-crewed-moon-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T115330">2023-01-04 11:53:30 UTC</a></sub>
 * [SpaceX eyes West Coast for first Starlink launch of 2023](https://www.teslarati.com/spacex-california-first-starlink-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T083348">2023-01-04 08:33:48 UTC</a></sub>
 * [Apollo Astronaut Walter Cunningham Dies at 90](http://www.nasa.gov/press-release/apollo-astronaut-walter-cunningham-dies-at-90) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T222300">2023-01-03 22:23:00 UTC</a></sub>
 * [SpaceX launches 114 small satellites on first mission of 2023](https://spaceflightnow.com/2023/01/03/falcon-9-transporter-6-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T221326">2023-01-03 22:13:26 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Iridium enters service agreement for direct-to-smartphone satellite service](https://spacenews.com/iridium-enters-service-agreement-for-direct-to-smartphone-satellite-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T180329">2023-01-03 18:03:29 UTC</a></sub>
 * [SpaceX begins 2023 with Transporter-6 launch](https://spacenews.com/spacex-begins-2023-with-transporter-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T170329">2023-01-03 17:03:29 UTC</a></sub>
 * [After doubling launch record in 2022, can SpaceX take another step up in 2023?](https://arstechnica.com/science/2023/01/after-doubling-launch-record-in-2022-can-spacex-take-another-step-up-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T134848">2023-01-03 13:48:48 UTC</a></sub>
-* [NASA planetary science budget remains under stress](https://spacenews.com/nasa-planetary-science-budget-remains-under-stress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T125329">2023-01-03 12:53:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T113239">2023-01-04 11:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T121424">2023-01-04 12:14:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
