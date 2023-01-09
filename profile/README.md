@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NOAA declares GOES-18 operational ahead of schedule](https://spacenews.com/goes-18-becomes-goes-west/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T185329">2023-01-09 18:53:29 UTC</a></sub>
 * [NASA Names New Agency-Wide Chief Technologist](http://www.nasa.gov/press-release/nasa-names-new-agency-wide-chief-technologist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T180300">2023-01-09 18:03:00 UTC</a></sub>
 * [Virgin Orbit to conduct first mission from the UK with Start Me Up](https://www.nasaspaceflight.com/2023/01/virgin-orbit-start-me-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T162904">2023-01-09 16:29:04 UTC</a></sub>
 * [Virgin Orbit says it is ready to make history in the United Kingdom tonight](https://arstechnica.com/science/2023/01/the-first-orbital-launch-from-western-europe-could-happen-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T143310">2023-01-09 14:33:10 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Orbit ready for first U.K. launch](https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T223330">2023-01-08 22:33:30 UTC</a></sub>
 * [SpaceX gearing up for Falcon Heavy’s second national security launch](https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T173330">2023-01-08 17:33:30 UTC</a></sub>
 * [Virgin Orbit counting down to first historic satellite launch from British soil](https://spaceflightnow.com/2023/01/08/virgin-orbit-counting-down-to-first-historic-satellite-launch-from-british-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T145326">2023-01-08 14:53:26 UTC</a></sub>
-* [Elon Musk: SpaceX’s first orbital Starship launch “highly likely” in Q1 2023](https://www.teslarati.com/spacex-starship-orbital-launch-mount-stress-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T062343">2023-01-08 06:23:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T183707">2023-01-09 18:37:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T190640">2023-01-09 19:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
