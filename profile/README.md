@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rogue Space hires sustainability expert to advocate for startup-friendly policies](https://spacenews.com/rogue-space-hires-sustainability-expert-to-advocate-for-startup-friendly-policies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T134331">2023-01-09 13:43:31 UTC</a></sub>
 * [China’s Tianwen-1 Mars orbiter and rover appear to be in trouble](https://spacenews.com/chinas-tianwen-1-mars-orbiter-and-rover-appear-to-be-in-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T121330">2023-01-09 12:13:30 UTC</a></sub>
 * [Pair of Chinese launches put classified and commercial satellites into orbit](https://spacenews.com/pair-of-chinese-launches-put-classified-and-commercial-satellites-into-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T094329">2023-01-09 09:43:29 UTC</a></sub>
 * [Virgin Orbit ready for first U.K. launch](https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T223330">2023-01-08 22:33:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launch preps underway for first of up to five Falcon Heavy missions this year](https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T072326">2023-01-07 07:23:26 UTC</a></sub>
 * [Delta throws down the gauntlet with free Wi-Fi plan](https://spacenews.com/delta-airlines-throws-down-the-gauntlet-with-free-wi-fi-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T213332">2023-01-06 21:33:32 UTC</a></sub>
 * [Aiming for instantaneous Earth-observation data](https://spacenews.com/baris-erkmen-hedron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T203332">2023-01-06 20:33:32 UTC</a></sub>
-* [Some details have emerged about Blue Origin’s “Blue Ring” project](https://arstechnica.com/science/2023/01/blue-origin-is-developing-a-space-tug-for-its-new-glenn-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T194345">2023-01-06 19:43:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T133647">2023-01-09 13:36:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T141008">2023-01-09 14:10:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
