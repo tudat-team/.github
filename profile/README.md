@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon Heavy rocket rolls out for first launch of 2023](https://www.teslarati.com/spacex-falcon-heavy-ussf-67-rollout-launch-prep/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T210344">2023-01-09 21:03:44 UTC</a></sub>
+* [NASA Selects Experimental Space Technology Concepts for Initial Study](http://www.nasa.gov/press-release/nasa-selects-experimental-space-technology-concepts-for-initial-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T202300">2023-01-09 20:23:00 UTC</a></sub>
+* [Space Force looking to extend laser communications to satellites in higher orbits](https://spacenews.com/space-force-looking-to-extend-laser-communications-to-satellites-in-higher-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T201329">2023-01-09 20:13:29 UTC</a></sub>
 * [NOAA declares GOES-18 operational ahead of schedule](https://spacenews.com/goes-18-becomes-goes-west/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T185329">2023-01-09 18:53:29 UTC</a></sub>
 * [NASA Names New Agency-Wide Chief Technologist](http://www.nasa.gov/press-release/nasa-names-new-agency-wide-chief-technologist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T180300">2023-01-09 18:03:00 UTC</a></sub>
 * [Virgin Orbit to conduct first mission from the UK with Start Me Up](https://www.nasaspaceflight.com/2023/01/virgin-orbit-start-me-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T162904">2023-01-09 16:29:04 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rogue Space hires sustainability expert to advocate for startup-friendly policies](https://spacenews.com/rogue-space-hires-sustainability-expert-to-advocate-for-startup-friendly-policies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T134331">2023-01-09 13:43:31 UTC</a></sub>
 * [China’s Tianwen-1 Mars orbiter and rover appear to be in trouble](https://spacenews.com/chinas-tianwen-1-mars-orbiter-and-rover-appear-to-be-in-trouble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T121330">2023-01-09 12:13:30 UTC</a></sub>
 * [Pair of Chinese launches put classified and commercial satellites into orbit](https://spacenews.com/pair-of-chinese-launches-put-classified-and-commercial-satellites-into-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T094329">2023-01-09 09:43:29 UTC</a></sub>
-* [Virgin Orbit ready for first U.K. launch](https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T223330">2023-01-08 22:33:30 UTC</a></sub>
-* [SpaceX gearing up for Falcon Heavy’s second national security launch](https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T173330">2023-01-08 17:33:30 UTC</a></sub>
-* [Virgin Orbit counting down to first historic satellite launch from British soil](https://spaceflightnow.com/2023/01/08/virgin-orbit-counting-down-to-first-historic-satellite-launch-from-british-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T145326">2023-01-08 14:53:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T203347">2023-01-09 20:33:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T210747">2023-01-09 21:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
