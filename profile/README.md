@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Names New Agency-Wide Chief Technologist](http://www.nasa.gov/press-release/nasa-names-new-agency-wide-chief-technologist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T180300">2023-01-09 18:03:00 UTC</a></sub>
 * [Virgin Orbit to conduct first mission from the UK with Start Me Up](https://www.nasaspaceflight.com/2023/01/virgin-orbit-start-me-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T162904">2023-01-09 16:29:04 UTC</a></sub>
 * [Virgin Orbit says it is ready to make history in the United Kingdom tonight](https://arstechnica.com/science/2023/01/the-first-orbital-launch-from-western-europe-could-happen-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T143310">2023-01-09 14:33:10 UTC</a></sub>
 * [Rogue Space hires sustainability expert to advocate for startup-friendly policies](https://spacenews.com/rogue-space-hires-sustainability-expert-to-advocate-for-startup-friendly-policies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T134331">2023-01-09 13:43:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX gearing up for Falcon Heavy’s second national security launch](https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T173330">2023-01-08 17:33:30 UTC</a></sub>
 * [Virgin Orbit counting down to first historic satellite launch from British soil](https://spaceflightnow.com/2023/01/08/virgin-orbit-counting-down-to-first-historic-satellite-launch-from-british-soil/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T145326">2023-01-08 14:53:26 UTC</a></sub>
 * [Elon Musk: SpaceX’s first orbital Starship launch “highly likely” in Q1 2023](https://www.teslarati.com/spacex-starship-orbital-launch-mount-stress-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T062343">2023-01-08 06:23:43 UTC</a></sub>
-* [Defunct NASA satellite reenters](https://spacenews.com/defunct-nasa-satellite-to-reenter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T121330">2023-01-07 12:13:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T173642">2023-01-09 17:36:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T181017">2023-01-09 18:10:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
