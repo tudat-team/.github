@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX set to launch OneWeb Flight #16 mission from Florida](https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T233923">2023-01-09 23:39:23 UTC</a></sub>
 * [SpaceX cargo capsule undocks from space station, heads for splashdown](https://spaceflightnow.com/2023/01/09/spacex-crs-26-undocking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T223327">2023-01-09 22:33:27 UTC</a></sub>
 * [Observing lightning with a cubesat constellation](https://spacenews.com/cubespark-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T222329">2023-01-09 22:23:29 UTC</a></sub>
 * [European firms partner for LEO collision avoidance demo](https://spacenews.com/european-firms-partner-for-leo-collision-avoidance-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T222329">2023-01-09 22:23:29 UTC</a></sub>
@@ -576,8 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force looking to extend laser communications to satellites in higher orbits](https://spacenews.com/space-force-looking-to-extend-laser-communications-to-satellites-in-higher-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T201329">2023-01-09 20:13:29 UTC</a></sub>
 * [NOAA declares GOES-18 operational ahead of schedule](https://spacenews.com/goes-18-becomes-goes-west/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T185329">2023-01-09 18:53:29 UTC</a></sub>
 * [NASA Names New Agency-Wide Chief Technologist](http://www.nasa.gov/press-release/nasa-names-new-agency-wide-chief-technologist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T180300">2023-01-09 18:03:00 UTC</a></sub>
-* [Virgin Orbit to conduct first mission from the UK with Start Me Up](https://www.nasaspaceflight.com/2023/01/virgin-orbit-start-me-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T162904">2023-01-09 16:29:04 UTC</a></sub>
-* [Virgin Orbit says it is ready to make history in the United Kingdom tonight](https://arstechnica.com/science/2023/01/the-first-orbital-launch-from-western-europe-could-happen-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T143310">2023-01-09 14:33:10 UTC</a></sub>
+* [Virgin Orbit fails on first mission from the UK with Start Me Up](https://www.nasaspaceflight.com/2023/01/virgin-orbit-start-me-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T162904">2023-01-09 16:29:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T233243">2023-01-09 23:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T004254">2023-01-10 00:42:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
