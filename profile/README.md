@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, NOAA to Announce 2022 Global Temperatures, Climate Conditions](http://www.nasa.gov/press-release/nasa-noaa-to-announce-2022-global-temperatures-climate-conditions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T180200">2023-01-10 18:02:00 UTC</a></sub>
+* [Astronomers celebrate performance of JWST](https://spacenews.com/astronomers-celebrate-performance-of-jwst/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T175218">2023-01-10 17:52:18 UTC</a></sub>
 * [Even before Monday’s launch failure, Virgin Orbit’s finances were dismal](https://arstechnica.com/science/2023/01/even-before-mondays-launch-failure-virgin-orbits-finances-were-dismal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T143017">2023-01-10 14:30:17 UTC</a></sub>
 * [Capella Space raises $60 million from fund run by billionaire entertainment exec Thomas Tull](https://www.cnbc.com/2023/01/10/capella-space-raises-60-million-from-billionaire-thomas-tulls-fund.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T140001">2023-01-10 14:00:01 UTC</a></sub>
 * [OneWeb two launches away from going global after SpaceX mission](https://spacenews.com/oneweb-two-launches-away-from-going-global-after-spacex-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T135217">2023-01-10 13:52:17 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX sends 40 more OneWeb internet satellites into orbit](https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T071326">2023-01-10 07:13:26 UTC</a></sub>
 * [SpaceX launches OneWeb Flight #16 mission from Florida](https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053923">2023-01-10 05:39:23 UTC</a></sub>
 * [Commercial innovation for NOAA ground enterprise architecture](https://spacenews.com/noaa-enterprise-ground-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T053330">2023-01-10 05:33:30 UTC</a></sub>
-* [The first orbital launch attempt from the UK ends in failure](https://arstechnica.com/science/2023/01/virgin-orbits-launcherone-rocket-suffers-anomaly-fails-to-reach-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T005607">2023-01-10 00:56:07 UTC</a></sub>
-* [Virgin Orbit stock plummets after failure of its first UK rocket launch](https://www.cnbc.com/2023/01/09/virgin-orbit-stock-plummets-after-uk-launch-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T005350">2023-01-10 00:53:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T173449">2023-01-10 17:34:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T180951">2023-01-10 18:09:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
