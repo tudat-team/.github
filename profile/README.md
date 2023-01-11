@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia will abandon Soyuz on orbit, fly up a new one to bring crew home](https://arstechnica.com/science/2023/01/russia-will-abandon-soyuz-on-orbit-fly-up-a-new-one-to-bring-crew-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T152524">2023-01-11 15:25:24 UTC</a></sub>
 * [Rocket builder ABL’s inaugural launch fails shortly after liftoff, damages launchpad](https://www.cnbc.com/2023/01/11/abl-space-inaugural-launch-fails-damages-alaska-launchpad.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T144246">2023-01-11 14:42:46 UTC</a></sub>
 * [Roscosmos to launch uncrewed Soyuz to replace damaged spacecraft at ISS](https://spacenews.com/roscosmos-to-launch-uncrewed-soyuz-to-replace-damaged-spacecraft-at-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T122222">2023-01-11 12:22:22 UTC</a></sub>
 * [SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations](https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T235233">2023-01-10 23:52:33 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Full steam ahead for NOAA’s $20 billion GeoXO program](https://spacenews.com/20-billion-geoxo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T205221">2023-01-10 20:52:21 UTC</a></sub>
 * [airBaltic will equip its fleet with Starlink](https://www.teslarati.com/airbaltic-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T203233">2023-01-10 20:32:33 UTC</a></sub>
 * [Geospatial industry investor Keith Masback joins board of directors of Cognitive Space](https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T200218">2023-01-10 20:02:18 UTC</a></sub>
-* [NASA to Host Media Update on Space Station Plans, Soyuz Status](http://www.nasa.gov/press-release/nasa-to-host-media-update-on-space-station-plans-soyuz-status) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T190200">2023-01-10 19:02:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T151716">2023-01-11 15:17:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T155030">2023-01-11 15:50:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
