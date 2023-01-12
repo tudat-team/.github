@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpiderOak raises $16.4 million in Series C funding round](https://spacenews.com/spideroak-series-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T165218">2023-01-12 16:52:18 UTC</a></sub>
+* [Investing in Space: Digital orbital danger](https://www.cnbc.com/2023/01/12/investing-in-space-digital-orbital-danger-spideroak-fundraise.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161843">2023-01-12 16:18:43 UTC</a></sub>
 * [NASA Says 2022 Fifth Warmest Year on Record, Warming Trend Continues](http://www.nasa.gov/press-release/nasa-says-2022-fifth-warmest-year-on-record-warming-trend-continues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161200">2023-01-12 16:12:00 UTC</a></sub>
 * [La NASA afirma que 2022 es el quinto año más cálido registrado](http://www.nasa.gov/nasa.gov/press-release/2022-quinto-mas-calido-registrado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161200">2023-01-12 16:12:00 UTC</a></sub>
 * [Here’s the story of a lunar image that doesn’t look remarkable, but really is](https://arstechnica.com/science/2023/01/koreas-new-orbiter-just-gave-us-a-remarkable-view-of-the-moons-hidden-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T141116">2023-01-12 14:11:16 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force official: To beat China, U.S. has to spend smarter](https://spacenews.com/space-force-official-to-beat-china-u-s-has-to-spend-smarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T223218">2023-01-11 22:32:18 UTC</a></sub>
 * [Japan’s Prime Minister, US Secretary of State to Visit NASA](http://www.nasa.gov/press-release/japan-s-prime-minister-us-secretary-of-state-to-visit-nasa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T222200">2023-01-11 22:22:00 UTC</a></sub>
 * [SpaceX Falcon Heavy rocket tests 27 engines for military rideshare launch](https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T215233">2023-01-11 21:52:33 UTC</a></sub>
-* [Progress and obstacles for space weather forecasting](https://spacenews.com/space-weather-ams-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T213218">2023-01-11 21:32:18 UTC</a></sub>
-* [Europe’s investment arm loans SES 300 million euros to bolster space industry](https://spacenews.com/europes-investment-arm-loans-ses-300-million-euros-to-bolster-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T212218">2023-01-11 21:22:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T162129">2023-01-12 16:21:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T170506">2023-01-12 17:05:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
