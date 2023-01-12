@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Says 2022 Fifth Warmest Year on Record, Warming Trend Continues](http://www.nasa.gov/press-release/nasa-says-2022-fifth-warmest-year-on-record-warming-trend-continues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161200">2023-01-12 16:12:00 UTC</a></sub>
+* [La NASA afirma que 2022 es el quinto año más cálido registrado](http://www.nasa.gov/nasa.gov/press-release/2022-quinto-mas-calido-registrado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T161200">2023-01-12 16:12:00 UTC</a></sub>
 * [Here’s the story of a lunar image that doesn’t look remarkable, but really is](https://arstechnica.com/science/2023/01/koreas-new-orbiter-just-gave-us-a-remarkable-view-of-the-moons-hidden-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T141116">2023-01-12 14:11:16 UTC</a></sub>
 * [Virgin Orbit blames launch failure on upper stage anomaly](https://spacenews.com/virgin-orbit-blames-launch-failure-on-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T130217">2023-01-12 13:02:17 UTC</a></sub>
 * [SpaceX Dragon spacecraft returns NASA cargo to Earth after six weeks in space](https://www.teslarati.com/spacex-crs-26-cargo-dragon-reentry-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T231235">2023-01-11 23:12:35 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Falcon Heavy rocket tests 27 engines for military rideshare launch](https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T215233">2023-01-11 21:52:33 UTC</a></sub>
 * [Progress and obstacles for space weather forecasting](https://spacenews.com/space-weather-ams-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T213218">2023-01-11 21:32:18 UTC</a></sub>
 * [Europe’s investment arm loans SES 300 million euros to bolster space industry](https://spacenews.com/europes-investment-arm-loans-ses-300-million-euros-to-bolster-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T212218">2023-01-11 21:22:18 UTC</a></sub>
-* [NASA Awards Contracts for Human Capital Support Services](http://www.nasa.gov/press-release/nasa-awards-contracts-for-human-capital-support-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T211200">2023-01-11 21:12:00 UTC</a></sub>
-* [Russia to launch replacement for damaged Soyuz crew ship at space station](https://spaceflightnow.com/2023/01/11/russia-to-launch-replacement-for-damaged-soyuz-crew-capsule-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T175215">2023-01-11 17:52:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T155052">2023-01-12 15:50:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T162129">2023-01-12 16:21:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
