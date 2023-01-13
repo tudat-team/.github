@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits](https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T214218">2023-01-13 21:42:18 UTC</a></sub>
 * [Space Force weighing new approach for selecting national security launch providers](https://spacenews.com/space-force-weighing-new-approach-for-selecting-national-security-launch-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T203219">2023-01-13 20:32:19 UTC</a></sub>
 * [NASA to Provide Coverage of US Spacewalk, Preview News Conference](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T200200">2023-01-13 20:02:00 UTC</a></sub>
 * [Stratospheric ballooning company World View to go public in SPAC deal](https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T183219">2023-01-13 18:32:19 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESPA satellites maturing as the preferred ride for small national security payloads](https://spacenews.com/espa-satellites-maturing-as-the-preferred-ride-for-small-national-security-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T230219">2023-01-12 23:02:19 UTC</a></sub>
 * [NASA to Announce Major Eco-Friendly Aviation Project Update](http://www.nasa.gov/press-release/nasa-to-announce-major-eco-friendly-aviation-project-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T221200">2023-01-12 22:12:00 UTC</a></sub>
 * [El reto TechRise de la NASA premia a estudiantes con una oportunidad de volar](http://www.nasa.gov/press-release/el-reto-techrise-de-la-nasa-premia-a-estudiantes-con-una-oportunidad-de-volar) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T214200">2023-01-12 21:42:00 UTC</a></sub>
-* [NASA Awards Safety, Mission Assurance, Services Contract](http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T212200">2023-01-12 21:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T213236">2023-01-13 21:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T220650">2023-01-13 22:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
