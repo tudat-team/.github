@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX edges closer to first Starship orbital launch attempt](https://spacenews.com/spacex-edges-closer-to-first-starship-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T131219">2023-01-13 13:12:19 UTC</a></sub>
 * [Rocket Report: Starship may actually be near liftoff; China’s copycat booster designs](https://arstechnica.com/science/2023/01/rocket-report-starship-may-actually-be-near-liftoff-chinas-copycat-booster-designs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T120043">2023-01-13 12:00:43 UTC</a></sub>
 * [ESPA satellites maturing as the preferred ride for small national security payloads](https://spacenews.com/espa-satellites-maturing-as-the-preferred-ride-for-small-national-security-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T230219">2023-01-12 23:02:19 UTC</a></sub>
 * [NASA to Announce Major Eco-Friendly Aviation Project Update](http://www.nasa.gov/press-release/nasa-to-announce-major-eco-friendly-aviation-project-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T221200">2023-01-12 22:12:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Students Flight Opportunity in TechRise Challenge](http://www.nasa.gov/press-release/nasa-awards-students-flight-opportunity-in-techrise-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T194200">2023-01-12 19:42:00 UTC</a></sub>
 * [InSight Principal Investigator talks Mars lander’s final days](https://www.nasaspaceflight.com/2023/01/insight-final-days/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T181952">2023-01-12 18:19:52 UTC</a></sub>
 * [U.S. Space Force considers a second NOAA weather satellite](https://spacenews.com/space-force-weather-ams/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T171220">2023-01-12 17:12:20 UTC</a></sub>
-* [SpiderOak raises $16.4 million in Series C funding round](https://spacenews.com/spideroak-series-c/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T165218">2023-01-12 16:52:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T131604">2023-01-13 13:16:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T133616">2023-01-13 13:36:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
