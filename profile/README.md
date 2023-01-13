@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Extraterrestrial frosts](https://www.planetary.org/the-downlink/extraterrestrial-frosts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T153232">2023-01-13 15:32:32 UTC</a></sub>
 * [Here are some of our favorite LightSail 2 pictures](https://www.planetary.org/articles/favorite-lightsail-2-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T152233">2023-01-12 15:22:33 UTC</a></sub>
 * [Worthy goals for a lifelong love of space](https://www.planetary.org/the-downlink/worthy-goals-for-a-lifelong-love-of-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T153348">2023-01-06 15:33:48 UTC</a></sub>
 * [How to see Comet 2022 E3 (ZTF)](https://www.planetary.org/articles/how-to-see-comet-2022-e3-ztf) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T145347">2023-01-06 14:53:47 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Cookie Declaration](https://www.planetary.org/cookie-declaration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153204">2022-12-20 15:32:04 UTC</a></sub>
 * [Privacy Policy](https://www.planetary.org/privacy-policy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153203">2022-12-20 15:32:03 UTC</a></sub>
 * [A deep dive into the Neptune system with JWST](https://www.planetary.org/articles/a-deep-dive-into-the-neptune-system-with-jwst) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T152206">2022-12-20 15:22:06 UTC</a></sub>
-* [Capturing the Cosmos](https://www.planetary.org/the-downlink/capturing-the-cosmos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T153214">2022-12-16 15:32:14 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T153533">2023-01-13 15:35:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T161223">2023-01-13 16:12:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
