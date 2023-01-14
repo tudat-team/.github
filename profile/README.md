@@ -575,9 +575,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Provide Coverage of US Spacewalk, Preview News Conference](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T200200">2023-01-13 20:02:00 UTC</a></sub>
 * [Stratospheric ballooning company World View to go public in SPAC deal](https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T183219">2023-01-13 18:32:19 UTC</a></sub>
 * [NASA Selects Shawn Quinn to Lead Exploration Ground Systems Program](http://www.nasa.gov/press-release/nasa-selects-shawn-quinn-to-lead-exploration-ground-systems-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T163200">2023-01-13 16:32:00 UTC</a></sub>
+* [U.S. military payloads mated to SpaceX Falcon Heavy rocket for weekend launch](https://spaceflightnow.com/2023/01/13/u-s-military-payloads-mated-to-spacex-falcon-heavy-rocket-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T142215">2023-01-13 14:22:15 UTC</a></sub>
 * [SpaceX edges closer to first Starship orbital launch attempt](https://spacenews.com/spacex-edges-closer-to-first-starship-orbital-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T131219">2023-01-13 13:12:19 UTC</a></sub>
 * [Rocket Report: Starship may actually be near liftoff; China’s copycat booster designs](https://arstechnica.com/science/2023/01/rocket-report-starship-may-actually-be-near-liftoff-chinas-copycat-booster-designs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T120043">2023-01-13 12:00:43 UTC</a></sub>
-* [ESPA satellites maturing as the preferred ride for small national security payloads](https://spacenews.com/espa-satellites-maturing-as-the-preferred-ride-for-small-national-security-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T230219">2023-01-12 23:02:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T143231">2023-01-14 14:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T150716">2023-01-14 15:07:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
