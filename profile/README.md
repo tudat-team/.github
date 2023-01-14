@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA studying thruster problem with lunar cubesat](https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230219">2023-01-14 23:02:19 UTC</a></sub>
 * [Falcon Heavy launch of USSF-67 slips to Sunday](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
 * [After a slow start, SpaceX’s Falcon Heavy rocket is about to hit its stride](https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T161917">2023-01-14 16:19:17 UTC</a></sub>
 * [US, Japan Sign Space Collaboration Agreement at NASA Headquarters](http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T231200">2023-01-13 23:12:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Provide Coverage of US Spacewalk, Preview News Conference](http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T200200">2023-01-13 20:02:00 UTC</a></sub>
 * [Stratospheric ballooning company World View to go public in SPAC deal](https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T183219">2023-01-13 18:32:19 UTC</a></sub>
 * [Northrop Grumman heralds converted adapter rings as rideshare solution for military payloads](https://spaceflightnow.com/2023/01/13/northrop-grumman-heralds-converted-adapter-rings-as-rideshare-solution-for-military-payloads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T164215">2023-01-13 16:42:15 UTC</a></sub>
-* [NASA Selects Shawn Quinn to Lead Exploration Ground Systems Program](http://www.nasa.gov/press-release/nasa-selects-shawn-quinn-to-lead-exploration-ground-systems-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T163200">2023-01-13 16:32:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T223211">2023-01-14 22:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230721">2023-01-14 23:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
