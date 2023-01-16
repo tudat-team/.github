@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Webb peers at young star’s dusty disk, discovers an exoplanet, and uncovers star formation](https://www.nasaspaceflight.com/2023/01/jwst-science-aas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T210056">2023-01-16 21:00:56 UTC</a></sub>
 * [Study: Space industry deploying more satellites that deliver sharper images](https://spacenews.com/study-space-industry-deploying-more-satellites-that-deliver-sharper-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T191218">2023-01-16 19:12:18 UTC</a></sub>
 * [NASA prepares next steps in development of future large space telescope](https://spacenews.com/nasa-prepares-next-steps-in-development-of-future-large-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T183218">2023-01-16 18:32:18 UTC</a></sub>
 * [From start to finish, Sunday’s Falcon Heavy launch delivered spectacular imagery](https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T181409">2023-01-16 18:14:09 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [United States and Japan sign space cooperation framework agreement](https://spacenews.com/united-states-and-japan-sign-space-cooperation-framework-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T004218">2023-01-15 00:42:18 UTC</a></sub>
 * [NASA studying thruster problem with lunar cubesat](https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230219">2023-01-14 23:02:19 UTC</a></sub>
 * [SpaceX Falcon Heavy launches USSF-67 from 39A](https://www.nasaspaceflight.com/2023/01/ussf-67-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T185138">2023-01-14 18:51:38 UTC</a></sub>
-* [US, Japan Sign Space Collaboration Agreement at NASA Headquarters](http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T231200">2023-01-13 23:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T203235">2023-01-16 20:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T210652">2023-01-16 21:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
