@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX installs new Starship on static fire test stand](https://www.teslarati.com/spacex-installs-new-starship-on-static-fire-test-stand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T234234">2023-01-17 23:42:34 UTC</a></sub>
+* [Rocket Lab cautiously optimistic about Neutron’s future in national security launch](https://spacenews.com/rocket-lab-cautiously-optimistic-about-neutrons-future-in-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T233219">2023-01-17 23:32:19 UTC</a></sub>
+* [SpaceX to launch sixth next-generation GPS satellite](https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T230437">2023-01-17 23:04:37 UTC</a></sub>
 * [Spanish startup to upgrade tiny satellites to take on global IoT market](https://spacenews.com/spanish-startup-to-upgrade-tiny-satellites-to-take-on-global-iot-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T213219">2023-01-17 21:32:19 UTC</a></sub>
 * [Raytheon to develop planning software for military cargo missions that would fly on space rockets](https://spacenews.com/raytheon-to-develop-planning-software-for-military-cargo-missions-that-would-fly-on-space-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T203218">2023-01-17 20:32:18 UTC</a></sub>
 * [U.S. delivers first of two space sensors to be hosted on Japanese satellites](https://spacenews.com/u-s-delivers-first-of-two-space-sensors-to-be-hosted-on-japanese-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T182219">2023-01-17 18:22:19 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China launch plans more than 70 launches in 2023](https://spacenews.com/china-launch-plans-more-than-70-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T141218">2023-01-17 14:12:18 UTC</a></sub>
 * [Sweden opens orbital launch site looking for users](https://spacenews.com/sweden-opens-orbital-launch-site-looking-for-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T131218">2023-01-17 13:12:18 UTC</a></sub>
 * [SpaceX Starship factory aiming to build five megarockets in 2023](https://www.teslarati.com/spacex-starship-factory-2023-production-target-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T233237">2023-01-16 23:32:37 UTC</a></sub>
-* [SpaceX’s spectacular USSF-67 Falcon Heavy launch in photos](https://www.teslarati.com/spacexs-spectacular-ussf-67-falcon-heavy-launch-in-photos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T225234">2023-01-16 22:52:34 UTC</a></sub>
-* [Webb peers at young star’s dusty disk, discovers an exoplanet, and uncovers star formation](https://www.nasaspaceflight.com/2023/01/jwst-science-aas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T210056">2023-01-16 21:00:56 UTC</a></sub>
-* [Study: Space industry deploying more satellites that deliver sharper images](https://spacenews.com/study-space-industry-deploying-more-satellites-that-deliver-sharper-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T191218">2023-01-16 19:12:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T233237">2023-01-17 23:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T004204">2023-01-18 00:42:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
