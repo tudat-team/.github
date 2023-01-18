@@ -573,7 +573,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China to launch relay satellite next year to support moon landing missions](https://spacenews.com/china-to-launch-relay-satellite-next-year-to-support-moon-landing-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T111220">2023-01-18 11:12:20 UTC</a></sub>
 * [SpaceX installs new Starship on static fire test stand](https://www.teslarati.com/spacex-installs-new-starship-on-static-fire-test-stand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T234234">2023-01-17 23:42:34 UTC</a></sub>
 * [Rocket Lab cautiously optimistic about Neutron’s future in national security launch](https://spacenews.com/rocket-lab-cautiously-optimistic-about-neutrons-future-in-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T233219">2023-01-17 23:32:19 UTC</a></sub>
-* [SpaceX to launch sixth next-generation GPS satellite](https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T230437">2023-01-17 23:04:37 UTC</a></sub>
+* [SpaceX launches sixth next-generation GPS satellite](https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T230437">2023-01-17 23:04:37 UTC</a></sub>
 * [Spanish startup to upgrade tiny satellites to take on global IoT market](https://spacenews.com/spanish-startup-to-upgrade-tiny-satellites-to-take-on-global-iot-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T213219">2023-01-17 21:32:19 UTC</a></sub>
 * [Raytheon to develop planning software for military cargo missions that would fly on space rockets](https://spacenews.com/raytheon-to-develop-planning-software-for-military-cargo-missions-that-would-fly-on-space-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T203218">2023-01-17 20:32:18 UTC</a></sub>
 * [U.S. delivers first of two space sensors to be hosted on Japanese satellites](https://spacenews.com/u-s-delivers-first-of-two-space-sensors-to-be-hosted-on-japanese-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T182219">2023-01-17 18:22:19 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T131521">2023-01-18 13:15:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T133516">2023-01-18 13:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
