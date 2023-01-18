@@ -577,7 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CesiumAstro acquires U.K. startup TXMission](https://spacenews.com/cesiumastro-buys-txmission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T154218">2023-01-17 15:42:18 UTC</a></sub>
 * [China launch plans more than 70 launches in 2023](https://spacenews.com/china-launch-plans-more-than-70-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T141218">2023-01-17 14:12:18 UTC</a></sub>
 * [Sweden opens orbital launch site looking for users](https://spacenews.com/sweden-opens-orbital-launch-site-looking-for-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T131218">2023-01-17 13:12:18 UTC</a></sub>
-* [GPS navigation satellite set for launch on SpaceX rocket](https://spaceflightnow.com/2023/01/17/gps-navigation-satellite-set-for-launch-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T071215">2023-01-17 07:12:15 UTC</a></sub>
+* [Watch live: GPS navigation satellite set for launch on SpaceX rocket](https://spaceflightnow.com/2023/01/17/gps-navigation-satellite-set-for-launch-on-spacex-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T110215">2023-01-17 11:02:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T103553">2023-01-18 10:35:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T110649">2023-01-18 11:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
