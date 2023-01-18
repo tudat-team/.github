@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force procurement chief looking for big wins in 2023](https://spacenews.com/space-force-procurement-chief-looking-for-big-wins-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T203219">2023-01-18 20:32:19 UTC</a></sub>
 * [Starship preparing for the business end of pre-launch testing](https://www.nasaspaceflight.com/2023/01/starship-update-jan-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T192740">2023-01-18 19:27:40 UTC</a></sub>
 * [NASA Issues Award for Greener, More Fuel-Efficient Airliner of Future](http://www.nasa.gov/press-release/nasa-issues-award-for-greener-more-fuel-efficient-airliner-of-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T165200">2023-01-18 16:52:00 UTC</a></sub>
 * [It looks like NASA will finally have an astronaut live in space for a full year](https://arstechnica.com/science/2023/01/it-looks-like-nasa-will-finally-have-an-astronaut-live-in-space-for-a-full-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T153956">2023-01-18 15:39:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX installs new Starship on static fire test stand](https://www.teslarati.com/spacex-installs-new-starship-on-static-fire-test-stand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T234234">2023-01-17 23:42:34 UTC</a></sub>
 * [Rocket Lab cautiously optimistic about Neutron’s future in national security launch](https://spacenews.com/rocket-lab-cautiously-optimistic-about-neutrons-future-in-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T233219">2023-01-17 23:32:19 UTC</a></sub>
 * [SpaceX launches sixth next-generation GPS satellite](https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T230437">2023-01-17 23:04:37 UTC</a></sub>
-* [Spanish startup to upgrade tiny satellites to take on global IoT market](https://spacenews.com/spanish-startup-to-upgrade-tiny-satellites-to-take-on-global-iot-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T213219">2023-01-17 21:32:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T203242">2023-01-18 20:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T210708">2023-01-18 21:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
