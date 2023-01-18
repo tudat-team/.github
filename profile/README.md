@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Anuvu gets deal to resell Starlink to maritime customers amid Telesat uncertainty](https://spacenews.com/anuvu-gets-deal-to-resell-starlink-to-maritime-customers-amid-telesat-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T223219">2023-01-18 22:32:19 UTC</a></sub>
 * [Briefings, Interviews Set for NASA’s SpaceX Crew-6 Mission](http://www.nasa.gov/press-release/briefings-interviews-set-for-nasa-s-spacex-crew-6-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T212200">2023-01-18 21:22:00 UTC</a></sub>
 * [SpaceX follows up Falcon Heavy spectacle with sunrise Falcon 9 launch](https://www.teslarati.com/spacex-gps-iii-sv06-falcon-9-sunrise-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T211237">2023-01-18 21:12:37 UTC</a></sub>
 * [Space Force procurement chief looking for big wins in 2023](https://spacenews.com/space-force-procurement-chief-looking-for-big-wins-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T203219">2023-01-18 20:32:19 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Report calls on NASA to improve coordination of Artemis international partnerships](https://spacenews.com/reports-calls-on-nasa-to-improve-coordination-of-artemis-international-partnerships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T145218">2023-01-18 14:52:18 UTC</a></sub>
 * [SpaceX Falcon 9 launches fifth GPS satellite for U.S. Space Force](https://spacenews.com/spacex-launches-gps-satellite-falcon-9s-fifth-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T134218">2023-01-18 13:42:18 UTC</a></sub>
 * [China to launch relay satellite next year to support moon landing missions](https://spacenews.com/china-to-launch-relay-satellite-next-year-to-support-moon-landing-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T111220">2023-01-18 11:12:20 UTC</a></sub>
-* [SpaceX installs new Starship on static fire test stand](https://www.teslarati.com/spacex-installs-new-starship-on-static-fire-test-stand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T234234">2023-01-17 23:42:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T223301">2023-01-18 22:33:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T230747">2023-01-18 23:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
