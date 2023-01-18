@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [It looks like NASA will finally have an astronaut live in space for a full year](https://arstechnica.com/science/2023/01/it-looks-like-nasa-will-finally-have-an-astronaut-live-in-space-for-a-full-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T153956">2023-01-18 15:39:56 UTC</a></sub>
 * [Report calls on NASA to improve coordination of Artemis international partnerships](https://spacenews.com/reports-calls-on-nasa-to-improve-coordination-of-artemis-international-partnerships/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T145218">2023-01-18 14:52:18 UTC</a></sub>
 * [SpaceX Falcon 9 launches fifth GPS satellite for U.S. Space Force](https://spacenews.com/spacex-launches-gps-satellite-falcon-9s-fifth-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T134218">2023-01-18 13:42:18 UTC</a></sub>
 * [China to launch relay satellite next year to support moon landing missions](https://spacenews.com/china-to-launch-relay-satellite-next-year-to-support-moon-landing-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T111220">2023-01-18 11:12:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spanish startup to upgrade tiny satellites to take on global IoT market](https://spacenews.com/spanish-startup-to-upgrade-tiny-satellites-to-take-on-global-iot-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T213219">2023-01-17 21:32:19 UTC</a></sub>
 * [Raytheon to develop planning software for military cargo missions that would fly on space rockets](https://spacenews.com/raytheon-to-develop-planning-software-for-military-cargo-missions-that-would-fly-on-space-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T203218">2023-01-17 20:32:18 UTC</a></sub>
 * [U.S. delivers first of two space sensors to be hosted on Japanese satellites](https://spacenews.com/u-s-delivers-first-of-two-space-sensors-to-be-hosted-on-japanese-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T182219">2023-01-17 18:22:19 UTC</a></sub>
-* [CesiumAstro acquires U.K. startup TXMission](https://spacenews.com/cesiumastro-buys-txmission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T154218">2023-01-17 15:42:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T153423">2023-01-18 15:34:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T161027">2023-01-18 16:10:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
