@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Briefings, Interviews Set for NASA’s SpaceX Crew-6 Mission](http://www.nasa.gov/press-release/briefings-interviews-set-for-nasa-s-spacex-crew-6-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T212200">2023-01-18 21:22:00 UTC</a></sub>
+* [SpaceX follows up Falcon Heavy spectacle with sunrise Falcon 9 launch](https://www.teslarati.com/spacex-gps-iii-sv06-falcon-9-sunrise-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T211237">2023-01-18 21:12:37 UTC</a></sub>
 * [Space Force procurement chief looking for big wins in 2023](https://spacenews.com/space-force-procurement-chief-looking-for-big-wins-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T203219">2023-01-18 20:32:19 UTC</a></sub>
 * [Starship preparing for the business end of pre-launch testing](https://www.nasaspaceflight.com/2023/01/starship-update-jan-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T192740">2023-01-18 19:27:40 UTC</a></sub>
 * [NASA Issues Award for Greener, More Fuel-Efficient Airliner of Future](http://www.nasa.gov/press-release/nasa-issues-award-for-greener-more-fuel-efficient-airliner-of-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T165200">2023-01-18 16:52:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Falcon 9 launches fifth GPS satellite for U.S. Space Force](https://spacenews.com/spacex-launches-gps-satellite-falcon-9s-fifth-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T134218">2023-01-18 13:42:18 UTC</a></sub>
 * [China to launch relay satellite next year to support moon landing missions](https://spacenews.com/china-to-launch-relay-satellite-next-year-to-support-moon-landing-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T111220">2023-01-18 11:12:20 UTC</a></sub>
 * [SpaceX installs new Starship on static fire test stand](https://www.teslarati.com/spacex-installs-new-starship-on-static-fire-test-stand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T234234">2023-01-17 23:42:34 UTC</a></sub>
-* [Rocket Lab cautiously optimistic about Neutron’s future in national security launch](https://spacenews.com/rocket-lab-cautiously-optimistic-about-neutrons-future-in-national-security-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T233219">2023-01-17 23:32:19 UTC</a></sub>
-* [SpaceX launches sixth next-generation GPS satellite](https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T230437">2023-01-17 23:04:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T213302">2023-01-18 21:33:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T220722">2023-01-18 22:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
