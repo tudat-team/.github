@@ -577,7 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CesiumAstro acquires U.K. startup TXMission](https://spacenews.com/cesiumastro-buys-txmission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T154218">2023-01-17 15:42:18 UTC</a></sub>
 * [China launch plans more than 70 launches in 2023](https://spacenews.com/china-launch-plans-more-than-70-launches-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T141218">2023-01-17 14:12:18 UTC</a></sub>
 * [Sweden opens orbital launch site looking for users](https://spacenews.com/sweden-opens-orbital-launch-site-looking-for-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T131218">2023-01-17 13:12:18 UTC</a></sub>
-* [SpaceX Starship factory aiming to build five megarockets in 2023](https://www.teslarati.com/spacex-starship-factory-2023-production-target-elon-musk/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T233237">2023-01-16 23:32:37 UTC</a></sub>
+* [SpaceX ships head to sea for fifth upgraded GPS satellite launch [webcast]](https://www.teslarati.com/spacex-ships-head-to-sea-fifth-upgraded-gps-satellite-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T020235">2023-01-17 02:02:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T004204">2023-01-18 00:42:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T021429">2023-01-18 02:14:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
