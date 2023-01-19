@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Tianwen-2: China’s Near-Earth asteroid and comet double-header](https://www.planetary.org/articles/tianwen-2-chinas-near-earth-asteroid-and-comet-double-header) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T152233">2023-01-19 15:22:33 UTC</a></sub>
 * [Vulcan Centaur: The countdown to the first Certification Flight is on!](https://blog.ulalaunch.com/blog/vulcan-centaur-the-countdown-to-the-first-certification-flight-is-on) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T161245">2023-01-13 16:12:45 UTC</a></sub>
 * [Extraterrestrial frosts](https://www.planetary.org/the-downlink/extraterrestrial-frosts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T153232">2023-01-13 15:32:32 UTC</a></sub>
 * [Here are some of our favorite LightSail 2 pictures](https://www.planetary.org/articles/favorite-lightsail-2-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T152233">2023-01-12 15:22:33 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ending a year, looking to the future](https://www.planetary.org/the-downlink/ending-a-year-looking-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T153348">2022-12-30 15:33:48 UTC</a></sub>
 * [A long night, and “so long!” to InSight](https://www.planetary.org/the-downlink/a-long-night-and-so-long-to-insight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T153347">2022-12-23 15:33:47 UTC</a></sub>
 * [Cookie Declaration](https://www.planetary.org/cookie-declaration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153204">2022-12-20 15:32:04 UTC</a></sub>
-* [Privacy Policy](https://www.planetary.org/privacy-policy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T153203">2022-12-20 15:32:03 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T153556">2023-01-19 15:35:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T161051">2023-01-19 16:10:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
