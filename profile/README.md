@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Astronauts on spacewalk to prep for new ISS solar arrays](https://spaceflightnow.com/2023/01/20/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145215">2023-01-20 14:52:15 UTC</a></sub>
 * [ESA seeks global adoption of “zero debris” policy](https://spacenews.com/esa-seeks-global-adoption-of-zero-debris-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T132218">2023-01-20 13:22:18 UTC</a></sub>
 * [Rocket Report: SpaceX reaches ‘ludicrous’ cadence; ABL explains RS1 failure](https://arstechnica.com/science/2023/01/rocket-report-spacex-reaches-ludicrous-cadence-abl-explains-rs1-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T120001">2023-01-20 12:00:01 UTC</a></sub>
 * [Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship](https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223218">2023-01-19 22:32:18 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [HawkEye 360 satellites to provide data for U.S. Space Force threat-detection system](https://spacenews.com/hawkeye-360-satellites-to-provide-data-for-u-s-space-force-threat-detection-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T212219">2023-01-19 21:22:19 UTC</a></sub>
 * [Geostationary sounder is a key ingredient of near-term forecasts](https://spacenews.com/geoxo-sounder/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T210218">2023-01-19 21:02:18 UTC</a></sub>
 * [Eutelsat 5 West A successfully retired in graveyard orbit](https://spacenews.com/eutelsat-5-west-a-successfully-retired-in-graveyard-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T205218">2023-01-19 20:52:18 UTC</a></sub>
-* [Investing in Space: Looking up in 2023](https://www.cnbc.com/2023/01/19/investing-in-space-looking-up-in-2023.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T161056">2023-01-19 16:10:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T143252">2023-01-20 14:32:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T150815">2023-01-20 15:08:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
