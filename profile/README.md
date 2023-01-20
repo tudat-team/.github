@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Observes Day of Remembrance Ahead of Columbia 20th Anniversary](http://www.nasa.gov/press-release/nasa-observes-day-of-remembrance-ahead-of-columbia-20th-anniversary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T185200">2023-01-20 18:52:00 UTC</a></sub>
 * [Astronauts conduct EVA to lay groundwork for final set of iROSA arrays](https://www.nasaspaceflight.com/2023/01/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T154841">2023-01-20 15:48:41 UTC</a></sub>
 * [Watch live: Astronauts on spacewalk to prep for new ISS solar arrays](https://spaceflightnow.com/2023/01/20/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T145215">2023-01-20 14:52:15 UTC</a></sub>
 * [ESA seeks global adoption of “zero debris” policy](https://spacenews.com/esa-seeks-global-adoption-of-zero-debris-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T132218">2023-01-20 13:22:18 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. Space Force chief calls for greater collaboration with allies](https://spacenews.com/u-s-space-force-chief-calls-for-greater-collaboration-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T220219">2023-01-19 22:02:19 UTC</a></sub>
 * [SpaceX launches first Starlink mission of 2023 after eight delays](https://www.teslarati.com/spacex-first-starlink-launch-2023-eight-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T215234">2023-01-19 21:52:34 UTC</a></sub>
 * [HawkEye 360 satellites to provide data for U.S. Space Force threat-detection system](https://spacenews.com/hawkeye-360-satellites-to-provide-data-for-u-s-space-force-threat-detection-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T212219">2023-01-19 21:22:19 UTC</a></sub>
-* [Geostationary sounder is a key ingredient of near-term forecasts](https://spacenews.com/geoxo-sounder/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T210218">2023-01-19 21:02:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T183709">2023-01-20 18:37:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T190635">2023-01-20 19:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
