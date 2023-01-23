@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency renames constellation to reflect focus on U.S. warfighter](https://spacenews.com/space-development-agency-renames-constellation-to-reflect-focus-on-u-s-warfighter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T191218">2023-01-23 19:12:18 UTC</a></sub>
 * [Europe grappling with space access challenges](https://spacenews.com/europe-grappling-with-space-access-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T171218">2023-01-23 17:12:18 UTC</a></sub>
 * [](https://spacenews.com/ams-interference-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T162218">2023-01-23 16:22:18 UTC</a></sub>
 * [Montana Students to Hear from NASA Astronaut on Space Station](http://www.nasa.gov/press-release/montana-students-to-hear-from-nasa-astronaut-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T161200">2023-01-23 16:12:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Lockheed Martin eyes international customers for GPS augmentation systems](https://spacenews.com/lockheed-martin-eyes-international-customers-for-gps-augmentation-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T113219">2023-01-22 11:32:19 UTC</a></sub>
 * [NASA to cooperate on Israeli astrophysics mission](https://spacenews.com/nasa-to-cooperate-on-israeli-astrophysics-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T032218">2023-01-22 03:22:18 UTC</a></sub>
 * [SpaceX Starlink satellite internet tested in the field in Antarctica](https://www.teslarati.com/spacex-starlink-internet-antacrtica-coldex-nsf-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T002236">2023-01-22 00:22:36 UTC</a></sub>
-* [InSight’s importance: Seismic measurements, new terrain highlight ground-breaking mission](https://www.nasaspaceflight.com/2023/01/insight-importance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T173757">2023-01-21 17:37:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T193230">2023-01-23 19:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T200827">2023-01-23 20:08:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
