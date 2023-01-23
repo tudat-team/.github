@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [](https://spacenews.com/ams-interference-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T162218">2023-01-23 16:22:18 UTC</a></sub>
+* [Montana Students to Hear from NASA Astronaut on Space Station](http://www.nasa.gov/press-release/montana-students-to-hear-from-nasa-astronaut-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T161200">2023-01-23 16:12:00 UTC</a></sub>
 * [It’s belt-cinching time for space startups](https://spacenews.com/its-belt-cinching-time-for-space-startups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T153219">2023-01-23 15:32:19 UTC</a></sub>
 * [SpaceX may perform a wet dress rehearsal of its Starship launch system today](https://arstechnica.com/science/2023/01/spacex-may-perform-a-wet-dress-rehearsal-of-its-starship-launch-system-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142138">2023-01-23 14:21:38 UTC</a></sub>
 * [SpaceX’s latest Falcon Heavy launch captured from a rare perspective](https://www.teslarati.com/spacex-falcon-heavy-launch-space-station-view/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T215234">2023-01-22 21:52:34 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Starlink satellite internet tested in the field in Antarctica](https://www.teslarati.com/spacex-starlink-internet-antacrtica-coldex-nsf-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T002236">2023-01-22 00:22:36 UTC</a></sub>
 * [InSight’s importance: Seismic measurements, new terrain highlight ground-breaking mission](https://www.nasaspaceflight.com/2023/01/insight-importance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T173757">2023-01-21 17:37:57 UTC</a></sub>
 * [NASA suspends efforts to fully deploy Lucy solar array](https://spacenews.com/nasa-suspends-efforts-to-fully-deploy-lucy-solar-array/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230121T001218">2023-01-21 00:12:18 UTC</a></sub>
-* [Europe’s Jupiter-bound JUICE spacecraft is ready for April launch](https://spacenews.com/europes-jupiter-bound-juice-spacecraft-is-ready-for-april-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T234218">2023-01-20 23:42:18 UTC</a></sub>
-* [Canadian government to establish commercial launch licensing regulations](https://spacenews.com/canadian-government-to-establish-commercial-launch-licensing-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T202217">2023-01-20 20:22:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T161028">2023-01-23 16:10:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T164314">2023-01-23 16:43:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
