@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Command: U.S. satellites ‘constrained’ by lack of mobility](https://spacenews.com/space-command-u-s-satellites-constrained-by-lack-of-mobility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T225528">2023-01-24 22:55:28 UTC</a></sub>
 * [SpaceX completes fueling test, will now work toward massive engine firing test](https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T194747">2023-01-24 19:47:47 UTC</a></sub>
 * [Space Force not buying large satellites for the foreseeable future](https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T191528">2023-01-24 19:15:28 UTC</a></sub>
 * [NASA and DARPA to partner on nuclear thermal propulsion demonstration](https://spacenews.com/nasa-and-darpa-to-partner-on-nuclear-thermal-propulsion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T180529">2023-01-24 18:05:29 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Quindar raises seed round to provide mission management software services](https://spacenews.com/quindar-raises-seeds-round-to-provide-mission-management-software-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T142528">2023-01-24 14:25:28 UTC</a></sub>
 * [Rocket Lab to conduct first Electron launch from American soil](https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T141103">2023-01-24 14:11:03 UTC</a></sub>
 * [SpaceX completes major Starship test in prep for rocket’s first orbital launch attempt](https://www.cnbc.com/2023/01/24/spacex-completes-starship-rocket-test-in-prep-for-first-orbital-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T134907">2023-01-24 13:49:07 UTC</a></sub>
-* [SpaceX completes Starship wet dress rehearsal](https://spacenews.com/spacex-completes-starship-wet-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T121528">2023-01-24 12:15:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T223225">2023-01-24 22:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T230715">2023-01-24 23:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
