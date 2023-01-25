@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA will join a military program to develop nuclear thermal propulsion](https://arstechnica.com/science/2023/01/nasa-will-join-a-military-program-to-develop-nuclear-thermal-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T151846">2023-01-25 15:18:46 UTC</a></sub>
+* [Rocket Lab establishes new U.S. foothold with successful launch after years of delays](https://www.cnbc.com/2023/01/25/rocket-lab-us-launch-success.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T150522">2023-01-25 15:05:22 UTC</a></sub>
 * [Spaceflight books dedicated Isar Aerospace launch in 2026](https://spacenews.com/spaceflight-books-dedicated-isar-aerospace-launch-in-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T141122">2023-01-25 14:11:22 UTC</a></sub>
 * [Astrobotic completes Peregrine testing](https://spacenews.com/astrobotic-completes-peregrine-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T133122">2023-01-25 13:31:22 UTC</a></sub>
 * [SpaceX to launch asteroid mining spacecraft alongside private Moon lander](https://www.teslarati.com/spacex-astroforge-asteroid-mining-spacecraft-launch-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T233603">2023-01-24 23:36:03 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX completes fueling test, will now work toward massive engine firing test](https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T194747">2023-01-24 19:47:47 UTC</a></sub>
 * [Space Force not buying large satellites for the foreseeable future](https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T191528">2023-01-24 19:15:28 UTC</a></sub>
 * [NASA and DARPA to partner on nuclear thermal propulsion demonstration](https://spacenews.com/nasa-and-darpa-to-partner-on-nuclear-thermal-propulsion-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T180529">2023-01-24 18:05:29 UTC</a></sub>
-* [Buckle up, it could get bumpy: The space economy’s vaunted resilience will be tested in 2023](https://spacenews.com/buckle-up-it-could-get-bumpy-the-space-economys-vaunted-resilience-will-be-tested-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T171528">2023-01-24 17:15:28 UTC</a></sub>
-* [European launch chief insists there be no competition with Ariane rockets](https://arstechnica.com/science/2023/01/european-launch-chief-insists-there-be-no-competition-with-ariane-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T154731">2023-01-24 15:47:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T153342">2023-01-25 15:33:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T161014">2023-01-25 16:10:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
