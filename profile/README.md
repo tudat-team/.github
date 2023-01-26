@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Doing well to do good](https://www.cnbc.com/2023/01/26/investing-in-space-doing-well-to-do-good.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T162054">2023-01-26 16:20:54 UTC</a></sub>
 * [SpaceX launches heaviest payload on Falcon 9 rocket](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T135118">2023-01-26 13:51:18 UTC</a></sub>
 * [NASA adds asteroid flyby to Lucy mission](https://spacenews.com/nasa-adds-asteroid-flyby-to-lucy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T130122">2023-01-26 13:01:22 UTC</a></sub>
 * [NEO Surveyor launch delayed despite funding boost](https://spacenews.com/neo-surveyor-launch-delayed-despite-funding-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T120123">2023-01-26 12:01:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA is no longer planning to send astronauts to China’s Tiangong space station](https://spacenews.com/esa-is-no-longer-planning-to-send-astronauts-to-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T162122">2023-01-25 16:21:22 UTC</a></sub>
 * [NASA will join a military program to develop nuclear thermal propulsion](https://arstechnica.com/science/2023/01/nasa-will-join-a-military-program-to-develop-nuclear-thermal-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T151846">2023-01-25 15:18:46 UTC</a></sub>
 * [Rocket Lab establishes new U.S. foothold with successful launch after years of delays](https://www.cnbc.com/2023/01/25/rocket-lab-us-launch-success.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T150522">2023-01-25 15:05:22 UTC</a></sub>
-* [Spaceflight books dedicated Isar Aerospace launch in 2026](https://spacenews.com/spaceflight-books-dedicated-isar-aerospace-launch-in-2026/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T141122">2023-01-25 14:11:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T160950">2023-01-26 16:09:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T164140">2023-01-26 16:41:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
