@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [La NASA lanza páginas web en español sobre aeronáutica](http://www.nasa.gov/press-release/la-nasa-lanza-paginas-web-en-espanol-sobre-aeronautica) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T162100">2023-01-27 16:21:00 UTC</a></sub>
+* [NASA Launches Aeronautics Spanish-Language Webpages](http://www.nasa.gov/press-release/nasa-launches-aeronautics-spanish-language-webpages) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T162100">2023-01-27 16:21:00 UTC</a></sub>
 * [Arriving at Titan: How Dragonfly’s Entry, Descent, and Landing will differ from Mars missions](https://www.nasaspaceflight.com/2023/01/dragonfly-edl-overview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T151935">2023-01-27 15:19:35 UTC</a></sub>
 * [NASA still working on long-term plans for ISS seat barters](https://spacenews.com/nasa-still-working-on-long-term-plans-for-iss-seat-barters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T132121">2023-01-27 13:21:21 UTC</a></sub>
 * [Hispasat invests in reforestation to drive sustainability expansion strategy](https://spacenews.com/hispasat-invests-in-reforestation-to-drive-sustainability-expansion-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T131122">2023-01-27 13:11:22 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. sanctions Chinese satellite firm for allegedly supplying SAR imagery to Russia’s Wagner Group](https://spacenews.com/u-s-sanctions-chinese-satellite-firm-for-allegedly-supplying-sar-imagery-to-russias-wagner-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T103124">2023-01-27 10:31:24 UTC</a></sub>
 * [Supporting military operations on Earth to remain U.S. Space Force’s top priority](https://spacenews.com/supporting-military-operations-on-earth-to-remain-u-s-space-forces-top-priority/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T223122">2023-01-26 22:31:22 UTC</a></sub>
 * [SpaceX’s backup Dragon launch pad on track for 2023 debut](https://www.teslarati.com/spacexs-backup-dragon-pad-first-launch-fall-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T220139">2023-01-26 22:01:39 UTC</a></sub>
-* [SpaceX Falcon 9 rocket launches heaviest payload yet](https://www.teslarati.com/spacex-falcon-9-rocket-launches-heaviest-payload-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T193140">2023-01-26 19:31:40 UTC</a></sub>
-* [Investing in Space: Doing well to do good](https://www.cnbc.com/2023/01/26/investing-in-space-doing-well-to-do-good.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T162054">2023-01-26 16:20:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T160959">2023-01-27 16:09:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T164157">2023-01-27 16:41:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
