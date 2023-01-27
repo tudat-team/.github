@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arriving at Titan: How Dragonfly’s Entry, Descent, and Landing will differ from Mars missions](https://www.nasaspaceflight.com/2023/01/dragonfly-edl-overview/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T151935">2023-01-27 15:19:35 UTC</a></sub>
 * [NASA still working on long-term plans for ISS seat barters](https://spacenews.com/nasa-still-working-on-long-term-plans-for-iss-seat-barters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T132121">2023-01-27 13:21:21 UTC</a></sub>
 * [Hispasat invests in reforestation to drive sustainability expansion strategy](https://spacenews.com/hispasat-invests-in-reforestation-to-drive-sustainability-expansion-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T131122">2023-01-27 13:11:22 UTC</a></sub>
 * [Janus considering alternative missions after losing original ride](https://spacenews.com/janus-considering-alternative-missions-after-losing-original-ride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120128">2023-01-27 12:01:28 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX’s backup Dragon launch pad on track for 2023 debut](https://www.teslarati.com/spacexs-backup-dragon-pad-first-launch-fall-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T220139">2023-01-26 22:01:39 UTC</a></sub>
 * [SpaceX Falcon 9 rocket launches heaviest payload yet](https://www.teslarati.com/spacex-falcon-9-rocket-launches-heaviest-payload-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T193140">2023-01-26 19:31:40 UTC</a></sub>
 * [Investing in Space: Doing well to do good](https://www.cnbc.com/2023/01/26/investing-in-space-doing-well-to-do-good.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T162054">2023-01-26 16:20:54 UTC</a></sub>
-* [SpaceX launches heaviest payload on Falcon 9 rocket](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T135118">2023-01-26 13:51:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [By Jove! (Literally)](https://www.planetary.org/the-downlink/by-jove-literally) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T153137">2023-01-27 15:31:37 UTC</a></sub>
 * [How JWST confirmed its first exoplanet and opened a new frontier](https://www.planetary.org/articles/how-jwst-confirmed-its-first-exoplanet-and-opened-a-new-frontier) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T160139">2023-01-26 16:01:39 UTC</a></sub>
 * [What to expect from Juno's Io flybys, and why a proposed mission there would tell us more](https://www.planetary.org/articles/juno-io-flybys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T150544">2023-01-24 15:05:44 UTC</a></sub>
 * [Vulcan Centaur: First flight article arrives at Cape Canaveral](https://blog.ulalaunch.com/blog/vulcan-centaur-first-flight-article-arrives-at-cape-canaveral) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T142243">2023-01-23 14:22:43 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Extraterrestrial frosts](https://www.planetary.org/the-downlink/extraterrestrial-frosts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T153232">2023-01-13 15:32:32 UTC</a></sub>
 * [Here are some of our favorite LightSail 2 pictures](https://www.planetary.org/articles/favorite-lightsail-2-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T152233">2023-01-12 15:22:33 UTC</a></sub>
 * [Worthy goals for a lifelong love of space](https://www.planetary.org/the-downlink/worthy-goals-for-a-lifelong-love-of-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T153348">2023-01-06 15:33:48 UTC</a></sub>
-* [How to see Comet 2022 E3 (ZTF)](https://www.planetary.org/articles/how-to-see-comet-2022-e3-ztf) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T145347">2023-01-06 14:53:47 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T153322">2023-01-27 15:33:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T160959">2023-01-27 16:09:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
