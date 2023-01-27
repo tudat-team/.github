@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA still working on long-term plans for ISS seat barters](https://spacenews.com/nasa-still-working-on-long-term-plans-for-iss-seat-barters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T132121">2023-01-27 13:21:21 UTC</a></sub>
+* [Hispasat invests in reforestation to drive sustainability expansion strategy](https://spacenews.com/hispasat-invests-in-reforestation-to-drive-sustainability-expansion-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T131122">2023-01-27 13:11:22 UTC</a></sub>
 * [Janus considering alternative missions after losing original ride](https://spacenews.com/janus-considering-alternative-missions-after-losing-original-ride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120128">2023-01-27 12:01:28 UTC</a></sub>
 * [Rocket Report: NASA validates new engine design; Chinese firm tests mini Starship](https://arstechnica.com/science/2023/01/rocket-report-nasa-validates-new-engine-design-chinese-firm-tests-mini-starship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T120034">2023-01-27 12:00:34 UTC</a></sub>
 * [U.S. sanctions Chinese satellite firm for allegedly supplying SAR imagery to Russia’s Wagner Group](https://spacenews.com/u-s-sanctions-chinese-satellite-firm-for-allegedly-supplying-sar-imagery-to-russias-wagner-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T103124">2023-01-27 10:31:24 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Falcon 9 rocket launches heaviest payload yet](https://www.teslarati.com/spacex-falcon-9-rocket-launches-heaviest-payload-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T193140">2023-01-26 19:31:40 UTC</a></sub>
 * [Investing in Space: Doing well to do good](https://www.cnbc.com/2023/01/26/investing-in-space-doing-well-to-do-good.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T162054">2023-01-26 16:20:54 UTC</a></sub>
 * [SpaceX launches heaviest payload on Falcon 9 rocket](https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T135118">2023-01-26 13:51:18 UTC</a></sub>
-* [NASA adds asteroid flyby to Lucy mission](https://spacenews.com/nasa-adds-asteroid-flyby-to-lucy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T130122">2023-01-26 13:01:22 UTC</a></sub>
-* [NEO Surveyor launch delayed despite funding boost](https://spacenews.com/neo-surveyor-launch-delayed-despite-funding-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T120123">2023-01-26 12:01:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T131437">2023-01-27 13:14:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T133422">2023-01-27 13:34:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
