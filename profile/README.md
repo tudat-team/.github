@@ -569,6 +569,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [SpaceX Falcon 9 rockets set for Starlink double-header](https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T233137">2023-01-29 23:31:37 UTC</a></sub>
+* [Elon Musk’s goal of 100 SpaceX launches in 2023 is looking surprisingly doable](https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T010142">2023-01-29 01:01:42 UTC</a></sub>
+* [NASA meeting works to define exploration architecture](https://spacenews.com/nasa-meeting-works-to-define-exploration-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T004122">2023-01-29 00:41:22 UTC</a></sub>
 * [Commerce Department outlines plans for basic space traffic management service](https://spacenews.com/commerce-department-outlines-plans-for-basic-space-traffic-management-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T180122">2023-01-28 18:01:22 UTC</a></sub>
 * [Europe seeks greater autonomy in space traffic management](https://spacenews.com/europe-seeks-greater-autonomy-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T002121">2023-01-28 00:21:21 UTC</a></sub>
 * [Lynk Global finalizing ground station for direct-to-smartphone services](https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T215122">2023-01-27 21:51:22 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Satellite billed as the ‘future GPS’ begins key tests](https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T201121">2023-01-27 20:11:21 UTC</a></sub>
 * [L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023](https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181120">2023-01-27 18:11:20 UTC</a></sub>
 * [Oklahoma Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T181100">2023-01-27 18:11:00 UTC</a></sub>
-* [NASA Launches Aeronautics Spanish-Language Webpages](http://www.nasa.gov/press-release/nasa-launches-aeronautics-spanish-language-webpages) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T162100">2023-01-27 16:21:00 UTC</a></sub>
-* [La NASA lanza páginas web en español sobre aeronáutica](http://www.nasa.gov/press-release/la-nasa-lanza-paginas-web-en-espanol-sobre-aeronautica) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T162100">2023-01-27 16:21:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T003712">2023-01-30 00:37:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T020753">2023-01-30 02:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
