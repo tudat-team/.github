@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Air Live Coverage of Spacewalk for Power System Upgrades](http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-spacewalk-for-power-system-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T190100">2023-01-30 19:01:00 UTC</a></sub>
 * [NASA's Perseverance Rover Completes Mars Sample Depot](https://mars.nasa.gov/news/9337/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T174100">2023-01-30 17:41:00 UTC</a></sub>
 * [SpaceX delays first flight of cross-country Starlink doubleheader to Tuesday](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T144009">2023-01-30 14:40:09 UTC</a></sub>
 * [After a failure 4 months ago, the New Shepard spacecraft remains in limbo](https://arstechnica.com/science/2023/01/blue-origin-may-restart-new-shepard-flights-in-april-or-may-or-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T135523">2023-01-30 13:55:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA meeting works to define exploration architecture](https://spacenews.com/nasa-meeting-works-to-define-exploration-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T004122">2023-01-29 00:41:22 UTC</a></sub>
 * [Commerce Department outlines plans for basic space traffic management service](https://spacenews.com/commerce-department-outlines-plans-for-basic-space-traffic-management-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T180122">2023-01-28 18:01:22 UTC</a></sub>
 * [Europe seeks greater autonomy in space traffic management](https://spacenews.com/europe-seeks-greater-autonomy-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T002121">2023-01-28 00:21:21 UTC</a></sub>
-* [Lynk Global finalizing ground station for direct-to-smartphone services](https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T215122">2023-01-27 21:51:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T183629">2023-01-30 18:36:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T190614">2023-01-30 19:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
