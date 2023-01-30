@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX gearing up for cross-country Starlink doubleheader](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T144009">2023-01-30 14:40:09 UTC</a></sub>
 * [After a failure 4 months ago, the New Shepard spacecraft remains in limbo](https://arstechnica.com/science/2023/01/blue-origin-may-restart-new-shepard-flights-in-april-or-may-or-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T135523">2023-01-30 13:55:23 UTC</a></sub>
 * [Asteroid mining startup AstroForge to launch first missions this year](https://spacenews.com/asteroid-mining-startup-astroforge-to-launch-first-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T125122">2023-01-30 12:51:22 UTC</a></sub>
 * [SpaceX Falcon 9 rockets set for Starlink double-header](https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T233137">2023-01-29 23:31:37 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Europe seeks greater autonomy in space traffic management](https://spacenews.com/europe-seeks-greater-autonomy-in-space-traffic-management/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T002121">2023-01-28 00:21:21 UTC</a></sub>
 * [Lynk Global finalizing ground station for direct-to-smartphone services](https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T215122">2023-01-27 21:51:22 UTC</a></sub>
 * [SpaceX preparing for Super Heavy static-fire test](https://spacenews.com/spacex-preparing-for-super-heavy-static-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T214121">2023-01-27 21:41:21 UTC</a></sub>
-* [Satellite billed as the ‘future GPS’ begins key tests](https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T201121">2023-01-27 20:11:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T143240">2023-01-30 14:32:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T150811">2023-01-30 15:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
