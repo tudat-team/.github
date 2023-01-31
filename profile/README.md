@@ -575,9 +575,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX delays first flight of cross-country Starlink doubleheader to Tuesday](https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T144009">2023-01-30 14:40:09 UTC</a></sub>
 * [After a failure 4 months ago, the New Shepard spacecraft remains in limbo](https://arstechnica.com/science/2023/01/blue-origin-may-restart-new-shepard-flights-in-april-or-may-or-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T135523">2023-01-30 13:55:23 UTC</a></sub>
 * [Asteroid mining startup AstroForge to launch first missions this year](https://spacenews.com/asteroid-mining-startup-astroforge-to-launch-first-missions-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T125122">2023-01-30 12:51:22 UTC</a></sub>
+* [LeoLabs scans skies with Western Australian Space Radar](https://spacenews.com/leolabs-commissions-australia-radar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T040122">2023-01-30 04:01:22 UTC</a></sub>
 * [SpaceX’s first NASA astronauts to receive Space Medal of Honor for Dragon test flight](https://www.teslarati.com/spacex-first-nasa-astronauts-congressional-space-medal-of-honor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T005138">2023-01-30 00:51:38 UTC</a></sub>
 * [SpaceX’s 100-launch target is more realistic than it seems](https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T042140">2023-01-29 04:21:40 UTC</a></sub>
-* [SpaceX delays Starlink doubleheader](https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T010142">2023-01-29 01:01:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T033331">2023-01-31 03:33:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T040933">2023-01-31 04:09:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
