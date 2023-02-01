@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit receives another small investment from Branson—and it’s worrisome](https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T152505">2023-02-01 15:25:05 UTC</a></sub>
 * [Two decades after the Columbia disaster, is NASA’s safety culture fixed?](https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T120154">2023-02-01 12:01:54 UTC</a></sub>
 * [Governments to be major customers of future Axiom Space private astronaut missions](https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T071122">2023-02-01 07:11:22 UTC</a></sub>
 * [VP Awards Former NASA Astronauts Congressional Space Medal of Honor](http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T235100">2023-01-31 23:51:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Extends Goddard Logistics, Technical Services Contract](http://www.nasa.gov/press-release/nasa-extends-goddard-logistics-technical-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T211100">2023-01-31 21:11:00 UTC</a></sub>
 * [Orbital Sidekick raises $10 million from customers and existing investors](https://spacenews.com/orbital-sidekick-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T191122">2023-01-31 19:11:22 UTC</a></sub>
 * [Capella Space establishes new subsidiary focused on U.S. defense market](https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T185122">2023-01-31 18:51:22 UTC</a></sub>
-* [NASA Spinoffs Bolster Climate Resilience, Improve Medical Care, More](http://www.nasa.gov/press-release/nasa-spinoffs-bolster-climate-resilience-improve-medical-care-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T181100">2023-01-31 18:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T153355">2023-02-01 15:33:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T160932">2023-02-01 16:09:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
