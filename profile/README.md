@@ -198,7 +198,7 @@ conda install -c tudat-team <package>
 </table>
 </details>
 </td>
-    <td><code>2.11.1.dev10</code></td>
+    <td><code>2.12.0</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/master" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
@@ -300,7 +300,7 @@ conda install -c tudat-team <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.1</code></td>
+    <td><code>0.7.2</code></td>
   </tr>
 
 </table>
@@ -547,7 +547,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.1.dev8</code></td>
+    <td><code>0.7.2.dev0</code></td>
   </tr>
 
 </table>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T133454">2023-02-03 13:34:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T140730">2023-02-03 14:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
