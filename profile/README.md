@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Millions to Historically Black Colleges, Universities](http://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T210100">2023-02-03 21:01:00 UTC</a></sub>
 * [NASA flight software for SLS navigates through clean first launch](https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T163301">2023-02-03 16:33:01 UTC</a></sub>
 * [When will United Launch Alliance’s Vulcan rocket fly?](https://arstechnica.com/science/2023/02/when-will-united-launch-alliances-vulcan-rocket-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T154842">2023-02-03 15:48:42 UTC</a></sub>
 * [Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?](https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T120044">2023-02-03 12:00:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Joe Acabá, de la NASA, será el astronauta jefe de la agencia](http://www.nasa.gov/press-release/joe-acab-de-la-nasa-ser-el-astronauta-jefe-de-la-agencia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T151100">2023-02-02 15:11:00 UTC</a></sub>
 * [NASA’s Joe Acaba to Serve as Agency’s Chief Astronaut](http://www.nasa.gov/press-release/nasa-s-joe-acaba-to-serve-as-agency-s-chief-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T151100">2023-02-02 15:11:00 UTC</a></sub>
 * [Astronauts conduct second EVA to lay groundwork for final iROSA arrays](https://www.nasaspaceflight.com/2023/02/us-eva-84/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T144841">2023-02-02 14:48:41 UTC</a></sub>
-* [Watch live: SpaceX set to launch 53 more Starlink internet satellites](https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T042118">2023-02-02 04:21:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T203236">2023-02-03 20:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T210653">2023-02-03 21:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
