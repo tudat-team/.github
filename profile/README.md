@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to SpaceX’s 27th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-27th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T161100">2023-02-06 16:11:00 UTC</a></sub>
 * [Major earthquake devastates areas of Southern Turkey and Northern Syria](https://arstechnica.com/science/2023/02/major-earthquake-devastates-areas-of-southern-turkey-and-northern-syria/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T141940">2023-02-06 14:19:40 UTC</a></sub>
 * [Weather delays SpaceX launch with Hispasat’s Amazonas Nexus](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
 * [Spanish-owned communications satellite ready for launch from Cape Canaveral](https://spaceflightnow.com/2023/02/04/spanish-owned-communications-satellite-ready-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T225118">2023-02-04 22:51:18 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Millions to Historically Black Colleges, Universities](http://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T210100">2023-02-03 21:01:00 UTC</a></sub>
 * [NASA flight software for SLS navigates through clean first launch](https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T163301">2023-02-03 16:33:01 UTC</a></sub>
 * [When will United Launch Alliance’s Vulcan rocket fly?](https://arstechnica.com/science/2023/02/when-will-united-launch-alliances-vulcan-rocket-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T154842">2023-02-03 15:48:42 UTC</a></sub>
-* [Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?](https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T120044">2023-02-03 12:00:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Vulcan: Rocket stacked for inaugural launch](https://blog.ulalaunch.com/blog/vulcan-rocket-stacked-for-inaugural-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T164145">2023-02-06 16:41:45 UTC</a></sub>
 * [More worlds, anyone?](https://www.planetary.org/the-downlink/more-worlds-anyone) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T153132">2023-02-03 15:31:32 UTC</a></sub>
 * [Best space pictures of the month: January 2023](https://www.planetary.org/articles/best-space-pictures-january-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T150138">2023-01-31 15:01:38 UTC</a></sub>
 * [By Jove! (Literally)](https://www.planetary.org/the-downlink/by-jove-literally) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T153137">2023-01-27 15:31:37 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [I spy with my technologically enhanced eye](https://www.planetary.org/the-downlink/i-spy-with-my-technologically-enhanced-eye) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T153235">2023-01-20 15:32:35 UTC</a></sub>
 * [Tianwen-2: China’s Near-Earth asteroid and comet double-header](https://www.planetary.org/articles/tianwen-2-chinas-near-earth-asteroid-and-comet-double-header) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T152233">2023-01-19 15:22:33 UTC</a></sub>
 * [Vulcan Centaur: The countdown to the first Certification Flight is on!](https://blog.ulalaunch.com/blog/vulcan-centaur-the-countdown-to-the-first-certification-flight-is-on) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T161245">2023-01-13 16:12:45 UTC</a></sub>
-* [Extraterrestrial frosts](https://www.planetary.org/the-downlink/extraterrestrial-frosts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T153232">2023-01-13 15:32:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T161012">2023-02-06 16:10:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T164224">2023-02-06 16:42:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
