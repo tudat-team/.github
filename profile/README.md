@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Major earthquake devastates areas of Southern Turkey and Northern Syria](https://arstechnica.com/science/2023/02/major-earthquake-devastates-areas-of-southern-turkey-and-northern-syria/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T141940">2023-02-06 14:19:40 UTC</a></sub>
 * [Weather delays SpaceX launch with Hispasat’s Amazonas Nexus](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
 * [Spanish-owned communications satellite ready for launch from Cape Canaveral](https://spaceflightnow.com/2023/02/04/spanish-owned-communications-satellite-ready-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T225118">2023-02-04 22:51:18 UTC</a></sub>
 * [Inside the ‘Wormhole,’ Relativity Space’s monster factory 3D-printing reusable rockets](https://www.cnbc.com/2023/02/04/inside-relativity-spaces-monster-factory-3d-printing-reusable-rockets.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T150032">2023-02-04 15:00:32 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA flight software for SLS navigates through clean first launch](https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T163301">2023-02-03 16:33:01 UTC</a></sub>
 * [When will United Launch Alliance’s Vulcan rocket fly?](https://arstechnica.com/science/2023/02/when-will-united-launch-alliances-vulcan-rocket-fly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T154842">2023-02-03 15:48:42 UTC</a></sub>
 * [Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?](https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T120044">2023-02-03 12:00:44 UTC</a></sub>
-* [SpaceX Starlink Gen2 mission marks Falcon 9 rocket’s 200th successful launch](https://www.teslarati.com/spacex-falcon-9-rocket-200th-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T223137">2023-02-02 22:31:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T140735">2023-02-06 14:07:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T143238">2023-02-06 14:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
