@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Aerospace Safety Advisory Panel Releases 2022 Annual Report](http://www.nasa.gov/press-release/nasas-aerospace-safety-advisory-panel-releases-2022-annual-report-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T165100">2023-02-07 16:51:00 UTC</a></sub>
 * [Here’s why Europe is abandoning plans to fly aboard China’s space station](https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T135129">2023-02-07 13:51:29 UTC</a></sub>
 * [Using Hubble, researchers measure the mass of a single white dwarf for the first time](https://www.nasaspaceflight.com/2023/02/white-dwarf-mass-measurement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T170944">2023-02-06 17:09:44 UTC</a></sub>
 * [NASA Invites Media to SpaceX’s 27th Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-27th-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T161100">2023-02-06 16:11:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches Hispasat’s Amazonas Nexus satellite](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
 * [Spanish-owned communications satellite ready for launch from Cape Canaveral](https://spaceflightnow.com/2023/02/04/spanish-owned-communications-satellite-ready-for-weekend-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T225118">2023-02-04 22:51:18 UTC</a></sub>
 * [Inside the ‘Wormhole,’ Relativity Space’s monster factory 3D-printing reusable rockets](https://www.cnbc.com/2023/02/04/inside-relativity-spaces-monster-factory-3d-printing-reusable-rockets.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T150032">2023-02-04 15:00:32 UTC</a></sub>
-* [Why would the Chinese government be flying a large stratospheric balloon?](https://arstechnica.com/science/2023/02/why-would-the-chinese-government-be-flying-a-large-stratospheric-balloon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T212958">2023-02-03 21:29:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T170751">2023-02-07 17:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T173338">2023-02-07 17:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
