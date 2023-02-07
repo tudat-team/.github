@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Simulation and Software Technology Services Contract](http://www.nasa.gov/press-release/nasa-awards-simulation-and-software-technology-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T214100">2023-02-07 21:41:00 UTC</a></sub>
 * [New York Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/new-york-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T194100">2023-02-07 19:41:00 UTC</a></sub>
 * [NASA's Aerospace Safety Advisory Panel Releases 2022 Annual Report](http://www.nasa.gov/press-release/nasas-aerospace-safety-advisory-panel-releases-2022-annual-report-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T165100">2023-02-07 16:51:00 UTC</a></sub>
 * [Here’s why Europe is abandoning plans to fly aboard China’s space station](https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T135129">2023-02-07 13:51:29 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Major earthquake devastates areas of southern Turkey and northern Syria](https://arstechnica.com/science/2023/02/major-earthquake-devastates-areas-of-southern-turkey-and-northern-syria/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T141940">2023-02-06 14:19:40 UTC</a></sub>
 * [SpaceX launches communications satellite for Spain’s Hispasat](https://spaceflightnow.com/2023/02/06/falcon-9-amazonas-nexus-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T032117">2023-02-06 03:21:17 UTC</a></sub>
 * [SpaceX Falcon 9 rocket launches Spanish Amazonas Nexus satellite](https://www.teslarati.com/spacex-16-falcon-rocket-launches-nine-weeks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T022138">2023-02-06 02:21:38 UTC</a></sub>
-* [SpaceX launches Hispasat’s Amazonas Nexus satellite](https://www.nasaspaceflight.com/2023/02/amazonas-nexus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T175617">2023-02-05 17:56:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T213246">2023-02-07 21:32:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T220736">2023-02-07 22:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
