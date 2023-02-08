@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Environmental Compliance, Operations Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T211100">2023-02-08 21:11:00 UTC</a></sub>
 * [SpaceX prepares for a massive test this week: Firing all 33 Starship engines at once](https://www.cnbc.com/2023/02/08/spacex-prepares-test-fire-all-starship-engines-at-once.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T202303">2023-02-08 20:23:03 UTC</a></sub>
 * [NASA Selects Scientific Support for Goddard Institute of Space Studies](http://www.nasa.gov/press-release/goddard/2023/nasa-selects-scientific-support-for-goddard-institute-of-space-studies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T191100">2023-02-08 19:11:00 UTC</a></sub>
 * [NASA's Curiosity Finds Surprise Clues to Mars' Watery Past](https://mars.nasa.gov/news/9344/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T180100">2023-02-08 18:01:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New York Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/new-york-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T194100">2023-02-07 19:41:00 UTC</a></sub>
 * [NASA's Aerospace Safety Advisory Panel Releases 2022 Annual Report](http://www.nasa.gov/press-release/nasas-aerospace-safety-advisory-panel-releases-2022-annual-report-0) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T165100">2023-02-07 16:51:00 UTC</a></sub>
 * [Here’s why Europe is abandoning plans to fly aboard China’s space station](https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T135129">2023-02-07 13:51:29 UTC</a></sub>
-* [Perseverance completes sample return depot, Ingenuity continues flights](https://www.nasaspaceflight.com/2023/02/mars2020-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T073515">2023-02-07 07:35:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T213221">2023-02-08 21:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T220743">2023-02-08 22:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
