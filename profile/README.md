@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX test-fires 31 engines on Starship’s gigantic Super Heavy booster](https://spaceflightnow.com/2023/02/09/spacex-test-fires-31-engines-on-starships-gigantic-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T223118">2023-02-09 22:31:18 UTC</a></sub>
 * [SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]](https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T214012">2023-02-09 21:40:12 UTC</a></sub>
 * [NASA Launches New Framework for Procurement Ideas, Solutions](http://www.nasa.gov/press-release/nasa-launches-new-framework-for-procurement-ideas-solutions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T213100">2023-02-09 21:31:00 UTC</a></sub>
 * [SpaceX successfully test fires Starship booster in last key step before orbital launch](https://www.cnbc.com/2023/02/09/spacex-test-fires-starship-booster.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T212737">2023-02-09 21:27:37 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russian Progress resupply ship launches on flight to space station](https://spaceflightnow.com/2023/02/09/soyuz-progress-ms-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T064118">2023-02-09 06:41:18 UTC</a></sub>
 * [Progress MS-22 resupply ship launches to ISS](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T060001">2023-02-09 06:00:01 UTC</a></sub>
 * [Watch live: Russian Progress resupply ship ready for launch to space station](https://spaceflightnow.com/2023/02/09/watch-live-russian-progress-resupply-ship-ready-for-launch-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T052118">2023-02-09 05:21:18 UTC</a></sub>
-* [NASA Awards Environmental Compliance, Operations Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T211100">2023-02-08 21:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T223442">2023-02-09 22:34:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T230859">2023-02-09 23:08:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
