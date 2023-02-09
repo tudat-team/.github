@@ -575,8 +575,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Watch live: Russian Progress resupply ship ready for launch to space station](https://spaceflightnow.com/2023/02/09/watch-live-russian-progress-resupply-ship-ready-for-launch-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T052118">2023-02-09 05:21:18 UTC</a></sub>
 * [NASA Awards Environmental Compliance, Operations Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T211100">2023-02-08 21:11:00 UTC</a></sub>
 * [SpaceX prepares for a massive test this week: Firing all 33 Starship engines at once](https://www.cnbc.com/2023/02/08/spacex-prepares-test-fire-all-starship-engines-at-once.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T202303">2023-02-08 20:23:03 UTC</a></sub>
-* [NASA Selects Scientific Support for Goddard Institute of Space Studies](http://www.nasa.gov/press-release/goddard/2023/nasa-selects-scientific-support-for-goddard-institute-of-space-studies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T191100">2023-02-08 19:11:00 UTC</a></sub>
 * [NASA's Curiosity Finds Surprise Clues to Mars' Watery Past](https://mars.nasa.gov/news/9344/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T180100">2023-02-08 18:01:00 UTC</a></sub>
+* [NASA Selects Scientific Support for Goddard Institute for Space Studies](http://www.nasa.gov/press-release/goddard/2023/nasa-selects-scientific-support-for-goddard-institute-of-space-studies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T150100">2023-02-08 15:01:00 UTC</a></sub>
 * [Mysterious Russian satellites are now breaking apart in low-Earth orbit](https://arstechnica.com/science/2023/02/mysterious-russian-satellites-are-now-breaking-apart-in-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T142558">2023-02-08 14:25:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T143354">2023-02-09 14:33:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T150831">2023-02-09 15:08:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
