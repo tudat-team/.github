@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]](https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T214012">2023-02-09 21:40:12 UTC</a></sub>
+* [NASA Launches New Framework for Procurement Ideas, Solutions](http://www.nasa.gov/press-release/nasa-launches-new-framework-for-procurement-ideas-solutions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T213100">2023-02-09 21:31:00 UTC</a></sub>
+* [SpaceX successfully test fires Starship booster in last key step before orbital launch](https://www.cnbc.com/2023/02/09/spacex-test-fires-starship-booster.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T212737">2023-02-09 21:27:37 UTC</a></sub>
+* [Starship program conducts major test, firing 31 of 33 Super Heavy engines](https://www.nasaspaceflight.com/2023/02/starship-b7-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T200623">2023-02-09 20:06:23 UTC</a></sub>
 * [Investing in Space: Starship in the D.C. spotlight](https://www.cnbc.com/2023/02/09/investing-in-space-starship-in-the-dc-spotlight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T164943">2023-02-09 16:49:43 UTC</a></sub>
 * [As record rocket launches crowd airspace, the FAA fights to limit travel disruptions](https://www.cnbc.com/2023/02/09/airlines-rocket-launches-crowd-airspace.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T153042">2023-02-09 15:30:42 UTC</a></sub>
-* [Booster 7’s big day: An unprecedented test-firing of 33 Raptor rocket engines](https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T141612">2023-02-09 14:16:12 UTC</a></sub>
-* [Starship program prepares for major test with 33 engine Static Fire](https://www.nasaspaceflight.com/2023/02/starship-b7-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T140623">2023-02-09 14:06:23 UTC</a></sub>
 * [Russian Progress resupply ship launches on flight to space station](https://spaceflightnow.com/2023/02/09/soyuz-progress-ms-22-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T064118">2023-02-09 06:41:18 UTC</a></sub>
 * [Progress MS-22 resupply ship launches to ISS](https://www.nasaspaceflight.com/2023/02/progress-ms-22/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T060001">2023-02-09 06:00:01 UTC</a></sub>
 * [Watch live: Russian Progress resupply ship ready for launch to space station](https://spaceflightnow.com/2023/02/09/watch-live-russian-progress-resupply-ship-ready-for-launch-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T052118">2023-02-09 05:21:18 UTC</a></sub>
 * [NASA Awards Environmental Compliance, Operations Contract](http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T211100">2023-02-08 21:11:00 UTC</a></sub>
-* [Watch live: SpaceX ready for 33-engine test of Starship’s Super Heavy booster](https://spaceflightnow.com/2023/02/08/spacex-ready-for-33-engine-test-firing-of-starships-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T203118">2023-02-08 20:31:18 UTC</a></sub>
-* [SpaceX prepares for a massive test this week: Firing all 33 Starship engines at once](https://www.cnbc.com/2023/02/08/spacex-prepares-test-fire-all-starship-engines-at-once.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230208T202303">2023-02-08 20:23:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T213244">2023-02-09 21:32:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T220805">2023-02-09 22:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
