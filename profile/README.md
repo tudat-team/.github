@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Europe approves multi-orbit connectivity constellation plan](https://spacenews.com/europe-approves-multi-orbit-connectivity-constellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T224816">2023-02-15 22:48:16 UTC</a></sub>
 * [Pentagon working with Congress on unclassified space strategy](https://spacenews.com/pentagon-working-with-congress-on-unclassified-space-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T214603">2023-02-15 21:46:03 UTC</a></sub>
 * [On National Security | A coming of age for commercial satellite imagery](https://spacenews.com/on-national-security-a-coming-of-age-for-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T200000">2023-02-15 20:00:00 UTC</a></sub>
 * [After a decade in development, Japan’s H3 rocket is ready for its debut](https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T151540">2023-02-15 15:15:40 UTC</a></sub>
@@ -575,9 +576,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA updates plans for use of commercial space stations](https://spacenews.com/nasa-updates-plans-for-use-of-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T131638">2023-02-15 13:16:38 UTC</a></sub>
 * [Virgin Orbit elaborates on potential cause of LauncherOne failure](https://spacenews.com/virgin-orbit-elaborates-on-potential-cause-of-launcherone-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T003400">2023-02-15 00:34:00 UTC</a></sub>
 * [SpaceX prioritizes Starship test flights, pauses plans for floating launch pads](https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233535">2023-02-14 23:35:35 UTC</a></sub>
+* [Mars rover completes first sample storage depot](https://spaceflightnow.com/2023/02/14/mars-rover-completes-first-sample-storage-depot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T230048">2023-02-14 23:00:48 UTC</a></sub>
 * [Cobham to supply satellite terminals to Inmarsat for U.S. Navy network](https://spacenews.com/cobham-satcom-will-supply-as-many-as-170-terminals-to-inmarsat-for-the-u-s-navy-military-sealift-command/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T184404">2023-02-14 18:44:04 UTC</a></sub>
-* [Europe opens full-scale investigation into Viasat’s Inmarsat acquisition](https://spacenews.com/europe-opens-full-scale-investigation-into-viasats-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T183929">2023-02-14 18:39:29 UTC</a></sub>
-* [NASA's Perseverance Rover Shows Off Collection of Mars Samples](https://mars.nasa.gov/news/9348/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T182500">2023-02-14 18:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T223430">2023-02-15 22:34:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T230814">2023-02-15 23:08:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
