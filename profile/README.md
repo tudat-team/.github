@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After a decade in development, Japan’s H3 rocket is ready for its debut](https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T151540">2023-02-15 15:15:40 UTC</a></sub>
 * [SpaceX prioritizes Starship test flights, pauses plans for floating launch pads](https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233535">2023-02-14 23:35:35 UTC</a></sub>
 * [NASA's Perseverance Rover Shows Off Collection of Mars Samples](https://mars.nasa.gov/news/9348/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T182500">2023-02-14 18:25:00 UTC</a></sub>
 * [Elon Musk and astronaut Scott Kelly debate use of Starlink in Ukraine](https://www.cnbc.com/2023/02/13/elon-musk-scott-kelly-debate-use-of-starlink-in-ukraine.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T230436">2023-02-13 23:04:36 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX breaks pad turnaround record in support of Starlink](https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T053529">2023-02-12 05:35:29 UTC</a></sub>
 * [SpaceX rolls naked Starship prototype to test site](https://www.teslarati.com/spacex-rolls-naked-starship-prototype-to-test-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230212T012135">2023-02-12 01:21:35 UTC</a></sub>
 * [Russian cargo ship docks as second Progress suffers sudden loss of coolant](https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T171118">2023-02-11 17:11:18 UTC</a></sub>
-* [Another Russian spacecraft docked to the space station is leaking](https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T164717">2023-02-11 16:47:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What was the Chelyabinsk meteor event?](https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T160534">2023-02-15 16:05:34 UTC</a></sub>
 * [Are we alone in the Universe? SETI project](https://www.planetary.org/sci-tech/are-we-alone-seti-project) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T160532">2023-02-14 16:05:32 UTC</a></sub>
 * [Every NASA Authorization](https://www.planetary.org/space-policy/every-nasa-authorization) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T193138">2023-02-11 19:31:38 UTC</a></sub>
 * [What does a bear have in common with a megatsunami?](https://www.planetary.org/the-downlink/what-does-a-bear-have-in-common-with-a-megatsunami) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T153140">2023-02-10 15:31:40 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Best space pictures of the month: January 2023](https://www.planetary.org/articles/best-space-pictures-january-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T150138">2023-01-31 15:01:38 UTC</a></sub>
 * [By Jove! (Literally)](https://www.planetary.org/the-downlink/by-jove-literally) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T153137">2023-01-27 15:31:37 UTC</a></sub>
 * [How JWST confirmed its first exoplanet and opened a new frontier](https://www.planetary.org/articles/how-jwst-confirmed-its-first-exoplanet-and-opened-a-new-frontier) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T160139">2023-01-26 16:01:39 UTC</a></sub>
-* [What to expect from Juno's Io flybys, and why a proposed mission there would tell us more](https://www.planetary.org/articles/juno-io-flybys) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T150544">2023-01-24 15:05:44 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T153534">2023-02-15 15:35:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T161053">2023-02-15 16:10:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
