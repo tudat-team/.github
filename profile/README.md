@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese rocket firm Space Pioneer set for first launch](https://spacenews.com/chinese-rocket-firm-space-pioneer-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T131657">2023-02-16 13:16:57 UTC</a></sub>
 * [Virgin Galactic aircraft returns to flight](https://spacenews.com/virgin-galactic-aircraft-returns-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T123209">2023-02-16 12:32:09 UTC</a></sub>
 * [Boeing opens SLS EUS production facility](https://spacenews.com/boeing-opens-sls-eus-production-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T004803">2023-02-16 00:48:03 UTC</a></sub>
 * [Europe approves multi-orbit connectivity constellation plan](https://spacenews.com/europe-approves-multi-orbit-connectivity-constellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T224816">2023-02-15 22:48:16 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Maxar moves to close deal with Advent after receiving no competing offers](https://spacenews.com/maxar-moves-to-close-deal-with-advent-after-receiving-no-competing-offers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T141745">2023-02-15 14:17:45 UTC</a></sub>
 * [NASA updates plans for use of commercial space stations](https://spacenews.com/nasa-updates-plans-for-use-of-commercial-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T131638">2023-02-15 13:16:38 UTC</a></sub>
 * [Virgin Orbit elaborates on potential cause of LauncherOne failure](https://spacenews.com/virgin-orbit-elaborates-on-potential-cause-of-launcherone-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T003400">2023-02-15 00:34:00 UTC</a></sub>
-* [SpaceX prioritizes Starship test flights, pauses plans for floating launch pads](https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233535">2023-02-14 23:35:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T131841">2023-02-16 13:18:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T134213">2023-02-16 13:42:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
