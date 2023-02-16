@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew operations training gears up for Starliner and Orion](https://www.nasaspaceflight.com/2023/02/starliner-orion-crew-preparations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T195746">2023-02-16 19:57:46 UTC</a></sub>
+* [Lockheed Martin completes delivery of 10th GPS 3 satellite](https://spacenews.com/the-u-s-space-force-accepted-delivery-of-the-10th-and-final-gps-3-satellite-made-by-lockheed-martin-under-a-2008-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T195709">2023-02-16 19:57:09 UTC</a></sub>
 * [Opinion | A new leap in opportunities for the exploration and utilization of space](https://spacenews.com/opinion-a-new-leap-in-opportunities-for-the-exploration-and-utilization-of-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T185631">2023-02-16 18:56:31 UTC</a></sub>
 * [Investing in Space: The space station kingmaker](https://www.cnbc.com/2023/02/16/investing-in-space-the-space-station-kingmaker.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T160544">2023-02-16 16:05:44 UTC</a></sub>
 * [Chinese rocket firm Space Pioneer set for first launch](https://spacenews.com/chinese-rocket-firm-space-pioneer-set-for-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T131657">2023-02-16 13:16:57 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Europe approves multi-orbit connectivity constellation plan](https://spacenews.com/europe-approves-multi-orbit-connectivity-constellation-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T224816">2023-02-15 22:48:16 UTC</a></sub>
 * [Pentagon working with Congress on unclassified space strategy](https://spacenews.com/pentagon-working-with-congress-on-unclassified-space-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T214603">2023-02-15 21:46:03 UTC</a></sub>
 * [On National Security | A coming of age for commercial satellite imagery](https://spacenews.com/on-national-security-a-coming-of-age-for-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T200000">2023-02-15 20:00:00 UTC</a></sub>
-* [After a decade in development, Japan’s H3 rocket is ready for its debut](https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T151540">2023-02-15 15:15:40 UTC</a></sub>
-* [Maxar moves to close deal with Advent after receiving no competing offers](https://spacenews.com/maxar-moves-to-close-deal-with-advent-after-receiving-no-competing-offers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T141745">2023-02-15 14:17:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T193242">2023-02-16 19:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T200840">2023-02-16 20:08:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
