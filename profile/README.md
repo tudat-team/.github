@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FAA proposes fining SpaceX for missing launch data](https://spacenews.com/faa-proposes-fining-spacex-for-missing-launch-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T175802">2023-02-17 17:58:02 UTC</a></sub>
 * [NASA's Perseverance Rover Set to Begin Third Year at Jezero Crater](https://mars.nasa.gov/news/9349/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T172100">2023-02-17 17:21:00 UTC</a></sub>
 * [AI startup using satellite imagery to trace the path of Chinese balloon](https://spacenews.com/ai-startup-using-satellite-imagery-to-trace-the-path-of-chinese-balloon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T171534">2023-02-17 17:15:34 UTC</a></sub>
 * [FAA wants to fine SpaceX $175,000 for failing to submit data before a launch](https://www.cnbc.com/2023/02/17/faa-spacex-fine-launch-data.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T154831">2023-02-17 15:48:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [First launch of Japan’s H3 rocket aborted moments before liftoff](https://spaceflightnow.com/2023/02/17/first-launch-of-japans-h3-rocket-aborted-moments-before-liftoff/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T071048">2023-02-17 07:10:48 UTC</a></sub>
 * [Space Force to change how it buys national security launches](https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T022836">2023-02-17 02:28:36 UTC</a></sub>
 * [NASA advisers raise concerns about Artemis safety and workforce](https://spacenews.com/nasa-advisers-raise-concerns-about-artemis-safety-and-workforce/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T235908">2023-02-16 23:59:08 UTC</a></sub>
-* [Analyst: U.S. military space budget likely to get another boost in 2024](https://spacenews.com/the-biden-administration-in-its-budget-proposal-for-fiscal-year-2024-is-likely-to-seek-a-significant-increase-for-the-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T224740">2023-02-16 22:47:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T173242">2023-02-17 17:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T181002">2023-02-17 18:10:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
