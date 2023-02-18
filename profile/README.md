@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Peraton wins NOAA contract](https://spacenews.com/peraton-wins-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T001318">2023-02-18 00:13:18 UTC</a></sub>
+* [First crewed Starliner mission on track for April](https://spacenews.com/first-crewed-starliner-mission-on-track-for-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T233037">2023-02-17 23:30:37 UTC</a></sub>
+* [Watch live: SpaceX to complete Friday doubleheader with launch for Inmarsat](https://spaceflightnow.com/2023/02/17/falcon-9-inmarsat-6-f2-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T231048">2023-02-17 23:10:48 UTC</a></sub>
+* [SpaceX to launch Inmarsat I-6 F2 for 12th mission of 2023](https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T230947">2023-02-17 23:09:47 UTC</a></sub>
 * [NASA Sets Coverage for Agency’s SpaceX Crew-6 Events, Launch](http://www.nasa.gov/press-release/nasa-sets-coverage-for-agency-s-spacex-crew-6-events-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T222000">2023-02-17 22:20:00 UTC</a></sub>
 * [Falcon 9 launch from California adds 51 more satellites to Starlink network](https://spaceflightnow.com/2023/02/17/falcon-9-launch-from-california-adds-51-more-satellites-to-starlink-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T214048">2023-02-17 21:40:48 UTC</a></sub>
 * [NASA conducting cybersecurity review of Deep Space Network tracking site](https://spacenews.com/nasa-conducting-cybersecurity-review-of-deep-space-network-tracking-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T200044">2023-02-17 20:00:44 UTC</a></sub>
 * [Op-ed | Enlisting AI to secure the space domain](https://spacenews.com/op-ed-enlisting-ai-to-secure-the-space-domain/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T194735">2023-02-17 19:47:35 UTC</a></sub>
 * [Opinion | Inflation’s squeeze on space and national security contracts](https://spacenews.com/opinion-inflations-squeeze-on-space-and-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T181340">2023-02-17 18:13:40 UTC</a></sub>
 * [FAA proposes fining SpaceX for missing launch data](https://spacenews.com/faa-proposes-fining-spacex-for-missing-launch-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T175802">2023-02-17 17:58:02 UTC</a></sub>
-* [NASA's Perseverance Rover Set to Begin Third Year at Jezero Crater](https://mars.nasa.gov/news/9349/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T172100">2023-02-17 17:21:00 UTC</a></sub>
-* [AI startup using satellite imagery to trace the path of Chinese balloon](https://spacenews.com/ai-startup-using-satellite-imagery-to-trace-the-path-of-chinese-balloon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T171534">2023-02-17 17:15:34 UTC</a></sub>
-* [Deep space smallsats face big challenges](https://spacenews.com/deep-space-smallsats-face-big-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T170000">2023-02-17 17:00:00 UTC</a></sub>
-* [FAA wants to fine SpaceX $175,000 for failing to submit data before a launch](https://www.cnbc.com/2023/02/17/faa-spacex-fine-launch-data.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T154831">2023-02-17 15:48:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T233229">2023-02-17 23:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T004155">2023-02-18 00:41:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
