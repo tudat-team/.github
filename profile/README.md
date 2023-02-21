@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The growing Chinese space threat](https://spacenews.com/the-growing-chinese-space-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T142450">2023-02-21 14:24:50 UTC</a></sub>
 * [FAA forecasts surging commercial launch activity](https://spacenews.com/faa-forecasts-surging-commercial-launch-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T100422">2023-02-21 10:04:22 UTC</a></sub>
 * [Secretive military space agency stepping out of the shadows](https://spacenews.com/secretive-military-space-agency-stepping-out-of-the-shadows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T220000">2023-02-20 22:00:00 UTC</a></sub>
 * [Space Force considers public-private partnerships to respond to crises](https://spacenews.com/space-force-considers-public-private-partnerships-to-respond-to-crises/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T193053">2023-02-20 19:30:53 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NSL unveils new Black Box](https://spacenews.com/nsl-unveils-new-black-box/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T110000">2023-02-20 11:00:00 UTC</a></sub>
 * [Office of Space Commerce examines options for commercial SSA pilot project in LEO](https://spacenews.com/office-of-space-commerce-examines-options-for-commercial-ssa-pilot-project-in-leo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230219T001843">2023-02-19 00:18:43 UTC</a></sub>
 * [SpaceX launches Inmarsat-6 F2 in a boost for direct-to-device services](https://spacenews.com/spacex-launches-inmarsat-6-f2-in-a-boost-for-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T222057">2023-02-18 22:20:57 UTC</a></sub>
-* [Russia reschedules Soyuz launch after Progress undocks](https://spacenews.com/russia-reschedules-soyuz-launch-after-progress-undocks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T165044">2023-02-18 16:50:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T143324">2023-02-21 14:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T150837">2023-02-21 15:08:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
