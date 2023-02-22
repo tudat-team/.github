@@ -575,7 +575,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Terran Orbital announces $2.4 billion Rivada Space Networks contract](https://spacenews.com/terran-orbital-announces-2-4-billion-rivada-space-networks-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T154552">2023-02-22 15:45:52 UTC</a></sub>
 * [SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity](https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T143651">2023-02-22 14:36:51 UTC</a></sub>
 * [Capella teams with analytics firms to promote use of radar imagery](https://spacenews.com/capella-teams-with-analytics-firms-to-promote-use-of-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T140000">2023-02-22 14:00:00 UTC</a></sub>
-* [Terran Orbital surges 70% after winning $2.4 billion contract to build satellites for Rivada](https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T135313">2023-02-22 13:53:13 UTC</a></sub>
+* [Terran Orbital surges 71% after winning $2.4 billion contract to build satellites for Rivada](https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T135313">2023-02-22 13:53:13 UTC</a></sub>
 * [Crew-6 launch slips as Progress leak investigation continues](https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T110742">2023-02-22 11:07:42 UTC</a></sub>
 * [Space Force: Smaller launchers made case to compete for national security contracts](https://spacenews.com/space-force-smaller-launchers-made-case-to-compete-for-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T103813">2023-02-22 10:38:13 UTC</a></sub>
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T213239">2023-02-22 21:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T220701">2023-02-22 22:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
