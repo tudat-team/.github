@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Virtual Aviation Showcase to Highlight Transformative Innovation](http://www.nasa.gov/press-release/nasa-virtual-aviation-showcase-to-highlight-transformative-innovation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T181200">2023-02-22 18:12:00 UTC</a></sub>
 * [Delving Deeper: Super Heavy thrust and counting down to flight](https://www.nasaspaceflight.com/2023/02/starship-delving-deeper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T170428">2023-02-22 17:04:28 UTC</a></sub>
 * [Terran Orbital announces $2.4 billion Rivada Space Networks contract](https://spacenews.com/terran-orbital-announces-2-4-billion-rivada-space-networks-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T154552">2023-02-22 15:45:52 UTC</a></sub>
 * [SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity](https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T143651">2023-02-22 14:36:51 UTC</a></sub>
 * [Capella teams with analytics firms to promote use of radar imagery](https://spacenews.com/capella-teams-with-analytics-firms-to-promote-use-of-radar-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T140000">2023-02-22 14:00:00 UTC</a></sub>
-* [Terran Orbital surges 80% after winning $2.4 billion contract to build satellites for Rivada](https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T135313">2023-02-22 13:53:13 UTC</a></sub>
+* [Terran Orbital surges 70% after winning $2.4 billion contract to build satellites for Rivada](https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T135313">2023-02-22 13:53:13 UTC</a></sub>
 * [Crew-6 launch slips as Progress leak investigation continues](https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T110742">2023-02-22 11:07:42 UTC</a></sub>
 * [Space Force: Smaller launchers made case to compete for national security contracts](https://spacenews.com/space-force-smaller-launchers-made-case-to-compete-for-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T103813">2023-02-22 10:38:13 UTC</a></sub>
 * [SpaceX proceeding with Starship orbital launch attempt after static fire](https://spacenews.com/spacex-proceeding-with-starship-orbital-launch-attempt-after-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T085703">2023-02-22 08:57:03 UTC</a></sub>
 * [How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next](https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T050000">2023-02-22 05:00:00 UTC</a></sub>
-* [Military to tap commercial industry for ‘space mobility’ services](https://spacenews.com/military-to-tap-commercial-industry-for-space-mobility-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T015717">2023-02-22 01:57:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T183802">2023-02-22 18:38:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T190655">2023-02-22 19:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
