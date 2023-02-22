@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-6 launch slips as Progress leak investigation continues](https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T110742">2023-02-22 11:07:42 UTC</a></sub>
 * [Space Force: Smaller launchers made case to compete for national security contracts](https://spacenews.com/space-force-smaller-launchers-made-case-to-compete-for-national-security-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T103813">2023-02-22 10:38:13 UTC</a></sub>
 * [SpaceX proceeding with Starship orbital launch attempt after static fire](https://spacenews.com/spacex-proceeding-with-starship-orbital-launch-attempt-after-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T085703">2023-02-22 08:57:03 UTC</a></sub>
 * [How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next](https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T050000">2023-02-22 05:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Envisioning the next generation of space telescopes](https://spacenews.com/envisioning-the-next-generation-of-space-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T203902">2023-02-21 20:39:02 UTC</a></sub>
 * [NASA Mars orbiter reveals China’s Zhurong rover has not moved for months](https://spacenews.com/nasa-mars-orbiter-reveals-chinas-zhurong-rover-has-not-moved-for-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T192656">2023-02-21 19:26:56 UTC</a></sub>
 * [Vast acquires Launcher to support space station development](https://spacenews.com/vast-acquires-launcher-to-support-space-station-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T191003">2023-02-21 19:10:03 UTC</a></sub>
-* [Russia claims an “external impact” damaged its Progress spacecraft](https://arstechnica.com/science/2023/02/russia-claims-an-external-impact-damaged-its-progress-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T172946">2023-02-21 17:29:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T113240">2023-02-22 11:32:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T121520">2023-02-22 12:15:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
