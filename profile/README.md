@@ -569,15 +569,15 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Relativity Space sets date for first Terran 1 launch](https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T004103">2023-02-23 00:41:03 UTC</a></sub>
+* [Terran Orbital Secures $2.4 Billion Contract to Build 300 Satellites for Rivada Space Networks ](https://tlpnetwork.com/news/2023/02/terran-orbital-secures-rivada-space-networks-contact) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T003800">2023-02-23 00:38:00 UTC</a></sub>
 * [SAR solutions provider Asterra in talks for first satellite](https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T000433">2023-02-23 00:04:33 UTC</a></sub>
+* [BREAKING! Relativity Receives Launch Licence, Sets Launch Date](https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T235600">2023-02-22 23:56:00 UTC</a></sub>
 * [NASA warns of budget challenges in year ahead](https://spacenews.com/nasa-warns-of-budget-challenges-in-year-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T223153">2023-02-22 22:31:53 UTC</a></sub>
 * [The future of Starship includes national security missions](https://spacenews.com/the-future-of-starship-includes-national-security-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T222756">2023-02-22 22:27:56 UTC</a></sub>
 * [China’s LEO push looms over Western expansion efforts](https://spacenews.com/chinas-leo-push-looms-over-western-expansion-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T205725">2023-02-22 20:57:25 UTC</a></sub>
 * [NASA Experts Go on Tour with The Color of Space Documentary](http://www.nasa.gov/press-release/nasa-experts-go-on-tour-with-the-color-of-space-documentary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T201200">2023-02-22 20:12:00 UTC</a></sub>
 * [NASA Virtual Aviation Showcase to Highlight Transformative Innovation](http://www.nasa.gov/press-release/nasa-virtual-aviation-showcase-to-highlight-transformative-innovation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T181200">2023-02-22 18:12:00 UTC</a></sub>
 * [Delving Deeper: Super Heavy thrust and counting down to flight](https://www.nasaspaceflight.com/2023/02/starship-delving-deeper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T170428">2023-02-22 17:04:28 UTC</a></sub>
-* [Terran Orbital announces $2.4 billion Rivada Space Networks contract](https://spacenews.com/terran-orbital-announces-2-4-billion-rivada-space-networks-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T154552">2023-02-22 15:45:52 UTC</a></sub>
-* [SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity](https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T143651">2023-02-22 14:36:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T063815">2023-02-23 06:38:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T070743">2023-02-23 07:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
