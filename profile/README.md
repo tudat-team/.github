@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Red hot space](https://www.planetary.org/the-downlink/red-hot-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T153623">2023-02-24 15:36:23 UTC</a></sub>
 * [Why we need the NEO Surveyor space telescope](https://www.planetary.org/articles/the-need-for-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T153624">2023-02-23 15:36:24 UTC</a></sub>
 * [Io, Jupiter’s chaotic volcano moon](https://www.planetary.org/worlds/io) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230221T153229">2023-02-21 15:32:29 UTC</a></sub>
 * [Weaving together a picture of the Cosmos](https://www.planetary.org/the-downlink/weaving-together-a-picture-of-the-cosmos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T153102">2023-02-17 15:31:02 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [What does a bear have in common with a megatsunami?](https://www.planetary.org/the-downlink/what-does-a-bear-have-in-common-with-a-megatsunami) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T153140">2023-02-10 15:31:40 UTC</a></sub>
 * [Our favorite moons of the Solar System](https://www.planetary.org/articles/our-favorite-moons-of-the-solar-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T160136">2023-02-07 16:01:36 UTC</a></sub>
 * [Vulcan: Rocket stacked for inaugural launch](https://blog.ulalaunch.com/blog/vulcan-rocket-stacked-for-inaugural-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230206T164145">2023-02-06 16:41:45 UTC</a></sub>
-* [More worlds, anyone?](https://www.planetary.org/the-downlink/more-worlds-anyone) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T153132">2023-02-03 15:31:32 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T153329">2023-02-24 15:33:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T161050">2023-02-24 16:10:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
