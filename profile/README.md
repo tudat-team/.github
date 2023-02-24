@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! ULA Now Targeting May 4th For Vulcan Launch](https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T231500">2023-02-23 23:15:00 UTC</a></sub>
 * [NASA Awards Consolidated Operations, Management, Engineering Contract](http://www.nasa.gov/press-release/nasa-awards-consolidated-operations-management-engineering-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T210600">2023-02-23 21:06:00 UTC</a></sub>
 * [China Resumes Orbital Launches with Zhongxing-26 Satellite Mission](https://tlpnetwork.com/news/2023/02/china-resumes-orbital-launches-with-zhongxing-26-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T195000">2023-02-23 19:50:00 UTC</a></sub>
 * [Polaris Dawn Crew Prepares For Historic Mission This Summer](https://tlpnetwork.com/news/2023/02/polaris-dawn-prepares-for-historic-mission-this-summer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T193100">2023-02-23 19:31:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Relativity Space sets date for first Terran 1 launch](https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T004103">2023-02-23 00:41:03 UTC</a></sub>
 * [Terran Orbital Secures $2.4 Billion Contract to Build 300 Satellites for Rivada Space Networks ](https://tlpnetwork.com/news/2023/02/terran-orbital-secures-rivada-space-networks-contact) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T003800">2023-02-23 00:38:00 UTC</a></sub>
 * [SAR solutions provider Asterra in talks for first satellite](https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T000433">2023-02-23 00:04:33 UTC</a></sub>
-* [Relativity Receives Launch Licence, Sets Launch Date](https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T235600">2023-02-22 23:56:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T233313">2023-02-23 23:33:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T004155">2023-02-24 00:41:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
