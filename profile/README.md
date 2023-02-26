@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX, NASA to launch international Crew-6 mission to Station](https://www.nasaspaceflight.com/2023/02/crew-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T152222">2023-02-26 15:22:22 UTC</a></sub>
 * [Uncrewed Soyuz MS-23 “rescue” mission arrives at ISS](https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T234126">2023-02-25 23:41:26 UTC</a></sub>
 * [First Image from SONY Star Sphere Satellite Released](https://tlpnetwork.com/news/2023/02/first-image-from-sony-star-sphere-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T220600">2023-02-25 22:06:00 UTC</a></sub>
 * [Space Force is taking a ‘mutual fund approach’ to buying rocket launches](https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T214436">2023-02-24 21:44:36 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [After Vulcan comes online, ULA plans to dramatically increase launch cadence](https://arstechnica.com/science/2023/02/after-vulcan-comes-online-ula-plans-to-dramatically-increase-launch-cadence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T150249">2023-02-24 15:02:49 UTC</a></sub>
 * [Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date](https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T120023">2023-02-24 12:00:23 UTC</a></sub>
 * [SpaceX completes test-firing before next crew launch](https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T085608">2023-02-24 08:56:08 UTC</a></sub>
-* [Replacement Soyuz launched on fight to space station](https://spaceflightnow.com/2023/02/24/replacement-soyuz-launched-on-fight-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T045608">2023-02-24 04:56:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T153226">2023-02-26 15:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T160923">2023-02-26 16:09:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
