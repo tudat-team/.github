@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Unpiloted Soyuz spacecraft docks at space station to replace damaged crew capsule](https://spaceflightnow.com/2023/02/26/unpiloted-soyuz-spacecraft-docks-at-space-station-to-replace-damaged-crew-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T220517">2023-02-26 22:05:17 UTC</a></sub>
+* [SpaceX Crew Dragon poised for overnight launch to space station](https://spaceflightnow.com/2023/02/26/spacex-crew-dragon-poised-for-overnight-launch-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T214517">2023-02-26 21:45:17 UTC</a></sub>
 * [SpaceX Reveals Details Of Next Generation Starlink Satellites](https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T203100">2023-02-26 20:31:00 UTC</a></sub>
 * [SpaceX, NASA to launch international Crew-6 mission to Station](https://www.nasaspaceflight.com/2023/02/crew-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T152222">2023-02-26 15:22:22 UTC</a></sub>
 * [Replacement Soyuz arrives at space station](https://spacenews.com/replacement-soyuz-arrives-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T130259">2023-02-26 13:02:59 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force looks to energize industry with next round of launch contracts](https://spacenews.com/space-force-looks-to-energize-industry-with-next-round-of-launch-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T174511">2023-02-25 17:45:11 UTC</a></sub>
 * [Commercial space a key topic for National Space Council advisory group](https://spacenews.com/commercial-space-a-key-topic-for-national-space-council-advisory-group/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T161951">2023-02-25 16:19:51 UTC</a></sub>
 * [Space Force is taking a ‘mutual fund approach’ to buying rocket launches](https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T214436">2023-02-24 21:44:36 UTC</a></sub>
-* [Bullitt unveils satellite-enabled Android smartphones](https://spacenews.com/bullitt-unveils-satellite-enabled-android-smartphones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T211939">2023-02-24 21:19:39 UTC</a></sub>
-* [Launch readiness review complete for Crew-6 mission](https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T210516">2023-02-24 21:05:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T213234">2023-02-26 21:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T220725">2023-02-26 22:07:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
