@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA SpaceX Set March 2 For Next Crew-6 Launch Attempt ](https://tlpnetwork.com/news/2023/02/nasa-spacex-schedule-next-crew-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T091200">2023-02-27 09:12:00 UTC</a></sub>
 * [Shortly before liftoff, SpaceX cancels a crew launch due to igniter issues](https://arstechnica.com/science/2023/02/spacex-scrubs-crew-6-launch-due-to-an-issue-with-its-igniter-fluid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T071508">2023-02-27 07:15:08 UTC</a></sub>
 * [NASA SpaceX Crew 6 Launch Aborted](https://tlpnetwork.com/news/2023/02/nasa-spacex-crew-6-launch-aborted) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T065300">2023-02-27 06:53:00 UTC</a></sub>
 * [The Spaceport Company To Develop Commercial Sea Launch Pads](https://tlpnetwork.com/news/2023/02/the-spaceport-company-to-develop-sea-launch-pads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T233700">2023-02-26 23:37:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Crew Dragon poised for overnight launch to space station](https://spaceflightnow.com/2023/02/26/spacex-crew-dragon-poised-for-overnight-launch-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T214517">2023-02-26 21:45:17 UTC</a></sub>
 * [SpaceX Reveals Details Of Next Generation Starlink Satellites](https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T203100">2023-02-26 20:31:00 UTC</a></sub>
 * [SpaceX, NASA scrub launch international Crew-6 mission to Station](https://www.nasaspaceflight.com/2023/02/crew-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T152222">2023-02-26 15:22:22 UTC</a></sub>
-* [Replacement Soyuz arrives at space station](https://spacenews.com/replacement-soyuz-arrives-at-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T130259">2023-02-26 13:02:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T093424">2023-02-27 09:34:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T100937">2023-02-27 10:09:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
