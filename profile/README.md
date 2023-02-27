@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch first Starlink v2 satellites as part of doubleheader](https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T165947">2023-02-27 16:59:47 UTC</a></sub>
 * [Technical issue scrubs SpaceX commercial crew launch](https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T123141">2023-02-27 12:31:41 UTC</a></sub>
 * [China unveils lunar lander to put astronauts on the moon](https://spacenews.com/china-unveils-lunar-lander-to-put-astronauts-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T114435">2023-02-27 11:44:35 UTC</a></sub>
 * [NASA SpaceX Set March 2 For Next Crew-6 Launch Attempt ](https://tlpnetwork.com/news/2023/02/nasa-spacex-schedule-next-crew-launch-attempt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T091200">2023-02-27 09:12:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The Spaceport Company To Develop Commercial Sea Launch Pads](https://tlpnetwork.com/news/2023/02/the-spaceport-company-to-develop-sea-launch-pads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T233700">2023-02-26 23:37:00 UTC</a></sub>
 * [SpaceX unveils next-gen Starlink V2 Mini satellites ahead of Monday launch](https://www.teslarati.com/spacex-unveils-next-gen-starlink-v2-mini-satellites-ahead-of-monday-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T232533">2023-02-26 23:25:33 UTC</a></sub>
 * [Startup developing sea-based launch pads](https://spacenews.com/startup-developing-sea-based-launch-pads/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T232300">2023-02-26 23:23:00 UTC</a></sub>
-* [Unpiloted Soyuz spacecraft docks at space station to replace damaged crew capsule](https://spaceflightnow.com/2023/02/26/unpiloted-soyuz-spacecraft-docks-at-space-station-to-replace-damaged-crew-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T220517">2023-02-26 22:05:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T170743">2023-02-27 17:07:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T173425">2023-02-27 17:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
