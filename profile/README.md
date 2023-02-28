@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to expand its space station, international astronaut selection underway](https://spacenews.com/china-to-expand-its-space-station-international-astronaut-selection-underway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T145953">2023-02-28 14:59:53 UTC</a></sub>
 * [Japan selects first new astronauts in 14 years to support Artemis program ](https://spacenews.com/jaxa-astronauts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T142456">2023-02-28 14:24:56 UTC</a></sub>
 * [SpaceX begins launching second-generation Starlink satellites with four times the network capacity](https://www.cnbc.com/2023/02/28/spacex-launches-v2-mini-starlink-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T140051">2023-02-28 14:00:51 UTC</a></sub>
 * [SpaceX launches first upgraded Starlink satellites](https://spacenews.com/spacex-launches-first-upgraded-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T134653">2023-02-28 13:46:53 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T212500">2023-02-27 21:25:00 UTC</a></sub>
 * [U.S. Army extends Maxar’s contract for 3D geospatial data](https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T210904">2023-02-27 21:09:04 UTC</a></sub>
 * [China Unveils Crew Lunar Lander, Targets 2027 For Demo Mission](https://tlpnetwork.com/news/2023/02/china-unveils-crew-lunar-lander-targets-2027-for-demo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T204200">2023-02-27 20:42:00 UTC</a></sub>
-* [Heliophysics director named NASA associate administrator for science](https://spacenews.com/heliophysics-director-named-nasa-associate-administrator-for-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T202849">2023-02-27 20:28:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T143516">2023-02-28 14:35:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T150829">2023-02-28 15:08:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
