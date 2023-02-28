@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First ispace mission on track for April lunar landing](https://spacenews.com/first-ispace-mission-on-track-for-april-lunar-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T120727">2023-02-28 12:07:27 UTC</a></sub>
 * [SpaceX launches first Starlink v2 satellites to orbit](https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T225947">2023-02-27 22:59:47 UTC</a></sub>
 * [NASA's SWOT Satellite Main Instrument Offline](https://tlpnetwork.com/news/2023/02/nasa-swot-satellite-main-instrument-offline) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T223200">2023-02-27 22:32:00 UTC</a></sub>
 * [NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space](http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T212500">2023-02-27 21:25:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Air Force navigation satellite to launch on Vulcan’s first national security mission](https://spacenews.com/air-force-navigation-satellite-to-launch-on-vulcans-first-national-security-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T194636">2023-02-27 19:46:36 UTC</a></sub>
 * [Mitsubishi makes strategic investment in Astroscale’s $76 million funding round](https://spacenews.com/mitsubishi-makes-strategic-investment-in-astroscales-76-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T194359">2023-02-27 19:43:59 UTC</a></sub>
 * [NASA Administrator Selects New Head of Science](http://www.nasa.gov/press-release/nasa-administrator-selects-new-head-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T180500">2023-02-27 18:05:00 UTC</a></sub>
-* [Technical issue scrubs SpaceX commercial crew launch](https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T123141">2023-02-27 12:31:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T113254">2023-02-28 11:32:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T121534">2023-02-28 12:15:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
