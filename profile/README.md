@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Apple lends Globalstar $252 million for satellite-enabled iPhones](https://spacenews.com/apple-loans-globalstar-252-million-for-satellite-enabled-iphones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T234602">2023-02-28 23:46:02 UTC</a></sub>
 * [Rocket Lab quarterly revenue stays steady as space company doubles order backlog](https://www.cnbc.com/2023/02/28/rocket-lab-rklb-q4-2022-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T214019">2023-02-28 21:40:19 UTC</a></sub>
 * [NASA Awards Contract Supporting Langley’s Research, Science Services](http://www.nasa.gov/press-release/nasa-awards-contract-supporting-langley-s-research-science-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T211500">2023-02-28 21:15:00 UTC</a></sub>
 * [Virgin Galactic completes lengthy upgrade process ahead of resuming spaceflights](https://www.cnbc.com/2023/02/28/virgin-galactic-spce-q4-2022-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T211310">2023-02-28 21:13:10 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China Plans Tiangong Space Station Expansion ](https://tlpnetwork.com/news/2023/02/china-plans-tiangong-space-station-expansion ) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T173400">2023-02-28 17:34:00 UTC</a></sub>
 * [Japan Announces First New Astronaut in 14 Years to Join Artemis Missions](https://tlpnetwork.com/news/2023/02/jaxa-announces-new-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T172300">2023-02-28 17:23:00 UTC</a></sub>
 * [Lux Semiconductors raises $2.3 million for microelectronics  packaging technology](https://spacenews.com/lux-semiconductors-raises-2-3-million-for-microelectronics-packaging-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T171518">2023-02-28 17:15:18 UTC</a></sub>
-* [NASA´s William Hartwell updates on Artemis I and future ESMs](https://www.nasaspaceflight.com/2023/02/artemis-i-future-esm-updates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T160953">2023-02-28 16:09:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T233246">2023-02-28 23:32:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T005025">2023-03-01 00:50:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
