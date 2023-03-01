@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD interested in smartphone-to-satellite communications services](https://spacenews.com/dod-interested-in-smartphone-to-satellite-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T215514">2023-03-01 21:55:14 UTC</a></sub>
 * [NASA Awards Systems Engineering Advanced Services II Contract](http://www.nasa.gov/press-release/nasa-awards-systems-engineering-advanced-services-ii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T210500">2023-03-01 21:05:00 UTC</a></sub>
+* [RocketLab Considers Ending Helicopter Recovery Program](https://tlpnetwork.com/news/2023/03/rocketlab-considers-ending-helicopter-recovery-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T205900">2023-03-01 20:59:00 UTC</a></sub>
 * [Rocket Lab reconsidering mid-air recovery of Electron boosters](https://spacenews.com/rocket-lab-reconsidering-mid-air-recovery-of-electron-boosters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T201958">2023-03-01 20:19:58 UTC</a></sub>
 * [SpaceX Crew Dragon poised for second launch attempt](https://spaceflightnow.com/2023/03/01/spacex-crew-dragon-poised-for-second-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T195517">2023-03-01 19:55:17 UTC</a></sub>
 * [Virgin Galactic VMS Eve Returns to Spaceport America](https://tlpnetwork.com/news/2023/03/virgin-galactic-vms-eve-returns-to-spaceport-america) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T192100">2023-03-01 19:21:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Viasat Acquisition Of Inmarsat Receives Provisional Approval From UK](https://tlpnetwork.com/news/2023/03/viasat-acquisition-of-inmarsat-receives-provisional-approval-from-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T183400">2023-03-01 18:34:00 UTC</a></sub>
 * [Sources say prominent US rocket-maker United Launch Alliance is up for sale](https://arstechnica.com/science/2023/03/sources-say-prominent-us-rocket-maker-united-launch-alliance-is-up-for-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T165034">2023-03-01 16:50:34 UTC</a></sub>
 * [UK provisionally clears Viasat’s Inmarsat acquisition](https://spacenews.com/uk-provisionally-clears-viasats-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T141538">2023-03-01 14:15:38 UTC</a></sub>
-* [Virgin Galactic in final phases of return to flight](https://spacenews.com/virgin-galactic-in-final-phases-of-return-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T131634">2023-03-01 13:16:34 UTC</a></sub>
-* [SpaceX, NASA target Thursday morning for Crew-6 launch](https://www.nasaspaceflight.com/2023/03/crew-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T122222">2023-03-01 12:22:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T213243">2023-03-01 21:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T220733">2023-03-01 22:07:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
