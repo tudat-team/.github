@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Updates Coverage for Agency’s SpaceX Crew-6 Launch](http://www.nasa.gov/press-release/nasa-updates-coverage-for-agency-s-spacex-crew-6-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T184500">2023-03-01 18:45:00 UTC</a></sub>
+* [Viasat Acquisition Of Inmarsat Receives Provisional Approval From UK](https://tlpnetwork.com/news/2023/03/viasat-acquisition-of-inmarsat-receives-provisional-approval-from-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T183400">2023-03-01 18:34:00 UTC</a></sub>
 * [Sources say prominent US rocket-maker United Launch Alliance is up for sale](https://arstechnica.com/science/2023/03/sources-say-prominent-us-rocket-maker-united-launch-alliance-is-up-for-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T165034">2023-03-01 16:50:34 UTC</a></sub>
 * [UK provisionally clears Viasat’s Inmarsat acquisition](https://spacenews.com/uk-provisionally-clears-viasats-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T141538">2023-03-01 14:15:38 UTC</a></sub>
 * [Virgin Galactic in final phases of return to flight](https://spacenews.com/virgin-galactic-in-final-phases-of-return-to-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T131634">2023-03-01 13:16:34 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab quarterly revenue stays steady as space company doubles order backlog](https://www.cnbc.com/2023/02/28/rocket-lab-rklb-q4-2022-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T214019">2023-02-28 21:40:19 UTC</a></sub>
 * [NASA Awards Contract Supporting Langley’s Research, Science Services](http://www.nasa.gov/press-release/nasa-awards-contract-supporting-langley-s-research-science-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T211500">2023-02-28 21:15:00 UTC</a></sub>
 * [Virgin Galactic completes lengthy upgrade process ahead of resuming spaceflights](https://www.cnbc.com/2023/02/28/virgin-galactic-spce-q4-2022-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T211310">2023-02-28 21:13:10 UTC</a></sub>
-* [Industry group to examine potential security threats in cislunar space ](https://spacenews.com/industry-group-to-examine-potential-security-threats-in-cislunar-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T184256">2023-02-28 18:42:56 UTC</a></sub>
-* [iSpace On Track For First Lunar Landing, Preparing For Next Missions](https://tlpnetwork.com/news/2023/02/ispace-on-track-for-first-lunar-landing-preparing-for-next-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T183700">2023-02-28 18:37:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T183853">2023-03-01 18:38:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T190702">2023-03-01 19:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
