@@ -571,7 +571,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Raytheon wins $250 million contract for missile-tracking satellites](https://spacenews.com/raytheon-wins-250-million-contract-for-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T185327">2023-03-02 18:53:27 UTC</a></sub>
 * [NASA to Discuss Findings from Successful Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T173500">2023-03-02 17:35:00 UTC</a></sub>
 * [Investing in Space: Sizing up](https://www.cnbc.com/2023/03/02/investing-in-space-sizing-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T172418">2023-03-02 17:24:18 UTC</a></sub>
-* [SpaceX prepares v1.5 satellites for launch following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T155947">2023-03-02 15:59:47 UTC</a></sub>
+* [SpaceX prepares v1.5 satellites for Friday launch following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T155947">2023-03-02 15:59:47 UTC</a></sub>
 * [SpaceX launches Crew-6 mission for NASA, sending four more astronauts to the space station](https://www.cnbc.com/2023/03/02/spacex-launches-nasa-crew-6-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T135137">2023-03-02 13:51:37 UTC</a></sub>
 * [CesiumAstro wins SDA contract for Link 16 antennas](https://spacenews.com/cesiumastro-wins-sda-contract-for-link-16-antennas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T123000">2023-03-02 12:30:00 UTC</a></sub>
 * [Crew-6 launches to space station](https://spacenews.com/crew-6-launches-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T091902">2023-03-02 09:19:02 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T193229">2023-03-02 19:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T200927">2023-03-02 20:09:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
