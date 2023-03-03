@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches v1.5 satellites from Vandenberg following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T175947">2023-03-03 17:59:47 UTC</a></sub>
 * [Viasat to enter direct-to-device market with Ligado Networks](https://spacenews.com/viasat-to-enter-direct-to-device-market-with-ligado-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T143907">2023-03-03 14:39:07 UTC</a></sub>
 * [Nozzle erosion blamed for Vega C launch failure](https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T123736">2023-03-03 12:37:36 UTC</a></sub>
 * [Rocket Report: Rocket Lab may drop helicopter recovery; ULA up for sale?](https://arstechnica.com/science/2023/03/rocket-report-ula-seeks-to-up-vulcan-cadence-capella-inks-with-rocket-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T120057">2023-03-03 12:00:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Raytheon wins $250 million contract for missile-tracking satellites](https://spacenews.com/raytheon-wins-250-million-contract-for-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T185327">2023-03-02 18:53:27 UTC</a></sub>
 * [NASA to Discuss Findings from Successful Artemis I Moon Mission](http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T173500">2023-03-02 17:35:00 UTC</a></sub>
 * [Investing in Space: Sizing up](https://www.cnbc.com/2023/03/02/investing-in-space-sizing-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T172418">2023-03-02 17:24:18 UTC</a></sub>
-* [SpaceX prepares v1.5 satellites for Friday launch following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T155947">2023-03-02 15:59:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T183711">2023-03-03 18:37:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T190633">2023-03-03 19:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
