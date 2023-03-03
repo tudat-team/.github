@@ -576,8 +576,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX prepares v1.5 satellites for Friday launch following debut of Starlink v2](https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T155947">2023-03-02 15:59:47 UTC</a></sub>
 * [SpaceX launches Crew-6 mission for NASA, sending four more astronauts to the space station](https://www.cnbc.com/2023/03/02/spacex-launches-nasa-crew-6-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T135137">2023-03-02 13:51:37 UTC</a></sub>
 * [CesiumAstro wins SDA contract for Link 16 antennas](https://spacenews.com/cesiumastro-wins-sda-contract-for-link-16-antennas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T123000">2023-03-02 12:30:00 UTC</a></sub>
+* [SpaceX, NASA launch Crew-6, arrives at the ISS](https://www.nasaspaceflight.com/2023/03/crew-6-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T122222">2023-03-02 12:22:22 UTC</a></sub>
 * [Crew-6 launches to space station](https://spacenews.com/crew-6-launches-to-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T091902">2023-03-02 09:19:02 UTC</a></sub>
-* [After flying four astronauts into orbit, SpaceX makes its 101st straight landing](https://arstechnica.com/science/2023/03/on-its-second-attempt-the-crew-6-mission-soared-into-orbit-early-thursday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T060604">2023-03-02 06:06:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T063830">2023-03-03 06:38:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T070730">2023-03-03 07:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
