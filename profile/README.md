@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The small launch industry is brutal—yes, even more than you thought](https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T175853">2023-03-06 17:58:53 UTC</a></sub>
 * [NASA's Curiosity Views First 'Sun Rays' on Mars](https://mars.nasa.gov/news/9358/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170500">2023-03-06 17:05:00 UTC</a></sub>
 * [JAXA and Mitsubishi ready for second attempt at H3 rocket debut](https://www.nasaspaceflight.com/2023/03/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T161122">2023-03-06 16:11:22 UTC</a></sub>
 * [NASA shifts focus of suborbital crew program](https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T132136">2023-03-06 13:21:36 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Europropulsion Completes Manufacturing of Final Ariane 5 EAP](https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T132128">2023-03-05 13:21:28 UTC</a></sub>
 * [NASA and Roscosmos planning to add mission to seat barter agreement](https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T010755">2023-03-05 01:07:55 UTC</a></sub>
 * [German Startup 'Rivada' Books 12 Falcon 9 Flights](https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210700">2023-03-03 21:07:00 UTC</a></sub>
-* [Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test](https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210600">2023-03-03 21:06:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T173443">2023-03-06 17:34:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T181048">2023-03-06 18:10:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
