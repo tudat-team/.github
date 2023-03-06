@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Views First 'Sun Rays' on Mars](https://mars.nasa.gov/news/9358/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170500">2023-03-06 17:05:00 UTC</a></sub>
+* [JAXA and Mitsubishi ready for second attempt at H3 rocket debut](https://www.nasaspaceflight.com/2023/03/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T161122">2023-03-06 16:11:22 UTC</a></sub>
 * [NASA shifts focus of suborbital crew program](https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T132136">2023-03-06 13:21:36 UTC</a></sub>
 * [The gold rush for the next round of military launch contracts has started](https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T114521">2023-03-06 11:45:21 UTC</a></sub>
 * [Lonestar raises $5 million for lunar data centers](https://spacenews.com/lonestar-raises-5-million-for-lunar-data-centers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T110000">2023-03-06 11:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA and Roscosmos planning to add mission to seat barter agreement](https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230305T010755">2023-03-05 01:07:55 UTC</a></sub>
 * [German Startup 'Rivada' Books 12 Falcon 9 Flights](https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210700">2023-03-03 21:07:00 UTC</a></sub>
 * [Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test](https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210600">2023-03-03 21:06:00 UTC</a></sub>
-* [NASA Awards Agencywide Contract for Communication Services](http://www.nasa.gov/press-release/nasa-awards-agencywide-contract-for-communication-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210500">2023-03-03 21:05:00 UTC</a></sub>
-* [DoD releases updated guidance on ‘responsible behaviors in space’](https://spacenews.com/dod-releases-updated-guidance-on-responsible-behaviors-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T200717">2023-03-03 20:07:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170803">2023-03-06 17:08:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T173443">2023-03-06 17:34:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
