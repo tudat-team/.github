@@ -402,52 +402,6 @@ conda install -c tudat-team/label/dev <package>
     <td><code>1.2.1.dev5</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudat/tree/develop" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
-    <td>
-<details>
-<summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
-<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main"/>
-</a>
-</summary>
-<table>
-<thead><tr><th>Variant</th><th>Status</th></tr></thead>
-<tbody><tr>
-<td>linux_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_arm64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
-</a>
-</td>
-</tr><tr>
-<td>win_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
-</a>
-</td>
-</tr>
-</tbody>
-</table>
-</details>
-</td>
-    <td><code>2.12.0.dev11</code></td>
-  </tr>
-<tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
@@ -568,16 +522,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellite imagery company BlackSky sees quarterly losses slow as it adds another military contract](https://www.cnbc.com/2023/03/07/blacksky-bksy-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T142347">2023-03-07 14:23:47 UTC</a></sub>
+* [Antenna verification framework now accepting drone measurements](https://spacenews.com/antenna-verification-framework-now-accepting-drone-measurements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T141306">2023-03-07 14:13:06 UTC</a></sub>
 * [JPL making progress on Psyche independent review recommendations](https://spacenews.com/jpl-making-progress-on-psyche-independent-review-recommendations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T130354">2023-03-07 13:03:54 UTC</a></sub>
 * [Japan’s H3 rocket launch fails after second stage malfunction](https://spacenews.com/japans-h3-rocket-launch-fails-after-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T114546">2023-03-07 11:45:46 UTC</a></sub>
 * [Japan’s flagship H3 rocket fails on first test flight](https://spaceflightnow.com/2023/03/07/japans-flagship-h3-rocket-fails-on-first-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T083517">2023-03-07 08:35:17 UTC</a></sub>
-* [BREAKING! Japan's H3 Rocket Fails During Inaugural Launch](https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T021700">2023-03-07 02:17:00 UTC</a></sub>
+* [Japan's H3 Rocket Fails During Inaugural Launch](https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T021700">2023-03-07 02:17:00 UTC</a></sub>
 * [Ukrainian government criticizes Vega C investigation](https://spacenews.com/ukrainian-government-criticizes-vega-c-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T011706">2023-03-07 01:17:06 UTC</a></sub>
 * [Investors in space startups see hurdles in defense market](https://spacenews.com/investors-in-space-startups-see-hurdles-in-defense-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T221618">2023-03-06 22:16:18 UTC</a></sub>
 * [The small launch industry is brutal—yes, even more than you thought](https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T175853">2023-03-06 17:58:53 UTC</a></sub>
 * [NASA's Curiosity Views First 'Sun Rays' on Mars](https://mars.nasa.gov/news/9358/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170500">2023-03-06 17:05:00 UTC</a></sub>
-* [Japan’s maiden launch of H3 rocket fails during second stage flight](https://www.nasaspaceflight.com/2023/03/h3-debut-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T161122">2023-03-06 16:11:22 UTC</a></sub>
-* [NASA shifts focus of suborbital crew program](https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T132136">2023-03-06 13:21:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +564,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T140759">2023-03-07 14:07:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143509">2023-03-07 14:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
