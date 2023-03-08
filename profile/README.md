@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch Relativity attempt the first launch of its 3D-printed rocket Terran 1](https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174630">2023-03-08 17:46:30 UTC</a></sub>
+* [U.S. Space Force game plan: Compete with China, prevent shooting war in orbit](https://spacenews.com/u-s-space-force-game-plan-compete-with-china-prevent-shooting-war-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174521">2023-03-08 17:45:21 UTC</a></sub>
 * [Starfish Space raises $14 million for in-orbit servicers](https://spacenews.com/starfish-space-raises-14-million-for-in-orbit-servicers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170154">2023-03-08 17:01:54 UTC</a></sub>
 * [Watch live: Relativity Space to launch first 3D-printed, methane-fueled orbital rocket](https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T164517">2023-03-08 16:45:17 UTC</a></sub>
 * [Relativity Space will attempt to become a real rocket company today](https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T154910">2023-03-08 15:49:10 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA studying unexpected performance of Orion’s heat shield ahead of crew mission](https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T143300">2023-03-08 14:33:00 UTC</a></sub>
 * [ISS dodges commercial imaging satellite](https://spacenews.com/iss-dodges-commercial-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T132221">2023-03-08 13:22:21 UTC</a></sub>
 * [Launch day timeline for Relativity Space’s Terran 1 rocket](https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T093517">2023-03-08 09:35:17 UTC</a></sub>
-* [NASA Preparing Final ISS Commercial Cargo Delivery Contracts](https://tlpnetwork.com/news/2023/03/nasa-advances-final-commercial-cargo-delivery-services-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T064300">2023-03-08 06:43:00 UTC</a></sub>
-* [SpaceX Introduces £15 Per Month Starlink Rental Offer in UK](https://tlpnetwork.com/news/2023/03/spacex-introduces-per-month-starlink-rental-offer-in-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T061600">2023-03-08 06:16:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T173420">2023-03-08 17:34:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T181110">2023-03-08 18:11:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
