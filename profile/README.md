@@ -568,13 +568,13 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: Relativity Space to launch first 3D-printed, methane-fueled orbital rocket](https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T164517">2023-03-08 16:45:17 UTC</a></sub>
 * [Relativity Space will attempt to become a real rocket company today](https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T154910">2023-03-08 15:49:10 UTC</a></sub>
 * [Relativity Space set for maiden launch of Terran 1 rocket](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T153522">2023-03-08 15:35:22 UTC</a></sub>
 * [Shield Capital adds retired general Goldfein to national security advisory board](https://spacenews.com/shield-capital-adds-retired-general-goldfein-to-national-security-advisory-board/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T151320">2023-03-08 15:13:20 UTC</a></sub>
 * [NASA studying unexpected performance of Orion’s heat shield ahead of crew mission](https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T143300">2023-03-08 14:33:00 UTC</a></sub>
 * [ISS dodges commercial imaging satellite](https://spacenews.com/iss-dodges-commercial-imaging-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T132221">2023-03-08 13:22:21 UTC</a></sub>
 * [Launch day timeline for Relativity Space’s Terran 1 rocket](https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T093517">2023-03-08 09:35:17 UTC</a></sub>
-* [Relativity Space ready to launch first 3D-printed, methane-fueled orbital rocket](https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T082517">2023-03-08 08:25:17 UTC</a></sub>
 * [NASA Preparing Final ISS Commercial Cargo Delivery Contracts](https://tlpnetwork.com/news/2023/03/nasa-advances-final-commercial-cargo-delivery-services-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T064300">2023-03-08 06:43:00 UTC</a></sub>
 * [SpaceX Introduces £15 Per Month Starlink Rental Offer in UK](https://tlpnetwork.com/news/2023/03/spacex-introduces-per-month-starlink-rental-offer-in-uk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T061600">2023-03-08 06:16:00 UTC</a></sub>
 * [No major issues found with Artemis 1 mission](https://spacenews.com/no-major-issues-found-with-artemis-1-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T045834">2023-03-08 04:58:34 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T161054">2023-03-08 16:10:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T164521">2023-03-08 16:45:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
