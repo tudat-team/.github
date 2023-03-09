@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage Set as NASA’s SpaceX Crew-5 Prepares to Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T142500">2023-03-09 14:25:00 UTC</a></sub>
 * [Japanese lunar lander company ispace to go public](https://spacenews.com/japanese-lunar-lander-company-ispace-to-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T123919">2023-03-09 12:39:19 UTC</a></sub>
 * [Relativity Space scrubs first Terran 1 launch attempt](https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T022816">2023-03-09 02:28:16 UTC</a></sub>
 * [U.S. intelligence report: China’s commercial space sector to become global competitor by 2030](https://spacenews.com/u-s-intelligence-report-chinas-commercial-space-sector-to-become-global-competitor-by-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T002324">2023-03-09 00:23:24 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Relativity postpones first launch attempt of 3D-printed rocket Terran 1](https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174630">2023-03-08 17:46:30 UTC</a></sub>
 * [U.S. Space Force game plan: Compete with China, prevent shooting war in orbit](https://spacenews.com/u-s-space-force-game-plan-compete-with-china-prevent-shooting-war-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T174521">2023-03-08 17:45:21 UTC</a></sub>
 * [Starfish Space raises $14 million for in-orbit servicers](https://spacenews.com/starfish-space-raises-14-million-for-in-orbit-servicers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170154">2023-03-08 17:01:54 UTC</a></sub>
-* [Relativity Space scrubs first attempt to launch Terran 1 [Updated]](https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T154910">2023-03-08 15:49:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T143509">2023-03-09 14:35:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T150859">2023-03-09 15:08:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
