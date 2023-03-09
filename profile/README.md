@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House subcommittee advances five satellite-related bills](https://spacenews.com/house-subcommittee-advances-five-satellite-related-bills/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T185500">2023-03-09 18:55:00 UTC</a></sub>
 * [White House proposes $27.2 billion for NASA in 2024](https://spacenews.com/white-house-proposes-27-2-billion-for-nasa-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T175055">2023-03-09 17:50:55 UTC</a></sub>
-* [Biden wants more money for the FAA after air travel disruptions](https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Biden budget seeks $27.2 billion for NASA, with increases for moon and Mars programs](https://www.cnbc.com/2023/03/09/biden-proposed-2024-nasa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
+* [Biden wants more money for the FAA after air travel disruptions](https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Investing in Space: Launch jitters](https://www.cnbc.com/2023/03/09/investing-in-space-newsletter-launch-jitters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T164934">2023-03-09 16:49:34 UTC</a></sub>
 * [Tesat-Spacecom establishes U.S. subsidiary](https://spacenews.com/tesat-spacecom-establishes-u-s-subsidiary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T164553">2023-03-09 16:45:53 UTC</a></sub>
 * [SpaceX to launch OneWeb 17 mission and return booster to LZ-1](https://www.nasaspaceflight.com/2023/03/oneweb-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T155909">2023-03-09 15:59:09 UTC</a></sub>
 * [Watch live: SpaceX launch and landing on tap today at Cape Canaveral](https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T153517">2023-03-09 15:35:17 UTC</a></sub>
 * [Coverage Set as NASA’s SpaceX Crew-5 Prepares to Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T142500">2023-03-09 14:25:00 UTC</a></sub>
 * [Japanese lunar lander company ispace to go public](https://spacenews.com/japanese-lunar-lander-company-ispace-to-go-public/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T123919">2023-03-09 12:39:19 UTC</a></sub>
-* [Relativity Space scrubs first Terran 1 launch attempt](https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T022816">2023-03-09 02:28:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T183755">2023-03-09 18:37:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T190658">2023-03-09 19:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
