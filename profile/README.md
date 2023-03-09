@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Watch live: SpaceX launches and lands rocket on mission for OneWeb](https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T204517">2023-03-09 20:45:17 UTC</a></sub>
+* [ULA Rolls First Vulcan Rocket To The Pad Ahead Of Testing Campaign For Launch](https://tlpnetwork.com/news/2023/03/vulcan-centaur-rocket-rolled-out-to-the-launch-site-for-testing-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T203224">2023-03-09 20:32:24 UTC</a></sub>
+* [BREAKING! NASA to Announce Artemis 2 Crew on April 3rd](https://tlpnetwork.com/news/2023/03/nasa-to-announce-artemis-2-crew-on-april-3rd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T200900">2023-03-09 20:09:00 UTC</a></sub>
 * [President’s Fiscal Year 2024 Budget Strengthens NASA, Space Economy](http://www.nasa.gov/press-release/president-s-fiscal-year-2024-budget-strengthens-nasa-space-economy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T200500">2023-03-09 20:05:00 UTC</a></sub>
 * [Limits on Ukraine’s use of Starlink for war operations is a lesson for U.S. military](https://spacenews.com/limits-on-ukraines-use-of-starlink-for-war-operations-is-a-lesson-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191625">2023-03-09 19:16:25 UTC</a></sub>
 * [House subcommittee advances five satellite-related bills](https://spacenews.com/house-subcommittee-advances-five-satellite-related-bills/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T185500">2023-03-09 18:55:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Biden budget seeks $27.2 billion for NASA, with increases for moon and Mars programs](https://www.cnbc.com/2023/03/09/biden-proposed-2024-nasa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Biden wants more money for the FAA after air travel disruptions](https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 * [Investing in Space: Launch jitters](https://www.cnbc.com/2023/03/09/investing-in-space-newsletter-launch-jitters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T164934">2023-03-09 16:49:34 UTC</a></sub>
-* [Tesat-Spacecom establishes U.S. subsidiary](https://spacenews.com/tesat-spacecom-establishes-u-s-subsidiary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T164553">2023-03-09 16:45:53 UTC</a></sub>
-* [SpaceX launches OneWeb 17 mission and returns booster to LZ-1](https://www.nasaspaceflight.com/2023/03/oneweb-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T155909">2023-03-09 15:59:09 UTC</a></sub>
-* [Watch live: SpaceX launch and landing on tap today at Cape Canaveral](https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T153517">2023-03-09 15:35:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T203433">2023-03-09 20:34:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T210745">2023-03-09 21:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
