@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space sector reacts to collapse of Silicon Valley Bank](https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T223708">2023-03-10 22:37:08 UTC</a></sub>
+* [Space Force allocates three historic Cape Canaveral launch pads to four companies](https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T220956">2023-03-10 22:09:56 UTC</a></sub>
 * [NASA Names University Teams to Take on Aeronautics Research Challenges](http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T190500">2023-03-10 19:05:00 UTC</a></sub>
 * [NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC](http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T164500">2023-03-10 16:45:00 UTC</a></sub>
 * [Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches](https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150800">2023-03-10 15:08:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [La NASA y CSA asignarán astronautas para Artemis II](http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T142500">2023-03-10 14:25:00 UTC</a></sub>
 * [NASA, Canadian Space Agency to Assign Artemis II Moon Astronauts](http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140600">2023-03-10 14:06:00 UTC</a></sub>
 * [RS21 earns patent for AI-based monitoring](https://spacenews.com/rs21-patent-for-ai-based-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140000">2023-03-10 14:00:00 UTC</a></sub>
-* [Rocket Report: Boeing to bid SLS for military launch; Ariane chief says all is well](https://arstechnica.com/science/2023/03/rocket-report-boeing-to-bid-sls-for-military-launch-ariane-chief-says-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T120037">2023-03-10 12:00:37 UTC</a></sub>
-* [Momentus preparing for Vigoride thruster test as it ships next vehicle](https://spacenews.com/momentus-preparing-for-vigoride-thruster-test-as-it-ships-next-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T113915">2023-03-10 11:39:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T223329">2023-03-10 22:33:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T230735">2023-03-10 23:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
