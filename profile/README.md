@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX completes final dedicated launch for OneWeb](https://spacenews.com/spacex-completes-final-dedicated-launch-for-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T003046">2023-03-10 00:30:46 UTC</a></sub>
+* [NASA Tracking Newly Discovered Earth Bound Asteroid](https://tlpnetwork.com/news/2023/03/nasa-tracking-newly-discovered-earth-bound-asteroid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T000500">2023-03-10 00:05:00 UTC</a></sub>
 * [SpaceX launches and lands rocket on mission for OneWeb](https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T214517">2023-03-09 21:45:17 UTC</a></sub>
 * [‘Space resilience’ highlighted in Biden’s proposed defense budget](https://spacenews.com/space-resilience-highlighted-in-bidens-proposed-defense-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T211628">2023-03-09 21:16:28 UTC</a></sub>
 * [ULA Rolls First Vulcan Rocket To The Pad Ahead Of Testing Campaign For Launch](https://tlpnetwork.com/news/2023/03/vulcan-centaur-rocket-rolled-out-to-the-launch-site-for-testing-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T203224">2023-03-09 20:32:24 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Limits on Ukraine’s use of Starlink for war operations is a lesson for U.S. military](https://spacenews.com/limits-on-ukraines-use-of-starlink-for-war-operations-is-a-lesson-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191625">2023-03-09 19:16:25 UTC</a></sub>
 * [House subcommittee advances five satellite-related bills](https://spacenews.com/house-subcommittee-advances-five-satellite-related-bills/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T185500">2023-03-09 18:55:00 UTC</a></sub>
 * [White House proposes $27.2 billion for NASA in 2024](https://spacenews.com/white-house-proposes-27-2-billion-for-nasa-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T175055">2023-03-09 17:50:55 UTC</a></sub>
-* [Biden budget seeks $27.2 billion for NASA, with increases for moon and Mars programs](https://www.cnbc.com/2023/03/09/biden-proposed-2024-nasa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
-* [Biden wants more money for the FAA after air travel disruptions](https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170001">2023-03-09 17:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T233332">2023-03-09 23:33:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T004319">2023-03-10 00:43:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
