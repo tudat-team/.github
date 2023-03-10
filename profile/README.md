@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches](https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150800">2023-03-10 15:08:00 UTC</a></sub>
 * [Meet the brothers building massive spacecraft to leverage SpaceX’s Starship](https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150001">2023-03-10 15:00:01 UTC</a></sub>
 * [Astra investigating ‘potential illegal short selling’ as delisting deadline looms](https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T143547">2023-03-10 14:35:47 UTC</a></sub>
 * [La NASA y CSA asignarán astronautas para Artemis II](http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T142500">2023-03-10 14:25:00 UTC</a></sub>
 * [NASA, Canadian Space Agency to Assign Artemis II Moon Astronauts](http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140600">2023-03-10 14:06:00 UTC</a></sub>
-* [RS21 patent for AI-based monitoring](https://spacenews.com/rs21-patent-for-ai-based-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140000">2023-03-10 14:00:00 UTC</a></sub>
+* [RS21 earns patent for AI-based monitoring](https://spacenews.com/rs21-patent-for-ai-based-monitoring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T140000">2023-03-10 14:00:00 UTC</a></sub>
 * [Rocket Report: Boeing to bid SLS for military launch; Ariane chief says all is well](https://arstechnica.com/science/2023/03/rocket-report-boeing-to-bid-sls-for-military-launch-ariane-chief-says-all-is-well/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T120037">2023-03-10 12:00:37 UTC</a></sub>
 * [Momentus preparing for Vigoride thruster test as it ships next vehicle](https://spacenews.com/momentus-preparing-for-vigoride-thruster-test-as-it-ships-next-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T113915">2023-03-10 11:39:15 UTC</a></sub>
 * [China is developing a quantum communications satellite network](https://spacenews.com/china-is-developing-a-quantum-communications-satellite-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T101118">2023-03-10 10:11:18 UTC</a></sub>
 * [Hughes unveils Jupiter 3](https://spacenews.com/hughes-jupiter-3-preps-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T052748">2023-03-10 05:27:48 UTC</a></sub>
-* [Atlas joins forces with Viasat RTE](https://spacenews.com/atlas-expands-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T020525">2023-03-10 02:05:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Spectacularly crepuscular!](https://www.planetary.org/the-downlink/spectacularly-crepuscular) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153535">2023-03-10 15:35:35 UTC</a></sub>
 * [Vulcan: Inaugural rocket moved to launch pad for tanking tests](https://blog.ulalaunch.com/blog/vulcan-inaugural-rocket-moved-to-launch-pad-for-tanking-tests) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T195541">2023-03-09 19:55:41 UTC</a></sub>
 * [Welcome to your member community!](https://www.planetary.org/articles/welcome-to-your-member-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170534">2023-03-08 17:05:34 UTC</a></sub>
 * [Your impact: March equinox 2023](https://www.planetary.org/articles/your-impact-march-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T153531">2023-03-06 15:35:31 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The coolest new space pictures: February 2023](https://www.planetary.org/worlds/coolest-space-pictures) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153529">2023-02-28 15:35:29 UTC</a></sub>
 * [Demystifying near-Earth asteroids](https://www.planetary.org/sci-tech/demystifying-near-earth-asteroids) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T153530">2023-02-27 15:35:30 UTC</a></sub>
 * [Red hot space](https://www.planetary.org/the-downlink/red-hot-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T153623">2023-02-24 15:36:23 UTC</a></sub>
-* [Why we need the NEO Surveyor space telescope](https://www.planetary.org/articles/the-need-for-neo-surveyor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T153624">2023-02-23 15:36:24 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153443">2023-03-10 15:34:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T161117">2023-03-10 16:11:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
