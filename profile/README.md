@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA study assess costs and benefits of orbital debris removal](https://spacenews.com/nasa-study-assess-costs-and-benefits-of-orbital-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T104953">2023-03-13 10:49:53 UTC</a></sub>
 * [Russia Lofts Luch Relay Satellite Aboard Proton Rocket](https://tlpnetwork.com/news/2023/03/luch-5x-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T084200">2023-03-13 08:42:00 UTC</a></sub>
 * [Crew Dragon splashes down to close out 157-day mission](https://spaceflightnow.com/2023/03/12/crew-dragon-splashes-down-to-close-out-157-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160517">2023-03-12 16:05:17 UTC</a></sub>
 * [Managing the complexity of the world’s largest satellite navigation system](https://spacenews.com/managing-the-complexity-of-the-worlds-largest-satellite-navigation-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160000">2023-03-12 16:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Relativity Space Scrubs Second Attempt At Maiden Flight Of Terran 1 Rocket](https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-11-march) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T220100">2023-03-11 22:01:00 UTC</a></sub>
 * [Relativity Space scrubs second launch attempt for Terran 1 rocket](https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T213517">2023-03-11 21:35:17 UTC</a></sub>
 * [Relativity at last moment calls off launch attempt of Terran 1 rocket after briefly igniting engines](https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180513">2023-03-11 18:05:13 UTC</a></sub>
-* [SpaceX capsule with four-person crew departs space station, heads for Earth](https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T103517">2023-03-11 10:35:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T103617">2023-03-13 10:36:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T110641">2023-03-13 11:06:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
