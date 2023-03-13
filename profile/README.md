@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force pauses GPS satellite orders due to excess inventory](https://spacenews.com/space-force-pauses-gps-satellite-orders-due-to-excess-inventory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T204302">2023-03-13 20:43:02 UTC</a></sub>
+* [NASA Selects L3Harris to Develop Imager for NOAA Satellite](http://www.nasa.gov/press-release/nasa-selects-l3harris-to-develop-imager-for-noaa-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T203500">2023-03-13 20:35:00 UTC</a></sub>
 * [Silicon Valley Bank’s space clients regain account access](https://spacenews.com/silicon-valley-banks-space-clients-regain-account-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T191901">2023-03-13 19:19:01 UTC</a></sub>
 * [BREAKING! OneWeb Announces Global Partnership With Amazon ](https://tlpnetwork.com/news/2023/03/oneweb-announces-global-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183600">2023-03-13 18:36:00 UTC</a></sub>
 * [NASA Sets Out New Timeline For Moon And Mars Missions](https://tlpnetwork.com/news/2023/03/nasa-sets-out-new-timeline-for-moon-and-mars-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183100">2023-03-13 18:31:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japanese Lunar Lander Company iSpace Set To Go Public On April 12th](https://tlpnetwork.com/news/2023/03/ispace-set-to-go-public) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T172000">2023-03-13 17:20:00 UTC</a></sub>
 * [Getting real about space business models](https://spacenews.com/getting-real-about-space-business-models/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T170830">2023-03-13 17:08:30 UTC</a></sub>
 * [SpaceX says it will test Starlink’s satellite-to-cell service with T-Mobile this year](https://www.cnbc.com/2023/03/13/spacex-t-mobile-cell-service-tests-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T165456">2023-03-13 16:54:56 UTC</a></sub>
-* [JUICE arrives in French Guiana for launch, project manager outlines next steps](https://www.nasaspaceflight.com/2023/03/juice-csg-arrival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T151349">2023-03-13 15:13:49 UTC</a></sub>
-* [U.S. Space Force budget hits $30 billion in 2024 proposal](https://spacenews.com/u-s-space-force-budget-hits-30-billion-in-2024-funding-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T144000">2023-03-13 14:40:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T203236">2023-03-13 20:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T210729">2023-03-13 21:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
