@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [JUICE arrives in French Guiana for launch, project manager outlines next steps](https://www.nasaspaceflight.com/2023/03/juice-csg-arrival/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T151349">2023-03-13 15:13:49 UTC</a></sub>
 * [U.S. Space Force budget hits $30 billion in 2024 proposal](https://spacenews.com/u-s-space-force-budget-hits-30-billion-in-2024-funding-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T144000">2023-03-13 14:40:00 UTC</a></sub>
 * [Rivada Space Networks selects Aalyria Spacetime](https://spacenews.com/rivada-space-networks-selects-aalyria-spacetime/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T133551">2023-03-13 13:35:51 UTC</a></sub>
 * [LeoLabs to build  radar in Argentina](https://spacenews.com/leolabs-argentina/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T133000">2023-03-13 13:30:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Crew Dragon splashes down to close out 157-day mission](https://spaceflightnow.com/2023/03/12/crew-dragon-splashes-down-to-close-out-157-day-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160517">2023-03-12 16:05:17 UTC</a></sub>
 * [Managing the complexity of the world’s largest satellite navigation system](https://spacenews.com/managing-the-complexity-of-the-worlds-largest-satellite-navigation-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160000">2023-03-12 16:00:00 UTC</a></sub>
 * [Crew-5 mission ends with Florida splashdown](https://spacenews.com/crew-5-mission-ends-with-florida-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T031827">2023-03-12 03:18:27 UTC</a></sub>
-* [Crew Dragon Endurance returns to Earth on Crew-5 mission](https://www.nasaspaceflight.com/2023/03/crew-5-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T013214">2023-03-12 01:32:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T153323">2023-03-13 15:33:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T161055">2023-03-13 16:10:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
