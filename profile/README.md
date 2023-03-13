@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Silicon Valley Bank Collapse Hits Space Industry](https://tlpnetwork.com/news/2023/03/silicon-valley-bank-collapse-hits-space-industry) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T174725">2023-03-13 17:47:25 UTC</a></sub>
 * [Japanese Lunar Lander Company iSpace Set To Go Public On April 12th](https://tlpnetwork.com/news/2023/03/ispace-set-to-go-public) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T172000">2023-03-13 17:20:00 UTC</a></sub>
 * [Getting real about space business models](https://spacenews.com/getting-real-about-space-business-models/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T170830">2023-03-13 17:08:30 UTC</a></sub>
 * [SpaceX says it will test Starlink’s satellite-to-cell service with T-Mobile this year](https://www.cnbc.com/2023/03/13/spacex-t-mobile-cell-service-tests-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T165456">2023-03-13 16:54:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [LeoLabs to build  radar in Argentina](https://spacenews.com/leolabs-argentina/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T133000">2023-03-13 13:30:00 UTC</a></sub>
 * [CesiumAstro enters IFC market](https://spacenews.com/cesiumastro-ifc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T110000">2023-03-13 11:00:00 UTC</a></sub>
 * [NASA study assess costs and benefits of orbital debris removal](https://spacenews.com/nasa-study-assess-costs-and-benefits-of-orbital-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T104953">2023-03-13 10:49:53 UTC</a></sub>
-* [Russia Lofts Luch Relay Satellite Aboard Proton Rocket](https://tlpnetwork.com/news/2023/03/luch-5x-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T084200">2023-03-13 08:42:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T173237">2023-03-13 17:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T180912">2023-03-13 18:09:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
