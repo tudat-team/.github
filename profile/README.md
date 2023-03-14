@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Picks Firefly Aerospace for Robotic Delivery to Far Side of Moon](http://www.nasa.gov/press-release/nasa-picks-firefly-aerospace-for-robotic-delivery-to-far-side-of-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200500">2023-03-14 20:05:00 UTC</a></sub>
 * [CRS-27 set to launch fresh cargo and experiments to ISS](https://www.nasaspaceflight.com/2023/03/spacex-crs-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T182153">2023-03-14 18:21:53 UTC</a></sub>
 * [Investors project space company funding to rebound in 2023](https://spacenews.com/investors-project-space-company-funding-to-rebound-in-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T164450">2023-03-14 16:44:50 UTC</a></sub>
 * [Amazon unveils Project Kuiper terminals for services starting in 2024](https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T143920">2023-03-14 14:39:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [As DoD pivots to smaller satellites, Congress airdrops a big one into the budget](https://spacenews.com/as-dod-pivots-to-smaller-satellites-congress-airdrops-a-big-one-into-the-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T121131">2023-03-14 12:11:31 UTC</a></sub>
 * [Satellite executives spar over direct-to-device evolution](https://spacenews.com/satellite-executives-spar-over-direct-to-device-evolution/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T021219">2023-03-14 02:12:19 UTC</a></sub>
 * [NASA planning to spend up to $1 billion on space station deorbit module](https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T212503">2023-03-13 21:25:03 UTC</a></sub>
-* [L3 Harris wins $765.5 million contract to develop GeoXO imager](https://spacenews.com/l3-harris-wins-765-5-million-contract-to-develop-geoxo-imager/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T210803">2023-03-13 21:08:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T193328">2023-03-14 19:33:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T201038">2023-03-14 20:10:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
