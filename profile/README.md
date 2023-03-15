@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches classified Shiyan-19 test satellite from the Gobi Desert](https://spacenews.com/china-launches-classified-shiyan-19-test-satellite-from-gobi-desert/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T151414">2023-03-15 15:14:14 UTC</a></sub>
 * [Artemis 3 Spacesuit Revealed By NASA and Axiom Space](https://tlpnetwork.com/news/2023/03/artemis-3-spacesuit-revealed-nasa-and-axiom-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T143600">2023-03-15 14:36:00 UTC</a></sub>
 * [Space Force: We expect to see ‘interfering, blinding’ of satellites during conflict](https://spacenews.com/space-force-we-expect-to-see-interfering-blinding-of-satellites-during-conflict/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T133330">2023-03-15 13:33:30 UTC</a></sub>
 * [Firefly wins second NASA CLPS mission](https://spacenews.com/firefly-wins-second-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T095104">2023-03-15 09:51:04 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Amazon Reveals Project Kuiper Commercial Satellite Terminals](https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205300">2023-03-14 20:53:00 UTC</a></sub>
 * [Why the Office of Space Commerce should supervise novel commercial space activities](https://spacenews.com/why-the-office-of-space-commerce-should-supervise-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T204418">2023-03-14 20:44:18 UTC</a></sub>
 * [NASA Approves AX-3 Mission To ISS](https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203900">2023-03-14 20:39:00 UTC</a></sub>
-* [Kayhan offers coordinated collision avoidance](https://spacenews.com/kayhan-coordinated-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203502">2023-03-14 20:35:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T153451">2023-03-15 15:34:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T161059">2023-03-15 16:10:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
