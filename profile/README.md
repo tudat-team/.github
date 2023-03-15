@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Launches Science and Supplies To Space Station](https://tlpnetwork.com/news/2023/03/spacex-launches-crs-27) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T025900">2023-03-15 02:59:00 UTC</a></sub>
 * [Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’](https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205534">2023-03-14 20:55:34 UTC</a></sub>
 * [Amazon Reveals Project Kuiper Commercial Satellite Terminals](https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T205300">2023-03-14 20:53:00 UTC</a></sub>
 * [Why the Office of Space Commerce should supervise novel commercial space activities](https://spacenews.com/why-the-office-of-space-commerce-should-supervise-novel-commercial-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T204418">2023-03-14 20:44:18 UTC</a></sub>
 * [NASA Approves AX-3 Mission To ISS](https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203900">2023-03-14 20:39:00 UTC</a></sub>
 * [Kayhan offers coordinated collision avoidance](https://spacenews.com/kayhan-coordinated-collision-avoidance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203502">2023-03-14 20:35:02 UTC</a></sub>
-* [NASA Selects Firefly Aerospace for Robotic Moon Mission](https://tlpnetwork.com/news/2023/03/nasa-selects-firefly-aerospace-for-robotic-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
 * [NASA Selects Axiom Space for Third Private Astronaut Station Mission](http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
+* [NASA Selects Firefly Aerospace for Robotic Moon Mission](https://tlpnetwork.com/news/2023/03/nasa-selects-firefly-aerospace-for-robotic-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203500">2023-03-14 20:35:00 UTC</a></sub>
 * [Astranis gets order for a pair of Mexico-focused GEO broadband satellites](https://spacenews.com/astranis-gets-order-for-a-pair-of-mexico-focused-geo-broadband-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T202116">2023-03-14 20:21:16 UTC</a></sub>
 * [Viasat deploying ‘zero trust’ cybersecurity across global network](https://spacenews.com/viasat-deploying-zero-trust-cybersecurity-across-global-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200540">2023-03-14 20:05:40 UTC</a></sub>
-* [NASA Picks Firefly Aerospace for Robotic Delivery to Far Side of Moon](http://www.nasa.gov/press-release/nasa-picks-firefly-aerospace-for-robotic-delivery-to-far-side-of-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200500">2023-03-14 20:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T030843">2023-03-15 03:08:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T033240">2023-03-15 03:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
