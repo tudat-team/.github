@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Benchmark signs contracts for metal plasma thrusters](https://spacenews.com/benchmark-signs-contracts-for-metal-plasma-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T020047">2023-03-16 02:00:47 UTC</a></sub>
 * [Virgin Orbit pauses operations](https://spacenews.com/virgin-orbit-pauses-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T230021">2023-03-15 23:00:21 UTC</a></sub>
 * [Voyager Space acquires ZIN Technologies to support Starlab development](https://spacenews.com/voyager-space-acquires-zin-technologies-to-support-starlab-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T224044">2023-03-15 22:40:44 UTC</a></sub>
 * [DEVELOPING STORY: Virgin Orbit Pauses Operations, Furloughs Staff, Seeks Funding](https://tlpnetwork.com/news/2023/03/virgin-orbit-pauses-operations-furloughs-staff-seeks-funding) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T215000">2023-03-15 21:50:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Official Lunar Time Zone Coming Soon](https://tlpnetwork.com/news/2023/03/official-lunar-time-zone-coming-soon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T191600">2023-03-15 19:16:00 UTC</a></sub>
 * [Engineers Keep an Eye on Fuel Supply of NASA's Oldest Mars Orbiter](https://mars.nasa.gov/news/9365/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T183500">2023-03-15 18:35:00 UTC</a></sub>
 * [Goonhilly Announces US Sat Comm Network Expansion](https://tlpnetwork.com/news/2023/03/goonhilly-announces-us-sat-comm-network-expansion) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T171200">2023-03-15 17:12:00 UTC</a></sub>
-* [Quadsat raises $9.6 million for antenna-testing drones](https://spacenews.com/quadsat-raises-9-6-million-for-antenna-testing-drones/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T165642">2023-03-15 16:56:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T004319">2023-03-16 00:43:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T020820">2023-03-16 02:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
