@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Advance 3D Printing, Quantum Tech for Climate Research](http://www.nasa.gov/press-release/nasa-awards-advance-3d-printing-quantum-tech-for-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T180500">2023-03-16 18:05:00 UTC</a></sub>
+* [Rocket Lab to launch pair of Capella satellites from Wallops](https://www.nasaspaceflight.com/2023/03/stronger-together/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T180113">2023-03-16 18:01:13 UTC</a></sub>
+* [NASA Awardees to Develop Sustainable Aviation Composite Tech](http://www.nasa.gov/press-release/nasa-awardees-to-develop-sustainable-aviation-composite-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T173500">2023-03-16 17:35:00 UTC</a></sub>
 * [Investing in Space: Don’t panic](https://www.cnbc.com/2023/03/16/investing-in-space-dont-panic.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T151756">2023-03-16 15:17:56 UTC</a></sub>
 * [LEO constellations are starting to disrupt GEO capacity contracts](https://spacenews.com/leo-constellations-are-starting-to-disrupt-geo-capacity-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T151111">2023-03-16 15:11:11 UTC</a></sub>
 * [SpaceX supply ship docks at International Space Station](https://spaceflightnow.com/2023/03/16/dragon-crs-27-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T125517">2023-03-16 12:55:17 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Northrop Grumman, IHI team up to bolster Japan’s space domain awareness capabilities](https://spacenews.com/146960-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T110200">2023-03-16 11:02:00 UTC</a></sub>
 * [Watch live: SpaceX supply ship approaching space station for docking](https://spaceflightnow.com/2023/03/16/watch-live-spacex-supply-ship-approaching-space-station-for-docking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T103517">2023-03-16 10:35:17 UTC</a></sub>
 * [Cargo Dragon CRS-27 docks with ISS](https://www.nasaspaceflight.com/2023/03/spacex-crs-27/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T052153">2023-03-16 05:21:53 UTC</a></sub>
-* [Benchmark signs contracts for metal plasma thrusters](https://spacenews.com/benchmark-signs-contracts-for-metal-plasma-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T020047">2023-03-16 02:00:47 UTC</a></sub>
-* [Virgin Orbit pauses operations](https://spacenews.com/virgin-orbit-pauses-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T230021">2023-03-15 23:00:21 UTC</a></sub>
-* [Voyager Space acquires ZIN Technologies to support Starlab development](https://spacenews.com/voyager-space-acquires-zin-technologies-to-support-starlab-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T224044">2023-03-15 22:40:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T173312">2023-03-16 17:33:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T181009">2023-03-16 18:10:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
