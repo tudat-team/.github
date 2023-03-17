@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches second classified Gaofen-13 remote sensing satellite](https://spacenews.com/china-launches-second-classified-gaofen-13-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T115752">2023-03-17 11:57:52 UTC</a></sub>
 * [Electron launches two Capella Space radar satellites](https://spacenews.com/electron-launches-two-capella-space-radar-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T234650">2023-03-16 23:46:50 UTC</a></sub>
 * [NASA selects Axiom Space for third private astronaut mission to ISS](https://spacenews.com/nasa-selects-axiom-space-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T223830">2023-03-16 22:38:30 UTC</a></sub>
 * [DoD seeking seamless military-commercial satellite communications](https://spacenews.com/dod-seeking-seamless-military-commercial-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T223301">2023-03-16 22:33:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Selects 21 New Learning Projects to Engage Students in STEM](http://www.nasa.gov/press-release/nasa-selects-21-new-learning-projects-to-engage-students-in-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T200500">2023-03-16 20:05:00 UTC</a></sub>
 * [NASA AIM Earth Orbiter Mission Ends Following Battery Issues](https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T184300">2023-03-16 18:43:00 UTC</a></sub>
 * [NASA Awards Advance 3D Printing, Quantum Tech for Climate Research](http://www.nasa.gov/press-release/nasa-awards-advance-3d-printing-quantum-tech-for-climate-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T180500">2023-03-16 18:05:00 UTC</a></sub>
-* [NASA Awardees to Develop Sustainable Aviation Composite Tech](http://www.nasa.gov/press-release/nasa-awardees-to-develop-sustainable-aviation-composite-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T173500">2023-03-16 17:35:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T113232">2023-03-17 11:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T121456">2023-03-17 12:14:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
