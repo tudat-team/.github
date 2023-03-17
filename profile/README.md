@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA Completes Vulcan Tanking Test, WDR Next](https://tlpnetwork.com/news/2023/03/ula-completes-vulcan-tanking-test-wdr-next) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182700">2023-03-17 18:27:00 UTC</a></sub>
 * [SpaceX prepares for doubleheader launches for Starlink and SES](https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T175214">2023-03-17 17:52:14 UTC</a></sub>
 * [Watch live: SpaceX counting down to sunset launch from Cape Canaveral](https://spaceflightnow.com/2023/03/17/falcon-9-ses-18-19-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T162517">2023-03-17 16:25:17 UTC</a></sub>
 * [Arianespace wins Vega contract for Italian imaging satellite constellation](https://spacenews.com/arianespace-wins-vega-contract-for-italian-imaging-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T121234">2023-03-17 12:12:34 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DoD seeking seamless military-commercial satellite communications](https://spacenews.com/dod-seeking-seamless-military-commercial-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T223301">2023-03-16 22:33:01 UTC</a></sub>
 * [Rocket Lab launches pair of Capella satellites from Wallops](https://www.nasaspaceflight.com/2023/03/stronger-together/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220113">2023-03-16 22:01:13 UTC</a></sub>
 * [Astra Requests NASDAQ Extension, Considers Reverse Stock Split To Avoid Delisting](https://tlpnetwork.com/news/2023/03/astra-requests-nasdaq-compliance-extension-to-avoid-delisting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T203200">2023-03-16 20:32:00 UTC</a></sub>
-* [Astra outlines its plan to avoid Nasdaq delisting, including possible reverse stock split](https://www.cnbc.com/2023/03/16/astra-plan-to-avoid-nasdaq-stock-delisting.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T202538">2023-03-16 20:25:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Vulcan: Tanking tests performed on ULA's new rocket](https://blog.ulalaunch.com/blog/vulcan-tanking-tests-performed-on-ulas-new-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182542">2023-03-17 18:25:42 UTC</a></sub>
 * [Volcanic Venus, myriad moons, and space sonification](https://www.planetary.org/the-downlink/volcanic-venus-myriad-moons-and-space-sonification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T143535">2023-03-17 14:35:35 UTC</a></sub>
 * [NASA’s 2024 budget proposal is pretty good, but it faces political headwinds](https://www.planetary.org/articles/nasas-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T163534">2023-03-16 16:35:34 UTC</a></sub>
 * [The Planetary Society is co-hosting “Asteroid Hunters” screening in Vienna](https://www.planetary.org/the-planetary-society-is-co-hosting-asteroid-hunters-screening-in-vienna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T155533">2023-03-16 15:55:33 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spectacularly crepuscular!](https://www.planetary.org/the-downlink/spectacularly-crepuscular) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153535">2023-03-10 15:35:35 UTC</a></sub>
 * [Vulcan: Inaugural rocket moved to launch pad for tanking tests](https://blog.ulalaunch.com/blog/vulcan-inaugural-rocket-moved-to-launch-pad-for-tanking-tests) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T195541">2023-03-09 19:55:41 UTC</a></sub>
 * [Welcome to your member community!](https://www.planetary.org/articles/welcome-to-your-member-community) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170534">2023-03-08 17:05:34 UTC</a></sub>
-* [Your impact: March equinox 2023](https://www.planetary.org/articles/your-impact-march-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T153531">2023-03-06 15:35:31 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T183551">2023-03-17 18:35:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T190626">2023-03-17 19:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
