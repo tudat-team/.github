@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space industry deals with launch shortage](https://spacenews.com/space-industry-deals-with-launch-shortage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T003629">2023-03-20 00:36:29 UTC</a></sub>
 * [NASA's SWOT Spacecraft Resumes Operations After Primary Instrument Shutdown](https://tlpnetwork.com/news/2023/03/swot-returns-to-commissioning-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T001300">2023-03-20 00:13:00 UTC</a></sub>
 * [Mars Sample Return cost growth threatens other science missions](https://spacenews.com/mars-sample-return-cost-growth-threatens-other-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T235443">2023-03-18 23:54:43 UTC</a></sub>
 * [Satellogic sells Earth-imagery satellites](https://spacenews.com/satellogic-sells-earth-imagery-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T204121">2023-03-18 20:41:21 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intelsat buys capacity on Hispasat’s Amazonas Nexus satellite](https://spacenews.com/intelsat-buys-capacity-on-hispasats-amazonas-nexus-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T221541">2023-03-17 22:15:41 UTC</a></sub>
 * [FCC unveils proposed satellite direct-to-device regulatory framework](https://spacenews.com/fcc-unveils-proposed-satellite-direct-to-device-regulatory-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T205617">2023-03-17 20:56:17 UTC</a></sub>
 * [ULA Completes Vulcan Tanking Test, WDR Next](https://tlpnetwork.com/news/2023/03/ula-completes-vulcan-tanking-test-wdr-next) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182700">2023-03-17 18:27:00 UTC</a></sub>
-* [SpaceX conducts doubleheader with Starlink mission followed by launch for SES](https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T175214">2023-03-17 17:52:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T004315">2023-03-20 00:43:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T021023">2023-03-20 02:10:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
