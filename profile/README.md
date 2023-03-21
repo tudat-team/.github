@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [TLP Network Announces First Mission To Lunar Surface](https://tlpnetwork.com/news/2023/03/tlpnetwork-announces-first-mission-to-the-lunar-surface) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T234500">2023-03-20 23:45:00 UTC</a></sub>
 * [U.S. Space Force budget includes $60 million for ‘tactically responsive space’](https://spacenews.com/u-s-space-force-budget-includes-60-million-for-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T220521">2023-03-20 22:05:21 UTC</a></sub>
 * [GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand](https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T204648">2023-03-20 20:46:48 UTC</a></sub>
 * [NASA Awards Grants to Support Research, Technology Development](http://www.nasa.gov/press-release/nasa-awards-grants-to-support-research-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T200500">2023-03-20 20:05:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Arkisys and partners   to show how they would build a satellite in orbit](https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140328">2023-03-20 14:03:28 UTC</a></sub>
 * [The SpaceX steamroller has shifted into a higher gear this year](https://arstechnica.com/science/2023/03/the-spacex-steamroller-has-shifted-into-a-higher-gear-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T134055">2023-03-20 13:40:55 UTC</a></sub>
 * [ATL Partners forms new holding company focused on space and air sensors](https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T100500">2023-03-20 10:05:00 UTC</a></sub>
-* [Space industry deals with launch shortage](https://spacenews.com/space-industry-deals-with-launch-shortage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T003629">2023-03-20 00:36:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T233247">2023-03-20 23:32:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T003845">2023-03-21 00:38:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
