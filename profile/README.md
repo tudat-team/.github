@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korea’s Innospace succeeds in test launch](https://spacenews.com/south-koreas-innospace-succeeds-in-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T135030">2023-03-21 13:50:30 UTC</a></sub>
 * [Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket](https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130218">2023-03-21 13:02:18 UTC</a></sub>
 * [Japanese lander enters lunar orbit](https://spacenews.com/japanese-lander-enters-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T124805">2023-03-21 12:48:05 UTC</a></sub>
 * [On National Security | Space Force and commercial industry taking relationship to the next level](https://spacenews.com/on-national-security-space-force-and-commercial-industry-taking-relationship-to-the-next-level/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T120000">2023-03-21 12:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand](https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T204648">2023-03-20 20:46:48 UTC</a></sub>
 * [NASA Awards Grants to Support Research, Technology Development](http://www.nasa.gov/press-release/nasa-awards-grants-to-support-research-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T200500">2023-03-20 20:05:00 UTC</a></sub>
 * [Mars exploration and the debate about planetary protection](https://spacenews.com/mars-exploration-and-the-debate-about-planetary-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T171153">2023-03-20 17:11:53 UTC</a></sub>
-* [Virgin Orbit scrambles to avoid bankruptcy as deal talks continue](https://www.cnbc.com/2023/03/20/virgin-orbit-looming-bankruptcy-deal-talks.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T160802">2023-03-20 16:08:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T133225">2023-03-21 13:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T140619">2023-03-21 14:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
