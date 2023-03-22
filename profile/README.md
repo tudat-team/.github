@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Avio secures Italian government funding for methane engine and small launch vehicle prototype](https://spacenews.com/avio-secures-italian-government-funding-for-methane-engine-and-small-launch-vehicle-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T194808">2023-03-22 19:48:08 UTC</a></sub>
 * [NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement](https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T181900">2023-03-22 18:19:00 UTC</a></sub>
 * [USSF Requests First Tactically Responsive Space Program Budget](https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180700">2023-03-22 18:07:00 UTC</a></sub>
 * [Innospace Test Launches HANBIT-TLV From Brazil Successfully ](https://tlpnetwork.com/news/2023/03/innospace-test-launches-rocket-from-brazil-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180000">2023-03-22 18:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Relativity Space hopes to live additively ever after with Wednesday’s launch](https://arstechnica.com/science/2023/03/relativity-space-will-try-again-for-the-third-time-to-launch-wednesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T142048">2023-03-22 14:20:48 UTC</a></sub>
 * [Virgin Orbit begins “incremental” return to work as it seeks new funding](https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T120431">2023-03-22 12:04:31 UTC</a></sub>
 * [Teens send experiments out of this world](https://spacenews.com/teens-send-experiments-out-of-this-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T040134">2023-03-22 04:01:34 UTC</a></sub>
-* [Virgin Orbit returning ‘small’ team from unpaid pause on Thursday to prep for next rocket launch](https://www.cnbc.com/2023/03/22/virgin-orbit-returning-small-team-to-prep-for-next-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034418">2023-03-22 03:44:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T193226">2023-03-22 19:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T200757">2023-03-22 20:07:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
