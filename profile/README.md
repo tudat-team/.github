@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit begins “incremental” return to work as it seeks new funding](https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T120431">2023-03-22 12:04:31 UTC</a></sub>
 * [Teens send experiments out of this world](https://spacenews.com/teens-send-experiments-out-of-this-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T040134">2023-03-22 04:01:34 UTC</a></sub>
 * [Virgin Orbit returning ‘small’ team from unpaid pause on Thursday to prep for next rocket launch](https://www.cnbc.com/2023/03/22/virgin-orbit-returning-small-team-to-prep-for-next-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034418">2023-03-22 03:44:18 UTC</a></sub>
 * [Terran Orbital further expands satellite production facilities](https://spacenews.com/terran-orbital-further-expands-satellite-production-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034306">2023-03-22 03:43:06 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Selects Repairs Operations Maintenance and Engineering Contractor](http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200500">2023-03-21 20:05:00 UTC</a></sub>
 * [FCC Reveals Framework For Satellite To Smartphone Connectivity](https://tlpnetwork.com/news/2023/03/fcc-reveals-framework-for-satellite-to-smartphone-connectivity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T195800">2023-03-21 19:58:00 UTC</a></sub>
 * [Satellite maker Terran Orbital sees annual revenue climb near $100 million](https://www.cnbc.com/2023/03/21/terran-orbital-llap-q4-results.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193202">2023-03-21 19:32:02 UTC</a></sub>
-* [U.S. Air Force to test hardware at hypersonic speeds on Varda’s space capsules](https://spacenews.com/u-s-air-force-to-test-hardware-at-hypersonic-speeds-on-vardas-space-capsules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193112">2023-03-21 19:31:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T113231">2023-03-22 11:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T121418">2023-03-22 12:14:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
