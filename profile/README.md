@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement](https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T181900">2023-03-22 18:19:00 UTC</a></sub>
+* [USSF Requests First Tactically Responsive Space Program Budget](https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180700">2023-03-22 18:07:00 UTC</a></sub>
 * [Innospace Test Launches HANBIT-TLV From Brazil Successfully ](https://tlpnetwork.com/news/2023/03/innospace-test-launches-rocket-from-brazil-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180000">2023-03-22 18:00:00 UTC</a></sub>
 * [NRO signs agreements with commercial providers of hyperspectral imagery](https://spacenews.com/nro-signs-agreements-with-commercial-providers-of-hyperspectral-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T160449">2023-03-22 16:04:49 UTC</a></sub>
 * [Relativity targets nighttime window for next Terran 1 launch attempt](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T153522">2023-03-22 15:35:22 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Orbit begins “incremental” return to work as it seeks new funding](https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T120431">2023-03-22 12:04:31 UTC</a></sub>
 * [Teens send experiments out of this world](https://spacenews.com/teens-send-experiments-out-of-this-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T040134">2023-03-22 04:01:34 UTC</a></sub>
 * [Virgin Orbit returning ‘small’ team from unpaid pause on Thursday to prep for next rocket launch](https://www.cnbc.com/2023/03/22/virgin-orbit-returning-small-team-to-prep-for-next-rocket-launch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034418">2023-03-22 03:44:18 UTC</a></sub>
-* [Terran Orbital further expands satellite production facilities](https://spacenews.com/terran-orbital-further-expands-satellite-production-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T034306">2023-03-22 03:43:06 UTC</a></sub>
-* [Frontier collects $10 million from AEI HorizonX](https://spacenews.com/frontier-collects-10-million-from-aei-horizonx/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T231638">2023-03-21 23:16:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T183441">2023-03-22 18:34:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T190607">2023-03-22 19:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
