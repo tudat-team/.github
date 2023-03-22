@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Frontier collects $10 million from AEI HorizonX](https://spacenews.com/frontier-collects-10-million-from-aei-horizonx/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T231638">2023-03-21 23:16:38 UTC</a></sub>
 * [NASA Considers Continuing VERITAS Or Pursuing New Discovery Mission](https://tlpnetwork.com/news/2023/03/nasa-considers-continuing-veritas-or-pursuing-new-discovery-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T210600">2023-03-21 21:06:00 UTC</a></sub>
 * [NASA Warns MSR Costs Could Impact Other Scientific Missions](https://tlpnetwork.com/news/2023/03/nasa-warns-msr-costs-could-impact-other-scientific-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200700">2023-03-21 20:07:00 UTC</a></sub>
 * [NASA Selects Repairs Operations Maintenance and Engineering Contractor](http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200500">2023-03-21 20:05:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Seeks Student Solutions for Managing Moon Landing Dust Cloud](http://www.nasa.gov/press-release/nasa-seeks-student-solutions-for-managing-moon-landing-dust-cloud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T180500">2023-03-21 18:05:00 UTC</a></sub>
 * [ispace's HAKUTO-R M1 Lunar Lander Successfully Enters Moon Orbit](https://tlpnetwork.com/news/2023/03/hokuto-r-m1-enters-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T143700">2023-03-21 14:37:00 UTC</a></sub>
 * [South Korea’s Innospace succeeds in test launch](https://spacenews.com/south-koreas-innospace-succeeds-in-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T135030">2023-03-21 13:50:30 UTC</a></sub>
-* [Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket](https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130218">2023-03-21 13:02:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T233245">2023-03-21 23:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T003842">2023-03-22 00:38:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
