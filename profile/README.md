@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity launches first Terran 1](https://spacenews.com/relativity-launches-first-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T042029">2023-03-23 04:20:29 UTC</a></sub>
+* [Relativity’s first 3D-printed rocket launches successfully but fails to reach orbit](https://www.cnbc.com/2023/03/23/relativitys-3d-printed-terran-1-rocket-launches-fails-to-reach-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T041958">2023-03-23 04:19:58 UTC</a></sub>
 * [Relativity Makes History With Maiden Terran 1 Flight, Fails To Reach Orbit](https://tlpnetwork.com/news/2023/03/relativity-makes-history-with-maiden-terran-1-flight-fails-to-reach-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T035400">2023-03-23 03:54:00 UTC</a></sub>
 * [SpaceX Starlink V2 Satellites Experiencing Problems On Orbit](https://tlpnetwork.com/news/2023/03/spacex-starlink-v2-satellites-experiencing-problems-on-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T232200">2023-03-22 23:22:00 UTC</a></sub>
 * [SpaceX experiencing problems with first upgraded Starlink V2 satellites](https://spacenews.com/spacex-experiencing-problems-with-first-upgraded-starlink-v2-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T230738">2023-03-22 23:07:38 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [USSF Requests First Tactically Responsive Space Program Budget](https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180700">2023-03-22 18:07:00 UTC</a></sub>
 * [Innospace Test Launches HANBIT-TLV From Brazil Successfully ](https://tlpnetwork.com/news/2023/03/innospace-test-launches-rocket-from-brazil-successfully) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T180000">2023-03-22 18:00:00 UTC</a></sub>
 * [NRO signs agreements with commercial providers of hyperspectral imagery](https://spacenews.com/nro-signs-agreements-with-commercial-providers-of-hyperspectral-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T160449">2023-03-22 16:04:49 UTC</a></sub>
-* [Relativity overachieves Terran 1 debut objectives](https://www.nasaspaceflight.com/2023/03/maiden-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T153522">2023-03-22 15:35:22 UTC</a></sub>
-* [Virgin Orbit raising $200 million from investor Matthew Brown, closing deal as soon as Thursday](https://www.cnbc.com/2023/03/22/virgin-orbit-nears-funding-deal.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T144640">2023-03-22 14:46:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T043445">2023-03-23 04:34:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T050656">2023-03-23 05:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
