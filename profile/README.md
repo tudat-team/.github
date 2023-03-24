@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab targets $50 million launch price for Neutron rocket to challenge SpaceX’s Falcon 9](https://www.cnbc.com/2023/03/24/rocket-lab-neutron-launch-price-challenges-spacex.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T195757">2023-03-24 19:57:57 UTC</a></sub>
+* [Blue Origin blames New Shepard mishap on engine nozzle failure](https://spacenews.com/blue-origin-blames-new-shepard-mishap-on-engine-nozzle-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T194702">2023-03-24 19:47:02 UTC</a></sub>
 * [NASA Coverage Set for Uncrewed Soyuz Undocking, Departure](http://www.nasa.gov/press-release/nasa-coverage-set-for-uncrewed-soyuz-undocking-departure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T190500">2023-03-24 19:05:00 UTC</a></sub>
 * [ABL Space gets $60 million for responsive launch demonstrations](https://spacenews.com/abl-space-gets-60-million-for-responsive-launch-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T184521">2023-03-24 18:45:21 UTC</a></sub>
 * [Cape Congestion: World’s busiest spaceport stretched to its limits](https://spacenews.com/cape-congestion-worlds-busiest-spaceport-stretched-to-its-limits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T183945">2023-03-24 18:39:45 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Origin Completes NS-23 Investigation, Releases Findings](https://tlpnetwork.com/news/2023/03/blue-origin-completes-ns-23-investigation-releases-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T161400">2023-03-24 16:14:00 UTC</a></sub>
 * [SpaceX keeping up cadence with Starlink Group 5-5 mission](https://www.nasaspaceflight.com/2023/03/starlink-5-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T134839">2023-03-24 13:48:39 UTC</a></sub>
 * [Dream Chaser is delayed again, raising questions about Vulcan launch plans](https://arstechnica.com/science/2023/03/dream-chaser-is-delayed-again-raising-questions-about-vulcan-launch-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T134007">2023-03-24 13:40:07 UTC</a></sub>
-* [China loses UAE as partner for Chang’e-7 lunar south pole mission](https://spacenews.com/china-loses-uae-as-partner-for-change-7-lunar-south-pole-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T124832">2023-03-24 12:48:32 UTC</a></sub>
-* [Advisory group backs European human spaceflight program using commercial approaches](https://spacenews.com/advisory-group-backs-european-human-spaceflight-program-using-commercial-approaches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T122012">2023-03-24 12:20:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T193209">2023-03-24 19:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T200809">2023-03-24 20:08:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
