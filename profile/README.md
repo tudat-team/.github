@@ -570,7 +570,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [First crewed Starliner launch slips again](https://spacenews.com/first-crewed-starliner-launch-slips-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T085717">2023-03-24 08:57:17 UTC</a></sub>
 * [NASA warns of “devastating” impacts of potential budget cuts](https://spacenews.com/nasa-warns-of-devastating-impacts-of-potential-budget-cuts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T012052">2023-03-24 01:20:52 UTC</a></sub>
-* [Rocket Lab to launch BlackSky sats, test Electron ocean recovery](https://www.nasaspaceflight.com/2023/03/the-beat-goes-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T204521">2023-03-23 20:45:21 UTC</a></sub>
+* [Rocket Lab launches BlackSky sats, test Electron ocean recovery](https://www.nasaspaceflight.com/2023/03/the-beat-goes-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T204521">2023-03-23 20:45:21 UTC</a></sub>
 * [Boeing Starliner Crew Flight Test Delayed](https://tlpnetwork.com/news/2023/03/boeing-starliner-crew-flight-test-delayed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T193900">2023-03-23 19:39:00 UTC</a></sub>
 * [Investing in Space: The latecomer](https://www.cnbc.com/2023/03/23/investing-in-space-the-virgin-orbit-latecomer-matthew-brown.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T162628">2023-03-23 16:26:28 UTC</a></sub>
 * [Relativity Space has a successful failure with the debut of Terran 1](https://arstechnica.com/science/2023/03/relativity-space-has-a-successful-failure-with-the-debut-of-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T125021">2023-03-23 12:50:21 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T093241">2023-03-24 09:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T100822">2023-03-24 10:08:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
