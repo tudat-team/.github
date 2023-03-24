@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China loses UAE as partner for Chang’e-7 lunar south pole mission](https://spacenews.com/china-loses-uae-as-partner-for-change-7-lunar-south-pole-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T124832">2023-03-24 12:48:32 UTC</a></sub>
 * [Advisory group backs European human spaceflight program using commercial approaches](https://spacenews.com/advisory-group-backs-european-human-spaceflight-program-using-commercial-approaches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T122012">2023-03-24 12:20:12 UTC</a></sub>
 * [Rocket Report: German launch company loses backer; Soyuz-5 may be in trouble](https://arstechnica.com/science/2023/03/rocket-report-relativity-and-innospace-soar-stoke-reveals-a-steampunk-hopper/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T111543">2023-03-24 11:15:43 UTC</a></sub>
 * [First crewed Starliner launch slips again](https://spacenews.com/first-crewed-starliner-launch-slips-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T085717">2023-03-24 08:57:17 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space: The latecomer](https://www.cnbc.com/2023/03/23/investing-in-space-the-virgin-orbit-latecomer-matthew-brown.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T162628">2023-03-23 16:26:28 UTC</a></sub>
 * [Relativity Space has a successful failure with the debut of Terran 1](https://arstechnica.com/science/2023/03/relativity-space-has-a-successful-failure-with-the-debut-of-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T125021">2023-03-23 12:50:21 UTC</a></sub>
 * [(UPDATED) SpaceX investment from Saudi, UAE investors being planned: report](https://www.teslarati.com/spacex-investment-saudi-uae-investors-planned-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T112533">2023-03-23 11:25:33 UTC</a></sub>
-* [Relativity launches first Terran 1](https://spacenews.com/relativity-launches-first-terran-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T042029">2023-03-23 04:20:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T131208">2023-03-24 13:12:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T133222">2023-03-24 13:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
