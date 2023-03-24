@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space companies Spire and Momentus get stock exchange delisting warnings](https://www.cnbc.com/2023/03/24/spire-momentus-get-stock-exchange-delisting-warnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T211422">2023-03-24 21:14:22 UTC</a></sub>
 * [NASA Invites Media to See Mars Habitat Before Crew Enters for One Year](http://www.nasa.gov/press-release/nasa-invites-media-to-see-mars-habitat-before-crew-enters-for-one-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T203500">2023-03-24 20:35:00 UTC</a></sub>
 * [Rocket Lab targets $50 million launch price for Neutron rocket to challenge SpaceX’s Falcon 9](https://www.cnbc.com/2023/03/24/rocket-lab-neutron-launch-price-challenges-spacex.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T195757">2023-03-24 19:57:57 UTC</a></sub>
 * [Blue Origin blames New Shepard mishap on engine nozzle failure](https://spacenews.com/blue-origin-blames-new-shepard-mishap-on-engine-nozzle-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T194702">2023-03-24 19:47:02 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Origin says an overheated engine part caused last year’s cargo rocket failure](https://www.cnbc.com/2023/03/24/blue-origin-ns-23-failure-cause.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T170221">2023-03-24 17:02:21 UTC</a></sub>
 * [China Loses UAE As Lunar Mission Partner](https://tlpnetwork.com/news/2023/03/china-loses-uae-as-lunar-mission-partner) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T162800">2023-03-24 16:28:00 UTC</a></sub>
 * [Blue Origin Completes NS-23 Investigation, Releases Findings](https://tlpnetwork.com/news/2023/03/blue-origin-completes-ns-23-investigation-releases-findings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T161400">2023-03-24 16:14:00 UTC</a></sub>
-* [SpaceX keeping up cadence with Starlink Group 5-5 mission](https://www.nasaspaceflight.com/2023/03/starlink-5-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T134839">2023-03-24 13:48:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T213234">2023-03-24 21:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T220700">2023-03-24 22:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
