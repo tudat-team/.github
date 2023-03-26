@@ -570,7 +570,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [Space Force selects 18 vendors to provide space data analytics and software services](https://spacenews.com/space-force-selects-18-vendors-to-provide-space-data-analytics-and-software-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T232545">2023-03-25 23:25:45 UTC</a></sub>
 * [Canada agrees to ISS extension to 2030](https://spacenews.com/canada-agrees-to-iss-extension-to-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T223528">2023-03-25 22:35:28 UTC</a></sub>
-* [OneWeb set to complete initial constellation with launch from India](https://www.nasaspaceflight.com/2023/03/oneweb-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T193500">2023-03-25 19:35:00 UTC</a></sub>
+* [OneWeb completes initial constellation with launch from India](https://www.nasaspaceflight.com/2023/03/oneweb-18/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T193500">2023-03-25 19:35:00 UTC</a></sub>
 * [Dawn Aerospace's Spaceplane Gets Green Light for Suborbital Test Flights in New Zealand](https://tlpnetwork.com/news/2023/03/dawn-aerospace-receives-caa-certification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T235400">2023-03-24 23:54:00 UTC</a></sub>
 * [Space companies Spire and Momentus get stock exchange delisting warnings](https://www.cnbc.com/2023/03/24/spire-momentus-get-stock-exchange-delisting-warnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T211422">2023-03-24 21:14:22 UTC</a></sub>
 * [NASA Invites Media to See Mars Habitat Before Crew Enters for One Year](http://www.nasa.gov/press-release/nasa-invites-media-to-see-mars-habitat-before-crew-enters-for-one-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T203500">2023-03-24 20:35:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T033218">2023-03-26 03:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T040910">2023-03-26 04:09:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
