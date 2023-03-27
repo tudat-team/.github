@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Boeing to Host Media Briefing, Provide Starliner Update](http://www.nasa.gov/press-release/nasa-boeing-to-host-media-briefing-provide-starliner-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T174500">2023-03-27 17:45:00 UTC</a></sub>
 * [NASA Names Two Diversity Champions for Agency](http://www.nasa.gov/press-release/nasa-names-two-diversity-champions-for-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T170500">2023-03-27 17:05:00 UTC</a></sub>
+* [NASA Associate Administrator Announces Retirement, Replacement Announced](https://tlpnetwork.com/news/2023/03/nasa-associate-administrator-announces-retirement-replacement-announced) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T170000">2023-03-27 17:00:00 UTC</a></sub>
 * [Changes Ahead as NASA’s Human Spaceflight Head Plans Retirement](http://www.nasa.gov/press-release/changes-ahead-as-nasa-s-human-spaceflight-head-plans-retirement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T163500">2023-03-27 16:35:00 UTC</a></sub>
 * [Blue Origin provides a detailed analysis of its launch failure](https://arstechnica.com/science/2023/03/blue-origin-provides-a-detailed-analysis-of-its-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T134332">2023-03-27 13:43:32 UTC</a></sub>
 * [Inflation, high demand driving up launch prices](https://spacenews.com/inflation-high-demand-driving-up-launch-prices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T015014">2023-03-27 01:50:14 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ABL Space Secures $60M USSF/USAF Demo Contract](https://tlpnetwork.com/news/2023/03/abl-space-secures-ussf-usaf-demo-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184800">2023-03-26 18:48:00 UTC</a></sub>
 * [Canada Commits To ISS 2030 Extension](https://tlpnetwork.com/news/2023/03/canada-commits-to-iss-2030-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T184600">2023-03-26 18:46:00 UTC</a></sub>
 * [OneWeb Completes V1 Constellation With India Launch](https://tlpnetwork.com/news/2023/03/oneweb-18-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T140800">2023-03-26 14:08:00 UTC</a></sub>
-* [Space Force selects 18 vendors to provide space data analytics and software services](https://spacenews.com/space-force-selects-18-vendors-to-provide-space-data-analytics-and-software-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T232545">2023-03-25 23:25:45 UTC</a></sub>
-* [Canada agrees to ISS extension to 2030](https://spacenews.com/canada-agrees-to-iss-extension-to-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T223528">2023-03-25 22:35:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T173230">2023-03-27 17:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T181105">2023-03-27 18:11:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
