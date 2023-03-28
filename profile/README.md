@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Jon B. Olansen to Serve as New Gateway Program Manager](http://www.nasa.gov/press-release/nasa-s-jon-b-olansen-to-serve-as-new-gateway-program-manager) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T161500">2023-03-28 16:15:00 UTC</a></sub>
 * [NASA Astronauts Bring STEM to Washington Students](http://www.nasa.gov/press-release/nasa-astronauts-bring-stem-to-washington-students) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T150500">2023-03-28 15:05:00 UTC</a></sub>
 * [Maxar unveils 30-centimeter global basemap](https://spacenews.com/maxar-unveils-30-centimeter-global-basemap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T140000">2023-03-28 14:00:00 UTC</a></sub>
 * [A front-runner emerges in the European small launcher race](https://arstechnica.com/science/2023/03/a-front-runner-emerges-in-the-european-small-launcher-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T135507">2023-03-28 13:55:07 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Orbit extends unpaid pause as Brown deal collapses, ‘dynamic’ talks continue](https://www.cnbc.com/2023/03/27/virgin-orbit-extends-unpaid-pause-as-deal-collapses-talks-continue.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T205225">2023-03-27 20:52:25 UTC</a></sub>
 * [NASA Helps Fund Minority Institutions Preparing Students for College](http://www.nasa.gov/press-release/nasa-helps-fund-minority-institutions-preparing-students-for-college) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T200500">2023-03-27 20:05:00 UTC</a></sub>
 * [NASA space operations head Lueders to retire](https://spacenews.com/nasa-space-operations-head-lueders-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T190354">2023-03-27 19:03:54 UTC</a></sub>
-* [Damaged Soyuz MS-22 craft returns home uncrewed](https://www.nasaspaceflight.com/2023/03/soyuz-ms-22-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T184817">2023-03-27 18:48:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T153355">2023-03-28 15:33:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T162916">2023-03-28 16:29:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
