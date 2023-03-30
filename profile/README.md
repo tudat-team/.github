@@ -155,6 +155,52 @@ conda install -c tudat-team <package>
     <td><code>1.1.2</code></td>
   </tr>
 <tr>
+    <td><code><a href="https://github.com/tudat-team/tudat/tree/master" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
+    <td>
+<details>
+<summary>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main"/>
+</a>
+</summary>
+<table>
+<thead><tr><th>Variant</th><th>Status</th></tr></thead>
+<tbody><tr>
+<td>linux_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+</td>
+    <td><code>2.12.0</code></td>
+  </tr>
+<tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/master" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
@@ -522,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Boeing’s got to get going](https://www.cnbc.com/2023/03/30/investing-in-space-boeings-got-to-get-going.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T155229">2023-03-30 15:52:29 UTC</a></sub>
 * [Chinese defense contractor to begin launching VLEO satellites](https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T122344">2023-03-30 12:23:44 UTC</a></sub>
 * [SpaceX aborts launch with initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T120156">2023-03-30 12:01:56 UTC</a></sub>
 * [NASA releases draft strategy for long-term robotic Mars exploration](https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T113654">2023-03-30 11:36:54 UTC</a></sub>
@@ -531,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rosotics unveils 3D printer for rocket tanks and fairings](https://spacenews.com/rosotics-unveils-3d-printer-for-rocket-tanks-and-fairings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232329">2023-03-29 23:23:29 UTC</a></sub>
 * [US Space Development Agency Ready To Launch First Satellites](https://tlpnetwork.com/news/2023/03/us-space-development-agency-ready-to-launch-first-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232200">2023-03-29 23:22:00 UTC</a></sub>
 * [Military space agency created to go fast is about to launch its first satellites](https://spacenews.com/military-space-agency-created-to-go-fast-is-about-to-launch-its-first-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T221844">2023-03-29 22:18:44 UTC</a></sub>
-* [NASA delays flight of Boeing’s Starliner again, this time for parachutes](https://arstechnica.com/science/2023/03/nasa-delays-flight-of-boeings-starliner-again-this-time-for-parachutes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T213946">2023-03-29 21:39:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -564,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T153257">2023-03-30 15:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T161003">2023-03-30 16:10:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
