@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Astronomers Discover Two Closest Black Holes to Earth](https://tlpnetwork.com/news/2023/03/astronomers-discover-two-closest-black-holes-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T162400">2023-03-30 16:24:00 UTC</a></sub>
 * [Investing in Space: Boeing’s got to get going](https://www.cnbc.com/2023/03/30/investing-in-space-boeings-got-to-get-going.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T155229">2023-03-30 15:52:29 UTC</a></sub>
 * [Chinese defense contractor to begin launching VLEO satellites](https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T122344">2023-03-30 12:23:44 UTC</a></sub>
 * [SpaceX aborts launch with initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T120156">2023-03-30 12:01:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starliner crewed test flight delayed to July](https://spacenews.com/starliner-crewed-test-flight-delayed-to-july/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T233252">2023-03-29 23:32:52 UTC</a></sub>
 * [Rosotics unveils 3D printer for rocket tanks and fairings](https://spacenews.com/rosotics-unveils-3d-printer-for-rocket-tanks-and-fairings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232329">2023-03-29 23:23:29 UTC</a></sub>
 * [US Space Development Agency Ready To Launch First Satellites](https://tlpnetwork.com/news/2023/03/us-space-development-agency-ready-to-launch-first-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T232200">2023-03-29 23:22:00 UTC</a></sub>
-* [Military space agency created to go fast is about to launch its first satellites](https://spacenews.com/military-space-agency-created-to-go-fast-is-about-to-launch-its-first-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T221844">2023-03-29 22:18:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T161003">2023-03-30 16:10:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T164008">2023-03-30 16:40:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
