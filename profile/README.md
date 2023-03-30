@@ -155,52 +155,6 @@ conda install -c tudat-team <package>
     <td><code>1.1.2</code></td>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/tudat/tree/master" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
-    <td>
-<details>
-<summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main"/>
-</a>
-</summary>
-<table>
-<thead><tr><th>Variant</th><th>Status</th></tr></thead>
-<tbody><tr>
-<td>linux_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_arm64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
-</a>
-</td>
-</tr><tr>
-<td>win_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
-</a>
-</td>
-</tr>
-</tbody>
-</table>
-</details>
-</td>
-    <td><code>2.12.0</code></td>
-  </tr>
-<tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/master" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
@@ -610,7 +564,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T150750">2023-03-30 15:07:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T153257">2023-03-30 15:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
