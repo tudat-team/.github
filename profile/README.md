@@ -569,7 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Chinese defense contractor to begin launching VLEO satellites](https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T122344">2023-03-30 12:23:44 UTC</a></sub>
-* [SpaceX to launch initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T120156">2023-03-30 12:01:56 UTC</a></sub>
+* [SpaceX aborts launch with initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T120156">2023-03-30 12:01:56 UTC</a></sub>
 * [NASA releases draft strategy for long-term robotic Mars exploration](https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T113654">2023-03-30 11:36:54 UTC</a></sub>
 * [Vulcan Experiences Anomaly During Test, Maiden Flight Delayed](https://tlpnetwork.com/news/2023/03/vulcan-experiences-anomaly-during-test-maiden-flight-delayed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T025300">2023-03-30 02:53:00 UTC</a></sub>
 * [Isar Aerospace Raises $165 Million Ahead Of First Launch](https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T002400">2023-03-30 00:24:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T143224">2023-03-30 14:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T150750">2023-03-30 15:07:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
