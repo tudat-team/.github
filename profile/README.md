@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AST SpaceMobile discloses further satellite delays and cost increases](https://spacenews.com/ast-spacemobile-discloses-further-satellite-delays-and-cost-increases/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T215326">2023-03-31 21:53:26 UTC</a></sub>
 * [Virgin Orbit collapsed despite a billionaire’s backing and an intriguing plan. Here’s what happened](https://www.cnbc.com/2023/03/31/virgin-orbit-what-went-wrong.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T192041">2023-03-31 19:20:41 UTC</a></sub>
 * [NASA's Perseverance Collects First Mars Sample of New Science Campaign](https://mars.nasa.gov/news/9373/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T183400">2023-03-31 18:34:00 UTC</a></sub>
 * [Astrolab Signs Starship Launch Agreement For FLEX Rover Mission](https://tlpnetwork.com/news/2023/03/astrolab-signs-starship-launch-agreement-for-flex-rover-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T153000">2023-03-31 15:30:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [South Korea sets record space budget  to bolster industry, develop new rocket](https://spacenews.com/south-korea-sets-record-space-budget-to-bolster-industry-develop-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T122834">2023-03-31 12:28:34 UTC</a></sub>
 * [Astra says Rocket 4 development on schedule for late 2023 first flight](https://spacenews.com/astra-says-rocket-4-development-on-schedule-for-late-2023-first-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T120906">2023-03-31 12:09:06 UTC</a></sub>
 * [Momentus successfully test-fires thruster on Vigoride-5](https://spacenews.com/momentus-successfully-test-fires-thruster-on-vigoride-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110735">2023-03-31 11:07:35 UTC</a></sub>
-* [Rocket Report: ULA Centaur stage has an ‘anomaly,’ Virgin Orbit funding is dire](https://arstechnica.com/science/2023/03/rocket-report-ula-centaur-stage-has-an-anomaly-virgin-orbit-funding-is-dire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110043">2023-03-31 11:00:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T213222">2023-03-31 21:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T220644">2023-03-31 22:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
