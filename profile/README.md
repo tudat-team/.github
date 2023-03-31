@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Korea sets record space budget  to bolster industry, develop new rocket](https://spacenews.com/south-korea-sets-record-space-budget-to-bolster-industry-develop-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T122834">2023-03-31 12:28:34 UTC</a></sub>
 * [Astra says Rocket 4 development on schedule for late 2023 first flight](https://spacenews.com/astra-says-rocket-4-development-on-schedule-for-late-2023-first-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T120906">2023-03-31 12:09:06 UTC</a></sub>
 * [Momentus successfully test-fires thruster on Vigoride-5](https://spacenews.com/momentus-successfully-test-fires-thruster-on-vigoride-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110735">2023-03-31 11:07:35 UTC</a></sub>
 * [Rocket Report: ULA Centaur stage has an ‘anomaly,’ Virgin Orbit funding is dire](https://arstechnica.com/science/2023/03/rocket-report-ula-centaur-stage-has-an-anomaly-virgin-orbit-funding-is-dire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110043">2023-03-31 11:00:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Orbit To Cease Operations, Lay Off 90% After Funding Failure](https://tlpnetwork.com/news/2023/03/virgin-orbit-to-cease-operations-lay-off-90-percent-after-funding-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T212200">2023-03-30 21:22:00 UTC</a></sub>
 * [Virgin Orbit fails to secure funding, will cease operations and lay off nearly entire workforce](https://www.cnbc.com/2023/03/30/virgin-orbit-funding-ceasing-operations-layoffs.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T210802">2023-03-30 21:08:02 UTC</a></sub>
 * [Maxar eyes military customers for satellite images of objects in space](https://spacenews.com/maxar-eyes-military-customers-for-satellite-images-of-objects-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T205420">2023-03-30 20:54:20 UTC</a></sub>
-* [Telesat still bullish on Lightspeed despite funding uncertainty](https://spacenews.com/telesat-still-bullish-on-lightspeed-despite-funding-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T202332">2023-03-30 20:23:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T121355">2023-03-31 12:13:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T125024">2023-03-31 12:50:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
