@@ -571,8 +571,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Redwire to demonstrate a security camera for military satellites](https://spacenews.com/redwire-to-demonstrate-a-security-camera-for-military-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T125520">2023-04-03 12:55:20 UTC</a></sub>
 * [A passenger aircraft that flies around the world at Mach 9? Sure, why not](https://arstechnica.com/science/2023/04/a-passenger-aircraft-that-flies-around-the-world-at-mach-9-sure-why-not/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T122320">2023-04-03 12:23:20 UTC</a></sub>
 * [Japan delays H2A launch in the wake of H3 failure](https://spacenews.com/japan-delays-h2a-launch-in-the-wake-of-h3-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T121930">2023-04-03 12:19:30 UTC</a></sub>
-* [China’s Space Pioneer reaches orbit with liquid propellant rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [China’s Space Pioneer reaches orbit with liquid propellent rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellent-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
+* [China’s Space Pioneer reaches orbit with liquid propellant rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [NASA policy discourages naming missions after individuals](https://spacenews.com/nasa-policy-discourages-naming-missions-after-individuals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T082103">2023-04-03 08:21:03 UTC</a></sub>
 * [SpaceX launches 10 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-10-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T150119">2023-04-02 15:01:19 UTC</a></sub>
 * [SpaceX launches initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/04/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T120156">2023-04-02 12:01:56 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T143212">2023-04-03 14:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T150752">2023-04-03 15:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
