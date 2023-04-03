@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s Space Pioneer reaches orbit with liquid propellent rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellent-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
+* [China’s Space Pioneer reaches orbit with liquid propellant rocket](https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T091146">2023-04-03 09:11:46 UTC</a></sub>
 * [NASA policy discourages naming missions after individuals](https://spacenews.com/nasa-policy-discourages-naming-missions-after-individuals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T082103">2023-04-03 08:21:03 UTC</a></sub>
 * [SpaceX launches 10 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-10-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T150119">2023-04-02 15:01:19 UTC</a></sub>
 * [SpaceX launches initial satellites for Space Development Agency](https://www.nasaspaceflight.com/2023/04/tranche-0-flight-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T120156">2023-04-02 12:01:56 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [EGS Integration Console engineers review Artemis I campaign](https://www.nasaspaceflight.com/2023/04/egs-review-artemis-i-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T160858">2023-04-01 16:08:58 UTC</a></sub>
 * [New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos](https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T012100">2023-04-01 01:21:00 UTC</a></sub>
 * [China Preparing To Launch Mega Satellite Constellation This Year](https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T231500">2023-03-31 23:15:00 UTC</a></sub>
-* [NASA Reveals New Mars Robotic Exploration Strategy](https://tlpnetwork.com/news/2023/03/nasa-reveals-new-mars-robotic-exploration-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T225400">2023-03-31 22:54:00 UTC</a></sub>
-* [Astra Loses $36M Last Quarter, Sets Target For First Rocket 4 Launch](https://tlpnetwork.com/news/2023/03/astra-loses-36-million-last-quarter-sets-target-for-first-rocket-4-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T224900">2023-03-31 22:49:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T093225">2023-04-03 09:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T100800">2023-04-03 10:08:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
