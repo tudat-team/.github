@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA TV Coverage Set for Crew to Move Soyuz Space Station Location](http://www.nasa.gov/press-release/nasa-tv-coverage-set-for-crew-to-move-soyuz-space-station-location) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T185500">2023-04-04 18:55:00 UTC</a></sub>
+* [Virgin Orbit COO calls out company leadership for failures in goodbye memo. Read the full email](https://www.cnbc.com/2023/04/04/virgin-orbit-coo-goodbye-email.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T184100">2023-04-04 18:41:00 UTC</a></sub>
 * [EGS launch team looking forward to working with Artemis II crew](https://www.nasaspaceflight.com/2023/04/egs-launch-team-artemis-ii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T151047">2023-04-04 15:10:47 UTC</a></sub>
 * [Apex to launch first satellite in 2024](https://spacenews.com/apex-to-launch-first-satellite-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T141058">2023-04-04 14:10:58 UTC</a></sub>
 * [Virgin Orbit formally enters bankruptcy, seeking a buyer](https://arstechnica.com/science/2023/04/virgin-orbit-formally-enters-bankruptcy-seeking-a-buyer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133749">2023-04-04 13:37:49 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer](https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T090000">2023-04-04 09:00:00 UTC</a></sub>
 * [All of a sudden, NASA’s return to the Moon feels rather real](https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T222110">2023-04-03 22:21:10 UTC</a></sub>
 * [Thuraya invests in Astrocast’s LEO constellation](https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T213742">2023-04-03 21:37:42 UTC</a></sub>
-* [Lockheed Martin selected by Australia for military satcom project](https://spacenews.com/lockheed-martin-selected-by-australia-for-military-satcom-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T202207">2023-04-03 20:22:07 UTC</a></sub>
-* [Using JWST, scientists observe silicate clouds and measure the temperature of exoplanets](https://www.nasaspaceflight.com/2023/04/jwst-clouds-temp-exoplanets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T190010">2023-04-03 19:00:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T183231">2023-04-04 18:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T190605">2023-04-04 19:06:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
