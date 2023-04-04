@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Apple executive Doug Beck tapped to lead the Defense Innovation Unit](https://spacenews.com/apple-executive-doug-beck-to-lead-the-defense-innovation-unit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T202449">2023-04-04 20:24:49 UTC</a></sub>
 * [NASA TV Coverage Set for Crew to Move Soyuz Space Station Location](http://www.nasa.gov/press-release/nasa-tv-coverage-set-for-crew-to-move-soyuz-space-station-location) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T185500">2023-04-04 18:55:00 UTC</a></sub>
 * [Virgin Orbit COO calls out company leadership for failures in goodbye memo. Read the full email](https://www.cnbc.com/2023/04/04/virgin-orbit-coo-goodbye-email.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T184100">2023-04-04 18:41:00 UTC</a></sub>
 * [EGS launch team looking forward to working with Artemis II crew](https://www.nasaspaceflight.com/2023/04/egs-launch-team-artemis-ii/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T151047">2023-04-04 15:10:47 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [BREAKING! Virgin Orbit Files For Bankruptcy ](https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121105">2023-04-04 12:11:05 UTC</a></sub>
 * [Virgin Orbit files for bankruptcy](https://spacenews.com/virgin-orbit-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T120256">2023-04-04 12:02:56 UTC</a></sub>
 * [Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer](https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T090000">2023-04-04 09:00:00 UTC</a></sub>
-* [All of a sudden, NASA’s return to the Moon feels rather real](https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T222110">2023-04-03 22:21:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T203226">2023-04-04 20:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T210638">2023-04-04 21:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
