@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Orbit files for bankruptcy](https://spacenews.com/virgin-orbit-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T120256">2023-04-04 12:02:56 UTC</a></sub>
 * [Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer](https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T090000">2023-04-04 09:00:00 UTC</a></sub>
 * [All of a sudden, NASA’s return to the Moon feels rather real](https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T222110">2023-04-03 22:21:10 UTC</a></sub>
 * [Thuraya invests in Astrocast’s LEO constellation](https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T213742">2023-04-03 21:37:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA designa astronautas para su próxima misión de Artemis a la Luna](http://www.nasa.gov/press-release/nasa-designa-astronautas-para-su-pr-xima-misi-n-de-artemis-a-la-luna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T172500">2023-04-03 17:25:00 UTC</a></sub>
 * [NASA announces crew for Artemis 2 mission](https://spacenews.com/nasa-announces-crew-for-artemis-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T160354">2023-04-03 16:03:54 UTC</a></sub>
 * [NASA Names Astronauts to Next Moon Mission, First Crew Under Artemis](http://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T154500">2023-04-03 15:45:00 UTC</a></sub>
-* [NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024](https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T153548">2023-04-03 15:35:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T113241">2023-04-04 11:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121355">2023-04-04 12:13:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
