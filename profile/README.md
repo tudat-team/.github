@@ -577,7 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA announces crew for Artemis 2 mission](https://spacenews.com/nasa-announces-crew-for-artemis-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T160354">2023-04-03 16:03:54 UTC</a></sub>
 * [NASA Names Astronauts to Next Moon Mission, First Crew Under Artemis](http://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T154500">2023-04-03 15:45:00 UTC</a></sub>
 * [NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024](https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T153548">2023-04-03 15:35:48 UTC</a></sub>
-* [BREAKING! NASA Announces Artemis 2 Crew](https://tlpnetwork.com/news/2023/04/nasa-announces-artemis-2-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T150600">2023-04-03 15:06:00 UTC</a></sub>
+* [NASA Announces Artemis 2 Crew](https://tlpnetwork.com/news/2023/04/nasa-announces-artemis-2-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T150600">2023-04-03 15:06:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T030759">2023-04-04 03:07:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T033241">2023-04-04 03:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
