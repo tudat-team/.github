@@ -575,7 +575,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Apex to launch first satellite in 2024](https://spacenews.com/apex-to-launch-first-satellite-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T141058">2023-04-04 14:10:58 UTC</a></sub>
 * [Arabsat blames thruster issue for temporary satellite outage](https://spacenews.com/arabsat-blames-thruster-issue-for-temporary-satellite-outage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T140000">2023-04-04 14:00:00 UTC</a></sub>
 * [Virgin Orbit formally enters bankruptcy, seeking a buyer](https://arstechnica.com/science/2023/04/virgin-orbit-formally-enters-bankruptcy-seeking-a-buyer/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133749">2023-04-04 13:37:49 UTC</a></sub>
-* [BREAKING! Virgin Orbit Files For Bankruptcy ](https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121105">2023-04-04 12:11:05 UTC</a></sub>
+* [Virgin Orbit Files For Bankruptcy ](https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121105">2023-04-04 12:11:05 UTC</a></sub>
 * [Virgin Orbit files for bankruptcy](https://spacenews.com/virgin-orbit-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T120256">2023-04-04 12:02:56 UTC</a></sub>
 * [Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer](https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T090000">2023-04-04 09:00:00 UTC</a></sub>
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T233232">2023-04-04 23:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T003305">2023-04-05 00:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
