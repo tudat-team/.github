@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force renames Greenland’s Thule Air Base](https://spacenews.com/space-force-renames-greenlands-thule-air-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T215743">2023-04-06 21:57:43 UTC</a></sub>
 * [Starship into final preps for launch targeting second half of April](https://www.nasaspaceflight.com/2023/04/starship-targeting-h2-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T191824">2023-04-06 19:18:24 UTC</a></sub>
 * [BREAKING! SpaceX Sets Timeline For Inaugural Starship Flight](https://tlpnetwork.com/news/2023/04/spacex-sets-timeline-for-inaugural-starship-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T183300">2023-04-06 18:33:00 UTC</a></sub>
 * [NASA Administrator Names New Goddard Center Director](http://www.nasa.gov/press-release/nasa-administrator-names-new-goddard-center-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T180500">2023-04-06 18:05:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Startup aims to fill technology gaps in space warfare](https://spacenews.com/startup-aims-to-fill-technology-gaps-in-space-warfare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T131339">2023-04-06 13:13:39 UTC</a></sub>
 * [Loft Orbital orders 15 more buses from Airbus OneWeb Satellites](https://spacenews.com/loft-orbital-orders-15-more-buses-from-airbus-oneweb-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T110410">2023-04-06 11:04:10 UTC</a></sub>
 * [China invites Venezuela to join moon base project](https://spacenews.com/china-invites-venezuela-to-join-moon-base-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T085913">2023-04-06 08:59:13 UTC</a></sub>
-* [NASA Earth science hosted payload set for launch on Intelsat satellite](https://spacenews.com/nasa-earth-science-hosted-payload-set-for-launch-on-intelsat-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T023146">2023-04-06 02:31:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T213223">2023-04-06 21:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T220640">2023-04-06 22:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
