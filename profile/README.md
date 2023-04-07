@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Two recent wargames hold timely lessons for space resilience](https://spacenews.com/two-recent-wargames-hold-timely-lessons-for-space-resilience/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T141018">2023-04-07 14:10:18 UTC</a></sub>
 * [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T121739">2023-04-07 12:17:39 UTC</a></sub>
 * [Second Axiom Space mission to ISS scheduled for May](https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T114445">2023-04-07 11:44:45 UTC</a></sub>
 * [Rocket Report: Starship gets a tentative launch date; China tests ocean landing](https://arstechnica.com/science/2023/04/rocket-report-starship-gets-a-tentative-launch-date-china-tests-ocean-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T111515">2023-04-07 11:15:15 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Norwegian Cruise Line plots Starlink rollout](https://spacenews.com/norwegian-cruise-line-plots-starlink-rollout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T224517">2023-04-06 22:45:17 UTC</a></sub>
 * [Space Force renames Greenland’s Thule Air Base](https://spacenews.com/space-force-renames-greenlands-thule-air-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T215743">2023-04-06 21:57:43 UTC</a></sub>
 * [Starship into final preps for launch targeting second half of April](https://www.nasaspaceflight.com/2023/04/starship-targeting-h2-april/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T191824">2023-04-06 19:18:24 UTC</a></sub>
-* [SpaceX Sets Timeline For Inaugural Starship Flight](https://tlpnetwork.com/news/2023/04/spacex-sets-timeline-for-inaugural-starship-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T183300">2023-04-06 18:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A mission to pull back the shroud](https://www.planetary.org/the-downlink/a-mission-to-pull-back-the-shroud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T143504">2023-04-07 14:35:04 UTC</a></sub>
 * [Juice launch and mission preview: What to expect](https://www.planetary.org/articles/juice-launch-mission-preview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143529">2023-04-06 14:35:29 UTC</a></sub>
 * [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
 * [Why we need VERITAS](https://www.planetary.org/articles/why-we-need-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142618">2023-04-05 14:26:18 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The Planetary Society’s Space Book Club](https://www.planetary.org/articles/the-planetary-societys-space-book-club) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T150533">2023-03-22 15:05:33 UTC</a></sub>
 * [Vulcan: Tanking tests performed on ULA's new rocket](https://blog.ulalaunch.com/blog/vulcan-tanking-tests-performed-on-ulas-new-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T182542">2023-03-17 18:25:42 UTC</a></sub>
 * [Volcanic Venus, myriad moons, and space sonification](https://www.planetary.org/the-downlink/volcanic-venus-myriad-moons-and-space-sonification) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T143535">2023-03-17 14:35:35 UTC</a></sub>
-* [NASA’s 2024 budget proposal is pretty good, but it faces political headwinds](https://www.planetary.org/articles/nasas-2024-budget) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T163534">2023-03-16 16:35:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T143221">2023-04-07 14:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T150715">2023-04-07 15:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
