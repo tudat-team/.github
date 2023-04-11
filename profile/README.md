@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin makes a big bet on commercial space and the Moon](https://arstechnica.com/science/2023/04/lockheed-martin-makes-a-big-bet-on-commercial-space-and-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T124404">2023-04-11 12:44:04 UTC</a></sub>
 * [Virgin Orbit seeking expedited bankruptcy sale](https://spacenews.com/virgin-orbit-seeking-expedited-bankruptcy-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T115733">2023-04-11 11:57:33 UTC</a></sub>
 * [Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand](https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T111250">2023-04-11 11:12:50 UTC</a></sub>
 * [China to target asteroid 2019 VL5 for 2025 planetary defense test](https://spacenews.com/china-to-target-asteroid-2019-vl5-for-2025-planetary-defense-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T101316">2023-04-11 10:13:16 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Connecting the Dots | European space investments get serious](https://spacenews.com/connecting-the-dots-european-space-investments-get-serious/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T133859">2023-04-10 13:38:59 UTC</a></sub>
 * [SpaceX’s Starship vehicle is ready to fly, just waiting for a launch license](https://arstechnica.com/science/2023/04/spacexs-starship-vehicle-is-ready-to-fly-just-waiting-for-a-launch-license/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T130304">2023-04-10 13:03:04 UTC</a></sub>
 * [Canada proposes to develop robotic lunar rover for Artemis](https://spacenews.com/canada-proposes-to-develop-robotic-lunar-rover-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T120104">2023-04-10 12:01:04 UTC</a></sub>
-* [Report recommends allowing “learning period” for commercial human spaceflight safety regulations to expire](https://spacenews.com/report-recommends-allowing-learning-period-for-commercial-human-spaceflight-safety-regulations-to-expire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T111318">2023-04-10 11:13:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T131108">2023-04-11 13:11:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T133222">2023-04-11 13:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
