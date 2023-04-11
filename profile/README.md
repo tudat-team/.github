@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Digital Day of Action 2023](https://www.planetary.org/advocacy/digital-day-of-action-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T171507">2023-04-11 17:15:07 UTC</a></sub>
 * [What would it be like to stand on the surface of Venus?](https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T144505">2023-04-11 14:45:05 UTC</a></sub>
 * [ICPS-2: ULA begins readying upper stage for Artemis II launch](https://blog.ulalaunch.com/blog/icps-2-ula-begins-readying-upper-stage-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T132515">2023-04-10 13:25:15 UTC</a></sub>
 * [A mission to pull back the shroud](https://www.planetary.org/the-downlink/a-mission-to-pull-back-the-shroud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T143504">2023-04-07 14:35:04 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Unusual Uranus! Moist Moon! Volcanic Venus!](https://www.planetary.org/the-downlink/unusual-uranus-moist-moon-volcanic-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T143406">2023-03-31 14:34:06 UTC</a></sub>
 * [Asteroids worth getting psyched about](https://www.planetary.org/the-downlink/asteroids-worth-getting-psyched-about) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T143535">2023-03-24 14:35:35 UTC</a></sub>
 * [What the search for aliens can learn from life on Earth](https://www.planetary.org/articles/what-the-search-for-aliens-can-learn-from-life-on-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T150535">2023-03-23 15:05:35 UTC</a></sub>
-* [The Planetary Society’s Space Book Club](https://www.planetary.org/articles/the-planetary-societys-space-book-club) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T150533">2023-03-22 15:05:33 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T173228">2023-04-11 17:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T180808">2023-04-11 18:08:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
