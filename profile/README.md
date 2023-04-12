@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity goes ‘all in’ on larger reusable rocket, shifting 3D-printing approach after first launch](https://www.cnbc.com/2023/04/12/relativity-all-in-on-terran-r-rocket-shifting-3d-printing-approach.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T140002">2023-04-12 14:00:02 UTC</a></sub>
+* [ISRO Successfully Completes Final Long Duration Hot Fire Test of Human-Rated Vikas Engine](https://tlpnetwork.com/news/2023/04/isro-qualifies-human-rated-vikas-engine-for-gaganyaan) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T134900">2023-04-12 13:49:00 UTC</a></sub>
 * [Op-ed | U.S. leadership of cislunar space hinges on foresight and planning](https://spacenews.com/op-ed-u-s-leadership-of-cislunar-space-hinges-on-foresight-and-planning/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T121100">2023-04-12 12:11:00 UTC</a></sub>
 * [Slingshot’s space-tracking network to extend coverage of low Earth orbit](https://spacenews.com/slingshots-space-tracking-network-to-extend-coverage-of-low-earth-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T120000">2023-04-12 12:00:00 UTC</a></sub>
 * [Ariane 5 ready to launch ESA’s JUICE mission to Jupiter](https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T114014">2023-04-12 11:40:14 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Sets Launch Date for Starship Integrated Flight Test](https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T213800">2023-04-11 21:38:00 UTC</a></sub>
 * [Next O3b mPower satellites en route to launchpad](https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T140100">2023-04-11 14:01:00 UTC</a></sub>
 * [Op-ed | Practical applications of a space mission authorization framework](https://spacenews.com/op-ed-practical-applications-of-a-space-mission-authorization-framework/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T133650">2023-04-11 13:36:50 UTC</a></sub>
-* [Ball taps Loft and Microsoft for SDA NExT program](https://spacenews.com/ball-taps-loft-and-microsoft-for-sda-next-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T130000">2023-04-11 13:00:00 UTC</a></sub>
-* [Lockheed Martin makes a big bet on commercial space and the Moon](https://arstechnica.com/science/2023/04/lockheed-martin-makes-a-big-bet-on-commercial-space-and-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T124404">2023-04-11 12:44:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T133237">2023-04-12 13:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T140719">2023-04-12 14:07:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
