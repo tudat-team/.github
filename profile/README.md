@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NOAA looks to update weather satellite and ground systems](https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T205301">2023-04-13 20:53:01 UTC</a></sub>
+* [SpaceX Transporter-7 to launch 51 payloads, return booster to LZ](https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T204924">2023-04-13 20:49:24 UTC</a></sub>
 * [NASA to Convene Mars Sample Return Review](https://mars.nasa.gov/news/9377/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T192500">2023-04-13 19:25:00 UTC</a></sub>
 * [Boeing unveils WGS-11 design with new military payload](https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T190225">2023-04-13 19:02:25 UTC</a></sub>
 * [Draper completes initial milestones for NASA CLPS mission](https://spacenews.com/draper-completes-initial-milestones-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T171905">2023-04-13 17:19:05 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Systems Command’s Tetra-1 begins mission operations](https://spacenews.com/tetra-1-begins-mission-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T120000">2023-04-13 12:00:00 UTC</a></sub>
 * [ESCAPADE confident in planned 2024 New Glenn launch](https://spacenews.com/escapade-confident-in-planned-2024-new-glenn-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T114213">2023-04-13 11:42:13 UTC</a></sub>
 * [Kepler Communications raises $92 million for optical data relay network](https://spacenews.com/kepler-communications-raises-92-million-for-optical-data-relay-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T111101">2023-04-13 11:11:01 UTC</a></sub>
-* [Relativity shelves Terran 1 after one launch, redesigns Terran R](https://spacenews.com/relativity-shelves-terran-1-after-one-launch-redesigns-terran-r/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T011442">2023-04-13 01:14:42 UTC</a></sub>
-* [Amid commercial boom, U.S. military lacks timely access to satellite imagery](https://spacenews.com/amid-commercial-boom-u-s-military-lacks-timely-access-to-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T223911">2023-04-12 22:39:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T203234">2023-04-13 20:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210640">2023-04-13 21:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
