@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Mars Rover Gets a Major Software Upgrade](https://mars.nasa.gov/news/9378/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T165500">2023-04-13 16:55:00 UTC</a></sub>
 * [Investing in Space: Intelsat signs up for Northrop Grumman satellite servicing](https://www.cnbc.com/2023/04/13/investing-in-space-intelsat-signs-up-for-northrop-grumman-satellite-servicing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T145244">2023-04-13 14:52:44 UTC</a></sub>
 * [Space Systems Command’s Tetra-1 begins mission operations](https://spacenews.com/tetra-1-begins-mission-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T120000">2023-04-13 12:00:00 UTC</a></sub>
 * [ESCAPADE confident in planned 2024 New Glenn launch](https://spacenews.com/escapade-confident-in-planned-2024-new-glenn-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T114213">2023-04-13 11:42:13 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Europe is about to launch one of its most ambitious missions ever](https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T215946">2023-04-12 21:59:46 UTC</a></sub>
 * [Inmarsat and MediaTek expand direct-to-device partnership](https://spacenews.com/inmarsat-and-mediatek-expand-direct-to-device-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T214545">2023-04-12 21:45:45 UTC</a></sub>
 * [ESA reschedules JUICE launch to Jupiter’s icy moons atop Ariane 5](https://www.nasaspaceflight.com/2023/04/juice-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T161733">2023-04-12 16:17:33 UTC</a></sub>
-* [Delivering Data: What customers get wrong about the ground segment](https://spacenews.com/delivering-data-what-customers-get-wrong-about-the-ground-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T142456">2023-04-12 14:24:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T163728">2023-04-13 16:37:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T170642">2023-04-13 17:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
