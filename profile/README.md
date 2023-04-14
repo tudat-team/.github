@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceLogistics to service Intelsat satellite after Optus life-extending mission](https://spacenews.com/spacelogistics-robot-to-service-intelsat-satellite-after-optus-life-extending-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T122221">2023-04-14 12:22:21 UTC</a></sub>
+* [In Navy experiment, commercial satellites serve as key weapons against drug traffickers](https://spacenews.com/in-navy-experiment-commercial-satellites-serve-as-key-weapons-against-drug-traffickers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121805">2023-04-14 12:18:05 UTC</a></sub>
 * [First ispace mission ready for lunar landing as company stock starts trading](https://spacenews.com/first-ispace-mission-ready-for-lunar-landing-as-company-stock-starts-trading/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T115829">2023-04-14 11:58:29 UTC</a></sub>
 * [Rocket Report: SpaceX may lease High Bay 1 in the VAB; China to fight price war](https://arstechnica.com/science/2023/04/rocket-report-spacex-may-lease-high-bay-1-in-the-vab-china-to-fight-price-war/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T110006">2023-04-14 11:00:06 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Completes 50th Flight](https://mars.nasa.gov/news/9381/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T234500">2023-04-13 23:45:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [South Korea’s KSLV-2 rocket set to launch May 24](https://spacenews.com/kslv-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210400">2023-04-13 21:04:00 UTC</a></sub>
 * [NOAA looks to update weather satellite and ground systems](https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T205301">2023-04-13 20:53:01 UTC</a></sub>
 * [SpaceX Transporter-7 scrubs launch of 51 payloads, return booster to LZ](https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T204924">2023-04-13 20:49:24 UTC</a></sub>
-* [NASA to Convene Mars Sample Return Review](https://mars.nasa.gov/news/9377/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T192500">2023-04-13 19:25:00 UTC</a></sub>
-* [Boeing unveils WGS-11 design with new military payload](https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T190225">2023-04-13 19:02:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121337">2023-04-14 12:13:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T124804">2023-04-14 12:48:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
