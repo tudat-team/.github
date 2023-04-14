@@ -573,7 +573,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Saltzman: Space Force has to better define relationship with commercial industry](https://spacenews.com/saltzman-space-force-has-to-better-define-relationship-with-commercial-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210852">2023-04-13 21:08:52 UTC</a></sub>
 * [South Korea’s KSLV-2 rocket set to launch May 24](https://spacenews.com/kslv-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210400">2023-04-13 21:04:00 UTC</a></sub>
 * [NOAA looks to update weather satellite and ground systems](https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T205301">2023-04-13 20:53:01 UTC</a></sub>
-* [SpaceX Transporter-7 to launch 51 payloads, return booster to LZ](https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T204924">2023-04-13 20:49:24 UTC</a></sub>
+* [SpaceX Transporter-7 scrubs launch of 51 payloads, return booster to LZ](https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T204924">2023-04-13 20:49:24 UTC</a></sub>
 * [NASA to Convene Mars Sample Return Review](https://mars.nasa.gov/news/9377/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T192500">2023-04-13 19:25:00 UTC</a></sub>
 * [Boeing unveils WGS-11 design with new military payload](https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T190225">2023-04-13 19:02:25 UTC</a></sub>
 * [Draper completes initial milestones for NASA CLPS mission](https://spacenews.com/draper-completes-initial-milestones-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T171905">2023-04-13 17:19:05 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T063409">2023-04-14 06:34:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T070656">2023-04-14 07:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
