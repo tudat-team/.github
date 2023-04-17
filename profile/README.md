@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Speed and safety are top priorities for regulators](https://spacenews.com/speed-and-safety-are-top-priorities-for-regulators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T221018">2023-04-17 22:10:18 UTC</a></sub>
 * [Lamborn urges military leaders to be less secretive on space issues](https://spacenews.com/lamborn-urges-military-leaders-to-be-less-secretive-on-space-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T220112">2023-04-17 22:01:12 UTC</a></sub>
 * [NASA Awards Agencywide Digital, Information Technology Contract](http://www.nasa.gov/press-release/nasa-awards-agencywide-digital-information-technology-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T200500">2023-04-17 20:05:00 UTC</a></sub>
 * [Keeping watch on aggressor satellites a key challenge for U.S. Space Force](https://spacenews.com/keeping-watch-on-aggressor-satellites-a-key-challenge-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T193121">2023-04-17 19:31:21 UTC</a></sub>
 * [Lockheed Martin declares success demonstrating tech for in-orbit satellite servicing](https://spacenews.com/lockheed-martin-declares-success-demonstrating-tech-for-in-orbit-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T191915">2023-04-17 19:19:15 UTC</a></sub>
 * [Space Symposium 2023](https://spacenews.com/space-symposium-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T181000">2023-04-17 18:10:00 UTC</a></sub>
 * [NASA Sets Coverage of Spacewalk, News Conference for Station Upgrades](http://www.nasa.gov/press-release/nasa-sets-coverage-of-spacewalk-news-conference-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T161500">2023-04-17 16:15:00 UTC</a></sub>
-* [Options for achieving Tactically Responsive Space](https://spacenews.com/options-for-achieving-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 * [Crunchtime ahead for Victus Nox](https://spacenews.com/crunchtime-ahead-for-victus-nox/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
+* [Options for achieving Tactically Responsive Space](https://spacenews.com/options-for-achieving-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 * [SpaceX scrubs first Starship launch attempt](https://spacenews.com/spacex-scrubs-first-starship-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T134021">2023-04-17 13:40:21 UTC</a></sub>
-* [On National Security | Satellite imaging industry responds to demand for intelligence fusion](https://spacenews.com/on-national-security-satellite-imaging-industry-responds-to-demand-for-intelligence-fusion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T223207">2023-04-17 22:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T230726">2023-04-17 23:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
