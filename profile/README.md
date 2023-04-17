@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage of Spacewalk, News Conference for Station Upgrades](http://www.nasa.gov/press-release/nasa-sets-coverage-of-spacewalk-news-conference-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T161500">2023-04-17 16:15:00 UTC</a></sub>
 * [Crunchtime ahead for Victus Nox](https://spacenews.com/crunchtime-ahead-for-victus-nox/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 * [Options for achieving Tactically Responsive Space](https://spacenews.com/options-for-achieving-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 * [SpaceX scrubs first Starship launch attempt](https://spacenews.com/spacex-scrubs-first-starship-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T134021">2023-04-17 13:40:21 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How to rapidly produce high-volume satellite structures](https://spacenews.com/how-to-rapidly-produce-high-volume-satellite-structures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T023000">2023-04-17 02:30:00 UTC</a></sub>
 * [Starship gets close, but scrubs for maiden launch attempt](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T003331">2023-04-17 00:33:31 UTC</a></sub>
 * [Ingenuity Keeps Pushing Upwards, Completes 50th Flight](https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T165300">2023-04-15 16:53:00 UTC</a></sub>
-* [TrustPoint launches PNT cubesat](https://spacenews.com/trustpoint-launches-pnt-cubesat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T154456">2023-04-15 15:44:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T163813">2023-04-17 16:38:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T170658">2023-04-17 17:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
