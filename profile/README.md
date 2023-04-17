@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Keeping watch on aggressor satellites a key challenge for U.S. Space Force](https://spacenews.com/keeping-watch-on-aggressor-satellites-a-key-challenge-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T193121">2023-04-17 19:31:21 UTC</a></sub>
+* [Lockheed Martin declares success demonstrating tech for in-orbit satellite servicing](https://spacenews.com/lockheed-martin-declares-success-demonstrating-tech-for-in-orbit-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T191915">2023-04-17 19:19:15 UTC</a></sub>
 * [NASA Sets Coverage of Spacewalk, News Conference for Station Upgrades](http://www.nasa.gov/press-release/nasa-sets-coverage-of-spacewalk-news-conference-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T161500">2023-04-17 16:15:00 UTC</a></sub>
-* [Crunchtime ahead for Victus Nox](https://spacenews.com/crunchtime-ahead-for-victus-nox/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 * [Options for achieving Tactically Responsive Space](https://spacenews.com/options-for-achieving-tactically-responsive-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
+* [Crunchtime ahead for Victus Nox](https://spacenews.com/crunchtime-ahead-for-victus-nox/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T150000">2023-04-17 15:00:00 UTC</a></sub>
 * [SpaceX scrubs first Starship launch attempt](https://spacenews.com/spacex-scrubs-first-starship-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T134021">2023-04-17 13:40:21 UTC</a></sub>
 * [On National Security | Satellite imaging industry responds to demand for intelligence fusion](https://spacenews.com/on-national-security-satellite-imaging-industry-responds-to-demand-for-intelligence-fusion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a></sub>
 * [SpaceX scrubs first launch attempt of its Starship launch system [Updated]](https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T111510">2023-04-17 11:15:10 UTC</a></sub>
 * [Orbit Fab raises $28.5 million](https://spacenews.com/orbit-fab-raises-28-5-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T110505">2023-04-17 11:05:05 UTC</a></sub>
 * [How to rapidly produce high-volume satellite structures](https://spacenews.com/how-to-rapidly-produce-high-volume-satellite-structures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T023000">2023-04-17 02:30:00 UTC</a></sub>
-* [Starship gets close, but scrubs for maiden launch attempt](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T003331">2023-04-17 00:33:31 UTC</a></sub>
-* [Ingenuity Keeps Pushing Upwards, Completes 50th Flight](https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T165300">2023-04-15 16:53:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T190512">2023-04-17 19:05:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T193647">2023-04-17 19:36:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
