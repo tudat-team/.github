@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA releases architecture for human exploration of the moon and Mars](https://spacenews.com/nasa-releases-architecture-for-human-exploration-of-the-moon-and-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T181310">2023-04-18 18:13:10 UTC</a></sub>
 * [Maxar secures Dish Network order in its first satellite contract of 2023](https://spacenews.com/maxar-secures-dish-network-order-in-its-first-satellite-contract-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T175739">2023-04-18 17:57:39 UTC</a></sub>
 * [Sierra Space and ILC Dover partner on inflatable modules and spacesuits](https://spacenews.com/sierra-space-and-ilc-dover-partner-on-inflatable-modules-and-spacesuits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T171640">2023-04-18 17:16:40 UTC</a></sub>
 * [U.S. SPACECOM tries to satisfy global military demand for satellite services ](https://spacenews.com/u-s-spacecom-tries-to-satisfy-global-military-demand-for-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T165855">2023-04-18 16:58:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150243">2023-04-18 15:02:43 UTC</a></sub>
 * [Axiom announces new government human spaceflight program](https://spacenews.com/axiom-announces-new-government-human-spaceflight-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T145606">2023-04-18 14:56:06 UTC</a></sub>
 * [Inmarsat working to restore L-band services in Asia Pacific after satellite outage](https://spacenews.com/inmarsat-working-to-restore-l-band-services-in-asia-pacific-after-satellite-outage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T144614">2023-04-18 14:46:14 UTC</a></sub>
-* [Northrop Grumman clears design hurdle for military communications satellite](https://spacenews.com/northrop-grumman-clears-design-hurdle-for-military-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T133000">2023-04-18 13:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T183304">2023-04-18 18:33:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T190619">2023-04-18 19:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
