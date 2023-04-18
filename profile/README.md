@@ -113,8 +113,8 @@ conda install -c tudat-team <package>
     <td>
 <details>
 <summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=main">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=main"/>
 </a>
 </summary>
 <table>
@@ -122,29 +122,29 @@ conda install -c tudat-team <package>
 <tbody><tr>
 <td>linux_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_arm64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=4&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-resources-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
 </a>
 </td>
 </tr>
@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Selects 10 Scientists for International Mission to Martian Moons](https://mars.nasa.gov/news/9384/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T160500">2023-04-18 16:05:00 UTC</a></sub>
 * [NASA Sets Coverage for Northrop Grumman Cygnus Departure from Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-northrop-grumman-cygnus-departure-from-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150500">2023-04-18 15:05:00 UTC</a></sub>
 * [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150243">2023-04-18 15:02:43 UTC</a></sub>
 * [Axiom announces new government human spaceflight program](https://spacenews.com/axiom-announces-new-government-human-spaceflight-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T145606">2023-04-18 14:56:06 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [AWS chooses 14 startups for its third space accelerator program](https://spacenews.com/aws-chooses-14-startups-for-its-third-space-accelerator-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T090000">2023-04-18 09:00:00 UTC</a></sub>
 * [Export control update on the way](https://spacenews.com/export-control-update-on-the-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T041622">2023-04-18 04:16:22 UTC</a></sub>
 * [Speed and safety are top priorities for regulators](https://spacenews.com/speed-and-safety-are-top-priorities-for-regulators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T221018">2023-04-17 22:10:18 UTC</a></sub>
-* [Lamborn urges military leaders to be less secretive on space issues](https://spacenews.com/lamborn-urges-military-leaders-to-be-less-secretive-on-space-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T220112">2023-04-17 22:01:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T153333">2023-04-18 15:33:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T160827">2023-04-18 16:08:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
