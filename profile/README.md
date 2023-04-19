@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Air Force Secretary to seek new congressional authorities to speed up acquisitions](https://spacenews.com/air-force-secretary-to-seek-new-congressional-authorities-to-speed-up-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T184317">2023-04-19 18:43:17 UTC</a></sub>
+* [Leidos working with NASCAR on Artemis lunar rover](https://spacenews.com/leidos-working-with-nascar-on-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T180846">2023-04-19 18:08:46 UTC</a></sub>
 * [Ukraine’s lessons for military space](https://spacenews.com/ukraines-lessons-for-military-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T155406">2023-04-19 15:54:06 UTC</a></sub>
 * [Aerospace CEO: More startups seek DoD work amid cash crunch](https://spacenews.com/aerospace-ceo-more-startups-seek-dod-work-amid-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T145359">2023-04-19 14:53:59 UTC</a></sub>
 * [From Galileo to the Lunar Gateway: Mapping Italy’s Growing Space Industry](https://spacenews.com/from-galileo-to-the-lunar-gateway-mapping-italys-growing-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T121900">2023-04-19 12:19:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force in wait-and-see mode as ULA continues to investigate upper-stage anomaly](https://spacenews.com/space-force-in-wait-and-see-mode-as-ula-continues-to-investigate-upper-stage-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T023741">2023-04-19 02:37:41 UTC</a></sub>
 * [NRO seeks innovative electro-optics](https://spacenews.com/nro-seeks-innovative-electro-optics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T014050">2023-04-19 01:40:50 UTC</a></sub>
 * [SpaceX Launches Upgraded Starlink Satellites After Issues with First Batch](https://www.nasaspaceflight.com/2023/04/starlink-6-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T225710">2023-04-18 22:57:10 UTC</a></sub>
-* [Lower space company price tags pave the way to more acquisitions](https://spacenews.com/lower-space-company-price-tags-pave-the-way-to-more-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T213511">2023-04-18 21:35:11 UTC</a></sub>
-* [NASA Awards Omnibus Multidiscipline Engineering Services III Contract](http://www.nasa.gov/press-release/nasa-awards-omnibus-multidiscipline-engineering-services-iii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T201400">2023-04-18 20:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T183251">2023-04-19 18:32:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T190601">2023-04-19 19:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
