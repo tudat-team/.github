@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Meet the Solar System's five official dwarf planets](https://www.planetary.org/articles/meet-the-dwarf-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T140509">2023-04-19 14:05:09 UTC</a></sub>
 * [Want more space? Speak up!](https://www.planetary.org/the-downlink/want-more-space-speak-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T143517">2023-04-14 14:35:17 UTC</a></sub>
 * [Juice launches on mission to explore Jupiter's icy moons](https://www.planetary.org/articles/juice-launches-icy-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T134503">2023-04-14 13:45:03 UTC</a></sub>
 * [Digital Day of Action 2023](https://www.planetary.org/advocacy/digital-day-of-action-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T171507">2023-04-11 17:15:07 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Juice launch and mission preview: What to expect](https://www.planetary.org/articles/juice-launch-mission-preview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143529">2023-04-06 14:35:29 UTC</a></sub>
 * [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
 * [Why we need VERITAS](https://www.planetary.org/articles/why-we-need-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142618">2023-04-05 14:26:18 UTC</a></sub>
-* [Unusual Uranus! Moist Moon! Volcanic Venus!](https://www.planetary.org/the-downlink/unusual-uranus-moist-moon-volcanic-venus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T143406">2023-03-31 14:34:06 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T133229">2023-04-19 13:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T140716">2023-04-19 14:07:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
