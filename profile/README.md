@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ukraine’s lessons for military space](https://spacenews.com/ukraines-lessons-for-military-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T155406">2023-04-19 15:54:06 UTC</a></sub>
 * [Aerospace CEO: More startups seek DoD work amid cash crunch](https://spacenews.com/aerospace-ceo-more-startups-seek-dod-work-amid-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T145359">2023-04-19 14:53:59 UTC</a></sub>
 * [NASA warns of near-term cost growth on Mars Sample Return](https://spacenews.com/nasa-warns-of-near-term-cost-growth-on-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T114040">2023-04-19 11:40:40 UTC</a></sub>
 * [Space Forge reveals plans for U.S. manufacturing](https://spacenews.com/space-forge-reveals-plans-for-u-s-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T110000">2023-04-19 11:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Lower space company price tags pave the way to more acquisitions](https://spacenews.com/lower-space-company-price-tags-pave-the-way-to-more-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T213511">2023-04-18 21:35:11 UTC</a></sub>
 * [NASA Awards Omnibus Multidiscipline Engineering Services III Contract](http://www.nasa.gov/press-release/nasa-awards-omnibus-multidiscipline-engineering-services-iii-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T201400">2023-04-18 20:14:00 UTC</a></sub>
 * [NASA releases architecture for human exploration of the moon and Mars](https://spacenews.com/nasa-releases-architecture-for-human-exploration-of-the-moon-and-mars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T181310">2023-04-18 18:13:10 UTC</a></sub>
-* [Maxar secures Dish Network order in its first satellite contract of 2023](https://spacenews.com/maxar-secures-dish-network-order-in-its-first-satellite-contract-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T175739">2023-04-18 17:57:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T153228">2023-04-19 15:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T160933">2023-04-19 16:09:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
