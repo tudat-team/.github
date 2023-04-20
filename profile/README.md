@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! SpaceX Starship Experiences Anomaly In Flight](https://tlpnetwork.com/news/2023/04/starship-ift-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T215500">2023-04-20 21:55:00 UTC</a></sub>
 * [So what was that? Was Starship’s launch a failure or a success?](https://arstechnica.com/science/2023/04/so-what-was-that-was-starships-launch-a-failure-or-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T173302">2023-04-20 17:33:02 UTC</a></sub>
 * [Investing in Space special report: Starship succeeds, in spite of failure](https://www.cnbc.com/2023/04/20/investing-in-space-spacex-starship-succeeds-in-spite-of-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T161420">2023-04-20 16:14:20 UTC</a></sub>
 * [Our pledge to diversify the space industry workforce continues | Open Letter](https://spacenews.com/our-pledge-to-diversify-the-space-industry-workforce-continues-open-letter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150458">2023-04-20 15:04:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX prepares for another Starship test flight attempt](https://www.teslarati.com/spacex-prepares-2nd-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T103505">2023-04-20 10:35:05 UTC</a></sub>
 * [SpaceX launches its massive Starship rocket for the first time [Updated]](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100134">2023-04-20 10:01:34 UTC</a></sub>
 * [With a new medium rocket, Firefly plans to compete for national security launches](https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T025131">2023-04-20 02:51:31 UTC</a></sub>
-* [Starship conducts maiden launch – clears launch site and first stage flight](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T003331">2023-04-20 00:33:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T213214">2023-04-20 21:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T220645">2023-04-20 22:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
