@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to make a second attempt to launch its massive Starship rocket](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100134">2023-04-20 10:01:34 UTC</a></sub>
 * [With a new medium rocket, Firefly plans to compete for national security launches](https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T025131">2023-04-20 02:51:31 UTC</a></sub>
 * [Starship set for maiden launch attempt Thursday](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T003331">2023-04-20 00:33:31 UTC</a></sub>
 * [NASA Creates In-Space Servicing, Assembly, Manufacturing Consortium](http://www.nasa.gov/press-release/nasa-creates-in-space-servicing-assembly-manufacturing-consortium) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T211500">2023-04-19 21:15:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Air Force Secretary to seek new congressional authorities to speed up acquisitions](https://spacenews.com/air-force-secretary-to-seek-new-congressional-authorities-to-speed-up-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T184317">2023-04-19 18:43:17 UTC</a></sub>
 * [Leidos working with NASCAR on Artemis lunar rover](https://spacenews.com/leidos-working-with-nascar-on-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T180846">2023-04-19 18:08:46 UTC</a></sub>
 * [Ukraine’s lessons for military space](https://spacenews.com/ukraines-lessons-for-military-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T155406">2023-04-19 15:54:06 UTC</a></sub>
-* [Aerospace CEO: More startups seek DoD work amid cash crunch](https://spacenews.com/aerospace-ceo-more-startups-seek-dod-work-amid-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T145359">2023-04-19 14:53:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T093225">2023-04-20 09:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100801">2023-04-20 10:08:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
