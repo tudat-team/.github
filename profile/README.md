@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Starship completes first successful test flight](https://www.teslarati.com/spacex-starship-completes-first-successful-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T143527">2023-04-20 14:35:27 UTC</a></sub>
 * [Starship lifts off on first integrated test flight, breaks apart minutes later](https://spacenews.com/starship-lifts-off-on-first-integrated-test-flight-breaks-apart-minutes-later/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T140131">2023-04-20 14:01:31 UTC</a></sub>
 * [NASA starts consortium for ISAM technologies](https://spacenews.com/nasa-starts-consortium-for-isam-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T120600">2023-04-20 12:06:00 UTC</a></sub>
 * [SpaceX prepares for another Starship test flight attempt](https://www.teslarati.com/spacex-prepares-2nd-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T103505">2023-04-20 10:35:05 UTC</a></sub>
-* [SpaceX to make a second attempt to launch its massive Starship rocket](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100134">2023-04-20 10:01:34 UTC</a></sub>
+* [SpaceX launches its massive Starship rocket for the first time [Updated]](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100134">2023-04-20 10:01:34 UTC</a></sub>
 * [With a new medium rocket, Firefly plans to compete for national security launches](https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T025131">2023-04-20 02:51:31 UTC</a></sub>
 * [Starship set for maiden launch attempt Thursday](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T003331">2023-04-20 00:33:31 UTC</a></sub>
 * [NASA Creates In-Space Servicing, Assembly, Manufacturing Consortium](http://www.nasa.gov/press-release/nasa-creates-in-space-servicing-assembly-manufacturing-consortium) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T211500">2023-04-19 21:15:00 UTC</a></sub>
 * [Space investors see a return in industry growth capital](https://spacenews.com/space-investors-see-a-return-in-industry-growth-capital/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T210507">2023-04-19 21:05:07 UTC</a></sub>
 * [Rocket Lab to refly Electron engine](https://spacenews.com/rocket-lab-to-refly-electron-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T193553">2023-04-19 19:35:53 UTC</a></sub>
-* [Space Force chief: ‘We must pivot’ to new ways of doing business](https://spacenews.com/space-force-chief-we-must-pivot-to-new-ways-of-doing-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T192039">2023-04-19 19:20:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [2023 Digital Day of Action recap](https://www.planetary.org/articles/2023-digital-day-of-action-recap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150506">2023-04-20 15:05:06 UTC</a></sub>
 * [What does “Mercury in retrograde” actually mean?](https://www.planetary.org/articles/what-does-mercury-in-retrograde-actually-mean) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T173507">2023-04-19 17:35:07 UTC</a></sub>
 * [Meet the Solar System's five official dwarf planets](https://www.planetary.org/articles/meet-the-dwarf-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T140509">2023-04-19 14:05:09 UTC</a></sub>
 * [Want more space? Speak up!](https://www.planetary.org/the-downlink/want-more-space-speak-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T143517">2023-04-14 14:35:17 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ICPS-2: ULA begins readying upper stage for Artemis II launch](https://blog.ulalaunch.com/blog/icps-2-ula-begins-readying-upper-stage-for-artemis-ii-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T132515">2023-04-10 13:25:15 UTC</a></sub>
 * [A mission to pull back the shroud](https://www.planetary.org/the-downlink/a-mission-to-pull-back-the-shroud) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T143504">2023-04-07 14:35:04 UTC</a></sub>
 * [Juice launch and mission preview: What to expect](https://www.planetary.org/articles/juice-launch-mission-preview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T143529">2023-04-06 14:35:29 UTC</a></sub>
-* [The Planetary Society, American Geophysical Union, and Prominent Academic Institutions Call on Congress to Save VERITAS Mission to Venus](https://www.planetary.org/articles/joint-letter-supporting-veritas) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T142619">2023-04-05 14:26:19 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T143220">2023-04-20 14:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150748">2023-04-20 15:07:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
