@@ -159,8 +159,8 @@ conda install -c tudat-team <package>
     <td>
 <details>
 <summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main"/>
 </a>
 </summary>
 <table>
@@ -168,29 +168,29 @@ conda install -c tudat-team <package>
 <tbody><tr>
 <td>linux_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
 </a>
 </td>
 </tr><tr>
 <td>osx_arm64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
 </a>
 </td>
 </tr><tr>
 <td>win_64</td>
 <td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
 </a>
 </td>
 </tr>
@@ -198,7 +198,7 @@ conda install -c tudat-team <package>
 </table>
 </details>
 </td>
-    <td><code>2.12.0</code></td>
+    <td><code>2.12.1</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/master" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
@@ -445,7 +445,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.12.0.dev16</code></td>
+    <td><code>2.12.1.dev0</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX prepares for another Starship test flight attempt](https://www.teslarati.com/spacex-prepares-2nd-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T103505">2023-04-20 10:35:05 UTC</a></sub>
 * [SpaceX to make a second attempt to launch its massive Starship rocket](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T100134">2023-04-20 10:01:34 UTC</a></sub>
 * [With a new medium rocket, Firefly plans to compete for national security launches](https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T025131">2023-04-20 02:51:31 UTC</a></sub>
 * [Starship set for maiden launch attempt Thursday](https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T003331">2023-04-20 00:33:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force chief: ‘We must pivot’ to new ways of doing business](https://spacenews.com/space-force-chief-we-must-pivot-to-new-ways-of-doing-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T192039">2023-04-19 19:20:39 UTC</a></sub>
 * [Air Force Secretary to seek new congressional authorities to speed up acquisitions](https://spacenews.com/air-force-secretary-to-seek-new-congressional-authorities-to-speed-up-acquisitions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T184317">2023-04-19 18:43:17 UTC</a></sub>
 * [Leidos working with NASCAR on Artemis lunar rover](https://spacenews.com/leidos-working-with-nascar-on-artemis-lunar-rover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T180846">2023-04-19 18:08:46 UTC</a></sub>
-* [Ukraine’s lessons for military space](https://spacenews.com/ukraines-lessons-for-military-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T155406">2023-04-19 15:54:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T103244">2023-04-20 10:32:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T110619">2023-04-20 11:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
