@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Nelson supports continuing restrictions on NASA cooperation with China](https://spacenews.com/nelson-supports-continuing-restrictions-on-nasa-cooperation-with-china/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T122019">2023-04-21 12:20:19 UTC</a></sub>
 * [Rocket Report: Starship RUDs on the way to space; Rocket Lab to reuse engine](https://arstechnica.com/science/2023/04/rocket-report-starship-ruds-on-the-way-to-space-rocket-lab-to-reuse-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T103000">2023-04-21 10:30:00 UTC</a></sub>
 * [FCC adopts revised NGSO spectrum-sharing rules](https://spacenews.com/fcc-adopts-revised-ngso-spectrum-sharing-rules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T015738">2023-04-21 01:57:38 UTC</a></sub>
 * [U.S. Space Command announces new cooperation agreements with allies](https://spacenews.com/u-s-space-command-announces-new-cooperation-agreements-with-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T004635">2023-04-21 00:46:35 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space special report: Starship succeeds, in spite of failure](https://www.cnbc.com/2023/04/20/investing-in-space-spacex-starship-succeeds-in-spite-of-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T161420">2023-04-20 16:14:20 UTC</a></sub>
 * [Our pledge to diversify the space industry workforce continues | Open Letter](https://spacenews.com/our-pledge-to-diversify-the-space-industry-workforce-continues-open-letter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150458">2023-04-20 15:04:58 UTC</a></sub>
 * [SpaceX Starship completes first successful test flight](https://www.teslarati.com/spacex-starship-completes-first-successful-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T143527">2023-04-20 14:35:27 UTC</a></sub>
-* [Starship lifts off on first integrated test flight, breaks apart minutes later](https://spacenews.com/starship-lifts-off-on-first-integrated-test-flight-breaks-apart-minutes-later/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T140131">2023-04-20 14:01:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T121318">2023-04-21 12:13:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T124755">2023-04-21 12:47:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
