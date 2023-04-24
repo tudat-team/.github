@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ursa Major to supply upper-stage engine for Astra’s new rocket](https://spacenews.com/ursa-major-to-supply-upper-stage-engine-for-astras-new-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T214316">2023-04-24 21:43:16 UTC</a></sub>
 * [Report: Space Force could benefit from commercial data to monitor satellites and debris](https://spacenews.com/report-space-force-could-benefit-from-commercial-data-to-monitor-satellites-and-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T203914">2023-04-24 20:39:14 UTC</a></sub>
 * [SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week](https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T201004">2023-04-24 20:10:04 UTC</a></sub>
 * [KMI advertises prices for debris removal](https://spacenews.com/kmi-advertises-prices-for-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195642">2023-04-24 19:56:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Inmarsat Q&A | Mobile satellite services coming back stronger than a ‘90s trend](https://spacenews.com/inmarsat-qa-mobile-satellite-services-coming-back-stronger-than-a-90s-trend/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T160619">2023-04-24 16:06:19 UTC</a></sub>
 * [A Japanese company is about to attempt a Moon landing](https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T150427">2023-04-24 15:04:27 UTC</a></sub>
 * [Maxar eyes summer launch of WorldView Legion imaging satellites ](https://spacenews.com/maxar-eyes-summer-launch-of-worldview-legion-imaging-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T133053">2023-04-24 13:30:53 UTC</a></sub>
-* [Virgin Orbit completes LauncherOne investigation as Chapter 11 bankruptcy continues](https://spacenews.com/virgin-orbit-completes-launcherone-investigation-as-chapter-11-bankruptcy-continues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T013418">2023-04-24 01:34:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T213216">2023-04-24 21:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T220700">2023-04-24 22:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
