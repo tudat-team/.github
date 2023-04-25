@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Selects 12 Companies to Collaborate on Key Technology Development](http://www.nasa.gov/press-release/nasa-selects-12-companies-to-collaborate-on-key-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T185000">2023-04-25 18:50:00 UTC</a></sub>
+* [Ursa Major Engine To Be Used On Astra Rocket 4](https://tlpnetwork.com/news/2023/04/ursa-major-astra-rocket-4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T182300">2023-04-25 18:23:00 UTC</a></sub>
 * [First ispace lunar lander feared lost](https://spacenews.com/first-ispace-lunar-lander-feared-lost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173706">2023-04-25 17:37:06 UTC</a></sub>
 * [NASA Retires Mineral Mapping Instrument on Mars Orbiter](https://mars.nasa.gov/news/9390/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173000">2023-04-25 17:30:00 UTC</a></sub>
 * [Japanese lander appears to fail just before touchdown on the Moon [Updated]](https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T171027">2023-04-25 17:10:27 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Connecting the Dots | SES-Intelsat merger would face uphill regulatory struggle](https://spacenews.com/connecting-the-dots-ses-intelsat-merger-would-face-uphill-regulatory-struggle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T144200">2023-04-25 14:42:00 UTC</a></sub>
 * [Hydrosat collects $20 million in investment and grants](https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T120000">2023-04-25 12:00:00 UTC</a></sub>
 * [Quantum Space moves up development of Ranger transfer vehicle](https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113020">2023-04-25 11:30:20 UTC</a></sub>
-* [SpaceX delays latest Starlink Group 3 deployment launch](https://www.nasaspaceflight.com/2023/04/starlink-3-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T111838">2023-04-25 11:18:38 UTC</a></sub>
-* [Falcon Heavy delay affects space station manifest](https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T010003">2023-04-25 01:00:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T183314">2023-04-25 18:33:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T190602">2023-04-25 19:06:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
