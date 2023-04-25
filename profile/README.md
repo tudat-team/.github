@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hydrosat collects $20 million in investment and grants](https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T120000">2023-04-25 12:00:00 UTC</a></sub>
 * [Quantum Space moves up development of Ranger transfer vehicle](https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113020">2023-04-25 11:30:20 UTC</a></sub>
 * [SpaceX resumes Starlink Group 3 deployment](https://www.nasaspaceflight.com/2023/04/starlink-3-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T111838">2023-04-25 11:18:38 UTC</a></sub>
 * [Falcon Heavy delay affects space station manifest](https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T010003">2023-04-25 01:00:03 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Report: Space Force could benefit from commercial data to monitor satellites and debris](https://spacenews.com/report-space-force-could-benefit-from-commercial-data-to-monitor-satellites-and-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T203914">2023-04-24 20:39:14 UTC</a></sub>
 * [SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week](https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T201004">2023-04-24 20:10:04 UTC</a></sub>
 * [KMI advertises prices for debris removal](https://spacenews.com/kmi-advertises-prices-for-debris-removal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195642">2023-04-24 19:56:42 UTC</a></sub>
-* [NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T195000">2023-04-24 19:50:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T121330">2023-04-25 12:13:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T124845">2023-04-25 12:48:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
