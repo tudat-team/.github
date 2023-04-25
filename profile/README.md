@@ -570,7 +570,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [Hydrosat collects $20 million in investment and grants](https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T120000">2023-04-25 12:00:00 UTC</a></sub>
 * [Quantum Space moves up development of Ranger transfer vehicle](https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113020">2023-04-25 11:30:20 UTC</a></sub>
-* [SpaceX resumes Starlink Group 3 deployment](https://www.nasaspaceflight.com/2023/04/starlink-3-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T111838">2023-04-25 11:18:38 UTC</a></sub>
+* [SpaceX delays latest Starlink Group 3 deployment launch](https://www.nasaspaceflight.com/2023/04/starlink-3-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T111838">2023-04-25 11:18:38 UTC</a></sub>
 * [Falcon Heavy delay affects space station manifest](https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T010003">2023-04-25 01:00:03 UTC</a></sub>
 * [SpaceX Receives Permission To Lease Historic SLC-6 At Vandenberg Space Force Base](https://tlpnetwork.com/news/2023/04/spacex-receives-permission-to-lease-slc-6-at-vandenberg-space-force-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T002700">2023-04-25 00:27:00 UTC</a></sub>
 * [NASA InSight Study Provides Clearest Look Ever at Martian Core](https://mars.nasa.gov/insight/news/nasa-insight-study-provides-clearest-look-ever-at-martian-core) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T225000">2023-04-24 22:50:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T131045">2023-04-25 13:10:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T133224">2023-04-25 13:32:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
