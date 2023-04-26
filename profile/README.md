@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony](http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T200000">2023-04-26 20:00:00 UTC</a></sub>
+* [NASA Updates Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T192000">2023-04-26 19:20:00 UTC</a></sub>
 * [SpaceShipTwo makes first flight in nearly two years](https://spacenews.com/spaceshiptwo-makes-first-flight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T185006">2023-04-26 18:50:06 UTC</a></sub>
 * [Virgin Galactic Completes Glide Test Ahead Of Powered Flight](https://tlpnetwork.com/news/2023/04/vss-unity-24) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T184401">2023-04-26 18:44:01 UTC</a></sub>
 * [NASA Experts Available for Interviews About Sea and Sky Campaign](http://www.nasa.gov/press-release/nasa-experts-available-for-interviews-about-sea-and-sky-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T183000">2023-04-26 18:30:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ViaSat-3 Americas moved to Thursday for expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T150625">2023-04-26 15:06:25 UTC</a></sub>
 * [China to hunt for Earth-like planets with formation-flying telescopes](https://spacenews.com/china-to-hunt-for-earth-like-planets-with-formation-flying-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T135356">2023-04-26 13:53:56 UTC</a></sub>
 * [United States and South Korea agree to enhance space cooperation](https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T121808">2023-04-26 12:18:08 UTC</a></sub>
-* [X-Bow announces $60 million STRATFI agreement](https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T090000">2023-04-26 09:00:00 UTC</a></sub>
-* [Astrobotic purchases Falcon Heavy for third lunar lander mission](https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T020330">2023-04-26 02:03:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T193213">2023-04-26 19:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T200652">2023-04-26 20:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
