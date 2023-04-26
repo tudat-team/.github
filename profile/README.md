@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to hunt for Earth-like planets with formation-flying telescopes](https://spacenews.com/china-to-hunt-for-earth-like-planets-with-formation-flying-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T135356">2023-04-26 13:53:56 UTC</a></sub>
 * [United States and South Korea agree to enhance space cooperation](https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T121808">2023-04-26 12:18:08 UTC</a></sub>
 * [X-Bow announces $60 million STRATFI agreement](https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T090000">2023-04-26 09:00:00 UTC</a></sub>
 * [Astrobotic purchases Falcon Heavy for third lunar lander mission](https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T020330">2023-04-26 02:03:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to take over West Coast launch pad previously used by ULA](https://spacenews.com/spacex-to-take-over-west-coast-launch-pad-previously-used-by-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T195108">2023-04-25 19:51:08 UTC</a></sub>
 * [NASA Selects 12 Companies to Collaborate on Key Technology Development](http://www.nasa.gov/press-release/nasa-selects-12-companies-to-collaborate-on-key-technology-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T185000">2023-04-25 18:50:00 UTC</a></sub>
 * [Ursa Major Engine To Be Used On Astra Rocket 4](https://tlpnetwork.com/news/2023/04/ursa-major-astra-rocket-4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T182300">2023-04-25 18:23:00 UTC</a></sub>
-* [First ispace lunar lander feared lost](https://spacenews.com/first-ispace-lunar-lander-feared-lost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173706">2023-04-25 17:37:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T133230">2023-04-26 13:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T140707">2023-04-26 14:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
