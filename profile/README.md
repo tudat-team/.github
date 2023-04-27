@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’](http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183000">2023-04-27 18:30:00 UTC</a></sub>
 * [Raytheon rethinks strategy to compete in military satellite market](https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174927">2023-04-27 17:49:27 UTC</a></sub>
 * [Albedo wins Air Force contract to supply thermal imagery at night](https://spacenews.com/albedo-wins-air-force-contract-to-supply-thermal-imagery-at-night/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174314">2023-04-27 17:43:14 UTC</a></sub>
 * [Italy’s post-pandemic space industry boost](https://spacenews.com/italys-post-pandemic-space-industry-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T152325">2023-04-27 15:23:25 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX SLC-6 takeover to mark a new chapter for a famous pad](https://www.nasaspaceflight.com/2023/04/spacex-slc-6-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T022744">2023-04-27 02:27:44 UTC</a></sub>
 * [DoD weighing options to create ‘commercial space reserve’](https://spacenews.com/dod-weighing-options-to-create-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T211728">2023-04-26 21:17:28 UTC</a></sub>
 * [NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony](http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T200000">2023-04-26 20:00:00 UTC</a></sub>
-* [NASA Updates Coverage of Roscosmos Spacewalks at Space Station](http://www.nasa.gov/press-release/nasa-updates-coverage-of-roscosmos-spacewalks-at-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T192000">2023-04-26 19:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183242">2023-04-27 18:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T190552">2023-04-27 19:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
