@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China plans full reusability for its super heavy Long March 9 rocket](https://spacenews.com/china-plans-full-reusability-for-its-super-heavy-long-march-9-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T112707">2023-04-27 11:27:07 UTC</a></sub>
 * [Fish and Wildlife Service documents damage from Starship launch](https://spacenews.com/fish-and-wildlife-service-documents-damage-from-starship-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T025328">2023-04-27 02:53:28 UTC</a></sub>
 * [SpaceX SLC-6 takeover to mark a new chapter for a famous pad](https://www.nasaspaceflight.com/2023/04/spacex-slc-6-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T022744">2023-04-27 02:27:44 UTC</a></sub>
 * [DoD weighing options to create ‘commercial space reserve’](https://spacenews.com/dod-weighing-options-to-create-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T211728">2023-04-26 21:17:28 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic Completes Glide Test Ahead Of Powered Flight](https://tlpnetwork.com/news/2023/04/vss-unity-24) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T184401">2023-04-26 18:44:01 UTC</a></sub>
 * [NASA Experts Available for Interviews About Sea and Sky Campaign](http://www.nasa.gov/press-release/nasa-experts-available-for-interviews-about-sea-and-sky-campaign) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T183000">2023-04-26 18:30:00 UTC</a></sub>
 * [After nearly two years, Virgin Galactic’s space plane returns to the sky](https://arstechnica.com/science/2023/04/after-nearly-two-years-virgin-galactics-space-plane-returns-to-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T174650">2023-04-26 17:46:50 UTC</a></sub>
-* [NASA Announces Winners of 2023 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-announces-winners-of-2023-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T151000">2023-04-26 15:10:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T113217">2023-04-27 11:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T121317">2023-04-27 12:13:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
