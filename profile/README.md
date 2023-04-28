@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch O3b mPOWER 3 & 4 mission from Florida](https://www.nasaspaceflight.com/2023/04/o3b-mpower-3-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T171049">2023-04-28 17:10:49 UTC</a></sub>
 * [Europe’s major new interplanetary spacecraft has a slight problem](https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143641">2023-04-28 14:36:41 UTC</a></sub>
 * [Rocket Report: Feds assess Starship fallout; Sweden accidentally bombs Norway](https://arstechnica.com/science/2023/04/rocket-report-feds-assess-starship-fallout-sweden-accidentally-bombs-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T111547">2023-04-28 11:15:47 UTC</a></sub>
 * [China to establish organization to coordinate international moon base](https://spacenews.com/china-to-establish-organization-to-coordinate-international-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T075935">2023-04-28 07:59:35 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russia commits to ISS extension to 2028](https://spacenews.com/russia-commits-to-iss-extension-to-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T234726">2023-04-27 23:47:26 UTC</a></sub>
 * [Chinese state-owned academy makes rocket engines available to commercial space firms](https://spacenews.com/chinese-state-owned-academy-makes-rocket-engines-available-to-commercial-space-firms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T210127">2023-04-27 21:01:27 UTC</a></sub>
 * [Spain’s Satlantis expands into thermal imagery with UK investment](https://spacenews.com/spains-satlantis-expands-into-thermal-imagery-with-uk-investment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T203959">2023-04-27 20:39:59 UTC</a></sub>
-* [Light Steering Technologies claims $1.25 million Air Force contract](https://spacenews.com/light-steering-technologies-claims-1-25-million-air-force-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T200000">2023-04-27 20:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T173219">2023-04-28 17:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T180855">2023-04-28 18:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
