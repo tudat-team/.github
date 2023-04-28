@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Nelson expects SpaceX to be ready for next Starship launch within months](https://spacenews.com/nelson-expects-spacex-to-be-ready-for-next-starship-launch-within-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T031639">2023-04-28 03:16:39 UTC</a></sub>
 * [How Chang Zheng 9 arrived at the “Starship-like” design](https://www.nasaspaceflight.com/2023/04/cz-9-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T000157">2023-04-28 00:01:57 UTC</a></sub>
 * [Russia commits to ISS extension to 2028](https://spacenews.com/russia-commits-to-iss-extension-to-2028/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T234726">2023-04-27 23:47:26 UTC</a></sub>
 * [Chinese state-owned academy makes rocket engines available to commercial space firms](https://spacenews.com/chinese-state-owned-academy-makes-rocket-engines-available-to-commercial-space-firms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T210127">2023-04-27 21:01:27 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Raytheon rethinks strategy to compete in military satellite market](https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174927">2023-04-27 17:49:27 UTC</a></sub>
 * [Albedo wins Air Force contract to supply thermal imagery at night](https://spacenews.com/albedo-wins-air-force-contract-to-supply-thermal-imagery-at-night/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174314">2023-04-27 17:43:14 UTC</a></sub>
 * [Italy’s post-pandemic space industry boost](https://spacenews.com/italys-post-pandemic-space-industry-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T152325">2023-04-27 15:23:25 UTC</a></sub>
-* [SpaceX completes its 25th Falcon 9 launch of 2023 with latest Starlink deployment](https://www.teslarati.com/spacex-completes-25th-falcon-9-launch-2023-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T151003">2023-04-27 15:10:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T030751">2023-04-28 03:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T033235">2023-04-28 03:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
