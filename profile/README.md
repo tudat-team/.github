@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Europe’s major new interplanetary spacecraft has a slight problem](https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143641">2023-04-28 14:36:41 UTC</a></sub>
 * [Rocket Report: Feds assess Starship fallout; Sweden accidentally bombs Norway](https://arstechnica.com/science/2023/04/rocket-report-feds-assess-starship-fallout-sweden-accidentally-bombs-norway/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T111547">2023-04-28 11:15:47 UTC</a></sub>
 * [China to establish organization to coordinate international moon base](https://spacenews.com/china-to-establish-organization-to-coordinate-international-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T075935">2023-04-28 07:59:35 UTC</a></sub>
 * [Nelson expects SpaceX to be ready for next Starship launch within months](https://spacenews.com/nelson-expects-spacex-to-be-ready-for-next-starship-launch-within-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T031639">2023-04-28 03:16:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spain’s Satlantis expands into thermal imagery with UK investment](https://spacenews.com/spains-satlantis-expands-into-thermal-imagery-with-uk-investment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T203959">2023-04-27 20:39:59 UTC</a></sub>
 * [Light Steering Technologies claims $1.25 million Air Force contract](https://spacenews.com/light-steering-technologies-claims-1-25-million-air-force-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T200000">2023-04-27 20:00:00 UTC</a></sub>
 * [Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’](http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183000">2023-04-27 18:30:00 UTC</a></sub>
-* [Raytheon rethinks strategy to compete in military satellite market](https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T174927">2023-04-27 17:49:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Have a nice flight!](https://www.planetary.org/the-downlink/have-a-nice-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143012">2023-04-28 14:30:12 UTC</a></sub>
 * [The phases of the Moon explained](https://www.planetary.org/articles/the-phases-of-the-moon-explained) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T153006">2023-04-25 15:30:06 UTC</a></sub>
 * [Resilient Space: A Defense in Depth](https://blog.ulalaunch.com/blog/resilient-space-a-defense-in-depth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T145018">2023-04-25 14:50:18 UTC</a></sub>
 * [Rocket flight and the five dwarfs](https://www.planetary.org/the-downlink/rocket-flight-and-the-five-dwarfs) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T143509">2023-04-21 14:35:09 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Meet the Solar System's five official dwarf planets](https://www.planetary.org/articles/meet-the-dwarf-planets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T140509">2023-04-19 14:05:09 UTC</a></sub>
 * [Want more space? Speak up!](https://www.planetary.org/the-downlink/want-more-space-speak-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T143517">2023-04-14 14:35:17 UTC</a></sub>
 * [Juice launches on mission to explore Jupiter's icy moons](https://www.planetary.org/articles/juice-launches-icy-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T134503">2023-04-14 13:45:03 UTC</a></sub>
-* [Digital Day of Action 2023](https://www.planetary.org/advocacy/digital-day-of-action-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T171507">2023-04-11 17:15:07 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143210">2023-04-28 14:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T150719">2023-04-28 15:07:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
