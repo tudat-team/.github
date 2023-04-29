@@ -576,7 +576,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler](https://www.teslarati.com/falcon-heavy-falcon-9-double-header-launch-weather-spoiler/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T191006">2023-04-28 19:10:06 UTC</a></sub>
 * [Spaceport Cornwall expands facilities following Virgin Orbit failure](https://spacenews.com/spaceport-cornwall-expands-facilities-following-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T182440">2023-04-28 18:24:40 UTC</a></sub>
 * [SpaceX launches O3b mPOWER 3 & 4 mission from Florida](https://www.nasaspaceflight.com/2023/04/o3b-mpower-3-4/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T171049">2023-04-28 17:10:49 UTC</a></sub>
-* [ViaSat-3 Americas scrubs Friday ride on expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T150625">2023-04-28 15:06:25 UTC</a></sub>
+* [ViaSat-3 Americas realigns to Sunday for expendable Falcon Heavy launch](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T150625">2023-04-28 15:06:25 UTC</a></sub>
 * [Europe’s major new interplanetary spacecraft has a slight problem](https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143641">2023-04-28 14:36:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T043226">2023-04-29 04:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T050629">2023-04-29 05:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
