@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Elon Musk provides detailed review of Starship’s first launch—and what’s next](https://arstechnica.com/science/2023/05/elon-musk-provides-detailed-review-of-starships-first-launch-and-whats-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T172412">2023-05-01 17:24:12 UTC</a></sub>
+* [Environmentalists sue FAA over SpaceX launch license for Texas](https://www.reuters.com/technology/space/environmentalists-sue-faa-over-spacex-launch-license-texas-2023-05-01/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T171500">2023-05-01 17:15:00 UTC</a></sub>
 * [SpaceX Falcon Heavy successfully brings 3 satellites to orbit after delays](https://www.teslarati.com/spacex-falcon-heavy-launches-after-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T140006">2023-05-01 14:00:06 UTC</a></sub>
 * [ESA troubleshooting JUICE radar antenna](https://spacenews.com/esa-troubleshooting-juice-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T111430">2023-05-01 11:14:30 UTC</a></sub>
 * [SpaceX Falcon Heavy launches first ViaSat-3 satellite](https://spacenews.com/spacex-falcon-heavy-launches-first-viasat-3-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T062011">2023-05-01 06:20:11 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ViaSat-3 Americas launches on expendable Falcon Heavy](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T150625">2023-04-30 15:06:25 UTC</a></sub>
 * [Elon Musk Gives Update on Failed Starship Launch, Expected To Spend $2B This Year](https://tlpnetwork.com/news/2023/04/starship-ift-postlaunch-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T030703">2023-04-30 03:07:03 UTC</a></sub>
 * [Musk predicts next Starship launch in a “couple months”](https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T013733">2023-04-30 01:37:33 UTC</a></sub>
-* [SpaceX to spend about $2 billion on Starship this year, as Elon Musk pushes to reach orbit](https://www.cnbc.com/2023/04/29/elon-musk-spacexs-starship-costing-about-2-billion-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T012430">2023-04-30 01:24:30 UTC</a></sub>
-* [What’s next for SpaceX’s Starship after a dramatic first launch](https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T120001">2023-04-29 12:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T173236">2023-05-01 17:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T180913">2023-05-01 18:09:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
