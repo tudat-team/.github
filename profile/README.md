@@ -447,6 +447,108 @@ conda install -c tudat-team/label/dev <package>
 </td>
     <td><code>2.12.1.dev2</code></td>
   </tr>
+<tr>
+    <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
+    <td>
+<details>
+<summary>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main"/>
+</a>
+</summary>
+<table>
+<thead><tr><th>Variant</th><th>Status</th></tr></thead>
+<tbody><tr>
+<td>linux_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>linux_64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>linux_64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+</td>
+    <td><code>0.7.3.dev1</code></td>
+  </tr>
 
 </table>
 
@@ -466,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA troubleshooting JUICE radar antenna](https://spacenews.com/esa-troubleshooting-juice-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T111430">2023-05-01 11:14:30 UTC</a></sub>
 * [SpaceX Falcon Heavy launches first ViaSat-3 satellite](https://spacenews.com/spacex-falcon-heavy-launches-first-viasat-3-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T062011">2023-05-01 06:20:11 UTC</a></sub>
 * [SpaceX aims to launch Falcon Heavy tonight after multiple delays](https://www.teslarati.com/spacex-falcon-heavy-launch-multiple-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T184001">2023-04-30 18:40:01 UTC</a></sub>
 * [Spaceport Cornwall Opens A New Satellite Center](https://tlpnetwork.com/news/2023/04/cornwall-ssof-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T173814">2023-04-30 17:38:14 UTC</a></sub>
@@ -475,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to spend about $2 billion on Starship this year, as Elon Musk pushes to reach orbit](https://www.cnbc.com/2023/04/29/elon-musk-spacexs-starship-costing-about-2-billion-this-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T012430">2023-04-30 01:24:30 UTC</a></sub>
 * [What’s next for SpaceX’s Starship after a dramatic first launch](https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T120001">2023-04-29 12:00:01 UTC</a></sub>
 * [SpaceX launches second pair of O3b mPower satellites](https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T011940">2023-04-29 01:19:40 UTC</a></sub>
-* [As JUICE struggles with antenna deployment, program manager highlights status of the mission](https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T003750">2023-04-29 00:37:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -508,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T113209">2023-05-01 11:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T121324">2023-05-01 12:13:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
