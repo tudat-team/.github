@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage for Dragon Port Relocation on Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-dragon-port-relocation-on-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T193000">2023-05-01 19:30:00 UTC</a></sub>
 * [Lawmakers raise concerns about new plan to procure national security launch services](https://spacenews.com/lawmakers-raise-concerns-about-new-plan-to-procure-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T183708">2023-05-01 18:37:08 UTC</a></sub>
 * [BREAKING! FAA Sued Over SpaceX Starship Launch License](https://tlpnetwork.com/news/2023/05/faa-sued-over-spacex-starship-launch-license) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T181908">2023-05-01 18:19:08 UTC</a></sub>
 * [Elon Musk provides detailed review of Starship’s first launch—and what’s next](https://arstechnica.com/science/2023/05/elon-musk-provides-detailed-review-of-starships-first-launch-and-whats-next/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T172412">2023-05-01 17:24:12 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Falcon Heavy launches first ViaSat-3 satellite](https://spacenews.com/spacex-falcon-heavy-launches-first-viasat-3-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T062011">2023-05-01 06:20:11 UTC</a></sub>
 * [SpaceX aims to launch Falcon Heavy tonight after multiple delays](https://www.teslarati.com/spacex-falcon-heavy-launch-multiple-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T184001">2023-04-30 18:40:01 UTC</a></sub>
 * [Spaceport Cornwall Opens A New Satellite Center](https://tlpnetwork.com/news/2023/04/cornwall-ssof-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T173814">2023-04-30 17:38:14 UTC</a></sub>
-* [ViaSat-3 Americas launches on expendable Falcon Heavy](https://www.nasaspaceflight.com/2023/04/viasat-3-americas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T150625">2023-04-30 15:06:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T193219">2023-05-01 19:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T200747">2023-05-01 20:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
