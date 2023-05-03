@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX removes 1 TB fair use system for Starlink “Standard” service plan](https://www.teslarati.com/spacex-removes-1tb-fair-use-starlink-standard-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T112324">2023-05-03 11:23:24 UTC</a></sub>
 * [Plutonium availability constrains plans for future planetary missions](https://spacenews.com/plutonium-availability-constrains-plans-for-future-planetary-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T103159">2023-05-03 10:31:59 UTC</a></sub>
 * [TTTech: Secure networking for safety-critical space systems](https://spacenews.com/tttech-secure-networking-for-safety-critical-space-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T052500">2023-05-03 05:25:00 UTC</a></sub>
 * [Artemis 1 cubesat nearing end of mission](https://spacenews.com/artemis-1-cubesat-nearing-end-of-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T001644">2023-05-03 00:16:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [European space giants join forces for IRIS²](https://spacenews.com/european-space-giants-join-forces-for-iris%c2%b2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T205736">2023-05-02 20:57:36 UTC</a></sub>
 * [Artemis II Moon mission transitioning from planning to preparation](https://www.nasaspaceflight.com/2023/05/artemis-ii-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T164744">2023-05-02 16:47:44 UTC</a></sub>
 * [Rocket Lab hitting its stride with high cadence, new venture for Electron](https://arstechnica.com/science/2023/05/rocket-lab-hitting-its-stride-with-high-cadence-new-venture-for-electron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T161818">2023-05-02 16:18:18 UTC</a></sub>
-* [African space agencies have the potential to lead the global space race](https://spacenews.com/african-space-agencies-have-the-potential-to-lead-the-global-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T133055">2023-05-02 13:30:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T113223">2023-05-03 11:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T121400">2023-05-03 12:14:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
