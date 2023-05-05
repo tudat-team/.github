@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Scientists say they have found more moons with oceans in the Solar System](https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T151841">2023-05-05 15:18:41 UTC</a></sub>
 * [DoD spending on commercial space services negligible, despite growing Space Force budget](https://spacenews.com/dod-spending-on-commercial-space-services-negligible-despite-growing-space-force-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T133604">2023-05-05 13:36:04 UTC</a></sub>
 * [Society and Technology: The Space Observing Imperative](https://spacenews.com/society-and-technology-the-space-observing-imperative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T125127">2023-05-05 12:51:27 UTC</a></sub>
 * [BlackSky seeks to extend operations of satellites running on empty](https://spacenews.com/blacksky-seeks-to-extend-operations-of-satellites-running-on-empty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T115508">2023-05-05 11:55:08 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Debate rages about future of New Horizons](https://spacenews.com/debate-rages-about-future-of-new-horizons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T203253">2023-05-04 20:32:53 UTC</a></sub>
 * [Lockheed Martin announces reorganization of its space business](https://spacenews.com/lockheed-martin-announces-reorganization-of-its-space-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T201726">2023-05-04 20:17:26 UTC</a></sub>
 * [Investing in Space: Viasat launch adds power and flexibility in satellite broadband competition](https://www.cnbc.com/2023/05/04/investing-in-space-viasat-3-power-flexibility-in-satellite-broadband.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T164255">2023-05-04 16:42:55 UTC</a></sub>
-* [Swedish Space Corporation CEO Retires, Replacement Appointed](https://tlpnetwork.com/news/2023/05/ssc-ceo-retires) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T135914">2023-05-04 13:59:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T153221">2023-05-05 15:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T160903">2023-05-05 16:09:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
