@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SAIC signs another commercial partner for its small satellite business](https://spacenews.com/saic-signs-another-commercial-partner-for-its-small-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T232212">2023-05-05 23:22:12 UTC</a></sub>
+* [US, Russian EVAs install upgrades and make history aboard ISS](https://www.nasaspaceflight.com/2023/05/evas-may-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T231848">2023-05-05 23:18:48 UTC</a></sub>
 * [NASA Invites Media to Next SpaceX Resupply Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-next-spacex-resupply-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T215300">2023-05-05 21:53:00 UTC</a></sub>
 * [NASA, Rocket Lab Update Launch Coverage for Tropical Cyclones Mission](http://www.nasa.gov/press-release/nasa-rocket-lab-update-launch-coverage-for-tropical-cyclones-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T211300">2023-05-05 21:13:00 UTC</a></sub>
 * [Scientists say they have found more moons with oceans in the Solar System](https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T151841">2023-05-05 15:18:41 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [BlackSky seeks to extend operations of satellites running on empty](https://spacenews.com/blacksky-seeks-to-extend-operations-of-satellites-running-on-empty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T115508">2023-05-05 11:55:08 UTC</a></sub>
 * [Rocket Report: China selling reusable engines; can SpaceX still raise money?](https://arstechnica.com/science/2023/05/rocket-report-china-selling-reusable-engines-can-spacex-still-raise-money/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T110040">2023-05-05 11:00:40 UTC</a></sub>
 * [Orbex Breaks Ground On UK Mainland's First Vertical Launch Facility](https://tlpnetwork.com/news/2023/05/spaceport-sutherland-ground-breaking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T232222">2023-05-04 23:22:22 UTC</a></sub>
-* [Boeing preparing to ship milestone O3b mPower satellites for launch](https://spacenews.com/boeing-preparing-to-ship-milestone-o3b-mpower-satellites-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T220810">2023-05-04 22:08:10 UTC</a></sub>
-* [Debate rages about future of New Horizons](https://spacenews.com/debate-rages-about-future-of-new-horizons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T203253">2023-05-04 20:32:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T233223">2023-05-05 23:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T003532">2023-05-06 00:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
