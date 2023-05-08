@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Rocket Lab Launch First Pair of Storm Observing CubeSats](http://www.nasa.gov/press-release/nasa-rocket-lab-launch-first-pair-of-storm-observing-cubesats) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T150300">2023-05-08 15:03:00 UTC</a></sub>
+* [Former head of Roscosmos now thinks NASA did not land on the Moon](https://arstechnica.com/science/2023/05/former-head-of-roscosmos-now-thinks-nasa-did-not-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T142719">2023-05-08 14:27:19 UTC</a></sub>
 * [Maxar pursuing defense deals for its new line of small satellites](https://spacenews.com/maxar-pursuing-defense-deals-for-its-new-line-of-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T140131">2023-05-08 14:01:31 UTC</a></sub>
 * [Sizing up the 2023 GEO manufacturing battleground](https://spacenews.com/sizing-up-the-2023-geo-manufacturing-battleground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T134826">2023-05-08 13:48:26 UTC</a></sub>
 * [Momentus tug raises orbit with water-fueled thruster](https://spacenews.com/momentus-tug-raises-orbit-with-water-fueled-thruster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T113007">2023-05-08 11:30:07 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab launches NASA TROPICS cubesats](https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T024320">2023-05-08 02:43:20 UTC</a></sub>
 * [Rocket Lab launches NASA’s TROPICS satellites from New Zealand](https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230507T201156">2023-05-07 20:11:56 UTC</a></sub>
 * [NASA Inducts Roy Bridges & Mark Kelly Into Astronaut Hall of Fame](https://tlpnetwork.com/news/2023/05/nasa-astronaut-hall-of-fame-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T215700">2023-05-06 21:57:00 UTC</a></sub>
-* [Dragonfly mission studying effects of potential budget cut](https://spacenews.com/dragonfly-mission-studying-effects-of-potential-budget-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T194250">2023-05-06 19:42:50 UTC</a></sub>
-* [Starlink hits incredible subscriber milestone as potential IPO looms](https://www.teslarati.com/starlink-hits-subscriber-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T161323">2023-05-06 16:13:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T143228">2023-05-08 14:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T150744">2023-05-08 15:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
