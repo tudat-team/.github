@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ball Aerospace zeroes in on future technologies](https://spacenews.com/ball-aerospace-zeroes-in-on-future-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T204148">2023-05-08 20:41:48 UTC</a></sub>
+* [Propelling ASCENT into commercial markets](https://spacenews.com/propelling-ascent-into-commercial-markets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T201300">2023-05-08 20:13:00 UTC</a></sub>
 * [Breaking out of the space echo chamber ](https://spacenews.com/breaking-out-of-the-space-echo-chamber/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T184929">2023-05-08 18:49:29 UTC</a></sub>
 * [Blue Origin picking up the pace at the Cape](https://www.nasaspaceflight.com/2023/05/blue-origin-pace-cape/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T183541">2023-05-08 18:35:41 UTC</a></sub>
 * [NASA, Rocket Lab Launch First Pair of Storm Observing CubeSats](http://www.nasa.gov/press-release/nasa-rocket-lab-launch-first-pair-of-storm-observing-cubesats) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T150300">2023-05-08 15:03:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Sizing up the 2023 GEO manufacturing battleground](https://spacenews.com/sizing-up-the-2023-geo-manufacturing-battleground/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T134826">2023-05-08 13:48:26 UTC</a></sub>
 * [Momentus tug raises orbit with water-fueled thruster](https://spacenews.com/momentus-tug-raises-orbit-with-water-fueled-thruster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T113007">2023-05-08 11:30:07 UTC</a></sub>
 * [From Japan to the Philippines: US expands SSA cooperation with Asian countries](https://spacenews.com/from-japan-to-the-philippines-us-expands-ssa-cooperation-with-asian-countries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T081300">2023-05-08 08:13:00 UTC</a></sub>
-* [China’s mystery reusable spaceplane lands after 276 days in orbit](https://spacenews.com/chinas-mystery-reusable-spaceplane-lands-after-276-days-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T073002">2023-05-08 07:30:02 UTC</a></sub>
-* [Rocket Lab launches NASA TROPICS cubesats](https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T024320">2023-05-08 02:43:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T203221">2023-05-08 20:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T210620">2023-05-08 21:06:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
