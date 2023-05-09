@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic quarterly loss widens while company preps for spaceflight return this month](https://www.cnbc.com/2023/05/09/virgin-galactic-q1-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T205616">2023-05-09 20:56:16 UTC</a></sub>
 * [Construction starts on Orbex Scottish launch site](https://spacenews.com/construction-starts-on-orbex-scottish-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T194233">2023-05-09 19:42:33 UTC</a></sub>
 * [Starbase repairs proceeding – Ships prepared for future flights](https://www.nasaspaceflight.com/2023/05/starbase-repairs-ships-future-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T183816">2023-05-09 18:38:16 UTC</a></sub>
 * [UK unconditionally approves Viasat’s Inmarsat takeover](https://spacenews.com/uk-unconditionally-approves-viasats-inmarsat-takeover/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T175744">2023-05-09 17:57:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Announces Upcoming Retirement of Space Technology Head](http://www.nasa.gov/press-release/nasa-announces-upcoming-retirement-of-space-technology-head) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T140300">2023-05-09 14:03:00 UTC</a></sub>
 * [Ambitious Arab mission to explore seven asteroids, including a very red one](https://arstechnica.com/science/2023/05/ambitious-arab-mission-to-explore-seven-asteroids-including-a-very-red-one/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T130351">2023-05-09 13:03:51 UTC</a></sub>
 * [NOAA kicks off NEON weather satellite program](https://spacenews.com/noaa-kicks-off-neon-weather-satellite-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T130000">2023-05-09 13:00:00 UTC</a></sub>
-* [NASA proposes “hybrid” contract approach for space station deorbit vehicle](https://spacenews.com/nasa-proposals-hybrid-contract-approach-for-space-station-deorbit-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T120500">2023-05-09 12:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T203238">2023-05-09 20:32:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T210614">2023-05-09 21:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
