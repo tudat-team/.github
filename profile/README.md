@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telesat eyes 2026 for first Lightspeed launches amid funding delays](https://spacenews.com/telesat-eyes-2026-for-first-lightspeed-launches-amid-funding-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T185658">2023-05-11 18:56:58 UTC</a></sub>
 * [Space Perspective prepares to introduce new recovery ship as providers compete for land at Port Canaveral](https://www.nasaspaceflight.com/2023/05/space-perspective-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T174259">2023-05-11 17:42:59 UTC</a></sub>
 * [Images From NASA's Perseverance May Show Record of Wild Martian River](https://mars.nasa.gov/news/9399/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T154300">2023-05-11 15:43:00 UTC</a></sub>
 * [The answer to solving the digital divide is hybrid connectivity infrastructures](https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T151250">2023-05-11 15:12:50 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Redwire reports record revenue as it seeks profitability](https://spacenews.com/redwire-reports-record-revenue-as-it-seeks-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T224532">2023-05-10 22:45:32 UTC</a></sub>
 * [SpaceX successfully launches 51 Starlink satellites](https://www.teslarati.com/spacex-starlink-successfully-launches-51-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T222327">2023-05-10 22:23:27 UTC</a></sub>
 * [Tianzhou-6 cargo spacecraft reaches China’s Tiangong space station](https://spacenews.com/tianzhou-6-cargo-spacecraft-reaches-chinas-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T220440">2023-05-10 22:04:40 UTC</a></sub>
-* [Starlink unveils suite of top of the line internet plans](https://www.teslarati.com/starlink-unveils-new-internet-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T202325">2023-05-10 20:23:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T183216">2023-05-11 18:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T190528">2023-05-11 19:05:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
