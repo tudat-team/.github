@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage for Axiom Mission 2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T164300">2023-05-12 16:43:00 UTC</a></sub>
 * [The Ariane 6 rocket will now debut no earlier than the spring of 2024](https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145342">2023-05-12 14:53:42 UTC</a></sub>
 * [NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting](http://www.nasa.gov/press-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T145300">2023-05-12 14:53:00 UTC</a></sub>
 * [Webb directly images young star’s asteroid belt; discovers two additional dusty disks](https://www.nasaspaceflight.com/2023/05/webb-images-fomalhaut-disks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T141739">2023-05-12 14:17:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force commercial office to open new facility in Virginia](https://spacenews.com/space-force-commercial-office-to-open-new-facility-in-virginia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T225540">2023-05-11 22:55:40 UTC</a></sub>
 * [ULA prepares for new round of Vulcan tests](https://spacenews.com/ula-prepares-for-new-round-of-vulcan-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T214739">2023-05-11 21:47:39 UTC</a></sub>
 * [AT&T and AST SpaceMobile seek permission for spectrum leasing deal](https://spacenews.com/att-and-ast-spacemobile-seek-permission-for-spectrum-leasing-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T213101">2023-05-11 21:31:01 UTC</a></sub>
-* [L3Harris wins contract to extend GOES-R ground segment work](https://spacenews.com/l3harris-wins-contract-to-extend-goes-r-ground-segment-work/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T210341">2023-05-11 21:03:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T163548">2023-05-12 16:35:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T170628">2023-05-12 17:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
