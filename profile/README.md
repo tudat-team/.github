@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [SpaceX set to launch Starlink Group 5-9 to low Earth orbit](https://www.nasaspaceflight.com/2023/05/starlink-group-5-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T201047">2023-05-13 20:10:47 UTC</a></sub>
+* [SpaceX launches Starlink Group 5-9 to low Earth orbit](https://www.nasaspaceflight.com/2023/05/starlink-group-5-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T201047">2023-05-13 20:10:47 UTC</a></sub>
 * [Virgin Orbit extends deadline for bankruptcy auction bids](https://spacenews.com/virgin-orbit-extends-deadline-for-bankruptcy-auction-bids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T140613">2023-05-13 14:06:13 UTC</a></sub>
 * [Space Development Agency issues draft solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-draft-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T221059">2023-05-12 22:10:59 UTC</a></sub>
 * [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T053209">2023-05-14 05:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T060854">2023-05-14 06:08:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
