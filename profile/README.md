@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force general: ‘No pushback’ from Congress on 2024 budget priorities](https://spacenews.com/space-force-general-no-pushback-from-congress-on-2024-budget-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T202224">2023-05-15 20:22:24 UTC</a></sub>
+* [Italy awards $256 million contract for 2026 in-orbit servicing mission](https://spacenews.com/italy-awards-256-million-contract-for-2026-in-orbit-servicing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T200445">2023-05-15 20:04:45 UTC</a></sub>
 * [Virgin Orbit Bankruptcy Auction Deadline Extended](https://tlpnetwork.com/news/2023/05/virgin-orbit-bankruptcy-auction-deadline-extended) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T183949">2023-05-15 18:39:49 UTC</a></sub>
 * [NASA’s Artemis II Moon Crew Available for Interviews in Washington](http://www.nasa.gov/press-release/nasa-s-artemis-ii-moon-crew-available-for-interviews-in-washington) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T183300">2023-05-15 18:33:00 UTC</a></sub>
 * [Zephalto To Offer Michelin Star Meal Experience At The Edge Of Space In 2024](https://tlpnetwork.com/news/2023/05/zephalto-to-offer-michelin-star-meal-experience-at-the-edge-of-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T182505">2023-05-15 18:25:05 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astroscale & Momentus Partner To Offer Hubble Reboost Concept](https://tlpnetwork.com/news/2023/05/astroscale-momentus-partner-to-offer-hubble-reboost-concept) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T172308">2023-05-15 17:23:08 UTC</a></sub>
 * [China Spaceplane Lands After Record 276 Days In Orbit](https://tlpnetwork.com/news/2023/05/china-spaceplane-lands-after-record-276-days-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T162659">2023-05-15 16:26:59 UTC</a></sub>
 * [The space industry needs COPUOS to rethink its approach to decision-making](https://spacenews.com/the-space-industry-needs-copuos-to-rethink-its-approach-to-decision-making/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T161343">2023-05-15 16:13:43 UTC</a></sub>
-* [Brightline First To Equip Trains With Starlink](https://tlpnetwork.com/news/2023/05/brightline-first-to-equip-trains-with-starlink) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T155319">2023-05-15 15:53:19 UTC</a></sub>
-* [SpaceX hires former NASA human spaceflight official Kathy Lueders to help with Starship](https://www.cnbc.com/2023/05/15/elon-musks-spacex-hires-former-nasa-official-kathy-lueders.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T150737">2023-05-15 15:07:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T203217">2023-05-15 20:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T210611">2023-05-15 21:06:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
