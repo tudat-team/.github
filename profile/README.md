@@ -576,7 +576,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Orbit extends deadline for bankruptcy auction bids](https://spacenews.com/virgin-orbit-extends-deadline-for-bankruptcy-auction-bids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230513T140613">2023-05-13 14:06:13 UTC</a></sub>
 * [Space Development Agency issues draft solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-draft-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T221059">2023-05-12 22:10:59 UTC</a></sub>
 * [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
-* [Vulcan conducting launch day dress rehearsal as the final Delta IV Heavy arrives at Cape Canaveral](https://www.nasaspaceflight.com/2023/05/vulcan-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T204527">2023-05-12 20:45:27 UTC</a></sub>
+* [Vulcan conducts launch day dress rehearsal as the final Delta IV Heavy arrives at Cape Canaveral](https://www.nasaspaceflight.com/2023/05/vulcan-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T204527">2023-05-12 20:45:27 UTC</a></sub>
 * [Eutelsat eager for OneWeb uplift as broadcast sales plummet](https://spacenews.com/eutelsat-eager-for-oneweb-uplift-as-broadcast-sales-plummet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T192917">2023-05-12 19:29:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T121404">2023-05-15 12:14:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T124958">2023-05-15 12:49:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
