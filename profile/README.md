@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA ends Lunar Flashlight mission because of thruster problems](https://spacenews.com/nasa-ends-lunar-flashlight-mission-because-of-thruster-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T113738">2023-05-15 11:37:38 UTC</a></sub>
 * [JUICE deploys radar antenna](https://spacenews.com/juice-deploys-radar-antenna/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T105147">2023-05-15 10:51:47 UTC</a></sub>
 * [Skylab at 50 – How the United States entered the space station era](https://www.nasaspaceflight.com/2023/05/skylab-at-50/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T171827">2023-05-14 17:18:27 UTC</a></sub>
 * [Astroscale and Momentus offer concept for reboosting Hubble](https://spacenews.com/astroscale-and-momentus-offer-concept-for-reboosting-hubble/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T160122">2023-05-14 16:01:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Media, Public Invited to Meet Solvers in NASA Space Food Challenge](http://www.nasa.gov/press-release/media-public-invited-to-meet-solvers-in-nasa-space-food-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T210300">2023-05-12 21:03:00 UTC</a></sub>
 * [Vulcan conducting launch day dress rehearsal as the final Delta IV Heavy arrives at Cape Canaveral](https://www.nasaspaceflight.com/2023/05/vulcan-dress-rehearsal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T204527">2023-05-12 20:45:27 UTC</a></sub>
 * [Eutelsat eager for OneWeb uplift as broadcast sales plummet](https://spacenews.com/eutelsat-eager-for-oneweb-uplift-as-broadcast-sales-plummet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T192917">2023-05-12 19:29:17 UTC</a></sub>
-* [NASA Sets Coverage for Axiom Mission 2 Briefings, Events, Broadcast](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-briefings-events-broadcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T164300">2023-05-12 16:43:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T113210">2023-05-15 11:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T121404">2023-05-15 12:14:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
