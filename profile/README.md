@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The End Of An Era: Arianespace Sets Date For Final Ariane 5](https://tlpnetwork.com/news/2023/05/date-set-for-va261) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T233646">2023-05-15 23:36:46 UTC</a></sub>
 * [Ariane 6’s first flight likely to slip into 2024](https://www.nasaspaceflight.com/2023/05/ariane-6-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T215708">2023-05-15 21:57:08 UTC</a></sub>
 * [Starlink nears production facility completion, poised to drive subscriber growth](https://www.teslarati.com/starlink-production-facility-completion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T214327">2023-05-15 21:43:27 UTC</a></sub>
 * [Space Force general: ‘No pushback’ from Congress on 2024 budget priorities](https://spacenews.com/space-force-general-no-pushback-from-congress-on-2024-budget-priorities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T202224">2023-05-15 20:22:24 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Zephalto To Offer Michelin Star Meal Experience At The Edge Of Space In 2024](https://tlpnetwork.com/news/2023/05/zephalto-to-offer-michelin-star-meal-experience-at-the-edge-of-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T182505">2023-05-15 18:25:05 UTC</a></sub>
 * [NASA Ends Lunar Flashlight Mission Following Propulsion System Failure](https://tlpnetwork.com/news/2023/05/nasa-ends-lunar-flashlight-mission-following-propulsion-system-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T180036">2023-05-15 18:00:36 UTC</a></sub>
 * [JUICE Successfully Deploys Radar Antenna](https://tlpnetwork.com/news/2023/05/juice-successfully-deploys-radar-antenna) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T174656">2023-05-15 17:46:56 UTC</a></sub>
-* [Astroscale & Momentus Partner To Offer Hubble Reboost Concept](https://tlpnetwork.com/news/2023/05/astroscale-momentus-partner-to-offer-hubble-reboost-concept) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T172308">2023-05-15 17:23:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T233221">2023-05-15 23:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T003859">2023-05-16 00:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
