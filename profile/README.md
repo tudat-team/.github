@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA looking forward to next Starship test, HLS integration](https://www.nasaspaceflight.com/2023/05/nasa-hls-integration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T022417">2023-05-17 02:24:17 UTC</a></sub>
 * [Political fight escalates over Space National Guard](https://spacenews.com/political-fight-escalates-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T211405">2023-05-16 21:14:05 UTC</a></sub>
 * [NASA, Rocket Lab Announce Coverage for Second TROPICS Launch](http://www.nasa.gov/press-release/nasa-rocket-lab-announce-coverage-for-second-tropics-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T202300">2023-05-16 20:23:00 UTC</a></sub>
 * [Arqit launches sale of satellite division](https://spacenews.com/arqit-launches-sale-of-satellite-division/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T201310">2023-05-16 20:13:10 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China calls for space station commercial cargo proposals](https://spacenews.com/china-calls-for-space-station-commercial-cargo-proposals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T115606">2023-05-16 11:56:06 UTC</a></sub>
 * [Astra, Momentus face cash crunch](https://spacenews.com/astra-momentus-face-cash-crunch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T100918">2023-05-16 10:09:18 UTC</a></sub>
 * [SpaceX has narrow window for Ax-2 launch](https://spacenews.com/spacex-has-narrow-window-for-ax-2-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T090653">2023-05-16 09:06:53 UTC</a></sub>
-* [The End Of An Era: Arianespace Sets Date For Final Ariane 5](https://tlpnetwork.com/news/2023/05/date-set-for-va261) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T233646">2023-05-15 23:36:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T020150">2023-05-17 02:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T024226">2023-05-17 02:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
