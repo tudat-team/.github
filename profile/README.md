@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starlink reaches critical subscriber milestone in new segment](https://www.teslarati.com/starlink-reaches-subscriber-milestone-new-segment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T173323">2023-05-17 17:33:23 UTC</a></sub>
+* [Virgin Orbit receives $17 million bid for rocket-carrying aircraft in bankruptcy court](https://www.cnbc.com/2023/05/17/virgin-orbit-17-million-bankruptcy-bid-for-aircraft-from-stratolaunch.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T170432">2023-05-17 17:04:32 UTC</a></sub>
 * [NASA’s Artemis program may face a budget crunch as costs continue to rise](https://arstechnica.com/science/2023/05/nasa-leader-warns-agency-needs-more-funding-to-fly-artemis-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132348">2023-05-17 13:23:48 UTC</a></sub>
 * [Virgin Galactic targets May 25 for first spaceflight since Richard Branson’s trip](https://www.cnbc.com/2023/05/17/virgin-galactic-targets-may-25-for-first-spaceflight-since-branson.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T132324">2023-05-17 13:23:24 UTC</a></sub>
 * [Republican senators claim NASA being distracted by climate change and diversity initiatives](https://spacenews.com/republican-senators-claim-nasa-being-distracted-by-climate-change-and-diversity-initiatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T101054">2023-05-17 10:10:54 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Political fight escalates over Space National Guard](https://spacenews.com/political-fight-escalates-over-space-national-guard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T211405">2023-05-16 21:14:05 UTC</a></sub>
 * [NASA, Rocket Lab Announce Coverage for Second TROPICS Launch](http://www.nasa.gov/press-release/nasa-rocket-lab-announce-coverage-for-second-tropics-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T202300">2023-05-16 20:23:00 UTC</a></sub>
 * [Arqit launches sale of satellite division](https://spacenews.com/arqit-launches-sale-of-satellite-division/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T201310">2023-05-16 20:13:10 UTC</a></sub>
-* [Smithsonian Latino Museum Students to Hear from NASA Station Astronaut](http://www.nasa.gov/press-release/smithsonian-latino-museum-students-to-hear-from-nasa-station-astronaut) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T161300">2023-05-16 16:13:00 UTC</a></sub>
-* [NASA to Select Second Lunar Lander Partner for Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-to-select-second-lunar-lander-partner-for-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T153300">2023-05-16 15:33:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T173223">2023-05-17 17:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T180852">2023-05-17 18:08:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
