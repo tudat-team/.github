@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase](https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110030">2023-05-19 11:00:30 UTC</a></sub>
 * [PLD Space prepares for suborbital test launch](https://spacenews.com/pld-space-prepares-for-suborbital-test-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T232125">2023-05-18 23:21:25 UTC</a></sub>
 * [Starlink v2, Iridium, and OneWeb satellites set to fly same-day Falcon 9 missions](https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T201816">2023-05-18 20:18:16 UTC</a></sub>
 * [NASA's Perseverance Rover Captures View of Mars' Belva Crater](https://mars.nasa.gov/news/9405/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T192300">2023-05-18 19:23:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space cybersecurity firm SpiderOak gets new investors](https://spacenews.com/space-cybersecurity-firm-spideroak-gets-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131009">2023-05-18 13:10:09 UTC</a></sub>
 * [U.K. government won’t buy Virgin Orbit](https://spacenews.com/u-k-government-wont-buy-virgin-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T101339">2023-05-18 10:13:39 UTC</a></sub>
 * [Amini gets initial funding for closing Africa’s environmental data gap](https://spacenews.com/amini-gets-initial-funding-for-closing-africas-environmental-data-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T050000">2023-05-18 05:00:00 UTC</a></sub>
-* [SpaceX plans to launch Falcon 9 from both the East and West coasts hours apart](https://www.teslarati.com/spacex-plans-launch-falcon-9-from-both-the-east-and-west-coasts-hours-apart/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T021326">2023-05-18 02:13:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T103213">2023-05-19 10:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110554">2023-05-19 11:05:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
