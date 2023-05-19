@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Selects Blue Origin as Second Artemis Lunar Lander Provider](http://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T150300">2023-05-19 15:03:00 UTC</a></sub>
+* [BREAKING! NASA Awards Blue Origin $3.4B Lunar Lander Contract](https://tlpnetwork.com/news/2023/05/nasa-selects-blue-origin-for-2nd-human-lunar-landing-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T142948">2023-05-19 14:29:48 UTC</a></sub>
 * [Inmarsat orders 3 smallsats to bolster L-band safety services](https://spacenews.com/inmarsat-orders-3-smallsats-to-bolster-l-band-safety-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T120000">2023-05-19 12:00:00 UTC</a></sub>
 * [Space Force looks at options for relieving Cape Canaveral launch congestion](https://spacenews.com/space-force-looks-at-options-for-relieving-cape-canaveral-launch-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T111445">2023-05-19 11:14:45 UTC</a></sub>
 * [Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase](https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110030">2023-05-19 11:00:30 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA's Perseverance Rover Captures View of Mars' Belva Crater](https://mars.nasa.gov/news/9405/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T192300">2023-05-18 19:23:00 UTC</a></sub>
 * [Investing in Space: Is SpaceX’s Starlink growing satellite internet market share, or taking it?](https://www.cnbc.com/2023/05/18/investing-in-space-where-spacexs-starlink-is-growing-market-share.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T164029">2023-05-18 16:40:29 UTC</a></sub>
 * [Space Force delivers second U.S. payload to be hosted on Japanese satellite](https://spacenews.com/space-force-delivers-second-u-s-payload-to-be-hosted-on-japanese-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T160530">2023-05-18 16:05:30 UTC</a></sub>
-* [Zeno Power gets $30 million to build radioisotope-powered satellite for U.S. military](https://spacenews.com/zeno-power-gets-30-million-to-build-radioisotope-powered-satellite-for-u-s-military/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131100">2023-05-18 13:11:00 UTC</a></sub>
-* [Space cybersecurity firm SpiderOak gets new investors](https://spacenews.com/space-cybersecurity-firm-spideroak-gets-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T131009">2023-05-18 13:10:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Moon-spying missions and a planetary evil twin](https://www.planetary.org/the-downlink/moon-spying-missions-and-a-planetary-evil-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T143420">2023-05-19 14:34:20 UTC</a></sub>
 * [Hypersonic Missiles are Just Misunderstood](https://blog.ulalaunch.com/blog/hypersonic-missiles-are-just-misunderstood) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T115337">2023-05-17 11:53:37 UTC</a></sub>
 * [Why is Venus called Earth’s twin?](https://www.planetary.org/articles/why-is-venus-called-earths-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T143322">2023-05-16 14:33:22 UTC</a></sub>
 * [Hard-working spacecraft and even harder-working microbes](https://www.planetary.org/the-downlink/hard-working-spacecraft-and-even-harder-working-microbes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143324">2023-05-12 14:33:24 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
 * [Why is STEM Education a National Imperative and How Are We Wasting Our Precious Human Resource?](https://blog.ulalaunch.com/blog/why-is-stem-education-a-national-imperative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T115339">2023-05-05 11:53:39 UTC</a></sub>
 * [What happened with Psyche?](https://www.planetary.org/articles/what-happened-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T150326">2023-05-04 15:03:26 UTC</a></sub>
-* [Have a nice flight!](https://www.planetary.org/the-downlink/have-a-nice-flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T143012">2023-04-28 14:30:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T143209">2023-05-19 14:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T150714">2023-05-19 15:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
