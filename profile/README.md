@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches second Axiom Space private astronaut mission to ISS](https://spacenews.com/spacex-launches-second-axiom-space-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T220202">2023-05-21 22:02:02 UTC</a></sub>
 * [NASA seeks to shore up congressional support for Artemis](https://spacenews.com/nasa-seeks-to-shore-up-congressional-support-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T201312">2023-05-21 20:13:12 UTC</a></sub>
 * [EarthDaily Analytics offers VENµS imagery access](https://spacenews.com/earthdaily-analytics-offers-ven%c2%b5s-imagery-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T193212">2023-05-21 19:32:12 UTC</a></sub>
 * [Iceye to supply UAE SAR satellites](https://spacenews.com/iceye-to-develop-sar-constellation-for-uae/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T192530">2023-05-21 19:25:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Agencies studying safety issues of LOX/methane launch vehicles](https://spacenews.com/agencies-studying-safety-issues-of-lox-methane-launch-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T225628">2023-05-20 22:56:28 UTC</a></sub>
 * [Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images](https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T181000">2023-05-20 18:10:00 UTC</a></sub>
 * [SpaceX launches OneWeb Gen 2 technology demonstrator](https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T151237">2023-05-20 15:12:37 UTC</a></sub>
-* [NASA selects Blue Origin to land Astronauts on the Moon](https://www.teslarati.com/nasa-selects-blue-origin-to-land-astronauts-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T233324">2023-05-19 23:33:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T213207">2023-05-21 21:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T220640">2023-05-21 22:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
