@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DARPA selects Umbra to demonstrate radar imaging techniques](https://spacenews.com/darpa-selects-umbra-to-demonstrate-radar-imaging-techniques/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T153719">2023-05-22 15:37:19 UTC</a></sub>
 * [SpaceX delivers private Axiom crew to the space station, carrying Saudi astronauts](https://www.cnbc.com/2023/05/22/spacex-axiom-ax-2-docks-with-space-station-carrying-saudi-astronauts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T143636">2023-05-22 14:36:36 UTC</a></sub>
 * [Former NGA director Robert Cardillo joins Synthetaic’s board of directors](https://spacenews.com/former-nga-director-robert-cardillo-joins-synthetaics-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T143550">2023-05-22 14:35:50 UTC</a></sub>
 * [SpaceX launches tenth crewed mission, third fully commercial flight](https://arstechnica.com/space/2023/05/spacex-launches-tenth-crewed-mission-third-fully-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T121415">2023-05-22 12:14:15 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force turns to metaverse to predict effects of spaceport congestion ](https://spacenews.com/space-force-turns-to-metaverse-to-predict-effects-of-spaceport-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T113201">2023-05-22 11:32:01 UTC</a></sub>
 * [Axiom Space Private Astronauts Headed to International Space Station](http://www.nasa.gov/press-release/axiom-space-private-astronauts-headed-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T231300">2023-05-21 23:13:00 UTC</a></sub>
 * [SpaceX launches second Axiom Space private astronaut mission to ISS](https://spacenews.com/spacex-launches-second-axiom-space-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T220202">2023-05-21 22:02:02 UTC</a></sub>
-* [NASA seeks to shore up congressional support for Artemis](https://spacenews.com/nasa-seeks-to-shore-up-congressional-support-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T201312">2023-05-21 20:13:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T153236">2023-05-22 15:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T160903">2023-05-22 16:09:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
