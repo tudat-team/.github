@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches tenth crewed mission, third fully commercial flight](https://arstechnica.com/space/2023/05/spacex-launches-tenth-crewed-mission-third-fully-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T121415">2023-05-22 12:14:15 UTC</a></sub>
+* [Defending Taiwan by countering China’s biggest threat ](https://spacenews.com/defending-taiwan-by-countering-chinas-biggest-threat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120000">2023-05-22 12:00:00 UTC</a></sub>
+* [Impact Observatory unveils IO Monitor](https://spacenews.com/impact-observatory-unveils-io-monitor/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T120000">2023-05-22 12:00:00 UTC</a></sub>
 * [China launches new science probes, SAR sat and replacement Beidou satellite](https://spacenews.com/china-launches-new-science-probes-sar-sat-and-replacement-beidou-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T115432">2023-05-22 11:54:32 UTC</a></sub>
 * [Space Force turns to metaverse to predict effects of spaceport congestion ](https://spacenews.com/space-force-turns-to-metaverse-to-predict-effects-of-spaceport-congestion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T113201">2023-05-22 11:32:01 UTC</a></sub>
 * [Axiom Space Private Astronauts Headed to International Space Station](http://www.nasa.gov/press-release/axiom-space-private-astronauts-headed-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T231300">2023-05-21 23:13:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA seeks to shore up congressional support for Artemis](https://spacenews.com/nasa-seeks-to-shore-up-congressional-support-for-artemis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T201312">2023-05-21 20:13:12 UTC</a></sub>
 * [EarthDaily Analytics offers VENµS imagery access](https://spacenews.com/earthdaily-analytics-offers-ven%c2%b5s-imagery-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T193212">2023-05-21 19:32:12 UTC</a></sub>
 * [Iceye to supply UAE SAR satellites](https://spacenews.com/iceye-to-develop-sar-constellation-for-uae/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T192530">2023-05-21 19:25:30 UTC</a></sub>
-* [Planet seeks partners that can extract more value from data](https://spacenews.com/planet-seeks-partners-that-can-extract-more-value-from-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T190206">2023-05-21 19:02:06 UTC</a></sub>
-* [Umbra and Ursa to collaborate on radar imaging data products](https://spacenews.com/umbra-and-ursa-to-collaborate-on-radar-imaging-data-products/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T180732">2023-05-21 18:07:32 UTC</a></sub>
-* [SpaceX launches Axiom-2, carrying four astronauts to the ISS](https://www.nasaspaceflight.com/2023/05/axiom-2-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T125958">2023-05-21 12:59:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T121350">2023-05-22 12:13:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T124813">2023-05-22 12:48:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
