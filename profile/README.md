@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Air Force Research Lab to fund development of Ursa Major’s rocket engines](https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T165116">2023-05-23 16:51:16 UTC</a></sub>
+* [The Spaceport Company Performs First Demo of Offshore Launch Ops](https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T163000">2023-05-23 16:30:00 UTC</a></sub>
 * [Astrobotic To Provide Blue Moon Lander Cargo Systems](https://tlpnetwork.com/news/2023/05/astrobotic-to-provide-blue-moon-lander-cargo-systems) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T132800">2023-05-23 13:28:00 UTC</a></sub>
 * [The Spaceport Company demonstrates offshore launch operations](https://spacenews.com/the-spaceport-company-demonstrates-offshore-launch-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T111503">2023-05-23 11:15:03 UTC</a></sub>
 * [Orbital Sidekick acquires first light imagery](https://spacenews.com/orbital-sidekick-acquires-first-light-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T031142">2023-05-23 03:11:42 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NATO faces hurdles in acquiring commercial satellite imagery](https://spacenews.com/nato-faces-hurdles-in-acquiring-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T220952">2023-05-22 22:09:52 UTC</a></sub>
 * [SpaceX set to join FAA to fight environmental lawsuit that could delay Starship work](https://www.cnbc.com/2023/05/22/spacex-joining-faa-to-fight-environmental-lawsuit-over-starship.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T220423">2023-05-22 22:04:23 UTC</a></sub>
 * [SpaceX making progress toward next Starship test flights](https://www.nasaspaceflight.com/2023/05/spacex-progressing-next-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T205802">2023-05-22 20:58:02 UTC</a></sub>
-* [NASA Mission to Study Ice Clouds, Help Observe Our Dynamic Atmosphere](http://www.nasa.gov/press-release/nasa-mission-to-study-ice-clouds-help-observe-our-dynamic-atmosphere) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T202300">2023-05-22 20:23:00 UTC</a></sub>
-* [OneWeb announces Innovation Challenge Winners](https://spacenews.com/oneweb-announces-innovation-challenge-winners/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T165642">2023-05-22 16:56:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T163647">2023-05-23 16:36:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T170632">2023-05-23 17:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
