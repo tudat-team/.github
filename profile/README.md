@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Arabsat 7B to be SLC-40’s quickest turnaround](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200506">2023-05-23 20:05:06 UTC</a></sub>
+* [Falcon 9 launch with Arabsat 7B scrubbed](https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200506">2023-05-23 20:05:06 UTC</a></sub>
 * [NGA plans new procurement of commercial Earth monitoring services](https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200230">2023-05-23 20:02:30 UTC</a></sub>
 * [Three companies to buy most Virgin Orbit assets](https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T195414">2023-05-23 19:54:14 UTC</a></sub>
 * [BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher](https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T183900">2023-05-23 18:39:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T053216">2023-05-24 05:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T060956">2023-05-24 06:09:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
