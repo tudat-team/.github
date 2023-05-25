@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Viasat’s Inmarsat acquisition clears all regulatory hurdles](https://spacenews.com/viasats-inmarsat-acquisition-clears-all-regulatory-hurdles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T145608">2023-05-25 14:56:08 UTC</a></sub>
+* [South Korea’s KSLV-2 rocket launches seven satellites, one unaccounted for](https://spacenews.com/south-koreas-kslv-2-rocket-launches-seven-satellites-one-unaccounted-for/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T141425">2023-05-25 14:14:25 UTC</a></sub>
 * [VSS Unity preparing for first powered flight since Branson’s trip in 2021](https://www.nasaspaceflight.com/2023/05/unity-25-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T134408">2023-05-25 13:44:08 UTC</a></sub>
 * [Virgin Galactic attempts final test flight before beginning ticketed space trips](https://www.cnbc.com/2023/05/25/virgin-galactic-unity-25-spaceflight-final-test-before-commercial-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T123454">2023-05-25 12:34:54 UTC</a></sub>
 * [At long last, the glorious future we were promised in space is on the way](https://arstechnica.com/space/2023/05/at-long-last-the-glorious-future-we-were-promised-in-space-is-on-the-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T114548">2023-05-25 11:45:48 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab moves final TROPICS mission to Friday](https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T220811">2023-05-24 22:08:11 UTC</a></sub>
 * [Impulse and Relativity target 2026 for launch of first Mars lander mission](https://spacenews.com/impulse-and-relativity-target-2026-for-launch-of-first-mars-lander-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T201927">2023-05-24 20:19:27 UTC</a></sub>
 * [Fleet Space secures $33 million for mineral exploration constellation](https://spacenews.com/fleet-space-raises-33-million-for-mineral-exploration-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T195136">2023-05-24 19:51:36 UTC</a></sub>
-* [NASA, Department of Education Partnership Strengthens STEM Education](http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T185600">2023-05-24 18:56:00 UTC</a></sub>
-* [BlackSky, Spire roll out space-based maritime tracking service](https://spacenews.com/blacksky-spire-roll-out-space-based-maritime-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T170245">2023-05-24 17:02:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T143210">2023-05-25 14:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T150736">2023-05-25 15:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
