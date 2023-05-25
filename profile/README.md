@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [VSS Unity preparing for first powered flight since Branson’s trip in 2021](https://www.nasaspaceflight.com/2023/05/unity-25-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T134408">2023-05-25 13:44:08 UTC</a></sub>
 * [Virgin Galactic attempts final test flight before beginning ticketed space trips](https://www.cnbc.com/2023/05/25/virgin-galactic-unity-25-spaceflight-final-test-before-commercial-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T123454">2023-05-25 12:34:54 UTC</a></sub>
 * [At long last, the glorious future we were promised in space is on the way](https://arstechnica.com/space/2023/05/at-long-last-the-glorious-future-we-were-promised-in-space-is-on-the-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T114548">2023-05-25 11:45:48 UTC</a></sub>
 * [First components of Mobile Launcher 2 arrive at KSC](https://spacenews.com/first-components-of-mobile-launcher-2-arrive-at-ksc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T113315">2023-05-25 11:33:15 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Fleet Space secures $33 million for mineral exploration constellation](https://spacenews.com/fleet-space-raises-33-million-for-mineral-exploration-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T195136">2023-05-24 19:51:36 UTC</a></sub>
 * [NASA, Department of Education Partnership Strengthens STEM Education](http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T185600">2023-05-24 18:56:00 UTC</a></sub>
 * [BlackSky, Spire roll out space-based maritime tracking service](https://spacenews.com/blacksky-spire-roll-out-space-based-maritime-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T170245">2023-05-24 17:02:45 UTC</a></sub>
-* [No one should be surprised Virgin Orbit failed—it had a terrible business plan](https://arstechnica.com/space/2023/05/no-one-should-be-surprised-virgin-orbit-failed-it-had-a-terrible-business-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T164609">2023-05-24 16:46:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Vulcan: Preview of the Flight Readiness Firing](https://blog.ulalaunch.com/blog/vulcan-preview-of-the-flight-readiness-firing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133635">2023-05-25 13:36:35 UTC</a></sub>
 * [Five asteroid deflection techniques to save the Earth](https://www.planetary.org/articles/asteroid-deflection-techniques-to-save-the-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T143328">2023-05-23 14:33:28 UTC</a></sub>
 * [Moon-spying missions and a planetary evil twin](https://www.planetary.org/the-downlink/moon-spying-missions-and-a-planetary-evil-twin) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T143420">2023-05-19 14:34:20 UTC</a></sub>
 * [Hypersonic Missiles are Just Misunderstood](https://blog.ulalaunch.com/blog/hypersonic-missiles-are-just-misunderstood) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T115337">2023-05-17 11:53:37 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How did Earth get its oxygen?](https://www.planetary.org/articles/how-did-earth-get-its-oxygen) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T144324">2023-05-11 14:43:24 UTC</a></sub>
 * [Freelance Digital Advertising Specialist (Contract & Part-time)](https://www.planetary.org/careers/freelance-digital-advertising-specialist-contract-part-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T150323">2023-05-09 15:03:23 UTC</a></sub>
 * [Moonshadow, Moonshadow](https://www.planetary.org/the-downlink/moonshadow-moonshadow) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T143330">2023-05-05 14:33:30 UTC</a></sub>
-* [Why is STEM Education a National Imperative and How Are We Wasting Our Precious Human Resource?](https://blog.ulalaunch.com/blog/why-is-stem-education-a-national-imperative) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T115339">2023-05-05 11:53:39 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133405">2023-05-25 13:34:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T140706">2023-05-25 14:07:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
