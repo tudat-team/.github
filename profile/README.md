@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic attempts final test flight before beginning ticketed space trips](https://www.cnbc.com/2023/05/25/virgin-galactic-unity-25-spaceflight-final-test-before-commercial-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T123454">2023-05-25 12:34:54 UTC</a></sub>
 * [At long last, the glorious future we were promised in space is on the way](https://arstechnica.com/space/2023/05/at-long-last-the-glorious-future-we-were-promised-in-space-is-on-the-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T114548">2023-05-25 11:45:48 UTC</a></sub>
 * [First components of Mobile Launcher 2 arrive at KSC](https://spacenews.com/first-components-of-mobile-launcher-2-arrive-at-ksc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T113315">2023-05-25 11:33:15 UTC</a></sub>
 * [Iceye introduces Dwell imaging mode](https://spacenews.com/iceye-introduces-dwell-imaging-mode/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T010716">2023-05-25 01:07:16 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA, Department of Education Partnership Strengthens STEM Education](http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T185600">2023-05-24 18:56:00 UTC</a></sub>
 * [BlackSky, Spire roll out space-based maritime tracking service](https://spacenews.com/blacksky-spire-roll-out-space-based-maritime-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T170245">2023-05-24 17:02:45 UTC</a></sub>
 * [No one should be surprised Virgin Orbit failed—it had a terrible business plan](https://arstechnica.com/space/2023/05/no-one-should-be-surprised-virgin-orbit-failed-it-had-a-terrible-business-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T164609">2023-05-24 16:46:09 UTC</a></sub>
-* [Japan’s GITAI raises $29 million for space robotics business](https://spacenews.com/japans-gitai-raises-29-million-for-space-robotics-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T140407">2023-05-24 14:04:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T121332">2023-05-25 12:13:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T124942">2023-05-25 12:49:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
