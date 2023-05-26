@@ -568,7 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Report: ULA calls off Vulcan test firing, Virgin Galactic soars again](https://arstechnica.com/space/2023/05/rocket-report-ula-calls-off-vulcan-test-firing-virgin-galactic-soars-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110044">2023-05-26 11:00:44 UTC</a></sub>
+* [SpaceX investment in Starship approaches $5 billion](https://spacenews.com/spacex-investment-in-starship-approaches-5-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T111806">2023-05-26 11:18:06 UTC</a></sub>
+* [Rocket Report: Europe has a rocket problem, FAA testing safety of methane](https://arstechnica.com/space/2023/05/rocket-report-ula-calls-off-vulcan-test-firing-virgin-galactic-soars-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110044">2023-05-26 11:00:44 UTC</a></sub>
 * [Electron launches second pair of NASA TROPICS cubesats](https://spacenews.com/electron-launches-second-pair-of-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T105114">2023-05-26 10:51:14 UTC</a></sub>
 * [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T010315">2023-05-26 01:03:15 UTC</a></sub>
 * [Orbit Fab selects Impulse Space’s orbital vehicle for in-space refueling demo](https://spacenews.com/orbit-fab-selects-impulse-spaces-orbital-vehicle-for-in-space-refueling-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211901">2023-05-25 21:19:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Northrop Grumman wins $45 million Space Force contract to launch small weather satellite](https://spacenews.com/northrop-grumman-wins-45-million-space-force-contract-to-launch-small-weather-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203817">2023-05-25 20:38:17 UTC</a></sub>
 * [ULA To Roll Back Vulcan Rocket, Flight Readiness Firing Delayed](https://tlpnetwork.com/news/2023/05/frf-delayed-rollback-required) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203500">2023-05-25 20:35:00 UTC</a></sub>
 * [NASA to Discuss Science on Next SpaceX Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-spacex-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T195600">2023-05-25 19:56:00 UTC</a></sub>
-* [Virgin Galactic makes first suborbital spaceflight in nearly two years](https://spacenews.com/virgin-galactic-makes-first-suborbital-spaceflight-in-nearly-two-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T164921">2023-05-25 16:49:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T113207">2023-05-26 11:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T121313">2023-05-26 12:13:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
