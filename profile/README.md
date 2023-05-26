@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DARPA seeks AI tools to automate tracking of satellite sensor data](https://spacenews.com/darpa-seeks-ai-tools-to-automate-tracking-of-satellite-sensor-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T162241">2023-05-26 16:22:41 UTC</a></sub>
+* [Software problem blamed for ispace lunar lander crash](https://spacenews.com/software-problem-blamed-for-ispace-lunar-lander-crash/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T160829">2023-05-26 16:08:29 UTC</a></sub>
 * [L3Harris wins $80 million Air Force contract for satcom experiments](https://spacenews.com/l3harris-wins-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T145929">2023-05-26 14:59:29 UTC</a></sub>
 * [NASA to Provide Briefing, Coverage of Spacewalks for Station Upgrades](http://www.nasa.gov/press-release/nasa-to-provide-briefing-coverage-of-spacewalks-for-station-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T142600">2023-05-26 14:26:00 UTC</a></sub>
 * [New Mexico Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/new-mexico-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T134600">2023-05-26 13:46:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Report: Europe has a rocket problem, FAA testing safety of methane](https://arstechnica.com/space/2023/05/rocket-report-ula-calls-off-vulcan-test-firing-virgin-galactic-soars-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110044">2023-05-26 11:00:44 UTC</a></sub>
 * [Electron launches second pair of NASA TROPICS cubesats](https://spacenews.com/electron-launches-second-pair-of-nasa-tropics-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T105114">2023-05-26 10:51:14 UTC</a></sub>
 * [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T010315">2023-05-26 01:03:15 UTC</a></sub>
-* [Orbit Fab selects Impulse Space’s orbital vehicle for in-space refueling demo](https://spacenews.com/orbit-fab-selects-impulse-spaces-orbital-vehicle-for-in-space-refueling-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211901">2023-05-25 21:19:01 UTC</a></sub>
-* [A new report finds NASA has spent an obscene amount of money on SLS propulsion](https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T211718">2023-05-25 21:17:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T163623">2023-05-26 16:36:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T170631">2023-05-26 17:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
