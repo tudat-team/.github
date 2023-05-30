@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom 2 astronauts set to splashdown from the ISS on Tuesday](https://www.nasaspaceflight.com/2023/05/ax-2-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T121804">2023-05-30 12:18:04 UTC</a></sub>
 * [NASA inspector general faults agency on SLS booster and engine overruns](https://spacenews.com/nasa-inspector-general-faults-agency-on-sls-booster-and-engine-overruns/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T110925">2023-05-30 11:09:25 UTC</a></sub>
 * [Shenzhou-16 astronauts arrive at China’s space station](https://spacenews.com/shenzhou-16-astronauts-arrive-at-chinas-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T092751">2023-05-30 09:27:51 UTC</a></sub>
 * [China launches Shenzhou-16 mission to the Chinese Space Station](https://www.nasaspaceflight.com/2023/05/shenzhou-16-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230529T213048">2023-05-29 21:30:48 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA and Boeing say preparations continue for July Starliner test flight](https://spacenews.com/nasa-and-boeing-say-preparations-continue-for-july-starliner-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230528T015105">2023-05-28 01:51:05 UTC</a></sub>
 * [SpaceX launches Badr-8 to bolster Arabsat’s satellite fleet](https://spacenews.com/spacex-launches-badr-8-to-bolster-arabsats-satellite-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T144900">2023-05-27 14:49:00 UTC</a></sub>
 * [NASA Sets Coverage for Axiom Mission 2 Departure from Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-departure-from-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T214600">2023-05-26 21:46:00 UTC</a></sub>
-* [Space Development Agency to launch 13 satellites in late June](https://spacenews.com/space-development-agency-planning-to-launch-13-satellites-in-late-june/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T203451">2023-05-26 20:34:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T121414">2023-05-30 12:14:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T125015">2023-05-30 12:50:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
