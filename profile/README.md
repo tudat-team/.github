@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Command takes over responsibility for protecting homeland from missile strikes](https://spacenews.com/u-s-space-command-takes-over-responsibility-for-protecting-homeland-from-missile-strikes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T204809">2023-05-31 20:48:09 UTC</a></sub>
+* [Using data from Spitzer and TESS, scientists discover exoplanet littered with volcanoes](https://www.nasaspaceflight.com/2023/05/volcano-covered-exoplanet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T203815">2023-05-31 20:38:15 UTC</a></sub>
 * [SpaceX caps off busy May with 8th Falcon 9 launch](https://www.teslarati.com/spacex-caps-off-busy-may-with-8th-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T193620">2023-05-31 19:36:20 UTC</a></sub>
 * [NASA to Discuss Conclusions of Psyche Mission Independent Review Board](http://www.nasa.gov/press-release/nasa-to-discuss-conclusions-of-psyche-mission-independent-review-board) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T170600">2023-05-31 17:06:00 UTC</a></sub>
 * [ESA Awards Contracts to Define Future European Launch Systems](https://europeanspaceflight.com/esa-awards-contracts-to-define-future-european-launch-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T170000">2023-05-31 17:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [North Korea’s spy satellite launch fails with second-stage malfunction](https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T133756">2023-05-31 13:37:56 UTC</a></sub>
 * [Satellite operators Viasat and Inmarsat complete merger deal](https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T130733">2023-05-31 13:07:33 UTC</a></sub>
 * [Second Axiom Space private astronaut mission concludes with splashdown](https://spacenews.com/second-axiom-space-private-astronaut-mission-concludes-with-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T112250">2023-05-31 11:22:50 UTC</a></sub>
-* [China looks to Long March 8 rocket to help launch its answer to Starlink](https://spacenews.com/china-looks-to-long-march-8-rocket-to-help-launch-its-answer-to-starlink/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T100946">2023-05-31 10:09:46 UTC</a></sub>
-* [Spain signs Artemis Accords](https://spacenews.com/spain-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T003530">2023-05-31 00:35:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T203215">2023-05-31 20:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T210640">2023-05-31 21:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
