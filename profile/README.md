@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing indefinitely delays Starliner astronaut mission for NASA after discovering more issues](https://www.cnbc.com/2023/06/01/boeing-further-delays-first-starliner-astronaut-mission-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T211014">2023-06-01 21:10:14 UTC</a></sub>
 * [Northrop Grumman’s ground station for missile warning satellites passes design review](https://spacenews.com/northrop-grummans-ground-station-for-missile-warning-satellites-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T202516">2023-06-01 20:25:16 UTC</a></sub>
 * [NASA, Boeing to Hold Media Update on Crew Flight Test Today](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-crew-flight-test-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T194600">2023-06-01 19:46:00 UTC</a></sub>
 * [Space Force exploring options to build weather monitoring constellation](https://spacenews.com/space-force-exploring-options-to-build-weather-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T174853">2023-06-01 17:48:53 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force selects new leader for Eastern Range](https://spacenews.com/space-force-selects-new-leader-for-eastern-range/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T161010">2023-06-01 16:10:10 UTC</a></sub>
 * [The Atlantic hurricane season has begun: What we know and what we don’t](https://arstechnica.com/science/2023/06/the-atlantic-hurricane-season-has-begun-what-we-know-and-what-we-dont/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T141821">2023-06-01 14:18:21 UTC</a></sub>
 * [Fortify raises $12.5 million for digital composite manufacturing](https://spacenews.com/fortify-raises-12-5-million-for-digital-composite-manufacturing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T130831">2023-06-01 13:08:31 UTC</a></sub>
-* [Dream Chaser moves a step closer to first launch](https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T110248">2023-06-01 11:02:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T213222">2023-06-01 21:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T220648">2023-06-01 22:06:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
