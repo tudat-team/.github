@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Technical Workforce Training Contract](http://www.nasa.gov/press-release/nasa-awards-technical-workforce-training-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T201700">2023-06-02 20:17:00 UTC</a></sub>
 * [To keep Starliner flying, Boeing must make some hard choices](https://arstechnica.com/space/2023/06/to-keep-starliner-flying-boeing-must-make-some-hard-choices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T183154">2023-06-02 18:31:54 UTC</a></sub>
 * [This Week In Spaceflight: China’s lunar plans, North Korea’s failed launch, and Starliner delays](https://www.nasaspaceflight.com/2023/06/twis-20230602/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T180315">2023-06-02 18:03:15 UTC</a></sub>
 * [Space-Comm Expo 2023 – Where Space Does Business](https://spacenews.com/space-comm-expo-2023-where-space-does-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T150811">2023-06-02 15:08:11 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Invites Public to Sign Poem That Will Fly Aboard Europa Clipper](http://www.nasa.gov/press-release/nasa-invites-public-to-sign-poem-that-will-fly-aboard-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T230600">2023-06-01 23:06:00 UTC</a></sub>
 * [Boeing finds two serious problems with Starliner just weeks before launch](https://arstechnica.com/space/2023/06/boeing-stands-down-from-starliner-launch-to-address-recently-found-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T225506">2023-06-01 22:55:06 UTC</a></sub>
 * [Boeing indefinitely delays Starliner astronaut mission for NASA after discovering more issues](https://www.cnbc.com/2023/06/01/boeing-further-delays-first-starliner-astronaut-mission-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T211014">2023-06-01 21:10:14 UTC</a></sub>
-* [Northrop Grumman’s ground station for missile warning satellites passes design review](https://spacenews.com/northrop-grummans-ground-station-for-missile-warning-satellites-passes-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T202516">2023-06-01 20:25:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T203209">2023-06-02 20:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T210614">2023-06-02 21:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
