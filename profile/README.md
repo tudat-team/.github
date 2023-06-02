@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Google leads $36 million funding round for Pixxel](https://spacenews.com/google-leads-36-million-funding-round-for-pixxel/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T113312">2023-06-02 11:33:12 UTC</a></sub>
+* [Rocket Report: SpaceX pushing ahead on Starbase, North Korea launch failure](https://arstechnica.com/space/2023/06/rocket-report-spacex-pushing-ahead-on-starbase-north-korea-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T111544">2023-06-02 11:15:44 UTC</a></sub>
 * [Parachute and wiring issues to delay Starliner crewed test flight](https://spacenews.com/parachute-and-wiring-issues-to-delay-starliner-crewed-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T233455">2023-06-01 23:34:55 UTC</a></sub>
 * [NASA Invites Public to Sign Poem That Will Fly Aboard Europa Clipper](http://www.nasa.gov/press-release/nasa-invites-public-to-sign-poem-that-will-fly-aboard-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T230600">2023-06-01 23:06:00 UTC</a></sub>
 * [Boeing finds two serious problems with Starliner just weeks before launch](https://arstechnica.com/space/2023/06/boeing-stands-down-from-starliner-launch-to-address-recently-found-problems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T225506">2023-06-01 22:55:06 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA, Boeing to Hold Media Update on Crew Flight Test Today](http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-crew-flight-test-today) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T194600">2023-06-01 19:46:00 UTC</a></sub>
 * [Space Force exploring options to build weather monitoring constellation](https://spacenews.com/space-force-exploring-options-to-build-weather-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T174853">2023-06-01 17:48:53 UTC</a></sub>
 * [SpaceX Starlink lands DoD contract for Ukraine satellite services](https://www.teslarati.com/spacex-starlink-lands-dod-contract-ukraine-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T171652">2023-06-01 17:16:52 UTC</a></sub>
-* [Pentagon awards SpaceX with Ukraine contract for Starlink satellite internet](https://www.cnbc.com/2023/06/01/pentagon-awards-spacex-with-ukraine-contract-for-starlink-satellite-internet.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T165443">2023-06-01 16:54:43 UTC</a></sub>
-* [Investing in Space: Virgin Galactic still has a big hurdle to clear for commercial service](https://www.cnbc.com/2023/06/01/investing-in-space-the-virgin-galactic-spce-turning-point.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T161531">2023-06-01 16:15:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T113219">2023-06-02 11:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T121350">2023-06-02 12:13:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
