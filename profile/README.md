@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OLM mods as vehicles shuffle in prepartion for upcoming test flights](https://www.nasaspaceflight.com/2023/06/s25-b7-olm-prepare-for-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T164819">2023-06-05 16:48:19 UTC</a></sub>
+* [NASA Names New Agency General Counsel](http://www.nasa.gov/press-release/nasa-names-new-agency-general-counsel) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T163700">2023-06-05 16:37:00 UTC</a></sub>
 * [Connecting the Dots | Diversifying into in-orbit servicing](https://spacenews.com/connecting-the-dots-diversifying-into-in-orbit-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T131046">2023-06-05 13:10:46 UTC</a></sub>
 * [Congress asks GAO for review of GeoXO weather satellite program](https://spacenews.com/congress-asks-gao-for-review-of-geoxo-weather-satellite-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T101040">2023-06-05 10:10:40 UTC</a></sub>
 * [SpaceX launches CRS-28 ISS resupply mission](https://www.nasaspaceflight.com/2023/06/crs-28-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T111529">2023-06-04 11:15:29 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Northrop Grumman gets $80 million Air Force contract for satcom experiments](https://spacenews.com/northrop-grumman-gets-80-million-air-force-contract-for-satcom-experiments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T225943">2023-06-02 22:59:43 UTC</a></sub>
 * [NASA Awards Technical Workforce Training Contract](https://www.nasa.gov/press-release/nasa-awards-technical-workforce-training-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T201700">2023-06-02 20:17:00 UTC</a></sub>
 * [To keep Starliner flying, Boeing must make some hard choices](https://arstechnica.com/space/2023/06/to-keep-starliner-flying-boeing-must-make-some-hard-choices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T183154">2023-06-02 18:31:54 UTC</a></sub>
-* [This Week In Spaceflight: China’s lunar plans, North Korea’s failed launch, and Starliner delays](https://www.nasaspaceflight.com/2023/06/twis-20230602/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T180315">2023-06-02 18:03:15 UTC</a></sub>
-* [Space-Comm Expo 2023 – Where Space Does Business](https://spacenews.com/space-comm-expo-2023-where-space-does-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T150811">2023-06-02 15:08:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T163534">2023-06-05 16:35:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T170638">2023-06-05 17:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
