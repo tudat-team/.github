@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Nearly two decades after NASA, China and Europe eye commercial cargo plans](https://arstechnica.com/space/2023/06/china-and-europe-both-seek-to-emulate-nasas-success-with-commercial-cargo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T125918">2023-06-06 12:59:18 UTC</a></sub>
 * [Blue Origin within a “few weeks” of resuming New Shepard flights](https://spacenews.com/blue-origin-within-a-few-weeks-of-resuming-new-shepard-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T115528">2023-06-06 11:55:28 UTC</a></sub>
 * [NASA Psyche mission back on track for October launch](https://spacenews.com/nasa-psyche-mission-back-on-track-for-october-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T080059">2023-06-06 08:00:59 UTC</a></sub>
 * [Game on—the most metal of asteroid missions is back on the menu](https://arstechnica.com/space/2023/06/nasa-says-its-metal-mission-psyche-is-back-on-track-for-an-october-liftoff/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T223123">2023-06-05 22:31:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Selects Small Business, Research Teams for Tech Development](http://www.nasa.gov/press-release/nasa-selects-small-business-research-teams-for-tech-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T190700">2023-06-05 19:07:00 UTC</a></sub>
 * [Digital twins gaining traction in military satellite programs](https://spacenews.com/digital-twins-gaining-traction-in-military-satellite-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T173725">2023-06-05 17:37:25 UTC</a></sub>
 * [Falcon 9 launches cargo Dragon to space station with new solar arrays](https://spacenews.com/falcon-9-launches-cargo-dragon-to-space-station-with-new-solar-arrays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T173006">2023-06-05 17:30:06 UTC</a></sub>
-* [Viasat forms satcoms titan to take on a market in transformation](https://spacenews.com/viasat-forms-satcoms-titan-to-take-on-a-market-in-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T172336">2023-06-05 17:23:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T131118">2023-06-06 13:11:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T133207">2023-06-06 13:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
