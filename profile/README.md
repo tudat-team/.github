@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Wildfire smoke and haze in the Eastern United States should peak this week](https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T133016">2023-06-07 13:30:16 UTC</a></sub>
 * [RFA ONE Creeps Ever Closer to the Launchpad](https://europeanspaceflight.com/rfa-one-creeps-ever-closer-to-the-launchpad/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T133000">2023-06-07 13:30:00 UTC</a></sub>
+* [York Space Systems acquires Emergent Space Technologies](https://spacenews.com/york-space-systems-acquires-emergent-space-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T132807">2023-06-07 13:28:07 UTC</a></sub>
 * [Space investment rebounding, but more selectively](https://spacenews.com/space-investment-rebounding-but-more-selectively/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T100923">2023-06-07 10:09:23 UTC</a></sub>
 * [Apogeo Space orders second space tug for connectivity constellation](https://spacenews.com/apogeo-space-orders-second-space-tug-for-connectivity-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T220247">2023-06-06 22:02:47 UTC</a></sub>
 * [Space Force opens new office to foster ties with private sector](https://spacenews.com/space-force-opens-new-office-to-foster-ties-with-private-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T193004">2023-06-06 19:30:04 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OneWeb targets maritime market with expanded satellite coverage](https://spacenews.com/oneweb-targets-maritime-market-with-expanded-satellite-coverage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T184313">2023-06-06 18:43:13 UTC</a></sub>
 * [Webb unveils the secrets of the early universe via deep field, peers into stellar nurseries](https://www.nasaspaceflight.com/2023/06/webb-jades-and-ngc5068/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T182441">2023-06-06 18:24:41 UTC</a></sub>
 * [Evidence Mounting That Avio Intends to Split from Arianespace](https://europeanspaceflight.com/evidence-mounting-that-avio-intends-to-split-from-arianespace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T173000">2023-06-06 17:30:00 UTC</a></sub>
-* [INTERVIEW: We Sit Down With RFA COO Stefan Brieschenk](https://tlpnetwork.com/news/2023/06/rfa-interview-stefan-brieschenk) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T170045">2023-06-06 17:00:45 UTC</a></sub>
-* [With 7,000+ satellites and growing, is space sustainable? An Ars Frontiers recap](https://arstechnica.com/space/2023/06/with-7000-satellites-and-growing-is-space-sustainable-an-ars-frontiers-recap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T165738">2023-06-06 16:57:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T133352">2023-06-07 13:33:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T140657">2023-06-07 14:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
