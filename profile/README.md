@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SAIC to develop ‘software factory’ for Space Development Agency](https://spacenews.com/saic-to-develop-software-factory-for-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T144653">2023-06-08 14:46:53 UTC</a></sub>
+* [ArianeGroup Renames its GEOTracker Space Surveillance Service](https://europeanspaceflight.com/arianegroup-renames-its-geotracker-space-surveillance-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T140000">2023-06-08 14:00:00 UTC</a></sub>
 * [Hydrosat acquires IrriWatch](https://spacenews.com/hydrosat-acquires-irriwatch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T123815">2023-06-08 12:38:15 UTC</a></sub>
 * [Albedo expands staff and facilities](https://spacenews.com/albedo-expanding-staff-and-facilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T113000">2023-06-08 11:30:00 UTC</a></sub>
 * [NASA concerned Starship problems will delay Artemis 3](https://spacenews.com/nasa-concerned-starship-problems-will-delay-artemis-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T094544">2023-06-08 09:45:44 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing hit with a lawsuit over alleged “theft” of SLS rocket tools](https://arstechnica.com/space/2023/06/supplier-sues-boeing-over-alleged-theft-of-sls-rocket-tools/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T232812">2023-06-07 23:28:12 UTC</a></sub>
 * [Space Command seeks more efficient use of space-tracking and missile sensors](https://spacenews.com/space-command-seeks-more-efficient-use-of-space-tracking-and-missile-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T211115">2023-06-07 21:11:15 UTC</a></sub>
 * [NASA Opens Applications for Artifact Program to Museums, Schools, More](http://www.nasa.gov/press-release/nasa-opens-applications-for-artifact-program-to-museums-schools-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T205700">2023-06-07 20:57:00 UTC</a></sub>
-* [ESA launches AI project to monitor organic cotton supplies](https://spacenews.com/esa-launches-ai-project-to-monitor-organic-cotton-supplies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T204336">2023-06-07 20:43:36 UTC</a></sub>
-* [NASA Awards $5 Million to Women’s Colleges Tackling STEM Gender Gap](http://www.nasa.gov/press-release/nasa-awards-5-million-to-women-s-colleges-tackling-stem-gender-gap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T190700">2023-06-07 19:07:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T143211">2023-06-08 14:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T150721">2023-06-08 15:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
