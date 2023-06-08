@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vulcan performs static-fire test](https://spacenews.com/vulcan-performs-static-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T014423">2023-06-08 01:44:23 UTC</a></sub>
 * [Nuview reveals backers  including actor Leonardo DiCaprio](https://spacenews.com/nuview-reveals-backers-including-actor-leonardo-dicaprio/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T235428">2023-06-07 23:54:28 UTC</a></sub>
 * [Boeing hit with a lawsuit over alleged “theft” of SLS rocket tools](https://arstechnica.com/space/2023/06/supplier-sues-boeing-over-alleged-theft-of-sls-rocket-tools/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T232812">2023-06-07 23:28:12 UTC</a></sub>
 * [Space Command seeks more efficient use of space-tracking and missile sensors](https://spacenews.com/space-command-seeks-more-efficient-use-of-space-tracking-and-missile-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T211115">2023-06-07 21:11:15 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New York’s air quality reaches “hazardous” level, by far the worst in the world](https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T184516">2023-06-07 18:45:16 UTC</a></sub>
 * [NASA Invites Media to View Asteroid Sample Recovery Rehearsal](http://www.nasa.gov/press-release/nasa-invites-media-to-view-asteroid-sample-recovery-rehearsal) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170700">2023-06-07 17:07:00 UTC</a></sub>
 * [Boeing sued over alleged theft of IP, counterfeiting of tools used on NASA projects](https://www.cnbc.com/2023/06/07/wilson-aerospace-sues-boeing-over-allegedly-stole-ip-for-nasa-projects.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170018">2023-06-07 17:00:18 UTC</a></sub>
-* [How bedrest and cycling in artificial gravity is being tested to aid human spaceflight](https://www.nasaspaceflight.com/2023/06/bedrest-cycling-artificial-gravity-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T165336">2023-06-07 16:53:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T004445">2023-06-08 00:44:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T022127">2023-06-08 02:21:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
