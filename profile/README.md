@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New spending caps to create challenges for NASA](https://spacenews.com/new-spending-caps-to-create-challenges-for-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T120146">2023-06-09 12:01:46 UTC</a></sub>
 * [Video shows Astroscale’s plan to deorbit multiple satellites](https://spacenews.com/astroscale-video-shows-plan-to-deorbit-multiple-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T041742">2023-06-09 04:17:42 UTC</a></sub>
 * [China outlines ambitious plans for Moon landing; ZhuQue-2 prepares to launch again](https://www.nasaspaceflight.com/2023/06/china-moon-zq-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T004630">2023-06-09 00:46:30 UTC</a></sub>
 * [GAO flags concerns about Space Force satellite procurements](https://spacenews.com/gao-flags-concerns-about-space-force-satellite-procurements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T220923">2023-06-08 22:09:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Dragon capsule breaks U.S. spaceflight records](https://www.teslarati.com/spacex-dragon-capsule-breaks-u-s-spaceflight-records/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183715">2023-06-08 18:37:15 UTC</a></sub>
 * [Why – and How – NASA Gives a Name to Every Spot It Studies on Mars](https://mars.nasa.gov/news/9413/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183700">2023-06-08 18:37:00 UTC</a></sub>
 * [Investing in Space: Here are the rockets chasing to compete with SpaceX’s Falcon 9](https://www.cnbc.com/2023/06/08/investing-in-space-rockets-chase-to-compete-with-spacexs-falcon-9.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T180710">2023-06-08 18:07:10 UTC</a></sub>
-* [Firefly Aerospace acquires Spaceflight Inc.](https://spacenews.com/firefly-aerospace-acquires-spaceflight-inc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T175210">2023-06-08 17:52:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T113214">2023-06-09 11:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T121348">2023-06-09 12:13:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
