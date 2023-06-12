@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Invites Media to Tours, Opening of Earth Information Center](http://www.nasa.gov/press-release/nasa-invites-media-to-tours-opening-of-earth-information-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185800">2023-06-12 18:58:00 UTC</a></sub>
 * [U.S. defense companies find roadblocks in selling space technologies to allies](https://spacenews.com/u-s-defense-companies-find-roadblocks-in-selling-space-technologies-to-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T171819">2023-06-12 17:18:19 UTC</a></sub>
 * [SpaceX Transporter-8 to launch 72 payloads – Booster targets landing milestone](https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T161657">2023-06-12 16:16:57 UTC</a></sub>
 * [SES CEO Steve Collar announces sudden resignation](https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T152456">2023-06-12 15:24:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Should the FAA regulate all space activities?](https://spacenews.com/should-the-faa-regulate-all-space-activities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T180549">2023-06-10 18:05:49 UTC</a></sub>
 * [U.S. Space Force in talks with allies about how to jointly protect space assets](https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220834">2023-06-09 22:08:34 UTC</a></sub>
 * [House Republicans introduce bill to create an independent NOAA](https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T220305">2023-06-09 22:03:05 UTC</a></sub>
-* [Ursa Major confirms layoffs: ‘Necessary workforce reductions’](https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T212156">2023-06-09 21:21:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T183237">2023-06-12 18:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T190420">2023-06-12 19:04:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
