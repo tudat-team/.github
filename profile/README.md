@@ -17,52 +17,6 @@ conda install -c tudat-team <package>
     <th>Version</th>
   </tr>
 <tr>
-    <td><code><a href="https://github.com/tudat-team/cspice-cmake/tree/master" target="_blank">cspice-cmake</a> (<a href="https://github.com/tudat-team/cspice-cmake-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
-    <td>
-<details>
-<summary>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main"/>
-</a>
-</summary>
-<table>
-<thead><tr><th>Variant</th><th>Status</th></tr></thead>
-<tbody><tr>
-<td>linux_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_arm64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
-</a>
-</td>
-</tr><tr>
-<td>win_64</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
-</a>
-</td>
-</tr>
-</tbody>
-</table>
-</details>
-</td>
-    <td><code>66.0.0</code></td>
-  </tr>
-<tr>
     <td><code><a href="https://github.com/tudat-team/sofa-cmake/tree/master" target="_blank">sofa-cmake</a> (<a href="https://github.com/tudat-team/sofa-cmake-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
     <td>
 <details>
@@ -568,6 +522,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Op-ed | To Open the Space Frontier, CLD Must Not Fail](https://spacenews.com/op-ed-to-open-the-space-frontier-cld-must-not-fail/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213918">2023-06-13 21:39:18 UTC</a></sub>
 * [SpaceX picks Ship 25 and Booster 9 for next Starship test flight](https://www.teslarati.com/spacex-picks-ship-25-booster-9-for-next-starship-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T194919">2023-06-13 19:49:19 UTC</a></sub>
 * [With NuSTAR, scientists reveal new characteristics of the brightest gamma-ray burst ever detected](https://www.nasaspaceflight.com/2023/06/grb-221009a-nustar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T183628">2023-06-13 18:36:28 UTC</a></sub>
 * [SES CEO Steps Down Effective End Of June](https://tlpnetwork.com/news/2023/06/ses-ceo-resigns-effective-end-of-june) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T162800">2023-06-13 16:28:00 UTC</a></sub>
@@ -577,7 +532,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OrbeX Announces Arianespace Partnership ](https://tlpnetwork.com/news/2023/06/orbex-announces-arianespace-partnership) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T153200">2023-06-13 15:32:00 UTC</a></sub>
 * [UAE Plans Mission To Asteroid Belt](https://tlpnetwork.com/news/2023/06/uae-plans-mission-to-asteroid-belt) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T140300">2023-06-13 14:03:00 UTC</a></sub>
 * [Air Force orders a Viasat-3 terminal to demonstrate space relay service](https://spacenews.com/air-force-orders-a-viasat-3-terminal-to-demonstrate-space-relay-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135929">2023-06-13 13:59:29 UTC</a></sub>
-* [NASA Psyche Set To Launch In October](https://tlpnetwork.com/news/2023/06/nasa-psyche-set-to-launch-in-october) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T135500">2023-06-13 13:55:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +564,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213225">2023-06-13 21:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T220758">2023-06-13 22:07:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
