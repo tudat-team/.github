@@ -576,7 +576,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space domain awareness provisions in draft NDAA proposal ](https://spacenews.com/space-domain-awareness-provisions-in-draft-ndaa-proposal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185925">2023-06-12 18:59:25 UTC</a></sub>
 * [NASA Invites Media to Tours, Opening of Earth Information Center](http://www.nasa.gov/press-release/nasa-invites-media-to-tours-opening-of-earth-information-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185800">2023-06-12 18:58:00 UTC</a></sub>
 * [U.S. defense companies find roadblocks in selling space technologies to allies](https://spacenews.com/u-s-defense-companies-find-roadblocks-in-selling-space-technologies-to-allies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T171819">2023-06-12 17:18:19 UTC</a></sub>
-* [SpaceX Transporter-8 launches 72 payloads – Booster landing milestone](https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T161657">2023-06-12 16:16:57 UTC</a></sub>
+* [SpaceX Transporter-8 launches 72 payloads marking 200th booster landing](https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T161657">2023-06-12 16:16:57 UTC</a></sub>
 * [SES CEO Steve Collar announces sudden resignation](https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T152456">2023-06-12 15:24:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T043249">2023-06-13 04:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T050717">2023-06-13 05:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
