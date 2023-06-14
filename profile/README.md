@@ -568,7 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Vulcan rocket completes critical test, but launch slipping toward end of 2023](https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T164810">2023-06-14 16:48:10 UTC</a></sub>
+* [Tomorrow.io raises $87 million for weather satellite constellation](https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T175014">2023-06-14 17:50:14 UTC</a></sub>
+* [Vulcan aces engine test, but upper stage anomaly will delay launch for a while](https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T164810">2023-06-14 16:48:10 UTC</a></sub>
 * [Muon celebrates launch of first satellite in Climate Constellation](https://spacenews.com/muon-celebrates-launch-of-first-satellite-in-climate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T133000">2023-06-14 13:30:00 UTC</a></sub>
 * [China begins constructing commercial launch pad for solid rockets](https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T124903">2023-06-14 12:49:03 UTC</a></sub>
 * [Deloitte calls on companies to draft long-term space strategies](https://spacenews.com/deloitte-calls-on-companies-to-draft-long-term-space-strategies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T100000">2023-06-14 10:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Satellite execs call for more data to improve space sustainability](https://spacenews.com/satellite-execs-call-for-more-data-to-improve-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T013000">2023-06-14 01:30:00 UTC</a></sub>
 * [DARPA downsizes Blackjack space experiment](https://spacenews.com/darpa-downsizes-blackjack-space-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T010000">2023-06-14 01:00:00 UTC</a></sub>
 * [Artemis 2 Astronaut Completes Vision Quest](https://tlpnetwork.com/news/2023/06/artemis-2-astronaut-completes-vision-quest) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T215600">2023-06-13 21:56:00 UTC</a></sub>
-* [Op-ed | To Open the Space Frontier, CLD Must Not Fail](https://spacenews.com/op-ed-to-open-the-space-frontier-cld-must-not-fail/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T213918">2023-06-13 21:39:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NROL-68: Delta IV Heavy readied for national security launch](https://blog.ulalaunch.com/blog/nrol-68-delta-iv-heavy-readied-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T172917">2023-06-14 17:29:17 UTC</a></sub>
 * [How to Fix the Pollution of Orbital Debris](https://blog.ulalaunch.com/blog/how-to-fix-the-pollution-of-orbital-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T122912">2023-06-14 12:29:12 UTC</a></sub>
 * [Day of Action 2023 - Participant Information](https://www.planetary.org/advocacy/day-of-action-2023-participant-information) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231905">2023-06-12 23:19:05 UTC</a></sub>
 * [Why did we need OSIRIS-REx?](https://www.planetary.org/articles/why-did-we-need-osiris-rex) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T150907">2023-06-12 15:09:07 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Are aliens real?](https://www.planetary.org/articles/are-aliens-real) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T143736">2023-06-07 14:37:36 UTC</a></sub>
 * [Would you like some salty water with your space salad?](https://www.planetary.org/the-downlink/would-you-like-some-salty-water-with-your-space-salad) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230602T143714">2023-06-02 14:37:14 UTC</a></sub>
 * [Space salads and salty waters](https://www.planetary.org/articles/step-grant-winners-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T135637">2023-05-31 13:56:37 UTC</a></sub>
-* [Way out there](https://www.planetary.org/the-downlink/way-out-there) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T143628">2023-05-26 14:36:28 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T173226">2023-06-14 17:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180911">2023-06-14 18:09:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
