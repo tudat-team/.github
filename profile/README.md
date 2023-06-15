@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Former top SpaceX lawyer joins Surf Air Mobility as it prepares to go public](https://www.cnbc.com/2023/06/15/former-spacex-lawyer-david-anderman-joins-surf-air-mobility.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T150001">2023-06-15 15:00:01 UTC</a></sub>
+* [Former Spaceflight CEO joins law firm to support commercial space clients](https://spacenews.com/former-spaceflight-ceo-joins-law-firm-to-support-commercial-space-clients/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T145948">2023-06-15 14:59:48 UTC</a></sub>
 * [Luxembourg approves program to give NATO O3b mPower access](https://spacenews.com/luxembourg-approves-program-to-give-nato-o3b-mpower-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T141433">2023-06-15 14:14:33 UTC</a></sub>
 * [More countries encouraged to commit to halt destructive ASAT tests](https://spacenews.com/more-countries-encouraged-to-commit-to-halt-destructive-asat-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T100006">2023-06-15 10:00:06 UTC</a></sub>
 * [For the first time in decades, Congress seems interested in space-based solar power](https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T222348">2023-06-14 22:23:48 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T180100">2023-06-14 18:01:00 UTC</a></sub>
 * [Tomorrow.io raises $87 million for weather satellite constellation](https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T175014">2023-06-14 17:50:14 UTC</a></sub>
 * [Vulcan aces engine test, but upper stage anomaly will delay launch for a while](https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T164810">2023-06-14 16:48:10 UTC</a></sub>
-* [Muon celebrates launch of first satellite in Climate Constellation](https://spacenews.com/muon-celebrates-launch-of-first-satellite-in-climate-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T133000">2023-06-14 13:30:00 UTC</a></sub>
-* [China begins constructing commercial launch pad for solid rockets](https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T124903">2023-06-14 12:49:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T153206">2023-06-15 15:32:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T160905">2023-06-15 16:09:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
