@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! NASA Partners With SpaceX, Blue Origin, Sierra Space + 4 Others For Future Commercial Space Capabilities](https://tlpnetwork.com/news/2023/06/nasa-partners-with-7-companies-for-future-commercial-space-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T210600">2023-06-15 21:06:00 UTC</a></sub>
 * [Seven US Companies Collaborate with NASA to Advance Space Capabilities](http://www.nasa.gov/press-release/seven-us-companies-collaborate-with-nasa-to-advance-space-capabilities) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T203800">2023-06-15 20:38:00 UTC</a></sub>
 * [Virgin Galactic sets late June date for first commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T201059">2023-06-15 20:10:59 UTC</a></sub>
 * [Virgin Galactic sets first commercial space tourism flight for this month; shares spike more than 30%](https://www.cnbc.com/2023/06/15/virgin-galactic-sets-first-commercial-space-tourism-flight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T200501">2023-06-15 20:05:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space: Bankers and insiders say M&A action is heating up](https://www.cnbc.com/2023/06/15/investing-in-space-bankers-and-insiders-say-ma-action-is-heating-up.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T163809">2023-06-15 16:38:09 UTC</a></sub>
 * [Former top SpaceX lawyer joins Surf Air Mobility as it prepares to go public](https://www.cnbc.com/2023/06/15/former-spacex-lawyer-david-anderman-joins-surf-air-mobility.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T150001">2023-06-15 15:00:01 UTC</a></sub>
 * [Former Spaceflight CEO joins law firm to support commercial space clients](https://spacenews.com/former-spaceflight-ceo-joins-law-firm-to-support-commercial-space-clients/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T145948">2023-06-15 14:59:48 UTC</a></sub>
-* [Luxembourg approves program to give NATO O3b mPower access](https://spacenews.com/luxembourg-approves-program-to-give-nato-o3b-mpower-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T141433">2023-06-15 14:14:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T213218">2023-06-15 21:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T220647">2023-06-15 22:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
