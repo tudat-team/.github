@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK Space Agency prioritizes sustainability](https://spacenews.com/uk-space-agency-prioritizes-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T223836">2023-06-16 22:38:36 UTC</a></sub>
 * [Despite growing interest in commercial satellite data, industry faces uncertainty](https://spacenews.com/despite-growing-interest-in-commercial-satellite-data-industry-faces-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T203827">2023-06-16 20:38:27 UTC</a></sub>
 * [NASA Awards Institutional, Maintenance, Operations, and Repair Contract](http://www.nasa.gov/press-release/nasa-awards-institutional-maintenance-operations-and-repair-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T202900">2023-06-16 20:29:00 UTC</a></sub>
 * [NASA Awards Transformational Shared Services Support Contract](http://www.nasa.gov/press-release/nasa-awards-transformational-shared-services-support-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T195900">2023-06-16 19:59:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Invites Media to View Orion Spacecraft for Next Artemis Missions](http://www.nasa.gov/press-release/nasa-invites-media-to-view-orion-spacecraft-for-next-artemis-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T142900">2023-06-16 14:29:00 UTC</a></sub>
 * [Intelligence analysts confront the reality of deepfakes](https://spacenews.com/intelligence-analysts-confront-the-reality-of-deepfakes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T140000">2023-06-16 14:00:00 UTC</a></sub>
 * [NASA agreements to support work on commercial spacecraft and space stations](https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113428">2023-06-16 11:34:28 UTC</a></sub>
-* [CesiumAstro to develop satcom terminal for U.S. Air Force drone](https://spacenews.com/cesiumastro-to-develop-satcom-terminal-for-u-s-air-force-reaper-drone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T112224">2023-06-16 11:22:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T223210">2023-06-16 22:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T230731">2023-06-16 23:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
