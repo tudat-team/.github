@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Launch Roundup – Rocket Lab to launch first HASTE mission; SpaceX to launch Satria](https://www.nasaspaceflight.com/2023/06/launch-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T210135">2023-06-17 21:01:35 UTC</a></sub>
+* [Launch Roundup – Rocket Lab launches first HASTE mission; SpaceX to launch Satria](https://www.nasaspaceflight.com/2023/06/launch-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T210135">2023-06-17 21:01:35 UTC</a></sub>
 * [NASA & Boeing To "Shape Future Of Aviation" With X-66A ](https://tlpnetwork.com/news/2023/06/nasa-and-boeing-to-shape-future-of-aviation-with-x66a) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T133100">2023-06-17 13:31:00 UTC</a></sub>
 * [US House Members Introduce Bill To Make NOAA A Independent Agency](https://tlpnetwork.com/news/2023/06/us-house-members-introduce-bill-to-make-noaa-a-independent-agency) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
 * [Firefly Aerospace Purchases Remaining Virgin Orbit Assets](https://tlpnetwork.com/news/2023/06/firefly-aerospace-purchases-remaining-virgin-orbit-assets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T132200">2023-06-17 13:22:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T004903">2023-06-18 00:49:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T022303">2023-06-18 02:23:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
