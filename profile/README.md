@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab launches first HASTE mission](https://www.teslarati.com/rocket-lab-launches-first-haste-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T193906">2023-06-19 19:39:06 UTC</a></sub>
 * [Skyrora Tests First 3D Printed Rocket Engine](https://tlpnetwork.com/news/2023/06/skyrora-first-test-of-new-70kn-engine) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T185651">2023-06-19 18:56:51 UTC</a></sub>
 * [Cassini data reveals the presence of phosphorus in Enceladus’ ocean plumes](https://www.nasaspaceflight.com/2023/06/enceladus-phosphorus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T184912">2023-06-19 18:49:12 UTC</a></sub>
 * [China attracts moon base partners, outlines project timelines](https://spacenews.com/china-attracts-moon-base-partners-outlines-project-timelines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T184044">2023-06-19 18:40:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab launches first suborbital version of Electron](https://spacenews.com/rocket-lab-launches-first-suborbital-version-of-electron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133725">2023-06-18 13:37:25 UTC</a></sub>
 * [FAA Reduces Airspace Closures During Launches](https://tlpnetwork.com/news/2023/06/faa-reduces-airspace-closures-during-launches) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T133500">2023-06-18 13:35:00 UTC</a></sub>
 * [SpaceX launches Indonesian telecommunications satellite](https://www.teslarati.com/spacex-launches-indonesian-telecommunications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T015905">2023-06-18 01:59:05 UTC</a></sub>
-* [Launch Roundup – Rocket Lab launches first HASTE mission; SpaceX launches Satria](https://www.nasaspaceflight.com/2023/06/launch-roundup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T210135">2023-06-17 21:01:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T193224">2023-06-19 19:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T200747">2023-06-19 20:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
