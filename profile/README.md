@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [United Launch Alliance ready for penultimate Delta IV Heavy launch](https://www.teslarati.com/united-launch-alliance-ready-for-penultimate-delta-iv-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T205904">2023-06-20 20:59:04 UTC</a></sub>
 * [ULA’s penultimate Delta IV Heavy to launch with NROL-68 mission](https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193842">2023-06-20 19:38:42 UTC</a></sub>
 * [After tough start this year, United Launch Alliance can turn things around tonight](https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T174320">2023-06-20 17:43:20 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T141800">2023-06-20 14:18:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ramon.Space reveals partnership with Foxconn subsidiary Ingrasys](https://spacenews.com/ramon-space-reveals-partnership-with-foxconn-subsidiary-ingrasys/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
 * [Orbital Composites leans into space market](https://spacenews.com/orbital-composites-leans-into-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T120000">2023-06-20 12:00:00 UTC</a></sub>
 * [Boeing CEO says company still committed to Starliner](https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T092641">2023-06-20 09:26:41 UTC</a></sub>
-* [Indonesia’s Satria-1 deploys solar panels ahead of geostationary trip](https://spacenews.com/indonesias-satria-1-deploys-solar-panels-ahead-of-geostationary-trip/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T211647">2023-06-19 21:16:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T203232">2023-06-20 20:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T210631">2023-06-20 21:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
