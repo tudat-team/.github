@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Atlantic tropics are on fire—it already looks like August out there](https://arstechnica.com/science/2023/06/the-atlantic-tropics-are-on-fire-it-already-looks-a-like-august-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T212509">2023-06-21 21:25:09 UTC</a></sub>
+* [Intelsat ends merger talks with rival satellite communications giant SES](https://www.cnbc.com/2023/06/21/intelsat-ends-merger-talks-with-ses.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T210810">2023-06-21 21:08:10 UTC</a></sub>
 * [NASA, Department of Agriculture Advance Exploration, Science](http://www.nasa.gov/press-release/nasa-department-of-agriculture-advance-exploration-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T202400">2023-06-21 20:24:00 UTC</a></sub>
 * [Mynaric to supply laser communications for Raytheon’s missile-tracking satellites](https://spacenews.com/mynaric-to-supply-laser-communications-for-raytheons-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T193152">2023-06-21 19:31:52 UTC</a></sub>
 * [Intelsat walks away from SES merger talks](https://spacenews.com/intelsat-walks-away-from-ses-merger-talks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T192849">2023-06-21 19:28:49 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Holds Ribbon Cutting for New Earth Information Center](http://www.nasa.gov/press-release/nasa-holds-ribbon-cutting-for-new-earth-information-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T153400">2023-06-21 15:34:00 UTC</a></sub>
 * [Scout Space announces new investors](https://spacenews.com/scout-space-announces-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T140000">2023-06-21 14:00:00 UTC</a></sub>
 * [Startup Danti unveils search engine for geospatial data](https://spacenews.com/startup-danti-unveils-search-engine-for-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T131620">2023-06-21 13:16:20 UTC</a></sub>
-* [The Space Race may already be won](https://spacenews.com/op-ed-the-space-race-may-already-be-won/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T103032">2023-06-21 10:30:32 UTC</a></sub>
-* [Space Forge names manager for U.S. manufacturing operations](https://spacenews.com/space-forge-names-manager-for-u-s-manufacturing-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T040100">2023-06-21 04:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T213231">2023-06-21 21:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T220631">2023-06-21 22:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
