@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, Department of Agriculture Advance Exploration, Science](http://www.nasa.gov/press-release/nasa-department-of-agriculture-advance-exploration-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T202400">2023-06-21 20:24:00 UTC</a></sub>
 * [Mynaric to supply laser communications for Raytheon’s missile-tracking satellites](https://spacenews.com/mynaric-to-supply-laser-communications-for-raytheons-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T193152">2023-06-21 19:31:52 UTC</a></sub>
 * [Intelsat walks away from SES merger talks](https://spacenews.com/intelsat-walks-away-from-ses-merger-talks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T192849">2023-06-21 19:28:49 UTC</a></sub>
 * [NASA Invites Media to Northrop Grumman Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T171400">2023-06-21 17:14:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Startup Danti unveils search engine for geospatial data](https://spacenews.com/startup-danti-unveils-search-engine-for-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T131620">2023-06-21 13:16:20 UTC</a></sub>
 * [The Space Race may already be won](https://spacenews.com/op-ed-the-space-race-may-already-be-won/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T103032">2023-06-21 10:30:32 UTC</a></sub>
 * [Space Forge names manager for U.S. manufacturing operations](https://spacenews.com/space-forge-names-manager-for-u-s-manufacturing-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T040100">2023-06-21 04:01:00 UTC</a></sub>
-* [FAA reduces airspace restrictions for Cape Canaveral launches](https://spacenews.com/faa-reduces-airspace-restrictions-for-cape-canaveral-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T025737">2023-06-21 02:57:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T203231">2023-06-21 20:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T210757">2023-06-21 21:07:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
