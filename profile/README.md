@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Scout Space announces new investors](https://spacenews.com/scout-space-announces-new-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T140000">2023-06-21 14:00:00 UTC</a></sub>
 * [Startup Danti unveils search engine for geospatial data](https://spacenews.com/startup-danti-unveils-search-engine-for-geospatial-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T131620">2023-06-21 13:16:20 UTC</a></sub>
 * [Op-ed | The Space Race may already be won](https://spacenews.com/op-ed-the-space-race-may-already-be-won/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T103032">2023-06-21 10:30:32 UTC</a></sub>
+* [Space Forge names manager for U.S. manufacturing operations](https://spacenews.com/space-forge-names-manager-for-u-s-manufacturing-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T040100">2023-06-21 04:01:00 UTC</a></sub>
 * [FAA reduces airspace restrictions for Cape Canaveral launches](https://spacenews.com/faa-reduces-airspace-restrictions-for-cape-canaveral-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T025737">2023-06-21 02:57:37 UTC</a></sub>
 * [Indian SSA startup raises $10 million](https://spacenews.com/indian-ssa-startup-raises-10-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T013618">2023-06-21 01:36:18 UTC</a></sub>
 * [Vyoma raises $9 million for debris-monitoring satellites](https://spacenews.com/vyoma-raises-9-million-for-debris-monitoring-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T013049">2023-06-21 01:30:49 UTC</a></sub>
 * [RFA Sign Binding Term Sheet for Access to Guiana Space Center](https://europeanspaceflight.com/rfa-sign-binding-term-sheet-for-access-to-guiana-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T213007">2023-06-20 21:30:07 UTC</a></sub>
 * [United Launch Alliance ready for penultimate Delta IV Heavy launch](https://www.teslarati.com/united-launch-alliance-ready-for-penultimate-delta-iv-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T205904">2023-06-20 20:59:04 UTC</a></sub>
 * [ULA’s penultimate Delta IV Heavy to launch NROL-68 mission on Thursday](https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193842">2023-06-20 19:38:42 UTC</a></sub>
-* [After tough start this year, United Launch Alliance can turn things around tonight](https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T174320">2023-06-20 17:43:20 UTC</a></sub>
-* [NASA Plans Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T141800">2023-06-20 14:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T133210">2023-06-21 13:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T140655">2023-06-21 14:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
