@@ -574,7 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Vyoma raises $9 million for debris-monitoring satellites](https://spacenews.com/vyoma-raises-9-million-for-debris-monitoring-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T013049">2023-06-21 01:30:49 UTC</a></sub>
 * [RFA Sign Binding Term Sheet for Access to Guiana Space Center](https://europeanspaceflight.com/rfa-sign-binding-term-sheet-for-access-to-guiana-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T213007">2023-06-20 21:30:07 UTC</a></sub>
 * [United Launch Alliance ready for penultimate Delta IV Heavy launch](https://www.teslarati.com/united-launch-alliance-ready-for-penultimate-delta-iv-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T205904">2023-06-20 20:59:04 UTC</a></sub>
-* [ULA’s penultimate Delta IV Heavy to launch with NROL-68 mission](https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193842">2023-06-20 19:38:42 UTC</a></sub>
+* [ULA’s penultimate Delta IV Heavy to launch NROL-68 mission on Thursday](https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193842">2023-06-20 19:38:42 UTC</a></sub>
 * [After tough start this year, United Launch Alliance can turn things around tonight](https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T174320">2023-06-20 17:43:20 UTC</a></sub>
 * [NASA Plans Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T141800">2023-06-20 14:18:00 UTC</a></sub>
 * [Intelsat orders another servicing mission from Northrop Grumman’s SpaceLogistics](https://spacenews.com/intelsat-orders-another-refueling-mission-from-northrop-grummans-spacelogistics/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T133142">2023-06-20 13:31:42 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T113213">2023-06-21 11:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T121414">2023-06-21 12:14:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
