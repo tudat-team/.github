@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CNES Awards Contract to Dark for Space Debris Interceptor Simulation](https://europeanspaceflight.com/cnes-awards-contract-to-dark-for-space-debris-interceptor-simulation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T070300">2023-06-22 07:03:00 UTC</a></sub>
+* [Intelsat Ends Merger Negotiations with SES](https://tlpnetwork.com/news/2023/06/intelsat-ends-merger-negotiations-with-ses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T060500">2023-06-22 06:05:00 UTC</a></sub>
 * [NorthStar Signs Multi Launch Deal With RocketLab Following Virgin Orbit Collapse](https://tlpnetwork.com/news/2023/06/northstar-signs-multi-launch-deal-with-rocketlab-following-virgin-orbit-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T055100">2023-06-22 05:51:00 UTC</a></sub>
 * [NorthStar pivots to Rocket Lab following Virgin Orbit’s collapse](https://spacenews.com/northstar-pivots-to-rocket-lab-following-virgin-orbits-collapse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053713">2023-06-22 05:37:13 UTC</a></sub>
 * [SpaceLogistics Secures 3 Orders For New Robotic Maintenance & Boosting Spacecraft Set To Launch 2025](https://tlpnetwork.com/news/2023/06/spacelogistics-secures-3-orders-for-robotic-maintenance-and-boosting-spacecraft-set-to-launch-2025) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053200">2023-06-22 05:32:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ecuador signs Artemis Accords](https://spacenews.com/ecuador-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T011539">2023-06-22 01:15:39 UTC</a></sub>
 * [Ship 25 begins engine testing as Starship launch pad work continues](https://www.nasaspaceflight.com/2023/06/ship-25-engine-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T222142">2023-06-21 22:21:42 UTC</a></sub>
 * [The Atlantic tropics are on fire—it already looks like August out there](https://arstechnica.com/science/2023/06/the-atlantic-tropics-are-on-fire-it-already-looks-a-like-august-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T212509">2023-06-21 21:25:09 UTC</a></sub>
-* [Intelsat ends merger talks with rival satellite communications giant SES](https://www.cnbc.com/2023/06/21/intelsat-ends-merger-talks-with-ses.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T210810">2023-06-21 21:08:10 UTC</a></sub>
-* [NASA, Department of Agriculture Advance Exploration, Science](http://www.nasa.gov/press-release/nasa-department-of-agriculture-advance-exploration-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T202400">2023-06-21 20:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T063404">2023-06-22 06:34:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T070702">2023-06-22 07:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
