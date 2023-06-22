@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Glaze Spells Out Priorities if Budget Cuts Materialize](https://spacepolicyonline.com/news/glaze-spells-out-priorities-if-budget-cuts-materialize/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T033439">2023-06-22 03:34:39 UTC</a></sub>
 * [Ecuador signs Artemis Accords](https://spacenews.com/ecuador-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T011539">2023-06-22 01:15:39 UTC</a></sub>
 * [Ship 25 begins engine testing as Starship launch pad work continues](https://www.nasaspaceflight.com/2023/06/ship-25-engine-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T222142">2023-06-21 22:21:42 UTC</a></sub>
 * [The Atlantic tropics are on fire—it already looks like August out there](https://arstechnica.com/science/2023/06/the-atlantic-tropics-are-on-fire-it-already-looks-a-like-august-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T212509">2023-06-21 21:25:09 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intelsat walks away from SES merger talks](https://spacenews.com/intelsat-walks-away-from-ses-merger-talks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T192849">2023-06-21 19:28:49 UTC</a></sub>
 * [NASA Invites Media to Northrop Grumman Cargo Launch to Space Station](http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-cargo-launch-to-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T171400">2023-06-21 17:14:00 UTC</a></sub>
 * [NASA Welcomes Ecuador as 26th Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-ecuador-as-26th-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T162400">2023-06-21 16:24:00 UTC</a></sub>
-* [NASA Holds Ribbon Cutting for New Earth Information Center](http://www.nasa.gov/press-release/nasa-holds-ribbon-cutting-for-new-earth-information-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T153400">2023-06-21 15:34:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T033224">2023-06-22 03:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T040848">2023-06-22 04:08:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
