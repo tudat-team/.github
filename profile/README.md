@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House Armed Services Committee advances 2024 defense policy bill](https://spacenews.com/house-armed-services-committee-advances-2024-defense-policy-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T075022">2023-06-22 07:50:22 UTC</a></sub>
 * [CNES Awards Contract to Dark for Space Debris Interceptor Simulation](https://europeanspaceflight.com/cnes-awards-contract-to-dark-for-space-debris-interceptor-simulation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T070300">2023-06-22 07:03:00 UTC</a></sub>
 * [Intelsat Ends Merger Negotiations with SES](https://tlpnetwork.com/news/2023/06/intelsat-ends-merger-negotiations-with-ses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T060500">2023-06-22 06:05:00 UTC</a></sub>
 * [NorthStar Signs Multi Launch Deal With RocketLab Following Virgin Orbit Collapse](https://tlpnetwork.com/news/2023/06/northstar-signs-multi-launch-deal-with-rocketlab-following-virgin-orbit-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T055100">2023-06-22 05:51:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Glaze Spells Out Priorities if Budget Cuts Materialize](https://spacepolicyonline.com/news/glaze-spells-out-priorities-if-budget-cuts-materialize/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T033439">2023-06-22 03:34:39 UTC</a></sub>
 * [Ecuador signs Artemis Accords](https://spacenews.com/ecuador-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T011539">2023-06-22 01:15:39 UTC</a></sub>
 * [Ship 25 begins engine testing as Starship launch pad work continues](https://www.nasaspaceflight.com/2023/06/ship-25-engine-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T222142">2023-06-21 22:21:42 UTC</a></sub>
-* [The Atlantic tropics are on fire—it already looks like August out there](https://arstechnica.com/science/2023/06/the-atlantic-tropics-are-on-fire-it-already-looks-a-like-august-out-there/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T212509">2023-06-21 21:25:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T073207">2023-06-22 07:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T080929">2023-06-22 08:09:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
