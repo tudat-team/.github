@@ -568,7 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [BREAKING! India To Sign Artemis Accords, Joint NASA-ISRO Mission to ISS in 2024](https://tlpnetwork.com/news/2023/06/india-to-sign-artemis-accords-joint-nasa-isro-mission-to-iss-in-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T155100">2023-06-22 15:51:00 UTC</a></sub>
+* [ATMOS Space Cargo Raises €4M to Return Cargo from Space](https://europeanspaceflight.com/atmos-space-cargo-raises-e4m-to-return-cargo-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T160551">2023-06-22 16:05:51 UTC</a></sub>
+* [BREAKING! India To Sign Artemis Accords, Joint NASA-ISRO Mission in 2024](https://tlpnetwork.com/news/2023/06/india-to-sign-artemis-accords-joint-nasa-isro-mission-to-iss-in-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T155100">2023-06-22 15:51:00 UTC</a></sub>
 * [Spacecraft builder Apex raises $16 million from a16z and Shield Capital, reveals first customers](https://www.cnbc.com/2023/06/22/spacecraft-builder-apex-raises-16-million-from-a16z-shield-capital.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T150012">2023-06-22 15:00:12 UTC</a></sub>
 * [The bad blood between Musk and Zuckerberg began with a bang](https://arstechnica.com/space/2023/06/will-zuck-and-musk-really-get-into-a-cage-match-if-so-blame-a-rocket-explosion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T144906">2023-06-22 14:49:06 UTC</a></sub>
 * [SpiderOak demonstrates cybersecurity software on orbit](https://spacenews.com/spideroak-demonstrates-cybersecurity-software-on-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T131500">2023-06-22 13:15:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ULA’s Delta 4 Heavy launches classified spy satellite](https://spacenews.com/ulas-delta-4-heavy-launches-classified-spy-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T093412">2023-06-22 09:34:12 UTC</a></sub>
 * [House Armed Services Committee advances 2024 defense policy bill](https://spacenews.com/house-armed-services-committee-advances-2024-defense-policy-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T075022">2023-06-22 07:50:22 UTC</a></sub>
 * [CNES Awards Contract to Dark for Space Debris Interceptor Simulation](https://europeanspaceflight.com/cnes-awards-contract-to-dark-for-space-debris-interceptor-simulation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T070300">2023-06-22 07:03:00 UTC</a></sub>
-* [Intelsat Ends Merger Negotiations with SES](https://tlpnetwork.com/news/2023/06/intelsat-ends-merger-negotiations-with-ses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T060500">2023-06-22 06:05:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [NROL-68: United Launch Alliance Successfully Launches the Penultimate Delta IV Heavy Rocket](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-the-penultimate-delta-iv-heavy-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T161454">2023-06-22 16:14:54 UTC</a></sub>
 * [Marrying the arts and science in space](https://www.planetary.org/articles/ariel-barreiro-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143438">2023-06-22 14:34:38 UTC</a></sub>
 * [Want to be a citizen astronomer and defend Earth from asteroids? Here are some tips.](https://www.planetary.org/articles/citizen-astronomer-asteroid-defender-tips) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173903">2023-06-20 17:39:03 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 12-19, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-12-19-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T032233">2023-06-20 03:22:33 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Vladimir Benishek and the mystique of asteroid research](https://www.planetary.org/articles/vladimir-benishek-asteroid-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T143900">2023-06-15 14:39:00 UTC</a></sub>
 * [NROL-68: Delta IV Heavy readied for national security launch](https://blog.ulalaunch.com/blog/nrol-68-delta-iv-heavy-readied-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T172917">2023-06-14 17:29:17 UTC</a></sub>
 * [How to Fix the Pollution of Orbital Debris](https://blog.ulalaunch.com/blog/how-to-fix-the-pollution-of-orbital-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T122912">2023-06-14 12:29:12 UTC</a></sub>
-* [Day of Action 2023 - Participant Information](https://www.planetary.org/advocacy/day-of-action-2023-participant-information) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231905">2023-06-12 23:19:05 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T163437">2023-06-22 16:34:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T170626">2023-06-22 17:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
