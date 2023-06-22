@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! India To Sign Artemis Accords, Joint NASA-ISRO Mission to ISS in 2024](https://tlpnetwork.com/news/2023/06/india-to-sign-artemis-accords-joint-nasa-isro-mission-to-iss-in-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T155100">2023-06-22 15:51:00 UTC</a></sub>
+* [Spacecraft builder Apex raises $16 million from a16z and Shield Capital, reveals first customers](https://www.cnbc.com/2023/06/22/spacecraft-builder-apex-raises-16-million-from-a16z-shield-capital.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T150012">2023-06-22 15:00:12 UTC</a></sub>
 * [The bad blood between Musk and Zuckerberg began with a bang](https://arstechnica.com/space/2023/06/will-zuck-and-musk-really-get-into-a-cage-match-if-so-blame-a-rocket-explosion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T144906">2023-06-22 14:49:06 UTC</a></sub>
 * [SpiderOak demonstrates cybersecurity software on orbit](https://spacenews.com/spideroak-demonstrates-cybersecurity-software-on-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T131500">2023-06-22 13:15:00 UTC</a></sub>
 * [Space Force missile-warning satellites drawing congressional attention](https://spacenews.com/space-force-missile-warning-satellites-drawing-congressional-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T102825">2023-06-22 10:28:25 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [House Armed Services Committee advances 2024 defense policy bill](https://spacenews.com/house-armed-services-committee-advances-2024-defense-policy-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T075022">2023-06-22 07:50:22 UTC</a></sub>
 * [CNES Awards Contract to Dark for Space Debris Interceptor Simulation](https://europeanspaceflight.com/cnes-awards-contract-to-dark-for-space-debris-interceptor-simulation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T070300">2023-06-22 07:03:00 UTC</a></sub>
 * [Intelsat Ends Merger Negotiations with SES](https://tlpnetwork.com/news/2023/06/intelsat-ends-merger-negotiations-with-ses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T060500">2023-06-22 06:05:00 UTC</a></sub>
-* [NorthStar Signs Multi Launch Deal With RocketLab Following Virgin Orbit Collapse](https://tlpnetwork.com/news/2023/06/northstar-signs-multi-launch-deal-with-rocketlab-following-virgin-orbit-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T055100">2023-06-22 05:51:00 UTC</a></sub>
-* [NorthStar pivots to Rocket Lab following Virgin Orbit’s collapse](https://spacenews.com/northstar-pivots-to-rocket-lab-following-virgin-orbits-collapse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053713">2023-06-22 05:37:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T153223">2023-06-22 15:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T160857">2023-06-22 16:08:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
