@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The bad blood between Musk and Zuckerberg began with a bang](https://arstechnica.com/space/2023/06/will-zuck-and-musk-really-get-into-a-cage-match-if-so-blame-a-rocket-explosion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T144906">2023-06-22 14:49:06 UTC</a></sub>
 * [SpiderOak demonstrates cybersecurity software on orbit](https://spacenews.com/spideroak-demonstrates-cybersecurity-software-on-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T131500">2023-06-22 13:15:00 UTC</a></sub>
 * [Space Force missile-warning satellites drawing congressional attention](https://spacenews.com/space-force-missile-warning-satellites-drawing-congressional-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T102825">2023-06-22 10:28:25 UTC</a></sub>
 * [NASA opens Earth Information Center amid budget uncertainty](https://spacenews.com/nasa-opens-earth-information-center-amid-budget-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T094729">2023-06-22 09:47:29 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intelsat Ends Merger Negotiations with SES](https://tlpnetwork.com/news/2023/06/intelsat-ends-merger-negotiations-with-ses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T060500">2023-06-22 06:05:00 UTC</a></sub>
 * [NorthStar Signs Multi Launch Deal With RocketLab Following Virgin Orbit Collapse](https://tlpnetwork.com/news/2023/06/northstar-signs-multi-launch-deal-with-rocketlab-following-virgin-orbit-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T055100">2023-06-22 05:51:00 UTC</a></sub>
 * [NorthStar pivots to Rocket Lab following Virgin Orbit’s collapse](https://spacenews.com/northstar-pivots-to-rocket-lab-following-virgin-orbits-collapse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053713">2023-06-22 05:37:13 UTC</a></sub>
-* [SpaceLogistics Secures 3 Orders For New Robotic Maintenance & Boosting Spacecraft Set To Launch 2025](https://tlpnetwork.com/news/2023/06/spacelogistics-secures-3-orders-for-robotic-maintenance-and-boosting-spacecraft-set-to-launch-2025) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053200">2023-06-22 05:32:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Marrying the arts and science in space](https://www.planetary.org/articles/ariel-barreiro-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143438">2023-06-22 14:34:38 UTC</a></sub>
 * [Want to be a citizen astronomer and defend Earth from asteroids? Here are some tips.](https://www.planetary.org/articles/citizen-astronomer-asteroid-defender-tips) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173903">2023-06-20 17:39:03 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 12-19, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-12-19-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T032233">2023-06-20 03:22:33 UTC</a></sub>
 * [Reusability efforts of European launch startups ](https://europeanspaceflight.substack.com/p/reusability-efforts-of-european-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T140650">2023-06-19 14:06:50 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NROL-68: Delta IV Heavy readied for national security launch](https://blog.ulalaunch.com/blog/nrol-68-delta-iv-heavy-readied-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T172917">2023-06-14 17:29:17 UTC</a></sub>
 * [How to Fix the Pollution of Orbital Debris](https://blog.ulalaunch.com/blog/how-to-fix-the-pollution-of-orbital-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T122912">2023-06-14 12:29:12 UTC</a></sub>
 * [Day of Action 2023 - Participant Information](https://www.planetary.org/advocacy/day-of-action-2023-participant-information) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T231905">2023-06-12 23:19:05 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: June 5-11, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-5-11-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T185053">2023-06-12 18:50:53 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143226">2023-06-22 14:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T150714">2023-06-22 15:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
