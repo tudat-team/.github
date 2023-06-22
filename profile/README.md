@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpiderOak demonstrates cybersecurity software on orbit](https://spacenews.com/spideroak-demonstrates-cybersecurity-software-on-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T131500">2023-06-22 13:15:00 UTC</a></sub>
 * [Space Force missile-warning satellites drawing congressional attention](https://spacenews.com/space-force-missile-warning-satellites-drawing-congressional-attention/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T102825">2023-06-22 10:28:25 UTC</a></sub>
 * [NASA opens Earth Information Center amid budget uncertainty](https://spacenews.com/nasa-opens-earth-information-center-amid-budget-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T094729">2023-06-22 09:47:29 UTC</a></sub>
 * [ULA’s Delta 4 Heavy launches classified spy satellite](https://spacenews.com/ulas-delta-4-heavy-launches-classified-spy-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T093412">2023-06-22 09:34:12 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NorthStar Signs Multi Launch Deal With RocketLab Following Virgin Orbit Collapse](https://tlpnetwork.com/news/2023/06/northstar-signs-multi-launch-deal-with-rocketlab-following-virgin-orbit-collapse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T055100">2023-06-22 05:51:00 UTC</a></sub>
 * [NorthStar pivots to Rocket Lab following Virgin Orbit’s collapse](https://spacenews.com/northstar-pivots-to-rocket-lab-following-virgin-orbits-collapse/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053713">2023-06-22 05:37:13 UTC</a></sub>
 * [SpaceLogistics Secures 3 Orders For New Robotic Maintenance & Boosting Spacecraft Set To Launch 2025](https://tlpnetwork.com/news/2023/06/spacelogistics-secures-3-orders-for-robotic-maintenance-and-boosting-spacecraft-set-to-launch-2025) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053200">2023-06-22 05:32:00 UTC</a></sub>
-* [Kuva Space Wins Hyperspectral Data Award](https://tlpnetwork.com/news/2023/06/kuva-space-wins-hyperspectral-data-award) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T051200">2023-06-22 05:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T133235">2023-06-22 13:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T140643">2023-06-22 14:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
