@@ -445,7 +445,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.12.1.dev13</code></td>
+    <td><code>2.12.1.dev14</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -547,7 +547,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.3.dev10</code></td>
+    <td><code>0.7.3.dev11</code></td>
   </tr>
 
 </table>
@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Senate Appropriators Adopt FY2024 Spending Caps](https://spacepolicyonline.com/news/senate-appropriators-adopt-fy2024-spending-caps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T032844">2023-06-23 03:28:44 UTC</a></sub>
 * [What the wreck of the Titan portends for commercial spaceflight](https://spacenews.com/what-the-wreck-of-the-titan-portends-for-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T224630">2023-06-22 22:46:30 UTC</a></sub>
 * [Virgin Galactic raises $300 million, seeks another $400 million to expand spacecraft fleet](https://www.cnbc.com/2023/06/22/virgin-galactic-spce-raises-300-million-seeks-another-400-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T204755">2023-06-22 20:47:55 UTC</a></sub>
 * [NASA Awards Contract for Earth Radar Data Operations, Management](http://www.nasa.gov/press-release/nasa-awards-contract-for-earth-radar-data-operations-management) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T201400">2023-06-22 20:14:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Host X-57 Maxwell Project Update](http://www.nasa.gov/press-release/nasa-to-host-x-57-maxwell-project-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T171400">2023-06-22 17:14:00 UTC</a></sub>
 * [Landing in Living Rooms: LEGO Models of NASA Mars Rover and Helicopter](https://mars.nasa.gov/news/9421/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T171400">2023-06-22 17:14:00 UTC</a></sub>
 * [ATMOS Space Cargo Raises €4M to Return Cargo from Space](https://europeanspaceflight.com/atmos-space-cargo-raises-e4m-to-return-cargo-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T160551">2023-06-22 16:05:51 UTC</a></sub>
-* [BREAKING! India To Sign Artemis Accords, Joint NASA-ISRO Mission in 2024](https://tlpnetwork.com/news/2023/06/india-to-sign-artemis-accords-joint-nasa-isro-mission-to-iss-in-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T155100">2023-06-22 15:51:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T031122">2023-06-23 03:11:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T034241">2023-06-23 03:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
