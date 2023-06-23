@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon 9 launches 56 Starlink satellites](https://www.teslarati.com/spacex-falcon-9-launches-56-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T185455">2023-06-23 18:54:55 UTC</a></sub>
 * [NASA’s Mars Sample Return has a new price tag—and it’s colossal](https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T160131">2023-06-23 16:01:31 UTC</a></sub>
 * [Arianespace Back On Track For Final Ariane 5 Launch](https://tlpnetwork.com/news/2023/06/arianespace-back-on-track-for-final-ariane-5-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143329">2023-06-23 14:33:29 UTC</a></sub>
 * [NASA Invites Media to Cover Asteroid Sample Return, Logistics Call](http://www.nasa.gov/press-release/nasa-invites-media-to-cover-asteroid-sample-return-logistics-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T141400">2023-06-23 14:14:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Safran, Terran Orbital to explore joint production of satellite propulsion systems](https://spacenews.com/safran-and-terran-orbital-to-explore-joint-production-of-satellite-propulsion-systems-in-the-u-s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T103000">2023-06-23 10:30:00 UTC</a></sub>
 * [U.S. and India to expand spaceflight cooperation](https://spacenews.com/u-s-and-india-to-expand-spaceflight-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T094107">2023-06-23 09:41:07 UTC</a></sub>
 * [SpaceX record-breaking first half of 2023 following Starlink launch](https://www.nasaspaceflight.com/2023/06/starlink-5-12-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T040905">2023-06-23 04:09:05 UTC</a></sub>
-* [Senate Appropriators Adopt FY2024 Spending Caps](https://spacepolicyonline.com/news/senate-appropriators-adopt-fy2024-spending-caps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T032844">2023-06-23 03:28:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T183628">2023-06-23 18:36:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T190635">2023-06-23 19:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
