@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arianespace Back On Track For Final Ariane 5 Launch](https://tlpnetwork.com/news/2023/06/arianespace-back-on-track-for-final-ariane-5-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143329">2023-06-23 14:33:29 UTC</a></sub>
+* [NASA Invites Media to Cover Asteroid Sample Return, Logistics Call](http://www.nasa.gov/press-release/nasa-invites-media-to-cover-asteroid-sample-return-logistics-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T141400">2023-06-23 14:14:00 UTC</a></sub>
 * [Ovzon 3 on course to miss regulatory deadline after latest delay](https://spacenews.com/ovzon-3-on-course-to-miss-regulatory-deadline-after-latest-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T122424">2023-06-23 12:24:24 UTC</a></sub>
 * [Apex raises $16 million for spacecraft factory](https://spacenews.com/apex-raises-16-million-for-spacecraft-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T112544">2023-06-23 11:25:44 UTC</a></sub>
 * [Rocket Report: Electron scoops up Virgin launch, ULA flies first 2023 mission](https://arstechnica.com/space/2023/06/rocket-report-electron-scoops-up-virgin-launch-ula-flies-first-2023-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T110014">2023-06-23 11:00:14 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX closes record-breaking first half of 2023 with Starlink launch](https://www.nasaspaceflight.com/2023/06/starlink-5-12-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T040905">2023-06-23 04:09:05 UTC</a></sub>
 * [Senate Appropriators Adopt FY2024 Spending Caps](https://spacepolicyonline.com/news/senate-appropriators-adopt-fy2024-spending-caps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T032844">2023-06-23 03:28:44 UTC</a></sub>
 * [What the wreck of the Titan portends for commercial spaceflight](https://spacenews.com/what-the-wreck-of-the-titan-portends-for-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T224630">2023-06-22 22:46:30 UTC</a></sub>
-* [Virgin Galactic raises $300 million, seeks another $400 million to expand spacecraft fleet](https://www.cnbc.com/2023/06/22/virgin-galactic-spce-raises-300-million-seeks-another-400-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T204755">2023-06-22 20:47:55 UTC</a></sub>
-* [NASA Awards Contract for Earth Radar Data Operations, Management](http://www.nasa.gov/press-release/nasa-awards-contract-for-earth-radar-data-operations-management) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T201400">2023-06-22 20:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Rings and dings](https://www.planetary.org/the-downlink/rings-and-dings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143503">2023-06-23 14:35:03 UTC</a></sub>
 * [NROL-68: United Launch Alliance Successfully Launches the Penultimate Delta IV Heavy Rocket](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-the-penultimate-delta-iv-heavy-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T161454">2023-06-22 16:14:54 UTC</a></sub>
 * [Marrying the arts and science in space](https://www.planetary.org/articles/ariel-barreiro-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143438">2023-06-22 14:34:38 UTC</a></sub>
 * [Want to be a citizen astronomer and defend Earth from asteroids? Here are some tips.](https://www.planetary.org/articles/citizen-astronomer-asteroid-defender-tips) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173903">2023-06-20 17:39:03 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RocketStars: Leading the engineering team for Delta IV Heavy](https://blog.ulalaunch.com/blog/rocketstars-leading-the-engineering-team-for-delta-iv-heavy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T130928">2023-06-16 13:09:28 UTC</a></sub>
 * [Vladimir Benishek and the mystique of asteroid research](https://www.planetary.org/articles/vladimir-benishek-asteroid-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T143900">2023-06-15 14:39:00 UTC</a></sub>
 * [NROL-68: Delta IV Heavy readied for national security launch](https://blog.ulalaunch.com/blog/nrol-68-delta-iv-heavy-readied-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T172917">2023-06-14 17:29:17 UTC</a></sub>
-* [How to Fix the Pollution of Orbital Debris](https://blog.ulalaunch.com/blog/how-to-fix-the-pollution-of-orbital-debris) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T122912">2023-06-14 12:29:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143345">2023-06-23 14:33:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T150815">2023-06-23 15:08:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
