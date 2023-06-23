@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. and India to expand spaceflight cooperation](https://spacenews.com/u-s-and-india-to-expand-spaceflight-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T094107">2023-06-23 09:41:07 UTC</a></sub>
 * [SpaceX closes record-breaking first half of 2023 with Starlink launch](https://www.nasaspaceflight.com/2023/06/starlink-5-12-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T040905">2023-06-23 04:09:05 UTC</a></sub>
 * [Senate Appropriators Adopt FY2024 Spending Caps](https://spacepolicyonline.com/news/senate-appropriators-adopt-fy2024-spending-caps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T032844">2023-06-23 03:28:44 UTC</a></sub>
 * [What the wreck of the Titan portends for commercial spaceflight](https://spacenews.com/what-the-wreck-of-the-titan-portends-for-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T224630">2023-06-22 22:46:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA’s BepiColombo probe conducts third flyby of Mercury](https://www.nasaspaceflight.com/2023/06/bepicolombo-flyby-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T183212">2023-06-22 18:32:12 UTC</a></sub>
 * [NASA's MAVEN Spacecraft Stuns with Ultraviolet Views of Red Planet](https://mars.nasa.gov/news/9423/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T173400">2023-06-22 17:34:00 UTC</a></sub>
 * [Landing in Living Rooms: LEGO Models of NASA Mars Rover and Helicopter](https://mars.nasa.gov/news/9421/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T171400">2023-06-22 17:14:00 UTC</a></sub>
-* [NASA to Host X-57 Maxwell Project Update](http://www.nasa.gov/press-release/nasa-to-host-x-57-maxwell-project-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T171400">2023-06-22 17:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T093302">2023-06-23 09:33:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T100917">2023-06-23 10:09:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
