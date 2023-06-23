@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ovzon 3 on course to miss regulatory deadline after latest delay](https://spacenews.com/ovzon-3-on-course-to-miss-regulatory-deadline-after-latest-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T122424">2023-06-23 12:24:24 UTC</a></sub>
 * [Apex raises $16 million for spacecraft factory](https://spacenews.com/apex-raises-16-million-for-spacecraft-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T112544">2023-06-23 11:25:44 UTC</a></sub>
 * [Rocket Report: Electron scoops up Virgin launch, ULA flies first 2023 mission](https://arstechnica.com/space/2023/06/rocket-report-electron-scoops-up-virgin-launch-ula-flies-first-2023-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T110014">2023-06-23 11:00:14 UTC</a></sub>
 * [Safran, Terran Orbital to explore joint production of satellite propulsion systems](https://spacenews.com/safran-and-terran-orbital-to-explore-joint-production-of-satellite-propulsion-systems-in-the-u-s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T103000">2023-06-23 10:30:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [What the wreck of the Titan portends for commercial spaceflight](https://spacenews.com/what-the-wreck-of-the-titan-portends-for-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T224630">2023-06-22 22:46:30 UTC</a></sub>
 * [Virgin Galactic raises $300 million, seeks another $400 million to expand spacecraft fleet](https://www.cnbc.com/2023/06/22/virgin-galactic-spce-raises-300-million-seeks-another-400-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T204755">2023-06-22 20:47:55 UTC</a></sub>
 * [NASA Awards Contract for Earth Radar Data Operations, Management](http://www.nasa.gov/press-release/nasa-awards-contract-for-earth-radar-data-operations-management) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T201400">2023-06-22 20:14:00 UTC</a></sub>
-* [SpaceX launches 47 Starlink satellites, provides unique views on Twitter](https://www.teslarati.com/spacex-launches-47-starlink-satellites-provides-unique-views-elon-musk-twitter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T193438">2023-06-22 19:34:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T121518">2023-06-23 12:15:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T125428">2023-06-23 12:54:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
