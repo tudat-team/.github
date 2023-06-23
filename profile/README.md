@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lynk Global on verge of initial commercial direct-to-device services](https://spacenews.com/lynk-global-on-verge-of-initial-commercial-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T213805">2023-06-23 21:38:05 UTC</a></sub>
 * [NASA Welcomes India as 27th Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-india-as-27th-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T210400">2023-06-23 21:04:00 UTC</a></sub>
 * [Artemis Accords Gain More Members](https://spacepolicyonline.com/news/artemis-accords-gain-more-members/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T204407">2023-06-23 20:44:07 UTC</a></sub>
 * [NASA Awards Millions in STEM Research Grants](http://www.nasa.gov/press-release/nasa-awards-millions-in-stem-research-grants) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T202400">2023-06-23 20:24:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Arianespace Back On Track For Final Ariane 5 Launch](https://tlpnetwork.com/news/2023/06/arianespace-back-on-track-for-final-ariane-5-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143329">2023-06-23 14:33:29 UTC</a></sub>
 * [NASA Invites Media to Cover Asteroid Sample Return, Logistics Call](http://www.nasa.gov/press-release/nasa-invites-media-to-cover-asteroid-sample-return-logistics-call) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T141400">2023-06-23 14:14:00 UTC</a></sub>
 * [Ovzon 3 on course to miss regulatory deadline after latest delay](https://spacenews.com/ovzon-3-on-course-to-miss-regulatory-deadline-after-latest-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T122424">2023-06-23 12:24:24 UTC</a></sub>
-* [Apex raises $16 million for spacecraft factory](https://spacenews.com/apex-raises-16-million-for-spacecraft-factory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T112544">2023-06-23 11:25:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T213229">2023-06-23 21:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T220748">2023-06-23 22:07:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
