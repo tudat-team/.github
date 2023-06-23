@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX closes record-breaking first half of 2023 with Starlink launch](https://www.nasaspaceflight.com/2023/06/starlink-5-12-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T040905">2023-06-23 04:09:05 UTC</a></sub>
 * [Senate Appropriators Adopt FY2024 Spending Caps](https://spacepolicyonline.com/news/senate-appropriators-adopt-fy2024-spending-caps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T032844">2023-06-23 03:28:44 UTC</a></sub>
 * [What the wreck of the Titan portends for commercial spaceflight](https://spacenews.com/what-the-wreck-of-the-titan-portends-for-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T224630">2023-06-22 22:46:30 UTC</a></sub>
 * [Virgin Galactic raises $300 million, seeks another $400 million to expand spacecraft fleet](https://www.cnbc.com/2023/06/22/virgin-galactic-spce-raises-300-million-seeks-another-400-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T204755">2023-06-22 20:47:55 UTC</a></sub>
@@ -575,9 +576,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches 47 Starlink satellites, provides unique views on Twitter](https://www.teslarati.com/spacex-launches-47-starlink-satellites-provides-unique-views-elon-musk-twitter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T193438">2023-06-22 19:34:38 UTC</a></sub>
 * [ESA’s BepiColombo probe conducts third flyby of Mercury](https://www.nasaspaceflight.com/2023/06/bepicolombo-flyby-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T183212">2023-06-22 18:32:12 UTC</a></sub>
 * [NASA's MAVEN Spacecraft Stuns with Ultraviolet Views of Red Planet](https://mars.nasa.gov/news/9423/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T173400">2023-06-22 17:34:00 UTC</a></sub>
-* [NASA to Host X-57 Maxwell Project Update](http://www.nasa.gov/press-release/nasa-to-host-x-57-maxwell-project-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T171400">2023-06-22 17:14:00 UTC</a></sub>
 * [Landing in Living Rooms: LEGO Models of NASA Mars Rover and Helicopter](https://mars.nasa.gov/news/9421/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T171400">2023-06-22 17:14:00 UTC</a></sub>
-* [ATMOS Space Cargo Raises €4M to Return Cargo from Space](https://europeanspaceflight.com/atmos-space-cargo-raises-e4m-to-return-cargo-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T160551">2023-06-22 16:05:51 UTC</a></sub>
+* [NASA to Host X-57 Maxwell Project Update](http://www.nasa.gov/press-release/nasa-to-host-x-57-maxwell-project-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T171400">2023-06-22 17:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T041013">2023-06-23 04:10:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T043800">2023-06-23 04:38:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
