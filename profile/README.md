@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ecuador Signs The Artemis Accords](https://tlpnetwork.com/news/2023/06/ecuador_signs_the_artemis_accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T145700">2023-06-24 14:57:00 UTC</a></sub>
+* [Centaur Upper Stage Delays ULA Vulcan Maiden Flight](https://tlpnetwork.com/news/2023/06/centaur_upper_stage_delays_ula_vulcan_maiden_flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T144400">2023-06-24 14:44:00 UTC</a></sub>
+* [First Vulcan launch further delayed for Centaur modifications](https://spacenews.com/first-vulcan-launch-further-delayed-for-centaur-modifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T141942">2023-06-24 14:19:42 UTC</a></sub>
 * [Second Orbiter transfer vehicle malfunctions](https://spacenews.com/second-orbiter-transfer-vehicle-malfunctions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T225513">2023-06-23 22:55:13 UTC</a></sub>
 * [Themis, Prometheus complete first hot-fire tests in France](https://www.nasaspaceflight.com/2023/06/themis-prometheus-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T221659">2023-06-23 22:16:59 UTC</a></sub>
 * [Lynk Global on verge of initial commercial direct-to-device services](https://spacenews.com/lynk-global-on-verge-of-initial-commercial-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T213805">2023-06-23 21:38:05 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Artemis Accords Gain More Members](https://spacepolicyonline.com/news/artemis-accords-gain-more-members/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T204407">2023-06-23 20:44:07 UTC</a></sub>
 * [NASA Awards Millions in STEM Research Grants](http://www.nasa.gov/press-release/nasa-awards-millions-in-stem-research-grants) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T202400">2023-06-23 20:24:00 UTC</a></sub>
 * [Space Leasing International sets sights on ground stations, satellites and launch infrastructure](https://spacenews.com/space-leasing-international-sets-sights-on-ground-stations-satellites-an-launch-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T200105">2023-06-23 20:01:05 UTC</a></sub>
-* [SpaceX Falcon 9 launches 56 Starlink satellites](https://www.teslarati.com/spacex-falcon-9-launches-56-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T185455">2023-06-23 18:54:55 UTC</a></sub>
-* [NASA’s Mars Sample Return has a new price tag—and it’s colossal](https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T160131">2023-06-23 16:01:31 UTC</a></sub>
-* [Arianespace Back On Track For Final Ariane 5 Launch](https://tlpnetwork.com/news/2023/06/arianespace-back-on-track-for-final-ariane-5-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143329">2023-06-23 14:33:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T143253">2023-06-24 14:32:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T150747">2023-06-24 15:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
