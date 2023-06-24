@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Starship to implement Hot Staging](https://tlpnetwork.com/news/2023/06/spacex_introducing_hot_staging_to_starship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T201300">2023-06-24 20:13:00 UTC</a></sub>
 * [SpaceX changing Starship stage separation ahead of next launch](https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T191818">2023-06-24 19:18:18 UTC</a></sub>
 * [Dream Chaser Continues Chasing its Path to the Pad](https://tlpnetwork.com/news/2023/06/dream_chaser_nearing_flight_readiness) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T151500">2023-06-24 15:15:00 UTC</a></sub>
 * [Ecuador Signs The Artemis Accords](https://tlpnetwork.com/news/2023/06/ecuador_signs_the_artemis_accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T145700">2023-06-24 14:57:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Themis, Prometheus complete first hot-fire tests in France](https://www.nasaspaceflight.com/2023/06/themis-prometheus-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T221659">2023-06-23 22:16:59 UTC</a></sub>
 * [Lynk Global on verge of initial commercial direct-to-device services](https://spacenews.com/lynk-global-on-verge-of-initial-commercial-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T213805">2023-06-23 21:38:05 UTC</a></sub>
 * [NASA Welcomes India as 27th Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-india-as-27th-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T210400">2023-06-23 21:04:00 UTC</a></sub>
-* [Artemis Accords Gain More Members](https://spacepolicyonline.com/news/artemis-accords-gain-more-members/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T204407">2023-06-23 20:44:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T203221">2023-06-24 20:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T210718">2023-06-24 21:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
