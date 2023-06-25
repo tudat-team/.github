@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Senate Armed Services Committee advances 2024 NDAA](https://spacenews.com/senate-armed-services-committee-advances-2024-ndaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T093748">2023-06-25 09:37:48 UTC</a></sub>
 * [Defense Authorization, Appropriations Bills Ready for Floor Action](https://spacepolicyonline.com/news/defense-authorization-appropriations-bills-ready-for-floor-action/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T024023">2023-06-25 02:40:23 UTC</a></sub>
 * [SpaceX Starship to implement Hot Staging](https://tlpnetwork.com/news/2023/06/spacex_introducing_hot_staging_to_starship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T201300">2023-06-24 20:13:00 UTC</a></sub>
 * [SpaceX changing Starship stage separation ahead of next launch](https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T191818">2023-06-24 19:18:18 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [First Vulcan launch further delayed for Centaur modifications](https://spacenews.com/first-vulcan-launch-further-delayed-for-centaur-modifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T141942">2023-06-24 14:19:42 UTC</a></sub>
 * [Second Orbiter transfer vehicle malfunctions](https://spacenews.com/second-orbiter-transfer-vehicle-malfunctions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T225513">2023-06-23 22:55:13 UTC</a></sub>
 * [Themis, Prometheus complete first hot-fire tests in France](https://www.nasaspaceflight.com/2023/06/themis-prometheus-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T221659">2023-06-23 22:16:59 UTC</a></sub>
-* [Lynk Global on verge of initial commercial direct-to-device services](https://spacenews.com/lynk-global-on-verge-of-initial-commercial-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T213805">2023-06-23 21:38:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T093241">2023-06-25 09:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T100827">2023-06-25 10:08:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
