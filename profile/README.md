@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [What’s Happening in Space Policy June 25-July 1, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-25-july-1-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T203407">2023-06-25 20:34:07 UTC</a></sub>
 * [Anduril acquires solid rocket motor manufacturer Adranos](https://spacenews.com/anduril-acquires-solid-rocket-motor-manufacturer-adranos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T192433">2023-06-25 19:24:33 UTC</a></sub>
 * [Senate Armed Services Committee advances 2024 NDAA](https://spacenews.com/senate-armed-services-committee-advances-2024-ndaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T093748">2023-06-25 09:37:48 UTC</a></sub>
 * [Defense Authorization, Appropriations Bills Ready for Floor Action](https://spacepolicyonline.com/news/defense-authorization-appropriations-bills-ready-for-floor-action/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T024023">2023-06-25 02:40:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ecuador Signs The Artemis Accords](https://tlpnetwork.com/news/2023/06/ecuador_signs_the_artemis_accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T145700">2023-06-24 14:57:00 UTC</a></sub>
 * [Centaur Upper Stage Delays ULA Vulcan Maiden Flight](https://tlpnetwork.com/news/2023/06/centaur_upper_stage_delays_ula_vulcan_maiden_flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T144400">2023-06-24 14:44:00 UTC</a></sub>
 * [First Vulcan launch further delayed for Centaur modifications](https://spacenews.com/first-vulcan-launch-further-delayed-for-centaur-modifications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T141942">2023-06-24 14:19:42 UTC</a></sub>
-* [Second Orbiter transfer vehicle malfunctions](https://spacenews.com/second-orbiter-transfer-vehicle-malfunctions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T225513">2023-06-23 22:55:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T203219">2023-06-25 20:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T210708">2023-06-25 21:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
