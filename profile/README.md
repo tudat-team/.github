@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Coverage as Dragon Departs Station with Science](http://www.nasa.gov/press-release/nasa-to-provide-coverage-as-dragon-departs-station-with-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T170400">2023-06-26 17:04:00 UTC</a></sub>
+* [NASA identifies potential major cost growth in Mars Sample Return](https://spacenews.com/nasa-identifies-potential-major-cost-growth-in-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T164831">2023-06-26 16:48:31 UTC</a></sub>
 * [NASA to Provide Coverage for Launch of ESA ‘Dark Universe’ Mission](http://www.nasa.gov/press-release/nasa-to-provide-coverage-for-launch-of-esa-dark-universe-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T162400">2023-06-26 16:24:00 UTC</a></sub>
 * [China conducts parachute tests for asteroid sample return mission](https://spacenews.com/china-conducts-parachute-tests-for-asteroid-sample-return-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T161628">2023-06-26 16:16:28 UTC</a></sub>
 * [Virgin Galactic sets date and announces crew for first commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-sets-date-and-announces-crew-for-first-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T104840">2023-06-26 10:48:40 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Anduril acquires solid rocket motor manufacturer Adranos](https://spacenews.com/anduril-acquires-solid-rocket-motor-manufacturer-adranos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T192433">2023-06-25 19:24:33 UTC</a></sub>
 * [Senate Armed Services Committee advances 2024 NDAA](https://spacenews.com/senate-armed-services-committee-advances-2024-ndaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T093748">2023-06-25 09:37:48 UTC</a></sub>
 * [Defense Authorization, Appropriations Bills Ready for Floor Action](https://spacepolicyonline.com/news/defense-authorization-appropriations-bills-ready-for-floor-action/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T024023">2023-06-25 02:40:23 UTC</a></sub>
-* [SpaceX Starship to implement Hot Staging](https://tlpnetwork.com/news/2023/06/spacex_introducing_hot_staging_to_starship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T201300">2023-06-24 20:13:00 UTC</a></sub>
-* [SpaceX changing Starship stage separation ahead of next launch](https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T191818">2023-06-24 19:18:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T170724">2023-06-26 17:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T173332">2023-06-26 17:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
