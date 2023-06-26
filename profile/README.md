@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Provide Coverage for Launch of ESA ‘Dark Universe’ Mission](http://www.nasa.gov/press-release/nasa-to-provide-coverage-for-launch-of-esa-dark-universe-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T162400">2023-06-26 16:24:00 UTC</a></sub>
+* [China conducts parachute tests for asteroid sample return mission](https://spacenews.com/china-conducts-parachute-tests-for-asteroid-sample-return-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T161628">2023-06-26 16:16:28 UTC</a></sub>
 * [Virgin Galactic sets date and announces crew for first commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-sets-date-and-announces-crew-for-first-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T104840">2023-06-26 10:48:40 UTC</a></sub>
 * [European Sovereignty in Space: What’s Next After Ariane 6?](https://europeanspaceflight.com/european-sovereignty-in-space-whats-next-after-ariane-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T103943">2023-06-26 10:39:43 UTC</a></sub>
 * [What’s Happening in Space Policy June 25-July 1, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-25-july-1-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T203407">2023-06-25 20:34:07 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Defense Authorization, Appropriations Bills Ready for Floor Action](https://spacepolicyonline.com/news/defense-authorization-appropriations-bills-ready-for-floor-action/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T024023">2023-06-25 02:40:23 UTC</a></sub>
 * [SpaceX Starship to implement Hot Staging](https://tlpnetwork.com/news/2023/06/spacex_introducing_hot_staging_to_starship) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T201300">2023-06-24 20:13:00 UTC</a></sub>
 * [SpaceX changing Starship stage separation ahead of next launch](https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T191818">2023-06-24 19:18:18 UTC</a></sub>
-* [Dream Chaser Continues Chasing its Path to the Pad](https://tlpnetwork.com/news/2023/06/dream_chaser_nearing_flight_readiness) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T151500">2023-06-24 15:15:00 UTC</a></sub>
-* [Ecuador Signs The Artemis Accords](https://tlpnetwork.com/news/2023/06/ecuador_signs_the_artemis_accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T145700">2023-06-24 14:57:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T161034">2023-06-26 16:10:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T164107">2023-06-26 16:41:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
