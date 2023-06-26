@@ -588,6 +588,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Announcing the 2023 Shoemaker NEO grant winners](https://www.planetary.org/articles/announcing-the-2023-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T143436">2023-06-26 14:34:36 UTC</a></sub>
+* [Everything you need to know about Themis](https://europeanspaceflight.substack.com/p/everything-you-need-to-know-about-ddb) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T141145">2023-06-26 14:11:45 UTC</a></sub>
 * [Rings and dings](https://www.planetary.org/the-downlink/rings-and-dings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143503">2023-06-23 14:35:03 UTC</a></sub>
 * [NROL-68: United Launch Alliance Successfully Launches the Penultimate Delta IV Heavy Rocket](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-the-penultimate-delta-iv-heavy-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T161454">2023-06-22 16:14:54 UTC</a></sub>
 * [Marrying the arts and science in space](https://www.planetary.org/articles/ariel-barreiro-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143438">2023-06-22 14:34:38 UTC</a></sub>
@@ -596,8 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Reusability efforts of European launch startups ](https://europeanspaceflight.substack.com/p/reusability-efforts-of-european-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T140650">2023-06-19 14:06:50 UTC</a></sub>
 * [Day and night, it’s all about starlight](https://www.planetary.org/the-downlink/day-and-night-its-all-about-starlight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T143927">2023-06-16 14:39:27 UTC</a></sub>
 * [RocketStars: Leading the engineering team for Delta IV Heavy](https://blog.ulalaunch.com/blog/rocketstars-leading-the-engineering-team-for-delta-iv-heavy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T130928">2023-06-16 13:09:28 UTC</a></sub>
-* [Vladimir Benishek and the mystique of asteroid research](https://www.planetary.org/articles/vladimir-benishek-asteroid-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T143900">2023-06-15 14:39:00 UTC</a></sub>
-* [NROL-68: Delta IV Heavy readied for national security launch](https://blog.ulalaunch.com/blog/nrol-68-delta-iv-heavy-readied-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T172917">2023-06-14 17:29:17 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T143535">2023-06-26 14:35:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T150818">2023-06-26 15:08:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
