@@ -569,6 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Virgin Galactic sets date and announces crew for first commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-sets-date-and-announces-crew-for-first-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T104840">2023-06-26 10:48:40 UTC</a></sub>
+* [European Sovereignty in Space: What’s Next After Ariane 6?](https://europeanspaceflight.com/european-sovereignty-in-space-whats-next-after-ariane-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T103943">2023-06-26 10:39:43 UTC</a></sub>
 * [What’s Happening in Space Policy June 25-July 1, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-25-july-1-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T203407">2023-06-25 20:34:07 UTC</a></sub>
 * [Anduril acquires solid rocket motor manufacturer Adranos](https://spacenews.com/anduril-acquires-solid-rocket-motor-manufacturer-adranos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T192433">2023-06-25 19:24:33 UTC</a></sub>
 * [Senate Armed Services Committee advances 2024 NDAA](https://spacenews.com/senate-armed-services-committee-advances-2024-ndaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T093748">2023-06-25 09:37:48 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX changing Starship stage separation ahead of next launch](https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T191818">2023-06-24 19:18:18 UTC</a></sub>
 * [Dream Chaser Continues Chasing its Path to the Pad](https://tlpnetwork.com/news/2023/06/dream_chaser_nearing_flight_readiness) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T151500">2023-06-24 15:15:00 UTC</a></sub>
 * [Ecuador Signs The Artemis Accords](https://tlpnetwork.com/news/2023/06/ecuador_signs_the_artemis_accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T145700">2023-06-24 14:57:00 UTC</a></sub>
-* [Centaur Upper Stage Delays ULA Vulcan Maiden Flight](https://tlpnetwork.com/news/2023/06/centaur_upper_stage_delays_ula_vulcan_maiden_flight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T144400">2023-06-24 14:44:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T121554">2023-06-26 12:15:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T125556">2023-06-26 12:55:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
