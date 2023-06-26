@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.K. joins U.S. Space Command’s commercial space-tracking cell](https://spacenews.com/u-k-joins-u-s-space-commands-commercial-space-tracking-cell/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185503">2023-06-26 18:55:03 UTC</a></sub>
+* [Agile raises $13 million to expand production](https://spacenews.com/agile-raises-13-million-to-expand-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185027">2023-06-26 18:50:27 UTC</a></sub>
 * [NASA to Provide Coverage as Dragon Departs Station with Science](http://www.nasa.gov/press-release/nasa-to-provide-coverage-as-dragon-departs-station-with-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T170400">2023-06-26 17:04:00 UTC</a></sub>
 * [NASA identifies potential major cost growth in Mars Sample Return](https://spacenews.com/nasa-identifies-potential-major-cost-growth-in-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T164831">2023-06-26 16:48:31 UTC</a></sub>
 * [NASA to Provide Coverage for Launch of ESA ‘Dark Universe’ Mission](http://www.nasa.gov/press-release/nasa-to-provide-coverage-for-launch-of-esa-dark-universe-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T162400">2023-06-26 16:24:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [European Sovereignty in Space: What’s Next After Ariane 6?](https://europeanspaceflight.com/european-sovereignty-in-space-whats-next-after-ariane-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T103943">2023-06-26 10:39:43 UTC</a></sub>
 * [What’s Happening in Space Policy June 25-July 1, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-25-july-1-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T203407">2023-06-25 20:34:07 UTC</a></sub>
 * [Anduril acquires solid rocket motor manufacturer Adranos](https://spacenews.com/anduril-acquires-solid-rocket-motor-manufacturer-adranos/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T192433">2023-06-25 19:24:33 UTC</a></sub>
-* [Senate Armed Services Committee advances 2024 NDAA](https://spacenews.com/senate-armed-services-committee-advances-2024-ndaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T093748">2023-06-25 09:37:48 UTC</a></sub>
-* [Defense Authorization, Appropriations Bills Ready for Floor Action](https://spacepolicyonline.com/news/defense-authorization-appropriations-bills-ready-for-floor-action/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T024023">2023-06-25 02:40:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: June 19-25, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-19-25-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185215">2023-06-26 18:52:15 UTC</a></sub>
 * [Announcing the 2023 Shoemaker NEO grant winners](https://www.planetary.org/articles/announcing-the-2023-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T143436">2023-06-26 14:34:36 UTC</a></sub>
 * [Everything you need to know about Themis](https://europeanspaceflight.substack.com/p/everything-you-need-to-know-about-ddb) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T141145">2023-06-26 14:11:45 UTC</a></sub>
 * [Rings and dings](https://www.planetary.org/the-downlink/rings-and-dings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143503">2023-06-23 14:35:03 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: June 12-19, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-12-19-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T032233">2023-06-20 03:22:33 UTC</a></sub>
 * [Reusability efforts of European launch startups ](https://europeanspaceflight.substack.com/p/reusability-efforts-of-european-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T140650">2023-06-19 14:06:50 UTC</a></sub>
 * [Day and night, it’s all about starlight](https://www.planetary.org/the-downlink/day-and-night-its-all-about-starlight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T143927">2023-06-16 14:39:27 UTC</a></sub>
-* [RocketStars: Leading the engineering team for Delta IV Heavy](https://blog.ulalaunch.com/blog/rocketstars-leading-the-engineering-team-for-delta-iv-heavy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T130928">2023-06-16 13:09:28 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T183724">2023-06-26 18:37:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T190631">2023-06-26 19:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
