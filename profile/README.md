@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [D-Orbit Wins Italian Contracts To Fly Mini Space Lab And Test Optical Intersatellite Links](https://tlpnetwork.com/news/2023/06/dorbit-wins-italian-contracts-to-fly-mini-space-lab-and-test-optical-intersatellite-links) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T133000">2023-06-27 13:30:00 UTC</a></sub>
+* [NASA begins CHAPEA 1 Mission to "Mars" in Houston](https://tlpnetwork.com/news/2023/06/nasa_begins_simulated_mars_mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T130600">2023-06-27 13:06:00 UTC</a></sub>
+* [ESA & European Companies Agree To 2030 "Zero Debris" Agreement](https://tlpnetwork.com/news/2023/06/esa-and-european-companies-agree-to-2030-zero-debris-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T125900">2023-06-27 12:59:00 UTC</a></sub>
+* [UK To Form Commercial Space Tracking Cell, Partners With U.S. Space Command's](https://tlpnetwork.com/news/2023/06/uk-to-form-commercial-space-tracking-cell-partners-with-us-space-command) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T125100">2023-06-27 12:51:00 UTC</a></sub>
 * [SpaceX to launch the Euclid Space Telescope for the European Space Agency](https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T233442">2023-06-26 23:34:42 UTC</a></sub>
 * [D-Orbit wins contracts to test optical links and fly mini space lab](https://spacenews.com/d-orbit-wins-contracts-to-test-optical-links-and-fly-mini-space-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T231457">2023-06-26 23:14:57 UTC</a></sub>
 * [ESA, European companies back “zero debris” agreement](https://spacenews.com/esa-european-companies-back-zero-debris-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T230839">2023-06-26 23:08:39 UTC</a></sub>
 * [SES bid for equal split of C-band proceeds back in play](https://spacenews.com/ses-bid-for-equal-split-of-c-band-proceeds-back-in-play/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T230646">2023-06-26 23:06:46 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission](https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T205044">2023-06-26 20:50:44 UTC</a></sub>
 * [U.K. joins U.S. Space Command’s commercial space-tracking cell](https://spacenews.com/u-k-joins-u-s-space-commands-commercial-space-tracking-cell/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185503">2023-06-26 18:55:03 UTC</a></sub>
-* [Agile raises $13 million to expand production](https://spacenews.com/agile-raises-13-million-to-expand-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185027">2023-06-26 18:50:27 UTC</a></sub>
-* [NASA to Provide Coverage as Dragon Departs Station with Science](http://www.nasa.gov/press-release/nasa-to-provide-coverage-as-dragon-departs-station-with-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T170400">2023-06-26 17:04:00 UTC</a></sub>
-* [NASA identifies potential major cost growth in Mars Sample Return](https://spacenews.com/nasa-identifies-potential-major-cost-growth-in-mars-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T164831">2023-06-26 16:48:31 UTC</a></sub>
-* [NASA to Provide Coverage for Launch of ESA ‘Dark Universe’ Mission](http://www.nasa.gov/press-release/nasa-to-provide-coverage-for-launch-of-esa-dark-universe-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T162400">2023-06-26 16:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T131920">2023-06-27 13:19:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T133646">2023-06-27 13:36:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
