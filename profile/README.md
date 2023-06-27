@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House appropriators target Space Force programs](https://spacenews.com/house-appropriators-target-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T190356">2023-06-27 19:03:56 UTC</a></sub>
 * [Airmo raises 5.2 million euros for climate-monitoring constellation](https://spacenews.com/airmo-raises-5-2-million-euros-for-climate-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T164703">2023-06-27 16:47:03 UTC</a></sub>
 * [SpaceNews names new CEO Andrew Pemberton ](https://spacenews.com/spacenews-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T151722">2023-06-27 15:17:22 UTC</a></sub>
 * [D-Orbit Wins Italian Contracts To Fly Mini Space Lab And Test Optical Intersatellite Links](https://tlpnetwork.com/news/2023/06/dorbit-wins-italian-contracts-to-fly-mini-space-lab-and-test-optical-intersatellite-links) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T133000">2023-06-27 13:30:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to launch the Euclid Space Telescope for the European Space Agency](https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T233442">2023-06-26 23:34:42 UTC</a></sub>
 * [D-Orbit wins contracts to test optical links and fly mini space lab](https://spacenews.com/d-orbit-wins-contracts-to-test-optical-links-and-fly-mini-space-lab/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T231457">2023-06-26 23:14:57 UTC</a></sub>
 * [ESA, European companies back “zero debris” agreement](https://spacenews.com/esa-european-companies-back-zero-debris-agreement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T230839">2023-06-26 23:08:39 UTC</a></sub>
-* [SES bid for equal split of C-band proceeds back in play](https://spacenews.com/ses-bid-for-equal-split-of-c-band-proceeds-back-in-play/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T230646">2023-06-26 23:06:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T183655">2023-06-27 18:36:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T190633">2023-06-27 19:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
