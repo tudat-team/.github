@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA’s Vulcan Upper Stage Needs Mods Before First Launch](https://spacepolicyonline.com/news/ulas-vulcan-upper-stage-needs-mods-before-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T022302">2023-06-28 02:23:02 UTC</a></sub>
 * [British startup powers up sensor for monitoring tiny orbital debris](https://spacenews.com/british-startup-powers-up-sensor-for-monitoring-tiny-orbital-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T220322">2023-06-27 22:03:22 UTC</a></sub>
 * [Chinese company plans to launch rocket comparable to Falcon 9 in 2024](https://spacenews.com/chinese-company-plans-to-launch-rocket-comparable-to-falcon-9-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T212112">2023-06-27 21:21:12 UTC</a></sub>
 * [Artemis 2's Heat Shield is installed on Orion](https://tlpnetwork.com/news/2023/06/artemis_2_heat_shield_installed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T205500">2023-06-27 20:55:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceNews names new CEO Andrew Pemberton ](https://spacenews.com/spacenews-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T151722">2023-06-27 15:17:22 UTC</a></sub>
 * [D-Orbit Wins Italian Contracts To Fly Mini Space Lab And Test Optical Intersatellite Links](https://tlpnetwork.com/news/2023/06/dorbit-wins-italian-contracts-to-fly-mini-space-lab-and-test-optical-intersatellite-links) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T133000">2023-06-27 13:30:00 UTC</a></sub>
 * [NASA begins CHAPEA 1 Mission to "Mars" in Houston](https://tlpnetwork.com/news/2023/06/nasa_begins_simulated_mars_mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T130600">2023-06-27 13:06:00 UTC</a></sub>
-* [ESA & European Companies Agree To 2030 "Zero Debris" Agreement](https://tlpnetwork.com/news/2023/06/esa-and-european-companies-agree-to-2030-zero-debris-agreement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T125900">2023-06-27 12:59:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T022413">2023-06-28 02:24:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T030809">2023-06-28 03:08:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
