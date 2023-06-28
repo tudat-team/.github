@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD to invest in startup developing mobile space-launch platforms](https://spacenews.com/dod-to-invest-in-startup-developing-mobile-space-launch-platforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T192622">2023-06-28 19:26:22 UTC</a></sub>
 * [With Webb, scientists make first detection of carbon molecule in protoplanetary disk](https://www.nasaspaceflight.com/2023/06/webb-ch3-d203-506/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T185425">2023-06-28 18:54:25 UTC</a></sub>
 * [NASA Offers Media Interviews in Utah on Asteroid Sample Return](http://www.nasa.gov/press-release/nasa-offers-media-interviews-in-utah-on-asteroid-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T181400">2023-06-28 18:14:00 UTC</a></sub>
 * [Above: Orbital develops energy for  spacecraft under recent awards](https://spacenews.com/above-orbital-develops-energy-for-spacecraft-under-recent-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T180550">2023-06-28 18:05:50 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceForest Launch Test Flight of Suborbital Perun Vehicle](https://europeanspaceflight.com/spaceforest-launch-test-flight-of-suborbital-perun-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T095538">2023-06-28 09:55:38 UTC</a></sub>
 * [SES wins $134 million DoD contract for X-band satellite communications](https://spacenews.com/ses-wins-134-million-dod-contract-for-x-band-satellite-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T081716">2023-06-28 08:17:16 UTC</a></sub>
 * [ULA’s Vulcan Upper Stage Needs Mods Before First Launch](https://spacepolicyonline.com/news/ulas-vulcan-upper-stage-needs-mods-before-first-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T022302">2023-06-28 02:23:02 UTC</a></sub>
-* [British startup powers up sensor for monitoring tiny orbital debris](https://spacenews.com/british-startup-powers-up-sensor-for-monitoring-tiny-orbital-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T220322">2023-06-27 22:03:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T193220">2023-06-28 19:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T200841">2023-06-28 20:08:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
