@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Startup iRocket wins Space Force contract to demonstrate rocket engine](https://spacenews.com/startup-irocket-wins-space-force-contract-to-demonstrate-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T130429">2023-06-28 13:04:29 UTC</a></sub>
 * [Ramon.Space raises $26 million from Foxconn and other backers](https://spacenews.com/ramon-space-raises-26-million-from-foxconn-and-other-backers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T120000">2023-06-28 12:00:00 UTC</a></sub>
 * [Sierra Space describes long-term plans for Dream Chaser and inflatable modules](https://spacenews.com/sierra-space-describes-long-term-plans-for-dream-chaser-and-inflatable-modules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T113116">2023-06-28 11:31:16 UTC</a></sub>
 * [SpaceForest Launch Test Flight of Suborbital Perun Vehicle](https://europeanspaceflight.com/spaceforest-launch-test-flight-of-suborbital-perun-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T095538">2023-06-28 09:55:38 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chinese company plans to launch rocket comparable to Falcon 9 in 2024](https://spacenews.com/chinese-company-plans-to-launch-rocket-comparable-to-falcon-9-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T212112">2023-06-27 21:21:12 UTC</a></sub>
 * [Artemis 2's Heat Shield is installed on Orion](https://tlpnetwork.com/news/2023/06/artemis_2_heat_shield_installed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T205500">2023-06-27 20:55:00 UTC</a></sub>
 * [PLD Space postpones first launch to September](https://spacenews.com/pld-space-postpones-first-launch-to-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T191251">2023-06-27 19:12:51 UTC</a></sub>
-* [House appropriators target Space Force programs](https://spacenews.com/house-appropriators-target-space-force-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T190356">2023-06-27 19:03:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T132135">2023-06-28 13:21:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T133734">2023-06-28 13:37:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
