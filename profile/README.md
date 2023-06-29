@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China looks to build new space partnerships with Egypt satellite project](https://spacenews.com/china-looks-to-build-new-space-partnerships-with-egypt-satellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T141029">2023-06-29 14:10:29 UTC</a></sub>
+* [SpaceX resumes static fire testing at Starbase](https://www.teslarati.com/spacex-resumes-static-fire-testing-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T140438">2023-06-29 14:04:38 UTC</a></sub>
 * [Air Force awards Raytheon $625 million contract for nuclear-hardened satcom terminals](https://spacenews.com/air-force-awards-raytheon-625-million-contract-for-nuclear-hardened-satcom-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T130601">2023-06-29 13:06:01 UTC</a></sub>
 * [SpaceShipTwo to demonstrate research capabilities on first commercial flight](https://spacenews.com/spaceshiptwo-to-demonstrate-research-capabilities-on-first-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T005241">2023-06-29 00:52:41 UTC</a></sub>
 * [King Charles III Unveils Astra Carta at Space Sustainability Event](https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T221023">2023-06-28 22:10:23 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [With Webb, scientists make first detection of carbon molecule in protoplanetary disk](https://www.nasaspaceflight.com/2023/06/webb-ch3-d203-506/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T185425">2023-06-28 18:54:25 UTC</a></sub>
 * [NASA Offers Media Interviews in Utah on Asteroid Sample Return](http://www.nasa.gov/press-release/nasa-offers-media-interviews-in-utah-on-asteroid-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T181400">2023-06-28 18:14:00 UTC</a></sub>
 * [Above: Orbital develops energy systems for  spacecraft under recent awards](https://spacenews.com/above-orbital-develops-energy-for-spacecraft-under-recent-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T180550">2023-06-28 18:05:50 UTC</a></sub>
-* [Startup iRocket wins Space Force contract to demonstrate rocket engine](https://spacenews.com/startup-irocket-wins-space-force-contract-to-demonstrate-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T130429">2023-06-28 13:04:29 UTC</a></sub>
-* [Ramon.Space raises $26 million from Foxconn and other backers](https://spacenews.com/ramon-space-raises-26-million-from-foxconn-and-other-backers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T120000">2023-06-28 12:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T140704">2023-06-29 14:07:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T143232">2023-06-29 14:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
