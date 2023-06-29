@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: India is the industry’s ‘sleeping giant,’ Artemis Accords expert says](https://www.cnbc.com/2023/06/29/investing-in-space-india-is-a-sleeping-giant-expert-says.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T144353">2023-06-29 14:43:53 UTC</a></sub>
 * [China looks to build new space partnerships with Egypt satellite project](https://spacenews.com/china-looks-to-build-new-space-partnerships-with-egypt-satellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T141029">2023-06-29 14:10:29 UTC</a></sub>
 * [SpaceX resumes static fire testing at Starbase](https://www.teslarati.com/spacex-resumes-static-fire-testing-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T140438">2023-06-29 14:04:38 UTC</a></sub>
 * [Air Force awards Raytheon $625 million contract for nuclear-hardened satcom terminals](https://spacenews.com/air-force-awards-raytheon-625-million-contract-for-nuclear-hardened-satcom-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T130601">2023-06-29 13:06:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DoD to invest in startup developing mobile space-launch platforms](https://spacenews.com/dod-to-invest-in-startup-developing-mobile-space-launch-platforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T192622">2023-06-28 19:26:22 UTC</a></sub>
 * [With Webb, scientists make first detection of carbon molecule in protoplanetary disk](https://www.nasaspaceflight.com/2023/06/webb-ch3-d203-506/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T185425">2023-06-28 18:54:25 UTC</a></sub>
 * [NASA Offers Media Interviews in Utah on Asteroid Sample Return](http://www.nasa.gov/press-release/nasa-offers-media-interviews-in-utah-on-asteroid-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T181400">2023-06-28 18:14:00 UTC</a></sub>
-* [Above: Orbital develops energy systems for  spacecraft under recent awards](https://spacenews.com/above-orbital-develops-energy-for-spacecraft-under-recent-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T180550">2023-06-28 18:05:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T153239">2023-06-29 15:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T160956">2023-06-29 16:09:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
