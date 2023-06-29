@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [King Charles III Unveils Astra Carta Seal at Space Sustainability Event](https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T221023">2023-06-28 22:10:23 UTC</a></sub>
+* [King Charles III Unveils Astra Carta at Space Sustainability Event](https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T221023">2023-06-28 22:10:23 UTC</a></sub>
 * [OroraTech orders eight more wildfire-monitoring satellites](https://spacenews.com/ororatech-orders-eight-more-wildfire-monitoring-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T203457">2023-06-28 20:34:57 UTC</a></sub>
 * [DoD to invest in startup developing mobile space-launch platforms](https://spacenews.com/dod-to-invest-in-startup-developing-mobile-space-launch-platforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T192622">2023-06-28 19:26:22 UTC</a></sub>
 * [With Webb, scientists make first detection of carbon molecule in protoplanetary disk](https://www.nasaspaceflight.com/2023/06/webb-ch3-d203-506/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T185425">2023-06-28 18:54:25 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T233234">2023-06-28 23:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T004815">2023-06-29 00:48:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
