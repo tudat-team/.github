@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceShipTwo to demonstrate research capabilities on first commercial flight](https://spacenews.com/spaceshiptwo-to-demonstrate-research-capabilities-on-first-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T005241">2023-06-29 00:52:41 UTC</a></sub>
 * [King Charles III Unveils Astra Carta at Space Sustainability Event](https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T221023">2023-06-28 22:10:23 UTC</a></sub>
 * [OroraTech orders eight more wildfire-monitoring satellites](https://spacenews.com/ororatech-orders-eight-more-wildfire-monitoring-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T203457">2023-06-28 20:34:57 UTC</a></sub>
 * [DoD to invest in startup developing mobile space-launch platforms](https://spacenews.com/dod-to-invest-in-startup-developing-mobile-space-launch-platforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T192622">2023-06-28 19:26:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Startup iRocket wins Space Force contract to demonstrate rocket engine](https://spacenews.com/startup-irocket-wins-space-force-contract-to-demonstrate-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T130429">2023-06-28 13:04:29 UTC</a></sub>
 * [Ramon.Space raises $26 million from Foxconn and other backers](https://spacenews.com/ramon-space-raises-26-million-from-foxconn-and-other-backers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T120000">2023-06-28 12:00:00 UTC</a></sub>
 * [Sierra Space describes long-term plans for Dream Chaser and inflatable modules](https://spacenews.com/sierra-space-describes-long-term-plans-for-dream-chaser-and-inflatable-modules/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T113116">2023-06-28 11:31:16 UTC</a></sub>
-* [SpaceForest Launch Test Flight of Suborbital Perun Vehicle](https://europeanspaceflight.com/spaceforest-launch-test-flight-of-suborbital-perun-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T095538">2023-06-28 09:55:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T004815">2023-06-29 00:48:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T022034">2023-06-29 02:20:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
