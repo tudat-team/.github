@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic Scores Success with First Commercial Spaceflight](https://spacepolicyonline.com/news/virgin-galactic-scores-success-with-first-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T024733">2023-06-30 02:47:33 UTC</a></sub>
 * [SpaceX to launch European astronomy mission](https://spacenews.com/spacex-to-launch-european-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T234032">2023-06-29 23:40:32 UTC</a></sub>
 * [Final member assigned to SpaceX and NASA’s Crew 7 mission](https://www.teslarati.com/final-member-assigned-to-spacex-and-nasas-crew-7-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T231438">2023-06-29 23:14:38 UTC</a></sub>
 * [Space Development Agency issues new solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-new-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T195431">2023-06-29 19:54:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space: India is the industry’s ‘sleeping giant,’ Artemis Accords expert says](https://www.cnbc.com/2023/06/29/investing-in-space-india-is-a-sleeping-giant-expert-says.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T144353">2023-06-29 14:43:53 UTC</a></sub>
 * [China looks to build new space partnerships with Egypt satellite project](https://spacenews.com/china-looks-to-build-new-space-partnerships-with-egypt-satellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T141029">2023-06-29 14:10:29 UTC</a></sub>
 * [SpaceX resumes static fire testing at Starbase](https://www.teslarati.com/spacex-resumes-static-fire-testing-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T140438">2023-06-29 14:04:38 UTC</a></sub>
-* [Air Force awards Raytheon $625 million contract for nuclear-hardened satcom terminals](https://spacenews.com/air-force-awards-raytheon-625-million-contract-for-nuclear-hardened-satcom-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T130601">2023-06-29 13:06:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T021820">2023-06-30 02:18:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T030223">2023-06-30 03:02:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
