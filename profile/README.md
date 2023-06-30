@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Ingenuity Mars Helicopter Phones Home](https://mars.nasa.gov/news/9430/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T170400">2023-06-30 17:04:00 UTC</a></sub>
+* [Blue Update: New Glenn testing hardware at the cape as New Shepard closes in on return to flight](https://www.nasaspaceflight.com/2023/06/blue-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T161143">2023-06-30 16:11:43 UTC</a></sub>
 * [Vega C suffers setback in return to flight effort](https://spacenews.com/vega-c-suffers-setback-in-return-to-flight-effort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T033854">2023-06-30 03:38:54 UTC</a></sub>
 * [Virgin Galactic Scores Success with First Commercial Spaceflight](https://spacepolicyonline.com/news/virgin-galactic-scores-success-with-first-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T024733">2023-06-30 02:47:33 UTC</a></sub>
 * [SpaceX to launch European astronomy mission](https://spacenews.com/spacex-to-launch-european-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T234032">2023-06-29 23:40:32 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Firefly to launch Lockheed Martin small-satellite experiment](https://spacenews.com/firefly-to-launch-lockheed-martin-small-satellite-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T192732">2023-06-29 19:27:32 UTC</a></sub>
 * [Vega C Return to Flight Delayed After Z40 Test Failure](https://europeanspaceflight.com/vega-c-return-to-flight-delayed-after-z40-test-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T192605">2023-06-29 19:26:05 UTC</a></sub>
 * [Virgin Galactic completes first commercial SpaceShipTwo suborbital flight](https://spacenews.com/virgin-galactic-completes-first-commercial-spaceshiptwo-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T160838">2023-06-29 16:08:38 UTC</a></sub>
-* [Investing in Space: India is the industry’s ‘sleeping giant,’ Artemis Accords expert says](https://www.cnbc.com/2023/06/29/investing-in-space-india-is-a-sleeping-giant-expert-says.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T144353">2023-06-29 14:43:53 UTC</a></sub>
-* [China looks to build new space partnerships with Egypt satellite project](https://spacenews.com/china-looks-to-build-new-space-partnerships-with-egypt-satellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T141029">2023-06-29 14:10:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T163917">2023-06-30 16:39:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T170703">2023-06-30 17:07:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
