@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AST SpaceMobile hunting for more funds following stock sale](https://spacenews.com/ast-spacemobile-hunting-for-more-funds-following-stock-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T203442">2023-06-30 20:34:42 UTC</a></sub>
 * [NASA Hosts OSIRIS-REx Sample Lab Media Day in Houston](http://www.nasa.gov/press-release/nasa-hosts-osiris-rex-sample-lab-media-day-in-houston) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T190400">2023-06-30 19:04:00 UTC</a></sub>
 * [Defense Innovation Unit solicits proposals for cargo delivery to and from space](https://spacenews.com/defense-innovation-unit-solicits-proposals-for-cargo-delivery-to-and-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T180636">2023-06-30 18:06:36 UTC</a></sub>
 * [BREAKING! NASA's Ingenuity Alive, Calls Home After 2 Months Of Silence](https://tlpnetwork.com/news/2023/06/ingenuity-wakes-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T174049">2023-06-30 17:40:49 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic Scores Success with First Commercial Spaceflight](https://spacepolicyonline.com/news/virgin-galactic-scores-success-with-first-commercial-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T024733">2023-06-30 02:47:33 UTC</a></sub>
 * [SpaceX to launch European astronomy mission](https://spacenews.com/spacex-to-launch-european-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T234032">2023-06-29 23:40:32 UTC</a></sub>
 * [Final member assigned to SpaceX and NASA’s Crew 7 mission](https://www.teslarati.com/final-member-assigned-to-spacex-and-nasas-crew-7-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T231438">2023-06-29 23:14:38 UTC</a></sub>
-* [Space Development Agency issues new solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-new-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T195431">2023-06-29 19:54:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T203245">2023-06-30 20:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T210650">2023-06-30 21:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
