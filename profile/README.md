@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch European astronomy mission](https://spacenews.com/spacex-to-launch-european-astronomy-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T234032">2023-06-29 23:40:32 UTC</a></sub>
+* [Final member assigned to SpaceX and NASA’s Crew 7 mission](https://www.teslarati.com/final-member-assigned-to-spacex-and-nasas-crew-7-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T231438">2023-06-29 23:14:38 UTC</a></sub>
 * [Space Development Agency issues new solicitation for 100 satellites](https://spacenews.com/space-development-agency-issues-new-solicitation-for-100-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T195431">2023-06-29 19:54:31 UTC</a></sub>
 * [Firefly to launch Lockheed Martin small-satellite experiment](https://spacenews.com/firefly-to-launch-lockheed-martin-small-satellite-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T192732">2023-06-29 19:27:32 UTC</a></sub>
 * [Vega C Return to Flight Delayed After Z40 Test Failure](https://europeanspaceflight.com/vega-c-return-to-flight-delayed-after-z40-test-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T192605">2023-06-29 19:26:05 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China looks to build new space partnerships with Egypt satellite project](https://spacenews.com/china-looks-to-build-new-space-partnerships-with-egypt-satellite-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T141029">2023-06-29 14:10:29 UTC</a></sub>
 * [SpaceX resumes static fire testing at Starbase](https://www.teslarati.com/spacex-resumes-static-fire-testing-starbase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T140438">2023-06-29 14:04:38 UTC</a></sub>
 * [Air Force awards Raytheon $625 million contract for nuclear-hardened satcom terminals](https://spacenews.com/air-force-awards-raytheon-625-million-contract-for-nuclear-hardened-satcom-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T130601">2023-06-29 13:06:01 UTC</a></sub>
-* [SpaceShipTwo to demonstrate research capabilities on first commercial flight](https://spacenews.com/spaceshiptwo-to-demonstrate-research-capabilities-on-first-commercial-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T005241">2023-06-29 00:52:41 UTC</a></sub>
-* [King Charles III Unveils Astra Carta at Space Sustainability Event](https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T221023">2023-06-28 22:10:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T233232">2023-06-29 23:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T004643">2023-06-30 00:46:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
