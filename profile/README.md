@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Searching the skies to keep us all alive](https://www.planetary.org/the-downlink/searching-the-skies-to-keep-us-all-alive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T143438">2023-06-30 14:34:38 UTC</a></sub>
 * [What’s going on with Mars Sample Return?](https://www.planetary.org/articles/whats-going-on-with-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T143437">2023-06-27 14:34:37 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 19-25, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-19-25-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185215">2023-06-26 18:52:15 UTC</a></sub>
 * [Announcing the 2023 Shoemaker NEO grant winners](https://www.planetary.org/articles/announcing-the-2023-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T143436">2023-06-26 14:34:36 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Marrying the arts and science in space](https://www.planetary.org/articles/ariel-barreiro-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143438">2023-06-22 14:34:38 UTC</a></sub>
 * [Want to be a citizen astronomer and defend Earth from asteroids? Here are some tips.](https://www.planetary.org/articles/citizen-astronomer-asteroid-defender-tips) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173903">2023-06-20 17:39:03 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 12-19, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-12-19-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T032233">2023-06-20 03:22:33 UTC</a></sub>
-* [Reusability efforts of European launch startups ](https://europeanspaceflight.substack.com/p/reusability-efforts-of-european-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T140650">2023-06-19 14:06:50 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T143255">2023-06-30 14:32:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T150749">2023-06-30 15:07:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
