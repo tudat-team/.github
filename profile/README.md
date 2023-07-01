@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch ESA’s Euclid Telescope to explore the dark universe](https://www.nasaspaceflight.com/2023/07/euclid-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T123925">2023-07-01 12:39:25 UTC</a></sub>
 * [NASA to add fourth pair of roll-out arrays to ISS](https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T020020">2023-07-01 02:00:20 UTC</a></sub>
 * [United Launch Alliance delays maiden Vulcan Centaur launch](https://www.teslarati.com/united-launch-alliance-delays-maiden-vulcan-centaur-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T213437">2023-06-30 21:34:37 UTC</a></sub>
 * [China’s Changguang Satellite demonstrates space-to-ground laser links](https://spacenews.com/chinas-changguang-satellite-demonstrates-space-to-ground-laser-links/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T212825">2023-06-30 21:28:25 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA's Ingenuity Alive, Calls Home After 2 Months Of Silence](https://tlpnetwork.com/news/2023/06/ingenuity-wakes-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T174049">2023-06-30 17:40:49 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Phones Home](https://mars.nasa.gov/news/9430/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T170400">2023-06-30 17:04:00 UTC</a></sub>
 * [Blue Update: New Glenn testing hardware at the cape as New Shepard closes in on return to flight](https://www.nasaspaceflight.com/2023/06/blue-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T161143">2023-06-30 16:11:43 UTC</a></sub>
-* [Vega C suffers setback in return to flight effort](https://spacenews.com/vega-c-suffers-setback-in-return-to-flight-effort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T033854">2023-06-30 03:38:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T121411">2023-07-01 12:14:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T125056">2023-07-01 12:50:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
