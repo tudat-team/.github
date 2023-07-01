@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon 9 launches ESA’s Euclid space telescope](https://spacenews.com/falcon-9-launches-esas-euclid-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T194806">2023-07-01 19:48:06 UTC</a></sub>
 * [ESA's Euclid Embarks on a Momentous Journey to Unravel the Mystery of Dark Matter and Dark Energy](https://tlpnetwork.com/news/2023/07/spacex-launches-euclid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T164627">2023-07-01 16:46:27 UTC</a></sub>
 * [SpaceX launches ESA’s Euclid Telescope to explore the dark universe](https://www.nasaspaceflight.com/2023/07/euclid-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T123925">2023-07-01 12:39:25 UTC</a></sub>
 * [NASA to add fourth pair of roll-out arrays to ISS](https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T020020">2023-07-01 02:00:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Hosts OSIRIS-REx Sample Lab Media Day in Houston](http://www.nasa.gov/press-release/nasa-hosts-osiris-rex-sample-lab-media-day-in-houston) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T190400">2023-06-30 19:04:00 UTC</a></sub>
 * [Defense Innovation Unit solicits proposals for cargo delivery to and from space](https://spacenews.com/defense-innovation-unit-solicits-proposals-for-cargo-delivery-to-and-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T180636">2023-06-30 18:06:36 UTC</a></sub>
 * [NASA's Ingenuity Alive, Calls Home After 2 Months Of Silence](https://tlpnetwork.com/news/2023/06/ingenuity-wakes-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T174049">2023-06-30 17:40:49 UTC</a></sub>
-* [NASA's Ingenuity Mars Helicopter Phones Home](https://mars.nasa.gov/news/9430/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T170400">2023-06-30 17:04:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T193219">2023-07-01 19:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T200753">2023-07-01 20:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
