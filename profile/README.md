@@ -574,7 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [AST SpaceMobile hunting for more funds following stock sale](https://spacenews.com/ast-spacemobile-hunting-for-more-funds-following-stock-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T203442">2023-06-30 20:34:42 UTC</a></sub>
 * [NASA Hosts OSIRIS-REx Sample Lab Media Day in Houston](http://www.nasa.gov/press-release/nasa-hosts-osiris-rex-sample-lab-media-day-in-houston) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T190400">2023-06-30 19:04:00 UTC</a></sub>
 * [Defense Innovation Unit solicits proposals for cargo delivery to and from space](https://spacenews.com/defense-innovation-unit-solicits-proposals-for-cargo-delivery-to-and-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T180636">2023-06-30 18:06:36 UTC</a></sub>
-* [BREAKING! NASA's Ingenuity Alive, Calls Home After 2 Months Of Silence](https://tlpnetwork.com/news/2023/06/ingenuity-wakes-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T174049">2023-06-30 17:40:49 UTC</a></sub>
+* [NASA's Ingenuity Alive, Calls Home After 2 Months Of Silence](https://tlpnetwork.com/news/2023/06/ingenuity-wakes-up) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T174049">2023-06-30 17:40:49 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Phones Home](https://mars.nasa.gov/news/9430/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T170400">2023-06-30 17:04:00 UTC</a></sub>
 * [Blue Update: New Glenn testing hardware at the cape as New Shepard closes in on return to flight](https://www.nasaspaceflight.com/2023/06/blue-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T161143">2023-06-30 16:11:43 UTC</a></sub>
 * [Vega C suffers setback in return to flight effort](https://spacenews.com/vega-c-suffers-setback-in-return-to-flight-effort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T033854">2023-06-30 03:38:54 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T053230">2023-07-01 05:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T061020">2023-07-01 06:10:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
