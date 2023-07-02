@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [What’s Happening in Space Policy July 2-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-2-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230702T181344">2023-07-02 18:13:44 UTC</a></sub>
 * [ESA’s Euclid on Its Way to Study the “Dark Universe”](https://spacepolicyonline.com/news/esas-euclid-on-its-way-to-study-the-dark-universe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T220522">2023-07-01 22:05:22 UTC</a></sub>
 * [Falcon 9 launches ESA’s Euclid space telescope](https://spacenews.com/falcon-9-launches-esas-euclid-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T194806">2023-07-01 19:48:06 UTC</a></sub>
 * [ESA's Euclid Embarks on a Momentous Journey to Unravel the Mystery of Dark Matter and Dark Energy](https://tlpnetwork.com/news/2023/07/spacex-launches-euclid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T164627">2023-07-01 16:46:27 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China’s Changguang Satellite demonstrates space-to-ground laser links](https://spacenews.com/chinas-changguang-satellite-demonstrates-space-to-ground-laser-links/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T212825">2023-06-30 21:28:25 UTC</a></sub>
 * [AST SpaceMobile hunting for more funds following stock sale](https://spacenews.com/ast-spacemobile-hunting-for-more-funds-following-stock-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T203442">2023-06-30 20:34:42 UTC</a></sub>
 * [NASA Hosts OSIRIS-REx Sample Lab Media Day in Houston](http://www.nasa.gov/press-release/nasa-hosts-osiris-rex-sample-lab-media-day-in-houston) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T190400">2023-06-30 19:04:00 UTC</a></sub>
-* [Defense Innovation Unit solicits proposals for cargo delivery to and from space](https://spacenews.com/defense-innovation-unit-solicits-proposals-for-cargo-delivery-to-and-from-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T180636">2023-06-30 18:06:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230702T183349">2023-07-02 18:33:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230702T190610">2023-07-02 19:06:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
