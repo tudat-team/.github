@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vega C Return Delayed Following Static Fire Anomaly](https://tlpnetwork.com/news/2023/07/vega-c-return-delayed-following-static-fire-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T133500">2023-07-03 13:35:00 UTC</a></sub>
 * [NASA Orders More Solar Arrays For ISS](https://tlpnetwork.com/news/2023/07/nasa-orders-more-solar-arrays-for-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T124200">2023-07-03 12:42:00 UTC</a></sub>
 * [What’s Happening in Space Policy July 2-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-2-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230702T181344">2023-07-02 18:13:44 UTC</a></sub>
 * [ESA’s Euclid on Its Way to Study the “Dark Universe”](https://spacepolicyonline.com/news/esas-euclid-on-its-way-to-study-the-dark-universe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T220522">2023-07-01 22:05:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to add fourth pair of roll-out arrays to ISS](https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T020020">2023-07-01 02:00:20 UTC</a></sub>
 * [United Launch Alliance delays maiden Vulcan Centaur launch](https://www.teslarati.com/united-launch-alliance-delays-maiden-vulcan-centaur-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T213437">2023-06-30 21:34:37 UTC</a></sub>
 * [China’s Changguang Satellite demonstrates space-to-ground laser links](https://spacenews.com/chinas-changguang-satellite-demonstrates-space-to-ground-laser-links/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T212825">2023-06-30 21:28:25 UTC</a></sub>
-* [AST SpaceMobile hunting for more funds following stock sale](https://spacenews.com/ast-spacemobile-hunting-for-more-funds-following-stock-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T203442">2023-06-30 20:34:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T133722">2023-07-03 13:37:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T140745">2023-07-03 14:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
