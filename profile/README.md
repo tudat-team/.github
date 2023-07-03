@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: June 26-July 2, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-26-july-2-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T185915">2023-07-03 18:59:15 UTC</a></sub>
 * [What does the future hold for the Guiana Space Center?](https://europeanspaceflight.substack.com/p/what-does-the-future-hold-for-the) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T141938">2023-07-03 14:19:38 UTC</a></sub>
 * [Searching the skies to keep us all alive](https://www.planetary.org/the-downlink/searching-the-skies-to-keep-us-all-alive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T143438">2023-06-30 14:34:38 UTC</a></sub>
 * [What’s going on with Mars Sample Return?](https://www.planetary.org/articles/whats-going-on-with-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T143437">2023-06-27 14:34:37 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rings and dings](https://www.planetary.org/the-downlink/rings-and-dings) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T143503">2023-06-23 14:35:03 UTC</a></sub>
 * [NROL-68: United Launch Alliance Successfully Launches the Penultimate Delta IV Heavy Rocket](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-the-penultimate-delta-iv-heavy-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T161454">2023-06-22 16:14:54 UTC</a></sub>
 * [Marrying the arts and science in space](https://www.planetary.org/articles/ariel-barreiro-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143438">2023-06-22 14:34:38 UTC</a></sub>
-* [Want to be a citizen astronomer and defend Earth from asteroids? Here are some tips.](https://www.planetary.org/articles/citizen-astronomer-asteroid-defender-tips) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173903">2023-06-20 17:39:03 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T183536">2023-07-03 18:35:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T190636">2023-07-03 19:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
