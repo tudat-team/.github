@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Europe’s venerable Ariane 5 rocket faces a bittersweet ending on Tuesday](https://arstechnica.com/space/2023/07/europes-venerable-ariane-5-rocket-faces-a-bittersweet-ending-on-tuesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T142255">2023-07-03 14:22:55 UTC</a></sub>
 * [Vega C Return Delayed Following Static Fire Anomaly](https://tlpnetwork.com/news/2023/07/vega-c-return-delayed-following-static-fire-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T133500">2023-07-03 13:35:00 UTC</a></sub>
 * [NASA Orders More Solar Arrays For ISS](https://tlpnetwork.com/news/2023/07/nasa-orders-more-solar-arrays-for-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T124200">2023-07-03 12:42:00 UTC</a></sub>
 * [What’s Happening in Space Policy July 2-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-2-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230702T181344">2023-07-02 18:13:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches ESA’s Euclid Telescope to explore the dark universe](https://www.nasaspaceflight.com/2023/07/euclid-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T123925">2023-07-01 12:39:25 UTC</a></sub>
 * [NASA to add fourth pair of roll-out arrays to ISS](https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T020020">2023-07-01 02:00:20 UTC</a></sub>
 * [United Launch Alliance delays maiden Vulcan Centaur launch](https://www.teslarati.com/united-launch-alliance-delays-maiden-vulcan-centaur-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T213437">2023-06-30 21:34:37 UTC</a></sub>
-* [China’s Changguang Satellite demonstrates space-to-ground laser links](https://spacenews.com/chinas-changguang-satellite-demonstrates-space-to-ground-laser-links/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T212825">2023-06-30 21:28:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What does the future hold for the Guiana Space Center?](https://europeanspaceflight.substack.com/p/what-does-the-future-hold-for-the) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T141938">2023-07-03 14:19:38 UTC</a></sub>
 * [Searching the skies to keep us all alive](https://www.planetary.org/the-downlink/searching-the-skies-to-keep-us-all-alive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T143438">2023-06-30 14:34:38 UTC</a></sub>
 * [What’s going on with Mars Sample Return?](https://www.planetary.org/articles/whats-going-on-with-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T143437">2023-06-27 14:34:37 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 19-25, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-19-25-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185215">2023-06-26 18:52:15 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NROL-68: United Launch Alliance Successfully Launches the Penultimate Delta IV Heavy Rocket](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-the-penultimate-delta-iv-heavy-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T161454">2023-06-22 16:14:54 UTC</a></sub>
 * [Marrying the arts and science in space](https://www.planetary.org/articles/ariel-barreiro-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143438">2023-06-22 14:34:38 UTC</a></sub>
 * [Want to be a citizen astronomer and defend Earth from asteroids? Here are some tips.](https://www.planetary.org/articles/citizen-astronomer-asteroid-defender-tips) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T173903">2023-06-20 17:39:03 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: June 12-19, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-12-19-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T032233">2023-06-20 03:22:33 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T143402">2023-07-03 14:34:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T150826">2023-07-03 15:08:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
