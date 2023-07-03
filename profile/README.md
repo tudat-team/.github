@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s Parker Solar Probe Completes 16th Sun Orbit](https://tlpnetwork.com/news/2023/07/nasa-parker-solar-probe-completes-16th-sun-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T212600">2023-07-03 21:26:00 UTC</a></sub>
 * [Launch Roundup – Arianespace launching Ariane 5 final flight; SpaceX to fly one of last Starlink v1.5 flights](https://www.nasaspaceflight.com/2023/07/launch-roundup-july_2_9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T171828">2023-07-03 17:18:28 UTC</a></sub>
 * [Europe’s venerable Ariane 5 rocket faces a bittersweet ending on Tuesday](https://arstechnica.com/space/2023/07/europes-venerable-ariane-5-rocket-faces-a-bittersweet-ending-on-tuesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T142255">2023-07-03 14:22:55 UTC</a></sub>
 * [Vega C Return Delayed Following Static Fire Anomaly](https://tlpnetwork.com/news/2023/07/vega-c-return-delayed-following-static-fire-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T133500">2023-07-03 13:35:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Falcon 9 launches ESA’s Euclid space telescope](https://spacenews.com/falcon-9-launches-esas-euclid-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T194806">2023-07-01 19:48:06 UTC</a></sub>
 * [ESA's Euclid Embarks on a Momentous Journey to Unravel the Mystery of Dark Matter and Dark Energy](https://tlpnetwork.com/news/2023/07/spacex-launches-euclid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T164627">2023-07-01 16:46:27 UTC</a></sub>
 * [SpaceX launches ESA’s Euclid Telescope to explore the dark universe](https://www.nasaspaceflight.com/2023/07/euclid-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T123925">2023-07-01 12:39:25 UTC</a></sub>
-* [NASA to add fourth pair of roll-out arrays to ISS](https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T020020">2023-07-01 02:00:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T213234">2023-07-03 21:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T220809">2023-07-03 22:08:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
