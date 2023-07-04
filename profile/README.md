@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CNES Creates Space Mission Ethics Committee](https://europeanspaceflight.com/cnes-creates-space-mission-ethics-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T202456">2023-07-04 20:24:56 UTC</a></sub>
 * [Rocket Lab announces next launch, will attempt first stage recovery](https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T125435">2023-07-04 12:54:35 UTC</a></sub>
 * [SpaceX successfully launches Euclid Space Telescope for the ESA](https://www.teslarati.com/spacex-successfully-launches-euclid-space-telescope-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T124441">2023-07-04 12:44:41 UTC</a></sub>
 * [NASA’s Parker Solar Probe Completes 16th Sun Orbit](https://tlpnetwork.com/news/2023/07/nasa-parker-solar-probe-completes-16th-sun-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T212600">2023-07-03 21:26:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Orders More Solar Arrays For ISS](https://tlpnetwork.com/news/2023/07/nasa-orders-more-solar-arrays-for-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T124200">2023-07-03 12:42:00 UTC</a></sub>
 * [What’s Happening in Space Policy July 2-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-2-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230702T181344">2023-07-02 18:13:44 UTC</a></sub>
 * [ESA’s Euclid on Its Way to Study the “Dark Universe”](https://spacepolicyonline.com/news/esas-euclid-on-its-way-to-study-the-dark-universe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T220522">2023-07-01 22:05:22 UTC</a></sub>
-* [Falcon 9 launches ESA’s Euclid space telescope](https://spacenews.com/falcon-9-launches-esas-euclid-space-telescope/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T194806">2023-07-01 19:48:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T203304">2023-07-04 20:33:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T210727">2023-07-04 21:07:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
