@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The European Space Forum Returns to Brussels](https://tlpnetwork.com/news/2023/07/european_space_forum_returns_to_brussels) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T221500">2023-07-04 22:15:00 UTC</a></sub>
 * [CNES Creates Space Mission Ethics Committee](https://europeanspaceflight.com/cnes-creates-space-mission-ethics-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T202456">2023-07-04 20:24:56 UTC</a></sub>
 * [Rocket Lab announces next launch, will attempt first stage recovery](https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T125435">2023-07-04 12:54:35 UTC</a></sub>
 * [SpaceX successfully launches Euclid Space Telescope for the ESA](https://www.teslarati.com/spacex-successfully-launches-euclid-space-telescope-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T124441">2023-07-04 12:44:41 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Vega C Return Delayed Following Static Fire Anomaly](https://tlpnetwork.com/news/2023/07/vega-c-return-delayed-following-static-fire-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T133500">2023-07-03 13:35:00 UTC</a></sub>
 * [NASA Orders More Solar Arrays For ISS](https://tlpnetwork.com/news/2023/07/nasa-orders-more-solar-arrays-for-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T124200">2023-07-03 12:42:00 UTC</a></sub>
 * [What’s Happening in Space Policy July 2-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-2-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230702T181344">2023-07-02 18:13:44 UTC</a></sub>
-* [ESA’s Euclid on Its Way to Study the “Dark Universe”](https://spacepolicyonline.com/news/esas-euclid-on-its-way-to-study-the-dark-universe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T220522">2023-07-01 22:05:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T223543">2023-07-04 22:35:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T230830">2023-07-04 23:08:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
