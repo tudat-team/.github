@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry](https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T154114">2023-07-05 15:41:14 UTC</a></sub>
+* [Rivada gets more breathing room to deploy constellation](https://spacenews.com/rivada-gets-more-breathing-room-to-deploy-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T151135">2023-07-05 15:11:35 UTC</a></sub>
 * [Poland Complete Acceptance Phase for Three Space Debris Observatories](https://europeanspaceflight.com/poland-complete-acceptance-phase-for-three-space-debris-observatories/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T141619">2023-07-05 14:16:19 UTC</a></sub>
 * [Europe’s Ariane 5 rocket to make its final launch this evening [Updated]](https://arstechnica.com/space/2023/07/europes-venerable-ariane-5-rocket-faces-a-bittersweet-ending-on-tuesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T135055">2023-07-05 13:50:55 UTC</a></sub>
 * [Radio noise from satellite constellations could interfere with astronomers](https://spacenews.com/radio-noise-from-satellite-constellations-could-interfere-with-astronomers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T114517">2023-07-05 11:45:17 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CNES Creates Space Mission Ethics Committee](https://europeanspaceflight.com/cnes-creates-space-mission-ethics-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T202456">2023-07-04 20:24:56 UTC</a></sub>
 * [Rocket Lab announces next launch, will attempt first stage recovery](https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T125435">2023-07-04 12:54:35 UTC</a></sub>
 * [SpaceX successfully launches Euclid Space Telescope for the ESA](https://www.teslarati.com/spacex-successfully-launches-euclid-space-telescope-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T124441">2023-07-04 12:44:41 UTC</a></sub>
-* [NASA’s Parker Solar Probe Completes 16th Sun Orbit](https://tlpnetwork.com/news/2023/07/nasa-parker-solar-probe-completes-16th-sun-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T212600">2023-07-03 21:26:00 UTC</a></sub>
-* [Launch Roundup – Arianespace launching Ariane 5 final flight; SpaceX to fly one of last Starlink v1.5 flights](https://www.nasaspaceflight.com/2023/07/launch-roundup-july_2_9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T171828">2023-07-03 17:18:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T153453">2023-07-05 15:34:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T161124">2023-07-05 16:11:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
