@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hawkeye 360 satellites to monitor illegal fishing in Pacific Islands](https://spacenews.com/hawkeye-360-satellites-to-monitor-illegal-fishing-in-pacific-islands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T080000">2023-07-06 08:00:00 UTC</a></sub>
 * [Final Ariane 5 Takes Flight](https://spacepolicyonline.com/news/final-ariane-5-takes-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T022908">2023-07-06 02:29:08 UTC</a></sub>
 * [Ariane 5 launches for the final time](https://spacenews.com/ariane-5-launches-for-the-final-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T232416">2023-07-05 23:24:16 UTC</a></sub>
 * [Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry](https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T154114">2023-07-05 15:41:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Radio noise from satellite constellations could interfere with astronomers](https://spacenews.com/radio-noise-from-satellite-constellations-could-interfere-with-astronomers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T114517">2023-07-05 11:45:17 UTC</a></sub>
 * [Regulatory uncertainty as commercial human spaceflight takes off](https://spacenews.com/regulatory-uncertainty-as-commercial-human-spaceflight-takes-off/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T090000">2023-07-05 09:00:00 UTC</a></sub>
 * [The European Space Forum Returns to Brussels](https://tlpnetwork.com/news/2023/07/european_space_forum_returns_to_brussels) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T221500">2023-07-04 22:15:00 UTC</a></sub>
-* [CNES Creates Space Mission Ethics Committee](https://europeanspaceflight.com/cnes-creates-space-mission-ethics-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T202456">2023-07-04 20:24:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T073230">2023-07-06 07:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T081130">2023-07-06 08:11:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
