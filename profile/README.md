@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ariane 5 launches for the final time](https://spacenews.com/ariane-5-launches-for-the-final-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T232416">2023-07-05 23:24:16 UTC</a></sub>
 * [Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry](https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T154114">2023-07-05 15:41:14 UTC</a></sub>
 * [Rivada gets more breathing room to deploy constellation](https://spacenews.com/rivada-gets-more-breathing-room-to-deploy-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T151135">2023-07-05 15:11:35 UTC</a></sub>
 * [Poland Complete Acceptance Phase for Three Space Debris Observatories](https://europeanspaceflight.com/poland-complete-acceptance-phase-for-three-space-debris-observatories/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T141619">2023-07-05 14:16:19 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The European Space Forum Returns to Brussels](https://tlpnetwork.com/news/2023/07/european_space_forum_returns_to_brussels) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T221500">2023-07-04 22:15:00 UTC</a></sub>
 * [CNES Creates Space Mission Ethics Committee](https://europeanspaceflight.com/cnes-creates-space-mission-ethics-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T202456">2023-07-04 20:24:56 UTC</a></sub>
 * [Rocket Lab announces next launch, will attempt first stage recovery](https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T125435">2023-07-04 12:54:35 UTC</a></sub>
-* [SpaceX successfully launches Euclid Space Telescope for the ESA](https://www.teslarati.com/spacex-successfully-launches-euclid-space-telescope-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T124441">2023-07-04 12:44:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T233236">2023-07-05 23:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T005158">2023-07-06 00:51:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
