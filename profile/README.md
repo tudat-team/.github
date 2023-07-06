@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Viasat signs deal to commercialize European airspace tracking service](https://spacenews.com/viasat-signs-deal-to-commercialize-european-airspace-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T205940">2023-07-06 20:59:40 UTC</a></sub>
+* [China’s Landspace set for second methalox rocket launch](https://spacenews.com/chinas-landspace-set-for-second-methalox-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T201440">2023-07-06 20:14:40 UTC</a></sub>
 * [Space Command argues for shift from static to dynamic satellite operations](https://spacenews.com/space-command-argues-for-shift-from-static-to-dynamic-satellite-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T200034">2023-07-06 20:00:34 UTC</a></sub>
 * [California Science Center GO For Shuttle Endeavour Stacking](https://tlpnetwork.com/news/2023/07/california-science-center-go-for-shuttle-endeavour-stacking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T183400">2023-07-06 18:34:00 UTC</a></sub>
 * [SpaceX focuses on launch site readiness ahead of Starship Flight 2](https://www.nasaspaceflight.com/2023/07/starship-launch-site-readiness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T172943">2023-07-06 17:29:43 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA Launch Independent Enquiry Commission to Investigate Vega C Z40 Test Failure](https://europeanspaceflight.com/esa-launch-independent-enquiry-commission-to-investigate-vega-c-z40-test-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T105012">2023-07-06 10:50:12 UTC</a></sub>
 * [Hawkeye 360 satellites to monitor illegal fishing in Pacific Islands](https://spacenews.com/hawkeye-360-satellites-to-monitor-illegal-fishing-in-pacific-islands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T080000">2023-07-06 08:00:00 UTC</a></sub>
 * [Final Ariane 5 Takes Flight](https://spacepolicyonline.com/news/final-ariane-5-takes-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T022908">2023-07-06 02:29:08 UTC</a></sub>
-* [Ariane 5 launches for the final time](https://spacenews.com/ariane-5-launches-for-the-final-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T232416">2023-07-05 23:24:16 UTC</a></sub>
-* [Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry](https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T154114">2023-07-05 15:41:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T203244">2023-07-06 20:32:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T210743">2023-07-06 21:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
