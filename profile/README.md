@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX focuses on launch site readiness ahead of Starship Flight 2](https://www.nasaspaceflight.com/2023/07/starship-launch-site-readiness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T172943">2023-07-06 17:29:43 UTC</a></sub>
 * [Ariane V goes out in style, retires after 27 years of service](https://www.teslarati.com/ariane-v-retires-after-27-years-of-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T162439">2023-07-06 16:24:39 UTC</a></sub>
 * [SpaceX completes 28th commercial resupply mission to ISS](https://www.teslarati.com/spacex-completes-28th-commercial-resupply-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T161448">2023-07-06 16:14:48 UTC</a></sub>
 * [ESA Launch Independent Enquiry Commission to Investigate Vega C Z40 Test Failure](https://europeanspaceflight.com/esa-launch-independent-enquiry-commission-to-investigate-vega-c-z40-test-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T105012">2023-07-06 10:50:12 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry](https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T154114">2023-07-05 15:41:14 UTC</a></sub>
 * [Rivada gets more breathing room to deploy constellation](https://spacenews.com/rivada-gets-more-breathing-room-to-deploy-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T151135">2023-07-05 15:11:35 UTC</a></sub>
 * [Poland Complete Acceptance Phase for Three Space Debris Observatories](https://europeanspaceflight.com/poland-complete-acceptance-phase-for-three-space-debris-observatories/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T141619">2023-07-05 14:16:19 UTC</a></sub>
-* [Europe’s Ariane 5 rocket to make its final launch this evening [Updated]](https://arstechnica.com/space/2023/07/europes-venerable-ariane-5-rocket-faces-a-bittersweet-ending-on-tuesday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T135055">2023-07-05 13:50:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T170743">2023-07-06 17:07:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T173444">2023-07-06 17:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
