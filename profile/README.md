@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Command argues for shift from static to dynamic satellite operations](https://spacenews.com/space-command-argues-for-shift-from-static-to-dynamic-satellite-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T200034">2023-07-06 20:00:34 UTC</a></sub>
 * [California Science Center GO For Shuttle Endeavour Stacking](https://tlpnetwork.com/news/2023/07/california-science-center-go-for-shuttle-endeavour-stacking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T183400">2023-07-06 18:34:00 UTC</a></sub>
 * [SpaceX focuses on launch site readiness ahead of Starship Flight 2](https://www.nasaspaceflight.com/2023/07/starship-launch-site-readiness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T172943">2023-07-06 17:29:43 UTC</a></sub>
 * [Ariane V goes out in style, retires after 27 years of service](https://www.teslarati.com/ariane-v-retires-after-27-years-of-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T162439">2023-07-06 16:24:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Final Ariane 5 Takes Flight](https://spacepolicyonline.com/news/final-ariane-5-takes-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T022908">2023-07-06 02:29:08 UTC</a></sub>
 * [Ariane 5 launches for the final time](https://spacenews.com/ariane-5-launches-for-the-final-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T232416">2023-07-05 23:24:16 UTC</a></sub>
 * [Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry](https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T154114">2023-07-05 15:41:14 UTC</a></sub>
-* [Rivada gets more breathing room to deploy constellation](https://spacenews.com/rivada-gets-more-breathing-room-to-deploy-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T151135">2023-07-05 15:11:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T193217">2023-07-06 19:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T200900">2023-07-06 20:09:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
