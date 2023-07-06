@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Final Ariane 5 Takes Flight](https://spacepolicyonline.com/news/final-ariane-5-takes-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T022908">2023-07-06 02:29:08 UTC</a></sub>
 * [Ariane 5 launches for the final time](https://spacenews.com/ariane-5-launches-for-the-final-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T232416">2023-07-05 23:24:16 UTC</a></sub>
 * [Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry](https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T154114">2023-07-05 15:41:14 UTC</a></sub>
 * [Rivada gets more breathing room to deploy constellation](https://spacenews.com/rivada-gets-more-breathing-room-to-deploy-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T151135">2023-07-05 15:11:35 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Regulatory uncertainty as commercial human spaceflight takes off](https://spacenews.com/regulatory-uncertainty-as-commercial-human-spaceflight-takes-off/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T090000">2023-07-05 09:00:00 UTC</a></sub>
 * [The European Space Forum Returns to Brussels](https://tlpnetwork.com/news/2023/07/european_space_forum_returns_to_brussels) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T221500">2023-07-04 22:15:00 UTC</a></sub>
 * [CNES Creates Space Mission Ethics Committee](https://europeanspaceflight.com/cnes-creates-space-mission-ethics-committee/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T202456">2023-07-04 20:24:56 UTC</a></sub>
-* [Rocket Lab announces next launch, will attempt first stage recovery](https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T125435">2023-07-04 12:54:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T022641">2023-07-06 02:26:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T031127">2023-07-06 03:11:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
