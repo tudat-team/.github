@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX set to launch 48 Starlink satellites from California](https://www.teslarati.com/spacex-set-to-launch-48-starlink-satellites-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T121450">2023-07-07 12:14:50 UTC</a></sub>
 * [Rocket Report: Big dreams in Sin City; SpaceX and FAA seek to halt lawsuit](https://arstechnica.com/space/2023/07/rocket-report-blue-origin-seeks-to-go-international-au-revoir-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T103722">2023-07-07 10:37:22 UTC</a></sub>
 * [Students Reach New Heights With Spaceport Nova Scotia First Launch ](https://tlpnetwork.com/news/2023/07/students-reach-new-heights-with-spaceport-nova-scotia-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T223100">2023-07-06 22:31:00 UTC</a></sub>
 * [Europe leans on SpaceX to bridge launcher gap](https://spacenews.com/europe-leans-on-spacex-to-bridge-launcher-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T222928">2023-07-06 22:29:28 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [California Science Center GO For Shuttle Endeavour Stacking](https://tlpnetwork.com/news/2023/07/california-science-center-go-for-shuttle-endeavour-stacking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T183400">2023-07-06 18:34:00 UTC</a></sub>
 * [SpaceX focuses on launch site readiness ahead of Starship Flight 2](https://www.nasaspaceflight.com/2023/07/starship-launch-site-readiness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T172943">2023-07-06 17:29:43 UTC</a></sub>
 * [Ariane V goes out in style, retires after 27 years of service](https://www.teslarati.com/ariane-v-retires-after-27-years-of-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T162439">2023-07-06 16:24:39 UTC</a></sub>
-* [SpaceX completes 28th commercial resupply mission to ISS](https://www.teslarati.com/spacex-completes-28th-commercial-resupply-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T161448">2023-07-06 16:14:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T113237">2023-07-07 11:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T121551">2023-07-07 12:15:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
