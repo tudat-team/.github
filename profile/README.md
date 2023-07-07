@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Join NASA to Celebrate Webb Space Telescope’s First Year of Science](http://www.nasa.gov/press-release/join-nasa-to-celebrate-webb-space-telescope-s-first-year-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T180400">2023-07-07 18:04:00 UTC</a></sub>
 * [For the People: The motivations fueling Ecuador’s space journey](https://spacenews.com/for-the-people-the-motivations-fueling-ecuadors-space-journey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T141611">2023-07-07 14:16:11 UTC</a></sub>
 * [Chinese launch firm secures fresh funding for reusable rocket](https://spacenews.com/chinese-launch-firm-secures-fresh-funding-for-reusable-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T135643">2023-07-07 13:56:43 UTC</a></sub>
 * [SpaceX set to launch 48 Starlink satellites from California](https://www.teslarati.com/spacex-set-to-launch-48-starlink-satellites-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T121450">2023-07-07 12:14:50 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Viasat signs deal to commercialize European airspace tracking service](https://spacenews.com/viasat-signs-deal-to-commercialize-european-airspace-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T205940">2023-07-06 20:59:40 UTC</a></sub>
 * [China’s Landspace set for second methalox rocket launch](https://spacenews.com/chinas-landspace-set-for-second-methalox-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T201440">2023-07-06 20:14:40 UTC</a></sub>
 * [Space Command argues for shift from static to dynamic satellite operations](https://spacenews.com/space-command-argues-for-shift-from-static-to-dynamic-satellite-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T200034">2023-07-06 20:00:34 UTC</a></sub>
-* [California Science Center GO For Shuttle Endeavour Stacking](https://tlpnetwork.com/news/2023/07/california-science-center-go-for-shuttle-endeavour-stacking) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T183400">2023-07-06 18:34:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T173328">2023-07-07 17:33:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T181007">2023-07-07 18:10:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
