@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Merger rumors swirl around Dish and EchoStar](https://spacenews.com/merger-rumors-swirl-around-dish-and-echostar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193706">2023-07-07 19:37:06 UTC</a></sub>
+* [Interest grows for human spaceflight in Europe](https://spacenews.com/interest-grows-for-human-spaceflight-in-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193418">2023-07-07 19:34:18 UTC</a></sub>
+* [Congress should stop the coming regulatory assault on commercial space](https://spacenews.com/congress-should-stop-the-coming-regulatory-assault-on-commercial-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T191041">2023-07-07 19:10:41 UTC</a></sub>
 * [The psychology of space exploration — and why it matters on Earth](https://spacenews.com/the-psychology-of-space-exploration-and-why-it-matters-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T183352">2023-07-07 18:33:52 UTC</a></sub>
 * [Join NASA to Celebrate Webb Space Telescope’s First Year of Science](http://www.nasa.gov/press-release/join-nasa-to-celebrate-webb-space-telescope-s-first-year-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T180400">2023-07-07 18:04:00 UTC</a></sub>
 * [For the People: The motivations fueling Ecuador’s space journey](https://spacenews.com/for-the-people-the-motivations-fueling-ecuadors-space-journey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T141611">2023-07-07 14:16:11 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX set to launch 48 Starlink satellites from California](https://www.teslarati.com/spacex-set-to-launch-48-starlink-satellites-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T121450">2023-07-07 12:14:50 UTC</a></sub>
 * [Rocket Report: Big dreams in Sin City; SpaceX and FAA seek to halt lawsuit](https://arstechnica.com/space/2023/07/rocket-report-blue-origin-seeks-to-go-international-au-revoir-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T103722">2023-07-07 10:37:22 UTC</a></sub>
 * [Students Reach New Heights With Spaceport Nova Scotia First Launch ](https://tlpnetwork.com/news/2023/07/students-reach-new-heights-with-spaceport-nova-scotia-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T223100">2023-07-06 22:31:00 UTC</a></sub>
-* [Europe leans on SpaceX to bridge launcher gap](https://spacenews.com/europe-leans-on-spacex-to-bridge-launcher-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T222928">2023-07-06 22:29:28 UTC</a></sub>
-* [Viasat signs deal to commercialize European airspace tracking service](https://spacenews.com/viasat-signs-deal-to-commercialize-european-airspace-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T205940">2023-07-06 20:59:40 UTC</a></sub>
-* [China’s Landspace set for second methalox rocket launch](https://spacenews.com/chinas-landspace-set-for-second-methalox-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T201440">2023-07-06 20:14:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193205">2023-07-07 19:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T200829">2023-07-07 20:08:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
