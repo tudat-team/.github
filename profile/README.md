@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The psychology of space exploration — and why it matters on Earth](https://spacenews.com/the-psychology-of-space-exploration-and-why-it-matters-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T183352">2023-07-07 18:33:52 UTC</a></sub>
 * [Join NASA to Celebrate Webb Space Telescope’s First Year of Science](http://www.nasa.gov/press-release/join-nasa-to-celebrate-webb-space-telescope-s-first-year-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T180400">2023-07-07 18:04:00 UTC</a></sub>
 * [For the People: The motivations fueling Ecuador’s space journey](https://spacenews.com/for-the-people-the-motivations-fueling-ecuadors-space-journey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T141611">2023-07-07 14:16:11 UTC</a></sub>
 * [Chinese launch firm secures fresh funding for reusable rocket](https://spacenews.com/chinese-launch-firm-secures-fresh-funding-for-reusable-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T135643">2023-07-07 13:56:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Europe leans on SpaceX to bridge launcher gap](https://spacenews.com/europe-leans-on-spacex-to-bridge-launcher-gap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T222928">2023-07-06 22:29:28 UTC</a></sub>
 * [Viasat signs deal to commercialize European airspace tracking service](https://spacenews.com/viasat-signs-deal-to-commercialize-european-airspace-tracking-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T205940">2023-07-06 20:59:40 UTC</a></sub>
 * [China’s Landspace set for second methalox rocket launch](https://spacenews.com/chinas-landspace-set-for-second-methalox-rocket-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T201440">2023-07-06 20:14:40 UTC</a></sub>
-* [Space Command argues for shift from static to dynamic satellite operations](https://spacenews.com/space-command-argues-for-shift-from-static-to-dynamic-satellite-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T200034">2023-07-06 20:00:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T183623">2023-07-07 18:36:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T190628">2023-07-07 19:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
