@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Plasmos pivots from rocket engines to VC](https://spacenews.com/plasmos-pivots-from-rocket-engines-to-vc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T011754">2023-07-08 01:17:54 UTC</a></sub>
 * [Merger rumors swirl around Dish and EchoStar](https://spacenews.com/merger-rumors-swirl-around-dish-and-echostar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193706">2023-07-07 19:37:06 UTC</a></sub>
 * [Interest grows for human spaceflight in Europe](https://spacenews.com/interest-grows-for-human-spaceflight-in-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193418">2023-07-07 19:34:18 UTC</a></sub>
 * [Congress should stop the coming regulatory assault on commercial space](https://spacenews.com/congress-should-stop-the-coming-regulatory-assault-on-commercial-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T191041">2023-07-07 19:10:41 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chinese launch firm secures fresh funding for reusable rocket](https://spacenews.com/chinese-launch-firm-secures-fresh-funding-for-reusable-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T135643">2023-07-07 13:56:43 UTC</a></sub>
 * [SpaceX set to launch 48 Starlink satellites from California](https://www.teslarati.com/spacex-set-to-launch-48-starlink-satellites-from-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T121450">2023-07-07 12:14:50 UTC</a></sub>
 * [Rocket Report: Big dreams in Sin City; SpaceX and FAA seek to halt lawsuit](https://arstechnica.com/space/2023/07/rocket-report-blue-origin-seeks-to-go-international-au-revoir-ariane-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T103722">2023-07-07 10:37:22 UTC</a></sub>
-* [Students Reach New Heights With Spaceport Nova Scotia First Launch ](https://tlpnetwork.com/news/2023/07/students-reach-new-heights-with-spaceport-nova-scotia-first-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T223100">2023-07-06 22:31:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T004912">2023-07-08 00:49:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T022225">2023-07-08 02:22:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
