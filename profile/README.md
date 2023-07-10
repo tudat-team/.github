@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra plans a reverse stock split, seeks to raise up to $65 million in offering](https://www.cnbc.com/2023/07/10/astra-plans-reverse-stock-split-seeks-to-raise-up-to-65-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212122">2023-07-10 21:21:22 UTC</a></sub>
+* [Voyager Space deepens India ties for commercial space station plans](https://spacenews.com/voyager-space-deepens-india-ties-for-commercial-space-station-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212013">2023-07-10 21:20:13 UTC</a></sub>
+* [Space Force juggles roles as warrior and protector of space environment](https://spacenews.com/space-force-juggles-roles-as-warrior-and-protector-of-space-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T211500">2023-07-10 21:15:00 UTC</a></sub>
 * [BREAKING! NASA Awards Axiom Space New Contract For Next-Gen ISS Spacesuits](https://tlpnetwork.com/news/2023/07/nasa-awards-axiom-space-new-iss-spacesuit-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T191500">2023-07-10 19:15:00 UTC</a></sub>
 * [NASA Expands Options for Spacewalking, Moonwalking Suits, Services](http://www.nasa.gov/press-release/nasa-expands-options-for-spacewalking-moonwalking-suits-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T191400">2023-07-10 19:14:00 UTC</a></sub>
 * [Benchmark raises $33 million in Series B round](https://spacenews.com/benchmark-raises-33-million-in-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T174810">2023-07-10 17:48:10 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astronomers solve mystery of how a mirror-like planet formed so close to its star](https://arstechnica.com/space/2023/07/astronomers-solve-mystery-of-how-a-mirror-like-planet-formed-so-close-to-its-star/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T154403">2023-07-10 15:44:03 UTC</a></sub>
 * [Can space governance keep up with space sustainability?](https://spacenews.com/can-space-governance-keep-up-with-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T152931">2023-07-10 15:29:31 UTC</a></sub>
 * [SpaceX Falcon 9 breaks record, launches and lands for 16th time](https://www.teslarati.com/spacex-falcon-9-breaks-record-launch-landing-16th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T130439">2023-07-10 13:04:39 UTC</a></sub>
-* [What’s Happening in Space Policy July 9-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230709T215117">2023-07-09 21:51:17 UTC</a></sub>
-* [Using Webb, scientists discover the most distant active supermassive black hole](https://www.nasaspaceflight.com/2023/07/webb-ceers1019/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T194042">2023-07-08 19:40:42 UTC</a></sub>
-* [Plasmos pivots from rocket engines to VC](https://spacenews.com/plasmos-pivots-from-rocket-engines-to-vc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T011754">2023-07-08 01:17:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T213231">2023-07-10 21:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T220759">2023-07-10 22:07:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
