@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! NASA Awards Axiom Space New Contract For Next-Gen ISS Spacesuits](https://tlpnetwork.com/news/2023/07/nasa-awards-axiom-space-new-iss-spacesuit-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T191500">2023-07-10 19:15:00 UTC</a></sub>
+* [NASA Expands Options for Spacewalking, Moonwalking Suits, Services](http://www.nasa.gov/press-release/nasa-expands-options-for-spacewalking-moonwalking-suits-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T191400">2023-07-10 19:14:00 UTC</a></sub>
 * [Benchmark raises $33 million in Series B round](https://spacenews.com/benchmark-raises-33-million-in-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T174810">2023-07-10 17:48:10 UTC</a></sub>
 * [AI, quantum and nuclear technologies are key to Lockheed Martin’s vision for Space 2050](https://spacenews.com/ai-quantum-and-nuclear-technologies-are-key-to-lockheed-martins-vision-for-space-2050/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T165754">2023-07-10 16:57:54 UTC</a></sub>
 * [Astronomers solve mystery of how a mirror-like planet formed so close to its star](https://arstechnica.com/space/2023/07/astronomers-solve-mystery-of-how-a-mirror-like-planet-formed-so-close-to-its-star/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T154403">2023-07-10 15:44:03 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [What’s Happening in Space Policy July 9-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230709T215117">2023-07-09 21:51:17 UTC</a></sub>
 * [Using Webb, scientists discover the most distant active supermassive black hole](https://www.nasaspaceflight.com/2023/07/webb-ceers1019/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T194042">2023-07-08 19:40:42 UTC</a></sub>
 * [Plasmos pivots from rocket engines to VC](https://spacenews.com/plasmos-pivots-from-rocket-engines-to-vc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T011754">2023-07-08 01:17:54 UTC</a></sub>
-* [Merger rumors swirl around Dish and EchoStar](https://spacenews.com/merger-rumors-swirl-around-dish-and-echostar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193706">2023-07-07 19:37:06 UTC</a></sub>
-* [Interest grows for human spaceflight in Europe](https://spacenews.com/interest-grows-for-human-spaceflight-in-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193418">2023-07-07 19:34:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T193244">2023-07-10 19:32:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T200846">2023-07-10 20:08:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
