@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Falcon 9 breaks record, launches and lands for 16th time](https://www.teslarati.com/spacex-falcon-9-breaks-record-launch-landing-16th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T130439">2023-07-10 13:04:39 UTC</a></sub>
 * [What’s Happening in Space Policy July 9-15, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230709T215117">2023-07-09 21:51:17 UTC</a></sub>
 * [Using Webb, scientists discover the most distant active supermassive black hole](https://www.nasaspaceflight.com/2023/07/webb-ceers1019/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T194042">2023-07-08 19:40:42 UTC</a></sub>
 * [Plasmos pivots from rocket engines to VC](https://spacenews.com/plasmos-pivots-from-rocket-engines-to-vc/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230708T011754">2023-07-08 01:17:54 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The psychology of space exploration — and why it matters on Earth](https://spacenews.com/the-psychology-of-space-exploration-and-why-it-matters-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T183352">2023-07-07 18:33:52 UTC</a></sub>
 * [Join NASA to Celebrate Webb Space Telescope’s First Year of Science](http://www.nasa.gov/press-release/join-nasa-to-celebrate-webb-space-telescope-s-first-year-of-science) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T180400">2023-07-07 18:04:00 UTC</a></sub>
 * [For the People: The motivations fueling Ecuador’s space journey](https://spacenews.com/for-the-people-the-motivations-fueling-ecuadors-space-journey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T141611">2023-07-07 14:16:11 UTC</a></sub>
-* [Chinese launch firm secures fresh funding for reusable rocket](https://spacenews.com/chinese-launch-firm-secures-fresh-funding-for-reusable-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T135643">2023-07-07 13:56:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T132019">2023-07-10 13:20:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T133730">2023-07-10 13:37:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
