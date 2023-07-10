@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AI, quantum and nuclear technologies are key to Lockheed Martin’s vision for Space 2050](https://spacenews.com/ai-quantum-and-nuclear-technologies-are-key-to-lockheed-martins-vision-for-space-2050/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T165754">2023-07-10 16:57:54 UTC</a></sub>
 * [Astronomers solve mystery of how a mirror-like planet formed so close to its star](https://arstechnica.com/space/2023/07/astronomers-solve-mystery-of-how-a-mirror-like-planet-formed-so-close-to-its-star/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T154403">2023-07-10 15:44:03 UTC</a></sub>
 * [Can space governance keep up with space sustainability?](https://spacenews.com/can-space-governance-keep-up-with-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T152931">2023-07-10 15:29:31 UTC</a></sub>
 * [SpaceX Falcon 9 breaks record, launches and lands for 16th time](https://www.teslarati.com/spacex-falcon-9-breaks-record-launch-landing-16th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T130439">2023-07-10 13:04:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Merger rumors swirl around Dish and EchoStar](https://spacenews.com/merger-rumors-swirl-around-dish-and-echostar/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193706">2023-07-07 19:37:06 UTC</a></sub>
 * [Interest grows for human spaceflight in Europe](https://spacenews.com/interest-grows-for-human-spaceflight-in-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T193418">2023-07-07 19:34:18 UTC</a></sub>
 * [Congress should stop the coming regulatory assault on commercial space](https://spacenews.com/congress-should-stop-the-coming-regulatory-assault-on-commercial-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T191041">2023-07-07 19:10:41 UTC</a></sub>
-* [The psychology of space exploration — and why it matters on Earth](https://spacenews.com/the-psychology-of-space-exploration-and-why-it-matters-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T183352">2023-07-07 18:33:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T170730">2023-07-10 17:07:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T173333">2023-07-10 17:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
