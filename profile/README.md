@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. sharpens plan for military space race](https://spacenews.com/u-s-sharpens-plan-for-military-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T220000">2023-07-11 22:00:00 UTC</a></sub>
+* [Astranis Announces Contract To Bring Internet To 2 Million People In Philippines Next Year](https://tlpnetwork.com/news/2023/07/astranis-announces-contract-to-bring-internet-to-2-million-people-in-philippines-next-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T213100">2023-07-11 21:31:00 UTC</a></sub>
 * [NASA Astronaut Garrett Reisman Joins VAST as Human Spaceflight Advisor](https://tlpnetwork.com/news/2023/07/nasa-astronaut-garrett-reisman-joins-vast-as-human-spaceflight-advisor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T204300">2023-07-11 20:43:00 UTC</a></sub>
 * [Voyager Space Announces MoU With India To Explore Gaganyaan Missions To StarLab](https://tlpnetwork.com/news/2023/07/voyager-space-announces-mou-with-india-to-explore-gaganyaan-missions-to-starlab) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T202500">2023-07-11 20:25:00 UTC</a></sub>
 * [NASA Cancels Janus Mission After Launch Postponement](https://tlpnetwork.com/news/2023/07/nasa-cancels-janus-mission-after-launch-postponement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T195200">2023-07-11 19:52:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astranis to deliver GEO broadband satellite for the Philippines next year](https://spacenews.com/astranis-to-deliver-geo-broadband-satellite-for-the-philippines-next-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T182032">2023-07-11 18:20:32 UTC</a></sub>
 * [Launch Roundup: China to launch methane powered ZQ-2; SpaceX to finish Starlink v1 flights](https://www.nasaspaceflight.com/2023/07/lanch-roundup-071123/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T170316">2023-07-11 17:03:16 UTC</a></sub>
 * [India’s renewed effort toward space preeminence](https://spacenews.com/indias-renewed-effort-toward-space-preeminence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T165058">2023-07-11 16:50:58 UTC</a></sub>
-* [Former NASA astronaut to advise Vast on commercial space station efforts](https://spacenews.com/former-nasa-astronaut-to-advise-vast-on-commercial-space-station-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T162205">2023-07-11 16:22:05 UTC</a></sub>
-* [Astranis to bring satellite internet to 2 million people in the Philippines next year](https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T140001">2023-07-11 14:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T213235">2023-07-11 21:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T220738">2023-07-11 22:07:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
