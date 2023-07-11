@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA awards “crossover” spacesuit task orders to Axiom and Collins](https://spacenews.com/nasa-awards-crossover-spacesuit-task-orders-to-axiom-and-collins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T025153">2023-07-11 02:51:53 UTC</a></sub>
 * [Astra to raise up to $65 million in stock sale](https://spacenews.com/astra-to-raise-up-to-65-million-in-stock-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T231844">2023-07-10 23:18:44 UTC</a></sub>
 * [Astra plans a reverse stock split, seeks to raise up to $65 million in offering](https://www.cnbc.com/2023/07/10/astra-plans-reverse-stock-split-seeks-to-raise-up-to-65-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212122">2023-07-10 21:21:22 UTC</a></sub>
 * [Voyager Space deepens India ties for commercial space station plans](https://spacenews.com/voyager-space-deepens-india-ties-for-commercial-space-station-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212013">2023-07-10 21:20:13 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Benchmark raises $33 million in Series B round](https://spacenews.com/benchmark-raises-33-million-in-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T174810">2023-07-10 17:48:10 UTC</a></sub>
 * [AI, quantum and nuclear technologies are key to Lockheed Martin’s vision for Space 2050](https://spacenews.com/ai-quantum-and-nuclear-technologies-are-key-to-lockheed-martins-vision-for-space-2050/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T165754">2023-07-10 16:57:54 UTC</a></sub>
 * [Astronomers solve mystery of how a mirror-like planet formed so close to its star](https://arstechnica.com/space/2023/07/astronomers-solve-mystery-of-how-a-mirror-like-planet-formed-so-close-to-its-star/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T154403">2023-07-10 15:44:03 UTC</a></sub>
-* [Can space governance keep up with space sustainability?](https://spacenews.com/can-space-governance-keep-up-with-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T152931">2023-07-10 15:29:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T021721">2023-07-11 02:17:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T030109">2023-07-11 03:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
