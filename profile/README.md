@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Cancels Janus Mission After Launch Postponement](https://tlpnetwork.com/news/2023/07/nasa-cancels-janus-mission-after-launch-postponement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T195200">2023-07-11 19:52:00 UTC</a></sub>
+* [Jeff Bezos’ Blue Origin rocket engine explodes during testing](https://www.cnbc.com/2023/07/11/jeff-bezos-blue-origin-be-4-rocket-engine-explodes-during-testing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T190847">2023-07-11 19:08:47 UTC</a></sub>
 * [Here come the Moon landing missions (probably)](https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T183005">2023-07-11 18:30:05 UTC</a></sub>
 * [Astranis to deliver GEO broadband satellite for the Philippines next year](https://spacenews.com/astranis-to-deliver-geo-broadband-satellite-for-the-philippines-next-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T182032">2023-07-11 18:20:32 UTC</a></sub>
 * [Launch Roundup: China to launch methane powered ZQ-2; SpaceX to finish Starlink v1 flights](https://www.nasaspaceflight.com/2023/07/lanch-roundup-071123/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T170316">2023-07-11 17:03:16 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astranis to bring satellite internet to 2 million people in the Philippines next year](https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T140001">2023-07-11 14:00:01 UTC</a></sub>
 * [Muon wins option to monitor ionosphere for Space Force](https://spacenews.com/muon-wins-option-to-monitor-ionosphere-for-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T130000">2023-07-11 13:00:00 UTC</a></sub>
 * [Thermal imagery sector heats up](https://spacenews.com/thermal-imagery-sector-heats-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T110000">2023-07-11 11:00:00 UTC</a></sub>
-* [NASA awards “crossover” spacesuit task orders to Axiom and Collins](https://spacenews.com/nasa-awards-crossover-spacesuit-task-orders-to-axiom-and-collins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T025153">2023-07-11 02:51:53 UTC</a></sub>
-* [Astra to raise up to $65 million in stock sale](https://spacenews.com/astra-to-raise-up-to-65-million-in-stock-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T231844">2023-07-10 23:18:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T193233">2023-07-11 19:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T200836">2023-07-11 20:08:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
