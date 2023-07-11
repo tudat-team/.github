@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Here come the Moon landing missions (probably)](https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T183005">2023-07-11 18:30:05 UTC</a></sub>
+* [Astranis to deliver GEO broadband satellite for the Philippines next year](https://spacenews.com/astranis-to-deliver-geo-broadband-satellite-for-the-philippines-next-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T182032">2023-07-11 18:20:32 UTC</a></sub>
 * [Launch Roundup: China to launch methane powered ZQ-2; SpaceX to finish Starlink v1 flights](https://www.nasaspaceflight.com/2023/07/lanch-roundup-071123/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T170316">2023-07-11 17:03:16 UTC</a></sub>
 * [India’s renewed effort toward space preeminence](https://spacenews.com/indias-renewed-effort-toward-space-preeminence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T165058">2023-07-11 16:50:58 UTC</a></sub>
 * [Former NASA astronaut to advise Vast on commercial space station efforts](https://spacenews.com/former-nasa-astronaut-to-advise-vast-on-commercial-space-station-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T162205">2023-07-11 16:22:05 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Thermal imagery sector heats up](https://spacenews.com/thermal-imagery-sector-heats-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T110000">2023-07-11 11:00:00 UTC</a></sub>
 * [NASA awards “crossover” spacesuit task orders to Axiom and Collins](https://spacenews.com/nasa-awards-crossover-spacesuit-task-orders-to-axiom-and-collins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T025153">2023-07-11 02:51:53 UTC</a></sub>
 * [Astra to raise up to $65 million in stock sale](https://spacenews.com/astra-to-raise-up-to-65-million-in-stock-sale/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T231844">2023-07-10 23:18:44 UTC</a></sub>
-* [Astra plans a reverse stock split, seeks to raise up to $65 million in offering](https://www.cnbc.com/2023/07/10/astra-plans-reverse-stock-split-seeks-to-raise-up-to-65-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212122">2023-07-10 21:21:22 UTC</a></sub>
-* [Voyager Space deepens India ties for commercial space station plans](https://spacenews.com/voyager-space-deepens-india-ties-for-commercial-space-station-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212013">2023-07-10 21:20:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T183642">2023-07-11 18:36:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T190623">2023-07-11 19:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
