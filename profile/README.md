@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Astronaut Garrett Reisman Joins VAST as Human Spaceflight Advisor](https://tlpnetwork.com/news/2023/07/nasa-astronaut-garrett-reisman-joins-vast-as-human-spaceflight-advisor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T204300">2023-07-11 20:43:00 UTC</a></sub>
+* [Voyager Space Announces MoU With India To Explore Gaganyaan Missions To StarLab](https://tlpnetwork.com/news/2023/07/voyager-space-announces-mou-with-india-to-explore-gaganyaan-missions-to-starlab) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T202500">2023-07-11 20:25:00 UTC</a></sub>
 * [NASA Cancels Janus Mission After Launch Postponement](https://tlpnetwork.com/news/2023/07/nasa-cancels-janus-mission-after-launch-postponement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T195200">2023-07-11 19:52:00 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin rocket engine explodes during testing](https://www.cnbc.com/2023/07/11/jeff-bezos-blue-origin-be-4-rocket-engine-explodes-during-testing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T190847">2023-07-11 19:08:47 UTC</a></sub>
 * [Here come the Moon landing missions (probably)](https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T183005">2023-07-11 18:30:05 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [India’s renewed effort toward space preeminence](https://spacenews.com/indias-renewed-effort-toward-space-preeminence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T165058">2023-07-11 16:50:58 UTC</a></sub>
 * [Former NASA astronaut to advise Vast on commercial space station efforts](https://spacenews.com/former-nasa-astronaut-to-advise-vast-on-commercial-space-station-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T162205">2023-07-11 16:22:05 UTC</a></sub>
 * [Astranis to bring satellite internet to 2 million people in the Philippines next year](https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T140001">2023-07-11 14:00:01 UTC</a></sub>
-* [Muon wins option to monitor ionosphere for Space Force](https://spacenews.com/muon-wins-option-to-monitor-ionosphere-for-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T130000">2023-07-11 13:00:00 UTC</a></sub>
-* [Thermal imagery sector heats up](https://spacenews.com/thermal-imagery-sector-heats-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T110000">2023-07-11 11:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T203234">2023-07-11 20:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T210724">2023-07-11 21:07:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
