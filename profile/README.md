@@ -573,7 +573,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astra plans a reverse stock split, seeks to raise up to $65 million in offering](https://www.cnbc.com/2023/07/10/astra-plans-reverse-stock-split-seeks-to-raise-up-to-65-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212122">2023-07-10 21:21:22 UTC</a></sub>
 * [Voyager Space deepens India ties for commercial space station plans](https://spacenews.com/voyager-space-deepens-india-ties-for-commercial-space-station-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T212013">2023-07-10 21:20:13 UTC</a></sub>
 * [Space Force juggles roles as warrior and protector of space environment](https://spacenews.com/space-force-juggles-roles-as-warrior-and-protector-of-space-environment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T211500">2023-07-10 21:15:00 UTC</a></sub>
-* [BREAKING! NASA Awards Axiom Space New Contract For Next-Gen ISS Spacesuits](https://tlpnetwork.com/news/2023/07/nasa-awards-axiom-space-new-iss-spacesuit-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T191500">2023-07-10 19:15:00 UTC</a></sub>
+* [NASA Awards Axiom Space New Contract For Next-Gen ISS Spacesuits](https://tlpnetwork.com/news/2023/07/nasa-awards-axiom-space-new-iss-spacesuit-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T191500">2023-07-10 19:15:00 UTC</a></sub>
 * [NASA Expands Options for Spacewalking, Moonwalking Suits, Services](http://www.nasa.gov/press-release/nasa-expands-options-for-spacewalking-moonwalking-suits-services) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T191400">2023-07-10 19:14:00 UTC</a></sub>
 * [Benchmark raises $33 million in Series B round](https://spacenews.com/benchmark-raises-33-million-in-series-b-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T174810">2023-07-10 17:48:10 UTC</a></sub>
 * [AI, quantum and nuclear technologies are key to Lockheed Martin’s vision for Space 2050](https://spacenews.com/ai-quantum-and-nuclear-technologies-are-key-to-lockheed-martins-vision-for-space-2050/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T165754">2023-07-10 16:57:54 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T073238">2023-07-11 07:32:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T081105">2023-07-11 08:11:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
