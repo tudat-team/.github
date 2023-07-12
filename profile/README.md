@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T135903">2023-07-12 13:59:03 UTC</a></sub>
 * [Webb Celebrates First Anniversary with Stellar Nursery](https://tlpnetwork.com/news/2023/07/webb_first_anniversary_spots_stellar_nursery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T110400">2023-07-12 11:04:00 UTC</a></sub>
 * [Second Israeli lunar lander faces funding uncertainty](https://spacenews.com/second-israeli-lunar-lander-faces-funding-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T101153">2023-07-12 10:11:53 UTC</a></sub>
 * [China’s Landspace reaches orbit with methane-powered Zhuque-2 rocket](https://spacenews.com/chinas-landspace-reaches-orbit-with-methane-powered-zhuque-2-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T072418">2023-07-12 07:24:18 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. sharpens plan for military space race](https://spacenews.com/u-s-sharpens-plan-for-military-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T220000">2023-07-11 22:00:00 UTC</a></sub>
 * [Astranis Announces Contract To Bring Internet To 2 Million People In Philippines Next Year](https://tlpnetwork.com/news/2023/07/astranis-announces-contract-to-bring-internet-to-2-million-people-in-philippines-next-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T213100">2023-07-11 21:31:00 UTC</a></sub>
 * [NASA Astronaut Garrett Reisman Joins VAST as Human Spaceflight Advisor](https://tlpnetwork.com/news/2023/07/nasa-astronaut-garrett-reisman-joins-vast-as-human-spaceflight-advisor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T204300">2023-07-11 20:43:00 UTC</a></sub>
-* [Voyager Space Announces MoU With India To Explore Gaganyaan Missions To StarLab](https://tlpnetwork.com/news/2023/07/voyager-space-announces-mou-with-india-to-explore-gaganyaan-missions-to-starlab) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T202500">2023-07-11 20:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T140739">2023-07-12 14:07:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T143524">2023-07-12 14:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
