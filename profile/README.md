@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Israeli Lunar Landing Mission Struggles with Funding](https://tlpnetwork.com/news/2023/07/israeli_lunar_lander_facing_funding_woes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T165500">2023-07-12 16:55:00 UTC</a></sub>
 * [NASA Sets Briefings for Next International Space Station Crew Missions](http://www.nasa.gov/press-release/nasa-sets-briefings-for-next-international-space-station-crew-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T153400">2023-07-12 15:34:00 UTC</a></sub>
 * [The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T135903">2023-07-12 13:59:03 UTC</a></sub>
 * [Webb Celebrates First Anniversary with Stellar Nursery](https://tlpnetwork.com/news/2023/07/webb_first_anniversary_spots_stellar_nursery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T110400">2023-07-12 11:04:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Landspace Zhuque-2 Reaches Orbit, China Wins Methalox Space Race](https://tlpnetwork.com/news/2023/07/landspace-zhuque-2-reaches-orbit-wins-methalox-space-race) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T011700">2023-07-12 01:17:00 UTC</a></sub>
 * [NASA's Artemis Crew Transport Vehicles Arrive At Kennedy Space Center](https://tlpnetwork.com/news/2023/07/nasa-artemis-crew-transport-vehicles-arrive-at-kennedy-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T223400">2023-07-11 22:34:00 UTC</a></sub>
 * [U.S. sharpens plan for military space race](https://spacenews.com/u-s-sharpens-plan-for-military-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T220000">2023-07-11 22:00:00 UTC</a></sub>
-* [Astranis Announces Contract To Bring Internet To 2 Million People In Philippines Next Year](https://tlpnetwork.com/news/2023/07/astranis-announces-contract-to-bring-internet-to-2-million-people-in-philippines-next-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T213100">2023-07-11 21:31:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T163942">2023-07-12 16:39:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T170731">2023-07-12 17:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
