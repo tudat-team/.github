@@ -572,7 +572,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Second Israeli lunar lander faces funding uncertainty](https://spacenews.com/second-israeli-lunar-lander-faces-funding-uncertainty/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T101153">2023-07-12 10:11:53 UTC</a></sub>
 * [China’s Landspace reaches orbit with methane-powered Zhuque-2 rocket](https://spacenews.com/chinas-landspace-reaches-orbit-with-methane-powered-zhuque-2-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T072418">2023-07-12 07:24:18 UTC</a></sub>
 * [ESO's Extremely Large Telescope Reaches 50% Complete Milestone](https://tlpnetwork.com/news/2023/07/eso-elt-50-percent-complete) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T025400">2023-07-12 02:54:00 UTC</a></sub>
-* [BREAKING! Landspace Zhuque-2 Reaches Orbit, China Wins Methalox Space Race](https://tlpnetwork.com/news/2023/07/landspace-zhuque-2-reaches-orbit-wins-methalox-space-race) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T011700">2023-07-12 01:17:00 UTC</a></sub>
+* [Landspace Zhuque-2 Reaches Orbit, China Wins Methalox Space Race](https://tlpnetwork.com/news/2023/07/landspace-zhuque-2-reaches-orbit-wins-methalox-space-race) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T011700">2023-07-12 01:17:00 UTC</a></sub>
 * [NASA's Artemis Crew Transport Vehicles Arrive At Kennedy Space Center](https://tlpnetwork.com/news/2023/07/nasa-artemis-crew-transport-vehicles-arrive-at-kennedy-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T223400">2023-07-11 22:34:00 UTC</a></sub>
 * [U.S. sharpens plan for military space race](https://spacenews.com/u-s-sharpens-plan-for-military-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T220000">2023-07-11 22:00:00 UTC</a></sub>
 * [Astranis Announces Contract To Bring Internet To 2 Million People In Philippines Next Year](https://tlpnetwork.com/news/2023/07/astranis-announces-contract-to-bring-internet-to-2-million-people-in-philippines-next-year) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T213100">2023-07-11 21:31:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T132145">2023-07-12 13:21:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T133754">2023-07-12 13:37:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
