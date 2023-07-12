@@ -547,7 +547,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.3.dev15</code></td>
+    <td><code>0.7.3.dev16</code></td>
   </tr>
 
 </table>
@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESO's Extremely Large Telescope Reaches 50% Complete Milestone](https://tlpnetwork.com/news/2023/07/eso-elt-50-percent-complete) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T025400">2023-07-12 02:54:00 UTC</a></sub>
 * [BREAKING! Landspace Zhuque-2 Reaches Orbit, China Wins Methalox Space Race](https://tlpnetwork.com/news/2023/07/landspace-zhuque-2-reaches-orbit-wins-methalox-space-race) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T011700">2023-07-12 01:17:00 UTC</a></sub>
 * [NASA's Artemis Crew Transport Vehicles Arrive At Kennedy Space Center](https://tlpnetwork.com/news/2023/07/nasa-artemis-crew-transport-vehicles-arrive-at-kennedy-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T223400">2023-07-11 22:34:00 UTC</a></sub>
 * [U.S. sharpens plan for military space race](https://spacenews.com/u-s-sharpens-plan-for-military-space-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T220000">2023-07-11 22:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Cancels Janus Mission After Launch Postponement](https://tlpnetwork.com/news/2023/07/nasa-cancels-janus-mission-after-launch-postponement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T195200">2023-07-11 19:52:00 UTC</a></sub>
 * [LandSpace claims win in the methane race to orbit via second ZhuQue-2 launch](https://www.nasaspaceflight.com/2023/07/zhuque-2-launch2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T193410">2023-07-11 19:34:10 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin rocket engine explodes during testing](https://www.cnbc.com/2023/07/11/jeff-bezos-blue-origin-be-4-rocket-engine-explodes-during-testing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T190847">2023-07-11 19:08:47 UTC</a></sub>
-* [Here come the Moon landing missions (probably)](https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T183005">2023-07-11 18:30:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T030634">2023-07-12 03:06:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T033841">2023-07-12 03:38:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
