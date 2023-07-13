@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Senate defense panel leaves National Security Space Launch unsecured](https://spacenews.com/senate-defense-panel-leaves-national-security-space-launch-unsecured/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175450">2023-07-13 17:54:50 UTC</a></sub>
+* [Chandrayaan-3 lunar landing mission poised for launch from India](https://www.nasaspaceflight.com/2023/07/chandrayaan-3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175153">2023-07-13 17:51:53 UTC</a></sub>
 * [Investing in Space: Why Blue Origin’s engine explosion matters](https://www.cnbc.com/2023/07/13/investing-in-space-why-blue-origins-engine-explosion-matters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T151738">2023-07-13 15:17:38 UTC</a></sub>
 * [Saltzman urges allies to ‘collectively train like we fight’](https://spacenews.com/saltzman-urges-allies-to-collectively-train-like-we-fight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T143418">2023-07-13 14:34:18 UTC</a></sub>
 * [Orbital Composites wins $1.7 million Space Force contract](https://spacenews.com/orbital-composites-wins-1-7-million-space-force-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T140000">2023-07-13 14:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [HawkEye 360 announces $58 million funding round](https://spacenews.com/hawkeye-360-announces-58-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T121700">2023-07-13 12:17:00 UTC</a></sub>
 * [Rocket Lab takes another step towards reusability on next Electron launch](https://spacenews.com/rocket-lab-takes-another-step-towards-reusability-on-next-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T113629">2023-07-13 11:36:29 UTC</a></sub>
 * [NASA cancels Janus asteroid smallsat mission](https://spacenews.com/nasa-cancels-janus-asteroid-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T104823">2023-07-13 10:48:23 UTC</a></sub>
-* [FCC Nominees Win Committee Approval](https://spacepolicyonline.com/news/fcc-nominees-win-committee-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T032432">2023-07-13 03:24:32 UTC</a></sub>
-* [Stunning Image Crowns JWST’s First Anniversary](https://spacepolicyonline.com/news/stunning-image-crowns-jwsts-first-anniversary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T000403">2023-07-13 00:04:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T173321">2023-07-13 17:33:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T181015">2023-07-13 18:10:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
