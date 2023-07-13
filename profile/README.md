@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab takes another step towards reusability on next Electron launch](https://spacenews.com/rocket-lab-takes-another-step-towards-reusability-on-next-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T113629">2023-07-13 11:36:29 UTC</a></sub>
 * [NASA cancels Janus asteroid smallsat mission](https://spacenews.com/nasa-cancels-janus-asteroid-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T104823">2023-07-13 10:48:23 UTC</a></sub>
 * [FCC Nominees Win Committee Approval](https://spacepolicyonline.com/news/fcc-nominees-win-committee-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T032432">2023-07-13 03:24:32 UTC</a></sub>
 * [Stunning Image Crowns JWST’s First Anniversary](https://spacepolicyonline.com/news/stunning-image-crowns-jwsts-first-anniversary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T000403">2023-07-13 00:04:03 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Biden nominates Space Force generals for promotion](https://spacenews.com/biden-nominates-space-force-generals-for-promotion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T183000">2023-07-12 18:30:00 UTC</a></sub>
 * [Israeli Lunar Landing Mission Struggles with Funding](https://tlpnetwork.com/news/2023/07/israeli_lunar_lander_facing_funding_woes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T165500">2023-07-12 16:55:00 UTC</a></sub>
 * [NASA Sets Briefings for Next International Space Station Crew Missions](http://www.nasa.gov/press-release/nasa-sets-briefings-for-next-international-space-station-crew-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T153400">2023-07-12 15:34:00 UTC</a></sub>
-* [The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T135903">2023-07-12 13:59:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -590,6 +590,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight blogs starts -->
 * [Chandrayaan-3, India's Moon lander and rover](https://www.planetary.org/space-missions/chandrayaan-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T150435">2023-07-10 15:04:35 UTC</a></sub>
 * [What will become of the German North Sea floating launch site?](https://europeanspaceflight.substack.com/p/what-will-become-of-the-german-north) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T142211">2023-07-10 14:22:11 UTC</a></sub>
+* [Advocacy Action Center](https://www.planetary.org/advocacy-action-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T115436">2023-07-10 11:54:36 UTC</a></sub>
 * [Studying salty Earth lakes to learn about other worlds](https://www.planetary.org/sci-tech/studying-salty-earth-lakes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T140435">2023-07-06 14:04:35 UTC</a></sub>
 * [Growing veggies for the Moon and Mars](https://www.planetary.org/sci-tech/growing-veggies-moon-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T140434">2023-07-06 14:04:34 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 26-July 2, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-26-july-2-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T185915">2023-07-03 18:59:15 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Searching the skies to keep us all alive](https://www.planetary.org/the-downlink/searching-the-skies-to-keep-us-all-alive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T143438">2023-06-30 14:34:38 UTC</a></sub>
 * [What’s going on with Mars Sample Return?](https://www.planetary.org/articles/whats-going-on-with-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T143437">2023-06-27 14:34:37 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 19-25, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-19-25-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T185215">2023-06-26 18:52:15 UTC</a></sub>
-* [Announcing the 2023 Shoemaker NEO grant winners](https://www.planetary.org/articles/announcing-the-2023-shoemaker-neo-grant-winners) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T143436">2023-06-26 14:34:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T113213">2023-07-13 11:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T121655">2023-07-13 12:16:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
