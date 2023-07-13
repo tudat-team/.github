@@ -577,7 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA cancels Janus asteroid smallsat mission](https://spacenews.com/nasa-cancels-janus-asteroid-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T104823">2023-07-13 10:48:23 UTC</a></sub>
 * [FCC Nominees Win Committee Approval](https://spacepolicyonline.com/news/fcc-nominees-win-committee-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T032432">2023-07-13 03:24:32 UTC</a></sub>
 * [Stunning Image Crowns JWST’s First Anniversary](https://spacepolicyonline.com/news/stunning-image-crowns-jwsts-first-anniversary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T000403">2023-07-13 00:04:03 UTC</a></sub>
-* [Viasat stock plunges after company discloses malfunction in new satellite](https://www.cnbc.com/2023/07/12/viasat-stock-drops-after-satellite-malfunction.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T223805">2023-07-12 22:38:05 UTC</a></sub>
+* [Viasat plunges toward worst day ever after new satellite malfunctions](https://www.cnbc.com/2023/07/12/viasat-stock-drops-after-satellite-malfunction.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T223805">2023-07-12 22:38:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T143428">2023-07-13 14:34:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T150826">2023-07-13 15:08:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
