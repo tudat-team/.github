@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hanwha registers as South Korean satellite communications provider](https://spacenews.com/hanwha-registers-as-south-korean-satellite-communications-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T132621">2023-07-13 13:26:21 UTC</a></sub>
+* [ViaSat-3 Americas’  antenna problem impacts rollout](https://spacenews.com/viasat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T125535">2023-07-13 12:55:35 UTC</a></sub>
 * [HawkEye 360 announces $58 million funding round](https://spacenews.com/hawkeye-360-announces-58-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T121700">2023-07-13 12:17:00 UTC</a></sub>
 * [Rocket Lab takes another step towards reusability on next Electron launch](https://spacenews.com/rocket-lab-takes-another-step-towards-reusability-on-next-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T113629">2023-07-13 11:36:29 UTC</a></sub>
 * [NASA cancels Janus asteroid smallsat mission](https://spacenews.com/nasa-cancels-janus-asteroid-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T104823">2023-07-13 10:48:23 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Viasat stock plunges after company discloses malfunction in new satellite](https://www.cnbc.com/2023/07/12/viasat-stock-drops-after-satellite-malfunction.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T223805">2023-07-12 22:38:05 UTC</a></sub>
 * [Viasat-3 Experiencing Potentially Fatal Deployment Issues](https://tlpnetwork.com/news/2023/07/viasat-3-deployment-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T220841">2023-07-12 22:08:41 UTC</a></sub>
 * [One year into science operations, Webb continues to rewrite the textbooks of science](https://www.nasaspaceflight.com/2023/07/jwst-1year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T184554">2023-07-12 18:45:54 UTC</a></sub>
-* [Biden nominates Space Force generals for promotion](https://spacenews.com/biden-nominates-space-force-generals-for-promotion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T183000">2023-07-12 18:30:00 UTC</a></sub>
-* [Israeli Lunar Landing Mission Struggles with Funding](https://tlpnetwork.com/news/2023/07/israeli_lunar_lander_facing_funding_woes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T165500">2023-07-12 16:55:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T132129">2023-07-13 13:21:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T134132">2023-07-13 13:41:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
