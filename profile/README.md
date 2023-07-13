@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA cancels Janus asteroid smallsat mission](https://spacenews.com/nasa-cancels-janus-asteroid-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T104823">2023-07-13 10:48:23 UTC</a></sub>
 * [FCC Nominees Win Committee Approval](https://spacepolicyonline.com/news/fcc-nominees-win-committee-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T032432">2023-07-13 03:24:32 UTC</a></sub>
 * [Stunning Image Crowns JWST’s First Anniversary](https://spacepolicyonline.com/news/stunning-image-crowns-jwsts-first-anniversary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T000403">2023-07-13 00:04:03 UTC</a></sub>
 * [Viasat stock plunges after company discloses malfunction in new satellite](https://www.cnbc.com/2023/07/12/viasat-stock-drops-after-satellite-malfunction.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T223805">2023-07-12 22:38:05 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Israeli Lunar Landing Mission Struggles with Funding](https://tlpnetwork.com/news/2023/07/israeli_lunar_lander_facing_funding_woes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T165500">2023-07-12 16:55:00 UTC</a></sub>
 * [NASA Sets Briefings for Next International Space Station Crew Missions](http://www.nasa.gov/press-release/nasa-sets-briefings-for-next-international-space-station-crew-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T153400">2023-07-12 15:34:00 UTC</a></sub>
 * [The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T135903">2023-07-12 13:59:03 UTC</a></sub>
-* [Webb Celebrates First Anniversary with Stellar Nursery](https://tlpnetwork.com/news/2023/07/webb_first_anniversary_spots_stellar_nursery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T110400">2023-07-12 11:04:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T103551">2023-07-13 10:35:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T110711">2023-07-13 11:07:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
