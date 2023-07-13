@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vulcan’s upper stage failed due to higher stress and weaker welds](https://arstechnica.com/space/2023/07/ula-finds-root-cause-of-vulcan-failure-sets-path-toward-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T183202">2023-07-13 18:32:02 UTC</a></sub>
+* [Centaur modifications push first Vulcan launch to fourth quarter](https://spacenews.com/centaur-modifications-push-first-vulcan-launch-to-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T180733">2023-07-13 18:07:33 UTC</a></sub>
 * [Senate defense panel leaves National Security Space Launch unsecured](https://spacenews.com/senate-defense-panel-leaves-national-security-space-launch-unsecured/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175450">2023-07-13 17:54:50 UTC</a></sub>
 * [Chandrayaan-3 lunar landing mission poised for launch from India](https://www.nasaspaceflight.com/2023/07/chandrayaan-3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175153">2023-07-13 17:51:53 UTC</a></sub>
 * [Investing in Space: Why Blue Origin’s engine explosion matters](https://www.cnbc.com/2023/07/13/investing-in-space-why-blue-origins-engine-explosion-matters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T151738">2023-07-13 15:17:38 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Hanwha registers as South Korean satellite communications provider](https://spacenews.com/hanwha-registers-as-south-korean-satellite-communications-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T132621">2023-07-13 13:26:21 UTC</a></sub>
 * [ViaSat-3 Americas’ antenna problem impacts rollout](https://spacenews.com/viasat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T125535">2023-07-13 12:55:35 UTC</a></sub>
 * [HawkEye 360 announces $58 million funding round](https://spacenews.com/hawkeye-360-announces-58-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T121700">2023-07-13 12:17:00 UTC</a></sub>
-* [Rocket Lab takes another step towards reusability on next Electron launch](https://spacenews.com/rocket-lab-takes-another-step-towards-reusability-on-next-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T113629">2023-07-13 11:36:29 UTC</a></sub>
-* [NASA cancels Janus asteroid smallsat mission](https://spacenews.com/nasa-cancels-janus-asteroid-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T104823">2023-07-13 10:48:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T183633">2023-07-13 18:36:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T190531">2023-07-13 19:05:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
