@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards Sounding Rocket Operations Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-sounding-rocket-operations-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T210400">2023-07-13 21:04:00 UTC</a></sub>
+* [Elon Musk’s SpaceX nears $150 billion valuation after secondary share sale](https://www.cnbc.com/2023/07/13/elon-musk-spacex-near-150-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T202711">2023-07-13 20:27:11 UTC</a></sub>
 * [Vulcan’s upper stage failed due to higher stress and weaker welds](https://arstechnica.com/space/2023/07/ula-finds-root-cause-of-vulcan-failure-sets-path-toward-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T183202">2023-07-13 18:32:02 UTC</a></sub>
 * [Centaur modifications push first Vulcan launch to fourth quarter](https://spacenews.com/centaur-modifications-push-first-vulcan-launch-to-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T180733">2023-07-13 18:07:33 UTC</a></sub>
 * [Senate defense panel leaves National Security Space Launch unsecured](https://spacenews.com/senate-defense-panel-leaves-national-security-space-launch-unsecured/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175450">2023-07-13 17:54:50 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Saltzman urges allies to ‘collectively train like we fight’](https://spacenews.com/saltzman-urges-allies-to-collectively-train-like-we-fight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T143418">2023-07-13 14:34:18 UTC</a></sub>
 * [Orbital Composites wins $1.7 million Space Force contract](https://spacenews.com/orbital-composites-wins-1-7-million-space-force-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T140000">2023-07-13 14:00:00 UTC</a></sub>
 * [Hanwha registers as South Korean satellite communications provider](https://spacenews.com/hanwha-registers-as-south-korean-satellite-communications-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T132621">2023-07-13 13:26:21 UTC</a></sub>
-* [ViaSat-3 Americas’ antenna problem impacts rollout](https://spacenews.com/viasat-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T125535">2023-07-13 12:55:35 UTC</a></sub>
-* [HawkEye 360 announces $58 million funding round](https://spacenews.com/hawkeye-360-announces-58-million-funding-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T121700">2023-07-13 12:17:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T203228">2023-07-13 20:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T210714">2023-07-13 21:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
