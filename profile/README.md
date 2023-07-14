@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House and Senate appropriators cut NASA’s budget](https://spacenews.com/house-and-senate-appropriators-cut-nasas-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T121203">2023-07-14 12:12:03 UTC</a></sub>
+* [India launches Chandrayaan-3 lunar landing mission](https://spacenews.com/india-launches-chandrayaan-3-lunar-landing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T112551">2023-07-14 11:25:51 UTC</a></sub>
 * [ULA’s Vulcan to Launch By End of This Year](https://spacepolicyonline.com/news/ulas-vulcan-to-launch-by-end-of-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T034902">2023-07-14 03:49:02 UTC</a></sub>
 * [The Senate just lobbed a tactical nuke at NASA’s Mars Sample Return program](https://arstechnica.com/space/2023/07/the-senate-just-lobbed-a-tactical-nuke-at-nasas-mars-sample-return-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T222634">2023-07-13 22:26:34 UTC</a></sub>
 * [Maxar unveils platform to speed up imagery access](https://spacenews.com/maxar-unveils-platform-to-speed-up-imagery-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T214019">2023-07-13 21:40:19 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Sounding Rocket Operations Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-sounding-rocket-operations-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T210400">2023-07-13 21:04:00 UTC</a></sub>
 * [Elon Musk’s SpaceX nears $150 billion valuation after secondary share sale](https://www.cnbc.com/2023/07/13/elon-musk-spacex-near-150-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T202711">2023-07-13 20:27:11 UTC</a></sub>
 * [Vulcan’s upper stage failed due to higher stress and weaker welds](https://arstechnica.com/space/2023/07/ula-finds-root-cause-of-vulcan-failure-sets-path-toward-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T183202">2023-07-13 18:32:02 UTC</a></sub>
-* [Centaur modifications push first Vulcan launch to fourth quarter](https://spacenews.com/centaur-modifications-push-first-vulcan-launch-to-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T180733">2023-07-13 18:07:33 UTC</a></sub>
-* [Senate defense panel leaves National Security Space Launch unsecured](https://spacenews.com/senate-defense-panel-leaves-national-security-space-launch-unsecured/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175450">2023-07-13 17:54:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T113219">2023-07-14 11:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T121525">2023-07-14 12:15:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
