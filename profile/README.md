@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India takes a critical first step toward a second attempt to land on the Moon](https://arstechnica.com/space/2023/07/india-takes-a-critical-first-step-toward-a-second-attempt-to-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T151500">2023-07-14 15:15:00 UTC</a></sub>
 * [House and Senate appropriators cut NASA’s budget](https://spacenews.com/house-and-senate-appropriators-cut-nasas-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T121203">2023-07-14 12:12:03 UTC</a></sub>
 * [India launches Chandrayaan-3 lunar landing mission](https://spacenews.com/india-launches-chandrayaan-3-lunar-landing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T112551">2023-07-14 11:25:51 UTC</a></sub>
 * [The promise of direct-to-device](https://spacenews.com/the-promise-of-direct-to-device/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T103000">2023-07-14 10:30:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [House and Senate Appropriators Keep NASA Basically at FY2023 Levels](https://spacepolicyonline.com/news/house-and-senate-appropriators-keep-nasa-basically-at-fy2023-levels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T212510">2023-07-13 21:25:10 UTC</a></sub>
 * [NASA to Host Small Business Administration’s Annual Scorecard Event](http://www.nasa.gov/press-release/nasa-to-host-small-business-administration-s-annual-scorecard-event) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T212400">2023-07-13 21:24:00 UTC</a></sub>
 * [NASA Awards Sounding Rocket Operations Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-sounding-rocket-operations-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T210400">2023-07-13 21:04:00 UTC</a></sub>
-* [Elon Musk’s SpaceX nears $150 billion valuation after secondary share sale](https://www.cnbc.com/2023/07/13/elon-musk-spacex-near-150-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T202711">2023-07-13 20:27:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T153233">2023-07-14 15:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T161009">2023-07-14 16:10:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
