@@ -570,6 +570,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [House and Senate appropriators cut NASA’s budget](https://spacenews.com/house-and-senate-appropriators-cut-nasas-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T121203">2023-07-14 12:12:03 UTC</a></sub>
 * [India launches Chandrayaan-3 lunar landing mission](https://spacenews.com/india-launches-chandrayaan-3-lunar-landing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T112551">2023-07-14 11:25:51 UTC</a></sub>
+* [The promise of direct-to-device](https://spacenews.com/the-promise-of-direct-to-device/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T103000">2023-07-14 10:30:00 UTC</a></sub>
 * [ULA’s Vulcan to Launch By End of This Year](https://spacepolicyonline.com/news/ulas-vulcan-to-launch-by-end-of-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T034902">2023-07-14 03:49:02 UTC</a></sub>
 * [The Senate just lobbed a tactical nuke at NASA’s Mars Sample Return program](https://arstechnica.com/space/2023/07/the-senate-just-lobbed-a-tactical-nuke-at-nasas-mars-sample-return-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T222634">2023-07-13 22:26:34 UTC</a></sub>
 * [Maxar unveils platform to speed up imagery access](https://spacenews.com/maxar-unveils-platform-to-speed-up-imagery-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T214019">2023-07-13 21:40:19 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Host Small Business Administration’s Annual Scorecard Event](http://www.nasa.gov/press-release/nasa-to-host-small-business-administration-s-annual-scorecard-event) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T212400">2023-07-13 21:24:00 UTC</a></sub>
 * [NASA Awards Sounding Rocket Operations Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-sounding-rocket-operations-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T210400">2023-07-13 21:04:00 UTC</a></sub>
 * [Elon Musk’s SpaceX nears $150 billion valuation after secondary share sale](https://www.cnbc.com/2023/07/13/elon-musk-spacex-near-150-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T202711">2023-07-13 20:27:11 UTC</a></sub>
-* [Vulcan’s upper stage failed due to higher stress and weaker welds](https://arstechnica.com/space/2023/07/ula-finds-root-cause-of-vulcan-failure-sets-path-toward-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T183202">2023-07-13 18:32:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T131634">2023-07-14 13:16:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T133504">2023-07-14 13:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
