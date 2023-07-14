@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA’s Vulcan to Launch By End of This Year](https://spacepolicyonline.com/news/ulas-vulcan-to-launch-by-end-of-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T034902">2023-07-14 03:49:02 UTC</a></sub>
 * [The Senate just lobbed a tactical nuke at NASA’s Mars Sample Return program](https://arstechnica.com/space/2023/07/the-senate-just-lobbed-a-tactical-nuke-at-nasas-mars-sample-return-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T222634">2023-07-13 22:26:34 UTC</a></sub>
 * [Maxar unveils platform to speed up imagery access](https://spacenews.com/maxar-unveils-platform-to-speed-up-imagery-access/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T214019">2023-07-13 21:40:19 UTC</a></sub>
 * [House and Senate Appropriators Keep NASA Basically at FY2023 Levels](https://spacepolicyonline.com/news/house-and-senate-appropriators-keep-nasa-basically-at-fy2023-levels/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T212510">2023-07-13 21:25:10 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Vulcan’s upper stage failed due to higher stress and weaker welds](https://arstechnica.com/space/2023/07/ula-finds-root-cause-of-vulcan-failure-sets-path-toward-debut-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T183202">2023-07-13 18:32:02 UTC</a></sub>
 * [Centaur modifications push first Vulcan launch to fourth quarter](https://spacenews.com/centaur-modifications-push-first-vulcan-launch-to-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T180733">2023-07-13 18:07:33 UTC</a></sub>
 * [Senate defense panel leaves National Security Space Launch unsecured](https://spacenews.com/senate-defense-panel-leaves-national-security-space-launch-unsecured/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175450">2023-07-13 17:54:50 UTC</a></sub>
-* [Chandrayaan-3 lunar landing mission poised for launch from India](https://www.nasaspaceflight.com/2023/07/chandrayaan-3-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T175153">2023-07-13 17:51:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T040939">2023-07-14 04:09:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T043631">2023-07-14 04:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
