@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Industry offers wish list for commercial space legislation](https://spacenews.com/industry-offers-wish-list-for-commercial-space-legislation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T115441">2023-07-15 11:54:41 UTC</a></sub>
 * [Congress introduces new UAP Transparency Amendment](https://tlpnetwork.com/news/2023/07/congress_introduces_uap_amendment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T231009">2023-07-14 23:10:09 UTC</a></sub>
 * [New NASA Artemis Instruments to Study Volcanic Terrain on the Moon](http://www.nasa.gov/press-release/new-nasa-artemis-instruments-to-study-volcanic-terrain-on-the-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T211400">2023-07-14 21:14:00 UTC</a></sub>
 * [Space Force to select three providers of national security launch services](https://spacenews.com/space-force-to-select-three-providers-of-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T200959">2023-07-14 20:09:59 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [House and Senate appropriators cut NASA’s budget](https://spacenews.com/house-and-senate-appropriators-cut-nasas-budget/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T121203">2023-07-14 12:12:03 UTC</a></sub>
 * [India launches Chandrayaan-3 lunar landing mission](https://spacenews.com/india-launches-chandrayaan-3-lunar-landing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T112551">2023-07-14 11:25:51 UTC</a></sub>
 * [The promise of direct-to-device](https://spacenews.com/the-promise-of-direct-to-device/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T103000">2023-07-14 10:30:00 UTC</a></sub>
-* [ULA’s Vulcan to Launch By End of This Year](https://spacepolicyonline.com/news/ulas-vulcan-to-launch-by-end-of-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T034902">2023-07-14 03:49:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T113223">2023-07-15 11:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T121355">2023-07-15 12:13:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
