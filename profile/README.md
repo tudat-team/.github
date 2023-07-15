@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Congress introduces new UAP Transparency Amendment](https://tlpnetwork.com/news/2023/07/congress_introduces_uap_amendment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T231009">2023-07-14 23:10:09 UTC</a></sub>
 * [New NASA Artemis Instruments to Study Volcanic Terrain on the Moon](http://www.nasa.gov/press-release/new-nasa-artemis-instruments-to-study-volcanic-terrain-on-the-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T211400">2023-07-14 21:14:00 UTC</a></sub>
 * [Space Force to select three providers of national security launch services](https://spacenews.com/space-force-to-select-three-providers-of-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T200959">2023-07-14 20:09:59 UTC</a></sub>
 * [India’s Second Lunar Lander on Its Way](https://spacepolicyonline.com/news/indias-second-lunar-lander-on-its-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T163422">2023-07-14 16:34:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [India launches Chandrayaan-3 lunar landing mission](https://spacenews.com/india-launches-chandrayaan-3-lunar-landing-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T112551">2023-07-14 11:25:51 UTC</a></sub>
 * [The promise of direct-to-device](https://spacenews.com/the-promise-of-direct-to-device/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T103000">2023-07-14 10:30:00 UTC</a></sub>
 * [ULA’s Vulcan to Launch By End of This Year](https://spacepolicyonline.com/news/ulas-vulcan-to-launch-by-end-of-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T034902">2023-07-14 03:49:02 UTC</a></sub>
-* [The Senate just lobbed a tactical nuke at NASA’s Mars Sample Return program](https://arstechnica.com/space/2023/07/the-senate-just-lobbed-a-tactical-nuke-at-nasas-mars-sample-return-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T222634">2023-07-13 22:26:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T233233">2023-07-14 23:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T005428">2023-07-15 00:54:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
