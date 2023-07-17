@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Return to Tranquility Base first](https://spacenews.com/return-to-tranquility-base-first/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T125637">2023-07-17 12:56:37 UTC</a></sub>
 * [U.K. Parliament committee recommends streamlining launch licensing](https://spacenews.com/u-k-parliament-committee-recommends-streamlining-launch-licensing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T085532">2023-07-17 08:55:32 UTC</a></sub>
 * [What’s Happening in Space Policy July 16-22, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230716T224023">2023-07-16 22:40:23 UTC</a></sub>
 * [Three ongoing missions study human side of Moon and Mars missions](https://www.nasaspaceflight.com/2023/07/moon-to-mars-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T182655">2023-07-15 18:26:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to select three providers of national security launch services](https://spacenews.com/space-force-to-select-three-providers-of-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T200959">2023-07-14 20:09:59 UTC</a></sub>
 * [India’s Second Lunar Lander on Its Way](https://spacepolicyonline.com/news/indias-second-lunar-lander-on-its-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T163422">2023-07-14 16:34:22 UTC</a></sub>
 * [ House & Senate Appropriators Look To Cut NASA Funding](https://tlpnetwork.com/news/2023/07/house-and-senate-appropriators-look-to-cut-nasa-funding) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T161300">2023-07-14 16:13:00 UTC</a></sub>
-* [India takes a critical first step toward a second attempt to land on the Moon](https://arstechnica.com/space/2023/07/india-takes-a-critical-first-step-toward-a-second-attempt-to-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T151500">2023-07-14 15:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T132327">2023-07-17 13:23:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T133815">2023-07-17 13:38:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
