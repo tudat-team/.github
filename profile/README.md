@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA-Marshall Center Director Jody Singer to Retire](https://spacepolicyonline.com/news/nasa-marshall-center-director-jody-singer-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T190215">2023-07-17 19:02:15 UTC</a></sub>
+* [LightRidge acquires space electronics supplier Trident Systems](https://spacenews.com/lightridge-acquires-space-electronics-supplier-trident-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T184452">2023-07-17 18:44:52 UTC</a></sub>
+* [Wyoming Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/wyoming-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T181400">2023-07-17 18:14:00 UTC</a></sub>
 * [NASA Marshall Center Director to Retire After 38 Years of Service](http://www.nasa.gov/press-release/nasa-marshall-center-director-to-retire-after-38-years-of-service) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T164400">2023-07-17 16:44:00 UTC</a></sub>
 * [Private investment in space firms shows ‘signs of stabilization’ in Q2 after steady decline](https://www.cnbc.com/2023/07/17/space-investing-q2-report-signs-of-stabilizing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T160001">2023-07-17 16:00:01 UTC</a></sub>
 * [54 Years Ago Today, Apollo 11 soars towards The Moon](https://tlpnetwork.com/news/2023/07/54_years_ago_today_apollo_11_continues_lunar_transit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T154746">2023-07-17 15:47:46 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Another SpaceX Falcon 9 joins the 16 Launch Club](https://www.teslarati.com/spacex-falcon-9-b1060-joins-16-launch-club/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T153435">2023-07-17 15:34:35 UTC</a></sub>
 * [Former astronaut says it’s “extremely important” to study artificial gravity](https://arstechnica.com/space/2023/07/former-astronaut-says-its-extremely-important-to-study-artificial-gravity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T151940">2023-07-17 15:19:40 UTC</a></sub>
 * [China sets out preliminary crewed lunar landing plan](https://spacenews.com/china-sets-out-preliminary-crewed-lunar-landing-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T143857">2023-07-17 14:38:57 UTC</a></sub>
-* [Return to Tranquility Base first](https://spacenews.com/return-to-tranquility-base-first/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T125637">2023-07-17 12:56:37 UTC</a></sub>
-* [U.K. Parliament committee recommends streamlining launch licensing](https://spacenews.com/u-k-parliament-committee-recommends-streamlining-launch-licensing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T085532">2023-07-17 08:55:32 UTC</a></sub>
-* [What’s Happening in Space Policy July 16-22, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230716T224023">2023-07-16 22:40:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T183526">2023-07-17 18:35:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T190628">2023-07-17 19:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
