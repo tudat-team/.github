@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [54 Years Ago Today, Apollo 11 soars towards The Moon](https://tlpnetwork.com/news/2023/07/54_years_ago_today_apollo_11_continues_lunar_transit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T154746">2023-07-17 15:47:46 UTC</a></sub>
+* [China Formalizes Crew Lunar Landing Mission Plans](https://tlpnetwork.com/news/2023/07/china-formalizes-crew-lunar-landing-mission-plans) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T153541">2023-07-17 15:35:41 UTC</a></sub>
+* [Another SpaceX Falcon 9 joins the 16 Launch Club](https://www.teslarati.com/spacex-falcon-9-b1060-joins-16-launch-club/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T153435">2023-07-17 15:34:35 UTC</a></sub>
+* [Former astronaut says it’s “extremely important” to study artificial gravity](https://arstechnica.com/space/2023/07/former-astronaut-says-its-extremely-important-to-study-artificial-gravity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T151940">2023-07-17 15:19:40 UTC</a></sub>
 * [China sets out preliminary crewed lunar landing plan](https://spacenews.com/china-sets-out-preliminary-crewed-lunar-landing-plan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T143857">2023-07-17 14:38:57 UTC</a></sub>
 * [Return to Tranquility Base first](https://spacenews.com/return-to-tranquility-base-first/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T125637">2023-07-17 12:56:37 UTC</a></sub>
 * [U.K. Parliament committee recommends streamlining launch licensing](https://spacenews.com/u-k-parliament-committee-recommends-streamlining-launch-licensing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T085532">2023-07-17 08:55:32 UTC</a></sub>
 * [What’s Happening in Space Policy July 16-22, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230716T224023">2023-07-16 22:40:23 UTC</a></sub>
 * [Three ongoing missions study human side of Moon and Mars missions](https://www.nasaspaceflight.com/2023/07/moon-to-mars-science-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T182655">2023-07-15 18:26:55 UTC</a></sub>
 * [Industry offers wish list for commercial space legislation](https://spacenews.com/industry-offers-wish-list-for-commercial-space-legislation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T115441">2023-07-15 11:54:41 UTC</a></sub>
-* [Congress introduces new UAP Transparency Amendment](https://tlpnetwork.com/news/2023/07/congress_introduces_uap_amendment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T231009">2023-07-14 23:10:09 UTC</a></sub>
-* [New NASA Artemis Instruments to Study Volcanic Terrain on the Moon](http://www.nasa.gov/press-release/new-nasa-artemis-instruments-to-study-volcanic-terrain-on-the-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T211400">2023-07-14 21:14:00 UTC</a></sub>
-* [Space Force to select three providers of national security launch services](https://spacenews.com/space-force-to-select-three-providers-of-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T200959">2023-07-14 20:09:59 UTC</a></sub>
-* [India’s Second Lunar Lander on Its Way](https://spacepolicyonline.com/news/indias-second-lunar-lander-on-its-way/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T163422">2023-07-14 16:34:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T153310">2023-07-17 15:33:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T161031">2023-07-17 16:10:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
