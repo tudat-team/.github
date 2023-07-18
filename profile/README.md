@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China’s LandSpace Zhuque-2 Rocket wins methane-fueled rocket race](https://www.teslarati.com/chinas-landspace-zhuque-2-rocket-wins-methane-fueled-rocket-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T213438">2023-07-18 21:34:38 UTC</a></sub>
 * [Venezuela Joins China's International Lunar Research Station](https://tlpnetwork.com/news/2023/07/venezuela-joins-china-international-lunar-research-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T202901">2023-07-18 20:29:01 UTC</a></sub>
 * [Rocket Lab launch enables Telesat to restart LEO demonstrations](https://spacenews.com/rocket-lab-launch-enables-telesat-to-restart-low-earth-orbit-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T201619">2023-07-18 20:16:19 UTC</a></sub>
 * [Venezuela signs up to China’s moon base initiative](https://spacenews.com/venezuela-signs-up-to-chinas-moon-base-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T190341">2023-07-18 19:03:41 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Maintains ‘A’ for Investing in Small Businesses](http://www.nasa.gov/press-release/nasa-maintains-a-for-investing-in-small-businesses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T150400">2023-07-18 15:04:00 UTC</a></sub>
 * [Electron launches seven smallsats in latest step towards reusability](https://spacenews.com/electron-launches-seven-smallsats-in-latest-step-towards-reusability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T103938">2023-07-18 10:39:38 UTC</a></sub>
 * [Young space firms are driving acquisition activity](https://spacenews.com/young-space-firms-are-driving-acquisition-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T231211">2023-07-17 23:12:11 UTC</a></sub>
-* [UK Parliament Recommends Simplifying Launch Licensing Process ](https://tlpnetwork.com/news/2023/07/uk-parliament-recommends-simplifying-launch-licensing-process) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T214453">2023-07-17 21:44:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T213227">2023-07-18 21:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T220649">2023-07-18 22:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
