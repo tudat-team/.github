@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Electron launches seven smallsats in latest step towards reusability](https://spacenews.com/electron-launches-seven-smallsats-in-latest-step-towards-reusability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T103938">2023-07-18 10:39:38 UTC</a></sub>
 * [Young space firms are driving acquisition activity](https://spacenews.com/young-space-firms-are-driving-acquisition-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T231211">2023-07-17 23:12:11 UTC</a></sub>
 * [UK Parliament Recommends Simplifying Launch Licensing Process ](https://tlpnetwork.com/news/2023/07/uk-parliament-recommends-simplifying-launch-licensing-process) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T214453">2023-07-17 21:44:53 UTC</a></sub>
 * [Virgin Galactic Announces Galactic 02 Crew](https://tlpnetwork.com/news/2023/07/virgin-galactic-announces-galactic-02-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T213400">2023-07-17 21:34:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [LightRidge acquires space electronics supplier Trident Systems](https://spacenews.com/lightridge-acquires-space-electronics-supplier-trident-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T184452">2023-07-17 18:44:52 UTC</a></sub>
 * [Wyoming Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/wyoming-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T181400">2023-07-17 18:14:00 UTC</a></sub>
 * [NASA Marshall Center Director to Retire After 38 Years of Service](http://www.nasa.gov/press-release/nasa-marshall-center-director-to-retire-after-38-years-of-service) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T164400">2023-07-17 16:44:00 UTC</a></sub>
-* [Private investment in space firms shows ‘signs of stabilization’ in Q2 after steady decline](https://www.cnbc.com/2023/07/17/space-investing-q2-report-signs-of-stabilizing.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T160001">2023-07-17 16:00:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T103538">2023-07-18 10:35:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T110631">2023-07-18 11:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
