@@ -571,7 +571,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Young space firms are driving acquisition activity](https://spacenews.com/young-space-firms-are-driving-acquisition-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T231211">2023-07-17 23:12:11 UTC</a></sub>
 * [UK Parliament Recommends Simplifying Launch Licensing Process ](https://tlpnetwork.com/news/2023/07/uk-parliament-recommends-simplifying-launch-licensing-process) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T214453">2023-07-17 21:44:53 UTC</a></sub>
 * [Virgin Galactic Announces Galactic 02 Crew](https://tlpnetwork.com/news/2023/07/virgin-galactic-announces-galactic-02-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T213400">2023-07-17 21:34:00 UTC</a></sub>
-* [Launch Roundup: Rocket Lab to conduct Electron reuse attempt, SpaceX to fly two Starlink v2 missions](https://www.nasaspaceflight.com/2023/07/launch-roundup-071723/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T212732">2023-07-17 21:27:32 UTC</a></sub>
+* [Launch Roundup: Rocket Lab conducts Electron reuse attempt, SpaceX to fly two Starlink v2 missions](https://www.nasaspaceflight.com/2023/07/launch-roundup-071723/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T212732">2023-07-17 21:27:32 UTC</a></sub>
 * [NASA to Discuss Climate Work in Wake of Record High Temps](http://www.nasa.gov/press-release/nasa-to-discuss-climate-work-in-wake-of-record-high-temps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T212400">2023-07-17 21:24:00 UTC</a></sub>
 * [NASA-Marshall Center Director Jody Singer to Retire](https://spacepolicyonline.com/news/nasa-marshall-center-director-jody-singer-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T190215">2023-07-17 19:02:15 UTC</a></sub>
 * [LightRidge acquires space electronics supplier Trident Systems](https://spacenews.com/lightridge-acquires-space-electronics-supplier-trident-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T184452">2023-07-17 18:44:52 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T010725">2023-07-18 01:07:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T024616">2023-07-18 02:46:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
