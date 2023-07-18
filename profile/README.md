@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab launches 7 satellites, recovers first stage booster](https://www.teslarati.com/rocket-lab-launches-7-satellites-recovers-first-stage-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T155435">2023-07-18 15:54:35 UTC</a></sub>
+* [Starlink brings Wifi to Kenya ](https://tlpnetwork.com/news/2023/07/starlink_sales_begin_in_kenya) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T151907">2023-07-18 15:19:07 UTC</a></sub>
 * [NASA Maintains ‘A’ for Investing in Small Businesses](http://www.nasa.gov/press-release/nasa-maintains-a-for-investing-in-small-businesses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T150400">2023-07-18 15:04:00 UTC</a></sub>
 * [Electron launches seven smallsats in latest step towards reusability](https://spacenews.com/electron-launches-seven-smallsats-in-latest-step-towards-reusability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T103938">2023-07-18 10:39:38 UTC</a></sub>
 * [Young space firms are driving acquisition activity](https://spacenews.com/young-space-firms-are-driving-acquisition-activity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T231211">2023-07-17 23:12:11 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launch Roundup: Rocket Lab conducts Electron reuse attempt, SpaceX to fly two Starlink v2 missions](https://www.nasaspaceflight.com/2023/07/launch-roundup-071723/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T212732">2023-07-17 21:27:32 UTC</a></sub>
 * [NASA to Discuss Climate Work in Wake of Record High Temps](http://www.nasa.gov/press-release/nasa-to-discuss-climate-work-in-wake-of-record-high-temps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T212400">2023-07-17 21:24:00 UTC</a></sub>
 * [NASA-Marshall Center Director Jody Singer to Retire](https://spacepolicyonline.com/news/nasa-marshall-center-director-jody-singer-to-retire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T190215">2023-07-17 19:02:15 UTC</a></sub>
-* [LightRidge acquires space electronics supplier Trident Systems](https://spacenews.com/lightridge-acquires-space-electronics-supplier-trident-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T184452">2023-07-17 18:44:52 UTC</a></sub>
-* [Wyoming Students to Hear from NASA Astronaut Aboard Space Station](http://www.nasa.gov/press-release/wyoming-students-to-hear-from-nasa-astronaut-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T181400">2023-07-17 18:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T153230">2023-07-18 15:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T161020">2023-07-18 16:10:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
