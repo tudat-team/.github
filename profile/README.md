@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Venezuela signs up to China’s moon base initiative](https://spacenews.com/venezuela-signs-up-to-chinas-moon-base-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T190341">2023-07-18 19:03:41 UTC</a></sub>
 * [NASA discutirá su labor en materia climática tras temperaturas record](http://www.nasa.gov/press-release/nasa-discutir-su-labor-en-materia-clim-tica-tras-temperaturas-record) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T175400">2023-07-18 17:54:00 UTC</a></sub>
 * [Rocket Lab launches 7 satellites, recovers first stage booster](https://www.teslarati.com/rocket-lab-launches-7-satellites-recovers-first-stage-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T155435">2023-07-18 15:54:35 UTC</a></sub>
 * [Starlink brings Wifi to Kenya ](https://tlpnetwork.com/news/2023/07/starlink_sales_begin_in_kenya) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T151907">2023-07-18 15:19:07 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [UK Parliament Recommends Simplifying Launch Licensing Process ](https://tlpnetwork.com/news/2023/07/uk-parliament-recommends-simplifying-launch-licensing-process) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T214453">2023-07-17 21:44:53 UTC</a></sub>
 * [Virgin Galactic Announces Galactic 02 Crew](https://tlpnetwork.com/news/2023/07/virgin-galactic-announces-galactic-02-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T213400">2023-07-17 21:34:00 UTC</a></sub>
 * [Launch Roundup: Rocket Lab conducts Electron reuse attempt, SpaceX to fly two Starlink v2 missions](https://www.nasaspaceflight.com/2023/07/launch-roundup-071723/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T212732">2023-07-17 21:27:32 UTC</a></sub>
-* [NASA to Discuss Climate Work in Wake of Record High Temps](http://www.nasa.gov/press-release/nasa-to-discuss-climate-work-in-wake-of-record-high-temps) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T212400">2023-07-17 21:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T183530">2023-07-18 18:35:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T190615">2023-07-18 19:06:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
