@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space RCO backs Hyperspace Challenge 2023 accelerator](https://spacenews.com/space-rco-backs-hyperspace-challenge-2023-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T150000">2023-07-19 15:00:00 UTC</a></sub>
 * [Insurers brace for ViaSat-3 claim](https://spacenews.com/insurers-brace-for-viasat-3-claim/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T094722">2023-07-19 09:47:22 UTC</a></sub>
 * [China’s LandSpace Zhuque-2 Rocket wins methane-fueled rocket race](https://www.teslarati.com/chinas-landspace-zhuque-2-rocket-wins-methane-fueled-rocket-race/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T213438">2023-07-18 21:34:38 UTC</a></sub>
 * [Venezuela Joins China's International Lunar Research Station](https://tlpnetwork.com/news/2023/07/venezuela-joins-china-international-lunar-research-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T202901">2023-07-18 20:29:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab launches 7 satellites, recovers first stage booster](https://www.teslarati.com/rocket-lab-launches-7-satellites-recovers-first-stage-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T155435">2023-07-18 15:54:35 UTC</a></sub>
 * [Starlink brings Wifi to Kenya ](https://tlpnetwork.com/news/2023/07/starlink_sales_begin_in_kenya) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T151907">2023-07-18 15:19:07 UTC</a></sub>
 * [NASA Maintains ‘A’ for Investing in Small Businesses](http://www.nasa.gov/press-release/nasa-maintains-a-for-investing-in-small-businesses) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T150400">2023-07-18 15:04:00 UTC</a></sub>
-* [Electron launches seven smallsats in latest step towards reusability](https://spacenews.com/electron-launches-seven-smallsats-in-latest-step-towards-reusability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T103938">2023-07-18 10:39:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T143224">2023-07-19 14:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T150731">2023-07-19 15:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
