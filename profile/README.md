@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [US space commander touts “powerful” role of megaconstellations in Ukraine](https://arstechnica.com/space/2023/07/us-space-commander-touts-powerful-role-of-megaconstellations-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T175539">2023-07-19 17:55:39 UTC</a></sub>
+* [Ancient River Is Helping NASA's Perseverance Mars Rover Do Its Work](https://mars.nasa.gov/news/9441/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T173400">2023-07-19 17:34:00 UTC</a></sub>
 * [PlanetiQ wins $60 million NOAA contract](https://spacenews.com/planetiq-wins-60-million-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T165452">2023-07-19 16:54:52 UTC</a></sub>
 * [Op-ed | Britain has all the attributes to create a world-leading space economy  ](https://spacenews.com/op-ed-britain-has-all-the-attributes-to-create-a-world-leading-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T151635">2023-07-19 15:16:35 UTC</a></sub>
 * [Space RCO backs Hyperspace Challenge 2023 accelerator](https://spacenews.com/space-rco-backs-hyperspace-challenge-2023-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T150000">2023-07-19 15:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Venezuela Joins China's International Lunar Research Station](https://tlpnetwork.com/news/2023/07/venezuela-joins-china-international-lunar-research-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T202901">2023-07-18 20:29:01 UTC</a></sub>
 * [Rocket Lab launch enables Telesat to restart LEO demonstrations](https://spacenews.com/rocket-lab-launch-enables-telesat-to-restart-low-earth-orbit-demonstrations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T201619">2023-07-18 20:16:19 UTC</a></sub>
 * [Venezuela signs up to China’s moon base initiative](https://spacenews.com/venezuela-signs-up-to-chinas-moon-base-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T190341">2023-07-18 19:03:41 UTC</a></sub>
-* [NASA discutirá su labor en materia climática tras temperaturas record](http://www.nasa.gov/press-release/nasa-discutir-su-labor-en-materia-clim-tica-tras-temperaturas-record) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T175400">2023-07-18 17:54:00 UTC</a></sub>
-* [Rocket Lab launches 7 satellites, recovers first stage booster](https://www.teslarati.com/rocket-lab-launches-7-satellites-recovers-first-stage-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T155435">2023-07-18 15:54:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T173221">2023-07-19 17:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T180908">2023-07-19 18:09:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
