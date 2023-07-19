@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The U.S. Senate threatens to cancel Mars Sample Return](https://www.planetary.org/articles/the-senate-threatens-to-cancel-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T133439">2023-07-19 13:34:39 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 3-16, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-3-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T144253">2023-07-17 14:42:53 UTC</a></sub>
 * [A little Boost! goes a long way](https://europeanspaceflight.substack.com/p/a-little-boost-goes-a-long-way) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T143812">2023-07-17 14:38:12 UTC</a></sub>
 * [Speedy spacecraft and pretty pics](https://www.planetary.org/the-downlink/speedy-spacecraft-and-pretty-pics) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T143435">2023-07-14 14:34:35 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Studying salty Earth lakes to learn about other worlds](https://www.planetary.org/sci-tech/studying-salty-earth-lakes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T140435">2023-07-06 14:04:35 UTC</a></sub>
 * [Growing veggies for the Moon and Mars](https://www.planetary.org/sci-tech/growing-veggies-moon-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T140434">2023-07-06 14:04:34 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: June 26-July 2, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-june-26-july-2-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T185915">2023-07-03 18:59:15 UTC</a></sub>
-* [What does the future hold for the Guiana Space Center?](https://europeanspaceflight.substack.com/p/what-does-the-future-hold-for-the) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230703T141938">2023-07-03 14:19:38 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T133216">2023-07-19 13:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T140722">2023-07-19 14:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
