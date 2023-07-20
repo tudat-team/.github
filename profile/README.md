@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force using Anduril software to integrate U.S. space surveillance sensors](https://spacenews.com/space-force-using-anduril-software-to-integrate-u-s-space-surveillance-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T190237">2023-07-20 19:02:37 UTC</a></sub>
+* [Canoo delivers three Crew Transportation Vehicles to NASA](https://www.teslarati.com/canoo-delivers-crew-transportation-vehicles-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T184438">2023-07-20 18:44:38 UTC</a></sub>
+* [ESA’s Space Rider Spacecraft Reaches Key Milestone](https://europeanspaceflight.com/esas-space-rider-spacecraft-reaches-key-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T184207">2023-07-20 18:42:07 UTC</a></sub>
 * [NASA's Perseverance Rover Sees Mars in a New Light](https://mars.nasa.gov/news/9442/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T171400">2023-07-20 17:14:00 UTC</a></sub>
 * [Thermal data startup constellr raises 17 million euros](https://spacenews.com/thermal-data-startup-constellr-raises-17-million-euros/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T165656">2023-07-20 16:56:56 UTC</a></sub>
 * [Falcon 9 puts on a show in the Californian skies](https://www.teslarati.com/falcon-9-puts-on-a-show-californian-skies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T162435">2023-07-20 16:24:35 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Once again, the US public says NASA should prioritize asteroid defense](https://arstechnica.com/space/2023/07/once-again-the-us-public-says-nasa-should-prioritize-asteroid-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T144937">2023-07-20 14:49:37 UTC</a></sub>
 * [NASA Lunar Fission Power System Faces NASA Funding Cuts](https://tlpnetwork.com/news/2023/07/nasa-lunar-fission-power-system-faces-nasa-funding-cuts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T140853">2023-07-20 14:08:53 UTC</a></sub>
 * [ESA Prepares To DeOrbit Aeolus Spacecraft](https://tlpnetwork.com/news/2023/07/esa-prepares-to-deorbit-aeolus-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133811">2023-07-20 13:38:11 UTC</a></sub>
-* [Telesat To Restart LEO Satellite Demo Thanks To RocketLab Launch](https://tlpnetwork.com/news/2023/07/telesat-to-restart-leo-satellite-demo-thanks-to-rocketlab-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133201">2023-07-20 13:32:01 UTC</a></sub>
-* [NASA plans for lunar fission power systems face fiscal challenges](https://spacenews.com/nasa-plans-for-lunar-fission-power-systems-face-fiscal-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T115345">2023-07-20 11:53:45 UTC</a></sub>
-* [Space Force To Add Third NSSL Lane 2 Provider, But Limited to 7 Launches](https://spacepolicyonline.com/news/space-force-to-add-third-nssl-lane-2-provider-but-limited-to-7-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T025251">2023-07-20 02:52:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T183341">2023-07-20 18:33:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T190605">2023-07-20 19:06:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
