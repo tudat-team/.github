@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA plans for lunar fission power systems face fiscal challenges](https://spacenews.com/nasa-plans-for-lunar-fission-power-systems-face-fiscal-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T115345">2023-07-20 11:53:45 UTC</a></sub>
 * [Space Force To Add Third NSSL Lane 2 Provider, But Limited to 7 Launches](https://spacepolicyonline.com/news/space-force-to-add-third-nssl-lane-2-provider-but-limited-to-7-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T025251">2023-07-20 02:52:51 UTC</a></sub>
 * [ESA preparing for “assisted reentry” of Aeolus spacecraft](https://spacenews.com/esa-preparing-for-assisted-reentry-of-aeolus-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T001352">2023-07-20 00:13:52 UTC</a></sub>
 * [Space Force changed launch procurement plan due to concerns about capacity](https://spacenews.com/space-force-changed-launch-procurement-plan-due-to-concerns-about-capacity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T214617">2023-07-19 21:46:17 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ancient River Is Helping NASA's Perseverance Mars Rover Do Its Work](https://mars.nasa.gov/news/9441/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T173400">2023-07-19 17:34:00 UTC</a></sub>
 * [PlanetiQ wins $60 million NOAA contract](https://spacenews.com/planetiq-wins-60-million-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T165452">2023-07-19 16:54:52 UTC</a></sub>
 * [Op-ed | Britain has all the attributes to create a world-leading space economy  ](https://spacenews.com/op-ed-britain-has-all-the-attributes-to-create-a-world-leading-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T151635">2023-07-19 15:16:35 UTC</a></sub>
-* [Space RCO backs Hyperspace Challenge 2023 accelerator](https://spacenews.com/space-rco-backs-hyperspace-challenge-2023-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T150000">2023-07-19 15:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T113215">2023-07-20 11:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T121415">2023-07-20 12:14:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
