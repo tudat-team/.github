@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA Prepares To DeOrbit Aeolus Spacecraft](https://tlpnetwork.com/news/2023/07/esa-prepares-to-deorbit-aeolus-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133811">2023-07-20 13:38:11 UTC</a></sub>
 * [Telesat To Restart LEO Satellite Demo Thanks To RocketLab Launch](https://tlpnetwork.com/news/2023/07/telesat-to-restart-leo-satellite-demo-thanks-to-rocketlab-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133201">2023-07-20 13:32:01 UTC</a></sub>
 * [NASA plans for lunar fission power systems face fiscal challenges](https://spacenews.com/nasa-plans-for-lunar-fission-power-systems-face-fiscal-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T115345">2023-07-20 11:53:45 UTC</a></sub>
 * [Space Force To Add Third NSSL Lane 2 Provider, But Limited to 7 Launches](https://spacepolicyonline.com/news/space-force-to-add-third-nssl-lane-2-provider-but-limited-to-7-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T025251">2023-07-20 02:52:51 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OHB to Head Up 90M ODIN’S EYE Space-Based Missile Early Warning Project](https://europeanspaceflight.com/ohb-to-head-up-90m-odins-eye-space-based-missile-early-warning-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T192530">2023-07-19 19:25:30 UTC</a></sub>
 * [US military leans into megaconstellations after their “resiliency” in Ukraine](https://arstechnica.com/space/2023/07/us-space-commander-touts-powerful-role-of-megaconstellations-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T175539">2023-07-19 17:55:39 UTC</a></sub>
 * [Ancient River Is Helping NASA's Perseverance Mars Rover Do Its Work](https://mars.nasa.gov/news/9441/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T173400">2023-07-19 17:34:00 UTC</a></sub>
-* [PlanetiQ wins $60 million NOAA contract](https://spacenews.com/planetiq-wins-60-million-noaa-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T165452">2023-07-19 16:54:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133543">2023-07-20 13:35:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T140713">2023-07-20 14:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
