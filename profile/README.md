@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Once again, the US public says NASA should prioritize asteroid defense](https://arstechnica.com/space/2023/07/once-again-the-us-public-says-nasa-should-prioritize-asteroid-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T144937">2023-07-20 14:49:37 UTC</a></sub>
+* [NASA Lunar Fission Power System Faces NASA Funding Cuts](https://tlpnetwork.com/news/2023/07/nasa-lunar-fission-power-system-faces-nasa-funding-cuts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T140853">2023-07-20 14:08:53 UTC</a></sub>
 * [ESA Prepares To DeOrbit Aeolus Spacecraft](https://tlpnetwork.com/news/2023/07/esa-prepares-to-deorbit-aeolus-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133811">2023-07-20 13:38:11 UTC</a></sub>
 * [Telesat To Restart LEO Satellite Demo Thanks To RocketLab Launch](https://tlpnetwork.com/news/2023/07/telesat-to-restart-leo-satellite-demo-thanks-to-rocketlab-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133201">2023-07-20 13:32:01 UTC</a></sub>
 * [NASA plans for lunar fission power systems face fiscal challenges](https://spacenews.com/nasa-plans-for-lunar-fission-power-systems-face-fiscal-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T115345">2023-07-20 11:53:45 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force changed launch procurement plan due to concerns about capacity](https://spacenews.com/space-force-changed-launch-procurement-plan-due-to-concerns-about-capacity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T214617">2023-07-19 21:46:17 UTC</a></sub>
 * [SpaceX to launch 15 Version 2 mini Starlinks from West Coast](https://www.teslarati.com/spacex-to-launch-15-version-2-mini-starlinks-from-west-coast/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T193439">2023-07-19 19:34:39 UTC</a></sub>
 * [OHB to Head Up 90M ODIN’S EYE Space-Based Missile Early Warning Project](https://europeanspaceflight.com/ohb-to-head-up-90m-odins-eye-space-based-missile-early-warning-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T192530">2023-07-19 19:25:30 UTC</a></sub>
-* [US military leans into megaconstellations after their “resiliency” in Ukraine](https://arstechnica.com/space/2023/07/us-space-commander-touts-powerful-role-of-megaconstellations-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T175539">2023-07-19 17:55:39 UTC</a></sub>
-* [Ancient River Is Helping NASA's Perseverance Mars Rover Do Its Work](https://mars.nasa.gov/news/9441/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T173400">2023-07-19 17:34:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T143222">2023-07-20 14:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T150728">2023-07-20 15:07:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
