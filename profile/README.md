@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, White House Advance Historically Black Scholar Recognition](http://www.nasa.gov/press-release/nasa-white-house-advance-historically-black-scholar-recognition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T205400">2023-07-20 20:54:00 UTC</a></sub>
+* [NASA Awards Integrated Mission Operations Contract III](http://www.nasa.gov/press-release/nasa-awards-integrated-mission-operations-contract-iii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T201400">2023-07-20 20:14:00 UTC</a></sub>
 * [Space Force using Anduril software to integrate U.S. space surveillance sensors](https://spacenews.com/space-force-using-anduril-software-to-integrate-u-s-space-surveillance-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T190237">2023-07-20 19:02:37 UTC</a></sub>
 * [Canoo delivers three Crew Transportation Vehicles to NASA](https://www.teslarati.com/canoo-delivers-crew-transportation-vehicles-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T184438">2023-07-20 18:44:38 UTC</a></sub>
 * [ESA’s Space Rider Spacecraft Reaches Key Milestone](https://europeanspaceflight.com/esas-space-rider-spacecraft-reaches-key-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T184207">2023-07-20 18:42:07 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Falcon 9 puts on a show in the Californian skies](https://www.teslarati.com/falcon-9-puts-on-a-show-californian-skies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T162435">2023-07-20 16:24:35 UTC</a></sub>
 * [Investing in Space: How corporate VC is a double-edged sword](https://www.cnbc.com/2023/07/20/investing-in-space-how-corporate-vc-is-a-double-edged-sword.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T152831">2023-07-20 15:28:31 UTC</a></sub>
 * [Once again, the US public says NASA should prioritize asteroid defense](https://arstechnica.com/space/2023/07/once-again-the-us-public-says-nasa-should-prioritize-asteroid-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T144937">2023-07-20 14:49:37 UTC</a></sub>
-* [NASA Lunar Fission Power System Faces NASA Funding Cuts](https://tlpnetwork.com/news/2023/07/nasa-lunar-fission-power-system-faces-nasa-funding-cuts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T140853">2023-07-20 14:08:53 UTC</a></sub>
-* [ESA Prepares To DeOrbit Aeolus Spacecraft](https://tlpnetwork.com/news/2023/07/esa-prepares-to-deorbit-aeolus-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133811">2023-07-20 13:38:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T203236">2023-07-20 20:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T210612">2023-07-20 21:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
