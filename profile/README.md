@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Perseverance Rover Sees Mars in a New Light](https://mars.nasa.gov/news/9442/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T171400">2023-07-20 17:14:00 UTC</a></sub>
 * [Thermal data startup constellr raises 17 million euros](https://spacenews.com/thermal-data-startup-constellr-raises-17-million-euros/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T165656">2023-07-20 16:56:56 UTC</a></sub>
 * [Falcon 9 puts on a show in the Californian skies](https://www.teslarati.com/falcon-9-puts-on-a-show-californian-skies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T162435">2023-07-20 16:24:35 UTC</a></sub>
 * [Investing in Space: How corporate VC is a double-edged sword](https://www.cnbc.com/2023/07/20/investing-in-space-how-corporate-vc-is-a-double-edged-sword.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T152831">2023-07-20 15:28:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Telesat To Restart LEO Satellite Demo Thanks To RocketLab Launch](https://tlpnetwork.com/news/2023/07/telesat-to-restart-leo-satellite-demo-thanks-to-rocketlab-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133201">2023-07-20 13:32:01 UTC</a></sub>
 * [NASA plans for lunar fission power systems face fiscal challenges](https://spacenews.com/nasa-plans-for-lunar-fission-power-systems-face-fiscal-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T115345">2023-07-20 11:53:45 UTC</a></sub>
 * [Space Force To Add Third NSSL Lane 2 Provider, But Limited to 7 Launches](https://spacepolicyonline.com/news/space-force-to-add-third-nssl-lane-2-provider-but-limited-to-7-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T025251">2023-07-20 02:52:51 UTC</a></sub>
-* [ESA preparing for “assisted reentry” of Aeolus spacecraft](https://spacenews.com/esa-preparing-for-assisted-reentry-of-aeolus-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T001352">2023-07-20 00:13:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T173223">2023-07-20 17:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T180906">2023-07-20 18:09:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
