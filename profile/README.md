@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA emphasizes climate science role amid fiscal and partisan challenges](https://spacenews.com/nasa-emphasizes-climate-science-role-amid-fiscal-and-partisan-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T115637">2023-07-21 11:56:37 UTC</a></sub>
 * [Rocket Report: Space Force to pick three; Pythom strikes back](https://arstechnica.com/space/2023/07/rocket-report-space-force-to-pick-three-pythom-strikes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T110012">2023-07-21 11:00:12 UTC</a></sub>
 * [NASA moving into next phase of exploration architecture review](https://spacenews.com/nasa-moving-into-next-phase-of-exploration-architecture-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T021806">2023-07-21 02:18:06 UTC</a></sub>
 * [Pew Poll: Americans Want Space Program to Focus on Asteroids and Climate More Than Human Spaceflight](https://spacepolicyonline.com/news/pew-poll-americans-wants-space-program-to-focus-on-asteroids-and-climate-more-than-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T010612">2023-07-21 01:06:12 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force using Anduril software to integrate U.S. space surveillance sensors](https://spacenews.com/space-force-using-anduril-software-to-integrate-u-s-space-surveillance-sensors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T190237">2023-07-20 19:02:37 UTC</a></sub>
 * [Canoo delivers three Crew Transportation Vehicles to NASA](https://www.teslarati.com/canoo-delivers-crew-transportation-vehicles-nasa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T184438">2023-07-20 18:44:38 UTC</a></sub>
 * [ESA’s Space Rider Spacecraft Reaches Key Milestone](https://europeanspaceflight.com/esas-space-rider-spacecraft-reaches-key-milestone/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T184207">2023-07-20 18:42:07 UTC</a></sub>
-* [NASA's Perseverance Rover Sees Mars in a New Light](https://mars.nasa.gov/news/9442/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T171400">2023-07-20 17:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T113225">2023-07-21 11:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T121353">2023-07-21 12:13:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
