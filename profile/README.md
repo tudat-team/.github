@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pew Poll: Americans Wants Space Program to Focus on Asteroids and Climate More Than Human Spaceflight](https://spacepolicyonline.com/news/pew-poll-americans-wants-space-program-to-focus-on-asteroids-and-climate-more-than-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T010612">2023-07-21 01:06:12 UTC</a></sub>
 * [Booster 9 rolls to the upgraded Starbase pad ahead of Static Fire test](https://www.nasaspaceflight.com/2023/07/booster-9-rollout-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T212043">2023-07-20 21:20:43 UTC</a></sub>
 * [NASA, White House Advance Historically Black Scholar Recognition](http://www.nasa.gov/press-release/nasa-white-house-advance-historically-black-scholar-recognition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T205400">2023-07-20 20:54:00 UTC</a></sub>
 * [NASA Awards Integrated Mission Operations Contract III](http://www.nasa.gov/press-release/nasa-awards-integrated-mission-operations-contract-iii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T201400">2023-07-20 20:14:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA's Perseverance Rover Sees Mars in a New Light](https://mars.nasa.gov/news/9442/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T171400">2023-07-20 17:14:00 UTC</a></sub>
 * [Thermal data startup constellr raises 17 million euros](https://spacenews.com/thermal-data-startup-constellr-raises-17-million-euros/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T165656">2023-07-20 16:56:56 UTC</a></sub>
 * [Falcon 9 puts on a show in the Californian skies](https://www.teslarati.com/falcon-9-puts-on-a-show-californian-skies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T162435">2023-07-20 16:24:35 UTC</a></sub>
-* [Investing in Space: How corporate VC is a double-edged sword](https://www.cnbc.com/2023/07/20/investing-in-space-how-corporate-vc-is-a-double-edged-sword.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T152831">2023-07-20 15:28:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T004224">2023-07-21 00:42:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T020321">2023-07-21 02:03:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
