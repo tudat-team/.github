@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [El administrador de NASA viajará a Sudamérica, hablará de cooperación](http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T153400">2023-07-21 15:34:00 UTC</a></sub>
+* [NASA Administrator to Head to South America; Discuss Space Cooperation](http://www.nasa.gov/press-release/nasa-administrator-to-head-to-south-america-discuss-space-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T152400">2023-07-21 15:24:00 UTC</a></sub>
 * [NASA Begins Next Phase Of Moon to Mars Exploration Architecture Development](https://tlpnetwork.com/news/2023/07/nasa-begins-next-phase-of-moon-to-mars-exploration-architecture-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140744">2023-07-21 14:07:44 UTC</a></sub>
 * [Astranis internet satellite malfunctions before beginning Alaska service, backup planned for spring](https://www.cnbc.com/2023/07/21/astranis-alaska-internet-satellite-malfunctions-backup-planned.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140216">2023-07-21 14:02:16 UTC</a></sub>
 * [First Astranis satellite sidelined by post-deployment glitch](https://spacenews.com/first-astranis-satellite-sidelined-by-post-deployment-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140144">2023-07-21 14:01:44 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA emphasizes climate science role amid fiscal and partisan challenges](https://spacenews.com/nasa-emphasizes-climate-science-role-amid-fiscal-and-partisan-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T115637">2023-07-21 11:56:37 UTC</a></sub>
 * [Rocket Report: Space Force to pick three; Pythom strikes back](https://arstechnica.com/space/2023/07/rocket-report-space-force-to-pick-three-pythom-strikes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T110012">2023-07-21 11:00:12 UTC</a></sub>
 * [NASA moving into next phase of exploration architecture review](https://spacenews.com/nasa-moving-into-next-phase-of-exploration-architecture-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T021806">2023-07-21 02:18:06 UTC</a></sub>
-* [Pew Poll: Americans Want Space Program to Focus on Asteroids and Climate More Than Human Spaceflight](https://spacepolicyonline.com/news/pew-poll-americans-wants-space-program-to-focus-on-asteroids-and-climate-more-than-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T010612">2023-07-21 01:06:12 UTC</a></sub>
-* [Booster 9 rolls to the upgraded Starbase pad ahead of Static Fire test](https://www.nasaspaceflight.com/2023/07/booster-9-rollout-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T212043">2023-07-20 21:20:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T153225">2023-07-21 15:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T160908">2023-07-21 16:09:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
