@@ -445,7 +445,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.12.1.dev20</code></td>
+    <td><code>2.12.1.dev21</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -547,7 +547,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.3.dev17</code></td>
+    <td><code>0.7.3.dev18</code></td>
   </tr>
 
 </table>
@@ -569,7 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [NASA moving into next phase of exploration architecture review](https://spacenews.com/nasa-moving-into-next-phase-of-exploration-architecture-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T021806">2023-07-21 02:18:06 UTC</a></sub>
-* [Pew Poll: Americans Wants Space Program to Focus on Asteroids and Climate More Than Human Spaceflight](https://spacepolicyonline.com/news/pew-poll-americans-wants-space-program-to-focus-on-asteroids-and-climate-more-than-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T010612">2023-07-21 01:06:12 UTC</a></sub>
+* [Pew Poll: Americans Want Space Program to Focus on Asteroids and Climate More Than Human Spaceflight](https://spacepolicyonline.com/news/pew-poll-americans-wants-space-program-to-focus-on-asteroids-and-climate-more-than-human-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T010612">2023-07-21 01:06:12 UTC</a></sub>
 * [Booster 9 rolls to the upgraded Starbase pad ahead of Static Fire test](https://www.nasaspaceflight.com/2023/07/booster-9-rollout-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T212043">2023-07-20 21:20:43 UTC</a></sub>
 * [NASA, White House Advance Historically Black Scholar Recognition](http://www.nasa.gov/press-release/nasa-white-house-advance-historically-black-scholar-recognition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T205400">2023-07-20 20:54:00 UTC</a></sub>
 * [NASA Awards Integrated Mission Operations Contract III](http://www.nasa.gov/press-release/nasa-awards-integrated-mission-operations-contract-iii) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T201400">2023-07-20 20:14:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T030742">2023-07-21 03:07:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T033238">2023-07-21 03:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
