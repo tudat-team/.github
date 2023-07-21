@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX moves Booster 9 to the Orbital Launch Mount](https://www.teslarati.com/spacex-booster-9-orbital-launch-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T180445">2023-07-21 18:04:45 UTC</a></sub>
 * [El administrador de NASA viajará a Sudamérica, hablará de cooperación](http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T153400">2023-07-21 15:34:00 UTC</a></sub>
 * [NASA Administrator to Head to South America; Discuss Space Cooperation](http://www.nasa.gov/press-release/nasa-administrator-to-head-to-south-america-discuss-space-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T152400">2023-07-21 15:24:00 UTC</a></sub>
 * [NASA Begins Next Phase Of Moon to Mars Exploration Architecture Development](https://tlpnetwork.com/news/2023/07/nasa-begins-next-phase-of-moon-to-mars-exploration-architecture-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140744">2023-07-21 14:07:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Amazon to build $120 million facility in Florida to prep Kuiper internet satellites for launch](https://www.cnbc.com/2023/07/21/amazon-kuiper-to-build-satellite-prep-facility-in-florida.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T130001">2023-07-21 13:00:01 UTC</a></sub>
 * [NASA emphasizes climate science role amid fiscal and partisan challenges](https://spacenews.com/nasa-emphasizes-climate-science-role-amid-fiscal-and-partisan-challenges/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T115637">2023-07-21 11:56:37 UTC</a></sub>
 * [Rocket Report: Space Force to pick three; Pythom strikes back](https://arstechnica.com/space/2023/07/rocket-report-space-force-to-pick-three-pythom-strikes-back/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T110012">2023-07-21 11:00:12 UTC</a></sub>
-* [NASA moving into next phase of exploration architecture review](https://spacenews.com/nasa-moving-into-next-phase-of-exploration-architecture-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T021806">2023-07-21 02:18:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T173221">2023-07-21 17:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T180958">2023-07-21 18:09:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
