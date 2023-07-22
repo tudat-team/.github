@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon To Open New Project Kuiper Processing Facility at NASA Kennedy Space Center](https://tlpnetwork.com/news/2023/07/amazon-to-open-new-project-kuiper-processing-facility-at-nasa-kennedy-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T125546">2023-07-22 12:55:46 UTC</a></sub>
 * [Galactic Energy registers sixth consecutive successful launch](https://spacenews.com/chinese-startup-galactic-energy-sent-two-satellites-into-orbit-early-saturday-with-the-companys-sixth-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T102419">2023-07-22 10:24:19 UTC</a></sub>
 * [Amazon picks Kennedy Space Center for Project Kuiper processing facility](https://spacenews.com/amazon-picks-kennedy-space-center-for-project-kuiper-processing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T204616">2023-07-21 20:46:16 UTC</a></sub>
 * [A promising Internet satellite is rendered useless by power supply issues](https://arstechnica.com/space/2023/07/a-promising-internet-satellite-is-rendered-useless-by-power-supply-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T185923">2023-07-21 18:59:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Begins Next Phase Of Moon to Mars Exploration Architecture Development](https://tlpnetwork.com/news/2023/07/nasa-begins-next-phase-of-moon-to-mars-exploration-architecture-development) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140744">2023-07-21 14:07:44 UTC</a></sub>
 * [Astranis internet satellite malfunctions before beginning Alaska service, backup planned for spring](https://www.cnbc.com/2023/07/21/astranis-alaska-internet-satellite-malfunctions-backup-planned.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140216">2023-07-21 14:02:16 UTC</a></sub>
 * [First Astranis satellite sidelined by post-deployment glitch](https://spacenews.com/first-astranis-satellite-sidelined-by-post-deployment-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140144">2023-07-21 14:01:44 UTC</a></sub>
-* [Louisiana Students to Hear from NASA Astronauts Aboard Space Station](http://www.nasa.gov/press-release/louisiana-students-to-hear-from-nasa-astronauts-aboard-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T132400">2023-07-21 13:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T130818">2023-07-22 13:08:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T133214">2023-07-22 13:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
