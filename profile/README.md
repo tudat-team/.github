@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Shenzhou 16 Completes First Spacewalk Aboard Tiangong Station](https://tlpnetwork.com/news/2023/07/shenzhou-16-completes-first-spacewalk-aboard-tiangong-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T150353">2023-07-22 15:03:53 UTC</a></sub>
 * [Space Force releases NSSL phase three second draft](https://www.nasaspaceflight.com/2023/07/nssl-phase-three-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T133355">2023-07-22 13:33:55 UTC</a></sub>
 * [First Astranis Satellite Suffers Deployment Glitch](https://tlpnetwork.com/news/2023/07/first-astranis-satellite-suffers-deployment-glitch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T132943">2023-07-22 13:29:43 UTC</a></sub>
 * [Amazon To Open New Project Kuiper Processing Facility at NASA Kennedy Space Center](https://tlpnetwork.com/news/2023/07/amazon-to-open-new-project-kuiper-processing-facility-at-nasa-kennedy-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T125546">2023-07-22 12:55:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A promising Internet satellite is rendered useless by power supply issues](https://arstechnica.com/space/2023/07/a-promising-internet-satellite-is-rendered-useless-by-power-supply-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T185923">2023-07-21 18:59:23 UTC</a></sub>
 * [SpaceX moves Booster 9 to the Orbital Launch Mount](https://www.teslarati.com/spacex-booster-9-orbital-launch-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T180445">2023-07-21 18:04:45 UTC</a></sub>
 * [El administrador de NASA viajará a Sudamérica, hablará de cooperación](http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T153400">2023-07-21 15:34:00 UTC</a></sub>
-* [NASA Administrator to Head to South America; Discuss Space Cooperation](http://www.nasa.gov/press-release/nasa-administrator-to-head-to-south-america-discuss-space-cooperation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T152400">2023-07-21 15:24:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T143210">2023-07-22 14:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T150637">2023-07-22 15:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
