@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to launch 22 Version 2 mini Starlink satellites](https://www.teslarati.com/spacex-launch-22-version-2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T190446">2023-07-22 19:04:46 UTC</a></sub>
 * [Shenzhou 16 Completes First Spacewalk Aboard Tiangong Station](https://tlpnetwork.com/news/2023/07/shenzhou-16-completes-first-spacewalk-aboard-tiangong-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T150353">2023-07-22 15:03:53 UTC</a></sub>
 * [Space Force releases NSSL phase three second draft](https://www.nasaspaceflight.com/2023/07/nssl-phase-three-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T133355">2023-07-22 13:33:55 UTC</a></sub>
 * [First Astranis Satellite Suffers Deployment Glitch](https://tlpnetwork.com/news/2023/07/first-astranis-satellite-suffers-deployment-glitch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T132943">2023-07-22 13:29:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Amazon picks Kennedy Space Center for Project Kuiper processing facility](https://spacenews.com/amazon-picks-kennedy-space-center-for-project-kuiper-processing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T204616">2023-07-21 20:46:16 UTC</a></sub>
 * [A promising Internet satellite is rendered useless by power supply issues](https://arstechnica.com/space/2023/07/a-promising-internet-satellite-is-rendered-useless-by-power-supply-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T185923">2023-07-21 18:59:23 UTC</a></sub>
 * [SpaceX moves Booster 9 to the Orbital Launch Mount](https://www.teslarati.com/spacex-booster-9-orbital-launch-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T180445">2023-07-21 18:04:45 UTC</a></sub>
-* [El administrador de NASA viajará a Sudamérica, hablará de cooperación](http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T153400">2023-07-21 15:34:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T183231">2023-07-22 18:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T190509">2023-07-22 19:05:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
