@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA offers details on commercial space capabilities agreements](https://spacenews.com/nasa-offers-details-on-commercial-space-capabilities-agreements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T194100">2023-07-22 19:41:00 UTC</a></sub>
 * [SpaceX to launch 22 Version 2 mini Starlink satellites](https://www.teslarati.com/spacex-launch-22-version-2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T190446">2023-07-22 19:04:46 UTC</a></sub>
 * [Shenzhou 16 Completes First Spacewalk Aboard Tiangong Station](https://tlpnetwork.com/news/2023/07/shenzhou-16-completes-first-spacewalk-aboard-tiangong-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T150353">2023-07-22 15:03:53 UTC</a></sub>
 * [Space Force releases NSSL phase three second draft](https://www.nasaspaceflight.com/2023/07/nssl-phase-three-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T133355">2023-07-22 13:33:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Galactic Energy registers sixth consecutive successful launch](https://spacenews.com/chinese-startup-galactic-energy-sent-two-satellites-into-orbit-early-saturday-with-the-companys-sixth-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T102419">2023-07-22 10:24:19 UTC</a></sub>
 * [Amazon picks Kennedy Space Center for Project Kuiper processing facility](https://spacenews.com/amazon-picks-kennedy-space-center-for-project-kuiper-processing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T204616">2023-07-21 20:46:16 UTC</a></sub>
 * [A promising Internet satellite is rendered useless by power supply issues](https://arstechnica.com/space/2023/07/a-promising-internet-satellite-is-rendered-useless-by-power-supply-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T185923">2023-07-21 18:59:23 UTC</a></sub>
-* [SpaceX moves Booster 9 to the Orbital Launch Mount](https://www.teslarati.com/spacex-booster-9-orbital-launch-mount/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T180445">2023-07-21 18:04:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T193208">2023-07-22 19:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T200700">2023-07-22 20:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
