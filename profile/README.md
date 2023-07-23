@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Gaganyaan Mission Moves Forward towards first Domestic Crewed Mission for India](https://tlpnetwork.com/news/2023/07/gaganyaan_mission_moves_closer_to_spaceflight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T155000">2023-07-23 15:50:00 UTC</a></sub>
+* [ISRO Begins Gaganyaan Crew Capsule Recovery Trials With Indian Navy](https://tlpnetwork.com/news/2023/07/gaganyaan_mission_moves_closer_to_spaceflight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T155000">2023-07-23 15:50:00 UTC</a></sub>
 * [NASA offers details on commercial space capabilities agreements](https://spacenews.com/nasa-offers-details-on-commercial-space-capabilities-agreements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T194100">2023-07-22 19:41:00 UTC</a></sub>
 * [SpaceX to launch 22 Version 2 mini Starlink satellites](https://www.teslarati.com/spacex-launch-22-version-2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T190446">2023-07-22 19:04:46 UTC</a></sub>
 * [Shenzhou 16 Completes First Spacewalk Aboard Tiangong Station](https://tlpnetwork.com/news/2023/07/shenzhou-16-completes-first-spacewalk-aboard-tiangong-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T150353">2023-07-22 15:03:53 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T163434">2023-07-23 16:34:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T170601">2023-07-23 17:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
