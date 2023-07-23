@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [What’s Happening in Space Policy July 23-29, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T212425">2023-07-23 21:24:25 UTC</a></sub>
 * [ISRO Begins Gaganyaan Crew Capsule Recovery Trials With Indian Navy](https://tlpnetwork.com/news/2023/07/gaganyaan_mission_moves_closer_to_spaceflight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T155000">2023-07-23 15:50:00 UTC</a></sub>
 * [NASA offers details on commercial space capabilities agreements](https://spacenews.com/nasa-offers-details-on-commercial-space-capabilities-agreements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T194100">2023-07-22 19:41:00 UTC</a></sub>
 * [SpaceX to launch 22 Version 2 mini Starlink satellites](https://www.teslarati.com/spacex-launch-22-version-2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T190446">2023-07-22 19:04:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Amazon To Open New Project Kuiper Processing Facility at NASA Kennedy Space Center](https://tlpnetwork.com/news/2023/07/amazon-to-open-new-project-kuiper-processing-facility-at-nasa-kennedy-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T125546">2023-07-22 12:55:46 UTC</a></sub>
 * [Space Force raises the stakes as rocket companies compete for lucrative military missions](https://www.cnbc.com/2023/07/22/space-force-raises-the-stakes-in-nssl-race-for-military-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T120001">2023-07-22 12:00:01 UTC</a></sub>
 * [Galactic Energy registers sixth consecutive successful launch](https://spacenews.com/chinese-startup-galactic-energy-sent-two-satellites-into-orbit-early-saturday-with-the-companys-sixth-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T102419">2023-07-22 10:24:19 UTC</a></sub>
-* [Amazon picks Kennedy Space Center for Project Kuiper processing facility](https://spacenews.com/amazon-picks-kennedy-space-center-for-project-kuiper-processing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T204616">2023-07-21 20:46:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T213214">2023-07-23 21:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T220621">2023-07-23 22:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
