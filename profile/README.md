@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After bopping an asteroid 3 years ago, NASA will finally see the results](https://arstechnica.com/space/2023/07/christmas-is-coming-for-asteroid-scientists-just-2-months-from-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T211337">2023-07-24 21:13:37 UTC</a></sub>
 * [SpaceX launches next batch of Starlink satellites](https://www.teslarati.com/spacex-launches-next-batch-of-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190442">2023-07-24 19:04:42 UTC</a></sub>
 * [MaiaSpace Reports Expenses of €3.49M in its First Year of Operation](https://europeanspaceflight.com/maiaspace-reports-expenses-of-e349m-in-its-first-year-of-operation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190142">2023-07-24 19:01:42 UTC</a></sub>
 * [Startup Impulse Space raises $45 million in Series A round](https://spacenews.com/startup-impulse-space-raises-45-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T174039">2023-07-24 17:40:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Thermal Data Startup Constellr Extends Seed Round to €17M](https://europeanspaceflight.com/thermal-data-startup-constellr-extends-seed-round-to-e17m/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T060007">2023-07-24 06:00:07 UTC</a></sub>
 * [What’s Happening in Space Policy July 23-29, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T212425">2023-07-23 21:24:25 UTC</a></sub>
 * [ISRO Begins Gaganyaan Crew Capsule Recovery Trials With Indian Navy](https://tlpnetwork.com/news/2023/07/gaganyaan_mission_moves_closer_to_spaceflight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T155000">2023-07-23 15:50:00 UTC</a></sub>
-* [NASA offers details on commercial space capabilities agreements](https://spacenews.com/nasa-offers-details-on-commercial-space-capabilities-agreements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T194100">2023-07-22 19:41:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T213223">2023-07-24 21:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T220655">2023-07-24 22:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
