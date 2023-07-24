@@ -568,7 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA completes the first Launch Simulation for Humanity's Return to The Moon](https://tlpnetwork.com/news/2023/07/nasa_completes_first_artemis_2_launch_simulation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T153700">2023-07-24 15:37:00 UTC</a></sub>
+* [Maxar to begin production of new small satellite bus ](https://spacenews.com/maxar-to-begin-production-of-new-small-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T165221">2023-07-24 16:52:21 UTC</a></sub>
+* [NASA Conducts First Artemis 2 Launch Simulation](https://tlpnetwork.com/news/2023/07/nasa_completes_first_artemis_2_launch_simulation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T153700">2023-07-24 15:37:00 UTC</a></sub>
 * [China’s CASIC to begin launching VLEO satellites in December](https://spacenews.com/chinas-casic-to-begin-launching-vleo-satellites-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T142046">2023-07-24 14:20:46 UTC</a></sub>
 * [Thermal Data Startup Constellr Extends Seed Round to €17M](https://europeanspaceflight.com/thermal-data-startup-constellr-extends-seed-round-to-e17m/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T060007">2023-07-24 06:00:07 UTC</a></sub>
 * [What’s Happening in Space Policy July 23-29, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T212425">2023-07-23 21:24:25 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX to launch 22 Version 2 mini Starlink satellites](https://www.teslarati.com/spacex-launch-22-version-2-mini-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T190446">2023-07-22 19:04:46 UTC</a></sub>
 * [Shenzhou 16 Completes First Spacewalk Aboard Tiangong Station](https://tlpnetwork.com/news/2023/07/shenzhou-16-completes-first-spacewalk-aboard-tiangong-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T150353">2023-07-22 15:03:53 UTC</a></sub>
 * [Space Force releases NSSL phase three second draft](https://www.nasaspaceflight.com/2023/07/nssl-phase-three-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T133355">2023-07-22 13:33:55 UTC</a></sub>
-* [First Astranis Satellite Suffers Deployment Glitch](https://tlpnetwork.com/news/2023/07/first-astranis-satellite-suffers-deployment-glitch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T132943">2023-07-22 13:29:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T163549">2023-07-24 16:35:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T170648">2023-07-24 17:06:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
