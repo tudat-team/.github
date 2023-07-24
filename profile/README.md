@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Thermal Data Startup Constellr Extends Seed Round to €17M](https://europeanspaceflight.com/thermal-data-startup-constellr-extends-seed-round-to-e17m/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T060007">2023-07-24 06:00:07 UTC</a></sub>
 * [What’s Happening in Space Policy July 23-29, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T212425">2023-07-23 21:24:25 UTC</a></sub>
 * [ISRO Begins Gaganyaan Crew Capsule Recovery Trials With Indian Navy](https://tlpnetwork.com/news/2023/07/gaganyaan_mission_moves_closer_to_spaceflight) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230723T155000">2023-07-23 15:50:00 UTC</a></sub>
 * [NASA offers details on commercial space capabilities agreements](https://spacenews.com/nasa-offers-details-on-commercial-space-capabilities-agreements/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T194100">2023-07-22 19:41:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [First Astranis Satellite Suffers Deployment Glitch](https://tlpnetwork.com/news/2023/07/first-astranis-satellite-suffers-deployment-glitch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T132943">2023-07-22 13:29:43 UTC</a></sub>
 * [Amazon To Open New Project Kuiper Processing Facility at NASA Kennedy Space Center](https://tlpnetwork.com/news/2023/07/amazon-to-open-new-project-kuiper-processing-facility-at-nasa-kennedy-space-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T125546">2023-07-22 12:55:46 UTC</a></sub>
 * [Space Force raises the stakes as rocket companies compete for lucrative military missions](https://www.cnbc.com/2023/07/22/space-force-raises-the-stakes-in-nssl-race-for-military-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T120001">2023-07-22 12:00:01 UTC</a></sub>
-* [Galactic Energy registers sixth consecutive successful launch](https://spacenews.com/chinese-startup-galactic-energy-sent-two-satellites-into-orbit-early-saturday-with-the-companys-sixth-consecutive-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T102419">2023-07-22 10:24:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T063508">2023-07-24 06:35:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T070745">2023-07-24 07:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
