@@ -569,7 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [SpaceX launches next batch of Starlink satellites](https://www.teslarati.com/spacex-launches-next-batch-of-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190442">2023-07-24 19:04:42 UTC</a></sub>
-* [MaiaSpace Reports Expenses of €3,49M in its First Year of Operation](https://europeanspaceflight.com/maiaspace-reports-expenses-of-e349m-in-its-first-year-of-operation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190142">2023-07-24 19:01:42 UTC</a></sub>
+* [MaiaSpace Reports Expenses of €3.49M in its First Year of Operation](https://europeanspaceflight.com/maiaspace-reports-expenses-of-e349m-in-its-first-year-of-operation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190142">2023-07-24 19:01:42 UTC</a></sub>
 * [Startup Impulse Space raises $45 million in Series A round](https://spacenews.com/startup-impulse-space-raises-45-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T174039">2023-07-24 17:40:39 UTC</a></sub>
 * [Maxar to begin production of new small satellite bus ](https://spacenews.com/maxar-to-begin-production-of-new-small-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T165221">2023-07-24 16:52:21 UTC</a></sub>
 * [NASA Conducts First Artemis 2 Launch Simulation](https://tlpnetwork.com/news/2023/07/nasa_completes_first_artemis_2_launch_simulation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T153700">2023-07-24 15:37:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T193216">2023-07-24 19:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T200638">2023-07-24 20:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
