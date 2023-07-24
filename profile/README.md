@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How can Thales use Space Rider IP for Rev-1?](https://europeanspaceflight.substack.com/p/how-can-thales-use-space-rider-ip) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T133843">2023-07-24 13:38:43 UTC</a></sub>
 * [That’s a mare](https://www.planetary.org/the-downlink/thats-a-mare) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T143436">2023-07-21 14:34:36 UTC</a></sub>
 * [The U.S. Senate threatens to cancel Mars Sample Return](https://www.planetary.org/articles/the-senate-threatens-to-cancel-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T133439">2023-07-19 13:34:39 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 3-16, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-3-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T144253">2023-07-17 14:42:53 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [What will become of the German North Sea floating launch site?](https://europeanspaceflight.substack.com/p/what-will-become-of-the-german-north) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T142211">2023-07-10 14:22:11 UTC</a></sub>
 * [Advocacy Action Center](https://www.planetary.org/advocacy-action-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T115436">2023-07-10 11:54:36 UTC</a></sub>
 * [Studying salty Earth lakes to learn about other worlds](https://www.planetary.org/sci-tech/studying-salty-earth-lakes) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T140435">2023-07-06 14:04:35 UTC</a></sub>
-* [Growing veggies for the Moon and Mars](https://www.planetary.org/sci-tech/growing-veggies-moon-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T140434">2023-07-06 14:04:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T133217">2023-07-24 13:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T140713">2023-07-24 14:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
