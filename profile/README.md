@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force selects vendors for low Earth orbit satellite services](https://spacenews.com/space-force-selects-vendors-for-low-earth-orbit-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T180000">2023-07-25 18:00:00 UTC</a></sub>
 * [NASA Sets Coverage for Cargo Launch to International Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-for-cargo-launch-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T161400">2023-07-25 16:14:00 UTC</a></sub>
 * [NASA selects companies to advance lunar power and other technologies](https://spacenews.com/nasa-selects-companies-to-advance-lunar-power-and-other-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T155925">2023-07-25 15:59:25 UTC</a></sub>
 * [Space Force to further define details of a ‘commercial space reserve’](https://spacenews.com/space-force-to-further-define-details-of-a-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T153942">2023-07-25 15:39:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [CAPSTONE working well more than a year after launch](https://spacenews.com/capstone-working-well-more-than-a-year-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T022256">2023-07-25 02:22:56 UTC</a></sub>
 * [After bopping an asteroid 3 years ago, NASA will finally see the results](https://arstechnica.com/space/2023/07/christmas-is-coming-for-asteroid-scientists-just-2-months-from-today/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T211337">2023-07-24 21:13:37 UTC</a></sub>
 * [SpaceX launches next batch of Starlink satellites](https://www.teslarati.com/spacex-launches-next-batch-of-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190442">2023-07-24 19:04:42 UTC</a></sub>
-* [MaiaSpace Reports Expenses of €3.49M in its First Year of Operation](https://europeanspaceflight.com/maiaspace-reports-expenses-of-e349m-in-its-first-year-of-operation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190142">2023-07-24 19:01:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T173220">2023-07-25 17:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T180834">2023-07-25 18:08:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
