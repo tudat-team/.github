@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Partners with American Companies on Key Moon, Exploration Tech](http://www.nasa.gov/press-release/nasa-partners-with-american-companies-on-key-moon-exploration-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T150400">2023-07-25 15:04:00 UTC</a></sub>
 * [SpaceX performs first fueling tests on Super Heavy Booster](https://www.teslarati.com/spacex-performs-first-fueling-tests-on-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T135458">2023-07-25 13:54:58 UTC</a></sub>
 * [Varda waiting on FAA license to return space manufacturing capsule](https://spacenews.com/varda-waiting-on-faa-license-to-return-space-manufacturing-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T104202">2023-07-25 10:42:02 UTC</a></sub>
 * [CAPSTONE working well more than a year after launch](https://spacenews.com/capstone-working-well-more-than-a-year-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T022256">2023-07-25 02:22:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Startup Impulse Space raises $45 million in Series A round](https://spacenews.com/startup-impulse-space-raises-45-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T174039">2023-07-24 17:40:39 UTC</a></sub>
 * [Maxar to begin production of new small satellite bus ](https://spacenews.com/maxar-to-begin-production-of-new-small-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T165221">2023-07-24 16:52:21 UTC</a></sub>
 * [NASA Conducts First Artemis 2 Launch Simulation](https://tlpnetwork.com/news/2023/07/nasa_completes_first_artemis_2_launch_simulation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T153700">2023-07-24 15:37:00 UTC</a></sub>
-* [China’s CASIC to begin launching VLEO satellites in December](https://spacenews.com/chinas-casic-to-begin-launching-vleo-satellites-in-december/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T142046">2023-07-24 14:20:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T143246">2023-07-25 14:32:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T150813">2023-07-25 15:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
