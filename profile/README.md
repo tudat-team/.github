@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Launch roundup: Falcon Heavy to launch largest GEO satellite, Rocket Lab’s Electron to complete 40th flight](https://www.nasaspaceflight.com/2023/07/launch-roundup-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T215232">2023-07-25 21:52:32 UTC</a></sub>
+* [Spire to devise GNSS-independent aircraft tracking satellites for ESA](https://spacenews.com/spire-to-devise-gnss-independent-aircraft-tracking-satellites-for-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T214752">2023-07-25 21:47:52 UTC</a></sub>
 * [SpaceX gears up for Falcon Heavy launch](https://www.teslarati.com/spacex-gears-up-for-falcon-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T184443">2023-07-25 18:44:43 UTC</a></sub>
 * [If you’re going to the south pole, go to the south pole](https://spacenews.com/if-youre-going-to-the-south-pole-go-to-the-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T182819">2023-07-25 18:28:19 UTC</a></sub>
 * [Space Force selects vendors for low Earth orbit satellite services](https://spacenews.com/space-force-selects-vendors-for-low-earth-orbit-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T180000">2023-07-25 18:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to further define details of a ‘commercial space reserve’](https://spacenews.com/space-force-to-further-define-details-of-a-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T153942">2023-07-25 15:39:42 UTC</a></sub>
 * [NASA Partners with American Companies on Key Moon, Exploration Tech](http://www.nasa.gov/press-release/nasa-partners-with-american-companies-on-key-moon-exploration-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T150400">2023-07-25 15:04:00 UTC</a></sub>
 * [SpaceX performs first fueling tests on Super Heavy Booster](https://www.teslarati.com/spacex-performs-first-fueling-tests-on-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T135458">2023-07-25 13:54:58 UTC</a></sub>
-* [Varda waiting on FAA license to return space manufacturing capsule](https://spacenews.com/varda-waiting-on-faa-license-to-return-space-manufacturing-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T104202">2023-07-25 10:42:02 UTC</a></sub>
-* [CAPSTONE working well more than a year after launch](https://spacenews.com/capstone-working-well-more-than-a-year-after-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T022256">2023-07-25 02:22:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T213220">2023-07-25 21:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T220632">2023-07-25 22:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
