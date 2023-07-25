@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA selects companies to advance lunar power and other technologies](https://spacenews.com/nasa-selects-companies-to-advance-lunar-power-and-other-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T155925">2023-07-25 15:59:25 UTC</a></sub>
+* [Space Force to further define details of a ‘commercial space reserve’](https://spacenews.com/space-force-to-further-define-details-of-a-commercial-space-reserve/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T153942">2023-07-25 15:39:42 UTC</a></sub>
 * [NASA Partners with American Companies on Key Moon, Exploration Tech](http://www.nasa.gov/press-release/nasa-partners-with-american-companies-on-key-moon-exploration-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T150400">2023-07-25 15:04:00 UTC</a></sub>
 * [SpaceX performs first fueling tests on Super Heavy Booster](https://www.teslarati.com/spacex-performs-first-fueling-tests-on-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T135458">2023-07-25 13:54:58 UTC</a></sub>
 * [Varda waiting on FAA license to return space manufacturing capsule](https://spacenews.com/varda-waiting-on-faa-license-to-return-space-manufacturing-capsule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T104202">2023-07-25 10:42:02 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches next batch of Starlink satellites](https://www.teslarati.com/spacex-launches-next-batch-of-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190442">2023-07-24 19:04:42 UTC</a></sub>
 * [MaiaSpace Reports Expenses of €3.49M in its First Year of Operation](https://europeanspaceflight.com/maiaspace-reports-expenses-of-e349m-in-its-first-year-of-operation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T190142">2023-07-24 19:01:42 UTC</a></sub>
 * [Startup Impulse Space raises $45 million in Series A round](https://spacenews.com/startup-impulse-space-raises-45-million-in-series-a-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T174039">2023-07-24 17:40:39 UTC</a></sub>
-* [Maxar to begin production of new small satellite bus ](https://spacenews.com/maxar-to-begin-production-of-new-small-satellite-bus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T165221">2023-07-24 16:52:21 UTC</a></sub>
-* [NASA Conducts First Artemis 2 Launch Simulation](https://tlpnetwork.com/news/2023/07/nasa_completes_first_artemis_2_launch_simulation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T153700">2023-07-24 15:37:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T153241">2023-07-25 15:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T160931">2023-07-25 16:09:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
