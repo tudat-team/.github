@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA and DARPA select Lockheed Martin to develop DRACO nuclear propulsion demo](https://spacenews.com/nasa-and-darpa-select-lockheed-martin-to-develop-draco-nuclear-propulsion-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T214933">2023-07-26 21:49:33 UTC</a></sub>
+* [Space Command nominee: U.S. has to prepare to respond to aggression against satellites](https://spacenews.com/space-command-nominee-u-s-has-to-prepare-to-respond-to-aggression-against-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T214723">2023-07-26 21:47:23 UTC</a></sub>
+* [The US government is taking a serious step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T210156">2023-07-26 21:01:56 UTC</a></sub>
 * [NASA Awards $14 Million to Universities for Supportive STEM Efforts](http://www.nasa.gov/press-release/nasa-awards-14-million-to-universities-for-supportive-stem-efforts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T200400">2023-07-26 20:04:00 UTC</a></sub>
 * [Falcon Heavy to launch largest ever geostationary satellite](https://www.nasaspaceflight.com/2023/07/falcon-heavy-echostar-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T192901">2023-07-26 19:29:01 UTC</a></sub>
 * [‘Non-Human Biologic’ Pilot Found Aboard Crashed UAP](https://tlpnetwork.com/news/2023/07/non-human-biologic-pilot-found-aboard-crashed-uap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T181718">2023-07-26 18:17:18 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing records more losses from Starliner delays](https://spacenews.com/boeing-records-more-losses-from-starliner-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T163555">2023-07-26 16:35:55 UTC</a></sub>
 * [US Space Force To Develop Commercial Space Reserve](https://tlpnetwork.com/news/2023/07/us-space-force-to-develop-commercial-space-reserve) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T160456">2023-07-26 16:04:56 UTC</a></sub>
 * [NASA & DARAP Select Lockheed Martin To Develop Nuclear Rocket](https://tlpnetwork.com/news/2023/07/nasa-darpa-select-lockheed-martin-to-develop-nuclear-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T155344">2023-07-26 15:53:44 UTC</a></sub>
-* [NASA Awards 11 Advance Lunar Power And Tech Contracts ](https://tlpnetwork.com/news/2023/07/nasa-awards-11-advance-lunar-power-and-tech-contracts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T154358">2023-07-26 15:43:58 UTC</a></sub>
-* [Boeing has now lost $1.1 billion on Starliner, with no crew flight in sight](https://arstechnica.com/space/2023/07/boeing-has-now-lost-1-1-billion-on-starliner-with-no-crew-flight-in-sight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T152659">2023-07-26 15:26:59 UTC</a></sub>
-* [NASA, DARPA Experts to Discuss Nuclear Rocket Program Developments](http://www.nasa.gov/press-release/nasa-darpa-experts-to-discuss-nuclear-rocket-program-developments) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T134400">2023-07-26 13:44:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T213209">2023-07-26 21:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T220632">2023-07-26 22:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
