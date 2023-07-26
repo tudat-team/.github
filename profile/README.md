@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Geospatial intelligence startup Kleos Space files for bankruptcy](https://spacenews.com/geospatial-intelligence-startup-kleos-space-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T224547">2023-07-26 22:45:47 UTC</a></sub>
 * [NASA and DARPA select Lockheed Martin to develop DRACO nuclear propulsion demo](https://spacenews.com/nasa-and-darpa-select-lockheed-martin-to-develop-draco-nuclear-propulsion-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T214933">2023-07-26 21:49:33 UTC</a></sub>
 * [Space Command nominee: U.S. has to prepare to respond to aggression against satellites](https://spacenews.com/space-command-nominee-u-s-has-to-prepare-to-respond-to-aggression-against-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T214723">2023-07-26 21:47:23 UTC</a></sub>
 * [The US government is taking a serious step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T210156">2023-07-26 21:01:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing’s Starliner losses total $1.5 billion with NASA astronauts still waiting to fly](https://www.cnbc.com/2023/07/26/boeing-has-lost-1point5-billion-developing-starliner-spacecraft-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T173314">2023-07-26 17:33:14 UTC</a></sub>
 * [Boeing records more losses from Starliner delays](https://spacenews.com/boeing-records-more-losses-from-starliner-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T163555">2023-07-26 16:35:55 UTC</a></sub>
 * [US Space Force To Develop Commercial Space Reserve](https://tlpnetwork.com/news/2023/07/us-space-force-to-develop-commercial-space-reserve) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T160456">2023-07-26 16:04:56 UTC</a></sub>
-* [NASA & DARAP Select Lockheed Martin To Develop Nuclear Rocket](https://tlpnetwork.com/news/2023/07/nasa-darpa-select-lockheed-martin-to-develop-nuclear-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T155344">2023-07-26 15:53:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T223234">2023-07-26 22:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T230652">2023-07-26 23:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
