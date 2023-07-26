@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing’s Starliner losses total $1.5 billion with NASA astronauts still waiting to fly](https://www.cnbc.com/2023/07/26/boeing-has-lost-1point5-billion-developing-starliner-spacecraft-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T173314">2023-07-26 17:33:14 UTC</a></sub>
 * [Boeing records more losses from Starliner delays](https://spacenews.com/boeing-records-more-losses-from-starliner-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T163555">2023-07-26 16:35:55 UTC</a></sub>
 * [US Space Force To Develop Commercial Space Reserve](https://tlpnetwork.com/news/2023/07/us-space-force-to-develop-commercial-space-reserve) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T160456">2023-07-26 16:04:56 UTC</a></sub>
 * [NASA & DARAP Select Lockheed Martin To Develop Nuclear Rocket](https://tlpnetwork.com/news/2023/07/nasa-darpa-select-lockheed-martin-to-develop-nuclear-rocket) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T155344">2023-07-26 15:53:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [House Defeats Bill Over Concerns About FCC Space Safety and Debris Authority](https://spacepolicyonline.com/news/house-defeats-bill-over-concerns-about-fcc-space-safety-and-debris-authority/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T025148">2023-07-26 02:51:48 UTC</a></sub>
 * [House rejects satellite spectrum licensing bill because of space safety provisions](https://spacenews.com/house-rejects-satellite-spectrum-licensing-bill-because-of-space-safety-provisions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T001512">2023-07-26 00:15:12 UTC</a></sub>
 * [Launch roundup: Falcon Heavy to launch largest GEO satellite, Rocket Lab’s Electron to complete 40th flight](https://www.nasaspaceflight.com/2023/07/launch-roundup-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T215232">2023-07-25 21:52:32 UTC</a></sub>
-* [Spire to devise GNSS-independent aircraft tracking satellites for ESA](https://spacenews.com/spire-to-devise-gnss-independent-aircraft-tracking-satellites-for-esa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T214752">2023-07-25 21:47:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T173222">2023-07-26 17:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T180831">2023-07-26 18:08:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
