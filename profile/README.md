@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Awards $14 Million to Universities for Supportive STEM Efforts](http://www.nasa.gov/press-release/nasa-awards-14-million-to-universities-for-supportive-stem-efforts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T200400">2023-07-26 20:04:00 UTC</a></sub>
+* [Falcon Heavy to launch largest ever geostationary satellite](https://www.nasaspaceflight.com/2023/07/falcon-heavy-echostar-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T192901">2023-07-26 19:29:01 UTC</a></sub>
 * [‘Non-Human Biologic’ Pilot Found Aboard Crashed UAP](https://tlpnetwork.com/news/2023/07/non-human-biologic-pilot-found-aboard-crashed-uap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T181718">2023-07-26 18:17:18 UTC</a></sub>
 * [Boeing’s Starliner losses total $1.5 billion with NASA astronauts still waiting to fly](https://www.cnbc.com/2023/07/26/boeing-has-lost-1point5-billion-developing-starliner-spacecraft-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T173314">2023-07-26 17:33:14 UTC</a></sub>
 * [Boeing records more losses from Starliner delays](https://spacenews.com/boeing-records-more-losses-from-starliner-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T163555">2023-07-26 16:35:55 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards 11 Advance Lunar Power And Tech Contracts ](https://tlpnetwork.com/news/2023/07/nasa-awards-11-advance-lunar-power-and-tech-contracts) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T154358">2023-07-26 15:43:58 UTC</a></sub>
 * [Boeing has now lost $1.1 billion on Starliner, with no crew flight in sight](https://arstechnica.com/space/2023/07/boeing-has-now-lost-1-1-billion-on-starliner-with-no-crew-flight-in-sight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T152659">2023-07-26 15:26:59 UTC</a></sub>
 * [NASA, DARPA Experts to Discuss Nuclear Rocket Program Developments](http://www.nasa.gov/press-release/nasa-darpa-experts-to-discuss-nuclear-rocket-program-developments) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T134400">2023-07-26 13:44:00 UTC</a></sub>
-* [House Defeats Bill Over Concerns About FCC Space Safety and Debris Authority](https://spacepolicyonline.com/news/house-defeats-bill-over-concerns-about-fcc-space-safety-and-debris-authority/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T025148">2023-07-26 02:51:48 UTC</a></sub>
-* [House rejects satellite spectrum licensing bill because of space safety provisions](https://spacenews.com/house-rejects-satellite-spectrum-licensing-bill-because-of-space-safety-provisions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T001512">2023-07-26 00:15:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T193230">2023-07-26 19:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T200720">2023-07-26 20:07:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
