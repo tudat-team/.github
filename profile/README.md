@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starliner Delay Costs Boeing Another $257 Million](https://spacepolicyonline.com/news/starliner-delay-costs-boeing-another-257-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T024702">2023-07-27 02:47:02 UTC</a></sub>
 * [L3Harris’ acquisition of Aerojet Rocketdyne nears completion](https://spacenews.com/l3harris-acquisition-of-aerojet-rocketdyne-nears-completion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T231437">2023-07-26 23:14:37 UTC</a></sub>
 * [Geospatial intelligence startup Kleos Space files for bankruptcy](https://spacenews.com/geospatial-intelligence-startup-kleos-space-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T224547">2023-07-26 22:45:47 UTC</a></sub>
 * [NASA and DARPA select Lockheed Martin to develop DRACO nuclear propulsion demo](https://spacenews.com/nasa-and-darpa-select-lockheed-martin-to-develop-draco-nuclear-propulsion-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T214933">2023-07-26 21:49:33 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Falcon Heavy to launch largest ever geostationary satellite](https://www.nasaspaceflight.com/2023/07/falcon-heavy-echostar-24/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T192901">2023-07-26 19:29:01 UTC</a></sub>
 * [‘Non-Human Biologic’ Pilot Found Aboard Crashed UAP](https://tlpnetwork.com/news/2023/07/non-human-biologic-pilot-found-aboard-crashed-uap) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T181718">2023-07-26 18:17:18 UTC</a></sub>
 * [Boeing’s Starliner losses total $1.5 billion with NASA astronauts still waiting to fly](https://www.cnbc.com/2023/07/26/boeing-has-lost-1point5-billion-developing-starliner-spacecraft-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T173314">2023-07-26 17:33:14 UTC</a></sub>
-* [Boeing records more losses from Starliner delays](https://spacenews.com/boeing-records-more-losses-from-starliner-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T163555">2023-07-26 16:35:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T023654">2023-07-27 02:36:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T030728">2023-07-27 03:07:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
