@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [RocketLab Updates Neutron Design](https://tlpnetwork.com/news/2023/07/rocketlab-updates-neutron-design) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T172524">2023-07-27 17:25:24 UTC</a></sub>
 * [Investing in Space: What to watch for in Q2 earnings reports](https://www.cnbc.com/2023/07/27/investing-in-space-what-to-watch-for-in-q2-earnings-reports.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T165456">2023-07-27 16:54:56 UTC</a></sub>
 * [Northrop Grumman takes $36 million charge on NASA Gateway module](https://spacenews.com/northrop-grumman-takes-36-million-charge-on-nasa-gateway-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T163935">2023-07-27 16:39:35 UTC</a></sub>
 * [NASA and DARPA award contract for Nuclear Rocket Engine](https://www.teslarati.com/nasa-and-darpa-award-contract-for-nuclear-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T152447">2023-07-27 15:24:47 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [L3Harris’ acquisition of Aerojet Rocketdyne nears completion](https://spacenews.com/l3harris-acquisition-of-aerojet-rocketdyne-nears-completion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T231437">2023-07-26 23:14:37 UTC</a></sub>
 * [Geospatial intelligence startup Kleos Space files for bankruptcy](https://spacenews.com/geospatial-intelligence-startup-kleos-space-files-for-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T224547">2023-07-26 22:45:47 UTC</a></sub>
 * [NASA and DARPA select Lockheed Martin to develop DRACO nuclear propulsion demo](https://spacenews.com/nasa-and-darpa-select-lockheed-martin-to-develop-draco-nuclear-propulsion-demo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T214933">2023-07-26 21:49:33 UTC</a></sub>
-* [Space Command nominee: U.S. has to prepare to respond to aggression against satellites](https://spacenews.com/space-command-nominee-u-s-has-to-prepare-to-respond-to-aggression-against-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T214723">2023-07-26 21:47:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T173220">2023-07-27 17:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T180844">2023-07-27 18:08:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
