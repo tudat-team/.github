@@ -570,14 +570,14 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [Rocket Lab’s Neutron undergoes design change](https://www.teslarati.com/rocket-labs-neutron-undergoes-design-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200447">2023-07-27 20:04:47 UTC</a></sub>
 * [NASA Launches Beta Site; On-Demand Streaming, App Update Coming Soon](http://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200400">2023-07-27 20:04:00 UTC</a></sub>
-* [SpaceX aims to break a 56-year rocket record with back-to-back launches](https://www.cnbc.com/2023/07/27/spacex-aims-to-break-nasa-gemini-record-with-falcon-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193626">2023-07-27 19:36:26 UTC</a></sub>
+* [SpaceX came close to breaking a 56-year rocket record with back-to-back launches](https://www.cnbc.com/2023/07/27/spacex-aims-to-break-nasa-gemini-record-with-falcon-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193626">2023-07-27 19:36:26 UTC</a></sub>
 * [ASI to Tap European Startup to Launch Lunar Regolith Oxygen Extractor Mission](https://europeanspaceflight.com/asi-to-tap-european-startup-to-launch-lunar-regolith-oxygen-extractor-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193130">2023-07-27 19:31:30 UTC</a></sub>
+* [Starlink may account for up to 40% of SpaceX’s 2023 revenues](https://spacenews.com/starlink-may-account-for-up-to-40-of-spacexs-2023-revenues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T191028">2023-07-27 19:10:28 UTC</a></sub>
 * [RocketLab Updates Neutron Design](https://tlpnetwork.com/news/2023/07/rocketlab-updates-neutron-design) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T172524">2023-07-27 17:25:24 UTC</a></sub>
 * [Investing in Space: What to watch for in Q2 earnings reports](https://www.cnbc.com/2023/07/27/investing-in-space-what-to-watch-for-in-q2-earnings-reports.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T165456">2023-07-27 16:54:56 UTC</a></sub>
 * [Northrop Grumman takes $36 million charge on NASA Gateway module](https://spacenews.com/northrop-grumman-takes-36-million-charge-on-nasa-gateway-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T163935">2023-07-27 16:39:35 UTC</a></sub>
 * [NASA and DARPA award contract for Nuclear Rocket Engine](https://www.teslarati.com/nasa-and-darpa-award-contract-for-nuclear-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T152447">2023-07-27 15:24:47 UTC</a></sub>
 * [Pair of Chinese launches put flat-panel satellite, new spy sats in orbit](https://spacenews.com/pair-of-chinese-launches-put-flat-panel-satellite-new-spy-sats-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T142210">2023-07-27 14:22:10 UTC</a></sub>
-* [NASA and DARPA Pick Lockheed Martin and BWXT for DRACO](https://spacepolicyonline.com/news/nasa-and-darpa-pick-lockheed-martin-and-bwxt-for-draco/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T035033">2023-07-27 03:50:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T203227">2023-07-27 20:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T210500">2023-07-27 21:05:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
