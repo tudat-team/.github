@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX delays Falcon Heavy, moves forward with Starlink launch](https://www.teslarati.com/spacex-delays-falcon-heavy-moves-forward-with-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224436">2023-07-27 22:44:36 UTC</a></sub>
+* [Argentina es el 28.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/argentina-es-el-28-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224400">2023-07-27 22:44:00 UTC</a></sub>
+* [NASA Welcomes Argentina as Newest Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-argentina-as-newest-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T223400">2023-07-27 22:34:00 UTC</a></sub>
 * [Rocket Lab’s Neutron undergoes design change](https://www.teslarati.com/rocket-labs-neutron-undergoes-design-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200447">2023-07-27 20:04:47 UTC</a></sub>
 * [NASA Launches Beta Site; On-Demand Streaming, App Update Coming Soon](http://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200400">2023-07-27 20:04:00 UTC</a></sub>
 * [SpaceX came close to breaking a 56-year rocket record with back-to-back launches](https://www.cnbc.com/2023/07/27/spacex-aims-to-break-nasa-gemini-record-with-falcon-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193626">2023-07-27 19:36:26 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starlink may account for up to 40% of SpaceX’s 2023 revenues](https://spacenews.com/starlink-may-account-for-up-to-40-of-spacexs-2023-revenues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T191028">2023-07-27 19:10:28 UTC</a></sub>
 * [RocketLab Updates Neutron Design](https://tlpnetwork.com/news/2023/07/rocketlab-updates-neutron-design) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T172524">2023-07-27 17:25:24 UTC</a></sub>
 * [Investing in Space: What to watch for in Q2 earnings reports](https://www.cnbc.com/2023/07/27/investing-in-space-what-to-watch-for-in-q2-earnings-reports.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T165456">2023-07-27 16:54:56 UTC</a></sub>
-* [Northrop Grumman takes $36 million charge on NASA Gateway module](https://spacenews.com/northrop-grumman-takes-36-million-charge-on-nasa-gateway-module/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T163935">2023-07-27 16:39:35 UTC</a></sub>
-* [NASA and DARPA award contract for Nuclear Rocket Engine](https://www.teslarati.com/nasa-and-darpa-award-contract-for-nuclear-rocket-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T152447">2023-07-27 15:24:47 UTC</a></sub>
-* [Pair of Chinese launches put flat-panel satellite, new spy sats in orbit](https://spacenews.com/pair-of-chinese-launches-put-flat-panel-satellite-new-spy-sats-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T142210">2023-07-27 14:22:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T223218">2023-07-27 22:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T230658">2023-07-27 23:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
