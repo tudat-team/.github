@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! NASA Looses Contact With Voyager 2](https://tlpnetwork.com/news/2023/07/nasa-looses-contact-with-voyager-2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T152814">2023-07-28 15:28:14 UTC</a></sub>
 * [Connecting the Dots | The shifting landscape for satellite capacity wholesalers](https://spacenews.com/connecting-the-dots-the-shifting-landscape-for-satellite-capacity-wholesalers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143218">2023-07-28 14:32:18 UTC</a></sub>
 * [Eutelsat expects to return to growth next year with OneWeb](https://spacenews.com/eutelsat-expects-to-return-to-growth-next-year-with-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T142903">2023-07-28 14:29:03 UTC</a></sub>
 * [SpaceX launches 50th mission of the year](https://www.teslarati.com/spacex-launches-50th-mission-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T142443">2023-07-28 14:24:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX delays Falcon Heavy, moves forward with Starlink launch](https://www.teslarati.com/spacex-delays-falcon-heavy-moves-forward-with-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224436">2023-07-27 22:44:36 UTC</a></sub>
 * [Argentina es el 28.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/argentina-es-el-28-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224400">2023-07-27 22:44:00 UTC</a></sub>
 * [NASA Welcomes Argentina as Newest Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-argentina-as-newest-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T223400">2023-07-27 22:34:00 UTC</a></sub>
-* [Rocket Lab’s Neutron undergoes design change](https://www.teslarati.com/rocket-labs-neutron-undergoes-design-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200447">2023-07-27 20:04:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T153233">2023-07-28 15:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T160913">2023-07-28 16:09:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
