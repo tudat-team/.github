@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA has concerns about a third competitor in national security space launch](https://spacenews.com/ula-has-concerns-about-a-third-competitor-in-national-security-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T191315">2023-07-28 19:13:15 UTC</a></sub>
 * [Aerojet Rocketdyne officially becomes part of L3Harris](https://spacenews.com/aerojet-rocketdyne-officially-becomes-part-of-l3harris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T175344">2023-07-28 17:53:44 UTC</a></sub>
 * [BREAKING! STARSHIP IFT-1 Launch WB-57 Footage Released ](https://tlpnetwork.com/news/2023/07/starship-ift-1-launch-wb57-footage-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T164135">2023-07-28 16:41:35 UTC</a></sub>
 * [NASA temporarily loses contact with one of its most distant spacecraft](https://arstechnica.com/space/2023/07/nasa-temporarily-loses-contact-with-one-of-its-most-distant-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T162447">2023-07-28 16:24:47 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches 50th mission of the year](https://www.teslarati.com/spacex-launches-50th-mission-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T142443">2023-07-28 14:24:43 UTC</a></sub>
 * [NASA Invites Media to See Recovery Craft for Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-invites-media-to-see-recovery-craft-for-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T141400">2023-07-28 14:14:00 UTC</a></sub>
 * [Argentina signs Artemis Accords](https://spacenews.com/argentina-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T024318">2023-07-28 02:43:18 UTC</a></sub>
-* [Next NASA New Frontiers mission could face extended delay](https://spacenews.com/next-nasa-new-frontiers-mission-could-face-extended-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T234348">2023-07-27 23:43:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T193221">2023-07-28 19:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T200732">2023-07-28 20:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
