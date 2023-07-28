@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DEVELOPING STORY: ESA DeOrbits Aeolus Spacecraft, Concluding 5 Year Mission ](https://tlpnetwork.com/news/2023/07/esa-deorbits-aeolus-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T213500">2023-07-28 21:35:00 UTC</a></sub>
+* [Sierra Space wins Air Force contract for upper-stage engine development](https://spacenews.com/sierra-space-wins-air-force-contract-for-upper-stage-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T212920">2023-07-28 21:29:20 UTC</a></sub>
+* [L3Harris Acquires Aerojet Rocketdyne](https://tlpnetwork.com/news/2023/07/l3harris-acquires-aerojet-rocketdyne) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T212330">2023-07-28 21:23:30 UTC</a></sub>
+* [Argentina 28th Country To Sign Artemis Accords](https://tlpnetwork.com/news/2023/07/argentina-signs-artemis-accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T211059">2023-07-28 21:10:59 UTC</a></sub>
 * [NASA Awards Administrative & Technical Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-administrative-technical-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T201400">2023-07-28 20:14:00 UTC</a></sub>
 * [ULA has concerns about a third competitor in national security space launch](https://spacenews.com/ula-has-concerns-about-a-third-competitor-in-national-security-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T191315">2023-07-28 19:13:15 UTC</a></sub>
 * [Aerojet Rocketdyne officially becomes part of L3Harris](https://spacenews.com/aerojet-rocketdyne-officially-becomes-part-of-l3harris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T175344">2023-07-28 17:53:44 UTC</a></sub>
 * [BREAKING! STARSHIP IFT-1 Launch WB-57 Footage Released ](https://tlpnetwork.com/news/2023/07/starship-ift-1-launch-wb57-footage-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T164135">2023-07-28 16:41:35 UTC</a></sub>
 * [NASA temporarily loses contact with one of its most distant spacecraft](https://arstechnica.com/space/2023/07/nasa-temporarily-loses-contact-with-one-of-its-most-distant-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T162447">2023-07-28 16:24:47 UTC</a></sub>
 * [BREAKING! NASA Looses Contact With Voyager 2](https://tlpnetwork.com/news/2023/07/nasa-looses-contact-with-voyager-2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T152814">2023-07-28 15:28:14 UTC</a></sub>
-* [Connecting the Dots | The shifting landscape for satellite capacity wholesalers](https://spacenews.com/connecting-the-dots-the-shifting-landscape-for-satellite-capacity-wholesalers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143218">2023-07-28 14:32:18 UTC</a></sub>
-* [Eutelsat expects to return to growth next year with OneWeb](https://spacenews.com/eutelsat-expects-to-return-to-growth-next-year-with-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T142903">2023-07-28 14:29:03 UTC</a></sub>
-* [SpaceX launches 50th mission of the year](https://www.teslarati.com/spacex-launches-50th-mission-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T142443">2023-07-28 14:24:43 UTC</a></sub>
-* [NASA Invites Media to See Recovery Craft for Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-invites-media-to-see-recovery-craft-for-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T141400">2023-07-28 14:14:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T213216">2023-07-28 21:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T220643">2023-07-28 22:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
