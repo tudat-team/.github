@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Connecting the Dots | The shifting landscape for satellite capacity wholesalers](https://spacenews.com/connecting-the-dots-the-shifting-landscape-for-satellite-capacity-wholesalers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143218">2023-07-28 14:32:18 UTC</a></sub>
+* [Eutelsat expects to return to growth next year with OneWeb](https://spacenews.com/eutelsat-expects-to-return-to-growth-next-year-with-oneweb/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T142903">2023-07-28 14:29:03 UTC</a></sub>
+* [SpaceX launches 50th mission of the year](https://www.teslarati.com/spacex-launches-50th-mission-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T142443">2023-07-28 14:24:43 UTC</a></sub>
+* [NASA Invites Media to See Recovery Craft for Artemis Moon Mission](http://www.nasa.gov/press-release/nasa-invites-media-to-see-recovery-craft-for-artemis-moon-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T141400">2023-07-28 14:14:00 UTC</a></sub>
 * [Argentina signs Artemis Accords](https://spacenews.com/argentina-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T024318">2023-07-28 02:43:18 UTC</a></sub>
 * [Next NASA New Frontiers mission could face extended delay](https://spacenews.com/next-nasa-new-frontiers-mission-could-face-extended-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T234348">2023-07-27 23:43:48 UTC</a></sub>
 * [SpaceX delays Falcon Heavy, moves forward with Starlink launch](https://www.teslarati.com/spacex-delays-falcon-heavy-moves-forward-with-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224436">2023-07-27 22:44:36 UTC</a></sub>
 * [Argentina es el 28.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/argentina-es-el-28-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224400">2023-07-27 22:44:00 UTC</a></sub>
 * [NASA Welcomes Argentina as Newest Artemis Accords Signatory](http://www.nasa.gov/press-release/nasa-welcomes-argentina-as-newest-artemis-accords-signatory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T223400">2023-07-27 22:34:00 UTC</a></sub>
 * [Rocket Lab’s Neutron undergoes design change](https://www.teslarati.com/rocket-labs-neutron-undergoes-design-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200447">2023-07-27 20:04:47 UTC</a></sub>
-* [NASA Launches Beta Site; On-Demand Streaming, App Update Coming Soon](http://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200400">2023-07-27 20:04:00 UTC</a></sub>
-* [SpaceX came close to breaking a 56-year rocket record with back-to-back launches](https://www.cnbc.com/2023/07/27/spacex-aims-to-break-nasa-gemini-record-with-falcon-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193626">2023-07-27 19:36:26 UTC</a></sub>
-* [ASI to Tap European Startup to Launch Lunar Regolith Oxygen Extractor Mission](https://europeanspaceflight.com/asi-to-tap-european-startup-to-launch-lunar-regolith-oxygen-extractor-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193130">2023-07-27 19:31:30 UTC</a></sub>
-* [Starlink may account for up to 40% of SpaceX’s 2023 revenues](https://spacenews.com/starlink-may-account-for-up-to-40-of-spacexs-2023-revenues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T191028">2023-07-27 19:10:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Aquatic equivalencies](https://www.planetary.org/the-downlink/aquatic-equivalencies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143446">2023-07-28 14:34:46 UTC</a></sub>
+* [Life on Venus: Your Questions Answered](https://www.planetary.org/articles/life-on-venus-your-questions-answered) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143444">2023-07-28 14:34:44 UTC</a></sub>
 * [The time Europe tried to copy Energia](https://europeanspaceflight.substack.com/p/the-time-europe-tried-to-copy-energia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T133059">2023-07-28 13:30:59 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 17-23, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-17-23-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T144400">2023-07-24 14:44:00 UTC</a></sub>
 * [How can Thales use Space Rider IP for Rev-1?](https://europeanspaceflight.substack.com/p/how-can-thales-use-space-rider-ip) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T133843">2023-07-24 13:38:43 UTC</a></sub>
@@ -596,8 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: July 3-16, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-3-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T144253">2023-07-17 14:42:53 UTC</a></sub>
 * [A little Boost! goes a long way](https://europeanspaceflight.substack.com/p/a-little-boost-goes-a-long-way) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T143812">2023-07-17 14:38:12 UTC</a></sub>
 * [Speedy spacecraft and pretty pics](https://www.planetary.org/the-downlink/speedy-spacecraft-and-pretty-pics) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T143435">2023-07-14 14:34:35 UTC</a></sub>
-* [Chandrayaan-3, India's Moon lander and rover](https://www.planetary.org/space-missions/chandrayaan-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T150435">2023-07-10 15:04:35 UTC</a></sub>
-* [What will become of the German North Sea floating launch site?](https://europeanspaceflight.substack.com/p/what-will-become-of-the-german-north) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T142211">2023-07-10 14:22:11 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143219">2023-07-28 14:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T150750">2023-07-28 15:07:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
