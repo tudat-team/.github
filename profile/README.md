@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Argentina signs Artemis Accords](https://spacenews.com/argentina-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T024318">2023-07-28 02:43:18 UTC</a></sub>
 * [Next NASA New Frontiers mission could face extended delay](https://spacenews.com/next-nasa-new-frontiers-mission-could-face-extended-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T234348">2023-07-27 23:43:48 UTC</a></sub>
 * [SpaceX delays Falcon Heavy, moves forward with Starlink launch](https://www.teslarati.com/spacex-delays-falcon-heavy-moves-forward-with-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224436">2023-07-27 22:44:36 UTC</a></sub>
 * [Argentina es el 28.º signatario de los Acuerdos de Artemis](http://www.nasa.gov/press-release/argentina-es-el-28-signatario-de-los-acuerdos-de-artemis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T224400">2023-07-27 22:44:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX came close to breaking a 56-year rocket record with back-to-back launches](https://www.cnbc.com/2023/07/27/spacex-aims-to-break-nasa-gemini-record-with-falcon-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193626">2023-07-27 19:36:26 UTC</a></sub>
 * [ASI to Tap European Startup to Launch Lunar Regolith Oxygen Extractor Mission](https://europeanspaceflight.com/asi-to-tap-european-startup-to-launch-lunar-regolith-oxygen-extractor-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193130">2023-07-27 19:31:30 UTC</a></sub>
 * [Starlink may account for up to 40% of SpaceX’s 2023 revenues](https://spacenews.com/starlink-may-account-for-up-to-40-of-spacexs-2023-revenues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T191028">2023-07-27 19:10:28 UTC</a></sub>
-* [RocketLab Updates Neutron Design](https://tlpnetwork.com/news/2023/07/rocketlab-updates-neutron-design) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T172524">2023-07-27 17:25:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T030721">2023-07-28 03:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T033220">2023-07-28 03:32:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
