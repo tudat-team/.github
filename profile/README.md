@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The time Europe tried to copy Energia](https://europeanspaceflight.substack.com/p/the-time-europe-tried-to-copy-energia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T133059">2023-07-28 13:30:59 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 17-23, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-17-23-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T144400">2023-07-24 14:44:00 UTC</a></sub>
 * [How can Thales use Space Rider IP for Rev-1?](https://europeanspaceflight.substack.com/p/how-can-thales-use-space-rider-ip) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T133843">2023-07-24 13:38:43 UTC</a></sub>
 * [That’s a mare](https://www.planetary.org/the-downlink/thats-a-mare) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T143436">2023-07-21 14:34:36 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Speedy spacecraft and pretty pics](https://www.planetary.org/the-downlink/speedy-spacecraft-and-pretty-pics) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T143435">2023-07-14 14:34:35 UTC</a></sub>
 * [Chandrayaan-3, India's Moon lander and rover](https://www.planetary.org/space-missions/chandrayaan-3) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T150435">2023-07-10 15:04:35 UTC</a></sub>
 * [What will become of the German North Sea floating launch site?](https://europeanspaceflight.substack.com/p/what-will-become-of-the-german-north) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T142211">2023-07-10 14:22:11 UTC</a></sub>
-* [Advocacy Action Center](https://www.planetary.org/advocacy-action-center) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T115436">2023-07-10 11:54:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T133215">2023-07-28 13:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T140703">2023-07-28 14:07:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
