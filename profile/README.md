@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Falcon Heavy sends Jupiter-3 broadband giant toward geostationary orbit](https://spacenews.com/falcon-heavy-sends-jupiter-3-broadband-giant-toward-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T074855">2023-07-29 07:48:55 UTC</a></sub>
 * [DEVELOPING STORY: ESA DeOrbits Aeolus Spacecraft, Concluding 5 Year Mission ](https://tlpnetwork.com/news/2023/07/esa-deorbits-aeolus-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T213500">2023-07-28 21:35:00 UTC</a></sub>
 * [Sierra Space wins Air Force contract for upper-stage engine development](https://spacenews.com/sierra-space-wins-air-force-contract-for-upper-stage-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T212920">2023-07-28 21:29:20 UTC</a></sub>
 * [L3Harris Acquires Aerojet Rocketdyne](https://tlpnetwork.com/news/2023/07/l3harris-acquires-aerojet-rocketdyne) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T212330">2023-07-28 21:23:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Aerojet Rocketdyne officially becomes part of L3Harris](https://spacenews.com/aerojet-rocketdyne-officially-becomes-part-of-l3harris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T175344">2023-07-28 17:53:44 UTC</a></sub>
 * [STARSHIP IFT-1 Launch WB-57 Footage Released ](https://tlpnetwork.com/news/2023/07/starship-ift-1-launch-wb57-footage-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T164135">2023-07-28 16:41:35 UTC</a></sub>
 * [NASA temporarily loses contact with one of its most distant spacecraft](https://arstechnica.com/space/2023/07/nasa-temporarily-loses-contact-with-one-of-its-most-distant-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T162447">2023-07-28 16:24:47 UTC</a></sub>
-* [NASA Looses Contact With Voyager 2](https://tlpnetwork.com/news/2023/07/nasa-looses-contact-with-voyager-2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T152814">2023-07-28 15:28:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T073213">2023-07-29 07:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T080801">2023-07-29 08:08:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
