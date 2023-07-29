@@ -575,7 +575,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Awards Administrative & Technical Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-administrative-technical-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T201400">2023-07-28 20:14:00 UTC</a></sub>
 * [ULA has concerns about a third competitor in national security space launch](https://spacenews.com/ula-has-concerns-about-a-third-competitor-in-national-security-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T191315">2023-07-28 19:13:15 UTC</a></sub>
 * [Aerojet Rocketdyne officially becomes part of L3Harris](https://spacenews.com/aerojet-rocketdyne-officially-becomes-part-of-l3harris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T175344">2023-07-28 17:53:44 UTC</a></sub>
-* [BREAKING! STARSHIP IFT-1 Launch WB-57 Footage Released ](https://tlpnetwork.com/news/2023/07/starship-ift-1-launch-wb57-footage-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T164135">2023-07-28 16:41:35 UTC</a></sub>
+* [STARSHIP IFT-1 Launch WB-57 Footage Released ](https://tlpnetwork.com/news/2023/07/starship-ift-1-launch-wb57-footage-released) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T164135">2023-07-28 16:41:35 UTC</a></sub>
 * [NASA temporarily loses contact with one of its most distant spacecraft](https://arstechnica.com/space/2023/07/nasa-temporarily-loses-contact-with-one-of-its-most-distant-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T162447">2023-07-28 16:24:47 UTC</a></sub>
 * [NASA Looses Contact With Voyager 2](https://tlpnetwork.com/news/2023/07/nasa-looses-contact-with-voyager-2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T152814">2023-07-28 15:28:14 UTC</a></sub>
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T043217">2023-07-29 04:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T050641">2023-07-29 05:06:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
