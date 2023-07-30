@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew Dragon, Soyuz missions set for launches to ISS](https://spacenews.com/crew-dragon-soyuz-missions-set-for-launches-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T181625">2023-07-30 18:16:25 UTC</a></sub>
 * [What’s Happening in Space Policy July 30-August 5, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-30-august-5-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T151238">2023-07-30 15:12:38 UTC</a></sub>
 * [India launches seven satellites on PSLV rocket](https://spacenews.com/india-launches-seven-satellites-on-pslv-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T134914">2023-07-30 13:49:14 UTC</a></sub>
 * [Congress Leaves for Summer Break With Long To-Do List When They Return](https://spacepolicyonline.com/news/congress-leaves-for-summer-break-with-long-to-do-list-when-they-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T215026">2023-07-29 21:50:26 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [L3Harris Acquires Aerojet Rocketdyne](https://tlpnetwork.com/news/2023/07/l3harris-acquires-aerojet-rocketdyne) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T212330">2023-07-28 21:23:30 UTC</a></sub>
 * [Argentina 28th Country To Sign Artemis Accords](https://tlpnetwork.com/news/2023/07/argentina-signs-artemis-accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T211059">2023-07-28 21:10:59 UTC</a></sub>
 * [NASA Awards Administrative & Technical Support Services Contract](http://www.nasa.gov/press-release/nasa-awards-administrative-technical-support-services-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T201400">2023-07-28 20:14:00 UTC</a></sub>
-* [ULA has concerns about a third competitor in national security space launch](https://spacenews.com/ula-has-concerns-about-a-third-competitor-in-national-security-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T191315">2023-07-28 19:13:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T183224">2023-07-30 18:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T190455">2023-07-30 19:04:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
