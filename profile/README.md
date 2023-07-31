@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components](https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T174226">2023-07-31 17:42:26 UTC</a></sub>
+* [KBR wins Air Force Research Lab contract to study non-traditional orbits](https://spacenews.com/kbr-wins-air-force-research-lab-contract-to-study-non-traditional-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T173522">2023-07-31 17:35:22 UTC</a></sub>
+* [US Senate Cuts Space Force Budget With Defense Bill Approval](https://tlpnetwork.com/news/2023/07/us-senate-cuts-space-force-budget-with-defense-bill-approval) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T170151">2023-07-31 17:01:51 UTC</a></sub>
 * [Europe turns its new $1.5 billion space telescope on, and happily it works](https://arstechnica.com/space/2023/07/europe-turns-its-new-1-5-billion-space-telescope-on-and-happily-it-works/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T165028">2023-07-31 16:50:28 UTC</a></sub>
 * [Redwire Hires Veteran Aerospace Executive as Senior VP](https://tlpnetwork.com/news/2023/07/redwire-hired-veteran-aerospace-executive-as-senior-vp) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T164409">2023-07-31 16:44:09 UTC</a></sub>
 * [Space Force programs get trimmed in Senate appropriations bill](https://spacenews.com/space-force-programs-get-trimmed-in-senate-appropriations-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T162344">2023-07-31 16:23:44 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Airs Coverage of Space Station Research, Development Conference](http://www.nasa.gov/press-release/nasa-airs-coverage-of-space-station-research-development-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T153200">2023-07-31 15:32:00 UTC</a></sub>
 * [Scientists, using Webb, discover water vapor within a planet-forming disk](https://www.nasaspaceflight.com/2023/07/pds70-water/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T192353">2023-07-30 19:23:53 UTC</a></sub>
 * [Crew Dragon, Soyuz missions set for launches to ISS](https://spacenews.com/crew-dragon-soyuz-missions-set-for-launches-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T181625">2023-07-30 18:16:25 UTC</a></sub>
-* [What’s Happening in Space Policy July 30-August 5, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-30-august-5-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T151238">2023-07-30 15:12:38 UTC</a></sub>
-* [India launches seven satellites on PSLV rocket](https://spacenews.com/india-launches-seven-satellites-on-pslv-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T134914">2023-07-30 13:49:14 UTC</a></sub>
-* [Congress Leaves for Summer Break With Long To-Do List When They Return](https://spacepolicyonline.com/news/congress-leaves-for-summer-break-with-long-to-do-list-when-they-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T215026">2023-07-29 21:50:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T173225">2023-07-31 17:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T180916">2023-07-31 18:09:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
