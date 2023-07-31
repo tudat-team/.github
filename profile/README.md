@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Will ESA finally land on Mars?](https://europeanspaceflight.substack.com/p/will-esa-finally-land-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T134349">2023-07-31 13:43:49 UTC</a></sub>
 * [Aquatic equivalencies](https://www.planetary.org/the-downlink/aquatic-equivalencies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143446">2023-07-28 14:34:46 UTC</a></sub>
 * [Life on Venus: Your Questions Answered](https://www.planetary.org/articles/life-on-venus-your-questions-answered) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143444">2023-07-28 14:34:44 UTC</a></sub>
 * [The time Europe tried to copy Energia](https://europeanspaceflight.substack.com/p/the-time-europe-tried-to-copy-energia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T133059">2023-07-28 13:30:59 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The U.S. Senate threatens to cancel Mars Sample Return](https://www.planetary.org/articles/the-senate-threatens-to-cancel-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T133439">2023-07-19 13:34:39 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 3-16, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-3-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T144253">2023-07-17 14:42:53 UTC</a></sub>
 * [A little Boost! goes a long way](https://europeanspaceflight.substack.com/p/a-little-boost-goes-a-long-way) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T143812">2023-07-17 14:38:12 UTC</a></sub>
-* [Speedy spacecraft and pretty pics](https://www.planetary.org/the-downlink/speedy-spacecraft-and-pretty-pics) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T143435">2023-07-14 14:34:35 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T133235">2023-07-31 13:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T140746">2023-07-31 14:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
