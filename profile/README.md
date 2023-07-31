@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Command headquarters to remain in Colorado](https://spacenews.com/u-s-space-command-headquarters-to-remain-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T210011">2023-07-31 21:00:11 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch Galaxy 37; China to launch FY-3F](https://www.nasaspaceflight.com/2023/07/launch-roundup-spacex-galaxy-37-china-fy-3f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T194604">2023-07-31 19:46:04 UTC</a></sub>
 * [NASA, Boeing to Provide Progress Update on Starliner Crew Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-provide-progress-update-on-starliner-crew-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T190200">2023-07-31 19:02:00 UTC</a></sub>
 * [SpaceX aces Falcon Heavy launch](https://www.teslarati.com/spacex-aces-falcon-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T182208">2023-07-31 18:22:08 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [US Senate Cuts Space Force Budget With Defense Bill Approval](https://tlpnetwork.com/news/2023/07/us-senate-cuts-space-force-budget-with-defense-bill-approval) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T170151">2023-07-31 17:01:51 UTC</a></sub>
 * [Europe turns its new $1.5 billion space telescope on, and happily it works](https://arstechnica.com/space/2023/07/europe-turns-its-new-1-5-billion-space-telescope-on-and-happily-it-works/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T165028">2023-07-31 16:50:28 UTC</a></sub>
 * [Redwire Hires Veteran Aerospace Executive as Senior VP](https://tlpnetwork.com/news/2023/07/redwire-hired-veteran-aerospace-executive-as-senior-vp) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T164409">2023-07-31 16:44:09 UTC</a></sub>
-* [Space Force programs get trimmed in Senate appropriations bill](https://spacenews.com/space-force-programs-get-trimmed-in-senate-appropriations-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T162344">2023-07-31 16:23:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T203241">2023-07-31 20:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T210651">2023-07-31 21:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
