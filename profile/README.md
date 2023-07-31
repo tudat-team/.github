@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EUCLID Telescope Captures First Images](https://tlpnetwork.com/news/2023/07/euclid-teleschope-captures-first-images) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T153221">2023-07-31 15:32:21 UTC</a></sub>
+* [NASA Airs Coverage of Space Station Research, Development Conference](http://www.nasa.gov/press-release/nasa-airs-coverage-of-space-station-research-development-conference) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T153200">2023-07-31 15:32:00 UTC</a></sub>
 * [Scientists, using Webb, discover water vapor within a planet-forming disk](https://www.nasaspaceflight.com/2023/07/pds70-water/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T192353">2023-07-30 19:23:53 UTC</a></sub>
 * [Crew Dragon, Soyuz missions set for launches to ISS](https://spacenews.com/crew-dragon-soyuz-missions-set-for-launches-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T181625">2023-07-30 18:16:25 UTC</a></sub>
 * [What’s Happening in Space Policy July 30-August 5, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-30-august-5-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T151238">2023-07-30 15:12:38 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Falcon Heavy sends Jupiter-3 broadband giant toward geostationary orbit](https://spacenews.com/falcon-heavy-sends-jupiter-3-broadband-giant-toward-geostationary-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T074855">2023-07-29 07:48:55 UTC</a></sub>
 * [ESA DeOrbits Aeolus Spacecraft, Concluding 5 Year Mission ](https://tlpnetwork.com/news/2023/07/esa-deorbits-aeolus-spacecraft) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T213500">2023-07-28 21:35:00 UTC</a></sub>
 * [Sierra Space wins Air Force contract for upper-stage engine development](https://spacenews.com/sierra-space-wins-air-force-contract-for-upper-stage-engine-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T212920">2023-07-28 21:29:20 UTC</a></sub>
-* [L3Harris Acquires Aerojet Rocketdyne](https://tlpnetwork.com/news/2023/07/l3harris-acquires-aerojet-rocketdyne) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T212330">2023-07-28 21:23:30 UTC</a></sub>
-* [Argentina 28th Country To Sign Artemis Accords](https://tlpnetwork.com/news/2023/07/argentina-signs-artemis-accords) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T211059">2023-07-28 21:10:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T153243">2023-07-31 15:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T161000">2023-07-31 16:10:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
