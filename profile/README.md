@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Antares 230+ farewell launch to fly S.S. Laurel Clark to ISS](https://www.nasaspaceflight.com/2023/08/antares-230-farewell-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T155008">2023-08-01 15:50:08 UTC</a></sub>
 * [Antares prepares to fly its last mission using Russian and Ukrainian parts](https://tlpnetwork.com/news/2023/08/antares_launches_final_russian_parts_configuration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T141100">2023-08-01 14:11:00 UTC</a></sub>
 * [Senate committee advances orbital debris removal bill](https://spacenews.com/senate-committee-advances-orbital-debris-removal-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T115530">2023-08-01 11:55:30 UTC</a></sub>
 * [Planet lays off about 10% of workforce as satellite imagery company restructures](https://www.cnbc.com/2023/08/01/planet-pl-lays-off-about-10percent-company-restructures.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T110015">2023-08-01 11:00:15 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA, Boeing to Provide Progress Update on Starliner Crew Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-provide-progress-update-on-starliner-crew-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T190200">2023-07-31 19:02:00 UTC</a></sub>
 * [SpaceX aces Falcon Heavy launch](https://www.teslarati.com/spacex-aces-falcon-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T182208">2023-07-31 18:22:08 UTC</a></sub>
 * [NASA Mars Ascent Vehicle Continues Progress Toward Mars Sample Return](https://mars.nasa.gov/news/9448/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T182200">2023-07-31 18:22:00 UTC</a></sub>
-* [Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components](https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T174226">2023-07-31 17:42:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T153232">2023-08-01 15:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T160927">2023-08-01 16:09:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
