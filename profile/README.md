@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrup Grumman’s Antares set for its swan song launch](https://www.teslarati.com/northrup-grumman-antares-swan-song-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T163205">2023-08-01 16:32:05 UTC</a></sub>
 * [Antares 230+ farewell launch to fly S.S. Laurel Clark to ISS](https://www.nasaspaceflight.com/2023/08/antares-230-farewell-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T155008">2023-08-01 15:50:08 UTC</a></sub>
 * [Antares prepares to fly its last mission using Russian and Ukrainian parts](https://tlpnetwork.com/news/2023/08/antares_launches_final_russian_parts_configuration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T141100">2023-08-01 14:11:00 UTC</a></sub>
 * [Senate committee advances orbital debris removal bill](https://spacenews.com/senate-committee-advances-orbital-debris-removal-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T115530">2023-08-01 11:55:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launch Roundup: SpaceX to launch Galaxy 37; China to launch FY-3F](https://www.nasaspaceflight.com/2023/07/launch-roundup-spacex-galaxy-37-china-fy-3f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T194604">2023-07-31 19:46:04 UTC</a></sub>
 * [NASA, Boeing to Provide Progress Update on Starliner Crew Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-provide-progress-update-on-starliner-crew-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T190200">2023-07-31 19:02:00 UTC</a></sub>
 * [SpaceX aces Falcon Heavy launch](https://www.teslarati.com/spacex-aces-falcon-heavy-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T182208">2023-07-31 18:22:08 UTC</a></sub>
-* [NASA Mars Ascent Vehicle Continues Progress Toward Mars Sample Return](https://mars.nasa.gov/news/9448/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T182200">2023-07-31 18:22:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T163457">2023-08-01 16:34:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T170625">2023-08-01 17:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
