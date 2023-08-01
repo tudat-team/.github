@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic banks $2 million in quarterly revenue after first commercial spaceflight](https://www.cnbc.com/2023/08/01/virgin-galactic-spce-q2-2023-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T204118">2023-08-01 20:41:18 UTC</a></sub>
+* [The Atlantic is frying, but so far hurricanes are dying. What’s going on?](https://arstechnica.com/science/2023/08/the-atlantic-is-frying-but-so-far-hurricanes-are-dying-whats-going-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T203216">2023-08-01 20:32:16 UTC</a></sub>
+* [Mulholland Urges Vocal Advocacy for ISS Amid Budget Gloom](https://spacepolicyonline.com/news/mulholland-urges-vocal-advocacy-for-iss-amid-budget-gloom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T202030">2023-08-01 20:20:30 UTC</a></sub>
+* [Boeing’s Mulholland Urges Vocal Advocacy for ISS Amid Budget Gloom](https://spacepolicyonline.com/news/boeings-mulholland-urges-vocal-advocacy-for-iss-amid-budget-gloom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T202030">2023-08-01 20:20:30 UTC</a></sub>
 * [Join NASA Administrator, Artemis II Moon Crew for Mission Update](http://www.nasa.gov/press-release/join-nasa-administrator-artemis-ii-moon-crew-for-mission-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T192200">2023-08-01 19:22:00 UTC</a></sub>
 * [Astro Digital to integrate Astroscale in-orbit servicing docking plates](https://spacenews.com/astro-digital-to-integrate-astroscale-in-orbit-servicing-docking-plates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T180617">2023-08-01 18:06:17 UTC</a></sub>
 * [Northrup Grumman’s Antares set for its swan song launch](https://www.teslarati.com/northrup-grumman-antares-swan-song-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T163205">2023-08-01 16:32:05 UTC</a></sub>
 * [Antares 230+ farewell launch to fly S.S. Laurel Clark to ISS](https://www.nasaspaceflight.com/2023/08/antares-230-farewell-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T155008">2023-08-01 15:50:08 UTC</a></sub>
 * [Antares prepares to fly its last mission using Russian and Ukrainian parts](https://tlpnetwork.com/news/2023/08/antares_launches_final_russian_parts_configuration) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T141100">2023-08-01 14:11:00 UTC</a></sub>
 * [Senate committee advances orbital debris removal bill](https://spacenews.com/senate-committee-advances-orbital-debris-removal-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T115530">2023-08-01 11:55:30 UTC</a></sub>
-* [Planet lays off about 10% of workforce as satellite imagery company restructures](https://www.cnbc.com/2023/08/01/planet-pl-lays-off-about-10percent-company-restructures.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T110015">2023-08-01 11:00:15 UTC</a></sub>
-* [Rocket Lab’s Electron faces rare last second abort](https://www.teslarati.com/rocket-labs-electron-faces-rare-last-second-abort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T211205">2023-07-31 21:12:05 UTC</a></sub>
-* [U.S. Space Command headquarters to remain in Colorado](https://spacenews.com/u-s-space-command-headquarters-to-remain-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T210011">2023-07-31 21:00:11 UTC</a></sub>
-* [Launch Roundup: SpaceX to launch Galaxy 37; China to launch FY-3F](https://www.nasaspaceflight.com/2023/07/launch-roundup-spacex-galaxy-37-china-fy-3f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T194604">2023-07-31 19:46:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T203222">2023-08-01 20:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T210642">2023-08-01 21:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
