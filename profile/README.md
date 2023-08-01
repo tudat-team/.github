@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Senate committee advances orbital debris removal bill](https://spacenews.com/senate-committee-advances-orbital-debris-removal-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T115530">2023-08-01 11:55:30 UTC</a></sub>
+* [Planet lays off about 10% of workforce as satellite imagery company restructures](https://www.cnbc.com/2023/08/01/planet-pl-lays-off-about-10percent-company-restructures.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T110015">2023-08-01 11:00:15 UTC</a></sub>
 * [Rocket Lab’s Electron faces rare last second abort](https://www.teslarati.com/rocket-labs-electron-faces-rare-last-second-abort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T211205">2023-07-31 21:12:05 UTC</a></sub>
 * [U.S. Space Command headquarters to remain in Colorado](https://spacenews.com/u-s-space-command-headquarters-to-remain-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T210011">2023-07-31 21:00:11 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch Galaxy 37; China to launch FY-3F](https://www.nasaspaceflight.com/2023/07/launch-roundup-spacex-galaxy-37-china-fy-3f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T194604">2023-07-31 19:46:04 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Mars Ascent Vehicle Continues Progress Toward Mars Sample Return](https://mars.nasa.gov/news/9448/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T182200">2023-07-31 18:22:00 UTC</a></sub>
 * [Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components](https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T174226">2023-07-31 17:42:26 UTC</a></sub>
 * [KBR wins Air Force Research Lab contract to study non-traditional orbits](https://spacenews.com/kbr-wins-air-force-research-lab-contract-to-study-non-traditional-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T173522">2023-07-31 17:35:22 UTC</a></sub>
-* [US Senate Cuts Space Force Budget With Defense Bill Approval](https://tlpnetwork.com/news/2023/07/us-senate-cuts-space-force-budget-with-defense-bill-approval) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T170151">2023-07-31 17:01:51 UTC</a></sub>
-* [Europe turns its new $1.5 billion space telescope on, and happily it works](https://arstechnica.com/space/2023/07/europe-turns-its-new-1-5-billion-space-telescope-on-and-happily-it-works/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T165028">2023-07-31 16:50:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T113227">2023-08-01 11:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T121342">2023-08-01 12:13:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
