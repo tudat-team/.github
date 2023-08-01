@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Join NASA Administrator, Artemis II Moon Crew for Mission Update](http://www.nasa.gov/press-release/join-nasa-administrator-artemis-ii-moon-crew-for-mission-update) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T192200">2023-08-01 19:22:00 UTC</a></sub>
 * [Astro Digital to integrate Astroscale in-orbit servicing docking plates](https://spacenews.com/astro-digital-to-integrate-astroscale-in-orbit-servicing-docking-plates/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T180617">2023-08-01 18:06:17 UTC</a></sub>
 * [Northrup Grumman’s Antares set for its swan song launch](https://www.teslarati.com/northrup-grumman-antares-swan-song-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T163205">2023-08-01 16:32:05 UTC</a></sub>
 * [Antares 230+ farewell launch to fly S.S. Laurel Clark to ISS](https://www.nasaspaceflight.com/2023/08/antares-230-farewell-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T155008">2023-08-01 15:50:08 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab’s Electron faces rare last second abort](https://www.teslarati.com/rocket-labs-electron-faces-rare-last-second-abort/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T211205">2023-07-31 21:12:05 UTC</a></sub>
 * [U.S. Space Command headquarters to remain in Colorado](https://spacenews.com/u-s-space-command-headquarters-to-remain-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T210011">2023-07-31 21:00:11 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch Galaxy 37; China to launch FY-3F](https://www.nasaspaceflight.com/2023/07/launch-roundup-spacex-galaxy-37-china-fy-3f/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T194604">2023-07-31 19:46:04 UTC</a></sub>
-* [NASA, Boeing to Provide Progress Update on Starliner Crew Flight Test](http://www.nasa.gov/press-release/nasa-boeing-to-provide-progress-update-on-starliner-crew-flight-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T190200">2023-07-31 19:02:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T193209">2023-08-01 19:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T200740">2023-08-01 20:07:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
