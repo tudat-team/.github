@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SILENTBARKER: Atlas V stacked for national security launch](https://blog.ulalaunch.com/blog/silentbarker-atlas-v-stacked-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T144215">2023-08-02 14:42:15 UTC</a></sub>
 * [Will ESA finally land on Mars?](https://europeanspaceflight.substack.com/p/will-esa-finally-land-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T134349">2023-07-31 13:43:49 UTC</a></sub>
 * [Aquatic equivalencies](https://www.planetary.org/the-downlink/aquatic-equivalencies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143446">2023-07-28 14:34:46 UTC</a></sub>
 * [Life on Venus: Your Questions Answered](https://www.planetary.org/articles/life-on-venus-your-questions-answered) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143444">2023-07-28 14:34:44 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [That’s a mare](https://www.planetary.org/the-downlink/thats-a-mare) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T143436">2023-07-21 14:34:36 UTC</a></sub>
 * [The U.S. Senate threatens to cancel Mars Sample Return](https://www.planetary.org/articles/the-senate-threatens-to-cancel-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T133439">2023-07-19 13:34:39 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 3-16, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-3-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T144253">2023-07-17 14:42:53 UTC</a></sub>
-* [A little Boost! goes a long way](https://europeanspaceflight.substack.com/p/a-little-boost-goes-a-long-way) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T143812">2023-07-17 14:38:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T143227">2023-08-02 14:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T150703">2023-08-02 15:07:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
