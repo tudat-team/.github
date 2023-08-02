@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! NSF NOIRLab Observatory Offline Following Cyber Attack](https://tlpnetwork.com/news/2023/08/nsf-noirlab-observatory-offline-following-cyber-attack) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T185540">2023-08-02 18:55:40 UTC</a></sub>
+* [Virgin Galactic Forecasts Low Revenue For Q3 and Q4](https://tlpnetwork.com/news/2023/08/virgin-galactic-forecasts-low-revenuef-for-q3-and-q4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T184537">2023-08-02 18:45:37 UTC</a></sub>
+* [Final Antares flight successfully launches Space Station resupply mission](https://www.teslarati.com/final-antares-flight-successfully-launches-space-station-resupply-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T183203">2023-08-02 18:32:03 UTC</a></sub>
+* [iRocket To Develop & Test At Renowned US Air Force Base Facility](https://tlpnetwork.com/news/2023/08/irocket-to-develop-and-test-at-us-air-force-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T181422">2023-08-02 18:14:22 UTC</a></sub>
 * [Northrop Grumman Launches Final Russia-Ukrainian Build Antares Rocket](https://tlpnetwork.com/news/2023/08/cygnus-ng-19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T173413">2023-08-02 17:34:13 UTC</a></sub>
 * [Startup iRocket signs agreement to develop and test hardware at U.S. Air Force facility](https://spacenews.com/startup-irocket-signs-agreement-to-develop-and-test-hardware-at-u-s-air-force-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T140000">2023-08-02 14:00:00 UTC</a></sub>
 * [Voyager Space and Airbus create commercial space station joint venture](https://spacenews.com/voyager-space-and-airbus-create-commercial-space-station-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T115452">2023-08-02 11:54:52 UTC</a></sub>
 * [Virgin Galactic forecasts limited revenues from initial commercial flights](https://spacenews.com/virgin-galactic-forecasts-limited-revenues-from-initial-commercial-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T091320">2023-08-02 09:13:20 UTC</a></sub>
 * [Ursa Major gets additional funding for its 3D printing manufacturing facility](https://spacenews.com/ursa-major-gets-additional-funding-for-its-3d-printing-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T080000">2023-08-02 08:00:00 UTC</a></sub>
 * [Antares launches Cygnus to ISS](https://spacenews.com/antares-launches-cygnus-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T075750">2023-08-02 07:57:50 UTC</a></sub>
-* [US Space Command To Stay In Colorado](https://tlpnetwork.com/news/2023/08/us-space-command-to-stay-in-colorado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T213304">2023-08-01 21:33:04 UTC</a></sub>
-* [Virgin Galactic banks $2 million in quarterly revenue after first commercial spaceflight](https://www.cnbc.com/2023/08/01/virgin-galactic-spce-q2-2023-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T204118">2023-08-01 20:41:18 UTC</a></sub>
-* [The Atlantic is frying, but so far hurricanes are dying. What’s going on?](https://arstechnica.com/science/2023/08/the-atlantic-is-frying-but-so-far-hurricanes-are-dying-whats-going-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T203216">2023-08-01 20:32:16 UTC</a></sub>
-* [Boeing’s Mulholland Urges Vocal Advocacy for ISS Amid Budget Gloom](https://spacepolicyonline.com/news/boeings-mulholland-urges-vocal-advocacy-for-iss-amid-budget-gloom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T202030">2023-08-01 20:20:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T183234">2023-08-02 18:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T190546">2023-08-02 19:05:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
