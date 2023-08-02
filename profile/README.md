@@ -588,7 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
-* [SILENTBARKER: Atlas V stacked for national security launch](https://blog.ulalaunch.com/blog/silentbarker-atlas-v-stacked-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T144215">2023-08-02 14:42:15 UTC</a></sub>
+* [SILENTBARKER/NROL-107: Atlas V stacked for national security launch](https://blog.ulalaunch.com/blog/silentbarker-atlas-v-stacked-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T152211">2023-08-02 15:22:11 UTC</a></sub>
 * [Will ESA finally land on Mars?](https://europeanspaceflight.substack.com/p/will-esa-finally-land-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T134349">2023-07-31 13:43:49 UTC</a></sub>
 * [Aquatic equivalencies](https://www.planetary.org/the-downlink/aquatic-equivalencies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143446">2023-07-28 14:34:46 UTC</a></sub>
 * [Life on Venus: Your Questions Answered](https://www.planetary.org/articles/life-on-venus-your-questions-answered) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143444">2023-07-28 14:34:44 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T153212">2023-08-02 15:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T160919">2023-08-02 16:09:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
