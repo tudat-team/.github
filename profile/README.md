@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman Launches Final Russia-Ukrainian Build Antares Rocket](https://tlpnetwork.com/news/2023/08/cygnus-ng-19) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T173413">2023-08-02 17:34:13 UTC</a></sub>
 * [Startup iRocket signs agreement to develop and test hardware at U.S. Air Force facility](https://spacenews.com/startup-irocket-signs-agreement-to-develop-and-test-hardware-at-u-s-air-force-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T140000">2023-08-02 14:00:00 UTC</a></sub>
 * [Voyager Space and Airbus create commercial space station joint venture](https://spacenews.com/voyager-space-and-airbus-create-commercial-space-station-joint-venture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T115452">2023-08-02 11:54:52 UTC</a></sub>
 * [Virgin Galactic forecasts limited revenues from initial commercial flights](https://spacenews.com/virgin-galactic-forecasts-limited-revenues-from-initial-commercial-flights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T091320">2023-08-02 09:13:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic banks $2 million in quarterly revenue after first commercial spaceflight](https://www.cnbc.com/2023/08/01/virgin-galactic-spce-q2-2023-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T204118">2023-08-01 20:41:18 UTC</a></sub>
 * [The Atlantic is frying, but so far hurricanes are dying. What’s going on?](https://arstechnica.com/science/2023/08/the-atlantic-is-frying-but-so-far-hurricanes-are-dying-whats-going-on/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T203216">2023-08-01 20:32:16 UTC</a></sub>
 * [Boeing’s Mulholland Urges Vocal Advocacy for ISS Amid Budget Gloom](https://spacepolicyonline.com/news/boeings-mulholland-urges-vocal-advocacy-for-iss-amid-budget-gloom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T202030">2023-08-01 20:20:30 UTC</a></sub>
-* [Mulholland Urges Vocal Advocacy for ISS Amid Budget Gloom](https://spacepolicyonline.com/news/mulholland-urges-vocal-advocacy-for-iss-amid-budget-gloom/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T202030">2023-08-01 20:20:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T173227">2023-08-02 17:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T180849">2023-08-02 18:08:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
