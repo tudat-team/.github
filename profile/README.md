@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Rover Faces Its Toughest Climb Yet on Mars](https://mars.nasa.gov/news/9454/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T163200">2023-08-03 16:32:00 UTC</a></sub>
+* [Northrop Grumman Announces Cygnus Spacecraft Upgrades](https://tlpnetwork.com/news/2023/08/northrop-grumman-announces-cygnus-spacecraft-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T162942">2023-08-03 16:29:42 UTC</a></sub>
+* [Psyche One Step Closer To Launch, Solar Arrays Installed](https://tlpnetwork.com/news/2023/08/psyche-one-step-closer-to-launch-solar-arrays-installed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T160848">2023-08-03 16:08:48 UTC</a></sub>
 * [Investing in Space: Rocket Lab stock leads the sector in year-to-date gains](https://www.cnbc.com/2023/08/03/investing-in-space-rocket-lab-stock-leads-sector-in-2023-gains.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T152636">2023-08-03 15:26:36 UTC</a></sub>
 * [Northrop Grumman planning Cygnus upgrades](https://spacenews.com/northrop-grumman-planning-cygnus-upgrades/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T114954">2023-08-03 11:49:54 UTC</a></sub>
 * [Probing the origin and evolution of water-rich asteroids](https://spacenews.com/probing-the-origin-and-evolution-of-water-rich-asteroids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T030736">2023-08-03 03:07:36 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX set for launch of the Intelsat communications satellite](https://www.teslarati.com/spacex-set-for-launch-of-the-intelsat-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T220208">2023-08-02 22:02:08 UTC</a></sub>
 * [CSMC Hires NASA Astronaut As Executive VP Of Strategy](https://tlpnetwork.com/news/2023/08/csmc-hires-nasa-astronaut-as-executive-vp-of-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T215914">2023-08-02 21:59:14 UTC</a></sub>
 * [ULA Stacks Atlas V For Next National Security Launch](https://tlpnetwork.com/news/2023/08/ula-stacks-atlas-v-for-next-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T213941">2023-08-02 21:39:41 UTC</a></sub>
-* [Airbus and Voyager Space Announce Commercial Space Station Partnership](https://europeanspaceflight.com/airbus-and-voyager-space-announce-commercial-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T200957">2023-08-02 20:09:57 UTC</a></sub>
-* [U.S. intelligence agency selects vendors for space debris tracking project](https://spacenews.com/u-s-intelligence-agency-selects-vendors-for-space-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T191455">2023-08-02 19:14:55 UTC</a></sub>
-* [Voyager Space Partners With AirBus To Develop StarLab Commercial Space Stations](https://tlpnetwork.com/news/2023/08/voyager-space-partners-with-airbus-to-develop-starlab-commercial-space-stations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T191340">2023-08-02 19:13:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T163330">2023-08-03 16:33:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T170621">2023-08-03 17:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
