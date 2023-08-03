@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches Intelsat’s last C-band clearing satellite](https://spacenews.com/spacex-launches-intelsats-last-c-band-clearing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T175143">2023-08-03 17:51:43 UTC</a></sub>
+* [NASA, SpaceX Delay Crew 7 Launch To August 25th](https://tlpnetwork.com/news/2023/08/nasa-spacex-delay-crew-7-launch-to-august-25) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T174742">2023-08-03 17:47:42 UTC</a></sub>
 * [NASA's Curiosity Rover Faces Its Toughest Climb Yet on Mars](https://mars.nasa.gov/news/9454/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T163200">2023-08-03 16:32:00 UTC</a></sub>
 * [Northrop Grumman Announces Cygnus Spacecraft Upgrades](https://tlpnetwork.com/news/2023/08/northrop-grumman-announces-cygnus-spacecraft-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T162942">2023-08-03 16:29:42 UTC</a></sub>
 * [Psyche One Step Closer To Launch, Solar Arrays Installed](https://tlpnetwork.com/news/2023/08/psyche-one-step-closer-to-launch-solar-arrays-installed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T160848">2023-08-03 16:08:48 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Probing the origin and evolution of water-rich asteroids](https://spacenews.com/probing-the-origin-and-evolution-of-water-rich-asteroids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T030736">2023-08-03 03:07:36 UTC</a></sub>
 * [Northrop Grumman Reassessing Government Fixed Price Contracts After Loss on HALO](https://spacepolicyonline.com/news/northrop-grumman-reassessing-government-fixed-price-contracts-after-loss-on-halo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T015557">2023-08-03 01:55:57 UTC</a></sub>
 * [SpaceX set for launch of the Intelsat communications satellite](https://www.teslarati.com/spacex-set-for-launch-of-the-intelsat-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T220208">2023-08-02 22:02:08 UTC</a></sub>
-* [CSMC Hires NASA Astronaut As Executive VP Of Strategy](https://tlpnetwork.com/news/2023/08/csmc-hires-nasa-astronaut-as-executive-vp-of-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T215914">2023-08-02 21:59:14 UTC</a></sub>
-* [ULA Stacks Atlas V For Next National Security Launch](https://tlpnetwork.com/news/2023/08/ula-stacks-atlas-v-for-next-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T213941">2023-08-02 21:39:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T173227">2023-08-03 17:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T180854">2023-08-03 18:08:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
