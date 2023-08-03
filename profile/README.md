@@ -576,7 +576,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Airbus and Voyager Space Announce Commercial Space Station Partnership](https://europeanspaceflight.com/airbus-and-voyager-space-announce-commercial-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T200957">2023-08-02 20:09:57 UTC</a></sub>
 * [U.S. intelligence agency selects vendors for space debris tracking project](https://spacenews.com/u-s-intelligence-agency-selects-vendors-for-space-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T191455">2023-08-02 19:14:55 UTC</a></sub>
 * [Voyager Space Partners With AirBus To Develop StarLab Commercial Space Stations](https://tlpnetwork.com/news/2023/08/voyager-space-partners-with-airbus-to-develop-starlab-commercial-space-stations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T191340">2023-08-02 19:13:40 UTC</a></sub>
-* [BREAKING! NSF NOIRLab Observatory Offline Following Cyber Attack](https://tlpnetwork.com/news/2023/08/nsf-noirlab-observatory-offline-following-cyber-attack) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T185540">2023-08-02 18:55:40 UTC</a></sub>
+* [NSF NOIRLab Observatory Offline Following Cyber Attack](https://tlpnetwork.com/news/2023/08/nsf-noirlab-observatory-offline-following-cyber-attack) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T185540">2023-08-02 18:55:40 UTC</a></sub>
 * [Virgin Galactic Forecasts Low Revenue For Q3 and Q4](https://tlpnetwork.com/news/2023/08/virgin-galactic-forecasts-low-revenuef-for-q3-and-q4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T184537">2023-08-02 18:45:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T063241">2023-08-03 06:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T070645">2023-08-03 07:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
