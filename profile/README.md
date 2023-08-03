@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman planning Cygnus upgrades](https://spacenews.com/northrop-grumman-planning-cygnus-upgrades/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T114954">2023-08-03 11:49:54 UTC</a></sub>
 * [Probing the origin and evolution of water-rich asteroids](https://spacenews.com/probing-the-origin-and-evolution-of-water-rich-asteroids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T030736">2023-08-03 03:07:36 UTC</a></sub>
 * [Northrop Grumman Reassessing Government Fixed Price Contracts After Loss on HALO](https://spacepolicyonline.com/news/northrop-grumman-reassessing-government-fixed-price-contracts-after-loss-on-halo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T015557">2023-08-03 01:55:57 UTC</a></sub>
 * [SpaceX set for launch of the Intelsat communications satellite](https://www.teslarati.com/spacex-set-for-launch-of-the-intelsat-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T220208">2023-08-02 22:02:08 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. intelligence agency selects vendors for space debris tracking project](https://spacenews.com/u-s-intelligence-agency-selects-vendors-for-space-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T191455">2023-08-02 19:14:55 UTC</a></sub>
 * [Voyager Space Partners With AirBus To Develop StarLab Commercial Space Stations](https://tlpnetwork.com/news/2023/08/voyager-space-partners-with-airbus-to-develop-starlab-commercial-space-stations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T191340">2023-08-02 19:13:40 UTC</a></sub>
 * [NSF NOIRLab Observatory Offline Following Cyber Attack](https://tlpnetwork.com/news/2023/08/nsf-noirlab-observatory-offline-following-cyber-attack) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T185540">2023-08-02 18:55:40 UTC</a></sub>
-* [Virgin Galactic Forecasts Low Revenue For Q3 and Q4](https://tlpnetwork.com/news/2023/08/virgin-galactic-forecasts-low-revenuef-for-q3-and-q4) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T184537">2023-08-02 18:45:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T113217">2023-08-03 11:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T121433">2023-08-03 12:14:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
