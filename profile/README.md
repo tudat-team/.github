@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starship Booster 9 and launch infrastructure moving into critical testing phase](https://www.nasaspaceflight.com/2023/08/starship-booster-9-critical-testing-phase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T215035">2023-08-03 21:50:35 UTC</a></sub>
+* [NASA awards Axiom Space 4th Crewed flight to ISS](https://www.teslarati.com/nasa-awards-axiom-space-crewed-flight-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T214156">2023-08-03 21:41:56 UTC</a></sub>
+* [O3b mPower faces delays as SES investigates electrical issue ](https://spacenews.com/next-o3b-mpower-launch-delayed-as-ses-investigates-electrical-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T213532">2023-08-03 21:35:32 UTC</a></sub>
+* [NASA Selects Axiom Space For 4th Private Mission To ISS](https://tlpnetwork.com/news/2023/08/nasa-selects-axiom-space-for-4th-private-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T212347">2023-08-03 21:23:47 UTC</a></sub>
+* [Galaxy 37 set to launch from SLC-40](https://tlpnetwork.com/news/2023/08/galaxy_37_launching_from_slc_40_on_august_3rd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T211200">2023-08-03 21:12:00 UTC</a></sub>
+* [Rogers to launch investigation of U.S. Space Command’s basing decision](https://spacenews.com/rogers-to-launch-investigation-of-u-s-space-commands-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T211055">2023-08-03 21:10:55 UTC</a></sub>
 * [NASA Selects Axiom Space for Another Private Space Mission in 2024](http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-another-private-space-mission-in-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T194200">2023-08-03 19:42:00 UTC</a></sub>
 * [SpaceX launches Intelsat’s last C-band clearing satellite](https://spacenews.com/spacex-launches-intelsats-last-c-band-clearing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T175143">2023-08-03 17:51:43 UTC</a></sub>
 * [NASA, SpaceX Delay Crew 7 Launch To August 25th](https://tlpnetwork.com/news/2023/08/nasa-spacex-delay-crew-7-launch-to-august-25) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T174742">2023-08-03 17:47:42 UTC</a></sub>
 * [NASA's Curiosity Rover Faces Its Toughest Climb Yet on Mars](https://mars.nasa.gov/news/9454/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T163200">2023-08-03 16:32:00 UTC</a></sub>
-* [Northrop Grumman Announces Cygnus Spacecraft Upgrades](https://tlpnetwork.com/news/2023/08/northrop-grumman-announces-cygnus-spacecraft-upgrades) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T162942">2023-08-03 16:29:42 UTC</a></sub>
-* [Psyche One Step Closer To Launch, Solar Arrays Installed](https://tlpnetwork.com/news/2023/08/psyche-one-step-closer-to-launch-solar-arrays-installed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T160848">2023-08-03 16:08:48 UTC</a></sub>
-* [Investing in Space: Rocket Lab stock leads the sector in year-to-date gains](https://www.cnbc.com/2023/08/03/investing-in-space-rocket-lab-stock-leads-sector-in-2023-gains.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T152636">2023-08-03 15:26:36 UTC</a></sub>
-* [Northrop Grumman planning Cygnus upgrades](https://spacenews.com/northrop-grumman-planning-cygnus-upgrades/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T114954">2023-08-03 11:49:54 UTC</a></sub>
-* [Probing the origin and evolution of water-rich asteroids](https://spacenews.com/probing-the-origin-and-evolution-of-water-rich-asteroids/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T030736">2023-08-03 03:07:36 UTC</a></sub>
-* [Northrop Grumman Reassessing Government Fixed Price Contracts After Loss on HALO](https://spacepolicyonline.com/news/northrop-grumman-reassessing-government-fixed-price-contracts-after-loss-on-halo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T015557">2023-08-03 01:55:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T213221">2023-08-03 21:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T220622">2023-08-03 22:06:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
