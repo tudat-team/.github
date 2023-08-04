@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA SpaceX Crew 8 Announced](https://tlpnetwork.com/news/2023/08/nasa-spacex-crew-8-announced) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T164436">2023-08-04 16:44:36 UTC</a></sub>
+* [Space Station Assignments Out for NASA’s SpaceX Crew-8 Mission](http://www.nasa.gov/press-release/space-station-assignments-out-for-nasa-s-spacex-crew-8-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T162200">2023-08-04 16:22:00 UTC</a></sub>
+* [House Armed Services Committee Chairman Launches Investigation Into President Biden's US Space Command HQ Decision](https://tlpnetwork.com/news/2023/08/house-armed-services-committee-chairman-launches-investigation-into-president-biden-us-space-command-hq-decision) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T160059">2023-08-04 16:00:59 UTC</a></sub>
 * [SES Investigation Delays Next O3b mPower Mission](https://tlpnetwork.com/news/2023/08/ses-investigation-delays-next-o3b-mpower-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T154555">2023-08-04 15:45:55 UTC</a></sub>
 * [NASA selects Axiom Space for fourth ISS private astronaut mission](https://spacenews.com/nasa-selects-axiom-space-for-fourth-iss-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T114531">2023-08-04 11:45:31 UTC</a></sub>
 * [Rocket Report: Lack of transparency on Ariane 6, drastic cuts Down Under](https://arstechnica.com/space/2023/08/rocket-report-lack-of-transparency-on-ariane-6-drastic-cuts-down-under/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T110016">2023-08-04 11:00:16 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX kicks off August launch cadence with successful Falcon 9 launch](https://www.teslarati.com/spacex-kicks-off-august-launch-cadence-with-successful-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T231207">2023-08-03 23:12:07 UTC</a></sub>
 * [Starship Booster 9 and launch infrastructure moving into critical testing phase](https://www.nasaspaceflight.com/2023/08/starship-booster-9-critical-testing-phase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T215035">2023-08-03 21:50:35 UTC</a></sub>
 * [NASA awards Axiom Space 4th Crewed flight to ISS](https://www.teslarati.com/nasa-awards-axiom-space-crewed-flight-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T214156">2023-08-03 21:41:56 UTC</a></sub>
-* [O3b mPower faces delays as SES investigates electrical issue ](https://spacenews.com/next-o3b-mpower-launch-delayed-as-ses-investigates-electrical-issue/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T213532">2023-08-03 21:35:32 UTC</a></sub>
-* [NASA Selects Axiom Space For 4th Private Mission To ISS](https://tlpnetwork.com/news/2023/08/nasa-selects-axiom-space-for-4th-private-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T212347">2023-08-03 21:23:47 UTC</a></sub>
-* [Galaxy 37 set to launch from SLC-40](https://tlpnetwork.com/news/2023/08/galaxy_37_launching_from_slc_40_on_august_3rd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T211200">2023-08-03 21:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T163500">2023-08-04 16:35:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T170627">2023-08-04 17:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
