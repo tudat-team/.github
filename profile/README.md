@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra conducts layoffs, raises debt and shifts focus to spacecraft engines in bid to survive](https://www.cnbc.com/2023/08/04/astra-conducts-layoffs-raises-debt-shifts-focus-to-spacecraft-engines.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T214259">2023-08-04 21:42:59 UTC</a></sub>
+* [SpaceX performs Booster 9 engine test ahead of static fire](https://www.teslarati.com/spacex-performs-booster-9-engine-test-ahead-of-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T212204">2023-08-04 21:22:04 UTC</a></sub>
+* [Voyager 2 phones home and says everything is cool](https://arstechnica.com/space/2023/08/voyager-2-phones-home-and-says-everything-is-cool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T211907">2023-08-04 21:19:07 UTC</a></sub>
 * [China launches four rockets and outlines future lunar mission](https://www.nasaspaceflight.com/2023/08/china-roundup-080423/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T203428">2023-08-04 20:34:28 UTC</a></sub>
 * [Booster 9 Completes Spin Prime Ahead of Critical 33 Engine Static Fire Test](https://tlpnetwork.com/news/2023/08/booster-9-spin-primed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T203118">2023-08-04 20:31:18 UTC</a></sub>
 * [BREAKING! VOYAGER 2 FULL COMMUNICATIONS RESTORED AFTER INTERSTELLAR SHOUT FROM NASA DSN](https://tlpnetwork.com/news/2023/08/voyager-2-communications-restored) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T200725">2023-08-04 20:07:25 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA SpaceX Crew 8 Announced](https://tlpnetwork.com/news/2023/08/nasa-spacex-crew-8-announced) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T164436">2023-08-04 16:44:36 UTC</a></sub>
 * [Space Station Assignments Out for NASA’s SpaceX Crew-8 Mission](http://www.nasa.gov/press-release/space-station-assignments-out-for-nasa-s-spacex-crew-8-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T162200">2023-08-04 16:22:00 UTC</a></sub>
 * [House Armed Services Committee Chairman Launches Investigation Into President Biden's US Space Command HQ Decision](https://tlpnetwork.com/news/2023/08/house-armed-services-committee-chairman-launches-investigation-into-president-biden-us-space-command-hq-decision) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T160059">2023-08-04 16:00:59 UTC</a></sub>
-* [SES Investigation Delays Next O3b mPower Mission](https://tlpnetwork.com/news/2023/08/ses-investigation-delays-next-o3b-mpower-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T154555">2023-08-04 15:45:55 UTC</a></sub>
-* [NASA selects Axiom Space for fourth ISS private astronaut mission](https://spacenews.com/nasa-selects-axiom-space-for-fourth-iss-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T114531">2023-08-04 11:45:31 UTC</a></sub>
-* [Rocket Report: Lack of transparency on Ariane 6, drastic cuts Down Under](https://arstechnica.com/space/2023/08/rocket-report-lack-of-transparency-on-ariane-6-drastic-cuts-down-under/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T110016">2023-08-04 11:00:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T213227">2023-08-04 21:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T220623">2023-08-04 22:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
