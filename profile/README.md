@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rogers Threatens Subpoena for USSPACECOM Documents](https://spacepolicyonline.com/news/rogers-threatens-subpoena-for-usspacecom-documents/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T024045">2023-08-04 02:40:45 UTC</a></sub>
 * [SpaceX kicks off August launch cadence with successful Falcon 9 launch](https://www.teslarati.com/spacex-kicks-off-august-launch-cadence-with-successful-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T231207">2023-08-03 23:12:07 UTC</a></sub>
 * [Starship Booster 9 and launch infrastructure moving into critical testing phase](https://www.nasaspaceflight.com/2023/08/starship-booster-9-critical-testing-phase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T215035">2023-08-03 21:50:35 UTC</a></sub>
 * [NASA awards Axiom Space 4th Crewed flight to ISS](https://www.teslarati.com/nasa-awards-axiom-space-crewed-flight-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T214156">2023-08-03 21:41:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rogers to launch investigation of U.S. Space Command’s basing decision](https://spacenews.com/rogers-to-launch-investigation-of-u-s-space-commands-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T211055">2023-08-03 21:10:55 UTC</a></sub>
 * [NASA Selects Axiom Space for Another Private Space Mission in 2024](http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-another-private-space-mission-in-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T194200">2023-08-03 19:42:00 UTC</a></sub>
 * [SpaceX launches Intelsat’s last C-band clearing satellite](https://spacenews.com/spacex-launches-intelsats-last-c-band-clearing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T175143">2023-08-03 17:51:43 UTC</a></sub>
-* [NASA, SpaceX Delay Crew 7 Launch To August 25th](https://tlpnetwork.com/news/2023/08/nasa-spacex-delay-crew-7-launch-to-august-25) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T174742">2023-08-03 17:47:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T030737">2023-08-04 03:07:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T033225">2023-08-04 03:32:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
