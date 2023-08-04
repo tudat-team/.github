@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA selects Axiom Space for fourth ISS private astronaut mission](https://spacenews.com/nasa-selects-axiom-space-for-fourth-iss-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T114531">2023-08-04 11:45:31 UTC</a></sub>
+* [Rocket Report: Lack of transparency on Ariane 6, Drastic cuts Down Under](https://arstechnica.com/space/2023/08/rocket-report-lack-of-transparency-on-ariane-6-drastic-cuts-down-under/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T110016">2023-08-04 11:00:16 UTC</a></sub>
 * [Rogers Threatens Subpoena for USSPACECOM Documents](https://spacepolicyonline.com/news/rogers-threatens-subpoena-for-usspacecom-documents/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T024045">2023-08-04 02:40:45 UTC</a></sub>
 * [SpaceX kicks off August launch cadence with successful Falcon 9 launch](https://www.teslarati.com/spacex-kicks-off-august-launch-cadence-with-successful-falcon-9-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T231207">2023-08-03 23:12:07 UTC</a></sub>
 * [Starship Booster 9 and launch infrastructure moving into critical testing phase](https://www.nasaspaceflight.com/2023/08/starship-booster-9-critical-testing-phase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T215035">2023-08-03 21:50:35 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Selects Axiom Space For 4th Private Mission To ISS](https://tlpnetwork.com/news/2023/08/nasa-selects-axiom-space-for-4th-private-mission-to-iss) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T212347">2023-08-03 21:23:47 UTC</a></sub>
 * [Galaxy 37 set to launch from SLC-40](https://tlpnetwork.com/news/2023/08/galaxy_37_launching_from_slc_40_on_august_3rd) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T211200">2023-08-03 21:12:00 UTC</a></sub>
 * [Rogers to launch investigation of U.S. Space Command’s basing decision](https://spacenews.com/rogers-to-launch-investigation-of-u-s-space-commands-basing-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T211055">2023-08-03 21:10:55 UTC</a></sub>
-* [NASA Selects Axiom Space for Another Private Space Mission in 2024](http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-another-private-space-mission-in-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T194200">2023-08-03 19:42:00 UTC</a></sub>
-* [SpaceX launches Intelsat’s last C-band clearing satellite](https://spacenews.com/spacex-launches-intelsats-last-c-band-clearing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T175143">2023-08-03 17:51:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T113214">2023-08-04 11:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T121328">2023-08-04 12:13:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
