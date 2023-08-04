@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Far out, man!](https://www.planetary.org/the-downlink/far-out-man) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T143204">2023-08-04 14:32:04 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Atlas V stacked for national security launch](https://blog.ulalaunch.com/blog/silentbarker-atlas-v-stacked-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T152211">2023-08-02 15:22:11 UTC</a></sub>
 * [Will ESA finally land on Mars?](https://europeanspaceflight.substack.com/p/will-esa-finally-land-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T134349">2023-07-31 13:43:49 UTC</a></sub>
 * [LightSail 2 Mission Control](https://www.planetary.org/mission-control) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T122206">2023-07-31 12:22:06 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: July 17-23, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-17-23-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T144400">2023-07-24 14:44:00 UTC</a></sub>
 * [How can Thales use Space Rider IP for Rev-1?](https://europeanspaceflight.substack.com/p/how-can-thales-use-space-rider-ip) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T133843">2023-07-24 13:38:43 UTC</a></sub>
 * [That’s a mare](https://www.planetary.org/the-downlink/thats-a-mare) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T143436">2023-07-21 14:34:36 UTC</a></sub>
-* [The U.S. Senate threatens to cancel Mars Sample Return](https://www.planetary.org/articles/the-senate-threatens-to-cancel-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T133439">2023-07-19 13:34:39 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T143217">2023-08-04 14:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T150724">2023-08-04 15:07:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
