@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chandrayaan-3 Reaches Lunar Orbit, Landing Soon with Russia, Japan and U.S. Close Behind](https://spacepolicyonline.com/news/chandrayaan-3-reaches-lunar-orbit-landing-soon-with-russia-japan-and-u-s-close-behind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T213622">2023-08-05 21:36:22 UTC</a></sub>
 * [After 11 years on Mars, Curiosity continues to climb the slopes of Mount Sharp](https://www.nasaspaceflight.com/2023/08/msl-11-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T193606">2023-08-05 19:36:06 UTC</a></sub>
 * [NASA, ESA, CSA, and JAXA Commit To ISS Operations Through 2030](https://tlpnetwork.com/news/2023/08/nasa-esa-csa-jaxa-commit-to-iss-operations-through-2030) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T163859">2023-08-05 16:38:59 UTC</a></sub>
 * [ISRO Chandrayaan-3 Lunar Orbit Confirmed](https://tlpnetwork.com/news/2023/08/isro-chandrayaan-3-lunar-orbit-confirmed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T155449">2023-08-05 15:54:49 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Apple-backed Globalstar’s revenue jump underlines IoT opportunity](https://spacenews.com/apple-backed-globalstars-revenue-jump-underlines-iot-opportunity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T235719">2023-08-04 23:57:19 UTC</a></sub>
 * [Astra conducts layoffs, raises debt and shifts focus to spacecraft engines in bid to survive](https://www.cnbc.com/2023/08/04/astra-conducts-layoffs-raises-debt-shifts-focus-to-spacecraft-engines.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T214259">2023-08-04 21:42:59 UTC</a></sub>
 * [SpaceX performs Booster 9 engine test ahead of static fire](https://www.teslarati.com/spacex-performs-booster-9-engine-test-ahead-of-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T212204">2023-08-04 21:22:04 UTC</a></sub>
-* [Voyager 2 phones home and says everything is cool](https://arstechnica.com/space/2023/08/voyager-2-phones-home-and-says-everything-is-cool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T211907">2023-08-04 21:19:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T213215">2023-08-05 21:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T220616">2023-08-05 22:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
