@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, ESA, CSA, and JAXA Commit To ISS Operations Through 2030](https://tlpnetwork.com/news/2023/08/nasa-esa-csa-jaxa-commit-to-iss-operations-through-2030) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T163859">2023-08-05 16:38:59 UTC</a></sub>
 * [ISRO Chandrayaan-3 Lunar Orbit Confirmed](https://tlpnetwork.com/news/2023/08/isro-chandrayaan-3-lunar-orbit-confirmed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T155449">2023-08-05 15:54:49 UTC</a></sub>
 * [India’s Chandrayaan-3 lander arrives in lunar orbit](https://spacenews.com/indias-chandrayaan-3-lander-arrives-in-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T145555">2023-08-05 14:55:55 UTC</a></sub>
 * [Astra lays off, reassigns employees as it refocuses on satellite propulsion](https://spacenews.com/astra-lays-off-reassigns-employees-as-it-refocuses-on-satellite-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T143424">2023-08-05 14:34:24 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX performs Booster 9 engine test ahead of static fire](https://www.teslarati.com/spacex-performs-booster-9-engine-test-ahead-of-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T212204">2023-08-04 21:22:04 UTC</a></sub>
 * [Voyager 2 phones home and says everything is cool](https://arstechnica.com/space/2023/08/voyager-2-phones-home-and-says-everything-is-cool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T211907">2023-08-04 21:19:07 UTC</a></sub>
 * [China launches four rockets and outlines future lunar mission](https://www.nasaspaceflight.com/2023/08/china-roundup-080423/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T203428">2023-08-04 20:34:28 UTC</a></sub>
-* [Booster 9 Completes Spin Prime Ahead of Critical 33 Engine Static Fire Test](https://tlpnetwork.com/news/2023/08/booster-9-spin-primed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T203118">2023-08-04 20:31:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T163245">2023-08-05 16:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T170542">2023-08-05 17:05:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
