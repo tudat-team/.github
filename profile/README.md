@@ -574,7 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Voyager 2 phones home and says everything is cool](https://arstechnica.com/space/2023/08/voyager-2-phones-home-and-says-everything-is-cool/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T211907">2023-08-04 21:19:07 UTC</a></sub>
 * [China launches four rockets and outlines future lunar mission](https://www.nasaspaceflight.com/2023/08/china-roundup-080423/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T203428">2023-08-04 20:34:28 UTC</a></sub>
 * [Booster 9 Completes Spin Prime Ahead of Critical 33 Engine Static Fire Test](https://tlpnetwork.com/news/2023/08/booster-9-spin-primed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T203118">2023-08-04 20:31:18 UTC</a></sub>
-* [BREAKING! VOYAGER 2 FULL COMMUNICATIONS RESTORED AFTER INTERSTELLAR SHOUT FROM NASA DSN](https://tlpnetwork.com/news/2023/08/voyager-2-communications-restored) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T200725">2023-08-04 20:07:25 UTC</a></sub>
+* [VOYAGER 2 FULL COMMUNICATIONS RESTORED AFTER INTERSTELLAR SHOUT FROM NASA DSN](https://tlpnetwork.com/news/2023/08/voyager-2-communications-restored) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T200725">2023-08-04 20:07:25 UTC</a></sub>
 * [ISS partners seek to maximize use of station through 2030](https://spacenews.com/iss-partners-seek-to-maximize-use-of-station-through-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T182108">2023-08-04 18:21:08 UTC</a></sub>
 * [NASA SpaceX Crew 8 Announced](https://tlpnetwork.com/news/2023/08/nasa-spacex-crew-8-announced) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T164436">2023-08-04 16:44:36 UTC</a></sub>
 * [Space Station Assignments Out for NASA’s SpaceX Crew-8 Mission](http://www.nasa.gov/press-release/space-station-assignments-out-for-nasa-s-spacex-crew-8-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T162200">2023-08-04 16:22:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T083229">2023-08-05 08:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T090612">2023-08-05 09:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
