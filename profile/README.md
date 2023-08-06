@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX conducts a mostly successful test of its Super Heavy booster](https://arstechnica.com/space/2023/08/spacex-conducts-a-mostly-successful-test-of-its-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T205509">2023-08-06 20:55:09 UTC</a></sub>
+* [SpaceX performs static fire test of Booster 9](https://www.teslarati.com/spacex-performs-static-fire-test-of-booster-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T203206">2023-08-06 20:32:06 UTC</a></sub>
 * [Lockheed Martin opens new factory focused on small satellites](https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T200000">2023-08-06 20:00:00 UTC</a></sub>
 * [What’s Happening in Space Policy August 6-12, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T195540">2023-08-06 19:55:40 UTC</a></sub>
 * [ISS transition plans a work in progress](https://spacenews.com/iss-transition-plans-a-work-in-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T161513">2023-08-06 16:15:13 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [After 11 years on Mars, Curiosity continues to climb the slopes of Mount Sharp](https://www.nasaspaceflight.com/2023/08/msl-11-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T193606">2023-08-05 19:36:06 UTC</a></sub>
 * [NASA, ESA, CSA, and JAXA Commit To ISS Operations Through 2030](https://tlpnetwork.com/news/2023/08/nasa-esa-csa-jaxa-commit-to-iss-operations-through-2030) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T163859">2023-08-05 16:38:59 UTC</a></sub>
 * [ISRO Chandrayaan-3 Lunar Orbit Confirmed](https://tlpnetwork.com/news/2023/08/isro-chandrayaan-3-lunar-orbit-confirmed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T155449">2023-08-05 15:54:49 UTC</a></sub>
-* [India’s Chandrayaan-3 lander arrives in lunar orbit](https://spacenews.com/indias-chandrayaan-3-lander-arrives-in-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T145555">2023-08-05 14:55:55 UTC</a></sub>
-* [Astra lays off, reassigns employees as it refocuses on satellite propulsion](https://spacenews.com/astra-lays-off-reassigns-employees-as-it-refocuses-on-satellite-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T143424">2023-08-05 14:34:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T203210">2023-08-06 20:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T210526">2023-08-06 21:05:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
