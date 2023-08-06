@@ -575,9 +575,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [India’s Chandrayaan-3 lander arrives in lunar orbit](https://spacenews.com/indias-chandrayaan-3-lander-arrives-in-lunar-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T145555">2023-08-05 14:55:55 UTC</a></sub>
 * [Astra lays off, reassigns employees as it refocuses on satellite propulsion](https://spacenews.com/astra-lays-off-reassigns-employees-as-it-refocuses-on-satellite-propulsion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T143424">2023-08-05 14:34:24 UTC</a></sub>
 * [A look at the surprising history of the earliest rocket pioneers](https://arstechnica.com/space/2023/08/a-look-at-the-surprising-history-of-the-earliest-rocket-pioneers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T113011">2023-08-05 11:30:11 UTC</a></sub>
+* [SpaceX to launch 22 Starlink satellites this week](https://www.teslarati.com/spacex-launch-22-starlink-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T011314">2023-08-05 01:13:14 UTC</a></sub>
 * [Apple-backed Globalstar’s revenue jump underlines IoT opportunity](https://spacenews.com/apple-backed-globalstars-revenue-jump-underlines-iot-opportunity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T235719">2023-08-04 23:57:19 UTC</a></sub>
 * [Astra conducts layoffs, raises debt and shifts focus to spacecraft engines in bid to survive](https://www.cnbc.com/2023/08/04/astra-conducts-layoffs-raises-debt-shifts-focus-to-spacecraft-engines.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T214259">2023-08-04 21:42:59 UTC</a></sub>
-* [SpaceX performs Booster 9 engine test ahead of static fire](https://www.teslarati.com/spacex-performs-booster-9-engine-test-ahead-of-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T212204">2023-08-04 21:22:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T003716">2023-08-06 00:37:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T014539">2023-08-06 01:45:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
