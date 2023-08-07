@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX closes in on launch record with most recent Starlink launch](https://www.teslarati.com/spacex-closes-in-launch-record-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T173209">2023-08-07 17:32:09 UTC</a></sub>
+* [RFA Secures €30m Investment From KKR](https://tlpnetwork.com/news/2023/08/rfa-secures-investment-from-kkr) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T170354">2023-08-07 17:03:54 UTC</a></sub>
 * [NASA Sets Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T164200">2023-08-07 16:42:00 UTC</a></sub>
 * [NASA InSight Study Finds Mars Is Spinning Faster](https://mars.nasa.gov/news/9452/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T154200">2023-08-07 15:42:00 UTC</a></sub>
 * [TROPICS cubesat constellation ready for hurricane season](https://spacenews.com/tropics-cubesat-constellation-ready-for-hurricane-season/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T143342">2023-08-07 14:33:42 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Xenesis to send optical terminal to ISS platform](https://spacenews.com/xenesis-to-send-optical-terminal-to-iss-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T100000">2023-08-07 10:00:00 UTC</a></sub>
 * [SpaceX conducts a mostly successful test of its Super Heavy booster](https://arstechnica.com/space/2023/08/spacex-conducts-a-mostly-successful-test-of-its-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T205509">2023-08-06 20:55:09 UTC</a></sub>
 * [SpaceX performs static fire test of Booster 9](https://www.teslarati.com/spacex-performs-static-fire-test-of-booster-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T203206">2023-08-06 20:32:06 UTC</a></sub>
-* [Lockheed Martin opens new factory focused on small satellites](https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T200000">2023-08-06 20:00:00 UTC</a></sub>
-* [What’s Happening in Space Policy August 6-12, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T195540">2023-08-06 19:55:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T173236">2023-08-07 17:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T180835">2023-08-07 18:08:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
