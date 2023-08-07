@@ -574,10 +574,10 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [What’s Happening in Space Policy August 6-12, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T195540">2023-08-06 19:55:40 UTC</a></sub>
 * [ISS transition plans a work in progress](https://spacenews.com/iss-transition-plans-a-work-in-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T161513">2023-08-06 16:15:13 UTC</a></sub>
 * [LeoStella unveils its largest smallsat to target SDA contracts](https://spacenews.com/leostella-unveils-its-largest-smallsat-to-target-sda-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T110100">2023-08-06 11:01:00 UTC</a></sub>
+* [Weekly Space Recap: July 31 – August 6](https://www.teslarati.com/the-weekly-space-recap-jul-31-aug-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T013206">2023-08-06 01:32:06 UTC</a></sub>
 * [Chandrayaan-3 Reaches Lunar Orbit, Landing Soon with Russia, Japan and U.S. Close Behind](https://spacepolicyonline.com/news/chandrayaan-3-reaches-lunar-orbit-landing-soon-with-russia-japan-and-u-s-close-behind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T213622">2023-08-05 21:36:22 UTC</a></sub>
 * [After 11 years on Mars, Curiosity continues to climb the slopes of Mount Sharp](https://www.nasaspaceflight.com/2023/08/msl-11-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T193606">2023-08-05 19:36:06 UTC</a></sub>
 * [NASA, ESA, CSA, and JAXA Commit To ISS Operations Through 2030](https://tlpnetwork.com/news/2023/08/nasa-esa-csa-jaxa-commit-to-iss-operations-through-2030) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T163859">2023-08-05 16:38:59 UTC</a></sub>
-* [ISRO Chandrayaan-3 Lunar Orbit Confirmed](https://tlpnetwork.com/news/2023/08/isro-chandrayaan-3-lunar-orbit-confirmed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T155449">2023-08-05 15:54:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T004111">2023-08-07 00:41:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T015712">2023-08-07 01:57:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
