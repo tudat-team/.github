@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA InSight Study Finds Mars Is Spinning Faster](https://mars.nasa.gov/news/9452/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T154200">2023-08-07 15:42:00 UTC</a></sub>
 * [TROPICS cubesat constellation ready for hurricane season](https://spacenews.com/tropics-cubesat-constellation-ready-for-hurricane-season/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T143342">2023-08-07 14:33:42 UTC</a></sub>
 * [Benchmark unveils driver assistance features for satellites](https://spacenews.com/benchmark-unveils-driver-assistance-features-for-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T130000">2023-08-07 13:00:00 UTC</a></sub>
 * [Frontgrade acquires Aethercomm](https://spacenews.com/frontgrade-acquires-aethercomm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T130000">2023-08-07 13:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Lockheed Martin opens new factory focused on small satellites](https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T200000">2023-08-06 20:00:00 UTC</a></sub>
 * [What’s Happening in Space Policy August 6-12, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T195540">2023-08-06 19:55:40 UTC</a></sub>
 * [ISS transition plans a work in progress](https://spacenews.com/iss-transition-plans-a-work-in-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T161513">2023-08-06 16:15:13 UTC</a></sub>
-* [LeoStella unveils its largest smallsat to target SDA contracts](https://spacenews.com/leostella-unveils-its-largest-smallsat-to-target-sda-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T110100">2023-08-06 11:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T153235">2023-08-07 15:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T160911">2023-08-07 16:09:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
