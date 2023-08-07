@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing resets Starliner plan to be ready for first NASA crew flight by March](https://www.cnbc.com/2023/08/07/boeing-resets-starliners-first-crewed-spaceflight-target-for-march.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T194952">2023-08-07 19:49:52 UTC</a></sub>
+* [Launch Roundup: Russia to return to the Moon in Luna 25 mission, Virgin Galactic to complete first fully private space tourism flight](https://www.nasaspaceflight.com/2023/08/launch-roundup-080623/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T194928">2023-08-07 19:49:28 UTC</a></sub>
+* [Mars Wobble & Core Size Confirmed By NASA's InSight Lander](https://tlpnetwork.com/news/2023/08/mars-wobble-and-core-size-confirmed-by-nasa-insight-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T191918">2023-08-07 19:19:18 UTC</a></sub>
 * [Lockheed Martin Opens New Small Satellite Factory](https://tlpnetwork.com/news/2023/08/lockheed-martin-opens-new-small-satellite-factory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T190150">2023-08-07 19:01:50 UTC</a></sub>
 * [NanoAvionics completes LEO satellite for studying black holes](https://spacenews.com/nanoavionics-completes-leo-satellite-for-studying-black-holes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T185245">2023-08-07 18:52:45 UTC</a></sub>
 * [Lockheed Martin’s data-transport satellite clears design review](https://spacenews.com/lockheed-martins-data-transport-satellite-clears-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T183821">2023-08-07 18:38:21 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RFA Secures €30m Investment From KKR](https://tlpnetwork.com/news/2023/08/rfa-secures-investment-from-kkr) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T170354">2023-08-07 17:03:54 UTC</a></sub>
 * [NASA Sets Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T164200">2023-08-07 16:42:00 UTC</a></sub>
 * [NASA InSight Study Finds Mars Is Spinning Faster](https://mars.nasa.gov/news/9452/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T154200">2023-08-07 15:42:00 UTC</a></sub>
-* [TROPICS cubesat constellation ready for hurricane season](https://spacenews.com/tropics-cubesat-constellation-ready-for-hurricane-season/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T143342">2023-08-07 14:33:42 UTC</a></sub>
-* [Benchmark unveils driver assistance features for satellites](https://spacenews.com/benchmark-unveils-driver-assistance-features-for-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T130000">2023-08-07 13:00:00 UTC</a></sub>
-* [Frontgrade acquires Aethercomm](https://spacenews.com/frontgrade-acquires-aethercomm/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T130000">2023-08-07 13:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T193211">2023-08-07 19:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T200737">2023-08-07 20:07:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
