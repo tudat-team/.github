@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Sets Coverage of Roscosmos Spacewalk Outside Space Station](http://www.nasa.gov/press-release/nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T164200">2023-08-07 16:42:00 UTC</a></sub>
 * [NASA InSight Study Finds Mars Is Spinning Faster](https://mars.nasa.gov/news/9452/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T154200">2023-08-07 15:42:00 UTC</a></sub>
 * [TROPICS cubesat constellation ready for hurricane season](https://spacenews.com/tropics-cubesat-constellation-ready-for-hurricane-season/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T143342">2023-08-07 14:33:42 UTC</a></sub>
 * [Benchmark unveils driver assistance features for satellites](https://spacenews.com/benchmark-unveils-driver-assistance-features-for-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T130000">2023-08-07 13:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX performs static fire test of Booster 9](https://www.teslarati.com/spacex-performs-static-fire-test-of-booster-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T203206">2023-08-06 20:32:06 UTC</a></sub>
 * [Lockheed Martin opens new factory focused on small satellites](https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T200000">2023-08-06 20:00:00 UTC</a></sub>
 * [What’s Happening in Space Policy August 6-12, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T195540">2023-08-06 19:55:40 UTC</a></sub>
-* [ISS transition plans a work in progress](https://spacenews.com/iss-transition-plans-a-work-in-progress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T161513">2023-08-06 16:15:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T163536">2023-08-07 16:35:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T170630">2023-08-07 17:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
