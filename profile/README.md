@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA TROPICS Constellation Fully Operational & Ready For Hurricane Season](https://tlpnetwork.com/news/2023/08/nasa-tropics-constellation-fully-operational-and-ready-for-hurricane-season) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T225853">2023-08-07 22:58:53 UTC</a></sub>
+* [HyImpulse Issued First Large Rocket Air Navigation Order from CAA](https://tlpnetwork.com/news/2023/08/hyimpulse-issued-first-lran-from-caa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T223311">2023-08-07 22:33:11 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Flies Again After Unscheduled Landing](https://mars.nasa.gov/news/9457/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T220200">2023-08-07 22:02:00 UTC</a></sub>
 * [Amazon Moves Project Kuiper Demo From Vulcan To Atlas 5](https://tlpnetwork.com/news/2023/08/amazon-moves-project-kuiper-demo-to-atlas-5) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T214946">2023-08-07 21:49:46 UTC</a></sub>
 * [Space company Redwire trims quarterly losses, builds order backlog past $270 million](https://www.cnbc.com/2023/08/07/redwire-rdw-space-company-q2-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T214541">2023-08-07 21:45:41 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing’s Starliner crew capsule delayed to NET March 2024](https://www.teslarati.com/boeings-starliner-crew-capsule-delayed-net-march-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T211159">2023-08-07 21:11:59 UTC</a></sub>
 * [Starliner undergoing three independent investigations as flight slips to 2024](https://arstechnica.com/space/2023/08/starliner-undergoing-three-independent-investigations-as-flight-slips-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T210745">2023-08-07 21:07:45 UTC</a></sub>
 * [Starliner CFT To Fly in March 2024 at the Earliest](https://spacepolicyonline.com/news/starliner-cft-to-fly-in-march-2024-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T205646">2023-08-07 20:56:46 UTC</a></sub>
-* [LeoStella Debuts Advance Small Satellite Bus Platform](https://tlpnetwork.com/news/2023/08/leostella-debuts-advance-small-satellite-bus-platform) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T205317">2023-08-07 20:53:17 UTC</a></sub>
-* [Amazon moves Project Kuiper prototypes from Vulcan to Atlas 5](https://spacenews.com/amazon-moves-project-kuiper-prototypes-from-vulcan-to-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T204424">2023-08-07 20:44:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T223228">2023-08-07 22:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T230657">2023-08-07 23:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
