@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Ingenuity Mars Helicopter Flies Again After Unscheduled Landing](https://mars.nasa.gov/news/9457/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T220200">2023-08-07 22:02:00 UTC</a></sub>
+* [Amazon Moves Project Kuiper Demo From Vulcan To Atlas 5](https://tlpnetwork.com/news/2023/08/amazon-moves-project-kuiper-demo-to-atlas-5) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T214946">2023-08-07 21:49:46 UTC</a></sub>
+* [Space company Redwire trims quarterly losses, builds order backlog past $270 million](https://www.cnbc.com/2023/08/07/redwire-rdw-space-company-q2-earnings.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T214541">2023-08-07 21:45:41 UTC</a></sub>
+* [SpaceX's booster 9 performs first static fire test!](https://tlpnetwork.com/news/2023/08/b9firststaticfire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T214027">2023-08-07 21:40:27 UTC</a></sub>
+* [Momentus offers smallsat bus based on Vigoride](https://spacenews.com/momentus-offers-smallsat-bus-based-on-vigoride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T211752">2023-08-07 21:17:52 UTC</a></sub>
+* [Boeing’s Starliner crew capsule delayed to NET March 2024](https://www.teslarati.com/boeings-starliner-crew-capsule-delayed-net-march-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T211159">2023-08-07 21:11:59 UTC</a></sub>
+* [Starliner undergoing three independent investigations as flight slips to 2024](https://arstechnica.com/space/2023/08/starliner-undergoing-three-independent-investigations-as-flight-slips-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T210745">2023-08-07 21:07:45 UTC</a></sub>
 * [Starliner CFT To Fly in March 2024 at the Earliest](https://spacepolicyonline.com/news/starliner-cft-to-fly-in-march-2024-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T205646">2023-08-07 20:56:46 UTC</a></sub>
 * [LeoStella Debuts Advance Small Satellite Bus Platform](https://tlpnetwork.com/news/2023/08/leostella-debuts-advance-small-satellite-bus-platform) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T205317">2023-08-07 20:53:17 UTC</a></sub>
 * [Amazon moves Project Kuiper prototypes from Vulcan to Atlas 5](https://spacenews.com/amazon-moves-project-kuiper-prototypes-from-vulcan-to-atlas-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T204424">2023-08-07 20:44:24 UTC</a></sub>
-* [Boeing resets Starliner plan to be ready for first NASA crew flight by March](https://www.cnbc.com/2023/08/07/boeing-resets-starliners-first-crewed-spaceflight-target-for-march.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T194952">2023-08-07 19:49:52 UTC</a></sub>
-* [Launch Roundup: Russia to return to the Moon in Luna 25 mission, Virgin Galactic to complete first fully private space tourism flight](https://www.nasaspaceflight.com/2023/08/launch-roundup-080623/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T194928">2023-08-07 19:49:28 UTC</a></sub>
-* [Mars Wobble & Core Size Confirmed By NASA's InSight Lander](https://tlpnetwork.com/news/2023/08/mars-wobble-and-core-size-confirmed-by-nasa-insight-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T191918">2023-08-07 19:19:18 UTC</a></sub>
-* [Lockheed Martin Opens New Small Satellite Factory](https://tlpnetwork.com/news/2023/08/lockheed-martin-opens-new-small-satellite-factory) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T190150">2023-08-07 19:01:50 UTC</a></sub>
-* [NanoAvionics completes LEO satellite for studying black holes](https://spacenews.com/nanoavionics-completes-leo-satellite-for-studying-black-holes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T185245">2023-08-07 18:52:45 UTC</a></sub>
-* [Lockheed Martin’s data-transport satellite clears design review](https://spacenews.com/lockheed-martins-data-transport-satellite-clears-design-review/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T183821">2023-08-07 18:38:21 UTC</a></sub>
-* [SpaceX closes in on launch record with most recent Starlink launch](https://www.teslarati.com/spacex-closes-in-launch-record-starlink-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T173209">2023-08-07 17:32:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T213243">2023-08-07 21:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T220628">2023-08-07 22:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
