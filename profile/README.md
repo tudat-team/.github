@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Xenesis to send optical terminal to ISS platform](https://spacenews.com/xenesis-to-send-optical-terminal-to-iss-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T100000">2023-08-07 10:00:00 UTC</a></sub>
 * [SpaceX conducts a mostly successful test of its Super Heavy booster](https://arstechnica.com/space/2023/08/spacex-conducts-a-mostly-successful-test-of-its-super-heavy-booster/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T205509">2023-08-06 20:55:09 UTC</a></sub>
 * [SpaceX performs static fire test of Booster 9](https://www.teslarati.com/spacex-performs-static-fire-test-of-booster-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T203206">2023-08-06 20:32:06 UTC</a></sub>
 * [Lockheed Martin opens new factory focused on small satellites](https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T200000">2023-08-06 20:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Space Recap: July 31 – August 6](https://www.teslarati.com/the-weekly-space-recap-jul-31-aug-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T013206">2023-08-06 01:32:06 UTC</a></sub>
 * [Chandrayaan-3 Reaches Lunar Orbit, Landing Soon with Russia, Japan and U.S. Close Behind](https://spacepolicyonline.com/news/chandrayaan-3-reaches-lunar-orbit-landing-soon-with-russia-japan-and-u-s-close-behind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T213622">2023-08-05 21:36:22 UTC</a></sub>
 * [After 11 years on Mars, Curiosity continues to climb the slopes of Mount Sharp](https://www.nasaspaceflight.com/2023/08/msl-11-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T193606">2023-08-05 19:36:06 UTC</a></sub>
-* [NASA, ESA, CSA, and JAXA Commit To ISS Operations Through 2030](https://tlpnetwork.com/news/2023/08/nasa-esa-csa-jaxa-commit-to-iss-operations-through-2030) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T163859">2023-08-05 16:38:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T093219">2023-08-07 09:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T100803">2023-08-07 10:08:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
