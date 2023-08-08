@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [After a scare, NASA’s Mars helicopter safely takes to the skies again](https://arstechnica.com/space/2023/08/after-a-scare-nasas-mars-helicopter-safely-takes-to-the-skies-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T145048">2023-08-08 14:50:48 UTC</a></sub>
+* [ESA Sets Schedule For Ariane 6 Test Campaign](https://tlpnetwork.com/news/2023/08/ariane-6-test-campaign-timeline) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T154900">2023-08-08 15:49:00 UTC</a></sub>
+* [Exotrail establishes U.S. presence](https://spacenews.com/exotrail-establishes-u-s-presence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T154005">2023-08-08 15:40:05 UTC</a></sub>
+* [The helicopter on Mars just flew again after surviving an emergency landing](https://arstechnica.com/space/2023/08/after-a-scare-nasas-mars-helicopter-safely-takes-to-the-skies-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T145048">2023-08-08 14:50:48 UTC</a></sub>
 * [Dish and EchoStar agree terrestrial and space connectivity merger](https://spacenews.com/dish-and-echostar-agree-terrestrial-and-space-connectivity-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T144220">2023-08-08 14:42:20 UTC</a></sub>
 * [Space Development Agency to expand satellite ground operations in North Dakota](https://spacenews.com/space-development-agency-to-expand-satellite-ground-operations-in-north-dakota/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T135611">2023-08-08 13:56:11 UTC</a></sub>
 * [ExoTerra gains flight heritage for Halo thrusters](https://spacenews.com/exoterra-gains-flight-heritage-for-halo-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T130000">2023-08-08 13:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Busek lauds on-orbit performance of OneWeb’s Hall-effect thrusters](https://spacenews.com/busek-lauds-on-orbit-performance-of-onewebs-hall-effect-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T120000">2023-08-08 12:00:00 UTC</a></sub>
 * [KSAT unveils automated Ka-band network](https://spacenews.com/ksat-unveils-automated-ka-band-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T120000">2023-08-08 12:00:00 UTC</a></sub>
 * [Billionaire Charlie Ergen merging Dish and EchoStar to expand mobile and satellite telecom empire](https://www.cnbc.com/2023/08/08/billionaire-charlie-ergen-merging-dish-and-echostar-to-expand-mobile-and-satellite-telecom-empire.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T112945">2023-08-08 11:29:45 UTC</a></sub>
-* [Rocket Factory Augsburg gets €30 million investment boost](https://spacenews.com/rocket-factory-augsburg-gets-e30-million-investment-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T105925">2023-08-08 10:59:25 UTC</a></sub>
-* [Solestial to supply solar arrays for Atomos space tugs](https://spacenews.com/solestial-to-supply-solar-arrays-for-atomos-space-tugs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T032308">2023-08-08 03:23:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T153227">2023-08-08 15:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T160912">2023-08-08 16:09:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
