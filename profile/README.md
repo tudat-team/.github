@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Ingenuity Mars Helicopter Flies Again Following Unscheduled Landing](https://tlpnetwork.com/news/2023/08/nasa-ingenuity-mars-helicopter-flies-again-following-unscheduled-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T163504">2023-08-08 16:35:04 UTC</a></sub>
+* [Download your Tuesday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-tuesday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T161948">2023-08-08 16:19:48 UTC</a></sub>
 * [ESA Sets Schedule For Ariane 6 Test Campaign](https://tlpnetwork.com/news/2023/08/ariane-6-test-campaign-timeline) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T154900">2023-08-08 15:49:00 UTC</a></sub>
 * [Exotrail establishes U.S. presence](https://spacenews.com/exotrail-establishes-u-s-presence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T154005">2023-08-08 15:40:05 UTC</a></sub>
 * [The helicopter on Mars just flew again after surviving an emergency landing](https://arstechnica.com/space/2023/08/after-a-scare-nasas-mars-helicopter-safely-takes-to-the-skies-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T145048">2023-08-08 14:50:48 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ExoTerra gains flight heritage for Halo thrusters](https://spacenews.com/exoterra-gains-flight-heritage-for-halo-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T130000">2023-08-08 13:00:00 UTC</a></sub>
 * [Funded for further growth, Leaf Space prepares its ground station network for the upcoming SpaceX’s Transporter-9 mission and shares excitement for the sector](https://spacenews.com/funded-for-further-growth-leaf-space-prepares-its-ground-station-network-for-the-upcoming-spacexs-transporter-9-mission-and-shares-excitement-for-the-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T123906">2023-08-08 12:39:06 UTC</a></sub>
 * [Busek lauds on-orbit performance of OneWeb’s Hall-effect thrusters](https://spacenews.com/busek-lauds-on-orbit-performance-of-onewebs-hall-effect-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T120000">2023-08-08 12:00:00 UTC</a></sub>
-* [KSAT unveils automated Ka-band network](https://spacenews.com/ksat-unveils-automated-ka-band-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T120000">2023-08-08 12:00:00 UTC</a></sub>
-* [Billionaire Charlie Ergen merging Dish and EchoStar to expand mobile and satellite telecom empire](https://www.cnbc.com/2023/08/08/billionaire-charlie-ergen-merging-dish-and-echostar-to-expand-mobile-and-satellite-telecom-empire.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T112945">2023-08-08 11:29:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T163703">2023-08-08 16:37:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170718">2023-08-08 17:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
