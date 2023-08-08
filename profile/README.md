@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First Starliner crewed flight delayed to 2024](https://spacenews.com/first-starliner-crewed-flight-delayed-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T000704">2023-08-08 00:07:04 UTC</a></sub>
+* [Eutelsat and Thaicom go halves on Asia-focused telecoms satellite](https://spacenews.com/eutelsat-and-thaicom-go-halves-on-asia-focused-telecoms-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T230655">2023-08-07 23:06:55 UTC</a></sub>
 * [NASA TROPICS Constellation Fully Operational & Ready For Hurricane Season](https://tlpnetwork.com/news/2023/08/nasa-tropics-constellation-fully-operational-and-ready-for-hurricane-season) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T225853">2023-08-07 22:58:53 UTC</a></sub>
 * [HyImpulse Issued First Large Rocket Air Navigation Order from CAA](https://tlpnetwork.com/news/2023/08/hyimpulse-issued-first-lran-from-caa) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T223311">2023-08-07 22:33:11 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Flies Again After Unscheduled Landing](https://mars.nasa.gov/news/9457/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T220200">2023-08-07 22:02:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX's booster 9 performs first static fire test!](https://tlpnetwork.com/news/2023/08/b9firststaticfire) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T214027">2023-08-07 21:40:27 UTC</a></sub>
 * [Momentus offers smallsat bus based on Vigoride](https://spacenews.com/momentus-offers-smallsat-bus-based-on-vigoride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T211752">2023-08-07 21:17:52 UTC</a></sub>
 * [Boeing’s Starliner crew capsule delayed to NET March 2024](https://www.teslarati.com/boeings-starliner-crew-capsule-delayed-net-march-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T211159">2023-08-07 21:11:59 UTC</a></sub>
-* [Starliner undergoing three independent investigations as flight slips to 2024](https://arstechnica.com/space/2023/08/starliner-undergoing-three-independent-investigations-as-flight-slips-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T210745">2023-08-07 21:07:45 UTC</a></sub>
-* [Starliner CFT To Fly in March 2024 at the Earliest](https://spacepolicyonline.com/news/starliner-cft-to-fly-in-march-2024-at-the-earliest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T205646">2023-08-07 20:56:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T233226">2023-08-07 23:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T004008">2023-08-08 00:40:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
