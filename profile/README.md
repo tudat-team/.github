@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Busek lauds on-orbit performance of OneWeb’s Hall-effect thrusters](https://spacenews.com/busek-lauds-on-orbit-performance-of-onewebs-hall-effect-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T120000">2023-08-08 12:00:00 UTC</a></sub>
+* [ExoTerra gains flight heritage for Halo thrusters](https://spacenews.com/exoterra-gains-flight-heritage-for-halo-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T130000">2023-08-08 13:00:00 UTC</a></sub>
+* [Funded for further growth, Leaf Space prepares its ground station network for the upcoming SpaceX’s Transporter-9 mission and shares excitement for the sector](https://spacenews.com/funded-for-further-growth-leaf-space-prepares-its-ground-station-network-for-the-upcoming-spacexs-transporter-9-mission-and-shares-excitement-for-the-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T123906">2023-08-08 12:39:06 UTC</a></sub>
 * [KSAT unveils automated Ka-band network](https://spacenews.com/ksat-unveils-automated-ka-band-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T120000">2023-08-08 12:00:00 UTC</a></sub>
+* [Busek lauds on-orbit performance of OneWeb’s Hall-effect thrusters](https://spacenews.com/busek-lauds-on-orbit-performance-of-onewebs-hall-effect-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T120000">2023-08-08 12:00:00 UTC</a></sub>
 * [Billionaire Charlie Ergen merging Dish and EchoStar to expand mobile and satellite telecom empire](https://www.cnbc.com/2023/08/08/billionaire-charlie-ergen-merging-dish-and-echostar-to-expand-mobile-and-satellite-telecom-empire.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T112945">2023-08-08 11:29:45 UTC</a></sub>
 * [Rocket Factory Augsburg gets €30 million investment boost](https://spacenews.com/rocket-factory-augsburg-gets-e30-million-investment-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T105925">2023-08-08 10:59:25 UTC</a></sub>
 * [Solestial to supply solar arrays for Atomos space tugs](https://spacenews.com/solestial-to-supply-solar-arrays-for-atomos-space-tugs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T032308">2023-08-08 03:23:08 UTC</a></sub>
 * [Boeing Starliner Crewed Flight Test Delayed To 2024](https://tlpnetwork.com/news/2023/08/starliner-cft-delayed-to-2024) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T014057">2023-08-08 01:40:57 UTC</a></sub>
 * [NanoAvionics Prepares LEO Black Hole Research Satellite For Launch](https://tlpnetwork.com/news/2023/08/nanoavionics-prepares-leo-black-hole-research-satellite-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T010421">2023-08-08 01:04:21 UTC</a></sub>
 * [Pale Blue to supply thrusters for Yonsei University cubesats](https://spacenews.com/pale-blue-to-supply-thrusters-for-yonsei-university-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T010213">2023-08-08 01:02:13 UTC</a></sub>
-* [First Starliner crewed flight delayed to 2024](https://spacenews.com/first-starliner-crewed-flight-delayed-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T000704">2023-08-08 00:07:04 UTC</a></sub>
-* [Eutelsat and Thaicom go halves on Asia-focused telecoms satellite](https://spacenews.com/eutelsat-and-thaicom-go-halves-on-asia-focused-telecoms-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T230655">2023-08-07 23:06:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T130948">2023-08-08 13:09:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T133234">2023-08-08 13:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
