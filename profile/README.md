@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Redwire to supply cameras for True Anomaly’s inspector satellites](https://spacenews.com/redwire-to-supply-cameras-for-true-anomalys-inspector-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T191440">2023-08-08 19:14:40 UTC</a></sub>
 * [Exotrail Expands To US To Serve Commercial and Government Customers](https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T185811">2023-08-08 18:58:11 UTC</a></sub>
 * [Starfish Space wins Air Force contract to develop satellite guidance software](https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T184128">2023-08-08 18:41:28 UTC</a></sub>
 * [U.S. commission to investigate China’s remote-sensing technologies](https://spacenews.com/u-s-commission-to-investigate-chinas-remote-sensing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T182014">2023-08-08 18:20:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Firefly Aerospace Partners With Xtenti For Elytra Demo Mission](https://tlpnetwork.com/news/2023/08/firefly-aerospace-partners-with-xtenti-for-elytra-demo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170745">2023-08-08 17:07:45 UTC</a></sub>
 * [China could be planning a second broadband megaconstellation](https://spacenews.com/china-could-be-planning-a-second-broadband-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170412">2023-08-08 17:04:12 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Flies Again Following Unscheduled Landing](https://tlpnetwork.com/news/2023/08/nasa-ingenuity-mars-helicopter-flies-again-following-unscheduled-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T163504">2023-08-08 16:35:04 UTC</a></sub>
-* [Download your Tuesday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-tuesday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T161948">2023-08-08 16:19:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T193226">2023-08-08 19:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T200755">2023-08-08 20:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
