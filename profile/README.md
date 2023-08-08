@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [GHGSat orders four more greenhouse gas monitoring cubesats from Spire](https://spacenews.com/ghgsat-orders-four-more-greenhouse-gas-monitoring-cubesats-from-spire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T214947">2023-08-08 21:49:47 UTC</a></sub>
+* [Artemis II On Track, But Artemis III Could Be a “Different Mission” if Hardware Not Ready](https://spacepolicyonline.com/news/artemis-ii-on-track-but-artemis-iii-could-be-a-different-mission-if-hardware-not-ready/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T212909">2023-08-08 21:29:09 UTC</a></sub>
+* [Dish Network & EchoStar Announce Merger](https://tlpnetwork.com/news/2023/08/dish-network-and-echostar-announce-merger) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T212029">2023-08-08 21:20:29 UTC</a></sub>
+* [Eutelsat Partners With Thaicom To Launch GEO Telecom Sat](https://tlpnetwork.com/news/2023/08/eutelsat-partners-with-thaicom-on-geo-telecom-sat) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T211256">2023-08-08 21:12:56 UTC</a></sub>
+* [Rocket Lab results match Wall Street estimates, company adds contracts for 10 launches](https://www.cnbc.com/2023/08/08/rocket-lab-rklb-q2-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T210731">2023-08-08 21:07:31 UTC</a></sub>
 * [BlackSky Signs Launch Deal With RocketLab For Next Gen Satellites](https://tlpnetwork.com/news/2023/08/blacksky-signs-launch-deal-with-rocketlab-for-next-gen-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T204756">2023-08-08 20:47:56 UTC</a></sub>
 * [SpaceX moves Booster 9 back to the production site](https://www.teslarati.com/spacex-moves-booster-9-back-production-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T204206">2023-08-08 20:42:06 UTC</a></sub>
 * [Redwire to supply cameras for True Anomaly’s inspector satellites](https://spacenews.com/redwire-to-supply-cameras-for-true-anomalys-inspector-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T191440">2023-08-08 19:14:40 UTC</a></sub>
 * [Exotrail Expands To US To Serve Commercial and Government Customers](https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T185811">2023-08-08 18:58:11 UTC</a></sub>
 * [Starfish Space wins Air Force contract to develop satellite guidance software](https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T184128">2023-08-08 18:41:28 UTC</a></sub>
-* [U.S. commission to investigate China’s remote-sensing technologies](https://spacenews.com/u-s-commission-to-investigate-chinas-remote-sensing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T182014">2023-08-08 18:20:14 UTC</a></sub>
-* [NRO to conduct responsive space mission with Firefly and Xtenti](https://spacenews.com/nro-to-conduct-responsive-space-mission-with-firefly-and-xtenti/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T180941">2023-08-08 18:09:41 UTC</a></sub>
-* [NOAA lifts many commercial remote sensing license conditions](https://spacenews.com/noaa-lifts-many-commercial-remote-sensing-license-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T174545">2023-08-08 17:45:45 UTC</a></sub>
-* [SpaceX Falcon 9 sends 15 Starlink satellites to join growing constellation](https://www.teslarati.com/spacex-falcon-9-sends-15-starlink-satellites-to-join-growing-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T174205">2023-08-08 17:42:05 UTC</a></sub>
-* [Firefly Aerospace Partners With Xtenti For Elytra Demo Mission](https://tlpnetwork.com/news/2023/08/firefly-aerospace-partners-with-xtenti-for-elytra-demo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170745">2023-08-08 17:07:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T213222">2023-08-08 21:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T220646">2023-08-08 22:06:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
