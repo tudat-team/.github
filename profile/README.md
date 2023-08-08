@@ -401,6 +401,154 @@ conda install -c tudat-team/label/dev <package>
 </td>
     <td><code>1.2.1.dev5</code></td>
   </tr>
+<tr>
+    <td><code><a href="https://github.com/tudat-team/tudat/tree/develop" target="_blank">tudat</a> (<a href="https://github.com/tudat-team/tudat-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
+    <td>
+<details>
+<summary>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main"/>
+</a>
+</summary>
+<table>
+<thead><tr><th>Variant</th><th>Status</th></tr></thead>
+<tbody><tr>
+<td>linux_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=2&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+</td>
+    <td><code>2.12.1.dev21</code></td>
+  </tr>
+<tr>
+    <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
+    <td>
+<details>
+<summary>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main"/>
+</a>
+</summary>
+<table>
+<thead><tr><th>Variant</th><th>Status</th></tr></thead>
+<tbody><tr>
+<td>linux_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>linux_64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>linux_64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>osx_arm64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.9.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.10.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.10.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.8.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.8.____cpython"/>
+</a>
+</td>
+</tr><tr>
+<td>win_64_python3.9.____cpython</td>
+<td>
+<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
+<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.9.____cpython"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+</td>
+    <td><code>0.7.3.dev18</code></td>
+  </tr>
 
 </table>
 
@@ -420,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BlackSky Signs Launch Deal With RocketLab For Next Gen Satellites](https://tlpnetwork.com/news/2023/08/blacksky-signs-launch-deal-with-rocketlab-for-next-gen-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T204756">2023-08-08 20:47:56 UTC</a></sub>
+* [SpaceX moves Booster 9 back to the production site](https://www.teslarati.com/spacex-moves-booster-9-back-production-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T204206">2023-08-08 20:42:06 UTC</a></sub>
 * [Redwire to supply cameras for True Anomaly’s inspector satellites](https://spacenews.com/redwire-to-supply-cameras-for-true-anomalys-inspector-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T191440">2023-08-08 19:14:40 UTC</a></sub>
 * [Exotrail Expands To US To Serve Commercial and Government Customers](https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T185811">2023-08-08 18:58:11 UTC</a></sub>
 * [Starfish Space wins Air Force contract to develop satellite guidance software](https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T184128">2023-08-08 18:41:28 UTC</a></sub>
@@ -428,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NOAA lifts many commercial remote sensing license conditions](https://spacenews.com/noaa-lifts-many-commercial-remote-sensing-license-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T174545">2023-08-08 17:45:45 UTC</a></sub>
 * [SpaceX Falcon 9 sends 15 Starlink satellites to join growing constellation](https://www.teslarati.com/spacex-falcon-9-sends-15-starlink-satellites-to-join-growing-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T174205">2023-08-08 17:42:05 UTC</a></sub>
 * [Firefly Aerospace Partners With Xtenti For Elytra Demo Mission](https://tlpnetwork.com/news/2023/08/firefly-aerospace-partners-with-xtenti-for-elytra-demo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170745">2023-08-08 17:07:45 UTC</a></sub>
-* [China could be planning a second broadband megaconstellation](https://spacenews.com/china-could-be-planning-a-second-broadband-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170412">2023-08-08 17:04:12 UTC</a></sub>
-* [NASA's Ingenuity Mars Helicopter Flies Again Following Unscheduled Landing](https://tlpnetwork.com/news/2023/08/nasa-ingenuity-mars-helicopter-flies-again-following-unscheduled-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T163504">2023-08-08 16:35:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -462,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T203330">2023-08-08 20:33:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T210636">2023-08-08 21:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
