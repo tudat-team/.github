@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Exotrail Expands To US To Serve Commercial and Government Customers](https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T185811">2023-08-08 18:58:11 UTC</a></sub>
+* [Starfish Space wins Air Force contract to develop satellite guidance software](https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T184128">2023-08-08 18:41:28 UTC</a></sub>
+* [U.S. commission to investigate China’s remote-sensing technologies](https://spacenews.com/u-s-commission-to-investigate-chinas-remote-sensing-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T182014">2023-08-08 18:20:14 UTC</a></sub>
+* [NRO to conduct responsive space mission with Firefly and Xtenti](https://spacenews.com/nro-to-conduct-responsive-space-mission-with-firefly-and-xtenti/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T180941">2023-08-08 18:09:41 UTC</a></sub>
 * [NOAA lifts many commercial remote sensing license conditions](https://spacenews.com/noaa-lifts-many-commercial-remote-sensing-license-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T174545">2023-08-08 17:45:45 UTC</a></sub>
 * [SpaceX Falcon 9 sends 15 Starlink satellites to join growing constellation](https://www.teslarati.com/spacex-falcon-9-sends-15-starlink-satellites-to-join-growing-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T174205">2023-08-08 17:42:05 UTC</a></sub>
 * [Firefly Aerospace Partners With Xtenti For Elytra Demo Mission](https://tlpnetwork.com/news/2023/08/firefly-aerospace-partners-with-xtenti-for-elytra-demo-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170745">2023-08-08 17:07:45 UTC</a></sub>
 * [China could be planning a second broadband megaconstellation](https://spacenews.com/china-could-be-planning-a-second-broadband-megaconstellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170412">2023-08-08 17:04:12 UTC</a></sub>
 * [NASA's Ingenuity Mars Helicopter Flies Again Following Unscheduled Landing](https://tlpnetwork.com/news/2023/08/nasa-ingenuity-mars-helicopter-flies-again-following-unscheduled-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T163504">2023-08-08 16:35:04 UTC</a></sub>
 * [Download your Tuesday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-tuesday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T161948">2023-08-08 16:19:48 UTC</a></sub>
-* [ESA Sets Schedule For Ariane 6 Test Campaign](https://tlpnetwork.com/news/2023/08/ariane-6-test-campaign-timeline) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T154900">2023-08-08 15:49:00 UTC</a></sub>
-* [Exotrail establishes U.S. presence](https://spacenews.com/exotrail-establishes-u-s-presence/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T154005">2023-08-08 15:40:05 UTC</a></sub>
-* [The helicopter on Mars just flew again after surviving an emergency landing](https://arstechnica.com/space/2023/08/after-a-scare-nasas-mars-helicopter-safely-takes-to-the-skies-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T145048">2023-08-08 14:50:48 UTC</a></sub>
-* [Dish and EchoStar agree terrestrial and space connectivity merger](https://spacenews.com/dish-and-echostar-agree-terrestrial-and-space-connectivity-merger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T144220">2023-08-08 14:42:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T183219">2023-08-08 18:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T190552">2023-08-08 19:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
