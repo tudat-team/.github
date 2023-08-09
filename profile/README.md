@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starfish Space To Develop Satellite Guidance Software For US Air Force ](https://tlpnetwork.com/news/2023/08/starfish-space-to-develop-satellite-guidance-software-for-us-air-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T034240">2023-08-09 03:42:40 UTC</a></sub>
 * [Lockheed Martin Complete SDA Tranche 1 Transport Layer Critical Design Review](https://tlpnetwork.com/news/2023/08/lockheed-martin-complete-sda-tranche-1-transport-layer-critical-design-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T031027">2023-08-09 03:10:27 UTC</a></sub>
 * [NOAA Lifts Commercial Remote Sensing License Conditions](https://tlpnetwork.com/news/2023/08/noaa-lifts-commercial-remote-sensing-license-conditions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T023420">2023-08-09 02:34:20 UTC</a></sub>
 * [AI Discovers ‘Potentially Hazardous’ Near Earth Asteroid Astronomers Missed ](https://tlpnetwork.com/news/2023/08/ai-discovers-potentially-hazardous-near-earth-asteroid-astronomers-missed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T234744">2023-08-08 23:47:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [True Anomaly Partners With Redwire For Jackal Spacecraft Cameras](https://tlpnetwork.com/news/2023/08/true-anomaly-partners-with-redwire-for-jackal-spacecraft-cameras) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T220211">2023-08-08 22:02:11 UTC</a></sub>
 * [GHGSat orders four more greenhouse gas monitoring cubesats from Spire](https://spacenews.com/ghgsat-orders-four-more-greenhouse-gas-monitoring-cubesats-from-spire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T214947">2023-08-08 21:49:47 UTC</a></sub>
 * [Artemis II On Track, But Artemis III Could Be a “Different Mission” if Hardware Not Ready](https://spacepolicyonline.com/news/artemis-ii-on-track-but-artemis-iii-could-be-a-different-mission-if-hardware-not-ready/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T212909">2023-08-08 21:29:09 UTC</a></sub>
-* [Dish Network & EchoStar Announce Merger](https://tlpnetwork.com/news/2023/08/dish-network-and-echostar-announce-merger) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T212029">2023-08-08 21:20:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T033225">2023-08-09 03:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T040855">2023-08-09 04:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
