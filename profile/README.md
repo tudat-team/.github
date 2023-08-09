@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AI Discovers ‘Potentially Hazardous’ Near Earth Asteroid Astronomers Missed ](https://tlpnetwork.com/news/2023/08/ai-discovers-potentially-hazardous-near-earth-asteroid-astronomers-missed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T234744">2023-08-08 23:47:44 UTC</a></sub>
+* [US To Investigate China's Remote Sensing Technology Advancements](https://tlpnetwork.com/news/2023/08/us-to-investigate-chinas-advancement-into-remote-sensing-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T232139">2023-08-08 23:21:39 UTC</a></sub>
+* [China Planning 2nd LEO Broadband Megaconstellation Called G60 Starlink](https://tlpnetwork.com/news/2023/08/china-planning-g60-starlink-megaconstellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T230105">2023-08-08 23:01:05 UTC</a></sub>
 * [Sierra Space Establishes New Engineering & Test Organization](https://tlpnetwork.com/news/2023/08/sierra-space-establishes-new-engineering-and-test-organization) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T224001">2023-08-08 22:40:01 UTC</a></sub>
 * [True Anomaly Partners With Redwire For Jackal Spacecraft Cameras](https://tlpnetwork.com/news/2023/08/true-anomaly-partners-with-redwire-for-jackal-spacecraft-cameras) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T220211">2023-08-08 22:02:11 UTC</a></sub>
 * [GHGSat orders four more greenhouse gas monitoring cubesats from Spire](https://spacenews.com/ghgsat-orders-four-more-greenhouse-gas-monitoring-cubesats-from-spire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T214947">2023-08-08 21:49:47 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Dish Network & EchoStar Announce Merger](https://tlpnetwork.com/news/2023/08/dish-network-and-echostar-announce-merger) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T212029">2023-08-08 21:20:29 UTC</a></sub>
 * [Eutelsat Partners With Thaicom To Launch GEO Telecom Sat](https://tlpnetwork.com/news/2023/08/eutelsat-partners-with-thaicom-on-geo-telecom-sat) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T211256">2023-08-08 21:12:56 UTC</a></sub>
 * [Rocket Lab results match Wall Street estimates, company adds contracts for 10 launches](https://www.cnbc.com/2023/08/08/rocket-lab-rklb-q2-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T210731">2023-08-08 21:07:31 UTC</a></sub>
-* [BlackSky Signs Launch Deal With RocketLab For Next Gen Satellites](https://tlpnetwork.com/news/2023/08/blacksky-signs-launch-deal-with-rocketlab-for-next-gen-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T204756">2023-08-08 20:47:56 UTC</a></sub>
-* [SpaceX moves Booster 9 back to the production site](https://www.teslarati.com/spacex-moves-booster-9-back-production-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T204206">2023-08-08 20:42:06 UTC</a></sub>
-* [Redwire to supply cameras for True Anomaly’s inspector satellites](https://spacenews.com/redwire-to-supply-cameras-for-true-anomalys-inspector-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T191440">2023-08-08 19:14:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T233235">2023-08-08 23:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T004135">2023-08-09 00:41:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
