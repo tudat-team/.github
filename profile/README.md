@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Smallsat Show-me Era](https://spacenews.com/the-smallsat-show-me-era/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T155400">2023-08-09 15:54:00 UTC</a></sub>
+* [From Customization to Standardization](https://spacenews.com/from-customization-to-standardization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T155317">2023-08-09 15:53:17 UTC</a></sub>
+* [BlackSky buys five Electron launches](https://spacenews.com/blacksky-buys-five-electron-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T152026">2023-08-09 15:20:26 UTC</a></sub>
+* [Cracks in Ancient Martian Mud Surprise NASA's Curiosity Rover Team](https://mars.nasa.gov/news/9459/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T151200">2023-08-09 15:12:00 UTC</a></sub>
+* [Vyoma orders pilot satellites for debris-monitoring constellation](https://spacenews.com/vyoma-orders-pilot-satellites-for-debris-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T151148">2023-08-09 15:11:48 UTC</a></sub>
 * [NASA weighs changes to Artemis 3 if key elements are delayed](https://spacenews.com/nasa-weighs-changes-to-artemis-3-if-key-elements-are-delayed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T123705">2023-08-09 12:37:05 UTC</a></sub>
 * [Download your Wednesday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-wednesday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T110000">2023-08-09 11:00:00 UTC</a></sub>
 * [Solestial To Equip Atomos Space Tugs With Solar Arrays](https://tlpnetwork.com/news/2023/08/solestial-to-equip-atomos-space-tugs-with-solar-arrays) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T045900">2023-08-09 04:59:00 UTC</a></sub>
 * [NRO seeks collaboration with industry and academia](https://spacenews.com/nro-seeks-collaboration-with-industry-and-academia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T041943">2023-08-09 04:19:43 UTC</a></sub>
 * [KSAT Announces Automated Ka-band Network](https://tlpnetwork.com/news/2023/08/ksat-announces-automated-ka-band-network) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T041200">2023-08-09 04:12:00 UTC</a></sub>
-* [SDA To Expand North Dakota Satellite Ground Operations](https://tlpnetwork.com/news/2023/08/sda-to-expand-north-dakota-satellite-ground-operations) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T040500">2023-08-09 04:05:00 UTC</a></sub>
-* [Starfish Space To Develop Satellite Guidance Software For US Air Force ](https://tlpnetwork.com/news/2023/08/starfish-space-to-develop-satellite-guidance-software-for-us-air-force) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T034240">2023-08-09 03:42:40 UTC</a></sub>
-* [Lockheed Martin Complete SDA Tranche 1 Transport Layer Critical Design Review](https://tlpnetwork.com/news/2023/08/lockheed-martin-complete-sda-tranche-1-transport-layer-critical-design-review) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T031027">2023-08-09 03:10:27 UTC</a></sub>
-* [NOAA Lifts Commercial Remote Sensing License Conditions](https://tlpnetwork.com/news/2023/08/noaa-lifts-commercial-remote-sensing-license-conditions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T023420">2023-08-09 02:34:20 UTC</a></sub>
-* [AI Discovers ‘Potentially Hazardous’ Near Earth Asteroid Astronomers Missed ](https://tlpnetwork.com/news/2023/08/ai-discovers-potentially-hazardous-near-earth-asteroid-astronomers-missed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T234744">2023-08-08 23:47:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T153239">2023-08-09 15:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T161033">2023-08-09 16:10:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
