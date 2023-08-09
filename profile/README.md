@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA confirms Ariane 6 debut to slip to 2024](https://spacenews.com/esa-confirms-ariane-6-debut-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T205629">2023-08-09 20:56:29 UTC</a></sub>
 * [Artemis II astronauts get their first look at their Orion spacecraft](https://www.teslarati.com/artemis-ii-astronauts-first-look-orion-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T200159">2023-08-09 20:01:59 UTC</a></sub>
 * [Vyoma Orders First Debris Monitoring Satellites For New Constellation](https://tlpnetwork.com/news/2023/08/vyoma-orders-first-debris-monitoring-satellites-for-new-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T195555">2023-08-09 19:55:55 UTC</a></sub>
 * [Dish Network plots two-way fixed broadband services in Ku-band](https://spacenews.com/dish-network-plots-two-way-fixed-broadband-services-in-ku-band/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T193039">2023-08-09 19:30:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab shares Q2 results results](https://www.teslarati.com/rocket-lab-rklb-shares-q2-results/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T181215">2023-08-09 18:12:15 UTC</a></sub>
 * [Northrop Grumman and Firefly’s Antares 330 and MLV plans take shape](https://www.nasaspaceflight.com/2023/08/northrop-grumman-mlv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T173503">2023-08-09 17:35:03 UTC</a></sub>
 * [NASA Software Catalog Offers Free Programs for Earth Science, More](http://www.nasa.gov/press-release/nasa-software-catalog-offers-free-programs-for-earth-science-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T173200">2023-08-09 17:32:00 UTC</a></sub>
-* [Clogged propellant lines doomed NASA lunar cubesat mission](https://spacenews.com/clogged-propellant-lines-doomed-nasa-lunar-cubesat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T171451">2023-08-09 17:14:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T203241">2023-08-09 20:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T210649">2023-08-09 21:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
