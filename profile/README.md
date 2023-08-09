@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom Space & ESA To Launch Polish Astronaut On Future Mission](https://tlpnetwork.com/news/2023/08/axiom-space-and-esa-to-launch-polish-astronaut-on-future-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T185500">2023-08-09 18:55:00 UTC</a></sub>
+* [Rocket Lab shares Q2 results results](https://www.teslarati.com/rocket-lab-rklb-shares-q2-results/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T181215">2023-08-09 18:12:15 UTC</a></sub>
 * [Northrop Grumman and Firefly’s Antares 330 and MLV plans take shape](https://www.nasaspaceflight.com/2023/08/northrop-grumman-mlv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T173503">2023-08-09 17:35:03 UTC</a></sub>
 * [NASA Software Catalog Offers Free Programs for Earth Science, More](http://www.nasa.gov/press-release/nasa-software-catalog-offers-free-programs-for-earth-science-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T173200">2023-08-09 17:32:00 UTC</a></sub>
 * [Clogged propellant lines doomed NASA lunar cubesat mission](https://spacenews.com/clogged-propellant-lines-doomed-nasa-lunar-cubesat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T171451">2023-08-09 17:14:51 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [BlackSky buys five Electron launches](https://spacenews.com/blacksky-buys-five-electron-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T152026">2023-08-09 15:20:26 UTC</a></sub>
 * [Cracks in Ancient Martian Mud Surprise NASA's Curiosity Rover Team](https://mars.nasa.gov/news/9459/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T151200">2023-08-09 15:12:00 UTC</a></sub>
 * [Vyoma orders pilot satellites for debris-monitoring constellation](https://spacenews.com/vyoma-orders-pilot-satellites-for-debris-monitoring-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T151148">2023-08-09 15:11:48 UTC</a></sub>
-* [NASA weighs changes to Artemis 3 if key elements are delayed](https://spacenews.com/nasa-weighs-changes-to-artemis-3-if-key-elements-are-delayed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T123705">2023-08-09 12:37:05 UTC</a></sub>
-* [Download your Wednesday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-wednesday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T110000">2023-08-09 11:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T183446">2023-08-09 18:34:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T190607">2023-08-09 19:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
