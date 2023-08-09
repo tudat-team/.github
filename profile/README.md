@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Viasat revenue grows as investigation continues into valuable satellite’s malfunction](https://www.cnbc.com/2023/08/09/viasat-vsat-q1-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T212948">2023-08-09 21:29:48 UTC</a></sub>
+* [Japan’s Interstellar aims for orbital launch in 2025](https://spacenews.com/japans-interstellar-aims-for-orbital-launch-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T220623">2023-08-09 22:06:23 UTC</a></sub>
+* [U.S. intelligence agencies take steps to protect commercial satellites](https://spacenews.com/u-s-intelligence-agencies-take-steps-to-protect-commercial-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T220531">2023-08-09 22:05:31 UTC</a></sub>
+* [Viasat revenue grows as investigation continues into malfunctioning $750 million satellite](https://www.cnbc.com/2023/08/09/viasat-vsat-q1-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T212948">2023-08-09 21:29:48 UTC</a></sub>
 * [Lynk Global starts initial direct-to-device services in the Cook Islands](https://spacenews.com/lynk-global-starts-initial-direct-to-device-services-in-the-cook-islands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T211124">2023-08-09 21:11:24 UTC</a></sub>
 * [ESA confirms Ariane 6 debut to slip to 2024](https://spacenews.com/esa-confirms-ariane-6-debut-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T205629">2023-08-09 20:56:29 UTC</a></sub>
 * [Artemis II astronauts get their first look at their Orion spacecraft](https://www.teslarati.com/artemis-ii-astronauts-first-look-orion-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T200159">2023-08-09 20:01:59 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Dish Network plots two-way fixed broadband services in Ku-band](https://spacenews.com/dish-network-plots-two-way-fixed-broadband-services-in-ku-band/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T193039">2023-08-09 19:30:39 UTC</a></sub>
 * [NASA Lunar Flashlight Mission Failed Due To Clogged Propellant Lines](https://tlpnetwork.com/news/2023/08/nasa-lunar-flashlight-mission-failed-due-to-clogged-propellant-lines) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T192827">2023-08-09 19:28:27 UTC</a></sub>
 * [DCubed reveals in-space manufacturing demonstration](https://spacenews.com/dcube-reveals-in-space-manufacturing-demonstration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T190315">2023-08-09 19:03:15 UTC</a></sub>
-* [Axiom Space & ESA To Launch Polish Astronaut On Future Mission](https://tlpnetwork.com/news/2023/08/axiom-space-and-esa-to-launch-polish-astronaut-on-future-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T185500">2023-08-09 18:55:00 UTC</a></sub>
-* [Rocket Lab shares Q2 results results](https://www.teslarati.com/rocket-lab-rklb-shares-q2-results/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T181215">2023-08-09 18:12:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T223222">2023-08-09 22:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T230705">2023-08-09 23:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
