@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Download your Wednesday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-wednesday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T110000">2023-08-09 11:00:00 UTC</a></sub>
 * [Solestial To Equip Atomos Space Tugs With Solar Arrays](https://tlpnetwork.com/news/2023/08/solestial-to-equip-atomos-space-tugs-with-solar-arrays) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T045900">2023-08-09 04:59:00 UTC</a></sub>
 * [NRO seeks collaboration with industry and academia](https://spacenews.com/nro-seeks-collaboration-with-industry-and-academia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T041943">2023-08-09 04:19:43 UTC</a></sub>
 * [KSAT Announces Automated Ka-band Network](https://tlpnetwork.com/news/2023/08/ksat-announces-automated-ka-band-network) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T041200">2023-08-09 04:12:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NOAA Lifts Commercial Remote Sensing License Conditions](https://tlpnetwork.com/news/2023/08/noaa-lifts-commercial-remote-sensing-license-conditions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T023420">2023-08-09 02:34:20 UTC</a></sub>
 * [AI Discovers ‘Potentially Hazardous’ Near Earth Asteroid Astronomers Missed ](https://tlpnetwork.com/news/2023/08/ai-discovers-potentially-hazardous-near-earth-asteroid-astronomers-missed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T234744">2023-08-08 23:47:44 UTC</a></sub>
 * [US To Investigate China's Remote Sensing Technology Advancements](https://tlpnetwork.com/news/2023/08/us-to-investigate-chinas-advancement-into-remote-sensing-tech) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T232139">2023-08-08 23:21:39 UTC</a></sub>
-* [China Planning 2nd LEO Broadband Megaconstellation Called G60 Starlink](https://tlpnetwork.com/news/2023/08/china-planning-g60-starlink-megaconstellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T230105">2023-08-08 23:01:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T113228">2023-08-09 11:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T121457">2023-08-09 12:14:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
