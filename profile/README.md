@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [ICPS-2: Rendezvous target guides Artemis II Orion demonstrations](https://blog.ulalaunch.com/blog/icps-2-orion-will-observe-upper-stage-after-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T132211">2023-08-10 13:22:11 UTC</a></sub>
 * [To stream or not to stream](https://europeanspaceflight.substack.com/p/to-stream-or-not-to-stream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T133958">2023-08-07 13:39:58 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 24-August 6, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-24-august-6-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T115112">2023-08-07 11:51:12 UTC</a></sub>
 * [Far out, man!](https://www.planetary.org/the-downlink/far-out-man) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T143204">2023-08-04 14:32:04 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Aquatic equivalencies](https://www.planetary.org/the-downlink/aquatic-equivalencies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143446">2023-07-28 14:34:46 UTC</a></sub>
 * [Life on Venus: Your Questions Answered](https://www.planetary.org/articles/life-on-venus-your-questions-answered) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143444">2023-07-28 14:34:44 UTC</a></sub>
 * [The time Europe tried to copy Energia](https://europeanspaceflight.substack.com/p/the-time-europe-tried-to-copy-energia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T133059">2023-07-28 13:30:59 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: July 17-23, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-17-23-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T144400">2023-07-24 14:44:00 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T131302">2023-08-10 13:13:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T133632">2023-08-10 13:36:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
