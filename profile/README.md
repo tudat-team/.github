@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic completes their first all civilian flight](https://www.teslarati.com/virgin-galactic-completes-first-all-civilian-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T190206">2023-08-10 19:02:06 UTC</a></sub>
+* [France to Fund Demonstration Missions of Microlaunchers](https://europeanspaceflight.com/france-to-fund-demonstration-missions-of-microlaunchers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T185757">2023-08-10 18:57:57 UTC</a></sub>
+* [Viasat studying L-band from Inmarsat for direct-to-device services](https://spacenews.com/viasat-studying-l-band-from-inmarsat-for-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T182328">2023-08-10 18:23:28 UTC</a></sub>
 * [SpaceX to offer mid-inclination smallsat rideshare launches](https://spacenews.com/spacex-to-offer-mid-inclination-smallsat-rideshare-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T174916">2023-08-10 17:49:16 UTC</a></sub>
 * [Investing in Space: Americans think spotting asteroids should be NASA’s top priority, Pew says](https://www.cnbc.com/2023/08/10/investing-in-space-pew-survey-of-americans-on-nasa-priorities.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T174202">2023-08-10 17:42:02 UTC</a></sub>
 * [NASA to Host Media for Asteroid Capsule Drop Test Briefing in Utah](http://www.nasa.gov/press-release/nasa-to-host-media-for-asteroid-capsule-drop-test-briefing-in-utah) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T172100">2023-08-10 17:21:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Watch NASA Engineers Put a Mars Lander's Legs to the Test](https://mars.nasa.gov/news/9460/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T161100">2023-08-10 16:11:00 UTC</a></sub>
 * [Op-ed | SPACs are a double-edged sword for newspace](https://spacenews.com/op-ed-spacs-are-a-double-edged-sword-for-newspace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T153643">2023-08-10 15:36:43 UTC</a></sub>
 * [Virgin Galactic launches first tourist flight to space](https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T145105">2023-08-10 14:51:05 UTC</a></sub>
-* [Space Force tries to hedge risk with new launch strategy](https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T135924">2023-08-10 13:59:24 UTC</a></sub>
-* [Scout Space, Stanford University win Space Force contract extension](https://spacenews.com/scout-space-stanford-university-win-space-force-contract-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T100000">2023-08-10 10:00:00 UTC</a></sub>
-* [Chinese startup launches 7th Ceres-1 rocket, preps for first sea launch](https://spacenews.com/chinese-startup-launches-7th-ceres-1-rocket-preps-for-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T085014">2023-08-10 08:50:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T183233">2023-08-10 18:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T190545">2023-08-10 19:05:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
