@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to offer mid-inclination smallsat rideshare launches](https://spacenews.com/spacex-to-offer-mid-inclination-smallsat-rideshare-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T174916">2023-08-10 17:49:16 UTC</a></sub>
+* [Investing in Space: Americans think spotting asteroids should be NASA’s top priority, Pew says](https://www.cnbc.com/2023/08/10/investing-in-space-pew-survey-of-americans-on-nasa-priorities.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T174202">2023-08-10 17:42:02 UTC</a></sub>
+* [NASA to Host Media for Asteroid Capsule Drop Test Briefing in Utah](http://www.nasa.gov/press-release/nasa-to-host-media-for-asteroid-capsule-drop-test-briefing-in-utah) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T172100">2023-08-10 17:21:00 UTC</a></sub>
 * [Virgin Galactic conducts first space tourist suborbital flight](https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T161538">2023-08-10 16:15:38 UTC</a></sub>
 * [Watch NASA Engineers Put a Mars Lander's Legs to the Test](https://mars.nasa.gov/news/9460/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T161100">2023-08-10 16:11:00 UTC</a></sub>
 * [Op-ed | SPACs are a double-edged sword for newspace](https://spacenews.com/op-ed-spacs-are-a-double-edged-sword-for-newspace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T153643">2023-08-10 15:36:43 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force tries to hedge risk with new launch strategy](https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T135924">2023-08-10 13:59:24 UTC</a></sub>
 * [Scout Space, Stanford University win Space Force contract extension](https://spacenews.com/scout-space-stanford-university-win-space-force-contract-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T100000">2023-08-10 10:00:00 UTC</a></sub>
 * [Chinese startup launches 7th Ceres-1 rocket, preps for first sea launch](https://spacenews.com/chinese-startup-launches-7th-ceres-1-rocket-preps-for-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T085014">2023-08-10 08:50:14 UTC</a></sub>
-* [Download your Thursday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-thursday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T061600">2023-08-10 06:16:00 UTC</a></sub>
-* [It’s finally time—Virgin Galactic is flying private astronauts into space](https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T031709">2023-08-10 03:17:09 UTC</a></sub>
-* [Viasat not ready to declare Viasat-3 Americas a total loss](https://spacenews.com/viasat-not-ready-to-declare-viasat-3-americas-a-total-loss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T020804">2023-08-10 02:08:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T173220">2023-08-10 17:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T180847">2023-08-10 18:08:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
