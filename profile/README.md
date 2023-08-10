@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic Launches First Space Tourist Mission](https://tlpnetwork.com/news/2023/08/virgin-galactic-launches-first-space-tourist-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T193434">2023-08-10 19:34:34 UTC</a></sub>
+* [SpaceX Announces "Bandwagon" Missions](https://tlpnetwork.com/news/2023/08/spacex-announces-bandwagon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T191800">2023-08-10 19:18:00 UTC</a></sub>
 * [Virgin Galactic completes their first all civilian flight](https://www.teslarati.com/virgin-galactic-completes-first-all-civilian-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T190206">2023-08-10 19:02:06 UTC</a></sub>
 * [France to Fund Demonstration Missions of Microlaunchers](https://europeanspaceflight.com/france-to-fund-demonstration-missions-of-microlaunchers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T185757">2023-08-10 18:57:57 UTC</a></sub>
 * [Viasat studying L-band from Inmarsat for direct-to-device services](https://spacenews.com/viasat-studying-l-band-from-inmarsat-for-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T182328">2023-08-10 18:23:28 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Host Media for Asteroid Capsule Drop Test Briefing in Utah](http://www.nasa.gov/press-release/nasa-to-host-media-for-asteroid-capsule-drop-test-briefing-in-utah) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T172100">2023-08-10 17:21:00 UTC</a></sub>
 * [Virgin Galactic conducts first space tourist suborbital flight](https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T161538">2023-08-10 16:15:38 UTC</a></sub>
 * [Watch NASA Engineers Put a Mars Lander's Legs to the Test](https://mars.nasa.gov/news/9460/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T161100">2023-08-10 16:11:00 UTC</a></sub>
-* [Op-ed | SPACs are a double-edged sword for newspace](https://spacenews.com/op-ed-spacs-are-a-double-edged-sword-for-newspace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T153643">2023-08-10 15:36:43 UTC</a></sub>
-* [Virgin Galactic launches first tourist flight to space](https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T145105">2023-08-10 14:51:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T193221">2023-08-10 19:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T200718">2023-08-10 20:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
