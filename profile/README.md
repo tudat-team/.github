@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic conducts first space tourist suborbital flight](https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T161538">2023-08-10 16:15:38 UTC</a></sub>
+* [Watch NASA Engineers Put a Mars Lander's Legs to the Test](https://mars.nasa.gov/news/9460/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T161100">2023-08-10 16:11:00 UTC</a></sub>
 * [Op-ed | SPACs are a double-edged sword for newspace](https://spacenews.com/op-ed-spacs-are-a-double-edged-sword-for-newspace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T153643">2023-08-10 15:36:43 UTC</a></sub>
-* [Virgin Galactic flies tourists to space for the first time](https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T145105">2023-08-10 14:51:05 UTC</a></sub>
+* [Virgin Galactic launches first tourist flight to space](https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T145105">2023-08-10 14:51:05 UTC</a></sub>
 * [Space Force tries to hedge risk with new launch strategy](https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T135924">2023-08-10 13:59:24 UTC</a></sub>
 * [Scout Space, Stanford University win Space Force contract extension](https://spacenews.com/scout-space-stanford-university-win-space-force-contract-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T100000">2023-08-10 10:00:00 UTC</a></sub>
 * [Chinese startup launches 7th Ceres-1 rocket, preps for first sea launch](https://spacenews.com/chinese-startup-launches-7th-ceres-1-rocket-preps-for-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T085014">2023-08-10 08:50:14 UTC</a></sub>
 * [Download your Thursday ‘News from the 2023 Small Satellite show’ digital edition](https://spacenews.com/download-your-thursday-news-from-the-2023-small-satellite-show-digital-edition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T061600">2023-08-10 06:16:00 UTC</a></sub>
 * [It’s finally time—Virgin Galactic is flying private astronauts into space](https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T031709">2023-08-10 03:17:09 UTC</a></sub>
 * [Viasat not ready to declare Viasat-3 Americas a total loss](https://spacenews.com/viasat-not-ready-to-declare-viasat-3-americas-a-total-loss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T020804">2023-08-10 02:08:04 UTC</a></sub>
-* [Japan’s Interstellar aims for orbital launch in 2025](https://spacenews.com/japans-interstellar-aims-for-orbital-launch-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T220623">2023-08-09 22:06:23 UTC</a></sub>
-* [U.S. intelligence agencies take steps to protect commercial satellites](https://spacenews.com/u-s-intelligence-agencies-take-steps-to-protect-commercial-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T220531">2023-08-09 22:05:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T163626">2023-08-10 16:36:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T170637">2023-08-10 17:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
