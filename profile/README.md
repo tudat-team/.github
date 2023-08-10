@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force tries to hedge risk with new launch strategy](https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T135924">2023-08-10 13:59:24 UTC</a></sub>
 * [Scout Space, Stanford University win Space Force contract extension](https://spacenews.com/scout-space-stanford-university-win-space-force-contract-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T100000">2023-08-10 10:00:00 UTC</a></sub>
 * [Chinese startup launches 7th Ceres-1 rocket, preps for first sea launch](https://spacenews.com/chinese-startup-launches-7th-ceres-1-rocket-preps-for-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T085014">2023-08-10 08:50:14 UTC</a></sub>
 * [It’s finally time—Virgin Galactic is flying private astronauts into space](https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T031709">2023-08-10 03:17:09 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Viasat revenue grows as investigation continues into malfunctioning $750 million satellite](https://www.cnbc.com/2023/08/09/viasat-vsat-q1-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T212948">2023-08-09 21:29:48 UTC</a></sub>
 * [Lynk Global starts initial direct-to-device services in the Cook Islands](https://spacenews.com/lynk-global-starts-initial-direct-to-device-services-in-the-cook-islands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T211124">2023-08-09 21:11:24 UTC</a></sub>
 * [ESA confirms Ariane 6 debut to slip to 2024](https://spacenews.com/esa-confirms-ariane-6-debut-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T205629">2023-08-09 20:56:29 UTC</a></sub>
-* [Artemis II astronauts get their first look at their Orion spacecraft](https://www.teslarati.com/artemis-ii-astronauts-first-look-orion-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T200159">2023-08-09 20:01:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Are exoplanet 'terminator zones' a lead in the search for life?](https://www.planetary.org/articles/exoplanet-terminator-zones-search-for-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140217">2023-08-10 14:02:17 UTC</a></sub>
 * [ICPS-2: Rendezvous target guides Artemis II Orion demonstrations](https://blog.ulalaunch.com/blog/icps-2-orion-will-observe-upper-stage-after-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T132211">2023-08-10 13:22:11 UTC</a></sub>
 * [To stream or not to stream](https://europeanspaceflight.substack.com/p/to-stream-or-not-to-stream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T133958">2023-08-07 13:39:58 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 24-August 6, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-24-august-6-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T115112">2023-08-07 11:51:12 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [LightSail 2 Mission Control](https://www.planetary.org/mission-control) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T122206">2023-07-31 12:22:06 UTC</a></sub>
 * [Aquatic equivalencies](https://www.planetary.org/the-downlink/aquatic-equivalencies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143446">2023-07-28 14:34:46 UTC</a></sub>
 * [Life on Venus: Your Questions Answered](https://www.planetary.org/articles/life-on-venus-your-questions-answered) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143444">2023-07-28 14:34:44 UTC</a></sub>
-* [The time Europe tried to copy Energia](https://europeanspaceflight.substack.com/p/the-time-europe-tried-to-copy-energia) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T133059">2023-07-28 13:30:59 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T133632">2023-08-10 13:36:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140727">2023-08-10 14:07:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
