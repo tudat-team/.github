@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [It’s finally time—Virgin Galactic is flying private astronauts into space](https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T031709">2023-08-10 03:17:09 UTC</a></sub>
 * [Viasat not ready to declare Viasat-3 Americas a total loss](https://spacenews.com/viasat-not-ready-to-declare-viasat-3-americas-a-total-loss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T020804">2023-08-10 02:08:04 UTC</a></sub>
 * [Japan’s Interstellar aims for orbital launch in 2025](https://spacenews.com/japans-interstellar-aims-for-orbital-launch-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T220623">2023-08-09 22:06:23 UTC</a></sub>
 * [U.S. intelligence agencies take steps to protect commercial satellites](https://spacenews.com/u-s-intelligence-agencies-take-steps-to-protect-commercial-satellite-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T220531">2023-08-09 22:05:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Artemis II astronauts get their first look at their Orion spacecraft](https://www.teslarati.com/artemis-ii-astronauts-first-look-orion-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T200159">2023-08-09 20:01:59 UTC</a></sub>
 * [Vyoma Orders First Debris Monitoring Satellites For New Constellation](https://tlpnetwork.com/news/2023/08/vyoma-orders-first-debris-monitoring-satellites-for-new-constellation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T195555">2023-08-09 19:55:55 UTC</a></sub>
 * [Dish Network plots two-way fixed broadband services in Ku-band](https://spacenews.com/dish-network-plots-two-way-fixed-broadband-services-in-ku-band/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T193039">2023-08-09 19:30:39 UTC</a></sub>
-* [NASA Lunar Flashlight Mission Failed Due To Clogged Propellant Lines](https://tlpnetwork.com/news/2023/08/nasa-lunar-flashlight-mission-failed-due-to-clogged-propellant-lines) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T192827">2023-08-09 19:28:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T030806">2023-08-10 03:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T033234">2023-08-10 03:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
