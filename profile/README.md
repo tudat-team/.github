@@ -569,7 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Oklahoma, Texas Students to Hear from NASA Astronauts Aboard Station](http://www.nasa.gov/press-release/oklahoma-texas-students-to-hear-from-nasa-astronauts-aboard-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T210100">2023-08-10 21:01:00 UTC</a></sub>
-* [Luna 25: the first Russian spacecraft in 47 years is ready to go to the moon](https://www.nasaspaceflight.com/2023/08/luna-25-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T203312">2023-08-10 20:33:12 UTC</a></sub>
+* [Luna 25: the first Russian spacecraft in 47 years heading to the moon](https://www.nasaspaceflight.com/2023/08/luna-25-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T203312">2023-08-10 20:33:12 UTC</a></sub>
 * [Scout Space Wins US Space Force Contract Extension](https://tlpnetwork.com/news/2023/08/scout-space-wins-us-space-force-contract-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T200606">2023-08-10 20:06:06 UTC</a></sub>
 * [Virgin Galactic Launches First Space Tourist Mission](https://tlpnetwork.com/news/2023/08/virgin-galactic-launches-first-space-tourist-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T193434">2023-08-10 19:34:34 UTC</a></sub>
 * [SpaceX Announces "Bandwagon" Missions](https://tlpnetwork.com/news/2023/08/spacex-announces-bandwagon-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T191800">2023-08-10 19:18:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T233207">2023-08-10 23:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T003212">2023-08-11 00:32:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
