@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia Launches First Lunar Probe in Almost 50 Years](https://spacepolicyonline.com/news/russia-launches-first-lunar-probe-in-almost-50-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T023617">2023-08-11 02:36:17 UTC</a></sub>
 * [NASA's Parker Solar Probe Executes Precision Maneuver to Target Venus Flyby](https://tlpnetwork.com/news/2023/08/nasa-parker-solar-probe-executes-precision-maneuver-to-target-venus-flyby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T014201">2023-08-11 01:42:01 UTC</a></sub>
 * [Oklahoma, Texas Students to Hear from NASA Astronauts Aboard Station](http://www.nasa.gov/press-release/oklahoma-texas-students-to-hear-from-nasa-astronauts-aboard-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T210100">2023-08-10 21:01:00 UTC</a></sub>
 * [Luna 25: the first Russian spacecraft in 47 years heading to the moon](https://www.nasaspaceflight.com/2023/08/luna-25-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T203312">2023-08-10 20:33:12 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic completes their first all civilian flight](https://www.teslarati.com/virgin-galactic-completes-first-all-civilian-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T190206">2023-08-10 19:02:06 UTC</a></sub>
 * [France to Fund Demonstration Missions of Microlaunchers](https://europeanspaceflight.com/france-to-fund-demonstration-missions-of-microlaunchers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T185757">2023-08-10 18:57:57 UTC</a></sub>
 * [Viasat studying L-band from Inmarsat for direct-to-device services](https://spacenews.com/viasat-studying-l-band-from-inmarsat-for-direct-to-device-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T182328">2023-08-10 18:23:28 UTC</a></sub>
-* [SpaceX to offer mid-inclination smallsat rideshare launches](https://spacenews.com/spacex-to-offer-mid-inclination-smallsat-rideshare-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T174916">2023-08-10 17:49:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T023211">2023-08-11 02:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T030728">2023-08-11 03:07:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
