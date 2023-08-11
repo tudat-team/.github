@@ -588,6 +588,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Hasta la vista, baby](https://www.planetary.org/the-downlink/hasta-la-vista-baby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T143216">2023-08-11 14:32:16 UTC</a></sub>
+* [ICPS-3: Upperstage that will propel Artemis III astronauts to the Moon arrives for processing](https://blog.ulalaunch.com/blog/icps-3-upperstage-that-will-propel-artemis-iii-astronauts-to-the-moon-arrives-for-processing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T141207">2023-08-11 14:12:07 UTC</a></sub>
 * [Are exoplanet 'terminator zones' a lead in the search for life?](https://www.planetary.org/articles/exoplanet-terminator-zones-search-for-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140217">2023-08-10 14:02:17 UTC</a></sub>
 * [ICPS-2: Rendezvous target guides Artemis II Orion demonstrations](https://blog.ulalaunch.com/blog/icps-2-orion-will-observe-upper-stage-after-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T132211">2023-08-10 13:22:11 UTC</a></sub>
 * [To stream or not to stream](https://europeanspaceflight.substack.com/p/to-stream-or-not-to-stream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T133958">2023-08-07 13:39:58 UTC</a></sub>
@@ -596,8 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SILENTBARKER/NROL-107: Atlas V stacked for national security launch](https://blog.ulalaunch.com/blog/silentbarker-atlas-v-stacked-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T152211">2023-08-02 15:22:11 UTC</a></sub>
 * [Will ESA finally land on Mars?](https://europeanspaceflight.substack.com/p/will-esa-finally-land-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T134349">2023-07-31 13:43:49 UTC</a></sub>
 * [LightSail 2 Mission Control](https://www.planetary.org/mission-control) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T122206">2023-07-31 12:22:06 UTC</a></sub>
-* [Aquatic equivalencies](https://www.planetary.org/the-downlink/aquatic-equivalencies) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143446">2023-07-28 14:34:46 UTC</a></sub>
-* [Life on Venus: Your Questions Answered](https://www.planetary.org/articles/life-on-venus-your-questions-answered) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143444">2023-07-28 14:34:44 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T143218">2023-08-11 14:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T150712">2023-08-11 15:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
