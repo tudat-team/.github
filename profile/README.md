@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telesat’s initial LEO constellation fully funded after manufacturer switch](https://spacenews.com/telesats-leo-constellation-fully-funded-after-manufacturer-switch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T183139">2023-08-11 18:31:39 UTC</a></sub>
 * [NASA Seeks Student Ideas for 2024 Human Exploration Rover Challenge](http://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T134200">2023-08-11 13:42:00 UTC</a></sub>
 * [Telesat stock surges 50% after satellite internet company swaps suppliers to save $2 billion](https://www.cnbc.com/2023/08/11/telesat-swaps-internet-satellite-suppliers-to-save-2-billion.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T131952">2023-08-11 13:19:52 UTC</a></sub>
 * [Virgin Galactic just flew again, but is the company going anywhere?](https://arstechnica.com/space/2023/08/virgin-galactic-just-flew-again-but-is-the-company-going-anywhere/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T113030">2023-08-11 11:30:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Oklahoma, Texas Students to Hear from NASA Astronauts Aboard Station](http://www.nasa.gov/press-release/oklahoma-texas-students-to-hear-from-nasa-astronauts-aboard-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T210100">2023-08-10 21:01:00 UTC</a></sub>
 * [Luna 25: the first Russian spacecraft in 47 years heading to the moon](https://www.nasaspaceflight.com/2023/08/luna-25-mission-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T203312">2023-08-10 20:33:12 UTC</a></sub>
 * [Scout Space Wins US Space Force Contract Extension](https://tlpnetwork.com/news/2023/08/scout-space-wins-us-space-force-contract-extension) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T200606">2023-08-10 20:06:06 UTC</a></sub>
-* [Virgin Galactic Launches First Space Tourist Mission](https://tlpnetwork.com/news/2023/08/virgin-galactic-launches-first-space-tourist-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T193434">2023-08-10 19:34:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T183236">2023-08-11 18:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T190525">2023-08-11 19:05:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
