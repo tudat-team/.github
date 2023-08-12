@@ -568,8 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA discutirá datos de temperatura, objetivos climáticos](http://www.nasa.gov/press-release/nasa-discutir-datos-de-temperatura-objetivos-clim-ticos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T214100">2023-08-11 21:41:00 UTC</a></sub>
+* [Boeing confident in achieving six flights to the ISS despite Starliner delay](https://www.nasaspaceflight.com/2023/08/starliner-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230812T194720">2023-08-12 19:47:20 UTC</a></sub>
 * [NASA to Discuss Temperature Data, Climate Goals](http://www.nasa.gov/press-release/nasa-to-discuss-temperature-data-climate-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T214100">2023-08-11 21:41:00 UTC</a></sub>
+* [NASA discutirá datos de temperatura, objetivos climáticos](http://www.nasa.gov/press-release/nasa-discutir-datos-de-temperatura-objetivos-clim-ticos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T214100">2023-08-11 21:41:00 UTC</a></sub>
 * [Booster 9 removed from launch site ahead of hot stage ring tests](https://www.nasaspaceflight.com/2023/08/booster-9-removed-testing-hot-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T202549">2023-08-11 20:25:49 UTC</a></sub>
 * [SpaceX booster B1069 successfully launches Group 6-9 Starlink mission](https://www.teslarati.com/spacex-b1069-launches-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T202206">2023-08-11 20:22:06 UTC</a></sub>
 * [Telesat’s initial LEO constellation fully funded after manufacturer switch](https://spacenews.com/telesats-leo-constellation-fully-funded-after-manufacturer-switch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T183139">2023-08-11 18:31:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Telesat stock surges 50% after satellite internet company swaps suppliers to save $2 billion](https://www.cnbc.com/2023/08/11/telesat-swaps-internet-satellite-suppliers-to-save-2-billion.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T131952">2023-08-11 13:19:52 UTC</a></sub>
 * [Virgin Galactic just flew again, but is the company going anywhere?](https://arstechnica.com/space/2023/08/virgin-galactic-just-flew-again-but-is-the-company-going-anywhere/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T113030">2023-08-11 11:30:30 UTC</a></sub>
 * [Space Development Agency shaking up how the military buys satellites](https://spacenews.com/space-development-agency-shaking-up-how-the-military-buys-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T100000">2023-08-11 10:00:00 UTC</a></sub>
-* [Russia Launches First Lunar Probe in Almost 50 Years](https://spacepolicyonline.com/news/russia-launches-first-lunar-probe-in-almost-50-years/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T023617">2023-08-11 02:36:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230812T193208">2023-08-12 19:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230812T200636">2023-08-12 20:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
