@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Julio de 2023 fue el mes más caluroso registrado](http://www.nasa.gov/nasa.gov/press-release/julio-de-2023-fue-el-mes-mas-caluroso-registrado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T172200">2023-08-14 17:22:00 UTC</a></sub>
 * [NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880](http://www.nasa.gov/press-release/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T151100">2023-08-14 15:11:00 UTC</a></sub>
 * [Earth observation evolution: Bigger satellites promise bigger payoff for imagery operators](https://spacenews.com/earth-observation-evolution-bigger-satellites-promise-bigger-payoff-for-imagery-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T150354">2023-08-14 15:03:54 UTC</a></sub>
 * [China launches first geosynchronous orbit radar satellite](https://spacenews.com/china-launches-first-geosynchronous-orbit-radar-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T121435">2023-08-14 12:14:35 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing confident in achieving six flights to the ISS despite Starliner delay](https://www.nasaspaceflight.com/2023/08/starliner-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230812T194720">2023-08-12 19:47:20 UTC</a></sub>
 * [NASA to Discuss Temperature Data, Climate Goals](http://www.nasa.gov/press-release/nasa-to-discuss-temperature-data-climate-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T214100">2023-08-11 21:41:00 UTC</a></sub>
 * [NASA discutirá datos de temperatura, objetivos climáticos](http://www.nasa.gov/press-release/nasa-discutir-datos-de-temperatura-objetivos-clim-ticos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T214100">2023-08-11 21:41:00 UTC</a></sub>
-* [Booster 9 removed from launch site ahead of hot stage ring tests](https://www.nasaspaceflight.com/2023/08/booster-9-removed-testing-hot-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T202549">2023-08-11 20:25:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T173218">2023-08-14 17:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T180904">2023-08-14 18:09:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
