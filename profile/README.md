@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force pitch to private sector: ‘Help us with space protection’ ](https://spacenews.com/space-force-pitch-to-private-sector-help-us-with-space-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T200055">2023-08-14 20:00:55 UTC</a></sub>
 * [Julio de 2023 fue el mes más caluroso registrado](http://www.nasa.gov/nasa.gov/press-release/julio-de-2023-fue-el-mes-mas-caluroso-registrado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T172200">2023-08-14 17:22:00 UTC</a></sub>
 * [NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880](http://www.nasa.gov/press-release/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T151100">2023-08-14 15:11:00 UTC</a></sub>
 * [Earth observation evolution: Bigger satellites promise bigger payoff for imagery operators](https://spacenews.com/earth-observation-evolution-bigger-satellites-promise-bigger-payoff-for-imagery-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T150354">2023-08-14 15:03:54 UTC</a></sub>
+* [2023 Small Satellite Conference Dailies Wrap up](https://spacenews.com/2023-small-satellite-conference-dailies-wrap-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T134900">2023-08-14 13:49:00 UTC</a></sub>
 * [China launches first geosynchronous orbit radar satellite](https://spacenews.com/china-launches-first-geosynchronous-orbit-radar-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T121435">2023-08-14 12:14:35 UTC</a></sub>
 * [Rocket Lab sees Virgin Orbit facility as “scaling enabler” for Neutron](https://spacenews.com/rocket-lab-sees-virgin-orbit-facility-as-scaling-enabler-for-neutron/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T114539">2023-08-14 11:45:39 UTC</a></sub>
 * [What’s Happening in Space Policy August 13-19, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-13-19-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230813T162210">2023-08-13 16:22:10 UTC</a></sub>
 * [U.S. military and allies get a feel for the value of commercial satellite imagery](https://spacenews.com/u-s-military-and-allies-get-a-feel-for-the-value-of-commercial-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230813T135421">2023-08-13 13:54:21 UTC</a></sub>
 * [Boeing confident in achieving six flights to the ISS despite Starliner delay](https://www.nasaspaceflight.com/2023/08/starliner-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230812T194720">2023-08-12 19:47:20 UTC</a></sub>
-* [NASA to Discuss Temperature Data, Climate Goals](http://www.nasa.gov/press-release/nasa-to-discuss-temperature-data-climate-goals) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T214100">2023-08-11 21:41:00 UTC</a></sub>
-* [NASA discutirá datos de temperatura, objetivos climáticos](http://www.nasa.gov/press-release/nasa-discutir-datos-de-temperatura-objetivos-clim-ticos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T214100">2023-08-11 21:41:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: August 7-13, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-7-13-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193243">2023-08-14 19:32:43 UTC</a></sub>
 * [Hasta la vista, baby](https://www.planetary.org/the-downlink/hasta-la-vista-baby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T143216">2023-08-11 14:32:16 UTC</a></sub>
 * [ICPS-3: Upperstage that will propel Artemis III astronauts to the Moon arrives for processing](https://blog.ulalaunch.com/blog/icps-3-upperstage-that-will-propel-artemis-iii-astronauts-to-the-moon-arrives-for-processing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T141207">2023-08-11 14:12:07 UTC</a></sub>
 * [Are exoplanet 'terminator zones' a lead in the search for life?](https://www.planetary.org/articles/exoplanet-terminator-zones-search-for-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140217">2023-08-10 14:02:17 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Far out, man!](https://www.planetary.org/the-downlink/far-out-man) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T143204">2023-08-04 14:32:04 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Atlas V stacked for national security launch](https://blog.ulalaunch.com/blog/silentbarker-atlas-v-stacked-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T152211">2023-08-02 15:22:11 UTC</a></sub>
 * [Will ESA finally land on Mars?](https://europeanspaceflight.substack.com/p/will-esa-finally-land-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T134349">2023-07-31 13:43:49 UTC</a></sub>
-* [LightSail 2 Mission Control](https://www.planetary.org/mission-control) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T122206">2023-07-31 12:22:06 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193203">2023-08-14 19:32:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T200721">2023-08-14 20:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
