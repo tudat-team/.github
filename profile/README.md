@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China Launches World's First Geosynchronous Orbit Synthetic Aperture Radar Satellite](https://tlpnetwork.com/news/2023/08/china-launches-worlds-first-geosynchronous-orbit-synthetic-aperture-radar-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T170126">2023-08-15 17:01:26 UTC</a></sub>
+* [NASA Selects Rocket Lab For Polar Energy Monitoring Missions](https://tlpnetwork.com/news/2023/08/nasa-selects-rocket-lab-for-polar-energy-monitoring-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T164414">2023-08-15 16:44:14 UTC</a></sub>
+* [NASA Developing Larger SLS Cubesat Payload Adapter; Consider A2 & A3 Payloads](https://tlpnetwork.com/news/2023/08/nasa-developing-larger-sls-cubesat-payload-adapter-consider-a2-a3-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T161350">2023-08-15 16:13:50 UTC</a></sub>
 * [Intuitive Machines says it is ready to fly to the Moon](https://arstechnica.com/space/2023/08/intuitive-machines-says-it-is-ready-to-fly-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T153119">2023-08-15 15:31:19 UTC</a></sub>
 * [Lockheed Martin, NASA working around the clock to finish Artemis II Orion assembly and hold 2024 launch date](https://www.nasaspaceflight.com/2023/08/orion-update-081523/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T142907">2023-08-15 14:29:07 UTC</a></sub>
 * [Rocket Lab to launch pair of NASA Earth science cubesats](https://spacenews.com/rocket-lab-to-launch-pair-of-nasa-earth-science-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T113535">2023-08-15 11:35:35 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intuitive Machines sets mid-November launch date for first lunar lander](https://spacenews.com/intuitive-machines-sets-mid-november-launch-date-for-first-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T020843">2023-08-15 02:08:43 UTC</a></sub>
 * [AST SpaceMobile fully funds first five commercial direct-to-device satellites](https://spacenews.com/ast-spacemobile-fully-funds-first-five-commercial-direct-to-device-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T003753">2023-08-15 00:37:53 UTC</a></sub>
 * [NASA developing larger cubesat payload adapter for SLS](https://spacenews.com/nasa-developing-larger-cubesat-payload-adapter-for-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T002040">2023-08-15 00:20:40 UTC</a></sub>
-* [Intelsat meets conditions for $3.7 billion C-band clearing payout](https://spacenews.com/intelsat-meets-conditions-for-3-7-billion-c-band-clearing-payout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T204229">2023-08-14 20:42:29 UTC</a></sub>
-* [NASA Announces Launch Service for Arctic Warming Experiment](http://www.nasa.gov/press-release/nasa-announces-launch-service-for-arctic-warming-experiment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T201100">2023-08-14 20:11:00 UTC</a></sub>
-* [Space Force pitch to private sector: ‘Help us with space protection’ ](https://spacenews.com/space-force-pitch-to-private-sector-help-us-with-space-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T200055">2023-08-14 20:00:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T163445">2023-08-15 16:34:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T170616">2023-08-15 17:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
