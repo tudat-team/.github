@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arianespace to Launch Europe’s Final Mission of 2023 Aboard Vega in September](https://europeanspaceflight.com/arianespace-to-launch-europes-final-mission-of-2023-aboard-vega-in-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T194833">2023-08-15 19:48:33 UTC</a></sub>
+* [US Space Force Retires Classified Surveillance Satellite & Orders Replacement](https://tlpnetwork.com/news/2023/08/us-space-force-retires-classified-surveillance-satellite-orders-replacement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T193654">2023-08-15 19:36:54 UTC</a></sub>
+* [SDA Looks To Change How US Military Buys Satellites](https://tlpnetwork.com/news/2023/08/sda-looks-to-change-how-us-military-buys-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T192639">2023-08-15 19:26:39 UTC</a></sub>
+* [Weekly Space Recap: August 7 – August 13](https://www.teslarati.com/weekly-space-recap-august-7-august-13/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T192205">2023-08-15 19:22:05 UTC</a></sub>
 * [NASA Invites Media to Psyche Launch, Mission will Study an Asteroid](http://www.nasa.gov/press-release/nasa-invites-media-to-psyche-launch-mission-will-study-an-asteroid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T190100">2023-08-15 19:01:00 UTC</a></sub>
 * [La NASA invita a los medios al lanzamiento de Psyche](http://www.nasa.gov/press-release/la-nasa-invita-a-los-medios-al-lanzamiento-de-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T190100">2023-08-15 19:01:00 UTC</a></sub>
+* [Interstellar Technologies Prepares for ZERO Static Fire, Target 2025 For Orbital Launch](https://tlpnetwork.com/news/2023/08/interstellar-technologies-prepares-for-zero-static-fire-target-2025-for-orbital-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T185720">2023-08-15 18:57:20 UTC</a></sub>
 * [DCubed Partners With D-Orbit To Demo In-Space Manufacturing Capability](https://tlpnetwork.com/news/2023/08/dcubed-partners-with-dorbit-to-demo-inspace-manufacturing-capability) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T182921">2023-08-15 18:29:21 UTC</a></sub>
 * [U.S. deactivates GSSAP surveillance satellite, two new ones in the works](https://spacenews.com/u-s-deorbits-gssap-surveillance-satellite-two-new-ones-in-the-works/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T180328">2023-08-15 18:03:28 UTC</a></sub>
 * [China Launches World's First Geosynchronous Orbit Synthetic Aperture Radar Satellite](https://tlpnetwork.com/news/2023/08/china-launches-worlds-first-geosynchronous-orbit-synthetic-aperture-radar-satellite) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T170126">2023-08-15 17:01:26 UTC</a></sub>
-* [NASA Selects Rocket Lab For Polar Energy Monitoring Missions](https://tlpnetwork.com/news/2023/08/nasa-selects-rocket-lab-for-polar-energy-monitoring-missions) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T164414">2023-08-15 16:44:14 UTC</a></sub>
-* [NASA Developing Larger SLS Cubesat Payload Adapter; Consider A2 & A3 Payloads](https://tlpnetwork.com/news/2023/08/nasa-developing-larger-sls-cubesat-payload-adapter-consider-a2-a3-payloads) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T161350">2023-08-15 16:13:50 UTC</a></sub>
-* [Intuitive Machines says it is ready to fly to the Moon](https://arstechnica.com/space/2023/08/intuitive-machines-says-it-is-ready-to-fly-to-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T153119">2023-08-15 15:31:19 UTC</a></sub>
-* [Download the 2023 Small Satellite Conference Dailies Wrap up](https://spacenews.com/2023-small-satellite-conference-dailies-wrap-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T144900">2023-08-15 14:49:00 UTC</a></sub>
-* [Lockheed Martin, NASA working around the clock to finish Artemis II Orion assembly and hold 2024 launch date](https://www.nasaspaceflight.com/2023/08/orion-update-081523/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T142907">2023-08-15 14:29:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T193202">2023-08-15 19:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T200736">2023-08-15 20:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
