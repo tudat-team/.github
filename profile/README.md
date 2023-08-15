@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin, NASA working around the clock to finish Artemis II Orion assembly and hold 2024 launch date](https://www.nasaspaceflight.com/2023/08/orion-update-081523/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T142907">2023-08-15 14:29:07 UTC</a></sub>
 * [Rocket Lab to launch pair of NASA Earth science cubesats](https://spacenews.com/rocket-lab-to-launch-pair-of-nasa-earth-science-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T113535">2023-08-15 11:35:35 UTC</a></sub>
 * [Intuitive Machines Sets November for Launch of IM-1 Lunar Lander](https://spacepolicyonline.com/news/intuitive-machines-sets-november-for-launch-of-im-1-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T035420">2023-08-15 03:54:20 UTC</a></sub>
 * [Intuitive Machines sets mid-November launch date for first lunar lander](https://spacenews.com/intuitive-machines-sets-mid-november-launch-date-for-first-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T020843">2023-08-15 02:08:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Announces Launch Service for Arctic Warming Experiment](http://www.nasa.gov/press-release/nasa-announces-launch-service-for-arctic-warming-experiment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T201100">2023-08-14 20:11:00 UTC</a></sub>
 * [Space Force pitch to private sector: ‘Help us with space protection’ ](https://spacenews.com/space-force-pitch-to-private-sector-help-us-with-space-protection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T200055">2023-08-14 20:00:55 UTC</a></sub>
 * [Julio de 2023 fue el mes más caluroso registrado](http://www.nasa.gov/nasa.gov/press-release/julio-de-2023-fue-el-mes-mas-caluroso-registrado) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T172200">2023-08-14 17:22:00 UTC</a></sub>
-* [NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880](http://www.nasa.gov/press-release/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T151100">2023-08-14 15:11:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T143211">2023-08-15 14:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T150712">2023-08-15 15:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
