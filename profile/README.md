@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intuitive Machines sets mid-November launch date for first lunar lander](https://spacenews.com/intuitive-machines-sets-mid-november-launch-date-for-first-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T020843">2023-08-15 02:08:43 UTC</a></sub>
 * [AST SpaceMobile fully funds first five commercial direct-to-device satellites](https://spacenews.com/ast-spacemobile-fully-funds-first-five-commercial-direct-to-device-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T003753">2023-08-15 00:37:53 UTC</a></sub>
 * [NASA developing larger cubesat payload adapter for SLS](https://spacenews.com/nasa-developing-larger-cubesat-payload-adapter-for-sls/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T002040">2023-08-15 00:20:40 UTC</a></sub>
 * [Intelsat meets conditions for $3.7 billion C-band clearing payout](https://spacenews.com/intelsat-meets-conditions-for-3-7-billion-c-band-clearing-payout/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T204229">2023-08-14 20:42:29 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880](http://www.nasa.gov/press-release/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T151100">2023-08-14 15:11:00 UTC</a></sub>
 * [Earth observation evolution: Bigger satellites promise bigger payoff for imagery operators](https://spacenews.com/earth-observation-evolution-bigger-satellites-promise-bigger-payoff-for-imagery-operators/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T150354">2023-08-14 15:03:54 UTC</a></sub>
 * [2023 Small Satellite Conference Dailies Wrap up](https://spacenews.com/2023-small-satellite-conference-dailies-wrap-up/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T134900">2023-08-14 13:49:00 UTC</a></sub>
-* [China launches first geosynchronous orbit radar satellite](https://spacenews.com/china-launches-first-geosynchronous-orbit-radar-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T121435">2023-08-14 12:14:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T013831">2023-08-15 01:38:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T021200">2023-08-15 02:12:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
