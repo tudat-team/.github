@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX plans back-to-back Starlink launches](https://www.teslarati.com/spacex-back-to-back-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T185204">2023-08-16 18:52:04 UTC</a></sub>
 * [La NASA desafía a los estudiantes a volar experimentos](http://www.nasa.gov/press-release/la-nasa-desaf-a-a-los-estudiantes-a-volar-experimentos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T173200">2023-08-16 17:32:00 UTC</a></sub>
 * [NASA Challenges Students to Fly Earth and Space Experiments](http://www.nasa.gov/press-release/nasa-challenges-students-to-fly-earth-and-space-experiments) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T172100">2023-08-16 17:21:00 UTC</a></sub>
 * [SkyWatch to offer integrated radar-optical satellite imagery](https://spacenews.com/skywatch-to-offer-integrated-radar-optical-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T164454">2023-08-16 16:44:54 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astra seeks strategic investors as cash reserves decrease](https://spacenews.com/astra-seeks-strategic-investors-as-cash-reserves-decrease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T223239">2023-08-15 22:32:39 UTC</a></sub>
 * [Maui truthers are so dumb they’re using a Falcon 9 photo as wildfire evidence](https://arstechnica.com/space/2023/08/how-a-5-year-old-spacex-photo-fueled-maui-wildfire-conspiracy-theorists/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T220951">2023-08-15 22:09:51 UTC</a></sub>
 * [NRO to select providers of new forms of optical satellite imagery](https://spacenews.com/nro-to-select-providers-of-new-forms-of-optical-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T210800">2023-08-15 21:08:00 UTC</a></sub>
-* [Arianespace to Launch Europe’s Final Mission of 2023 Aboard Vega in September](https://europeanspaceflight.com/arianespace-to-launch-europes-final-mission-of-2023-aboard-vega-in-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T194833">2023-08-15 19:48:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T183210">2023-08-16 18:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190549">2023-08-16 19:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
