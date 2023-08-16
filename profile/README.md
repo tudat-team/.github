@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Launch Roundup: three back-to-back Starlink missions to cross 5,000 Starlink satellites launched](https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T193440">2023-08-16 19:34:40 UTC</a></sub>
+* [Momentus cuts workforce while evaluating strategic options](https://spacenews.com/momentus-cuts-workforce-while-evaluating-strategic-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190647">2023-08-16 19:06:47 UTC</a></sub>
+* [Avio Completes First Successful Test Of Methalox Rocket Engine](https://tlpnetwork.com/news/2023/08/avio-m10-dm2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190552">2023-08-16 19:05:52 UTC</a></sub>
 * [SpaceX plans back-to-back Starlink launches](https://www.teslarati.com/spacex-back-to-back-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T185204">2023-08-16 18:52:04 UTC</a></sub>
 * [La NASA desafía a los estudiantes a volar experimentos](http://www.nasa.gov/press-release/la-nasa-desaf-a-a-los-estudiantes-a-volar-experimentos) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T173200">2023-08-16 17:32:00 UTC</a></sub>
 * [NASA Challenges Students to Fly Earth and Space Experiments](http://www.nasa.gov/press-release/nasa-challenges-students-to-fly-earth-and-space-experiments) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T172100">2023-08-16 17:21:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force extends Wallaroo’s contract for on-orbit AI applications](https://spacenews.com/space-force-extends-wallaroos-contract-for-on-orbit-ai-applications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T160655">2023-08-16 16:06:55 UTC</a></sub>
 * [DARPA to study integrated lunar infrastructure](https://spacenews.com/darpa-to-study-integrated-lunar-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T002830">2023-08-16 00:28:30 UTC</a></sub>
 * [SmallSat Alliance recognizes collegiate prize winners](https://spacenews.com/smallsat-alliance-recognizes-collegiate-prize-winners/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T000213">2023-08-16 00:02:13 UTC</a></sub>
-* [Astra seeks strategic investors as cash reserves decrease](https://spacenews.com/astra-seeks-strategic-investors-as-cash-reserves-decrease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T223239">2023-08-15 22:32:39 UTC</a></sub>
-* [Maui truthers are so dumb they’re using a Falcon 9 photo as wildfire evidence](https://arstechnica.com/space/2023/08/how-a-5-year-old-spacex-photo-fueled-maui-wildfire-conspiracy-theorists/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T220951">2023-08-15 22:09:51 UTC</a></sub>
-* [NRO to select providers of new forms of optical satellite imagery](https://spacenews.com/nro-to-select-providers-of-new-forms-of-optical-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T210800">2023-08-15 21:08:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T193214">2023-08-16 19:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T200722">2023-08-16 20:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
