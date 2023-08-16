@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s SpaceX Crew-6 to Discuss Space Station Mission, Upcoming Return](http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-to-discuss-space-station-mission-upcoming-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T204200">2023-08-16 20:42:00 UTC</a></sub>
+* [NASA Hosts Astronaut Loral O’Hara’s Prelaunch Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-loral-o-hara-s-prelaunch-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T201200">2023-08-16 20:12:00 UTC</a></sub>
 * [Launch Roundup: three back-to-back Starlink missions to cross 5,000 Starlink satellites launched](https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T193440">2023-08-16 19:34:40 UTC</a></sub>
 * [Momentus cuts workforce while evaluating strategic options](https://spacenews.com/momentus-cuts-workforce-while-evaluating-strategic-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190647">2023-08-16 19:06:47 UTC</a></sub>
 * [Avio Completes First Successful Test Of Methalox Rocket Engine](https://tlpnetwork.com/news/2023/08/avio-m10-dm2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190552">2023-08-16 19:05:52 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Challenges Students to Fly Earth and Space Experiments](http://www.nasa.gov/press-release/nasa-challenges-students-to-fly-earth-and-space-experiments) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T172100">2023-08-16 17:21:00 UTC</a></sub>
 * [SkyWatch to offer integrated radar-optical satellite imagery](https://spacenews.com/skywatch-to-offer-integrated-radar-optical-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T164454">2023-08-16 16:44:54 UTC</a></sub>
 * [Space Force extends Wallaroo’s contract for on-orbit AI applications](https://spacenews.com/space-force-extends-wallaroos-contract-for-on-orbit-ai-applications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T160655">2023-08-16 16:06:55 UTC</a></sub>
-* [DARPA to study integrated lunar infrastructure](https://spacenews.com/darpa-to-study-integrated-lunar-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T002830">2023-08-16 00:28:30 UTC</a></sub>
-* [SmallSat Alliance recognizes collegiate prize winners](https://spacenews.com/smallsat-alliance-recognizes-collegiate-prize-winners/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T000213">2023-08-16 00:02:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T203213">2023-08-16 20:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T210610">2023-08-16 21:06:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
