@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DARPA to study integrated lunar infrastructure](https://spacenews.com/darpa-to-study-integrated-lunar-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T002830">2023-08-16 00:28:30 UTC</a></sub>
+* [SmallSat Alliance recognizes collegiate prize winners](https://spacenews.com/smallsat-alliance-recognizes-collegiate-prize-winners/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T000213">2023-08-16 00:02:13 UTC</a></sub>
 * [Astra seeks strategic investors as cash reserves decrease](https://spacenews.com/astra-seeks-strategic-investors-as-cash-reserves-decrease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T223239">2023-08-15 22:32:39 UTC</a></sub>
 * [Maui truthers are so dumb they’re using a Falcon 9 photo as wildfire evidence](https://arstechnica.com/space/2023/08/how-a-5-year-old-spacex-photo-fueled-maui-wildfire-conspiracy-theorists/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T220951">2023-08-15 22:09:51 UTC</a></sub>
 * [NRO to select providers of new forms of optical satellite imagery](https://spacenews.com/nro-to-select-providers-of-new-forms-of-optical-satellite-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T210800">2023-08-15 21:08:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SDA Looks To Change How US Military Buys Satellites](https://tlpnetwork.com/news/2023/08/sda-looks-to-change-how-us-military-buys-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T192639">2023-08-15 19:26:39 UTC</a></sub>
 * [Weekly Space Recap: August 7 – August 13](https://www.teslarati.com/weekly-space-recap-august-7-august-13/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T192205">2023-08-15 19:22:05 UTC</a></sub>
 * [NASA Invites Media to Psyche Launch, Mission will Study an Asteroid](http://www.nasa.gov/press-release/nasa-invites-media-to-psyche-launch-mission-will-study-an-asteroid) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T190100">2023-08-15 19:01:00 UTC</a></sub>
-* [La NASA invita a los medios al lanzamiento de Psyche](http://www.nasa.gov/press-release/la-nasa-invita-a-los-medios-al-lanzamiento-de-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T190100">2023-08-15 19:01:00 UTC</a></sub>
-* [Interstellar Technologies Prepares for ZERO Static Fire, Target 2025 For Orbital Launch](https://tlpnetwork.com/news/2023/08/interstellar-technologies-prepares-for-zero-static-fire-target-2025-for-orbital-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T185720">2023-08-15 18:57:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T233213">2023-08-15 23:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T003235">2023-08-16 00:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
