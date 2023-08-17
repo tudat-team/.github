@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SILENTBARKER/NROL-107: Countdown rehearsal tests Atlas V rocket](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-countdown-rehearsal-tests-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T201213">2023-08-17 20:12:13 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 7-13, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-7-13-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193243">2023-08-14 19:32:43 UTC</a></sub>
 * [Hasta la vista, baby](https://www.planetary.org/the-downlink/hasta-la-vista-baby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T143216">2023-08-11 14:32:16 UTC</a></sub>
 * [ICPS-3: Upperstage that will propel Artemis III astronauts to the Moon arrives for processing](https://blog.ulalaunch.com/blog/icps-3-upperstage-that-will-propel-artemis-iii-astronauts-to-the-moon-arrives-for-processing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T141207">2023-08-11 14:12:07 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: July 24-August 6, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-24-august-6-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T115112">2023-08-07 11:51:12 UTC</a></sub>
 * [Far out, man!](https://www.planetary.org/the-downlink/far-out-man) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T143204">2023-08-04 14:32:04 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Atlas V stacked for national security launch](https://blog.ulalaunch.com/blog/silentbarker-atlas-v-stacked-for-national-security-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T152211">2023-08-02 15:22:11 UTC</a></sub>
-* [Will ESA finally land on Mars?](https://europeanspaceflight.substack.com/p/will-esa-finally-land-on-mars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T134349">2023-07-31 13:43:49 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T203223">2023-08-17 20:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T210615">2023-08-17 21:06:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
