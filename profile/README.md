@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Coverage Set for NASA’s SpaceX Crew-7 Events, Broadcast, Launch](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-7-events-broadcast-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T214200">2023-08-17 21:42:00 UTC</a></sub>
+* [True Anomaly opens spacecraft manufacturing facility in Colorado](https://spacenews.com/true-anomaly-opens-spacecraft-manufacturing-facility-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T212621">2023-08-17 21:26:21 UTC</a></sub>
 * [Space Development Agency to consider commercial LEO options to augment DoD network](https://spacenews.com/space-development-agency-to-consider-commercial-leo-options-to-augment-dod-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183736">2023-08-17 18:37:36 UTC</a></sub>
 * [HyImpulse to Debut SR75 Rocket No Earlier than December 1](https://europeanspaceflight.com/hyimpulse-to-debut-sr75-rocket-no-earlier-than-december-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183000">2023-08-17 18:30:00 UTC</a></sub>
 * [Investing in Space: A guide to satellites](https://www.cnbc.com/2023/08/17/investing-in-space-a-guide-to-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T163808">2023-08-17 16:38:08 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [BAE Systems to acquire Ball Aerospace for $5.5 billion](https://spacenews.com/bae-systems-to-acquire-ball-aerospace-for-5-5-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T113101">2023-08-17 11:31:01 UTC</a></sub>
 * [Terran Orbital expects $180 million payment from Rivada Space this year](https://spacenews.com/terran-orbital-orbital-expects-180-million-payment-from-rivada-space-this-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T230803">2023-08-16 23:08:03 UTC</a></sub>
 * [State Department Kicks Off International Lunar Year Discussions](https://spacepolicyonline.com/news/state-department-kicks-off-international-lunar-year-discussions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T220211">2023-08-16 22:02:11 UTC</a></sub>
-* [NASA’s SpaceX Crew-6 to Discuss Space Station Mission, Upcoming Return](http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-to-discuss-space-station-mission-upcoming-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T204200">2023-08-16 20:42:00 UTC</a></sub>
-* [NASA Hosts Astronaut Loral O’Hara’s Prelaunch Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-loral-o-hara-s-prelaunch-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T201200">2023-08-16 20:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T213211">2023-08-17 21:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T220630">2023-08-17 22:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
