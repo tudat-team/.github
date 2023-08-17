@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: A guide to satellites](https://www.cnbc.com/2023/08/17/investing-in-space-a-guide-to-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T163808">2023-08-17 16:38:08 UTC</a></sub>
 * [UK defense contractor BAE buying Ball’s aerospace division for $5.6 billion](https://www.cnbc.com/2023/08/17/bae-buys-ball-aerospace-for-5point6-billion.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T135021">2023-08-17 13:50:21 UTC</a></sub>
 * [Northrop Grumman to get sole-source contract for Space Force radar sites](https://spacenews.com/northrop-grumman-to-get-sole-source-contract-for-space-force-radar-sites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T132119">2023-08-17 13:21:19 UTC</a></sub>
 * [BAE Systems to acquire Ball Aerospace for $5.5 billion](https://spacenews.com/bae-systems-to-acquire-ball-aerospace-for-5-5-billion/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T113101">2023-08-17 11:31:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Hosts Astronaut Loral O’Hara’s Prelaunch Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-loral-o-hara-s-prelaunch-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T201200">2023-08-16 20:12:00 UTC</a></sub>
 * [Launch Roundup: three back-to-back Starlink missions to cross 5,000 Starlink satellites launched](https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T193440">2023-08-16 19:34:40 UTC</a></sub>
 * [Momentus cuts workforce while evaluating strategic options](https://spacenews.com/momentus-cuts-workforce-while-evaluating-strategic-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190647">2023-08-16 19:06:47 UTC</a></sub>
-* [Avio Completes First Successful Test Of Methalox Rocket Engine](https://tlpnetwork.com/news/2023/08/avio-m10-dm2) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190552">2023-08-16 19:05:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T163507">2023-08-17 16:35:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T170614">2023-08-17 17:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
