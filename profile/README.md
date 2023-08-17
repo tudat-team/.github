@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency to consider commercial LEO options to augment DoD network](https://spacenews.com/space-development-agency-to-consider-commercial-leo-options-to-augment-dod-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183736">2023-08-17 18:37:36 UTC</a></sub>
+* [HyImpulse to Debut SR75 Rocket No Earlier than December 1](https://europeanspaceflight.com/hyimpulse-to-debut-sr75-rocket-no-earlier-than-december-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183000">2023-08-17 18:30:00 UTC</a></sub>
 * [Investing in Space: A guide to satellites](https://www.cnbc.com/2023/08/17/investing-in-space-a-guide-to-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T163808">2023-08-17 16:38:08 UTC</a></sub>
 * [UK defense contractor BAE buying Ball’s aerospace division for $5.6 billion](https://www.cnbc.com/2023/08/17/bae-buys-ball-aerospace-for-5point6-billion.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T135021">2023-08-17 13:50:21 UTC</a></sub>
 * [Northrop Grumman to get sole-source contract for Space Force radar sites](https://spacenews.com/northrop-grumman-to-get-sole-source-contract-for-space-force-radar-sites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T132119">2023-08-17 13:21:19 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [State Department Kicks Off International Lunar Year Discussions](https://spacepolicyonline.com/news/state-department-kicks-off-international-lunar-year-discussions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T220211">2023-08-16 22:02:11 UTC</a></sub>
 * [NASA’s SpaceX Crew-6 to Discuss Space Station Mission, Upcoming Return](http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-to-discuss-space-station-mission-upcoming-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T204200">2023-08-16 20:42:00 UTC</a></sub>
 * [NASA Hosts Astronaut Loral O’Hara’s Prelaunch Interviews](http://www.nasa.gov/press-release/nasa-hosts-astronaut-loral-o-hara-s-prelaunch-interviews) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T201200">2023-08-16 20:12:00 UTC</a></sub>
-* [Launch Roundup: three back-to-back Starlink missions to cross 5,000 Starlink satellites launched](https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T193440">2023-08-16 19:34:40 UTC</a></sub>
-* [Momentus cuts workforce while evaluating strategic options](https://spacenews.com/momentus-cuts-workforce-while-evaluating-strategic-options/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T190647">2023-08-16 19:06:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183228">2023-08-17 18:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T190531">2023-08-17 19:05:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
