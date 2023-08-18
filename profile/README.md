@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX launches 22 Starlinks from Florida, delays launch from California](https://www.teslarati.com/spacex-launches-22-starlinks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T193207">2023-08-18 19:32:07 UTC</a></sub>
 * [Starship Update: Booster 9 wearing a crown, construction, and HLS test article](https://www.nasaspaceflight.com/2023/08/starship-update-aug-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T182446">2023-08-18 18:24:46 UTC</a></sub>
 * [Peter Beck pushes toward a Neutron debut in 2024, but acknowledges challenges](https://arstechnica.com/space/2023/08/rocket-lab-pivoting-to-downrange-neutron-landings-to-meet-customer-demand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T181955">2023-08-18 18:19:55 UTC</a></sub>
 * [POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September](https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T132905">2023-08-18 13:29:05 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japanese SAR company iQPS to launch with Rocket Lab after Virgin Orbit bankruptcy](https://spacenews.com/japanese-sar-company-iqps-to-launch-with-rocket-lab-after-virgin-orbit-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T221636">2023-08-17 22:16:36 UTC</a></sub>
 * [Coverage Set for NASA’s SpaceX Crew-7 Events, Broadcast, Launch](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-7-events-broadcast-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T214200">2023-08-17 21:42:00 UTC</a></sub>
 * [True Anomaly opens spacecraft manufacturing facility in Colorado](https://spacenews.com/true-anomaly-opens-spacecraft-manufacturing-facility-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T212621">2023-08-17 21:26:21 UTC</a></sub>
-* [Space Development Agency to consider commercial LEO options to augment DoD network](https://spacenews.com/space-development-agency-to-consider-commercial-leo-options-to-augment-dod-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183736">2023-08-17 18:37:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T193213">2023-08-18 19:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T200705">2023-08-18 20:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
