@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starship Update: Booster 9 wearing a crown, construction, and HLS test article](https://www.nasaspaceflight.com/2023/08/starship-update-aug-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T182446">2023-08-18 18:24:46 UTC</a></sub>
+* [Peter Beck pushes toward a Neutron debut in 2024, but acknowledges challenges](https://arstechnica.com/space/2023/08/rocket-lab-pivoting-to-downrange-neutron-landings-to-meet-customer-demand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T181955">2023-08-18 18:19:55 UTC</a></sub>
 * [POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September](https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T132905">2023-08-18 13:29:05 UTC</a></sub>
 * [U.S. government warns of foreign intelligence threats to the space industry](https://spacenews.com/u-s-government-warns-of-foreign-intelligence-threats-to-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T131212">2023-08-18 13:12:12 UTC</a></sub>
 * [Poland signs agreement to fly astronaut on Axiom Space ISS mission](https://spacenews.com/poland-signs-agreement-to-fly-astronaut-on-axiom-space-iss-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T112922">2023-08-18 11:29:22 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Coverage Set for NASA’s SpaceX Crew-7 Events, Broadcast, Launch](http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-7-events-broadcast-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T214200">2023-08-17 21:42:00 UTC</a></sub>
 * [True Anomaly opens spacecraft manufacturing facility in Colorado](https://spacenews.com/true-anomaly-opens-spacecraft-manufacturing-facility-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T212621">2023-08-17 21:26:21 UTC</a></sub>
 * [Space Development Agency to consider commercial LEO options to augment DoD network](https://spacenews.com/space-development-agency-to-consider-commercial-leo-options-to-augment-dod-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183736">2023-08-17 18:37:36 UTC</a></sub>
-* [HyImpulse to Debut SR75 Rocket No Earlier than December 1](https://europeanspaceflight.com/hyimpulse-to-debut-sr75-rocket-no-earlier-than-december-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183000">2023-08-17 18:30:00 UTC</a></sub>
-* [Investing in Space: A guide to satellites](https://www.cnbc.com/2023/08/17/investing-in-space-a-guide-to-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T163808">2023-08-17 16:38:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T183221">2023-08-18 18:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T190537">2023-08-18 19:05:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
