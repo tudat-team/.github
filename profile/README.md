@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Storms and showers](https://www.planetary.org/the-downlink/storms-and-showers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T143204">2023-08-18 14:32:04 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Countdown rehearsal tests Atlas V rocket](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-countdown-rehearsal-tests-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T201213">2023-08-17 20:12:13 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 7-13, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-7-13-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193243">2023-08-14 19:32:43 UTC</a></sub>
 * [Hasta la vista, baby](https://www.planetary.org/the-downlink/hasta-la-vista-baby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T143216">2023-08-11 14:32:16 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [To stream or not to stream](https://europeanspaceflight.substack.com/p/to-stream-or-not-to-stream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T133958">2023-08-07 13:39:58 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 24-August 6, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-24-august-6-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T115112">2023-08-07 11:51:12 UTC</a></sub>
 * [Far out, man!](https://www.planetary.org/the-downlink/far-out-man) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T143204">2023-08-04 14:32:04 UTC</a></sub>
-* [Membership & Giving](https://www.planetary.org/giving) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T110204">2023-08-03 11:02:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T143221">2023-08-18 14:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T150701">2023-08-18 15:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
