@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September](https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T132905">2023-08-18 13:29:05 UTC</a></sub>
+* [U.S. government warns of foreign intelligence threats to the space industry](https://spacenews.com/u-s-government-warns-of-foreign-intelligence-threats-to-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T131212">2023-08-18 13:12:12 UTC</a></sub>
 * [Poland signs agreement to fly astronaut on Axiom Space ISS mission](https://spacenews.com/poland-signs-agreement-to-fly-astronaut-on-axiom-space-iss-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T112922">2023-08-18 11:29:22 UTC</a></sub>
 * [Rocket Report: Russian rocket lands like an airplane; SpaceX steamroller rolls](https://arstechnica.com/space/2023/08/rocket-report-europes-final-countdown-for-2023-sls-to-carry-more-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T110058">2023-08-18 11:00:58 UTC</a></sub>
 * [Japanese SAR company iQPS to launch with Rocket Lab after Virgin Orbit bankruptcy](https://spacenews.com/japanese-sar-company-iqps-to-launch-with-rocket-lab-after-virgin-orbit-bankruptcy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T221636">2023-08-17 22:16:36 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Development Agency to consider commercial LEO options to augment DoD network](https://spacenews.com/space-development-agency-to-consider-commercial-leo-options-to-augment-dod-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183736">2023-08-17 18:37:36 UTC</a></sub>
 * [HyImpulse to Debut SR75 Rocket No Earlier than December 1](https://europeanspaceflight.com/hyimpulse-to-debut-sr75-rocket-no-earlier-than-december-1/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183000">2023-08-17 18:30:00 UTC</a></sub>
 * [Investing in Space: A guide to satellites](https://www.cnbc.com/2023/08/17/investing-in-space-a-guide-to-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T163808">2023-08-17 16:38:08 UTC</a></sub>
-* [UK defense contractor BAE buying Ball’s aerospace division for $5.6 billion](https://www.cnbc.com/2023/08/17/bae-buys-ball-aerospace-for-5point6-billion.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T135021">2023-08-17 13:50:21 UTC</a></sub>
-* [Northrop Grumman to get sole-source contract for Space Force radar sites](https://spacenews.com/northrop-grumman-to-get-sole-source-contract-for-space-force-radar-sites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T132119">2023-08-17 13:21:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T130843">2023-08-18 13:08:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T133228">2023-08-18 13:32:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
