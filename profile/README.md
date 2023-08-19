@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Using data from InSight, scientists discover that Mars is rotating faster](https://www.nasaspaceflight.com/2023/08/insight-rise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T182527">2023-08-19 18:25:27 UTC</a></sub>
 * [BREAKING! Luna-25 Suffers "Emergency Situation" In Lunar Orbit](https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T175052">2023-08-19 17:50:52 UTC</a></sub>
 * [Luna-25 malfunctions during lunar orbit maneuver](https://spacenews.com/luna-25-malfunctions-during-lunar-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T173228">2023-08-19 17:32:28 UTC</a></sub>
 * [New “Lexicon for Outer Space Security” Ready for Final OEWG Session](https://spacepolicyonline.com/news/new-lexicon-for-outer-space-security-ready-for-final-oewg-session/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T151509">2023-08-19 15:15:09 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September](https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T132905">2023-08-18 13:29:05 UTC</a></sub>
 * [U.S. government warns of foreign intelligence threats to the space industry](https://spacenews.com/u-s-government-warns-of-foreign-intelligence-threats-to-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T131212">2023-08-18 13:12:12 UTC</a></sub>
 * [Poland signs agreement to fly astronaut on Axiom Space ISS mission](https://spacenews.com/poland-signs-agreement-to-fly-astronaut-on-axiom-space-iss-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T112922">2023-08-18 11:29:22 UTC</a></sub>
-* [Rocket Report: Russian rocket lands like an airplane; SpaceX steamroller rolls](https://arstechnica.com/space/2023/08/rocket-report-europes-final-countdown-for-2023-sls-to-carry-more-cubesats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T110058">2023-08-18 11:00:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T183221">2023-08-19 18:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T190426">2023-08-19 19:04:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
