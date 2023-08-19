@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Is Luna 25 alive? Russia says an “emergency situation” has occurred](https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T190617">2023-08-19 19:06:17 UTC</a></sub>
+* [Russia’s Luna-25 Lunar Lander Experiences Anomaly](https://spacepolicyonline.com/news/russias-luna-25-lunar-lander-experiences-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T185918">2023-08-19 18:59:18 UTC</a></sub>
 * [Using data from InSight, scientists discover that Mars is rotating faster](https://www.nasaspaceflight.com/2023/08/insight-rise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T182527">2023-08-19 18:25:27 UTC</a></sub>
 * [BREAKING! Luna-25 Suffers "Emergency Situation" In Lunar Orbit](https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T175052">2023-08-19 17:50:52 UTC</a></sub>
 * [Luna-25 malfunctions during lunar orbit maneuver](https://spacenews.com/luna-25-malfunctions-during-lunar-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T173228">2023-08-19 17:32:28 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starship Update: Booster 9 wearing a crown, construction, and HLS test article](https://www.nasaspaceflight.com/2023/08/starship-update-aug-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T182446">2023-08-18 18:24:46 UTC</a></sub>
 * [Peter Beck pushes toward a Neutron debut in 2024, but acknowledges challenges](https://arstechnica.com/space/2023/08/rocket-lab-pivoting-to-downrange-neutron-landings-to-meet-customer-demand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T181955">2023-08-18 18:19:55 UTC</a></sub>
 * [POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September](https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T132905">2023-08-18 13:29:05 UTC</a></sub>
-* [U.S. government warns of foreign intelligence threats to the space industry](https://spacenews.com/u-s-government-warns-of-foreign-intelligence-threats-to-the-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T131212">2023-08-18 13:12:12 UTC</a></sub>
-* [Poland signs agreement to fly astronaut on Axiom Space ISS mission](https://spacenews.com/poland-signs-agreement-to-fly-astronaut-on-axiom-space-iss-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T112922">2023-08-18 11:29:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T193212">2023-08-19 19:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T200700">2023-08-19 20:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
