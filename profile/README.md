@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Luna-25 Has Crashed, Confirmed By Russia](https://tlpnetwork.com/news/2023/08/luna-25-has-crashed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T124340">2023-08-20 12:43:40 UTC</a></sub>
+* [Luna-25 Crashes Into Moon](https://spacepolicyonline.com/news/luna-25-crashes-into-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T124339">2023-08-20 12:43:39 UTC</a></sub>
 * [Russia’s Luna 25 spacecraft has crashed into the Moon](https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T121517">2023-08-20 12:15:17 UTC</a></sub>
 * [Luna-25 crashes into moon after orbit maneuver](https://spacenews.com/luna-25-crashes-into-moon-after-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T102629">2023-08-20 10:26:29 UTC</a></sub>
 * [Russia’s Luna-25 Lunar Lander Experiences Anomaly](https://spacepolicyonline.com/news/russias-luna-25-lunar-lander-experiences-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T185918">2023-08-19 18:59:18 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Luna-25 malfunctions during lunar orbit maneuver](https://spacenews.com/luna-25-malfunctions-during-lunar-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T173228">2023-08-19 17:32:28 UTC</a></sub>
 * [New “Lexicon for Outer Space Security” Ready for Final OEWG Session](https://spacepolicyonline.com/news/new-lexicon-for-outer-space-security-ready-for-final-oewg-session/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T151509">2023-08-19 15:15:09 UTC</a></sub>
 * [SpaceX launches 22 Starlinks from Florida, delays launch from California](https://www.teslarati.com/spacex-launches-22-starlinks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T193207">2023-08-18 19:32:07 UTC</a></sub>
-* [Starship Update: Booster 9 wearing a crown, construction, and HLS test article](https://www.nasaspaceflight.com/2023/08/starship-update-aug-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T182446">2023-08-18 18:24:46 UTC</a></sub>
-* [Peter Beck pushes toward a Neutron debut in 2024, but acknowledges challenges](https://arstechnica.com/space/2023/08/rocket-lab-pivoting-to-downrange-neutron-landings-to-meet-customer-demand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T181955">2023-08-18 18:19:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T130637">2023-08-20 13:06:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T133223">2023-08-20 13:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
