@@ -571,7 +571,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Is Luna 25 alive? Russia says an “emergency situation” has occurred](https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T190617">2023-08-19 19:06:17 UTC</a></sub>
 * [Russia’s Luna-25 Lunar Lander Experiences Anomaly](https://spacepolicyonline.com/news/russias-luna-25-lunar-lander-experiences-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T185918">2023-08-19 18:59:18 UTC</a></sub>
 * [Using data from InSight, scientists discover that Mars is rotating faster](https://www.nasaspaceflight.com/2023/08/insight-rise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T182527">2023-08-19 18:25:27 UTC</a></sub>
-* [BREAKING! Luna-25 Suffers "Emergency Situation" In Lunar Orbit](https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T175052">2023-08-19 17:50:52 UTC</a></sub>
+* [Luna-25 Suffers "Emergency Situation" In Lunar Orbit](https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T175052">2023-08-19 17:50:52 UTC</a></sub>
 * [Luna-25 malfunctions during lunar orbit maneuver](https://spacenews.com/luna-25-malfunctions-during-lunar-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T173228">2023-08-19 17:32:28 UTC</a></sub>
 * [New “Lexicon for Outer Space Security” Ready for Final OEWG Session](https://spacepolicyonline.com/news/new-lexicon-for-outer-space-security-ready-for-final-oewg-session/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T151509">2023-08-19 15:15:09 UTC</a></sub>
 * [SpaceX launches 22 Starlinks from Florida, delays launch from California](https://www.teslarati.com/spacex-launches-22-starlinks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T193207">2023-08-18 19:32:07 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T053158">2023-08-20 05:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T060820">2023-08-20 06:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
