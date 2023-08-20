@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Looking past Luna 25’s lunar landing failure: what’s next?](https://www.nasaspaceflight.com/2023/08/luna-fails-to-land/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T224326">2023-08-20 22:43:26 UTC</a></sub>
 * [What’s Happening in Space Policy August 20-26, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-20-26-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T160649">2023-08-20 16:06:49 UTC</a></sub>
 * [BREAKING! Luna-25 Has Crashed, Confirmed By Russia](https://tlpnetwork.com/news/2023/08/luna-25-has-crashed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T124340">2023-08-20 12:43:40 UTC</a></sub>
 * [Luna-25 Crashes Into Moon](https://spacepolicyonline.com/news/luna-25-crashes-into-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T124339">2023-08-20 12:43:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Using data from InSight, scientists discover that Mars is rotating faster](https://www.nasaspaceflight.com/2023/08/insight-rise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T182527">2023-08-19 18:25:27 UTC</a></sub>
 * [Luna-25 Suffers "Emergency Situation" In Lunar Orbit](https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T175052">2023-08-19 17:50:52 UTC</a></sub>
 * [Luna-25 malfunctions during lunar orbit maneuver](https://spacenews.com/luna-25-malfunctions-during-lunar-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T173228">2023-08-19 17:32:28 UTC</a></sub>
-* [New “Lexicon for Outer Space Security” Ready for Final OEWG Session](https://spacepolicyonline.com/news/new-lexicon-for-outer-space-security-ready-for-final-oewg-session/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T151509">2023-08-19 15:15:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T223226">2023-08-20 22:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T230613">2023-08-20 23:06:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
