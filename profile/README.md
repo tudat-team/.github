@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Weekly Space Recap: August 14 – August 20](https://www.teslarati.com/weekly-space-recap-august-14-august-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211847">2023-08-21 21:18:47 UTC</a></sub>
+* [Eutelsat’s OneWeb merger now just pending shareholder vote](https://spacenews.com/eutelsats-oneweb-merger-now-just-pending-shareholder-vote/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211200">2023-08-21 21:12:00 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch four missions, Progress MS-24 to resupply ISS](https://www.nasaspaceflight.com/2023/08/launch-roundup-082123/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T180133">2023-08-21 18:01:33 UTC</a></sub>
 * [The failure of Luna 25 cements Putin’s role as a disastrous space leader](https://arstechnica.com/space/2023/08/putin-wanted-to-make-russia-great-again-in-space-heres-why-he-failed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T164550">2023-08-21 16:45:50 UTC</a></sub>
 * [Pentagon space arm awards $1.5 billion contract to Lockheed, Northrop for communications satellites](https://www.cnbc.com/2023/08/21/pentagon-awards-1point5-billion-to-lockheed-martin-northrop-grumman.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T155622">2023-08-21 15:56:22 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Axiom Space raises $350 million from Saudi and Korean investors](https://www.cnbc.com/2023/08/21/axiom-space-raises-350-million-from-saudi-and-korean-investors.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T131727">2023-08-21 13:17:27 UTC</a></sub>
 * [Axiom Space raises $350 million](https://spacenews.com/axiom-space-raises-350-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T124755">2023-08-21 12:47:55 UTC</a></sub>
 * [Redwire and Sierra Space partner on commercial space station biotech research platform](https://spacenews.com/redwire-and-sierra-space-partner-on-commercial-space-station-biotech-research-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T112800">2023-08-21 11:28:00 UTC</a></sub>
-* [Looking past Luna 25’s lunar landing failure: what’s next?](https://www.nasaspaceflight.com/2023/08/luna-fails-to-land/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T224326">2023-08-20 22:43:26 UTC</a></sub>
-* [What’s Happening in Space Policy August 20-26, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-20-26-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T160649">2023-08-20 16:06:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -593,8 +593,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Storms and showers](https://www.planetary.org/the-downlink/storms-and-showers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T143204">2023-08-18 14:32:04 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Countdown rehearsal tests Atlas V rocket](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-countdown-rehearsal-tests-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T201213">2023-08-17 20:12:13 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 7-13, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-7-13-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193243">2023-08-14 19:32:43 UTC</a></sub>
+* [ICPS-3: Upper stage that will propel Artemis III astronauts to the Moon arrives for processing](https://blog.ulalaunch.com/blog/icps-3-upperstage-that-will-propel-artemis-iii-astronauts-to-the-moon-arrives-for-processing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T211859">2023-08-11 21:18:59 UTC</a></sub>
 * [Hasta la vista, baby](https://www.planetary.org/the-downlink/hasta-la-vista-baby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T143216">2023-08-11 14:32:16 UTC</a></sub>
-* [ICPS-3: Upperstage that will propel Artemis III astronauts to the Moon arrives for processing](https://blog.ulalaunch.com/blog/icps-3-upperstage-that-will-propel-artemis-iii-astronauts-to-the-moon-arrives-for-processing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T141207">2023-08-11 14:12:07 UTC</a></sub>
 * [Are exoplanet 'terminator zones' a lead in the search for life?](https://www.planetary.org/articles/exoplanet-terminator-zones-search-for-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140217">2023-08-10 14:02:17 UTC</a></sub>
 * [ICPS-2: Rendezvous target guides Artemis II Orion demonstrations](https://blog.ulalaunch.com/blog/icps-2-orion-will-observe-upper-stage-after-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T132211">2023-08-10 13:22:11 UTC</a></sub>
 * [To stream or not to stream](https://europeanspaceflight.substack.com/p/to-stream-or-not-to-stream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T133958">2023-08-07 13:39:58 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T213220">2023-08-21 21:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T220637">2023-08-21 22:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
