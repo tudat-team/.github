@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency awards contracts worth $1.5 billion to Lockheed Martin, Northrop Grumman for 72 satellites](https://spacenews.com/space-development-agency-awards-1-5-billion-to-lockheed-martin-and-northrop-grumman-for-72-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T142527">2023-08-21 14:25:27 UTC</a></sub>
 * [Redwire and Sierra team up to make drugs in space on inflatable habitat’s first mission](https://www.cnbc.com/2023/08/21/redwire-sierra-partner-to-make-drugs-on-inflatable-space-habitat.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T133959">2023-08-21 13:39:59 UTC</a></sub>
 * [Axiom Space raises $350 million from Saudi and Korean investors](https://www.cnbc.com/2023/08/21/axiom-space-raises-350-million-from-saudi-and-korean-investors.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T131727">2023-08-21 13:17:27 UTC</a></sub>
 * [Axiom Space raises $350 million](https://spacenews.com/axiom-space-raises-350-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T124755">2023-08-21 12:47:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Luna-25 Has Crashed, Confirmed By Russia](https://tlpnetwork.com/news/2023/08/luna-25-has-crashed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T124340">2023-08-20 12:43:40 UTC</a></sub>
 * [Luna-25 Crashes Into Moon](https://spacepolicyonline.com/news/luna-25-crashes-into-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T124339">2023-08-20 12:43:39 UTC</a></sub>
 * [Russia’s Luna 25 spacecraft has crashed into the Moon](https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T121517">2023-08-20 12:15:17 UTC</a></sub>
-* [Luna-25 crashes into moon after orbit maneuver](https://spacenews.com/luna-25-crashes-into-moon-after-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T102629">2023-08-20 10:26:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [What’s going on with SaxaVord contractors?](https://europeanspaceflight.substack.com/p/whats-going-on-with-saxavord-contractors) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T144000">2023-08-21 14:40:00 UTC</a></sub>
 * [Storms and showers](https://www.planetary.org/the-downlink/storms-and-showers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T143204">2023-08-18 14:32:04 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Countdown rehearsal tests Atlas V rocket](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-countdown-rehearsal-tests-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T201213">2023-08-17 20:12:13 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 7-13, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-7-13-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193243">2023-08-14 19:32:43 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ICPS-2: Rendezvous target guides Artemis II Orion demonstrations](https://blog.ulalaunch.com/blog/icps-2-orion-will-observe-upper-stage-after-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T132211">2023-08-10 13:22:11 UTC</a></sub>
 * [To stream or not to stream](https://europeanspaceflight.substack.com/p/to-stream-or-not-to-stream) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T133958">2023-08-07 13:39:58 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: July 24-August 6, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-july-24-august-6-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T115112">2023-08-07 11:51:12 UTC</a></sub>
-* [Far out, man!](https://www.planetary.org/the-downlink/far-out-man) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T143204">2023-08-04 14:32:04 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T143212">2023-08-21 14:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T150710">2023-08-21 15:07:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
