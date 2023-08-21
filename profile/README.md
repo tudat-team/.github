@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom Space raises $350 million from Saudi and Korean investors](https://www.cnbc.com/2023/08/21/axiom-space-raises-350-million-from-saudi-and-korean-investors.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T131727">2023-08-21 13:17:27 UTC</a></sub>
+* [Axiom Space raises $350 million](https://spacenews.com/axiom-space-raises-350-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T124755">2023-08-21 12:47:55 UTC</a></sub>
 * [Redwire and Sierra Space partner on commercial space station biotech research platform](https://spacenews.com/redwire-and-sierra-space-partner-on-commercial-space-station-biotech-research-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T112800">2023-08-21 11:28:00 UTC</a></sub>
 * [Looking past Luna 25’s lunar landing failure: what’s next?](https://www.nasaspaceflight.com/2023/08/luna-fails-to-land/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T224326">2023-08-20 22:43:26 UTC</a></sub>
 * [What’s Happening in Space Policy August 20-26, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-20-26-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T160649">2023-08-20 16:06:49 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russia’s Luna 25 spacecraft has crashed into the Moon](https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T121517">2023-08-20 12:15:17 UTC</a></sub>
 * [Luna-25 crashes into moon after orbit maneuver](https://spacenews.com/luna-25-crashes-into-moon-after-orbit-maneuver/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T102629">2023-08-20 10:26:29 UTC</a></sub>
 * [SpaceX reveals Starship hot stage ring](https://www.teslarati.com/spacex-reveals-starship-hot-stage-ring/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T011838">2023-08-20 01:18:38 UTC</a></sub>
-* [Russia’s Luna-25 Lunar Lander Experiences Anomaly](https://spacepolicyonline.com/news/russias-luna-25-lunar-lander-experiences-anomaly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T185918">2023-08-19 18:59:18 UTC</a></sub>
-* [Using data from InSight, scientists discover that Mars is rotating faster](https://www.nasaspaceflight.com/2023/08/insight-rise/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T182527">2023-08-19 18:25:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T130940">2023-08-21 13:09:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T133226">2023-08-21 13:32:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
