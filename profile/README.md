@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Luna-25’s Engines Fired Longer Than Planned](https://spacepolicyonline.com/news/luna-25s-engines-fired-longer-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T223051">2023-08-21 22:30:51 UTC</a></sub>
 * [Weekly Space Recap: August 14 – August 20](https://www.teslarati.com/weekly-space-recap-august-14-august-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211847">2023-08-21 21:18:47 UTC</a></sub>
 * [Eutelsat’s OneWeb merger now just pending shareholder vote](https://spacenews.com/eutelsats-oneweb-merger-now-just-pending-shareholder-vote/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211200">2023-08-21 21:12:00 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch four missions, Progress MS-24 to resupply ISS](https://www.nasaspaceflight.com/2023/08/launch-roundup-082123/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T180133">2023-08-21 18:01:33 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Redwire and Sierra team up to make drugs in space on inflatable habitat’s first mission](https://www.cnbc.com/2023/08/21/redwire-sierra-partner-to-make-drugs-on-inflatable-space-habitat.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T133959">2023-08-21 13:39:59 UTC</a></sub>
 * [Axiom Space raises $350 million from Saudi and Korean investors](https://www.cnbc.com/2023/08/21/axiom-space-raises-350-million-from-saudi-and-korean-investors.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T131727">2023-08-21 13:17:27 UTC</a></sub>
 * [Axiom Space raises $350 million](https://spacenews.com/axiom-space-raises-350-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T124755">2023-08-21 12:47:55 UTC</a></sub>
-* [Redwire and Sierra Space partner on commercial space station biotech research platform](https://spacenews.com/redwire-and-sierra-space-partner-on-commercial-space-station-biotech-research-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T112800">2023-08-21 11:28:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T223211">2023-08-21 22:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T230650">2023-08-21 23:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
