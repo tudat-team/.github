@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Polaris Dawn mission likely to slip to 2024](https://spacenews.com/polaris-dawn-mission-likely-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T215609">2023-08-22 21:56:09 UTC</a></sub>
+* [Mynaric to design optical ground terminal for U.S. military constellation](https://spacenews.com/mynaric-to-design-optical-ground-terminal-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T213254">2023-08-22 21:32:54 UTC</a></sub>
+* [SpaceX launches 100th dedicated Starlink mission](https://www.teslarati.com/spacex-launches-100th-dedicated-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T212856">2023-08-22 21:28:56 UTC</a></sub>
 * [U.S. intelligence office to investigate lagging procurement of commercial satellite data](https://spacenews.com/u-s-intelligence-office-to-investigate-lagging-procurement-of-commercial-satellite-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T195730">2023-08-22 19:57:30 UTC</a></sub>
 * [Sidus Space acquires Exo-Space](https://spacenews.com/sidus-space-acquires-exo-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T182702">2023-08-22 18:27:02 UTC</a></sub>
 * [Umbra selected to demonstrate space-based radar to track moving targets](https://spacenews.com/umbra-selected-to-demonstrate-space-based-radar-to-track-moving-targets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T163333">2023-08-22 16:33:33 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Luna-25’s Engines Fired Longer Than Planned](https://spacepolicyonline.com/news/luna-25s-engines-fired-longer-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T223051">2023-08-21 22:30:51 UTC</a></sub>
 * [Weekly Space Recap: August 14 – August 20](https://www.teslarati.com/weekly-space-recap-august-14-august-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211847">2023-08-21 21:18:47 UTC</a></sub>
 * [Eutelsat’s OneWeb merger now just pending shareholder vote](https://spacenews.com/eutelsats-oneweb-merger-now-just-pending-shareholder-vote/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211200">2023-08-21 21:12:00 UTC</a></sub>
-* [Launch Roundup: SpaceX to launch four missions, Progress MS-24 to resupply ISS](https://www.nasaspaceflight.com/2023/08/launch-roundup-082123/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T180133">2023-08-21 18:01:33 UTC</a></sub>
-* [The failure of Luna 25 cements Putin’s role as a disastrous space leader](https://arstechnica.com/space/2023/08/putin-wanted-to-make-russia-great-again-in-space-heres-why-he-failed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T164550">2023-08-21 16:45:50 UTC</a></sub>
-* [Pentagon space arm awards $1.5 billion contract to Lockheed, Northrop for communications satellites](https://www.cnbc.com/2023/08/21/pentagon-awards-1point5-billion-to-lockheed-martin-northrop-grumman.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T155622">2023-08-21 15:56:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T213216">2023-08-22 21:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T220634">2023-08-22 22:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
