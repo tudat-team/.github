@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sidus Space acquires Exo-Space](https://spacenews.com/sidus-space-acquires-exo-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T182702">2023-08-22 18:27:02 UTC</a></sub>
 * [Umbra selected to demonstrate space-based radar to track moving targets](https://spacenews.com/umbra-selected-to-demonstrate-space-based-radar-to-track-moving-targets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T163333">2023-08-22 16:33:33 UTC</a></sub>
 * [NASA clears Crew-7 mission for launch to the space station](https://spacenews.com/nasa-clears-crew-7-mission-for-launch-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T115955">2023-08-22 11:59:55 UTC</a></sub>
 * [Luna-25’s Engines Fired Longer Than Planned](https://spacepolicyonline.com/news/luna-25s-engines-fired-longer-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T223051">2023-08-21 22:30:51 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The failure of Luna 25 cements Putin’s role as a disastrous space leader](https://arstechnica.com/space/2023/08/putin-wanted-to-make-russia-great-again-in-space-heres-why-he-failed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T164550">2023-08-21 16:45:50 UTC</a></sub>
 * [Pentagon space arm awards $1.5 billion contract to Lockheed, Northrop for communications satellites](https://www.cnbc.com/2023/08/21/pentagon-awards-1point5-billion-to-lockheed-martin-northrop-grumman.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T155622">2023-08-21 15:56:22 UTC</a></sub>
 * [Space Development Agency awards contracts to Lockheed Martin, Northrop Grumman for 72 satellites](https://spacenews.com/space-development-agency-awards-1-5-billion-to-lockheed-martin-and-northrop-grumman-for-72-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T142527">2023-08-21 14:25:27 UTC</a></sub>
-* [Redwire and Sierra team up to make drugs in space on inflatable habitat’s first mission](https://www.cnbc.com/2023/08/21/redwire-sierra-partner-to-make-drugs-on-inflatable-space-habitat.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T133959">2023-08-21 13:39:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T183220">2023-08-22 18:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T190552">2023-08-22 19:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
