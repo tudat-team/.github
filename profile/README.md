@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Umbra selected to demonstrate space-based radar to track moving targets](https://spacenews.com/umbra-selected-to-demonstrate-space-based-radar-to-track-moving-targets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T163333">2023-08-22 16:33:33 UTC</a></sub>
 * [NASA clears Crew-7 mission for launch to the space station](https://spacenews.com/nasa-clears-crew-7-mission-for-launch-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T115955">2023-08-22 11:59:55 UTC</a></sub>
 * [Luna-25’s Engines Fired Longer Than Planned](https://spacepolicyonline.com/news/luna-25s-engines-fired-longer-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T223051">2023-08-21 22:30:51 UTC</a></sub>
 * [Weekly Space Recap: August 14 – August 20](https://www.teslarati.com/weekly-space-recap-august-14-august-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211847">2023-08-21 21:18:47 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pentagon space arm awards $1.5 billion contract to Lockheed, Northrop for communications satellites](https://www.cnbc.com/2023/08/21/pentagon-awards-1point5-billion-to-lockheed-martin-northrop-grumman.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T155622">2023-08-21 15:56:22 UTC</a></sub>
 * [Space Development Agency awards contracts to Lockheed Martin, Northrop Grumman for 72 satellites](https://spacenews.com/space-development-agency-awards-1-5-billion-to-lockheed-martin-and-northrop-grumman-for-72-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T142527">2023-08-21 14:25:27 UTC</a></sub>
 * [Redwire and Sierra team up to make drugs in space on inflatable habitat’s first mission](https://www.cnbc.com/2023/08/21/redwire-sierra-partner-to-make-drugs-on-inflatable-space-habitat.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T133959">2023-08-21 13:39:59 UTC</a></sub>
-* [Axiom Space raises $350 million from Saudi and Korean investors](https://www.cnbc.com/2023/08/21/axiom-space-raises-350-million-from-saudi-and-korean-investors.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T131727">2023-08-21 13:17:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T163513">2023-08-22 16:35:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T170632">2023-08-22 17:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
