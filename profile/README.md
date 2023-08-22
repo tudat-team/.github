@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Police are investigating an Indian actor for joking about the country’s Moon lander](https://arstechnica.com/space/2023/08/police-are-investigating-an-indian-actor-for-joking-about-the-countrys-moon-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T222803">2023-08-22 22:28:03 UTC</a></sub>
 * [Polaris Dawn mission likely to slip to 2024](https://spacenews.com/polaris-dawn-mission-likely-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T215609">2023-08-22 21:56:09 UTC</a></sub>
 * [Mynaric to design optical ground terminal for U.S. military constellation](https://spacenews.com/mynaric-to-design-optical-ground-terminal-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T213254">2023-08-22 21:32:54 UTC</a></sub>
 * [SpaceX launches 100th dedicated Starlink mission](https://www.teslarati.com/spacex-launches-100th-dedicated-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T212856">2023-08-22 21:28:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA clears Crew-7 mission for launch to the space station](https://spacenews.com/nasa-clears-crew-7-mission-for-launch-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T115955">2023-08-22 11:59:55 UTC</a></sub>
 * [Luna-25’s Engines Fired Longer Than Planned](https://spacepolicyonline.com/news/luna-25s-engines-fired-longer-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T223051">2023-08-21 22:30:51 UTC</a></sub>
 * [Weekly Space Recap: August 14 – August 20](https://www.teslarati.com/weekly-space-recap-august-14-august-20/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211847">2023-08-21 21:18:47 UTC</a></sub>
-* [Eutelsat’s OneWeb merger now just pending shareholder vote](https://spacenews.com/eutelsats-oneweb-merger-now-just-pending-shareholder-vote/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T211200">2023-08-21 21:12:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T223209">2023-08-22 22:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T230652">2023-08-22 23:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
