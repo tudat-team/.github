@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Modi: “India is on the Moon”](https://spacepolicyonline.com/news/modi-india-is-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T170040">2023-08-23 17:00:40 UTC</a></sub>
 * [India successfully lands Chandrayaan-3 on the Moon](https://www.teslarati.com/india-successfully-lands-chandrayaan-3-on-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T162655">2023-08-23 16:26:55 UTC</a></sub>
 * [Spaced Ventures’ first exit: Sidus Space purchase of Exo-Space](https://spacenews.com/spaced-ventures-first-exit-sidus-space-purchase-of-exo-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T130000">2023-08-23 13:00:00 UTC</a></sub>
 * [Chandrayaan-3: India becomes fourth country to land on the moon](https://spacenews.com/chandrayaan-3-india-becomes-fourth-country-to-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T123738">2023-08-23 12:37:38 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Police are investigating an Indian actor for joking about the country’s Moon lander](https://arstechnica.com/space/2023/08/police-are-investigating-an-indian-actor-for-joking-about-the-countrys-moon-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T222803">2023-08-22 22:28:03 UTC</a></sub>
 * [Polaris Dawn mission likely to slip to 2024](https://spacenews.com/polaris-dawn-mission-likely-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T215609">2023-08-22 21:56:09 UTC</a></sub>
 * [Mynaric to design optical ground terminal for U.S. military constellation](https://spacenews.com/mynaric-to-design-optical-ground-terminal-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T213254">2023-08-22 21:32:54 UTC</a></sub>
-* [SpaceX launches 100th dedicated Starlink mission](https://www.teslarati.com/spacex-launches-100th-dedicated-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T212856">2023-08-22 21:28:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SILENTBARKER/NROL-107: Payload mounted to Atlas V for launch](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-payload-mate-mounted-to-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T180701">2023-08-23 18:07:01 UTC</a></sub>
 * [Total solar eclipse 2024: Why it’s worth getting into the path of totality](https://www.planetary.org/articles/total-solar-eclipse-2024-path-of-totality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T140847">2023-08-22 14:08:47 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 14-20, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-14-20-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T151003">2023-08-21 15:10:03 UTC</a></sub>
 * [What’s going on with SaxaVord contractors?](https://europeanspaceflight.substack.com/p/whats-going-on-with-saxavord-contractors) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T144000">2023-08-21 14:40:00 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ICPS-3: Upper stage that will propel Artemis III astronauts to the Moon arrives for processing](https://blog.ulalaunch.com/blog/icps-3-upperstage-that-will-propel-artemis-iii-astronauts-to-the-moon-arrives-for-processing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T211859">2023-08-11 21:18:59 UTC</a></sub>
 * [Hasta la vista, baby](https://www.planetary.org/the-downlink/hasta-la-vista-baby) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T143216">2023-08-11 14:32:16 UTC</a></sub>
 * [Are exoplanet 'terminator zones' a lead in the search for life?](https://www.planetary.org/articles/exoplanet-terminator-zones-search-for-life) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140217">2023-08-10 14:02:17 UTC</a></sub>
-* [ICPS-2: Rendezvous target guides Artemis II Orion demonstrations](https://blog.ulalaunch.com/blog/icps-2-orion-will-observe-upper-stage-after-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T132211">2023-08-10 13:22:11 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T173217">2023-08-23 17:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T180725">2023-08-23 18:07:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
