@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SAB Orbital Vehicle Could Work in Concert With Space Rider](https://europeanspaceflight.com/sab-orbital-vehicle-could-work-in-concert-with-space-rider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T194515">2023-08-23 19:45:15 UTC</a></sub>
+* [Space imagery startup HEO raises $8 million](https://spacenews.com/space-imagery-startup-heo-raises-8-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T192948">2023-08-23 19:29:48 UTC</a></sub>
+* [Chandrayaan-3 is a story of ISRO’s perseverance and triumph](https://spacenews.com/chandrayaan-3-is-a-story-of-isros-perseverance-and-triumph/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T190548">2023-08-23 19:05:48 UTC</a></sub>
 * [Modi: “India is on the Moon”](https://spacepolicyonline.com/news/modi-india-is-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T170040">2023-08-23 17:00:40 UTC</a></sub>
 * [India successfully lands Chandrayaan-3 on the Moon](https://www.teslarati.com/india-successfully-lands-chandrayaan-3-on-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T162655">2023-08-23 16:26:55 UTC</a></sub>
 * [Spaced Ventures’ first exit: Sidus Space purchase of Exo-Space](https://spacenews.com/spaced-ventures-first-exit-sidus-space-purchase-of-exo-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T130000">2023-08-23 13:00:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [India becomes fourth country to land on the moon, first on south pole, with Chandrayaan-3 spacecraft](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T122514">2023-08-23 12:25:14 UTC</a></sub>
 * [Target of European debris removal mission hit by other debris](https://spacenews.com/target-of-european-debris-removal-mission-hit-by-other-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T021905">2023-08-23 02:19:05 UTC</a></sub>
 * [NASA and SpaceX give GO for Crew 7 launch](https://www.teslarati.com/nasa-spacex-give-go-crew-7-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T232847">2023-08-22 23:28:47 UTC</a></sub>
-* [Police are investigating an Indian actor for joking about the country’s Moon lander](https://arstechnica.com/space/2023/08/police-are-investigating-an-indian-actor-for-joking-about-the-countrys-moon-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T222803">2023-08-22 22:28:03 UTC</a></sub>
-* [Polaris Dawn mission likely to slip to 2024](https://spacenews.com/polaris-dawn-mission-likely-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T215609">2023-08-22 21:56:09 UTC</a></sub>
-* [Mynaric to design optical ground terminal for U.S. military constellation](https://spacenews.com/mynaric-to-design-optical-ground-terminal-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T213254">2023-08-22 21:32:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T193209">2023-08-23 19:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T200656">2023-08-23 20:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
