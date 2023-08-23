@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India’s moon landing made history on a relatively small budget](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-landing-came-at-small-cost.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T204144">2023-08-23 20:41:44 UTC</a></sub>
+* [Booster 9 rolls out for static fire test re-try ahead of flight](https://www.nasaspaceflight.com/2023/08/booster9_staticfireattempt2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T202711">2023-08-23 20:27:11 UTC</a></sub>
 * [SAB Orbital Vehicle Could Work in Concert With Space Rider](https://europeanspaceflight.com/sab-orbital-vehicle-could-work-in-concert-with-space-rider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T194515">2023-08-23 19:45:15 UTC</a></sub>
 * [Space imagery startup HEO raises $8 million](https://spacenews.com/space-imagery-startup-heo-raises-8-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T192948">2023-08-23 19:29:48 UTC</a></sub>
 * [Chandrayaan-3 is a story of ISRO’s perseverance and triumph](https://spacenews.com/chandrayaan-3-is-a-story-of-isros-perseverance-and-triumph/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T190548">2023-08-23 19:05:48 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spaced Ventures’ first exit: Sidus Space purchase of Exo-Space](https://spacenews.com/spaced-ventures-first-exit-sidus-space-purchase-of-exo-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T130000">2023-08-23 13:00:00 UTC</a></sub>
 * [Chandrayaan-3: India becomes fourth country to land on the moon](https://spacenews.com/chandrayaan-3-india-becomes-fourth-country-to-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T123738">2023-08-23 12:37:38 UTC</a></sub>
 * [India becomes fourth country to land on the moon, first on south pole, with Chandrayaan-3 spacecraft](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T122514">2023-08-23 12:25:14 UTC</a></sub>
-* [Target of European debris removal mission hit by other debris](https://spacenews.com/target-of-european-debris-removal-mission-hit-by-other-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T021905">2023-08-23 02:19:05 UTC</a></sub>
-* [NASA and SpaceX give GO for Crew 7 launch](https://www.teslarati.com/nasa-spacex-give-go-crew-7-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T232847">2023-08-22 23:28:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T203215">2023-08-23 20:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T210621">2023-08-23 21:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
