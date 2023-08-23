@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chandrayaan-3: India becomes fourth country to land on the moon](https://spacenews.com/chandrayaan-3-india-becomes-fourth-country-to-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T123738">2023-08-23 12:37:38 UTC</a></sub>
+* [India becomes fourth country to land on the moon with Chandrayaan-3 spacecraft](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T122514">2023-08-23 12:25:14 UTC</a></sub>
 * [Target of European debris removal mission hit by other debris](https://spacenews.com/target-of-european-debris-removal-mission-hit-by-other-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T021905">2023-08-23 02:19:05 UTC</a></sub>
 * [NASA and SpaceX give GO for Crew 7 launch](https://www.teslarati.com/nasa-spacex-give-go-crew-7-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T232847">2023-08-22 23:28:47 UTC</a></sub>
 * [Police are investigating an Indian actor for joking about the country’s Moon lander](https://arstechnica.com/space/2023/08/police-are-investigating-an-indian-actor-for-joking-about-the-countrys-moon-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T222803">2023-08-22 22:28:03 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches 100th dedicated Starlink mission](https://www.teslarati.com/spacex-launches-100th-dedicated-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T212856">2023-08-22 21:28:56 UTC</a></sub>
 * [U.S. intelligence office to investigate lagging procurement of commercial satellite data](https://spacenews.com/u-s-intelligence-office-to-investigate-lagging-procurement-of-commercial-satellite-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T195730">2023-08-22 19:57:30 UTC</a></sub>
 * [Sidus Space acquires Exo-Space](https://spacenews.com/sidus-space-acquires-exo-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T182702">2023-08-22 18:27:02 UTC</a></sub>
-* [Umbra selected to demonstrate space-based radar to track moving targets](https://spacenews.com/umbra-selected-to-demonstrate-space-based-radar-to-track-moving-targets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T163333">2023-08-22 16:33:33 UTC</a></sub>
-* [NASA clears Crew-7 mission for launch to the space station](https://spacenews.com/nasa-clears-crew-7-mission-for-launch-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T115955">2023-08-22 11:59:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T121306">2023-08-23 12:13:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T124630">2023-08-23 12:46:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
