@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India successfully lands Chandrayaan-3 on the Moon](https://www.teslarati.com/india-successfully-lands-chandrayaan-3-on-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T162655">2023-08-23 16:26:55 UTC</a></sub>
 * [Spaced Ventures’ first exit: Sidus Space purchase of Exo-Space](https://spacenews.com/spaced-ventures-first-exit-sidus-space-purchase-of-exo-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T130000">2023-08-23 13:00:00 UTC</a></sub>
 * [Chandrayaan-3: India becomes fourth country to land on the moon](https://spacenews.com/chandrayaan-3-india-becomes-fourth-country-to-land-on-the-moon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T123738">2023-08-23 12:37:38 UTC</a></sub>
 * [India becomes fourth country to land on the moon, first on south pole, with Chandrayaan-3 spacecraft](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T122514">2023-08-23 12:25:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Polaris Dawn mission likely to slip to 2024](https://spacenews.com/polaris-dawn-mission-likely-to-slip-to-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T215609">2023-08-22 21:56:09 UTC</a></sub>
 * [Mynaric to design optical ground terminal for U.S. military constellation](https://spacenews.com/mynaric-to-design-optical-ground-terminal-for-u-s-military-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T213254">2023-08-22 21:32:54 UTC</a></sub>
 * [SpaceX launches 100th dedicated Starlink mission](https://www.teslarati.com/spacex-launches-100th-dedicated-starlink-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T212856">2023-08-22 21:28:56 UTC</a></sub>
-* [U.S. intelligence office to investigate lagging procurement of commercial satellite data](https://spacenews.com/u-s-intelligence-office-to-investigate-lagging-procurement-of-commercial-satellite-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T195730">2023-08-22 19:57:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T163650">2023-08-23 16:36:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T170513">2023-08-23 17:05:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
