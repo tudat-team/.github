@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The re-flight of a Rutherford engine demonstrates rocket reuse is here to stay](https://arstechnica.com/space/2023/08/rocket-lab-joins-spacex-in-re-flying-a-rocket-engine-to-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T170932">2023-08-24 17:09:32 UTC</a></sub>
+* [ESA’s Solar Orbiter May Have Discovered the Source of Solar Wind](https://europeanspaceflight.com/esas-solar-orbiter-may-have-discovered-the-source-of-solar-wind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T170056">2023-08-24 17:00:56 UTC</a></sub>
 * [DOJ sues SpaceX, alleging hiring discrimination against refugees and asylum seekers](https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination-against-refugees-and-asylum-seekers.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T155352">2023-08-24 15:53:52 UTC</a></sub>
 * [NASA Shares First Images from US Pollution-Monitoring Instrument](http://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T154600">2023-08-24 15:46:00 UTC</a></sub>
 * [Investing in Space: The nascent market for tracking and removing debris from orbit](https://www.cnbc.com/2023/08/24/investing-in-space-the-nascent-orbital-debris-market.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T153755">2023-08-24 15:37:55 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab reuses engine on Electron launch](https://spacenews.com/rocket-lab-reuses-engine-on-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T010304">2023-08-24 01:03:04 UTC</a></sub>
 * [India’s moon landing made history on a relatively small budget](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-landing-came-at-small-cost.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T204144">2023-08-23 20:41:44 UTC</a></sub>
 * [Booster 9 prepares for static fire test re-try ahead of flight](https://www.nasaspaceflight.com/2023/08/booster9_staticfireattempt2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T202711">2023-08-23 20:27:11 UTC</a></sub>
-* [SAB Orbital Vehicle Could Work in Concert With Space Rider](https://europeanspaceflight.com/sab-orbital-vehicle-could-work-in-concert-with-space-rider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T194515">2023-08-23 19:45:15 UTC</a></sub>
-* [Space imagery startup HEO raises $8 million](https://spacenews.com/space-imagery-startup-heo-raises-8-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T192948">2023-08-23 19:29:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T173225">2023-08-24 17:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T180855">2023-08-24 18:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
