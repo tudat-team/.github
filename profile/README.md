@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA gives Crew-7 the “go” for launch to ISS on Friday](https://www.nasaspaceflight.com/2023/08/nasa-gives-crew-7-the-go-for-launch-to-iss-on-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T194345">2023-08-24 19:43:45 UTC</a></sub>
+* [Rogers Bears Down on USSPACECOM Decision](https://spacepolicyonline.com/news/rogers-bears-down-on-usspacecom-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T193708">2023-08-24 19:37:08 UTC</a></sub>
+* [NASA, Forest Service to Share Moon Tree Seedlings, Promote STEM](http://www.nasa.gov/press-release/nasa-forest-service-to-share-moon-tree-seedlings-promote-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T191600">2023-08-24 19:16:00 UTC</a></sub>
+* [Rocket Lab launches 40th mission, first re-flown Rutherford engine](https://www.teslarati.com/rocket-lab-launches-40th-mission-first-re-flown-rutherford-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T190642">2023-08-24 19:06:42 UTC</a></sub>
+* [NASA, Partners Study Ancient Life in Australia to Inform Mars Search](https://mars.nasa.gov/news/9468/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T190600">2023-08-24 19:06:00 UTC</a></sub>
 * [The re-flight of a Rutherford engine demonstrates rocket reuse is here to stay](https://arstechnica.com/space/2023/08/rocket-lab-joins-spacex-in-re-flying-a-rocket-engine-to-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T170932">2023-08-24 17:09:32 UTC</a></sub>
 * [ESA’s Solar Orbiter May Have Discovered the Source of Solar Wind](https://europeanspaceflight.com/esas-solar-orbiter-may-have-discovered-the-source-of-solar-wind/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T170056">2023-08-24 17:00:56 UTC</a></sub>
 * [DOJ sues SpaceX, alleging hiring discrimination against refugees and asylum seekers](https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination-against-refugees-and-asylum-seekers.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T155352">2023-08-24 15:53:52 UTC</a></sub>
 * [NASA Shares First Images from US Pollution-Monitoring Instrument](http://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T154600">2023-08-24 15:46:00 UTC</a></sub>
 * [Investing in Space: The nascent market for tracking and removing debris from orbit](https://www.cnbc.com/2023/08/24/investing-in-space-the-nascent-orbital-debris-market.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T153755">2023-08-24 15:37:55 UTC</a></sub>
-* [NASA prepares for space research decadal survey](https://spacenews.com/nasa-prepares-for-space-research-decadal-survey/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T114622">2023-08-24 11:46:22 UTC</a></sub>
-* [North Korea’s spy satellite launch fails again](https://spacenews.com/north-koreas-spy-satellite-launch-fails-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T112333">2023-08-24 11:23:33 UTC</a></sub>
-* [Rocket Lab reuses engine on Electron launch](https://spacenews.com/rocket-lab-reuses-engine-on-electron-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T010304">2023-08-24 01:03:04 UTC</a></sub>
-* [India’s moon landing made history on a relatively small budget](https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-landing-came-at-small-cost.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T204144">2023-08-23 20:41:44 UTC</a></sub>
-* [Booster 9 prepares for static fire test re-try ahead of flight](https://www.nasaspaceflight.com/2023/08/booster9_staticfireattempt2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T202711">2023-08-23 20:27:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T193210">2023-08-24 19:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T200725">2023-08-24 20:07:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
