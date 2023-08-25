@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, SpaceX readies Crew 7 for launch to the International Space Station](https://www.teslarati.com/nasa-spacex-readies-crew-7-for-launch-to-the-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T200646">2023-08-25 20:06:46 UTC</a></sub>
+* [Viasat reports problem with new Inmarsat satellite](https://spacenews.com/viasat-reports-problem-with-new-inmarsat-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T190713">2023-08-25 19:07:13 UTC</a></sub>
 * [SpaceX’s Booster 9 performs 2nd static fire](https://www.teslarati.com/spacex-s-booster-9-performs-2nd-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T183646">2023-08-25 18:36:46 UTC</a></sub>
 * [Sedaro wins Space Force contract to develop spacecraft digital twins](https://spacenews.com/sedaro-wins-space-force-contract-to-develop-spacecraft-digital-twins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T164833">2023-08-25 16:48:33 UTC</a></sub>
 * [POLARIS Spaceplanes Begins Testing its MIRA-Light Vehicle](https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-its-mira-light-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T142949">2023-08-25 14:29:49 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Defense Innovation Unit to sponsor a rapid response space mission](https://spacenews.com/defense-innovation-unit-to-sponsor-a-rapid-response-space-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140000">2023-08-25 14:00:00 UTC</a></sub>
 * [Can space investment become cool again?](https://spacenews.com/can-space-investment-become-cool-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T135448">2023-08-25 13:54:48 UTC</a></sub>
 * [European Union nations join ASAT testing ban](https://spacenews.com/european-union-nations-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T225818">2023-08-24 22:58:18 UTC</a></sub>
-* [RocketLab Flys Recovered Electron Engine For First Time](https://tlpnetwork.com/news/2023/08/rocketlab-flys-recovered-electron-engine-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T220200">2023-08-24 22:02:00 UTC</a></sub>
-* [Space Force to seek industry ideas for rapid deployment of satellites](https://spacenews.com/space-force-to-seek-industry-ideas-for-rapid-deployment-of-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T215110">2023-08-24 21:51:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T193217">2023-08-25 19:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T200726">2023-08-25 20:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
