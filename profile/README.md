@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [POLARIS Spaceplanes Begins Testing its MIRA-Light Vehicle](https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-its-mira-light-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T142949">2023-08-25 14:29:49 UTC</a></sub>
 * [Rideshare industry adapting to a changing smallsat market](https://spacenews.com/rideshare-industry-adapting-to-a-changing-smallsat-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140433">2023-08-25 14:04:33 UTC</a></sub>
 * [Big constellations no longer necessarily mean small satellites](https://spacenews.com/big-constellations-no-longer-necessarily-mean-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140328">2023-08-25 14:03:28 UTC</a></sub>
 * [Defense Innovation Unit to sponsor a rapid response space mission](https://spacenews.com/defense-innovation-unit-to-sponsor-a-rapid-response-space-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140000">2023-08-25 14:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to seek industry ideas for rapid deployment of satellites](https://spacenews.com/space-force-to-seek-industry-ideas-for-rapid-deployment-of-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T215110">2023-08-24 21:51:10 UTC</a></sub>
 * [Viasat reports second satellite malfunction in a matter of weeks](https://www.cnbc.com/2023/08/24/viasats-inmarsat-i6-f2-satellite-suffers-power-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T213338">2023-08-24 21:33:38 UTC</a></sub>
 * [North Korea Fails To Launch Spy Satellite Again](https://tlpnetwork.com/news/2023/08/north-korea-fails-to-launch-spy-satellite-again) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T212900">2023-08-24 21:29:00 UTC</a></sub>
-* [Justice Department sues SpaceX over hiring practices](https://spacenews.com/justice-department-sues-spacex-over-hiring-practices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T210713">2023-08-24 21:07:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Moonstruck](https://www.planetary.org/the-downlink/moonstruck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T143656">2023-08-25 14:36:56 UTC</a></sub>
 * [RocketStars: Engineer moves from aircraft to launching satellites at ULA](https://blog.ulalaunch.com/blog/rocketstars-engineer-moves-from-aircraft-to-launching-satellites-at-ula) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T163652">2023-08-24 16:36:52 UTC</a></sub>
 * [What would happen if an asteroid hit the Moon?](https://www.planetary.org/articles/what-would-happen-if-an-asteroid-hit-the-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T143643">2023-08-24 14:36:43 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Payload mounted to Atlas V for launch](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-payload-mate-mounted-to-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T180701">2023-08-23 18:07:01 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Storms and showers](https://www.planetary.org/the-downlink/storms-and-showers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T143204">2023-08-18 14:32:04 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Countdown rehearsal tests Atlas V rocket](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-countdown-rehearsal-tests-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T201213">2023-08-17 20:12:13 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 7-13, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-7-13-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193243">2023-08-14 19:32:43 UTC</a></sub>
-* [ICPS-3: Upper stage that will propel Artemis III astronauts to the Moon arrives for processing](https://blog.ulalaunch.com/blog/icps-3-upperstage-that-will-propel-artemis-iii-astronauts-to-the-moon-arrives-for-processing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T211859">2023-08-11 21:18:59 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T143215">2023-08-25 14:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T150714">2023-08-25 15:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
