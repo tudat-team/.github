@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rideshare industry adapting to a changing smallsat market](https://spacenews.com/rideshare-industry-adapting-to-a-changing-smallsat-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140433">2023-08-25 14:04:33 UTC</a></sub>
+* [Big constellations no longer necessarily mean small satellites](https://spacenews.com/big-constellations-no-longer-necessarily-mean-small-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140328">2023-08-25 14:03:28 UTC</a></sub>
+* [Defense Innovation Unit to sponsor a rapid response space mission](https://spacenews.com/defense-innovation-unit-to-sponsor-a-rapid-response-space-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140000">2023-08-25 14:00:00 UTC</a></sub>
+* [Can space investment become cool again?](https://spacenews.com/can-space-investment-become-cool-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T135448">2023-08-25 13:54:48 UTC</a></sub>
 * [European Union nations join ASAT testing ban](https://spacenews.com/european-union-nations-join-asat-testing-ban/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T225818">2023-08-24 22:58:18 UTC</a></sub>
 * [RocketLab Flys Recovered Electron Engine For First Time](https://tlpnetwork.com/news/2023/08/rocketlab-flys-recovered-electron-engine-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T220200">2023-08-24 22:02:00 UTC</a></sub>
 * [Space Force to seek industry ideas for rapid deployment of satellites](https://spacenews.com/space-force-to-seek-industry-ideas-for-rapid-deployment-of-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T215110">2023-08-24 21:51:10 UTC</a></sub>
 * [Viasat reports second satellite malfunction in a matter of weeks](https://www.cnbc.com/2023/08/24/viasats-inmarsat-i6-f2-satellite-suffers-power-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T213338">2023-08-24 21:33:38 UTC</a></sub>
 * [North Korea Fails To Launch Spy Satellite Again](https://tlpnetwork.com/news/2023/08/north-korea-fails-to-launch-spy-satellite-again) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T212900">2023-08-24 21:29:00 UTC</a></sub>
 * [Justice Department sues SpaceX over hiring practices](https://spacenews.com/justice-department-sues-spacex-over-hiring-practices/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T210713">2023-08-24 21:07:13 UTC</a></sub>
-* [SpaceX rolls Booster 9 back to the Launch Pad for more testing](https://www.teslarati.com/spacex-rolls-booster-9-back-launch-pad-more-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T210643">2023-08-24 21:06:43 UTC</a></sub>
-* [NASA, SpaceX delay Crew-7 launch to ISS](https://www.nasaspaceflight.com/2023/08/nasa-gives-crew-7-the-go-for-launch-to-iss-on-friday/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T194345">2023-08-24 19:43:45 UTC</a></sub>
-* [Rogers Bears Down on USSPACECOM Decision](https://spacepolicyonline.com/news/rogers-bears-down-on-usspacecom-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T193708">2023-08-24 19:37:08 UTC</a></sub>
-* [NASA, Forest Service to Share Moon Tree Seedlings, Promote STEM](http://www.nasa.gov/press-release/nasa-forest-service-to-share-moon-tree-seedlings-promote-stem) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T191600">2023-08-24 19:16:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T133211">2023-08-25 13:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T140633">2023-08-25 14:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
