@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Australian Space Imagery Startup HEO Raises $8 Million](https://tlpnetwork.com/news/2023/08/australian-space-imagery-startup-heo-raises-8-million) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T172014">2023-08-26 17:20:14 UTC</a></sub>
+* [Sedaro Secures US Space Force Contract To Develop Digital Spacecraft Twins ](https://tlpnetwork.com/news/2023/08/sedaro-secures-us-space-force-contract-to-develop-digital-spacecraft-twins) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T170256">2023-08-26 17:02:56 UTC</a></sub>
 * [Crew-7 launches to the space station](https://spacenews.com/crew-7-launches-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T103022">2023-08-26 10:30:22 UTC</a></sub>
 * [International Crew On Its Way to ISS](https://spacepolicyonline.com/news/international-crew-on-its-way-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T082350">2023-08-26 08:23:50 UTC</a></sub>
 * [NASA’s SpaceX Crew-7 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-7-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T075600">2023-08-26 07:56:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OneWeb-Eutelsat Merger Hinges on Shareholder Vote](https://tlpnetwork.com/news/2023/08/oneweb-eutelsat-merger-hinges-on-shareholder-vote) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T225243">2023-08-25 22:52:43 UTC</a></sub>
 * [27 European Union States Pledge to Avoid Destructive Anti-Satellite Tests](https://tlpnetwork.com/news/2023/08/27-european-union-states-pledge-to-avoid-destructive-anti-satellite-tests) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T223946">2023-08-25 22:39:46 UTC</a></sub>
 * [SpaceX Ignites 33 Super Heavy Engines Successfully For First Time](https://tlpnetwork.com/news/2023/08/spacex-ignites-33-super-heavy-engines-successfully-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T222058">2023-08-25 22:20:58 UTC</a></sub>
-* [Final ICPS arrives in Florida for Artemis III SLS launch](https://www.nasaspaceflight.com/2023/08/final-icps-arrives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T221621">2023-08-25 22:16:21 UTC</a></sub>
-* [MyRadar to validate technology with NOAA funding](https://spacenews.com/myradar-to-validate-technology-with-noaa-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T214138">2023-08-25 21:41:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T173159">2023-08-26 17:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T180753">2023-08-26 18:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
