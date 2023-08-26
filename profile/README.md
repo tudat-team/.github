@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [2nd ViaSat Suffers Anomaly In Orbit](https://tlpnetwork.com/news/2023/08/second-viasat-suffers-anomaly-in-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T232245">2023-08-25 23:22:45 UTC</a></sub>
 * [OneWeb-Eutelsat Merger Hinges on Shareholder Vote](https://tlpnetwork.com/news/2023/08/oneweb-eutelsat-merger-hinges-on-shareholder-vote) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T225243">2023-08-25 22:52:43 UTC</a></sub>
 * [27 European Union States Pledge to Avoid Destructive Anti-Satellite Tests](https://tlpnetwork.com/news/2023/08/27-european-union-states-pledge-to-avoid-destructive-anti-satellite-tests) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T223946">2023-08-25 22:39:46 UTC</a></sub>
 * [SpaceX Ignites 33 Super Heavy Engines Successfully For First Time](https://tlpnetwork.com/news/2023/08/spacex-ignites-33-super-heavy-engines-successfully-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T222058">2023-08-25 22:20:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX completes successful hot fire test of its massive Starship rocket](https://arstechnica.com/space/2023/08/starships-next-test-flight-might-be-closer-than-you-think/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T204108">2023-08-25 20:41:08 UTC</a></sub>
 * [NASA, SpaceX readies Crew 7 for launch to the International Space Station](https://www.teslarati.com/nasa-spacex-readies-crew-7-for-launch-to-the-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T200646">2023-08-25 20:06:46 UTC</a></sub>
 * [Viasat reports problem with new Inmarsat satellite](https://spacenews.com/viasat-reports-problem-with-new-inmarsat-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T190713">2023-08-25 19:07:13 UTC</a></sub>
-* [SpaceX’s Booster 9 performs 2nd static fire](https://www.teslarati.com/spacex-s-booster-9-performs-2nd-static-fire/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T183646">2023-08-25 18:36:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T233216">2023-08-25 23:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T003139">2023-08-26 00:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
