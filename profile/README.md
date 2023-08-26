@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-7 launches to the space station](https://spacenews.com/crew-7-launches-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T103022">2023-08-26 10:30:22 UTC</a></sub>
 * [International Crew On Its Way to ISS](https://spacepolicyonline.com/news/international-crew-on-its-way-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T082350">2023-08-26 08:23:50 UTC</a></sub>
 * [NASA’s SpaceX Crew-7 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-7-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T075600">2023-08-26 07:56:00 UTC</a></sub>
 * [SpaceX launches Crew-7 mission, the company’s 11th carrying astronauts](https://www.cnbc.com/2023/08/26/spacex-launches-crew-7-astronaut-mission-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T073245">2023-08-26 07:32:45 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Ignites 33 Super Heavy Engines Successfully For First Time](https://tlpnetwork.com/news/2023/08/spacex-ignites-33-super-heavy-engines-successfully-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T222058">2023-08-25 22:20:58 UTC</a></sub>
 * [Final ICPS arrives in Florida for Artemis III SLS launch](https://www.nasaspaceflight.com/2023/08/final-icps-arrives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T221621">2023-08-25 22:16:21 UTC</a></sub>
 * [MyRadar to validate technology with NOAA funding](https://spacenews.com/myradar-to-validate-technology-with-noaa-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T214138">2023-08-25 21:41:38 UTC</a></sub>
-* [SpaceX test-fires booster for second Starship launch](https://spacenews.com/spacex-test-fires-booster-for-second-starship-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T212346">2023-08-25 21:23:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T103205">2023-08-26 10:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T110519">2023-08-26 11:05:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
