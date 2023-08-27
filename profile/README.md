@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Crew-7 docks with space station](https://spacenews.com/crew-7-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T143839">2023-08-27 14:38:39 UTC</a></sub>
 * [What’s Happening in Space Policy August 27-September 2, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-27-september-2-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T123405">2023-08-27 12:34:05 UTC</a></sub>
 * [ESA’s Space Rider likely to launch third quarter of 2025, program manager says](https://www.nasaspaceflight.com/2023/08/space-rider-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T012019">2023-08-27 01:20:19 UTC</a></sub>
 * [Australian Space Imagery Startup HEO Raises $8 Million](https://tlpnetwork.com/news/2023/08/australian-space-imagery-startup-heo-raises-8-million) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T172014">2023-08-26 17:20:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s SpaceX Crew-7 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-7-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T075600">2023-08-26 07:56:00 UTC</a></sub>
 * [SpaceX launches Crew-7 mission, the company’s 11th carrying astronauts](https://www.cnbc.com/2023/08/26/spacex-launches-crew-7-astronaut-mission-for-nasa.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T073245">2023-08-26 07:32:45 UTC</a></sub>
 * [2nd ViaSat Suffers Anomaly In Orbit](https://tlpnetwork.com/news/2023/08/second-viasat-suffers-anomaly-in-orbit) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T232245">2023-08-25 23:22:45 UTC</a></sub>
-* [OneWeb-Eutelsat Merger Hinges on Shareholder Vote](https://tlpnetwork.com/news/2023/08/oneweb-eutelsat-merger-hinges-on-shareholder-vote) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T225243">2023-08-25 22:52:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T143227">2023-08-27 14:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T150607">2023-08-27 15:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
