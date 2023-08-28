@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Hera Systems and LeoStella team up to compete for military satellite orders](https://spacenews.com/hera-systems-and-leostella-team-up-to-compete-for-military-satellite-orders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T110500">2023-08-28 11:05:00 UTC</a></sub>
 * [Japanese H-IIA scrubs launch of X-ray telescope and lunar lander](https://www.nasaspaceflight.com/2023/08/xrism-slim/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T213825">2023-08-27 21:38:25 UTC</a></sub>
 * [Crew-7 Makes it 11](https://spacepolicyonline.com/news/crew-7-makes-it-11/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T205241">2023-08-27 20:52:41 UTC</a></sub>
 * [Crew-7 docks with space station](https://spacenews.com/crew-7-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T143839">2023-08-27 14:38:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Sedaro Secures US Space Force Contract To Develop Digital Spacecraft Twins ](https://tlpnetwork.com/news/2023/08/sedaro-secures-us-space-force-contract-to-develop-digital-spacecraft-twins) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T170256">2023-08-26 17:02:56 UTC</a></sub>
 * [Crew-7 launches to the space station](https://spacenews.com/crew-7-launches-to-the-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T103022">2023-08-26 10:30:22 UTC</a></sub>
 * [International Crew On Its Way to ISS](https://spacepolicyonline.com/news/international-crew-on-its-way-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T082350">2023-08-26 08:23:50 UTC</a></sub>
-* [NASA’s SpaceX Crew-7 Launches to International Space Station](http://www.nasa.gov/press-release/nasa-s-spacex-crew-7-launches-to-international-space-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T075600">2023-08-26 07:56:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T113212">2023-08-28 11:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T121343">2023-08-28 12:13:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
