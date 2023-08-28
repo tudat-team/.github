@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: August 21-27, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-21-27-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T125436">2023-08-28 12:54:36 UTC</a></sub>
 * [RocketStars: A life that spans the Atlas V program](https://blog.ulalaunch.com/blog/rocketstars-a-life-that-spans-the-atlas-v-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T234652">2023-08-27 23:46:52 UTC</a></sub>
 * [Moonstruck](https://www.planetary.org/the-downlink/moonstruck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T143656">2023-08-25 14:36:56 UTC</a></sub>
 * [RocketStars: Engineer moves from aircraft to launching satellites at ULA](https://blog.ulalaunch.com/blog/rocketstars-engineer-moves-from-aircraft-to-launching-satellites-at-ula) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T163652">2023-08-24 16:36:52 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: August 14-20, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-14-20-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T151003">2023-08-21 15:10:03 UTC</a></sub>
 * [What’s going on with SaxaVord contractors?](https://europeanspaceflight.substack.com/p/whats-going-on-with-saxavord-contractors) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T144000">2023-08-21 14:40:00 UTC</a></sub>
 * [Storms and showers](https://www.planetary.org/the-downlink/storms-and-showers) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T143204">2023-08-18 14:32:04 UTC</a></sub>
-* [SILENTBARKER/NROL-107: Countdown rehearsal tests Atlas V rocket](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-countdown-rehearsal-tests-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T201213">2023-08-17 20:12:13 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T131006">2023-08-28 13:10:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T133227">2023-08-28 13:32:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
