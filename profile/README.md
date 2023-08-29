@@ -572,12 +572,12 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit](https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T234642">2023-08-28 23:46:42 UTC</a></sub>
 * [NASA confirms multi-year delay in next New Frontiers competition](https://spacenews.com/nasa-confirms-multi-year-delay-in-next-new-frontiers-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T230817">2023-08-28 23:08:17 UTC</a></sub>
 * [Hera Systems and LeoStella team up to compete for military satellite orders](https://spacenews.com/hera-systems-and-leostella-team-up-to-compete-for-military-satellite-orders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T110500">2023-08-28 11:05:00 UTC</a></sub>
+* [SpaceX launches 22 Starlink satellites, brings total launched over 5,000](https://www.teslarati.com/spacex-launches-22-starlink-satellites-brings-total-launched-over-5000/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T012644">2023-08-28 01:26:44 UTC</a></sub>
 * [Crew 7 arrives to the International Space Station after successful launch](https://www.teslarati.com/crew-7-arrives-to-the-international-space-station-after-successful-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T002632">2023-08-28 00:26:32 UTC</a></sub>
 * [Japanese H-IIA scrubs launch of X-ray telescope and lunar lander](https://www.nasaspaceflight.com/2023/08/xrism-slim/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T213825">2023-08-27 21:38:25 UTC</a></sub>
 * [Crew-7 Makes it 11](https://spacepolicyonline.com/news/crew-7-makes-it-11/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T205241">2023-08-27 20:52:41 UTC</a></sub>
 * [Crew-7 docks with space station](https://spacenews.com/crew-7-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T143839">2023-08-27 14:38:39 UTC</a></sub>
 * [What’s Happening in Space Policy August 27-September 2, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-27-september-2-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T123405">2023-08-27 12:34:05 UTC</a></sub>
-* [ESA’s Space Rider likely to launch third quarter of 2025, program manager says](https://www.nasaspaceflight.com/2023/08/space-rider-update/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T012019">2023-08-27 01:20:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T003355">2023-08-29 00:33:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T014034">2023-08-29 01:40:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
