@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [United Launch Alliance readies for first Atlas V launch of the year](https://www.teslarati.com/united-launch-alliance-readies-first-atlas-v-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T205642">2023-08-29 20:56:42 UTC</a></sub>
+* [Space Development Agency’s data-transport satellites get more complex](https://spacenews.com/space-development-agencys-data-transport-satellites-get-more-complex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T202505">2023-08-29 20:25:05 UTC</a></sub>
 * [SaxaVord Does Not Need Spaceport Licence to Launch HyImpulse Mission](https://europeanspaceflight.com/saxavord-does-not-need-spaceport-licence-to-launch-hyimpulse-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T190840">2023-08-29 19:08:40 UTC</a></sub>
 * [NASA invita a hispanohablantes a enviar sus nombres en Europa Clipper](http://www.nasa.gov/press-release/nasa-invita-a-hispanohablantes-a-enviar-sus-nombres-en-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T152600">2023-08-29 15:26:00 UTC</a></sub>
 * [Japanese space robotics company GITAI raises $15 million](https://spacenews.com/japanese-space-robotics-company-gitai-raises-15-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T150000">2023-08-29 15:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [TransAstra claims NASA contract for debris capture bag](https://spacenews.com/transastra-claims-nasa-contract-for-debris-capture-bag/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T130000">2023-08-29 13:00:00 UTC</a></sub>
 * [Virgin Galactic’s president explains how VSS Unity is now flying frequently](https://arstechnica.com/space/2023/08/virgin-galactics-president-explains-how-vss-unity-is-now-flying-frequently/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T113044">2023-08-29 11:30:44 UTC</a></sub>
 * [Benchmark wins AFRL award to develop thrusters for ASCENT](https://spacenews.com/benchmark-wins-afrl-award-to-develop-thrusters-for-ascent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T110000">2023-08-29 11:00:00 UTC</a></sub>
-* [Op-ed | Welcome to the Third Space Age](https://spacenews.com/op-ed-welcome-to-the-third-space-age/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T082707">2023-08-29 08:27:07 UTC</a></sub>
-* [ULA delays NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/08/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T000707">2023-08-29 00:07:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T203225">2023-08-29 20:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T210633">2023-08-29 21:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
