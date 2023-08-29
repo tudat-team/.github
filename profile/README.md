@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Microsoft signs new partnership with AI and data analytics startup](https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133000">2023-08-29 13:30:00 UTC</a></sub>
 * [SpiderOak demonstrates zero-trust software on ISS](https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T131500">2023-08-29 13:15:00 UTC</a></sub>
 * [TransAstra claims NASA contract for debris capture bag](https://spacenews.com/transastra-claims-nasa-contract-for-debris-capture-bag/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T130000">2023-08-29 13:00:00 UTC</a></sub>
 * [Virgin Galactic’s president explains how VSS Unity is now flying frequently](https://arstechnica.com/space/2023/08/virgin-galactics-president-explains-how-vss-unity-is-now-flying-frequently/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T113044">2023-08-29 11:30:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit](https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T234642">2023-08-28 23:46:42 UTC</a></sub>
 * [NASA confirms multi-year delay in next New Frontiers competition](https://spacenews.com/nasa-confirms-multi-year-delay-in-next-new-frontiers-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T230817">2023-08-28 23:08:17 UTC</a></sub>
 * [Hera Systems and LeoStella team up to compete for military satellite orders](https://spacenews.com/hera-systems-and-leostella-team-up-to-compete-for-military-satellite-orders/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T110500">2023-08-28 11:05:00 UTC</a></sub>
-* [SpaceX launches 22 Starlink satellites, brings total launched over 5,000](https://www.teslarati.com/spacex-launches-22-starlink-satellites-brings-total-launched-over-5000/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T012644">2023-08-28 01:26:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133221">2023-08-29 13:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T140647">2023-08-29 14:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
