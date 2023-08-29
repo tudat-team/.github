@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA invita a hispanohablantes a enviar sus nombres en Europa Clipper](http://www.nasa.gov/press-release/nasa-invita-a-hispanohablantes-a-enviar-sus-nombres-en-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T152600">2023-08-29 15:26:00 UTC</a></sub>
 * [Japanese space robotics company GITAI raises $15 million](https://spacenews.com/japanese-space-robotics-company-gitai-raises-15-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T150000">2023-08-29 15:00:00 UTC</a></sub>
 * [Microsoft signs new partnership with AI and data analytics startup](https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133000">2023-08-29 13:30:00 UTC</a></sub>
 * [SpiderOak demonstrates zero-trust software on ISS](https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T131500">2023-08-29 13:15:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Op-ed | Welcome to the Third Space Age](https://spacenews.com/op-ed-welcome-to-the-third-space-age/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T082707">2023-08-29 08:27:07 UTC</a></sub>
 * [ULA delays NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/08/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T000707">2023-08-29 00:07:07 UTC</a></sub>
 * [SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit](https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T234642">2023-08-28 23:46:42 UTC</a></sub>
-* [NASA confirms multi-year delay in next New Frontiers competition](https://spacenews.com/nasa-confirms-multi-year-delay-in-next-new-frontiers-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T230817">2023-08-28 23:08:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T153228">2023-08-29 15:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T160909">2023-08-29 16:09:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
