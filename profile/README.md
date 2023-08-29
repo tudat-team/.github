@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Op-ed | Welcome to the Third Space Age](https://spacenews.com/op-ed-welcome-to-the-third-space-age/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T082707">2023-08-29 08:27:07 UTC</a></sub>
 * [ULA delays NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/08/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T000707">2023-08-29 00:07:07 UTC</a></sub>
 * [SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit](https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T234642">2023-08-28 23:46:42 UTC</a></sub>
 * [NASA confirms multi-year delay in next New Frontiers competition](https://spacenews.com/nasa-confirms-multi-year-delay-in-next-new-frontiers-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T230817">2023-08-28 23:08:17 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japanese H-IIA scrubs launch of X-ray telescope and lunar lander](https://www.nasaspaceflight.com/2023/08/xrism-slim/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T213825">2023-08-27 21:38:25 UTC</a></sub>
 * [Crew-7 Makes it 11](https://spacepolicyonline.com/news/crew-7-makes-it-11/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T205241">2023-08-27 20:52:41 UTC</a></sub>
 * [Crew-7 docks with space station](https://spacenews.com/crew-7-docks-with-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T143839">2023-08-27 14:38:39 UTC</a></sub>
-* [What’s Happening in Space Policy August 27-September 2, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-27-september-2-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T123405">2023-08-27 12:34:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T083235">2023-08-29 08:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T090726">2023-08-29 09:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
