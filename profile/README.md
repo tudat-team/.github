@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA postpones Ariane 6 hot-fire test again](https://spacenews.com/esa-postpones-ariane-6-hot-fire-test-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T114528">2023-08-30 11:45:28 UTC</a></sub>
 * [NASA Deep Space Network reaches “critical point” as demand grows](https://spacenews.com/nasa-deep-space-network-reaches-critical-point-as-demand-grows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T234825">2023-08-29 23:48:25 UTC</a></sub>
 * [SAIC wins $574 million contract to maintain Space Force radar sites](https://spacenews.com/saic-wins-574-million-contract-to-maintain-space-force-radar-sites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T231846">2023-08-29 23:18:46 UTC</a></sub>
 * [United Launch Alliance readies for first Atlas V launch of the year](https://www.teslarati.com/united-launch-alliance-readies-first-atlas-v-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T205642">2023-08-29 20:56:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japanese space robotics company GITAI raises $15 million](https://spacenews.com/japanese-space-robotics-company-gitai-raises-15-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T150000">2023-08-29 15:00:00 UTC</a></sub>
 * [Microsoft signs new partnership with AI and data analytics startup](https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133000">2023-08-29 13:30:00 UTC</a></sub>
 * [SpiderOak demonstrates zero-trust software on ISS](https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T131500">2023-08-29 13:15:00 UTC</a></sub>
-* [TransAstra claims NASA contract for debris capture bag](https://spacenews.com/transastra-claims-nasa-contract-for-debris-capture-bag/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T130000">2023-08-29 13:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T113215">2023-08-30 11:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T121325">2023-08-30 12:13:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
