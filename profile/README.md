@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Deep Space Network reaches “critical point” as demand grows](https://spacenews.com/nasa-deep-space-network-reaches-critical-point-as-demand-grows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T234825">2023-08-29 23:48:25 UTC</a></sub>
+* [SAIC wins $574 million contract to maintain Space Force radar sites](https://spacenews.com/saic-wins-574-million-contract-to-maintain-space-force-radar-sites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T231846">2023-08-29 23:18:46 UTC</a></sub>
 * [United Launch Alliance readies for first Atlas V launch of the year](https://www.teslarati.com/united-launch-alliance-readies-first-atlas-v-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T205642">2023-08-29 20:56:42 UTC</a></sub>
 * [Space Development Agency’s data-transport satellites get more complex](https://spacenews.com/space-development-agencys-data-transport-satellites-get-more-complex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T202505">2023-08-29 20:25:05 UTC</a></sub>
 * [SaxaVord Does Not Need Spaceport Licence to Launch HyImpulse Mission](https://europeanspaceflight.com/saxavord-does-not-need-spaceport-licence-to-launch-hyimpulse-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T190840">2023-08-29 19:08:40 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Microsoft signs new partnership with AI and data analytics startup](https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133000">2023-08-29 13:30:00 UTC</a></sub>
 * [SpiderOak demonstrates zero-trust software on ISS](https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T131500">2023-08-29 13:15:00 UTC</a></sub>
 * [TransAstra claims NASA contract for debris capture bag](https://spacenews.com/transastra-claims-nasa-contract-for-debris-capture-bag/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T130000">2023-08-29 13:00:00 UTC</a></sub>
-* [Virgin Galactic’s president explains how VSS Unity is now flying frequently](https://arstechnica.com/space/2023/08/virgin-galactics-president-explains-how-vss-unity-is-now-flying-frequently/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T113044">2023-08-29 11:30:44 UTC</a></sub>
-* [Benchmark wins AFRL award to develop thrusters for ASCENT](https://spacenews.com/benchmark-wins-afrl-award-to-develop-thrusters-for-ascent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T110000">2023-08-29 11:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T233221">2023-08-29 23:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T003332">2023-08-30 00:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
