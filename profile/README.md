@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Why did SpaceX give up on “catching” falling fairings? Its VP of launch explains](https://arstechnica.com/space/2023/08/spacexs-vp-of-launch-shares-the-companys-special-algorithm-for-innovation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T152912">2023-08-30 15:29:12 UTC</a></sub>
 * [A Short Ariane 6 Hot Fire Test Has Been Postponed](https://europeanspaceflight.com/a-short-ariane-6-hot-fire-test-has-been-postponed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T142817">2023-08-30 14:28:17 UTC</a></sub>
 * [ESA postpones Ariane 6 hot-fire test again](https://spacenews.com/esa-postpones-ariane-6-hot-fire-test-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T114528">2023-08-30 11:45:28 UTC</a></sub>
 * [NASA Deep Space Network reaches “critical point” as demand grows](https://spacenews.com/nasa-deep-space-network-reaches-critical-point-as-demand-grows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T234825">2023-08-29 23:48:25 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SaxaVord Does Not Need Spaceport Licence to Launch HyImpulse Mission](https://europeanspaceflight.com/saxavord-does-not-need-spaceport-licence-to-launch-hyimpulse-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T190840">2023-08-29 19:08:40 UTC</a></sub>
 * [NASA invita a hispanohablantes a enviar sus nombres en Europa Clipper](http://www.nasa.gov/press-release/nasa-invita-a-hispanohablantes-a-enviar-sus-nombres-en-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T152600">2023-08-29 15:26:00 UTC</a></sub>
 * [Japanese space robotics company GITAI raises $15 million](https://spacenews.com/japanese-space-robotics-company-gitai-raises-15-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T150000">2023-08-29 15:00:00 UTC</a></sub>
-* [Microsoft signs new partnership with AI and data analytics startup](https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133000">2023-08-29 13:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T153231">2023-08-30 15:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T160903">2023-08-30 16:09:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
