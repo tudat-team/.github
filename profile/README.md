@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Completes Last OSIRIS-REx Test Before Asteroid Sample Delivery](http://www.nasa.gov/press-release/nasa-completes-last-osiris-rex-test-before-asteroid-sample-delivery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T210600">2023-08-30 21:06:00 UTC</a></sub>
+* [NASA Deep Space Network Critically Overworked & Underfunded](https://tlpnetwork.com/news/2023/08/nasa-deep-space-network-critically-overworked-and-underfunded) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T200658">2023-08-30 20:06:58 UTC</a></sub>
 * [NASA Awards Contracts for NOAA Sounder for Microwave-Based Applications Study](http://www.nasa.gov/press-release/nasa-awards-contracts-for-noaa-sounder-for-microwave-based-applications-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T200600">2023-08-30 20:06:00 UTC</a></sub>
 * [Firefly ready for call-up to launch military ‘responsive space’ mission](https://spacenews.com/firefly-ready-for-call-up-to-launch-military-responsive-space-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T195033">2023-08-30 19:50:33 UTC</a></sub>
 * [TransAstra Secures NASA Contract, Partners With ThinkOrbital On Debris Capture Bag System](https://tlpnetwork.com/news/2023/08/transastra-secures-nasa-contract-partners-with-thinkorbital-on-debris-capture-bag-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T193000">2023-08-30 19:30:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A Short Ariane 6 Hot Fire Test Has Been Postponed](https://europeanspaceflight.com/a-short-ariane-6-hot-fire-test-has-been-postponed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T142817">2023-08-30 14:28:17 UTC</a></sub>
 * [ESA postpones Ariane 6 hot-fire test again](https://spacenews.com/esa-postpones-ariane-6-hot-fire-test-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T114528">2023-08-30 11:45:28 UTC</a></sub>
 * [NASA Deep Space Network reaches “critical point” as demand grows](https://spacenews.com/nasa-deep-space-network-reaches-critical-point-as-demand-grows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T234825">2023-08-29 23:48:25 UTC</a></sub>
-* [SAIC wins $574 million contract to maintain Space Force radar sites](https://spacenews.com/saic-wins-574-million-contract-to-maintain-space-force-radar-sites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T231846">2023-08-29 23:18:46 UTC</a></sub>
-* [United Launch Alliance readies for first Atlas V launch of the year](https://www.teslarati.com/united-launch-alliance-readies-first-atlas-v-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T205642">2023-08-29 20:56:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T203228">2023-08-30 20:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T210744">2023-08-30 21:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
