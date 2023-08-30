@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [A Short Ariane 6 Hot Fire Test Has Been Postponed](https://europeanspaceflight.com/a-short-ariane-6-hot-fire-test-has-been-postponed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T142817">2023-08-30 14:28:17 UTC</a></sub>
 * [ESA postpones Ariane 6 hot-fire test again](https://spacenews.com/esa-postpones-ariane-6-hot-fire-test-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T114528">2023-08-30 11:45:28 UTC</a></sub>
 * [NASA Deep Space Network reaches “critical point” as demand grows](https://spacenews.com/nasa-deep-space-network-reaches-critical-point-as-demand-grows/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T234825">2023-08-29 23:48:25 UTC</a></sub>
 * [SAIC wins $574 million contract to maintain Space Force radar sites](https://spacenews.com/saic-wins-574-million-contract-to-maintain-space-force-radar-sites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T231846">2023-08-29 23:18:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA invita a hispanohablantes a enviar sus nombres en Europa Clipper](http://www.nasa.gov/press-release/nasa-invita-a-hispanohablantes-a-enviar-sus-nombres-en-europa-clipper) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T152600">2023-08-29 15:26:00 UTC</a></sub>
 * [Japanese space robotics company GITAI raises $15 million](https://spacenews.com/japanese-space-robotics-company-gitai-raises-15-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T150000">2023-08-29 15:00:00 UTC</a></sub>
 * [Microsoft signs new partnership with AI and data analytics startup](https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133000">2023-08-29 13:30:00 UTC</a></sub>
-* [SpiderOak demonstrates zero-trust software on ISS](https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T131500">2023-08-29 13:15:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T143219">2023-08-30 14:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T150747">2023-08-30 15:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
