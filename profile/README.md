@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SatixFy sells satellite payload subsidiary to MDA](https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130320">2023-08-31 13:03:20 UTC</a></sub>
 * [SpaceX to conduct second launch for Space Development Agency’s Tranche 0 and Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
 * [NASA gears up for return of OSIRIS-REx asteroid sample](https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T113126">2023-08-31 11:31:26 UTC</a></sub>
 * [Chinese study finds GSSAP close approaches a threat to its GEO assets](https://spacenews.com/chinese-study-finds-gssap-close-approaches-a-threat-to-its-geo-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T104130">2023-08-31 10:41:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Completes Last OSIRIS-REx Test Before Asteroid Sample Delivery](http://www.nasa.gov/press-release/nasa-completes-last-osiris-rex-test-before-asteroid-sample-delivery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T210600">2023-08-30 21:06:00 UTC</a></sub>
 * [NASA Deep Space Network Critically Overworked & Underfunded](https://tlpnetwork.com/news/2023/08/nasa-deep-space-network-critically-overworked-and-underfunded) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T200658">2023-08-30 20:06:58 UTC</a></sub>
 * [NASA Awards Contracts for NOAA Sounder for Microwave-Based Applications Study](http://www.nasa.gov/press-release/nasa-awards-contracts-for-noaa-sounder-for-microwave-based-applications-study) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T200600">2023-08-30 20:06:00 UTC</a></sub>
-* [Firefly ready for call-up to launch military ‘responsive space’ mission](https://spacenews.com/firefly-ready-for-call-up-to-launch-military-responsive-space-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T195033">2023-08-30 19:50:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130934">2023-08-31 13:09:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T133326">2023-08-31 13:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
