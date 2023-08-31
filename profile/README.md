@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese study finds GSSAP close approaches a threat to its GEO assets](https://spacenews.com/chinese-study-finds-gssap-close-approaches-a-threat-to-its-geo-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T104130">2023-08-31 10:41:30 UTC</a></sub>
 * [“Asteroid Autumn” Begins Next Month With OSIRIS-REx Asteroid Sample Return](https://spacepolicyonline.com/news/asteroid-autumn-begins-next-month-with-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T031700">2023-08-31 03:17:00 UTC</a></sub>
 * [Spiral Blue offers to run Your Code in Space](https://spacenews.com/spiral-blue-offers-to-run-your-code-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T003307">2023-08-31 00:33:07 UTC</a></sub>
 * [Firefly Officially "On Call" For US Space Force Responsive Space Launch Demo](https://tlpnetwork.com/news/2023/08/firefly-officially-on-call-for-us-space-force-responsive-space-launch-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T225646">2023-08-30 22:56:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Firefly ready for call-up to launch military ‘responsive space’ mission](https://spacenews.com/firefly-ready-for-call-up-to-launch-military-responsive-space-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T195033">2023-08-30 19:50:33 UTC</a></sub>
 * [TransAstra Secures NASA Contract, Partners With ThinkOrbital On Debris Capture Bag System](https://tlpnetwork.com/news/2023/08/transastra-secures-nasa-contract-partners-with-thinkorbital-on-debris-capture-bag-system) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T193000">2023-08-30 19:30:00 UTC</a></sub>
 * [Ariane 6 Hot Fire Test Postponed Again Due To Technical Issues](https://tlpnetwork.com/news/2023/08/ariane-6-hot-fire-test-postponed-again-due-to-technical-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T191130">2023-08-30 19:11:30 UTC</a></sub>
-* [Why did SpaceX give up on “catching” falling fairings? Its VP of launch explains](https://arstechnica.com/space/2023/08/spacexs-vp-of-launch-shares-the-companys-special-algorithm-for-innovation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T152912">2023-08-30 15:29:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T103306">2023-08-31 10:33:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T110604">2023-08-31 11:06:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
