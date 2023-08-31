@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Spiral Blue offers to run Your Code in Space](https://spacenews.com/spiral-blue-offers-to-run-your-code-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T003307">2023-08-31 00:33:07 UTC</a></sub>
 * [Firefly Officially "On Call" For US Space Force Responsive Space Launch Demo](https://tlpnetwork.com/news/2023/08/firefly-officially-on-call-for-us-space-force-responsive-space-launch-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T225646">2023-08-30 22:56:46 UTC</a></sub>
 * [NASA Completes Last OSIRIS-REx Test Before Asteroid Sample Delivery](http://www.nasa.gov/press-release/nasa-completes-last-osiris-rex-test-before-asteroid-sample-delivery) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T210600">2023-08-30 21:06:00 UTC</a></sub>
 * [NASA Deep Space Network Critically Overworked & Underfunded](https://tlpnetwork.com/news/2023/08/nasa-deep-space-network-critically-overworked-and-underfunded) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T200658">2023-08-30 20:06:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ariane 6 Hot Fire Test Postponed Again Due To Technical Issues](https://tlpnetwork.com/news/2023/08/ariane-6-hot-fire-test-postponed-again-due-to-technical-issues) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T191130">2023-08-30 19:11:30 UTC</a></sub>
 * [Why did SpaceX give up on “catching” falling fairings? Its VP of launch explains](https://arstechnica.com/space/2023/08/spacexs-vp-of-launch-shares-the-companys-special-algorithm-for-innovation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T152912">2023-08-30 15:29:12 UTC</a></sub>
 * [A Short Ariane 6 Hot Fire Test Has Been Postponed](https://europeanspaceflight.com/a-short-ariane-6-hot-fire-test-has-been-postponed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T142817">2023-08-30 14:28:17 UTC</a></sub>
-* [ESA postpones Ariane 6 hot-fire test again](https://spacenews.com/esa-postpones-ariane-6-hot-fire-test-again/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T114528">2023-08-30 11:45:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T003351">2023-08-31 00:33:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T014043">2023-08-31 01:40:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
