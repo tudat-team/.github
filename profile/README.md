@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX set for 9th launch of the month](https://www.teslarati.com/spacex-9th-launch-august-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T195643">2023-08-31 19:56:43 UTC</a></sub>
+* [Firefly Aerospace announces they are ready for the Victus Nox mission](https://www.teslarati.com/firefly-aerospace-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T190644">2023-08-31 19:06:44 UTC</a></sub>
 * [Investing in Space: Why the Pentagon is spending billions to build its own satellite constellation](https://www.cnbc.com/2023/08/31/investing-in-space-why-the-pentagon-is-spending-billions-on-a-satellite-constellation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171852">2023-08-31 17:18:52 UTC</a></sub>
 * [Ship 25 awaits rollout for full-stack of Starship Flight 2](https://www.nasaspaceflight.com/2023/08/ship-25-awaits-rollout-for-full-stack-of-starship-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171334">2023-08-31 17:13:34 UTC</a></sub>
 * [The Future Of Hypersonic Flight | TLP Exclusive Tour & Interview](https://tlpnetwork.com/news/2023/08/space-engine-systems-tour-and-interview-with-pradeep-dass) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T140012">2023-08-31 14:00:12 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SatixFy sells satellite payload subsidiary to MDA](https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130320">2023-08-31 13:03:20 UTC</a></sub>
 * [SpaceX scrubs second launch for Space Development Agency’s Tranche 0, but still on for Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
 * [NASA gears up for return of OSIRIS-REx asteroid sample](https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T113126">2023-08-31 11:31:26 UTC</a></sub>
-* [Chinese study finds GSSAP close approaches a threat to its GEO assets](https://spacenews.com/chinese-study-finds-gssap-close-approaches-a-threat-to-its-geo-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T104130">2023-08-31 10:41:30 UTC</a></sub>
-* [“Asteroid Autumn” Begins Next Month With OSIRIS-REx Asteroid Sample Return](https://spacepolicyonline.com/news/asteroid-autumn-begins-next-month-with-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T031700">2023-08-31 03:17:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T193217">2023-08-31 19:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T200731">2023-08-31 20:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
