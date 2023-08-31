@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Chang'e-6, collecting the first lunar farside samples](https://www.planetary.org/space-missions/change-6-collecting-the-first-lunar-farside-samples) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T151643">2023-08-31 15:16:43 UTC</a></sub>
 * [Does European Sci-Comm Suck?](https://europeanspaceflight.substack.com/p/does-european-sci-comm-suck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T140029">2023-08-28 14:00:29 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 21-27, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-21-27-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T125436">2023-08-28 12:54:36 UTC</a></sub>
 * [RocketStars: A life that spans the Atlas V program](https://blog.ulalaunch.com/blog/rocketstars-a-life-that-spans-the-atlas-v-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T234652">2023-08-27 23:46:52 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SILENTBARKER/NROL-107: Payload mounted to Atlas V for launch](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-payload-mate-mounted-to-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T180701">2023-08-23 18:07:01 UTC</a></sub>
 * [Total solar eclipse 2024: Why it’s worth getting into the path of totality](https://www.planetary.org/articles/total-solar-eclipse-2024-path-of-totality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T140847">2023-08-22 14:08:47 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 14-20, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-14-20-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T151003">2023-08-21 15:10:03 UTC</a></sub>
-* [What’s going on with SaxaVord contractors?](https://europeanspaceflight.substack.com/p/whats-going-on-with-saxavord-contractors) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T144000">2023-08-21 14:40:00 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T153225">2023-08-31 15:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T160910">2023-08-31 16:09:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
