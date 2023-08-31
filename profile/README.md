@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lawsuit claims Amazon’s board erred in awarding Kuiper launch contracts to Blue Origin and others](https://spacenews.com/lawsuit-claims-amazons-board-erred-in-awarding-kuiper-launch-contracts-to-blue-origin-and-others/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T221023">2023-08-31 22:10:23 UTC</a></sub>
 * [SpaceX set for 9th launch of the month](https://www.teslarati.com/spacex-9th-launch-august-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T195643">2023-08-31 19:56:43 UTC</a></sub>
 * [Firefly Aerospace announces they are ready for the Victus Nox mission](https://www.teslarati.com/firefly-aerospace-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T190644">2023-08-31 19:06:44 UTC</a></sub>
 * [Investing in Space: Why the Pentagon is spending billions to build its own satellite constellation](https://www.cnbc.com/2023/08/31/investing-in-space-why-the-pentagon-is-spending-billions-on-a-satellite-constellation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171852">2023-08-31 17:18:52 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [EU Member States Commit to Not Test Direct-Ascent ASAT Systems](https://europeanspaceflight.com/eu-member-states-commit-to-not-test-direct-ascent-asat-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134559">2023-08-31 13:45:59 UTC</a></sub>
 * [SatixFy sells satellite payload subsidiary to MDA](https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130320">2023-08-31 13:03:20 UTC</a></sub>
 * [SpaceX scrubs second launch for Space Development Agency’s Tranche 0, but still on for Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
-* [NASA gears up for return of OSIRIS-REx asteroid sample](https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T113126">2023-08-31 11:31:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T223217">2023-08-31 22:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T230706">2023-08-31 23:07:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
