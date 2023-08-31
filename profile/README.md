@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Why the Pentagon is spending billions to build its own satellite constellation](https://www.cnbc.com/2023/08/31/investing-in-space-why-the-pentagon-is-spending-billions-on-a-satellite-constellation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171852">2023-08-31 17:18:52 UTC</a></sub>
+* [Ship 25 awaits rollout for full-stack of Starship Flight 2](https://www.nasaspaceflight.com/2023/08/ship-25-awaits-rollout-for-full-stack-of-starship-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171334">2023-08-31 17:13:34 UTC</a></sub>
 * [The Future Of Hypersonic Flight | TLP Exclusive Tour & Interview](https://tlpnetwork.com/news/2023/08/space-engine-systems-tour-and-interview-with-pradeep-dass) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T140012">2023-08-31 14:00:12 UTC</a></sub>
 * [QinetiQ wins $224 million contract to provide technical services to Space Development Agency](https://spacenews.com/qinetiq-wins-224-million-contract-to-provide-technical-services-to-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134618">2023-08-31 13:46:18 UTC</a></sub>
 * [EU Member States Commit to Not Test Direct-Ascent ASAT Systems](https://europeanspaceflight.com/eu-member-states-commit-to-not-test-direct-ascent-asat-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134559">2023-08-31 13:45:59 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA gears up for return of OSIRIS-REx asteroid sample](https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T113126">2023-08-31 11:31:26 UTC</a></sub>
 * [Chinese study finds GSSAP close approaches a threat to its GEO assets](https://spacenews.com/chinese-study-finds-gssap-close-approaches-a-threat-to-its-geo-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T104130">2023-08-31 10:41:30 UTC</a></sub>
 * [“Asteroid Autumn” Begins Next Month With OSIRIS-REx Asteroid Sample Return](https://spacepolicyonline.com/news/asteroid-autumn-begins-next-month-with-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T031700">2023-08-31 03:17:00 UTC</a></sub>
-* [Spiral Blue offers to run Your Code in Space](https://spacenews.com/spiral-blue-offers-to-run-your-code-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T003307">2023-08-31 00:33:07 UTC</a></sub>
-* [Firefly Officially "On Call" For US Space Force Responsive Space Launch Demo](https://tlpnetwork.com/news/2023/08/firefly-officially-on-call-for-us-space-force-responsive-space-launch-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T225646">2023-08-30 22:56:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T173223">2023-08-31 17:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T180857">2023-08-31 18:08:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
