@@ -572,7 +572,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [QinetiQ wins $224 million contract to provide technical services to Space Development Agency](https://spacenews.com/qinetiq-wins-224-million-contract-to-provide-technical-services-to-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134618">2023-08-31 13:46:18 UTC</a></sub>
 * [EU Member States Commit to Not Test Direct-Ascent ASAT Systems](https://europeanspaceflight.com/eu-member-states-commit-to-not-test-direct-ascent-asat-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134559">2023-08-31 13:45:59 UTC</a></sub>
 * [SatixFy sells satellite payload subsidiary to MDA](https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130320">2023-08-31 13:03:20 UTC</a></sub>
-* [SpaceX to conduct second launch for Space Development Agency’s Tranche 0 and Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
+* [SpaceX scrubs second launch for Space Development Agency’s Tranche 0, but still on for Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
 * [NASA gears up for return of OSIRIS-REx asteroid sample](https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T113126">2023-08-31 11:31:26 UTC</a></sub>
 * [Chinese study finds GSSAP close approaches a threat to its GEO assets](https://spacenews.com/chinese-study-finds-gssap-close-approaches-a-threat-to-its-geo-assets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T104130">2023-08-31 10:41:30 UTC</a></sub>
 * [“Asteroid Autumn” Begins Next Month With OSIRIS-REx Asteroid Sample Return](https://spacepolicyonline.com/news/asteroid-autumn-begins-next-month-with-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T031700">2023-08-31 03:17:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T143223">2023-08-31 14:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T150724">2023-08-31 15:07:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
