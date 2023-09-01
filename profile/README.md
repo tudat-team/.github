@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SBAG Wants Reconnaissance Mission to Apophis Before It Reaches Earth](https://spacepolicyonline.com/news/sbag-wants-reconnaissance-mission-to-apophis-before-it-reaches-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T165028">2023-09-01 16:50:28 UTC</a></sub>
+* [Space Tango names new CEO](https://spacenews.com/space-tango-names-new-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T164308">2023-09-01 16:43:08 UTC</a></sub>
+* [Bezos snubbed Musk’s SpaceX over blockbuster satellite launch contract, Amazon shareholder says](https://www.cnbc.com/2023/09/01/bezos-snubbed-musk-spacex-satellite-contract-lawsuit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T164221">2023-09-01 16:42:21 UTC</a></sub>
 * [Pension fund sues Jeff Bezos and Amazon for not using Falcon 9 rockets](https://arstechnica.com/space/2023/09/pension-fund-sues-jeff-bezos-and-amazon-for-not-using-falcon-9-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T160041">2023-09-01 16:00:41 UTC</a></sub>
 * [What is the ESA Astronaut Policy?](https://europeanspaceflight.com/what-is-the-esa-astronaut-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T141955">2023-09-01 14:19:55 UTC</a></sub>
 * [Georgia, Texas Students to Hear from NASA Astronauts Aboard Station](http://www.nasa.gov/press-release/georgia-texas-students-to-hear-from-nasa-astronauts-aboard-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T131600">2023-09-01 13:16:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intuitive Machines raises $20 million](https://spacenews.com/intuitive-machines-raises-20-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T112100">2023-09-01 11:21:00 UTC</a></sub>
 * [Rocket Report: Firefly enters “hot standby phase”; SpaceX’s superfluity of fairings](https://arstechnica.com/space/2023/09/rocket-report-firefly-enters-hot-standby-phase-spacexs-superfluity-of-fairings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T110043">2023-09-01 11:00:43 UTC</a></sub>
 * [Tiangong space station could alter perceptions of China’s space program, report says](https://spacenews.com/tiangong-space-station-could-alter-perceptions-of-chinas-space-program-report-says/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T104228">2023-09-01 10:42:28 UTC</a></sub>
-* [Lawsuit claims Amazon’s board erred in awarding Kuiper launch contracts to Blue Origin and others](https://spacenews.com/lawsuit-claims-amazons-board-erred-in-awarding-kuiper-launch-contracts-to-blue-origin-and-others/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T221023">2023-08-31 22:10:23 UTC</a></sub>
-* [SpaceX set for 9th launch of the month](https://www.teslarati.com/spacex-9th-launch-august-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T195643">2023-08-31 19:56:43 UTC</a></sub>
-* [Firefly Aerospace announces they are ready for the Victus Nox mission](https://www.teslarati.com/firefly-aerospace-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T190644">2023-08-31 19:06:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T163601">2023-09-01 16:36:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T170621">2023-09-01 17:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
