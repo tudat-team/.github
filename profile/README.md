@@ -577,7 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [QinetiQ wins $224 million contract to provide technical services to Space Development Agency](https://spacenews.com/qinetiq-wins-224-million-contract-to-provide-technical-services-to-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134618">2023-08-31 13:46:18 UTC</a></sub>
 * [EU Member States Commit to Not Test Direct-Ascent ASAT Systems](https://europeanspaceflight.com/eu-member-states-commit-to-not-test-direct-ascent-asat-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134559">2023-08-31 13:45:59 UTC</a></sub>
 * [SatixFy sells satellite payload subsidiary to MDA](https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130320">2023-08-31 13:03:20 UTC</a></sub>
-* [SpaceX scrubs second launch for Space Development Agency’s Tranche 0, but still on for Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
+* [SpaceX trying again with Space Development Agency’s Tranche 0 Friday, launches Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T023519">2023-09-01 02:35:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T030806">2023-09-01 03:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
