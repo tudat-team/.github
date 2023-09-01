@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s LRO Spots Likely Luna-25 Crash Site](https://spacepolicyonline.com/news/nasas-lro-spots-likely-luna-25-crash-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T210234">2023-09-01 21:02:34 UTC</a></sub>
 * [OSIRIS-REx teams conduct final rehearsals before sample capsule return in September](https://www.nasaspaceflight.com/2023/09/osiris-rex-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T202833">2023-09-01 20:28:33 UTC</a></sub>
 * [Ball, Northrop Grumman, Orbital Micro Systems and Spire claim NOAA contracts](https://spacenews.com/ball-northrop-grumman-orbital-micro-systems-and-spire-claim-noaa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T173255">2023-09-01 17:32:55 UTC</a></sub>
 * [NASA to Discuss Psyche Asteroid Mission, Optical Communications Demo](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission-optical-communications-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T170600">2023-09-01 17:06:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pension fund sues Jeff Bezos and Amazon for not using Falcon 9 rockets](https://arstechnica.com/space/2023/09/pension-fund-sues-jeff-bezos-and-amazon-for-not-using-falcon-9-rockets/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T160041">2023-09-01 16:00:41 UTC</a></sub>
 * [What is the ESA Astronaut Policy?](https://europeanspaceflight.com/what-is-the-esa-astronaut-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T141955">2023-09-01 14:19:55 UTC</a></sub>
 * [Georgia, Texas Students to Hear from NASA Astronauts Aboard Station](http://www.nasa.gov/press-release/georgia-texas-students-to-hear-from-nasa-astronauts-aboard-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T131600">2023-09-01 13:16:00 UTC</a></sub>
-* [Globalstar picks SpaceX to refresh LEO constellation](https://spacenews.com/globalstar-picks-spacex-to-refresh-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T123247">2023-09-01 12:32:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T213213">2023-09-01 21:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T220617">2023-09-01 22:06:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
