@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tiangong space station could alter perceptions of China’s space program, report says](https://spacenews.com/tiangong-space-station-could-alter-perceptions-of-chinas-space-program-report-says/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T104228">2023-09-01 10:42:28 UTC</a></sub>
 * [Lawsuit claims Amazon’s board erred in awarding Kuiper launch contracts to Blue Origin and others](https://spacenews.com/lawsuit-claims-amazons-board-erred-in-awarding-kuiper-launch-contracts-to-blue-origin-and-others/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T221023">2023-08-31 22:10:23 UTC</a></sub>
 * [SpaceX set for 9th launch of the month](https://www.teslarati.com/spacex-9th-launch-august-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T195643">2023-08-31 19:56:43 UTC</a></sub>
 * [Firefly Aerospace announces they are ready for the Victus Nox mission](https://www.teslarati.com/firefly-aerospace-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T190644">2023-08-31 19:06:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [QinetiQ wins $224 million contract to provide technical services to Space Development Agency](https://spacenews.com/qinetiq-wins-224-million-contract-to-provide-technical-services-to-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134618">2023-08-31 13:46:18 UTC</a></sub>
 * [EU Member States Commit to Not Test Direct-Ascent ASAT Systems](https://europeanspaceflight.com/eu-member-states-commit-to-not-test-direct-ascent-asat-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134559">2023-08-31 13:45:59 UTC</a></sub>
 * [SatixFy sells satellite payload subsidiary to MDA](https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130320">2023-08-31 13:03:20 UTC</a></sub>
-* [SpaceX trying again with Space Development Agency’s Tranche 0 Friday, launches Starlink mission](https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T120517">2023-08-31 12:05:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T103257">2023-09-01 10:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T110619">2023-09-01 11:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
