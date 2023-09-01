@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Georgia, Texas Students to Hear from NASA Astronauts Aboard Station](http://www.nasa.gov/press-release/georgia-texas-students-to-hear-from-nasa-astronauts-aboard-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T131600">2023-09-01 13:16:00 UTC</a></sub>
 * [Globalstar picks SpaceX to refresh LEO constellation](https://spacenews.com/globalstar-picks-spacex-to-refresh-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T123247">2023-09-01 12:32:47 UTC</a></sub>
 * [Intuitive Machines raises $20 million](https://spacenews.com/intuitive-machines-raises-20-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T112100">2023-09-01 11:21:00 UTC</a></sub>
 * [Rocket Report: Firefly enters “hot standby phase”; SpaceX’s superfluity of fairings](https://arstechnica.com/space/2023/09/rocket-report-firefly-enters-hot-standby-phase-spacexs-superfluity-of-fairings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T110043">2023-09-01 11:00:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Firefly Aerospace announces they are ready for the Victus Nox mission](https://www.teslarati.com/firefly-aerospace-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T190644">2023-08-31 19:06:44 UTC</a></sub>
 * [Investing in Space: Why the Pentagon is spending billions to build its own satellite constellation](https://www.cnbc.com/2023/08/31/investing-in-space-why-the-pentagon-is-spending-billions-on-a-satellite-constellation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171852">2023-08-31 17:18:52 UTC</a></sub>
 * [Ship 25 awaits rollout for full-stack of Starship Flight 2](https://www.nasaspaceflight.com/2023/08/ship-25-awaits-rollout-for-full-stack-of-starship-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171334">2023-08-31 17:13:34 UTC</a></sub>
-* [The Future Of Hypersonic Flight | TLP Exclusive Tour & Interview](https://tlpnetwork.com/news/2023/08/space-engine-systems-tour-and-interview-with-pradeep-dass) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T140012">2023-08-31 14:00:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T130914">2023-09-01 13:09:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T133212">2023-09-01 13:32:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
