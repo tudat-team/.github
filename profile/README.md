@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [What is the ESA Astronaut Policy?](https://europeanspaceflight.com/what-is-the-esa-astronaut-policy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T141955">2023-09-01 14:19:55 UTC</a></sub>
 * [Georgia, Texas Students to Hear from NASA Astronauts Aboard Station](http://www.nasa.gov/press-release/georgia-texas-students-to-hear-from-nasa-astronauts-aboard-station) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T131600">2023-09-01 13:16:00 UTC</a></sub>
 * [Globalstar picks SpaceX to refresh LEO constellation](https://spacenews.com/globalstar-picks-spacex-to-refresh-leo-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T123247">2023-09-01 12:32:47 UTC</a></sub>
 * [Intuitive Machines raises $20 million](https://spacenews.com/intuitive-machines-raises-20-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T112100">2023-09-01 11:21:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX set for 9th launch of the month](https://www.teslarati.com/spacex-9th-launch-august-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T195643">2023-08-31 19:56:43 UTC</a></sub>
 * [Firefly Aerospace announces they are ready for the Victus Nox mission](https://www.teslarati.com/firefly-aerospace-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T190644">2023-08-31 19:06:44 UTC</a></sub>
 * [Investing in Space: Why the Pentagon is spending billions to build its own satellite constellation](https://www.cnbc.com/2023/08/31/investing-in-space-why-the-pentagon-is-spending-billions-on-a-satellite-constellation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171852">2023-08-31 17:18:52 UTC</a></sub>
-* [Ship 25 awaits rollout for full-stack of Starship Flight 2](https://www.nasaspaceflight.com/2023/08/ship-25-awaits-rollout-for-full-stack-of-starship-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171334">2023-08-31 17:13:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [See for yourself](https://www.planetary.org/the-downlink/see-for-yourself) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143642">2023-09-01 14:36:42 UTC</a></sub>
+* [Your impact: September equinox 2023](https://www.planetary.org/articles/your-impact-september-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140647">2023-09-01 14:06:47 UTC</a></sub>
+* [To the moon together](https://www.planetary.org/articles/to-the-moon-together) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140645">2023-09-01 14:06:45 UTC</a></sub>
 * [A lunar saga](https://www.planetary.org/articles/a-lunar-saga) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140643">2023-09-01 14:06:43 UTC</a></sub>
 * [Chang'e-6, collecting the first lunar farside samples](https://www.planetary.org/space-missions/change-6-collecting-the-first-lunar-farside-samples) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T151643">2023-08-31 15:16:43 UTC</a></sub>
 * [Does European Sci-Comm Suck?](https://europeanspaceflight.substack.com/p/does-european-sci-comm-suck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T140029">2023-08-28 14:00:29 UTC</a></sub>
@@ -595,9 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RocketStars: A life that spans the Atlas V program](https://blog.ulalaunch.com/blog/rocketstars-a-life-that-spans-the-atlas-v-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T234652">2023-08-27 23:46:52 UTC</a></sub>
 * [Moonstruck](https://www.planetary.org/the-downlink/moonstruck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T143656">2023-08-25 14:36:56 UTC</a></sub>
 * [RocketStars: Engineer moves from aircraft to launching satellites at ULA](https://blog.ulalaunch.com/blog/rocketstars-engineer-moves-from-aircraft-to-launching-satellites-at-ula) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T163652">2023-08-24 16:36:52 UTC</a></sub>
-* [What would happen if an asteroid hit the Moon?](https://www.planetary.org/articles/what-would-happen-if-an-asteroid-hit-the-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T143643">2023-08-24 14:36:43 UTC</a></sub>
-* [SILENTBARKER/NROL-107: Payload mounted to Atlas V for launch](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-payload-mate-mounted-to-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T180701">2023-08-23 18:07:01 UTC</a></sub>
-* [Total solar eclipse 2024: Why it’s worth getting into the path of totality](https://www.planetary.org/articles/total-solar-eclipse-2024-path-of-totality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T140847">2023-08-22 14:08:47 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143218">2023-09-01 14:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T150726">2023-09-01 15:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
