@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intuitive Machines raises $20 million](https://spacenews.com/intuitive-machines-raises-20-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T112100">2023-09-01 11:21:00 UTC</a></sub>
+* [Rocket Report: Firefly enters “hot standby phase”; SpaceX’s superfluity of fairings](https://arstechnica.com/space/2023/09/rocket-report-firefly-enters-hot-standby-phase-spacexs-superfluity-of-fairings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T110043">2023-09-01 11:00:43 UTC</a></sub>
 * [Tiangong space station could alter perceptions of China’s space program, report says](https://spacenews.com/tiangong-space-station-could-alter-perceptions-of-chinas-space-program-report-says/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T104228">2023-09-01 10:42:28 UTC</a></sub>
 * [Lawsuit claims Amazon’s board erred in awarding Kuiper launch contracts to Blue Origin and others](https://spacenews.com/lawsuit-claims-amazons-board-erred-in-awarding-kuiper-launch-contracts-to-blue-origin-and-others/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T221023">2023-08-31 22:10:23 UTC</a></sub>
 * [SpaceX set for 9th launch of the month](https://www.teslarati.com/spacex-9th-launch-august-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T195643">2023-08-31 19:56:43 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ship 25 awaits rollout for full-stack of Starship Flight 2](https://www.nasaspaceflight.com/2023/08/ship-25-awaits-rollout-for-full-stack-of-starship-flight-2/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T171334">2023-08-31 17:13:34 UTC</a></sub>
 * [The Future Of Hypersonic Flight | TLP Exclusive Tour & Interview](https://tlpnetwork.com/news/2023/08/space-engine-systems-tour-and-interview-with-pradeep-dass) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T140012">2023-08-31 14:00:12 UTC</a></sub>
 * [QinetiQ wins $224 million contract to provide technical services to Space Development Agency](https://spacenews.com/qinetiq-wins-224-million-contract-to-provide-technical-services-to-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134618">2023-08-31 13:46:18 UTC</a></sub>
-* [EU Member States Commit to Not Test Direct-Ascent ASAT Systems](https://europeanspaceflight.com/eu-member-states-commit-to-not-test-direct-ascent-asat-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T134559">2023-08-31 13:45:59 UTC</a></sub>
-* [SatixFy sells satellite payload subsidiary to MDA](https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130320">2023-08-31 13:03:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T113218">2023-09-01 11:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T121318">2023-09-01 12:13:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
