@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A lunar saga](https://www.planetary.org/articles/a-lunar-saga) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140643">2023-09-01 14:06:43 UTC</a></sub>
 * [Chang'e-6, collecting the first lunar farside samples](https://www.planetary.org/space-missions/change-6-collecting-the-first-lunar-farside-samples) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T151643">2023-08-31 15:16:43 UTC</a></sub>
 * [Does European Sci-Comm Suck?](https://europeanspaceflight.substack.com/p/does-european-sci-comm-suck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T140029">2023-08-28 14:00:29 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 21-27, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-21-27-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T125436">2023-08-28 12:54:36 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [What would happen if an asteroid hit the Moon?](https://www.planetary.org/articles/what-would-happen-if-an-asteroid-hit-the-moon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T143643">2023-08-24 14:36:43 UTC</a></sub>
 * [SILENTBARKER/NROL-107: Payload mounted to Atlas V for launch](https://blog.ulalaunch.com/blog/silentbarker/nrol-107-payload-mate-mounted-to-atlas-v-for-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T180701">2023-08-23 18:07:01 UTC</a></sub>
 * [Total solar eclipse 2024: Why it’s worth getting into the path of totality](https://www.planetary.org/articles/total-solar-eclipse-2024-path-of-totality) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230822T140847">2023-08-22 14:08:47 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: August 14-20, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-14-20-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T151003">2023-08-21 15:10:03 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T133212">2023-09-01 13:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140644">2023-09-01 14:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
