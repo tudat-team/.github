@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA Complete Full-Duration Hot Fire Test of Ariane 6 Second Stage](https://europeanspaceflight.com/esa-complete-full-duration-hot-fire-test-of-ariane-6-second-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T061450">2023-09-02 06:14:50 UTC</a></sub>
 * [Microsoft Partners With Synthetaic On AI And Data Analysis](https://tlpnetwork.com/news/2023/09/microsoft-partners-with-synthetaic-on-ai-and-data-analysis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T052429">2023-09-02 05:24:29 UTC</a></sub>
 * [NASA Prepares For OSIRIS-REx Asteroid Sample ReEntry & Landing](https://tlpnetwork.com/news/2023/09/nasa-prepares-for-osirisrex-asteroid-sample-reentry-and-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T051405">2023-09-02 05:14:05 UTC</a></sub>
 * [NASA Confirms New Frontiers Program Delay](https://tlpnetwork.com/news/2023/09/nasa-confirms-new-frontiers-program-delay) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T045716">2023-09-02 04:57:16 UTC</a></sub>
-* [India to launch first solar research mission, Aditya-L1, aboard PSLV](https://www.nasaspaceflight.com/2023/09/india-aditya-l1-pslv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T005040">2023-09-02 00:50:40 UTC</a></sub>
+* [India launches first solar research mission, Aditya-L1, aboard PSLV](https://www.nasaspaceflight.com/2023/09/india-aditya-l1-pslv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T005040">2023-09-02 00:50:40 UTC</a></sub>
 * [NASA’s LRO Spots Likely Luna-25 Crash Site](https://spacepolicyonline.com/news/nasas-lro-spots-likely-luna-25-crash-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T210234">2023-09-01 21:02:34 UTC</a></sub>
 * [OSIRIS-REx teams conduct final rehearsals before sample capsule return in September](https://www.nasaspaceflight.com/2023/09/osiris-rex-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T202833">2023-09-01 20:28:33 UTC</a></sub>
 * [Ball, Northrop Grumman, Orbital Micro Systems and Spire claim NOAA contracts](https://spacenews.com/ball-northrop-grumman-orbital-micro-systems-and-spire-claim-noaa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T173255">2023-09-01 17:32:55 UTC</a></sub>
 * [NASA to Discuss Psyche Asteroid Mission, Optical Communications Demo](http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission-optical-communications-demo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T170600">2023-09-01 17:06:00 UTC</a></sub>
 * [SBAG Wants Reconnaissance Mission to Apophis Before It Reaches Earth](https://spacepolicyonline.com/news/sbag-wants-reconnaissance-mission-to-apophis-before-it-reaches-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T165028">2023-09-01 16:50:28 UTC</a></sub>
-* [Space Tango names new CEO](https://spacenews.com/space-tango-names-new-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T164308">2023-09-01 16:43:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T063217">2023-09-02 06:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T070607">2023-09-02 07:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
