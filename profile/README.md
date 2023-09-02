@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Lockheed Martin, NASA lining up next Orion spacecraft for Artemis III and IV](https://www.nasaspaceflight.com/2023/09/lm-nasa-orion-artemis-iii-iv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T194945">2023-09-02 19:49:45 UTC</a></sub>
 * [Coverage Set as NASA’s SpaceX Crew-6 Prepares for Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-6-prepares-for-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T180600">2023-09-02 18:06:00 UTC</a></sub>
 * [SpaceX launches 13 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-13-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T145459">2023-09-02 14:54:59 UTC</a></sub>
 * [ESA Complete Full-Duration Hot Fire Test of Ariane 6 Second Stage](https://europeanspaceflight.com/esa-complete-full-duration-hot-fire-test-of-ariane-6-second-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T061450">2023-09-02 06:14:50 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [India launches first solar research mission, Aditya-L1, aboard PSLV](https://www.nasaspaceflight.com/2023/09/india-aditya-l1-pslv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T005040">2023-09-02 00:50:40 UTC</a></sub>
 * [NASA’s LRO Spots Likely Luna-25 Crash Site](https://spacepolicyonline.com/news/nasas-lro-spots-likely-luna-25-crash-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T210234">2023-09-01 21:02:34 UTC</a></sub>
 * [OSIRIS-REx teams conduct final rehearsals before sample capsule return in September](https://www.nasaspaceflight.com/2023/09/osiris-rex-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T202833">2023-09-01 20:28:33 UTC</a></sub>
-* [Ball, Northrop Grumman, Orbital Micro Systems and Spire claim NOAA contracts](https://spacenews.com/ball-northrop-grumman-orbital-micro-systems-and-spire-claim-noaa-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T173255">2023-09-01 17:32:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T193234">2023-09-02 19:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T200651">2023-09-02 20:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
