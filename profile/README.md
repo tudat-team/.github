@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Launch Roundup: SpaceX to surpass 2022’s launch count with Starlink Group 6-12; China to launch three missions](https://www.nasaspaceflight.com/2023/09/launch-roundup-03092023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210808">2023-09-03 21:08:08 UTC</a></sub>
+* [What’s Happening in Space Policy September 3-9, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-3-9-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210003">2023-09-03 21:00:03 UTC</a></sub>
 * [SpaceX crew to return to Earth after six-month ISS Stay](https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T031431">2023-09-03 03:14:31 UTC</a></sub>
 * [Lockheed Martin, NASA lining up next Orion spacecraft for Artemis III and IV](https://www.nasaspaceflight.com/2023/09/lm-nasa-orion-artemis-iii-iv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T194945">2023-09-02 19:49:45 UTC</a></sub>
 * [Coverage Set as NASA’s SpaceX Crew-6 Prepares for Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-6-prepares-for-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T180600">2023-09-02 18:06:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Microsoft Partners With Synthetaic On AI And Data Analysis](https://tlpnetwork.com/news/2023/09/microsoft-partners-with-synthetaic-on-ai-and-data-analysis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T052429">2023-09-02 05:24:29 UTC</a></sub>
 * [NASA Prepares For OSIRIS-REx Asteroid Sample ReEntry & Landing](https://tlpnetwork.com/news/2023/09/nasa-prepares-for-osirisrex-asteroid-sample-reentry-and-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T051405">2023-09-02 05:14:05 UTC</a></sub>
 * [NASA Confirms New Frontiers Program Delay](https://tlpnetwork.com/news/2023/09/nasa-confirms-new-frontiers-program-delay) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T045716">2023-09-02 04:57:16 UTC</a></sub>
-* [India launches first solar research mission, Aditya-L1, aboard PSLV](https://www.nasaspaceflight.com/2023/09/india-aditya-l1-pslv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T005040">2023-09-02 00:50:40 UTC</a></sub>
-* [NASA’s LRO Spots Likely Luna-25 Crash Site](https://spacepolicyonline.com/news/nasas-lro-spots-likely-luna-25-crash-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T210234">2023-09-01 21:02:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T213224">2023-09-03 21:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T220611">2023-09-03 22:06:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
