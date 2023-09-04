@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Chinese scientist proposes solar system-wide resource utilization roadmap](https://spacenews.com/chinese-scientist-proposes-solar-system-wide-resource-utilization-roadmap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T140511">2023-09-04 14:05:11 UTC</a></sub>
 * [Crew-6 returns to Earth](https://spacenews.com/crew-6-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T114808">2023-09-04 11:48:08 UTC</a></sub>
 * [India’s moon lander set for nighttime as solar mission soars](https://spacenews.com/indias-moon-lander-set-for-nighttime-as-solar-mission-soars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T113848">2023-09-04 11:38:48 UTC</a></sub>
 * [NASA’s SpaceX Crew-6 Safely Returns to Earth Near Florida Coast](http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-safely-returns-to-earth-near-florida-coast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T053600">2023-09-04 05:36:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Crew-6 returns to Earth after six-month ISS Stay](https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T031431">2023-09-03 03:14:31 UTC</a></sub>
 * [Lockheed Martin, NASA lining up next Orion spacecraft for Artemis III and IV](https://www.nasaspaceflight.com/2023/09/lm-nasa-orion-artemis-iii-iv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T194945">2023-09-02 19:49:45 UTC</a></sub>
 * [Coverage Set as NASA’s SpaceX Crew-6 Prepares for Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-6-prepares-for-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T180600">2023-09-02 18:06:00 UTC</a></sub>
-* [SpaceX launches 13 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-13-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T145459">2023-09-02 14:54:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T133227">2023-09-04 13:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T140709">2023-09-04 14:07:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
