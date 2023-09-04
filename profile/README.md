@@ -570,7 +570,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <!-- spaceflight news starts -->
 * [Launch Roundup: SpaceX surpass 2022’s launch count with Starlink Group 6-12; China to launch three missions](https://www.nasaspaceflight.com/2023/09/launch-roundup-03092023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210808">2023-09-03 21:08:08 UTC</a></sub>
 * [What’s Happening in Space Policy September 3-9, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-3-9-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210003">2023-09-03 21:00:03 UTC</a></sub>
-* [SpaceX crew to return to Earth after six-month ISS Stay](https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T031431">2023-09-03 03:14:31 UTC</a></sub>
+* [SpaceX Crew-6 returns to Earth after six-month ISS Stay](https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T031431">2023-09-03 03:14:31 UTC</a></sub>
 * [Lockheed Martin, NASA lining up next Orion spacecraft for Artemis III and IV](https://www.nasaspaceflight.com/2023/09/lm-nasa-orion-artemis-iii-iv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T194945">2023-09-02 19:49:45 UTC</a></sub>
 * [Coverage Set as NASA’s SpaceX Crew-6 Prepares for Splashdown](http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-6-prepares-for-splashdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T180600">2023-09-02 18:06:00 UTC</a></sub>
 * [SpaceX launches 13 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-13-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T145459">2023-09-02 14:54:59 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T043217">2023-09-04 04:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T050729">2023-09-04 05:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
