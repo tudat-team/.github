@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA to set target for first Ariane 6 launch after upcoming tests](https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T172343">2023-09-04 17:23:43 UTC</a></sub>
 * [DoD satellites in low Earth orbit promise more connectivity for military users](https://spacenews.com/dod-satellites-in-low-earth-orbit-promise-more-connectivity-for-military-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T164951">2023-09-04 16:49:51 UTC</a></sub>
 * [Chinese scientist proposes solar system-wide resource utilization roadmap](https://spacenews.com/chinese-scientist-proposes-solar-system-wide-resource-utilization-roadmap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T140511">2023-09-04 14:05:11 UTC</a></sub>
 * [Crew-6 returns to Earth](https://spacenews.com/crew-6-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T114808">2023-09-04 11:48:08 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launch Roundup: SpaceX surpass 2022’s launch count with Starlink Group 6-12; China to launch three missions](https://www.nasaspaceflight.com/2023/09/launch-roundup-03092023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210808">2023-09-03 21:08:08 UTC</a></sub>
 * [What’s Happening in Space Policy September 3-9, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-3-9-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210003">2023-09-03 21:00:03 UTC</a></sub>
 * [SpaceX Crew-6 returns to Earth after six-month ISS Stay](https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T031431">2023-09-03 03:14:31 UTC</a></sub>
-* [Lockheed Martin, NASA lining up next Orion spacecraft for Artemis III and IV](https://www.nasaspaceflight.com/2023/09/lm-nasa-orion-artemis-iii-iv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T194945">2023-09-02 19:49:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T173242">2023-09-04 17:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T180845">2023-09-04 18:08:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
