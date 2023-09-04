@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s SpaceX Crew-6 Safely Returns to Earth Near Florida Coast](http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-safely-returns-to-earth-near-florida-coast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T053600">2023-09-04 05:36:00 UTC</a></sub>
+* [Crew-6 Home After Six Months in Space](https://spacepolicyonline.com/news/crew-6-home-after-six-months-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T051823">2023-09-04 05:18:23 UTC</a></sub>
 * [Launch Roundup: SpaceX surpass 2022’s launch count with Starlink Group 6-12; China to launch three missions](https://www.nasaspaceflight.com/2023/09/launch-roundup-03092023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210808">2023-09-03 21:08:08 UTC</a></sub>
 * [What’s Happening in Space Policy September 3-9, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-3-9-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T210003">2023-09-03 21:00:03 UTC</a></sub>
 * [SpaceX Crew-6 returns to Earth after six-month ISS Stay](https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T031431">2023-09-03 03:14:31 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX launches 13 satellites for U.S. Space Development Agency](https://spacenews.com/spacex-launches-13-satellites-for-u-s-space-development-agency/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T145459">2023-09-02 14:54:59 UTC</a></sub>
 * [ESA Complete Full-Duration Hot Fire Test of Ariane 6 Second Stage](https://europeanspaceflight.com/esa-complete-full-duration-hot-fire-test-of-ariane-6-second-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T061450">2023-09-02 06:14:50 UTC</a></sub>
 * [Microsoft Partners With Synthetaic On AI And Data Analysis](https://tlpnetwork.com/news/2023/09/microsoft-partners-with-synthetaic-on-ai-and-data-analysis) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T052429">2023-09-02 05:24:29 UTC</a></sub>
-* [NASA Prepares For OSIRIS-REx Asteroid Sample ReEntry & Landing](https://tlpnetwork.com/news/2023/09/nasa-prepares-for-osirisrex-asteroid-sample-reentry-and-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T051405">2023-09-02 05:14:05 UTC</a></sub>
-* [NASA Confirms New Frontiers Program Delay](https://tlpnetwork.com/news/2023/09/nasa-confirms-new-frontiers-program-delay) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T045716">2023-09-02 04:57:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T053209">2023-09-04 05:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T061019">2023-09-04 06:10:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
