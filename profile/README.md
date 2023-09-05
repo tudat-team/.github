@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [European official on Ariane 6 debut: “Please allow me to not speculate at this time”](https://arstechnica.com/space/2023/09/no-firm-date-on-ariane-6s-debut-and-no-public-talk-on-prices-either/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T162914">2023-09-05 16:29:14 UTC</a></sub>
 * [Cracking the celestial ceiling](https://spacenews.com/breaking-the-celestial-ceiling/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T140000">2023-09-05 14:00:00 UTC</a></sub>
 * [NASA modifies ML-1 for Artemis II, ML-2 under construction for SLS Block IB](https://www.nasaspaceflight.com/2023/09/nasa-ml-1-artemis-ii-ml-2-construction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T131519">2023-09-05 13:15:19 UTC</a></sub>
 * [Chinese Ceres-1 rocket reaches orbit with first sea launch](https://spacenews.com/chinese-ceres-1-rocket-reaches-orbit-with-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T125336">2023-09-05 12:53:36 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA to set target for first Ariane 6 launch after upcoming tests](https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T172343">2023-09-04 17:23:43 UTC</a></sub>
 * [DoD satellites in low Earth orbit promise more connectivity for military users](https://spacenews.com/dod-satellites-in-low-earth-orbit-promise-more-connectivity-for-military-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T164951">2023-09-04 16:49:51 UTC</a></sub>
 * [Chinese scientist proposes solar system-wide resource utilization roadmap](https://spacenews.com/chinese-scientist-proposes-solar-system-wide-resource-utilization-roadmap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T140511">2023-09-04 14:05:11 UTC</a></sub>
-* [Crew-6 returns to Earth](https://spacenews.com/crew-6-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T114808">2023-09-04 11:48:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T163555">2023-09-05 16:35:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T170645">2023-09-05 17:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
