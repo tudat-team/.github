@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA modifies ML-1 for Artemis II, ML-2 under construction for SLS Block IB](https://www.nasaspaceflight.com/2023/09/nasa-ml-1-artemis-ii-ml-2-construction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T131519">2023-09-05 13:15:19 UTC</a></sub>
+* [Chinese Ceres-1 rocket reaches orbit with first sea launch](https://spacenews.com/chinese-ceres-1-rocket-reaches-orbit-with-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T125336">2023-09-05 12:53:36 UTC</a></sub>
 * [SpaceX Crew Dragon: Crew 6 returns to Earth after six months in space](https://www.teslarati.com/spacex-crew-dragon-crew-6-returns-to-earth-six-months-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T092644">2023-09-05 09:26:44 UTC</a></sub>
 * [SpaceX launches 62nd orbital mission of the year](https://www.teslarati.com/spacex-launches-62nd-orbital-mission-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T090643">2023-09-05 09:06:43 UTC</a></sub>
 * [Solar Orbiter discovers plasma jets that could fuel the production of solar wind](https://www.nasaspaceflight.com/2023/09/solar-orbiter-picoflare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T194557">2023-09-04 19:45:57 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chinese scientist proposes solar system-wide resource utilization roadmap](https://spacenews.com/chinese-scientist-proposes-solar-system-wide-resource-utilization-roadmap/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T140511">2023-09-04 14:05:11 UTC</a></sub>
 * [Crew-6 returns to Earth](https://spacenews.com/crew-6-returns-to-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T114808">2023-09-04 11:48:08 UTC</a></sub>
 * [India’s moon lander set for nighttime as solar mission soars](https://spacenews.com/indias-moon-lander-set-for-nighttime-as-solar-mission-soars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T113848">2023-09-04 11:38:48 UTC</a></sub>
-* [NASA’s SpaceX Crew-6 Safely Returns to Earth Near Florida Coast](http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-safely-returns-to-earth-near-florida-coast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T053600">2023-09-04 05:36:00 UTC</a></sub>
-* [Crew-6 Home After Six Months in Space](https://spacepolicyonline.com/news/crew-6-home-after-six-months-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T051823">2023-09-04 05:18:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T131004">2023-09-05 13:10:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T133216">2023-09-05 13:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
