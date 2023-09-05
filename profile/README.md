@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India Says Good Night To Chandrayaan-3](https://spacepolicyonline.com/news/india-says-good-night-to-chandrayaan-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T202052">2023-09-05 20:20:52 UTC</a></sub>
+* [NASA prepares for the return of the Osiris-Rex asteroid sample mission](https://www.teslarati.com/nasa-prepares-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T201643">2023-09-05 20:16:43 UTC</a></sub>
 * [Weekly Space Recap: August 28 – September 3](https://www.teslarati.com/weekly-space-recap-august-28-september-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T194642">2023-09-05 19:46:42 UTC</a></sub>
 * [European official on Ariane 6 debut: “Please allow me to not speculate at this time”](https://arstechnica.com/space/2023/09/no-firm-date-on-ariane-6s-debut-and-no-public-talk-on-prices-either/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T162914">2023-09-05 16:29:14 UTC</a></sub>
 * [Cracking the celestial ceiling](https://spacenews.com/breaking-the-celestial-ceiling/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T140000">2023-09-05 14:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Crew Dragon: Crew 6 returns to Earth after six months in space](https://www.teslarati.com/spacex-crew-dragon-crew-6-returns-to-earth-six-months-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T092644">2023-09-05 09:26:44 UTC</a></sub>
 * [SpaceX launches 62nd orbital mission of the year](https://www.teslarati.com/spacex-launches-62nd-orbital-mission-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T090643">2023-09-05 09:06:43 UTC</a></sub>
 * [Solar Orbiter discovers plasma jets that could fuel the production of solar wind](https://www.nasaspaceflight.com/2023/09/solar-orbiter-picoflare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T194557">2023-09-04 19:45:57 UTC</a></sub>
-* [ESA to set target for first Ariane 6 launch after upcoming tests](https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T172343">2023-09-04 17:23:43 UTC</a></sub>
-* [DoD satellites in low Earth orbit promise more connectivity for military users](https://spacenews.com/dod-satellites-in-low-earth-orbit-promise-more-connectivity-for-military-users/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T164951">2023-09-04 16:49:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T203251">2023-09-05 20:32:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T210625">2023-09-05 21:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
