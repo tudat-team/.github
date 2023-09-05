@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [OSIRIS-REx sample return: What to expect](https://www.planetary.org/articles/osiris-rex-sample-return-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T143640">2023-09-05 14:36:40 UTC</a></sub>
 * [Are Europeans interested in going to space?](https://europeanspaceflight.substack.com/p/are-europeans-interested-in-going) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T141444">2023-09-04 14:14:44 UTC</a></sub>
 * [See for yourself](https://www.planetary.org/the-downlink/see-for-yourself) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143642">2023-09-01 14:36:42 UTC</a></sub>
 * [Your impact: September equinox 2023](https://www.planetary.org/articles/your-impact-september-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140647">2023-09-01 14:06:47 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Does European Sci-Comm Suck?](https://europeanspaceflight.substack.com/p/does-european-sci-comm-suck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T140029">2023-08-28 14:00:29 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 21-27, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-21-27-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T125436">2023-08-28 12:54:36 UTC</a></sub>
 * [RocketStars: A life that spans the Atlas V program](https://blog.ulalaunch.com/blog/rocketstars-a-life-that-spans-the-atlas-v-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T234652">2023-08-27 23:46:52 UTC</a></sub>
-* [Moonstruck](https://www.planetary.org/the-downlink/moonstruck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T143656">2023-08-25 14:36:56 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T143219">2023-09-05 14:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T150729">2023-09-05 15:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
