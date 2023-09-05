@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Project Kuiper partners with Vodafone in Europe and Africa](https://spacenews.com/project-kuiper-partners-with-vodafone-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T214916">2023-09-05 21:49:16 UTC</a></sub>
+* [Firefly selected to launch three L3Harris satellites](https://spacenews.com/firefly-selected-to-launch-three-l3harris-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211317">2023-09-05 21:13:17 UTC</a></sub>
 * [India Says Good Night To Chandrayaan-3](https://spacepolicyonline.com/news/india-says-good-night-to-chandrayaan-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T202052">2023-09-05 20:20:52 UTC</a></sub>
 * [NASA prepares for the return of the Osiris-Rex asteroid sample mission](https://www.teslarati.com/nasa-prepares-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T201643">2023-09-05 20:16:43 UTC</a></sub>
 * [Weekly Space Recap: August 28 – September 3](https://www.teslarati.com/weekly-space-recap-august-28-september-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T194642">2023-09-05 19:46:42 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA modifies ML-1 for Artemis II, ML-2 under construction for SLS Block IB](https://www.nasaspaceflight.com/2023/09/nasa-ml-1-artemis-ii-ml-2-construction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T131519">2023-09-05 13:15:19 UTC</a></sub>
 * [Chinese Ceres-1 rocket reaches orbit with first sea launch](https://spacenews.com/chinese-ceres-1-rocket-reaches-orbit-with-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T125336">2023-09-05 12:53:36 UTC</a></sub>
 * [SpaceX Crew Dragon: Crew 6 returns to Earth after six months in space](https://www.teslarati.com/spacex-crew-dragon-crew-6-returns-to-earth-six-months-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T092644">2023-09-05 09:26:44 UTC</a></sub>
-* [SpaceX launches 62nd orbital mission of the year](https://www.teslarati.com/spacex-launches-62nd-orbital-mission-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T090643">2023-09-05 09:06:43 UTC</a></sub>
-* [Solar Orbiter discovers plasma jets that could fuel the production of solar wind](https://www.nasaspaceflight.com/2023/09/solar-orbiter-picoflare/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T194557">2023-09-04 19:45:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: August 28-September 3, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-28-september-3-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211358">2023-09-05 21:13:58 UTC</a></sub>
 * [OSIRIS-REx sample return: What to expect](https://www.planetary.org/articles/osiris-rex-sample-return-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T143640">2023-09-05 14:36:40 UTC</a></sub>
 * [Are Europeans interested in going to space?](https://europeanspaceflight.substack.com/p/are-europeans-interested-in-going) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T141444">2023-09-04 14:14:44 UTC</a></sub>
 * [See for yourself](https://www.planetary.org/the-downlink/see-for-yourself) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143642">2023-09-01 14:36:42 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chang'e-6, collecting the first lunar farside samples](https://www.planetary.org/space-missions/change-6-collecting-the-first-lunar-farside-samples) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T151643">2023-08-31 15:16:43 UTC</a></sub>
 * [Does European Sci-Comm Suck?](https://europeanspaceflight.substack.com/p/does-european-sci-comm-suck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T140029">2023-08-28 14:00:29 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 21-27, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-21-27-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T125436">2023-08-28 12:54:36 UTC</a></sub>
-* [RocketStars: A life that spans the Atlas V program](https://blog.ulalaunch.com/blog/rocketstars-a-life-that-spans-the-atlas-v-program) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T234652">2023-08-27 23:46:52 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T213213">2023-09-05 21:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T220632">2023-09-05 22:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
