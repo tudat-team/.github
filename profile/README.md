@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Development Agency solicits bids for 54 missile-tracking satellites](https://spacenews.com/space-development-agency-solicits-bids-for-54-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T163800">2023-09-06 16:38:00 UTC</a></sub>
 * [Starship is stacked and ready to make its second launch attempt](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T145158">2023-09-06 14:51:58 UTC</a></sub>
 * [Ariane 6 Core Stage Breathes Fire for the First Time](https://europeanspaceflight.com/ariane-6-core-stage-breathes-fire-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T143520">2023-09-06 14:35:20 UTC</a></sub>
 * [Eutelsat invests in Europe-focused space technology venture fund](https://spacenews.com/eutelsat-invests-in-europe-focused-space-technology-venture-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T132141">2023-09-06 13:21:41 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Project Kuiper partners with Vodafone in Europe and Africa](https://spacenews.com/project-kuiper-partners-with-vodafone-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T214916">2023-09-05 21:49:16 UTC</a></sub>
 * [Firefly selected to launch three L3Harris satellites](https://spacenews.com/firefly-selected-to-launch-three-l3harris-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211317">2023-09-05 21:13:17 UTC</a></sub>
 * [India Says Good Night To Chandrayaan-3](https://spacepolicyonline.com/news/india-says-good-night-to-chandrayaan-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T202052">2023-09-05 20:20:52 UTC</a></sub>
-* [NASA prepares for the return of the Osiris-Rex asteroid sample mission](https://www.teslarati.com/nasa-prepares-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T201643">2023-09-05 20:16:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T163515">2023-09-06 16:35:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T170637">2023-09-06 17:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
