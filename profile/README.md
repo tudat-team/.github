@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ariane 6 completes short-duration engine test](https://spacenews.com/ariane-6-completes-short-duration-engine-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T104700">2023-09-06 10:47:00 UTC</a></sub>
+* [Terran Orbital unveils seven standard satellite buses](https://spacenews.com/terran-orbital-unveils-seven-standard-satellite-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T103522">2023-09-06 10:35:22 UTC</a></sub>
 * [Chandrayaan-3 success to boost India’s space ambitions, global standing](https://spacenews.com/chandrayaan-3-success-to-boost-indias-space-ambitions-global-standing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T234133">2023-09-05 23:41:33 UTC</a></sub>
 * [Project Kuiper partners with Vodafone in Europe and Africa](https://spacenews.com/project-kuiper-partners-with-vodafone-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T214916">2023-09-05 21:49:16 UTC</a></sub>
 * [Firefly selected to launch three L3Harris satellites](https://spacenews.com/firefly-selected-to-launch-three-l3harris-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211317">2023-09-05 21:13:17 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Space Recap: August 28 – September 3](https://www.teslarati.com/weekly-space-recap-august-28-september-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T194642">2023-09-05 19:46:42 UTC</a></sub>
 * [European official on Ariane 6 debut: “Please allow me to not speculate at this time”](https://arstechnica.com/space/2023/09/no-firm-date-on-ariane-6s-debut-and-no-public-talk-on-prices-either/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T162914">2023-09-05 16:29:14 UTC</a></sub>
 * [Cracking the celestial ceiling](https://spacenews.com/breaking-the-celestial-ceiling/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T140000">2023-09-05 14:00:00 UTC</a></sub>
-* [NASA modifies ML-1 for Artemis II, ML-2 under construction for SLS Block IB](https://www.nasaspaceflight.com/2023/09/nasa-ml-1-artemis-ii-ml-2-construction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T131519">2023-09-05 13:15:19 UTC</a></sub>
-* [Chinese Ceres-1 rocket reaches orbit with first sea launch](https://spacenews.com/chinese-ceres-1-rocket-reaches-orbit-with-first-sea-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T125336">2023-09-05 12:53:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T103333">2023-09-06 10:33:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T110618">2023-09-06 11:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
