@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [MAG Aerospace and SAS partner for Space Force data-analytics contract](https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T185215">2023-09-06 18:52:15 UTC</a></sub>
+* [SpaceX stacks Ship 25 and Booster 9, prepares for flight](https://www.nasaspaceflight.com/2023/09/s25b9firststack/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T184252">2023-09-06 18:42:52 UTC</a></sub>
 * [Space Force rewrites mission statement](https://spacenews.com/space-force-rewrites-mission-statement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180324">2023-09-06 18:03:24 UTC</a></sub>
 * [Stand up, Space Greta](https://spacenews.com/stand-up-space-greta/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T174549">2023-09-06 17:45:49 UTC</a></sub>
 * [SpaceX Almost Ready For Second Starship Launch, Integrates Vehicle](https://tlpnetwork.com/news/2023/09/starship-ift2-stacked) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T165712">2023-09-06 16:57:12 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ariane 6 Core Stage Breathes Fire for the First Time](https://europeanspaceflight.com/ariane-6-core-stage-breathes-fire-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T143520">2023-09-06 14:35:20 UTC</a></sub>
 * [Eutelsat invests in Europe-focused space technology venture fund](https://spacenews.com/eutelsat-invests-in-europe-focused-space-technology-venture-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T132141">2023-09-06 13:21:41 UTC</a></sub>
 * [Ariane 6 completes short-duration engine test](https://spacenews.com/ariane-6-completes-short-duration-engine-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T104700">2023-09-06 10:47:00 UTC</a></sub>
-* [Terran Orbital unveils seven standard satellite buses](https://spacenews.com/terran-orbital-unveils-seven-standard-satellite-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T103522">2023-09-06 10:35:22 UTC</a></sub>
-* [Chandrayaan-3 success to boost India’s space ambitions, global standing](https://spacenews.com/chandrayaan-3-success-to-boost-indias-space-ambitions-global-standing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T234133">2023-09-05 23:41:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T183257">2023-09-06 18:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T190549">2023-09-06 19:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
