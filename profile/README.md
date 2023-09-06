@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force rewrites mission statement](https://spacenews.com/space-force-rewrites-mission-statement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180324">2023-09-06 18:03:24 UTC</a></sub>
+* [Stand up, Space Greta](https://spacenews.com/stand-up-space-greta/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T174549">2023-09-06 17:45:49 UTC</a></sub>
+* [SpaceX Almost Ready For Second Starship Launch, Integrates Vehicle](https://tlpnetwork.com/news/2023/09/starship-ift2-stacked) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T165712">2023-09-06 16:57:12 UTC</a></sub>
 * [Space Development Agency solicits bids for 54 missile-tracking satellites](https://spacenews.com/space-development-agency-solicits-bids-for-54-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T163800">2023-09-06 16:38:00 UTC</a></sub>
 * [Starship is stacked and ready to make its second launch attempt](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T145158">2023-09-06 14:51:58 UTC</a></sub>
 * [Ariane 6 Core Stage Breathes Fire for the First Time](https://europeanspaceflight.com/ariane-6-core-stage-breathes-fire-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T143520">2023-09-06 14:35:20 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ariane 6 completes short-duration engine test](https://spacenews.com/ariane-6-completes-short-duration-engine-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T104700">2023-09-06 10:47:00 UTC</a></sub>
 * [Terran Orbital unveils seven standard satellite buses](https://spacenews.com/terran-orbital-unveils-seven-standard-satellite-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T103522">2023-09-06 10:35:22 UTC</a></sub>
 * [Chandrayaan-3 success to boost India’s space ambitions, global standing](https://spacenews.com/chandrayaan-3-success-to-boost-indias-space-ambitions-global-standing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T234133">2023-09-05 23:41:33 UTC</a></sub>
-* [Project Kuiper partners with Vodafone in Europe and Africa](https://spacenews.com/project-kuiper-partners-with-vodafone-in-europe-and-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T214916">2023-09-05 21:49:16 UTC</a></sub>
-* [Firefly selected to launch three L3Harris satellites](https://spacenews.com/firefly-selected-to-launch-three-l3harris-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211317">2023-09-05 21:13:17 UTC</a></sub>
-* [India Says Good Night To Chandrayaan-3](https://spacepolicyonline.com/news/india-says-good-night-to-chandrayaan-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T202052">2023-09-05 20:20:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How to see newly discovered Comet Nishimura](https://www.planetary.org/articles/how-to-see-newly-discovered-comet-nishimura) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T173640">2023-09-06 17:36:40 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 28-September 3, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-28-september-3-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211358">2023-09-05 21:13:58 UTC</a></sub>
 * [OSIRIS-REx sample return: What to expect](https://www.planetary.org/articles/osiris-rex-sample-return-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T143640">2023-09-05 14:36:40 UTC</a></sub>
 * [Are Europeans interested in going to space?](https://europeanspaceflight.substack.com/p/are-europeans-interested-in-going) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T141444">2023-09-04 14:14:44 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A lunar saga](https://www.planetary.org/articles/a-lunar-saga) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140643">2023-09-01 14:06:43 UTC</a></sub>
 * [Chang'e-6, collecting the first lunar farside samples](https://www.planetary.org/space-missions/change-6-collecting-the-first-lunar-farside-samples) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T151643">2023-08-31 15:16:43 UTC</a></sub>
 * [Does European Sci-Comm Suck?](https://europeanspaceflight.substack.com/p/does-european-sci-comm-suck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T140029">2023-08-28 14:00:29 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: August 21-27, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-21-27-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T125436">2023-08-28 12:54:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T173212">2023-09-06 17:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180901">2023-09-06 18:09:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
