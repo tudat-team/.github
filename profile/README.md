@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [US Space Force Unveils New Mission Statement](https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T204402">2023-09-06 20:44:02 UTC</a></sub>
 * [NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission](https://mars.nasa.gov/news/9474/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T193600">2023-09-06 19:36:00 UTC</a></sub>
 * [MAG Aerospace and SAS partner for Space Force data-analytics contract](https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T185215">2023-09-06 18:52:15 UTC</a></sub>
 * [SpaceX stacks Ship 25 and Booster 9, prepares for flight](https://www.nasaspaceflight.com/2023/09/s25b9firststack/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T184252">2023-09-06 18:42:52 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Development Agency solicits bids for 54 missile-tracking satellites](https://spacenews.com/space-development-agency-solicits-bids-for-54-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T163800">2023-09-06 16:38:00 UTC</a></sub>
 * [Starship is stacked and ready to make its second launch attempt](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T145158">2023-09-06 14:51:58 UTC</a></sub>
 * [Ariane 6 Core Stage Breathes Fire for the First Time](https://europeanspaceflight.com/ariane-6-core-stage-breathes-fire-for-the-first-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T143520">2023-09-06 14:35:20 UTC</a></sub>
-* [Eutelsat invests in Europe-focused space technology venture fund](https://spacenews.com/eutelsat-invests-in-europe-focused-space-technology-venture-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T132141">2023-09-06 13:21:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T203226">2023-09-06 20:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T210625">2023-09-06 21:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
