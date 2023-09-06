@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [L3Harris Selects Firefly To Launch US National Security Satellites](https://tlpnetwork.com/news/2023/09/l3harris-selects-firefly-to-launch-us-national-security-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T230601">2023-09-06 23:06:01 UTC</a></sub>
+* [Galactic Energy's Ceres-1 Reaches Orbit On First Sea Launch Mission](https://tlpnetwork.com/news/2023/09/galactic-energys-ceres-1-reaches-orbit-on-first-sea-launch-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T224611">2023-09-06 22:46:11 UTC</a></sub>
+* [Ariane 6 One Step Closer, But Still No Launch Date](https://spacepolicyonline.com/news/ariane-6-one-step-closer-but-still-no-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T222050">2023-09-06 22:20:50 UTC</a></sub>
+* [Pentagon’s new plan to counter China includes swarms of smart satellites](https://spacenews.com/pentagons-new-plan-to-counter-china-includes-swarms-of-smart-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T221431">2023-09-06 22:14:31 UTC</a></sub>
 * [SDA Seeks Bids For 54 Hypersonic Missile-Tracking Satellites](https://tlpnetwork.com/news/2023/09/sda-seeks-bids-for-54-hypersonic-missile-tracking-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T211905">2023-09-06 21:19:05 UTC</a></sub>
 * [US Space Force Unveils New Mission Statement](https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T204402">2023-09-06 20:44:02 UTC</a></sub>
 * [NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission](https://mars.nasa.gov/news/9474/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T193600">2023-09-06 19:36:00 UTC</a></sub>
 * [MAG Aerospace and SAS partner for Space Force data-analytics contract](https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T185215">2023-09-06 18:52:15 UTC</a></sub>
 * [SpaceX stacks Ship 25 and Booster 9, prepares for flight](https://www.nasaspaceflight.com/2023/09/s25b9firststack/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T184252">2023-09-06 18:42:52 UTC</a></sub>
 * [Space Force rewrites mission statement](https://spacenews.com/space-force-rewrites-mission-statement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180324">2023-09-06 18:03:24 UTC</a></sub>
-* [Stand up, Space Greta](https://spacenews.com/stand-up-space-greta/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T174549">2023-09-06 17:45:49 UTC</a></sub>
-* [SpaceX Almost Ready For Second Starship Launch, Integrates Vehicle](https://tlpnetwork.com/news/2023/09/starship-ift2-stacked) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T165712">2023-09-06 16:57:12 UTC</a></sub>
-* [Space Development Agency solicits bids for 54 missile-tracking satellites](https://spacenews.com/space-development-agency-solicits-bids-for-54-missile-tracking-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T163800">2023-09-06 16:38:00 UTC</a></sub>
-* [Starship is stacked and ready to make its second launch attempt](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T145158">2023-09-06 14:51:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T223202">2023-09-06 22:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T230701">2023-09-06 23:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
