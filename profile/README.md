@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat invests in Europe-focused space technology venture fund](https://spacenews.com/eutelsat-invests-in-europe-focused-space-technology-venture-fund/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T132141">2023-09-06 13:21:41 UTC</a></sub>
 * [Ariane 6 completes short-duration engine test](https://spacenews.com/ariane-6-completes-short-duration-engine-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T104700">2023-09-06 10:47:00 UTC</a></sub>
 * [Terran Orbital unveils seven standard satellite buses](https://spacenews.com/terran-orbital-unveils-seven-standard-satellite-buses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T103522">2023-09-06 10:35:22 UTC</a></sub>
 * [Chandrayaan-3 success to boost India’s space ambitions, global standing](https://spacenews.com/chandrayaan-3-success-to-boost-indias-space-ambitions-global-standing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T234133">2023-09-05 23:41:33 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA prepares for the return of the Osiris-Rex asteroid sample mission](https://www.teslarati.com/nasa-prepares-osiris-rex-asteroid-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T201643">2023-09-05 20:16:43 UTC</a></sub>
 * [Weekly Space Recap: August 28 – September 3](https://www.teslarati.com/weekly-space-recap-august-28-september-3/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T194642">2023-09-05 19:46:42 UTC</a></sub>
 * [European official on Ariane 6 debut: “Please allow me to not speculate at this time”](https://arstechnica.com/space/2023/09/no-firm-date-on-ariane-6s-debut-and-no-public-talk-on-prices-either/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T162914">2023-09-05 16:29:14 UTC</a></sub>
-* [Cracking the celestial ceiling](https://spacenews.com/breaking-the-celestial-ceiling/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T140000">2023-09-05 14:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T131022">2023-09-06 13:10:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T133219">2023-09-06 13:32:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
