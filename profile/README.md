@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceChain pivots to combine AI with Earth imagery](https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234813">2023-09-06 23:48:13 UTC</a></sub>
+* [Psyche asteroid mission set for October launch](https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T232629">2023-09-06 23:26:29 UTC</a></sub>
 * [L3Harris Selects Firefly To Launch US National Security Satellites](https://tlpnetwork.com/news/2023/09/l3harris-selects-firefly-to-launch-us-national-security-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T230601">2023-09-06 23:06:01 UTC</a></sub>
 * [Galactic Energy's Ceres-1 Reaches Orbit On First Sea Launch Mission](https://tlpnetwork.com/news/2023/09/galactic-energys-ceres-1-reaches-orbit-on-first-sea-launch-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T224611">2023-09-06 22:46:11 UTC</a></sub>
 * [Ariane 6 One Step Closer, But Still No Launch Date](https://spacepolicyonline.com/news/ariane-6-one-step-closer-but-still-no-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T222050">2023-09-06 22:20:50 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [US Space Force Unveils New Mission Statement](https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T204402">2023-09-06 20:44:02 UTC</a></sub>
 * [NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission](https://mars.nasa.gov/news/9474/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T193600">2023-09-06 19:36:00 UTC</a></sub>
 * [MAG Aerospace and SAS partner for Space Force data-analytics contract](https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T185215">2023-09-06 18:52:15 UTC</a></sub>
-* [SpaceX stacks Ship 25 and Booster 9, prepares for flight](https://www.nasaspaceflight.com/2023/09/s25b9firststack/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T184252">2023-09-06 18:42:52 UTC</a></sub>
-* [Space Force rewrites mission statement](https://spacenews.com/space-force-rewrites-mission-statement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180324">2023-09-06 18:03:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T233228">2023-09-06 23:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003320">2023-09-07 00:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
