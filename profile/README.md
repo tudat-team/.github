@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Are your solar eclipse glasses safe?](https://www.planetary.org/articles/are-your-solar-eclipse-glasses-safe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T143642">2023-09-07 14:36:42 UTC</a></sub>
 * [How to see newly discovered Comet Nishimura](https://www.planetary.org/articles/how-to-see-newly-discovered-comet-nishimura) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T173640">2023-09-06 17:36:40 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 28-September 3, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-28-september-3-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211358">2023-09-05 21:13:58 UTC</a></sub>
 * [OSIRIS-REx sample return: What to expect](https://www.planetary.org/articles/osiris-rex-sample-return-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T143640">2023-09-05 14:36:40 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [To the moon together](https://www.planetary.org/articles/to-the-moon-together) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140645">2023-09-01 14:06:45 UTC</a></sub>
 * [A lunar saga](https://www.planetary.org/articles/a-lunar-saga) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140643">2023-09-01 14:06:43 UTC</a></sub>
 * [Chang'e-6, collecting the first lunar farside samples](https://www.planetary.org/space-missions/change-6-collecting-the-first-lunar-farside-samples) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T151643">2023-08-31 15:16:43 UTC</a></sub>
-* [Does European Sci-Comm Suck?](https://europeanspaceflight.substack.com/p/does-european-sci-comm-suck) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T140029">2023-08-28 14:00:29 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T143224">2023-09-07 14:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T150741">2023-09-07 15:07:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
