@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japan launches moon lander and X-ray observatory](https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003102">2023-09-07 00:31:02 UTC</a></sub>
 * [SpaceChain pivots to combine AI with Earth imagery](https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234813">2023-09-06 23:48:13 UTC</a></sub>
 * [Psyche asteroid mission set for October launch](https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T232629">2023-09-06 23:26:29 UTC</a></sub>
 * [L3Harris Selects Firefly To Launch US National Security Satellites](https://tlpnetwork.com/news/2023/09/l3harris-selects-firefly-to-launch-us-national-security-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T230601">2023-09-06 23:06:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SDA Seeks Bids For 54 Hypersonic Missile-Tracking Satellites](https://tlpnetwork.com/news/2023/09/sda-seeks-bids-for-54-hypersonic-missile-tracking-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T211905">2023-09-06 21:19:05 UTC</a></sub>
 * [US Space Force Unveils New Mission Statement](https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T204402">2023-09-06 20:44:02 UTC</a></sub>
 * [NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission](https://mars.nasa.gov/news/9474/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T193600">2023-09-06 19:36:00 UTC</a></sub>
-* [MAG Aerospace and SAS partner for Space Force data-analytics contract](https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T185215">2023-09-06 18:52:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003320">2023-09-07 00:33:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T014030">2023-09-07 01:40:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
