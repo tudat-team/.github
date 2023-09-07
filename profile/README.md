@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity Space expands presence at NASA’s Stennis Space Center](https://spacenews.com/relativity-space-expands-presence-at-nasas-stennis-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T155619">2023-09-07 15:56:19 UTC</a></sub>
+* [Integrated resilient missile warning, tracking and defense](https://spacenews.com/integrated-resilient-missile-warning-tracking-and-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T154850">2023-09-07 15:48:50 UTC</a></sub>
 * [HyImpulse Qualifies Hybrid Rocket Motor for Flight](https://europeanspaceflight.com/hyimpulse-qualifies-hybrid-rocket-motor-for-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T135231">2023-09-07 13:52:31 UTC</a></sub>
 * [Redwire demonstrates bioprinting human tissue in space](https://spacenews.com/redwire-demonstrates-bioprinting-human-tissue-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T113000">2023-09-07 11:30:00 UTC</a></sub>
 * [Terran Orbital announces plan to speed up satellite production](https://spacenews.com/terran-orbital-announces-plan-to-speed-up-satellite-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T103000">2023-09-07 10:30:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceChain pivots to combine AI with Earth imagery](https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234813">2023-09-06 23:48:13 UTC</a></sub>
 * [Psyche asteroid mission set for October launch](https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T232629">2023-09-06 23:26:29 UTC</a></sub>
 * [L3Harris Selects Firefly To Launch US National Security Satellites](https://tlpnetwork.com/news/2023/09/l3harris-selects-firefly-to-launch-us-national-security-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T230601">2023-09-06 23:06:01 UTC</a></sub>
-* [Galactic Energy's Ceres-1 Reaches Orbit On First Sea Launch Mission](https://tlpnetwork.com/news/2023/09/galactic-energys-ceres-1-reaches-orbit-on-first-sea-launch-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T224611">2023-09-06 22:46:11 UTC</a></sub>
-* [Ariane 6 One Step Closer, But Still No Launch Date](https://spacepolicyonline.com/news/ariane-6-one-step-closer-but-still-no-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T222050">2023-09-06 22:20:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T153235">2023-09-07 15:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T160921">2023-09-07 16:09:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
