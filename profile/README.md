@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [South Africa joins China’s moon base project](https://spacenews.com/south-africa-joins-chinas-moon-base-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T184822">2023-09-07 18:48:22 UTC</a></sub>
 * [Relativity Space expands presence at NASA’s Stennis Space Center](https://spacenews.com/relativity-space-expands-presence-at-nasas-stennis-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T155619">2023-09-07 15:56:19 UTC</a></sub>
 * [Integrated resilient missile warning, tracking and defense](https://spacenews.com/integrated-resilient-missile-warning-tracking-and-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T154850">2023-09-07 15:48:50 UTC</a></sub>
 * [HyImpulse Qualifies Hybrid Rocket Motor for Flight](https://europeanspaceflight.com/hyimpulse-qualifies-hybrid-rocket-motor-for-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T135231">2023-09-07 13:52:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japan launches moon lander and X-ray observatory](https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003102">2023-09-07 00:31:02 UTC</a></sub>
 * [SpaceChain pivots to combine AI with Earth imagery](https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234813">2023-09-06 23:48:13 UTC</a></sub>
 * [Psyche asteroid mission set for October launch](https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T232629">2023-09-06 23:26:29 UTC</a></sub>
-* [L3Harris Selects Firefly To Launch US National Security Satellites](https://tlpnetwork.com/news/2023/09/l3harris-selects-firefly-to-launch-us-national-security-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T230601">2023-09-06 23:06:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T183250">2023-09-07 18:32:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T190533">2023-09-07 19:05:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
