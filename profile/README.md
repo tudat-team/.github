@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New report recommends Space Force change how it buys commercial satellite services](https://spacenews.com/new-report-recommends-space-force-change-how-it-buys-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T215041">2023-09-07 21:50:41 UTC</a></sub>
 * [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T202131">2023-09-07 20:21:31 UTC</a></sub>
 * [South Africa joins China’s moon base project](https://spacenews.com/south-africa-joins-chinas-moon-base-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T184822">2023-09-07 18:48:22 UTC</a></sub>
 * [Relativity Space expands presence at NASA’s Stennis Space Center](https://spacenews.com/relativity-space-expands-presence-at-nasas-stennis-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T155619">2023-09-07 15:56:19 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Terran Orbital announces plan to speed up satellite production](https://spacenews.com/terran-orbital-announces-plan-to-speed-up-satellite-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T103000">2023-09-07 10:30:00 UTC</a></sub>
 * [Japan Launches X-Ray Telescope and Lunar Lander](https://spacepolicyonline.com/news/japan-launches-x-ray-telescope-and-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T033417">2023-09-07 03:34:17 UTC</a></sub>
 * [Japan launches moon lander and X-ray observatory](https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003102">2023-09-07 00:31:02 UTC</a></sub>
-* [SpaceChain pivots to combine AI with Earth imagery](https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234813">2023-09-06 23:48:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T213207">2023-09-07 21:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T220648">2023-09-07 22:06:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
