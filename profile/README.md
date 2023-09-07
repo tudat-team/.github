@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japan Launches X-Ray Telescope and Lunar Lander](https://spacepolicyonline.com/news/japan-launches-x-ray-telescope-and-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T033417">2023-09-07 03:34:17 UTC</a></sub>
 * [Japan launches moon lander and X-ray observatory](https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003102">2023-09-07 00:31:02 UTC</a></sub>
 * [SpaceChain pivots to combine AI with Earth imagery](https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234813">2023-09-06 23:48:13 UTC</a></sub>
 * [Psyche asteroid mission set for October launch](https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T232629">2023-09-06 23:26:29 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pentagon’s new plan to counter China includes swarms of smart satellites](https://spacenews.com/pentagons-new-plan-to-counter-china-includes-swarms-of-smart-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T221431">2023-09-06 22:14:31 UTC</a></sub>
 * [SDA Seeks Bids For 54 Hypersonic Missile-Tracking Satellites](https://tlpnetwork.com/news/2023/09/sda-seeks-bids-for-54-hypersonic-missile-tracking-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T211905">2023-09-06 21:19:05 UTC</a></sub>
 * [US Space Force Unveils New Mission Statement](https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T204402">2023-09-06 20:44:02 UTC</a></sub>
-* [NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission](https://mars.nasa.gov/news/9474/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T193600">2023-09-06 19:36:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T033227">2023-09-07 03:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T040851">2023-09-07 04:08:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
