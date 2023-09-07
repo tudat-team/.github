@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Redwire demonstrates bioprinting human tissue in space](https://spacenews.com/redwire-demonstrates-bioprinting-human-tissue-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T113000">2023-09-07 11:30:00 UTC</a></sub>
 * [Terran Orbital announces plan to speed up satellite production](https://spacenews.com/terran-orbital-announces-plan-to-speed-up-satellite-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T103000">2023-09-07 10:30:00 UTC</a></sub>
 * [Japan Launches X-Ray Telescope and Lunar Lander](https://spacepolicyonline.com/news/japan-launches-x-ray-telescope-and-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T033417">2023-09-07 03:34:17 UTC</a></sub>
 * [Japan launches moon lander and X-ray observatory](https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003102">2023-09-07 00:31:02 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Galactic Energy's Ceres-1 Reaches Orbit On First Sea Launch Mission](https://tlpnetwork.com/news/2023/09/galactic-energys-ceres-1-reaches-orbit-on-first-sea-launch-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T224611">2023-09-06 22:46:11 UTC</a></sub>
 * [Ariane 6 One Step Closer, But Still No Launch Date](https://spacepolicyonline.com/news/ariane-6-one-step-closer-but-still-no-launch-date/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T222050">2023-09-06 22:20:50 UTC</a></sub>
 * [Pentagon’s new plan to counter China includes swarms of smart satellites](https://spacenews.com/pentagons-new-plan-to-counter-china-includes-swarms-of-smart-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T221431">2023-09-06 22:14:31 UTC</a></sub>
-* [SDA Seeks Bids For 54 Hypersonic Missile-Tracking Satellites](https://tlpnetwork.com/news/2023/09/sda-seeks-bids-for-54-hypersonic-missile-tracking-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T211905">2023-09-06 21:19:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T113217">2023-09-07 11:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T121332">2023-09-07 12:13:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
