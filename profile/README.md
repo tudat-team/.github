@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Letter: Grateful for ‘Space Greta’](https://spacenews.com/letter-grateful-for-space-greta/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T140548">2023-09-08 14:05:48 UTC</a></sub>
 * [The future of human spaceflight safety is in the hands of Congress](https://spacenews.com/the-future-of-human-spaceflight-safety-is-in-the-hands-of-congress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T130900">2023-09-08 13:09:00 UTC</a></sub>
 * [GAO report calls for more transparency on SLS costs](https://spacenews.com/gao-report-calls-for-more-transparency-on-sls-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T112715">2023-09-08 11:27:15 UTC</a></sub>
 * [EU and UK reach deal on Copernicus](https://spacenews.com/eu-and-uk-reach-deal-on-copernicus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T010601">2023-09-08 01:06:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Relativity Space expands presence at NASA’s Stennis Space Center](https://spacenews.com/relativity-space-expands-presence-at-nasas-stennis-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T155619">2023-09-07 15:56:19 UTC</a></sub>
 * [Integrated resilient missile warning, tracking and defense](https://spacenews.com/integrated-resilient-missile-warning-tracking-and-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T154850">2023-09-07 15:48:50 UTC</a></sub>
 * [HyImpulse Qualifies Hybrid Rocket Motor for Flight](https://europeanspaceflight.com/hyimpulse-qualifies-hybrid-rocket-motor-for-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T135231">2023-09-07 13:52:31 UTC</a></sub>
-* [Redwire demonstrates bioprinting human tissue in space](https://spacenews.com/redwire-demonstrates-bioprinting-human-tissue-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T113000">2023-09-07 11:30:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T133229">2023-09-08 13:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T140646">2023-09-08 14:06:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
