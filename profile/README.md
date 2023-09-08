@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FAA closes Starship mishap investigation, directs 63 corrective actions for SpaceX](https://spacenews.com/faa-closes-starship-mishap-investigation-directs-63-corrective-actions-for-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T170038">2023-09-08 17:00:38 UTC</a></sub>
+* [Rubicon wins NASA and AFRL ASCENT thruster contracts](https://spacenews.com/rubicon-wins-nasa-and-afrl-ascent-thruster-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T162350">2023-09-08 16:23:50 UTC</a></sub>
 * [NASA, International Astronauts to Speak with Students in Two States](http://www.nasa.gov/press-release/nasa-international-astronauts-to-speak-with-students-in-two-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T144600">2023-09-08 14:46:00 UTC</a></sub>
 * [BREAKING! FAA Completes SpaceX Starship IFT-1 Investigation, 63 Corrective Actions Required](https://tlpnetwork.com/news/2023/09/faa-completes-spacex-starship-ift-1-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T142616">2023-09-08 14:26:16 UTC</a></sub>
 * [MaiaSpace Complete First Cryogenic Test of Second Stage Prototype](https://europeanspaceflight.com/maiaspace-complete-first-cryogenic-test-of-second-stage-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T142521">2023-09-08 14:25:21 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [GAO report calls for more transparency on SLS costs](https://spacenews.com/gao-report-calls-for-more-transparency-on-sls-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T112715">2023-09-08 11:27:15 UTC</a></sub>
 * [EU and UK reach deal on Copernicus](https://spacenews.com/eu-and-uk-reach-deal-on-copernicus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T010601">2023-09-08 01:06:01 UTC</a></sub>
 * [New report recommends Space Force change how it buys commercial satellite services](https://spacenews.com/new-report-recommends-space-force-change-how-it-buys-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T215041">2023-09-07 21:50:41 UTC</a></sub>
-* [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T202131">2023-09-07 20:21:31 UTC</a></sub>
-* [South Africa joins China’s moon base project](https://spacenews.com/south-africa-joins-chinas-moon-base-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T184822">2023-09-07 18:48:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T163543">2023-09-08 16:35:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T170634">2023-09-08 17:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
