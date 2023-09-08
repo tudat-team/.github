@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Relativity Space Expands NASA Stennis Ops With Historic Test Stand Lease](https://tlpnetwork.com/news/2023/09/relativity-space-expands-nasa-stennis-ops-with-historic-test-stand-lease) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T221231">2023-09-08 22:12:31 UTC</a></sub>
+* [South Africa Formally Partners With China On Lunar Base](https://tlpnetwork.com/news/2023/09/south-africa-formally-partners-china-on-lunar-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T220543">2023-09-08 22:05:43 UTC</a></sub>
+* [FAA: Starship Mishap Investigation Complete, But No Flight Approval Yet](https://spacepolicyonline.com/news/faa-starship-mishap-investigation-complete-but-no-flight-approval-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T220327">2023-09-08 22:03:27 UTC</a></sub>
 * [BREAKING! Redwire Successfully 3D Prints Human Tissue in Microgravity Aboard the ISS & Returns It To Earth](https://tlpnetwork.com/news/2023/09/redwire-successfully-3d-prints-human-tissue-on-iss-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T214433">2023-09-08 21:44:33 UTC</a></sub>
 * [Virgin Galactic completes third commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-completes-third-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T190327">2023-09-08 19:03:27 UTC</a></sub>
 * [FAA closes Starship mishap investigation, directs 63 corrective actions for SpaceX](https://spacenews.com/faa-closes-starship-mishap-investigation-directs-63-corrective-actions-for-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T170038">2023-09-08 17:00:38 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA, International Astronauts to Speak with Students in Two States](http://www.nasa.gov/press-release/nasa-international-astronauts-to-speak-with-students-in-two-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T144600">2023-09-08 14:46:00 UTC</a></sub>
 * [BREAKING! FAA Completes SpaceX Starship IFT-1 Investigation, 63 Corrective Actions Required](https://tlpnetwork.com/news/2023/09/faa-completes-spacex-starship-ift-1-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T142616">2023-09-08 14:26:16 UTC</a></sub>
 * [MaiaSpace Complete First Cryogenic Test of Second Stage Prototype](https://europeanspaceflight.com/maiaspace-complete-first-cryogenic-test-of-second-stage-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T142521">2023-09-08 14:25:21 UTC</a></sub>
-* [Letter: Grateful for ‘Space Greta’](https://spacenews.com/letter-grateful-for-space-greta/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T140548">2023-09-08 14:05:48 UTC</a></sub>
-* [The future of human spaceflight safety is in the hands of Congress](https://spacenews.com/the-future-of-human-spaceflight-safety-is-in-the-hands-of-congress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T130900">2023-09-08 13:09:00 UTC</a></sub>
-* [GAO report calls for more transparency on SLS costs](https://spacenews.com/gao-report-calls-for-more-transparency-on-sls-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T112715">2023-09-08 11:27:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T223208">2023-09-08 22:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T230648">2023-09-08 23:06:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
