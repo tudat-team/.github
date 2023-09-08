@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA, International Astronauts to Speak with Students in Two States](http://www.nasa.gov/press-release/nasa-international-astronauts-to-speak-with-students-in-two-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T144600">2023-09-08 14:46:00 UTC</a></sub>
+* [BREAKING! FAA Completes SpaceX Starship IFT-1 Investigation, 63 Corrective Actions Required](https://tlpnetwork.com/news/2023/09/faa-completes-spacex-starship-ift-1-investigation) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T142616">2023-09-08 14:26:16 UTC</a></sub>
+* [MaiaSpace Complete First Cryogenic Test of Second Stage Prototype](https://europeanspaceflight.com/maiaspace-complete-first-cryogenic-test-of-second-stage-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T142521">2023-09-08 14:25:21 UTC</a></sub>
 * [Letter: Grateful for ‘Space Greta’](https://spacenews.com/letter-grateful-for-space-greta/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T140548">2023-09-08 14:05:48 UTC</a></sub>
 * [The future of human spaceflight safety is in the hands of Congress](https://spacenews.com/the-future-of-human-spaceflight-safety-is-in-the-hands-of-congress/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T130900">2023-09-08 13:09:00 UTC</a></sub>
 * [GAO report calls for more transparency on SLS costs](https://spacenews.com/gao-report-calls-for-more-transparency-on-sls-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T112715">2023-09-08 11:27:15 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New report recommends Space Force change how it buys commercial satellite services](https://spacenews.com/new-report-recommends-space-force-change-how-it-buys-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T215041">2023-09-07 21:50:41 UTC</a></sub>
 * [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T202131">2023-09-07 20:21:31 UTC</a></sub>
 * [South Africa joins China’s moon base project](https://spacenews.com/south-africa-joins-chinas-moon-base-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T184822">2023-09-07 18:48:22 UTC</a></sub>
-* [Relativity Space expands presence at NASA’s Stennis Space Center](https://spacenews.com/relativity-space-expands-presence-at-nasas-stennis-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T155619">2023-09-07 15:56:19 UTC</a></sub>
-* [Integrated resilient missile warning, tracking and defense](https://spacenews.com/integrated-resilient-missile-warning-tracking-and-defense/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T154850">2023-09-07 15:48:50 UTC</a></sub>
-* [HyImpulse Qualifies Hybrid Rocket Motor for Flight](https://europeanspaceflight.com/hyimpulse-qualifies-hybrid-rocket-motor-for-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T135231">2023-09-07 13:52:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Cometary sights and sounds](https://www.planetary.org/the-downlink/cometary-sights-and-sounds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143645">2023-09-08 14:36:45 UTC</a></sub>
+* [A checklist for what to expect during the 2024 total solar eclipse](https://www.planetary.org/articles/eclipse-2024-checklist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143643">2023-09-08 14:36:43 UTC</a></sub>
 * [Are your solar eclipse glasses safe?](https://www.planetary.org/articles/are-your-solar-eclipse-glasses-safe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T143642">2023-09-07 14:36:42 UTC</a></sub>
 * [How to see newly discovered Comet Nishimura](https://www.planetary.org/articles/how-to-see-newly-discovered-comet-nishimura) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T173640">2023-09-06 17:36:40 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: August 28-September 3, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-28-september-3-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211358">2023-09-05 21:13:58 UTC</a></sub>
@@ -596,8 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [See for yourself](https://www.planetary.org/the-downlink/see-for-yourself) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143642">2023-09-01 14:36:42 UTC</a></sub>
 * [Your impact: September equinox 2023](https://www.planetary.org/articles/your-impact-september-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140647">2023-09-01 14:06:47 UTC</a></sub>
 * [To the moon together](https://www.planetary.org/articles/to-the-moon-together) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140645">2023-09-01 14:06:45 UTC</a></sub>
-* [A lunar saga](https://www.planetary.org/articles/a-lunar-saga) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140643">2023-09-01 14:06:43 UTC</a></sub>
-* [Chang'e-6, collecting the first lunar farside samples](https://www.planetary.org/space-missions/change-6-collecting-the-first-lunar-farside-samples) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T151643">2023-08-31 15:16:43 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143216">2023-09-08 14:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T150607">2023-09-08 15:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
