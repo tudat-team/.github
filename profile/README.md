@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [EU and UK reach deal on Copernicus](https://spacenews.com/eu-and-uk-reach-deal-on-copernicus/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T010601">2023-09-08 01:06:01 UTC</a></sub>
 * [New report recommends Space Force change how it buys commercial satellite services](https://spacenews.com/new-report-recommends-space-force-change-how-it-buys-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T215041">2023-09-07 21:50:41 UTC</a></sub>
 * [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T202131">2023-09-07 20:21:31 UTC</a></sub>
 * [South Africa joins China’s moon base project](https://spacenews.com/south-africa-joins-chinas-moon-base-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T184822">2023-09-07 18:48:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Redwire demonstrates bioprinting human tissue in space](https://spacenews.com/redwire-demonstrates-bioprinting-human-tissue-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T113000">2023-09-07 11:30:00 UTC</a></sub>
 * [Terran Orbital announces plan to speed up satellite production](https://spacenews.com/terran-orbital-announces-plan-to-speed-up-satellite-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T103000">2023-09-07 10:30:00 UTC</a></sub>
 * [Japan Launches X-Ray Telescope and Lunar Lander](https://spacepolicyonline.com/news/japan-launches-x-ray-telescope-and-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T033417">2023-09-07 03:34:17 UTC</a></sub>
-* [Japan launches moon lander and X-ray observatory](https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T003102">2023-09-07 00:31:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T003322">2023-09-08 00:33:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T014107">2023-09-08 01:41:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
