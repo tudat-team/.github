@@ -569,6 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Viasat researching more portable satcoms terminals for dismounted soldiers](https://spacenews.com/viasat-researching-more-portable-satcoms-terminals-for-dismounted-soldiers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T004653">2023-09-09 00:46:53 UTC</a></sub>
+* [Avio Financials Boosted by EU Covid Recovery Funds and Missile Contracts](https://europeanspaceflight.com/avio-financials-boosted-by-eu-covid-recovery-funds-and-missile-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T232048">2023-09-08 23:20:48 UTC</a></sub>
 * [Virgin Galactic's Galactic 03 Mission Complete, Mystery Crew Revealed](https://tlpnetwork.com/news/2023/09/virgin-galactic-galactic-03-mission-complete-mystery-crew-revealed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T225604">2023-09-08 22:56:04 UTC</a></sub>
 * [Relativity Space Expands NASA Stennis Ops With Historic Test Stand Lease](https://tlpnetwork.com/news/2023/09/relativity-space-expands-nasa-stennis-ops-with-historic-test-stand-lease) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T221231">2023-09-08 22:12:31 UTC</a></sub>
 * [South Africa Formally Partners With China On Lunar Base](https://tlpnetwork.com/news/2023/09/south-africa-formally-partners-china-on-lunar-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T220543">2023-09-08 22:05:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic completes third commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-completes-third-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T190327">2023-09-08 19:03:27 UTC</a></sub>
 * [FAA closes Starship mishap investigation, directs 63 corrective actions for SpaceX](https://spacenews.com/faa-closes-starship-mishap-investigation-directs-63-corrective-actions-for-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T170038">2023-09-08 17:00:38 UTC</a></sub>
 * [Rubicon wins NASA and AFRL ASCENT thruster contracts](https://spacenews.com/rubicon-wins-nasa-and-afrl-ascent-thruster-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T162350">2023-09-08 16:23:50 UTC</a></sub>
-* [NASA, International Astronauts to Speak with Students in Two States](http://www.nasa.gov/press-release/nasa-international-astronauts-to-speak-with-students-in-two-states) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T144600">2023-09-08 14:46:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T053215">2023-09-09 05:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T060820">2023-09-09 06:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
