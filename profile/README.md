@@ -574,7 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Relativity Space Expands NASA Stennis Ops With Historic Test Stand Lease](https://tlpnetwork.com/news/2023/09/relativity-space-expands-nasa-stennis-ops-with-historic-test-stand-lease) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T221231">2023-09-08 22:12:31 UTC</a></sub>
 * [South Africa Formally Partners With China On Lunar Base](https://tlpnetwork.com/news/2023/09/south-africa-formally-partners-china-on-lunar-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T220543">2023-09-08 22:05:43 UTC</a></sub>
 * [FAA: Starship Mishap Investigation Complete, But No Flight Approval Yet](https://spacepolicyonline.com/news/faa-starship-mishap-investigation-complete-but-no-flight-approval-yet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T220327">2023-09-08 22:03:27 UTC</a></sub>
-* [BREAKING! Redwire Successfully 3D Prints Human Tissue in Microgravity Aboard the ISS & Returns It To Earth](https://tlpnetwork.com/news/2023/09/redwire-successfully-3d-prints-human-tissue-on-iss-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T214433">2023-09-08 21:44:33 UTC</a></sub>
+* [Redwire Successfully 3D Prints Human Tissue in Microgravity Aboard the ISS & Returns It To Earth](https://tlpnetwork.com/news/2023/09/redwire-successfully-3d-prints-human-tissue-on-iss-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T214433">2023-09-08 21:44:33 UTC</a></sub>
 * [Virgin Galactic completes third commercial SpaceShipTwo flight](https://spacenews.com/virgin-galactic-completes-third-commercial-spaceshiptwo-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T190327">2023-09-08 19:03:27 UTC</a></sub>
 * [FAA closes Starship mishap investigation, directs 63 corrective actions for SpaceX](https://spacenews.com/faa-closes-starship-mishap-investigation-directs-63-corrective-actions-for-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T170038">2023-09-08 17:00:38 UTC</a></sub>
 * [Rubicon wins NASA and AFRL ASCENT thruster contracts](https://spacenews.com/rubicon-wins-nasa-and-afrl-ascent-thruster-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T162350">2023-09-08 16:23:50 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T093211">2023-09-09 09:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T100657">2023-09-09 10:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
