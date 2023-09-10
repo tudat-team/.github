@@ -569,7 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [ULA’s Atlas 5 launches National Reconnaissance Office mission](https://spacenews.com/ulas-atlas-5-launches-national-reconnaissance-office-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T125740">2023-09-10 12:57:40 UTC</a></sub>
-* [ULA shooting for Sunday NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/09/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T000707">2023-09-10 00:07:07 UTC</a></sub>
+* [ULA conducts NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/09/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T000707">2023-09-10 00:07:07 UTC</a></sub>
 * [Using new data analysis tool on Swift, scientists discover black hole snacking on a star](https://www.nasaspaceflight.com/2023/09/swift-j0230/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T194011">2023-09-09 19:40:11 UTC</a></sub>
 * [Viasat researching more portable satcoms terminals for dismounted soldiers](https://spacenews.com/viasat-researching-more-portable-satcoms-terminals-for-dismounted-soldiers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T004653">2023-09-09 00:46:53 UTC</a></sub>
 * [Avio Financials Boosted by EU Covid Recovery Funds and Missile Contracts](https://europeanspaceflight.com/avio-financials-boosted-by-eu-covid-recovery-funds-and-missile-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T232048">2023-09-08 23:20:48 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T143225">2023-09-10 14:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T150618">2023-09-10 15:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
