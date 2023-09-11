@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. export credit agency is working through $5 billion pipeline of space financing, vice chair says](https://www.cnbc.com/2023/09/11/us-export-import-bank-working-through-5-billion-space-pipeline.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T123353">2023-09-11 12:33:53 UTC</a></sub>
 * [Former White House space policy official Audrey Schaffer joins Slingshot Aerospace](https://spacenews.com/former-white-house-space-policy-official-audrey-schaffer-joins-slingshot-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T115034">2023-09-11 11:50:34 UTC</a></sub>
 * [Former Airbus executive Chris Emerson named chairman of All.Space](https://spacenews.com/former-airbus-executive-chris-emerson-named-chairman-of-all-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T100000">2023-09-11 10:00:00 UTC</a></sub>
 * [Paige McCullough Promoted to Vice President of Business Development at SpaceNews](https://spacenews.com/paige-mccullough-promoted-to-vice-president-of-business-development-at-spacenews/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T050000">2023-09-11 05:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ULA conducts NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/09/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T000707">2023-09-10 00:07:07 UTC</a></sub>
 * [Using new data analysis tool on Swift, scientists discover black hole snacking on a star](https://www.nasaspaceflight.com/2023/09/swift-j0230/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T194011">2023-09-09 19:40:11 UTC</a></sub>
 * [Viasat researching more portable satcoms terminals for dismounted soldiers](https://spacenews.com/viasat-researching-more-portable-satcoms-terminals-for-dismounted-soldiers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T004653">2023-09-09 00:46:53 UTC</a></sub>
-* [Avio Financials Boosted by EU Covid Recovery Funds and Missile Contracts](https://europeanspaceflight.com/avio-financials-boosted-by-eu-covid-recovery-funds-and-missile-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T232048">2023-09-08 23:20:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T121344">2023-09-11 12:13:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T124810">2023-09-11 12:48:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
