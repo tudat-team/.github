@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Paige McCullough Promoted to Vice President of Business Development at SpaceNews](https://spacenews.com/paige-mccullough-promoted-to-vice-president-of-business-development-at-spacenews/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T050000">2023-09-11 05:00:00 UTC</a></sub>
 * [Open Cosmos raises $50 million to expand Earth observation satellite business](https://spacenews.com/open-cosmos-raises-50-million-to-expand-earth-observation-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T230500">2023-09-10 23:05:00 UTC</a></sub>
 * [What’s Happening in Space Policy September 10-16, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-10-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T181338">2023-09-10 18:13:38 UTC</a></sub>
 * [ULA’s Atlas 5 launches National Reconnaissance Office mission](https://spacenews.com/ulas-atlas-5-launches-national-reconnaissance-office-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T125740">2023-09-10 12:57:40 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Avio Financials Boosted by EU Covid Recovery Funds and Missile Contracts](https://europeanspaceflight.com/avio-financials-boosted-by-eu-covid-recovery-funds-and-missile-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T232048">2023-09-08 23:20:48 UTC</a></sub>
 * [Virgin Galactic's Galactic 03 Mission Complete, Mystery Crew Revealed](https://tlpnetwork.com/news/2023/09/virgin-galactic-galactic-03-mission-complete-mystery-crew-revealed) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T225604">2023-09-08 22:56:04 UTC</a></sub>
 * [Relativity Space Expands NASA Stennis Ops With Historic Test Stand Lease](https://tlpnetwork.com/news/2023/09/relativity-space-expands-nasa-stennis-ops-with-historic-test-stand-lease) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T221231">2023-09-08 22:12:31 UTC</a></sub>
-* [South Africa Formally Partners With China On Lunar Base](https://tlpnetwork.com/news/2023/09/south-africa-formally-partners-china-on-lunar-base) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T220543">2023-09-08 22:05:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T043215">2023-09-11 04:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T050718">2023-09-11 05:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
