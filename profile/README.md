@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Leadership to Call Agency’s Record-Breaking Astronaut in Space](http://www.nasa.gov/press-release/nasa-leadership-to-call-agency-s-record-breaking-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183600">2023-09-11 18:36:00 UTC</a></sub>
 * [Telesat signs multi-launch SpaceX deal covering all Lightspeed satellites](https://spacenews.com/telesat-signs-multi-launch-spacex-deal-covering-all-lightspeed-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T165821">2023-09-11 16:58:21 UTC</a></sub>
 * [Telesat Q&A | Getting back to Lightspeed](https://spacenews.com/telesat-qa-getting-back-to-lightspeed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T164718">2023-09-11 16:47:18 UTC</a></sub>
 * [Techstars welcomes 12 startups to 2023 Space Accelerator](https://spacenews.com/techstars-welcomes-12-startups-to-2023-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T160000">2023-09-11 16:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ITU emphasizes importance of space sustainability](https://spacenews.com/itu-emphasizes-importance-of-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T140511">2023-09-11 14:05:11 UTC</a></sub>
 * [Geost payloads selected for Space Development Agency satellites](https://spacenews.com/geost-payloads-selected-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T131500">2023-09-11 13:15:00 UTC</a></sub>
 * [U.S. export credit agency is working through $5 billion pipeline of space financing, vice chair says](https://www.cnbc.com/2023/09/11/us-export-import-bank-working-through-5-billion-space-pipeline.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T123353">2023-09-11 12:33:53 UTC</a></sub>
-* [Former White House space policy official Audrey Schaffer joins Slingshot Aerospace](https://spacenews.com/former-white-house-space-policy-official-audrey-schaffer-joins-slingshot-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T115034">2023-09-11 11:50:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: September 4-10, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-september-4-10-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183733">2023-09-11 18:37:33 UTC</a></sub>
 * [Cometary sights and sounds](https://www.planetary.org/the-downlink/cometary-sights-and-sounds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143645">2023-09-08 14:36:45 UTC</a></sub>
 * [A checklist for what to expect during the 2024 total solar eclipse](https://www.planetary.org/articles/eclipse-2024-checklist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143643">2023-09-08 14:36:43 UTC</a></sub>
 * [Are your solar eclipse glasses safe?](https://www.planetary.org/articles/are-your-solar-eclipse-glasses-safe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T143642">2023-09-07 14:36:42 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Are Europeans interested in going to space?](https://europeanspaceflight.substack.com/p/are-europeans-interested-in-going) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T141444">2023-09-04 14:14:44 UTC</a></sub>
 * [See for yourself](https://www.planetary.org/the-downlink/see-for-yourself) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143642">2023-09-01 14:36:42 UTC</a></sub>
 * [Your impact: September equinox 2023](https://www.planetary.org/articles/your-impact-september-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140647">2023-09-01 14:06:47 UTC</a></sub>
-* [To the moon together](https://www.planetary.org/articles/to-the-moon-together) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140645">2023-09-01 14:06:45 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183257">2023-09-11 18:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T190559">2023-09-11 19:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
