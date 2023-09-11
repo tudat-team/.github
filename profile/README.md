@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ITU emphasizes importance of space sustainability](https://spacenews.com/itu-emphasizes-importance-of-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T140511">2023-09-11 14:05:11 UTC</a></sub>
 * [Geost payloads selected for Space Development Agency satellites](https://spacenews.com/geost-payloads-selected-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T131500">2023-09-11 13:15:00 UTC</a></sub>
 * [U.S. export credit agency is working through $5 billion pipeline of space financing, vice chair says](https://www.cnbc.com/2023/09/11/us-export-import-bank-working-through-5-billion-space-pipeline.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T123353">2023-09-11 12:33:53 UTC</a></sub>
 * [Former White House space policy official Audrey Schaffer joins Slingshot Aerospace](https://spacenews.com/former-white-house-space-policy-official-audrey-schaffer-joins-slingshot-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T115034">2023-09-11 11:50:34 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [What’s Happening in Space Policy September 10-16, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-10-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T181338">2023-09-10 18:13:38 UTC</a></sub>
 * [ULA’s Atlas 5 launches National Reconnaissance Office mission](https://spacenews.com/ulas-atlas-5-launches-national-reconnaissance-office-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T125740">2023-09-10 12:57:40 UTC</a></sub>
 * [ULA conducts NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/09/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T000707">2023-09-10 00:07:07 UTC</a></sub>
-* [Using new data analysis tool on Swift, scientists discover black hole snacking on a star](https://www.nasaspaceflight.com/2023/09/swift-j0230/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T194011">2023-09-09 19:40:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T133226">2023-09-11 13:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T140707">2023-09-11 14:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
