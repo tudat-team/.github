@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telesat signs multi-launch SpaceX deal covering all Lightspeed satellites](https://spacenews.com/telesat-signs-multi-launch-spacex-deal-covering-all-lightspeed-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T165821">2023-09-11 16:58:21 UTC</a></sub>
+* [Telesat Q&A | Getting back to Lightspeed](https://spacenews.com/telesat-qa-getting-back-to-lightspeed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T164718">2023-09-11 16:47:18 UTC</a></sub>
 * [Techstars welcomes 12 startups to 2023 Space Accelerator](https://spacenews.com/techstars-welcomes-12-startups-to-2023-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T160000">2023-09-11 16:00:00 UTC</a></sub>
 * [BREAKING! JWST Discovers Methane, CO2 On on K2-18b, Possible DMS Detection](https://tlpnetwork.com/news/2023/09/jwst-discovers-methane-co2-on-k2-18b-possible-dms-detection) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T151814">2023-09-11 15:18:14 UTC</a></sub>
 * [Telesat buys SpaceX launches for Lightspeed internet satellites](https://www.cnbc.com/2023/09/11/telesat-buys-spacex-launches-for-lightspeed-internet-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T145149">2023-09-11 14:51:49 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Geost payloads selected for Space Development Agency satellites](https://spacenews.com/geost-payloads-selected-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T131500">2023-09-11 13:15:00 UTC</a></sub>
 * [U.S. export credit agency is working through $5 billion pipeline of space financing, vice chair says](https://www.cnbc.com/2023/09/11/us-export-import-bank-working-through-5-billion-space-pipeline.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T123353">2023-09-11 12:33:53 UTC</a></sub>
 * [Former White House space policy official Audrey Schaffer joins Slingshot Aerospace](https://spacenews.com/former-white-house-space-policy-official-audrey-schaffer-joins-slingshot-aerospace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T115034">2023-09-11 11:50:34 UTC</a></sub>
-* [Former Airbus executive Chris Emerson named chairman of All.Space](https://spacenews.com/former-airbus-executive-chris-emerson-named-chairman-of-all-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T100000">2023-09-11 10:00:00 UTC</a></sub>
-* [Paige McCullough Promoted to Vice President of Business Development at SpaceNews](https://spacenews.com/paige-mccullough-promoted-to-vice-president-of-business-development-at-spacenews/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T050000">2023-09-11 05:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T163639">2023-09-11 16:36:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T170640">2023-09-11 17:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
