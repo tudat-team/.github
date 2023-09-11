@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Telesat buys SpaceX launches for Lightspeed internet satellites](https://www.cnbc.com/2023/09/11/telesat-buys-spacex-launches-for-lightspeed-internet-satellites.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T145149">2023-09-11 14:51:49 UTC</a></sub>
+* [Has Avio Begun Developing a Second-Gen Space Rider Vehicle?](https://europeanspaceflight.com/has-avio-begun-developing-a-second-gen-space-rider-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T141211">2023-09-11 14:12:11 UTC</a></sub>
 * [ITU emphasizes importance of space sustainability](https://spacenews.com/itu-emphasizes-importance-of-space-sustainability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T140511">2023-09-11 14:05:11 UTC</a></sub>
 * [Geost payloads selected for Space Development Agency satellites](https://spacenews.com/geost-payloads-selected-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T131500">2023-09-11 13:15:00 UTC</a></sub>
 * [U.S. export credit agency is working through $5 billion pipeline of space financing, vice chair says](https://www.cnbc.com/2023/09/11/us-export-import-bank-working-through-5-billion-space-pipeline.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T123353">2023-09-11 12:33:53 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Paige McCullough Promoted to Vice President of Business Development at SpaceNews](https://spacenews.com/paige-mccullough-promoted-to-vice-president-of-business-development-at-spacenews/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T050000">2023-09-11 05:00:00 UTC</a></sub>
 * [Open Cosmos raises $50 million to expand Earth observation satellite business](https://spacenews.com/open-cosmos-raises-50-million-to-expand-earth-observation-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T230500">2023-09-10 23:05:00 UTC</a></sub>
 * [What’s Happening in Space Policy September 10-16, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-10-16-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T181338">2023-09-10 18:13:38 UTC</a></sub>
-* [ULA’s Atlas 5 launches National Reconnaissance Office mission](https://spacenews.com/ulas-atlas-5-launches-national-reconnaissance-office-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T125740">2023-09-10 12:57:40 UTC</a></sub>
-* [ULA conducts NROL-107 launch, last Atlas NRO mission](https://www.nasaspaceflight.com/2023/09/ula-nrol-107/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T000707">2023-09-10 00:07:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T143236">2023-09-11 14:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T150729">2023-09-11 15:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
