@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intelsat plotting a MEO constellation in 2027 with C-band windfall](https://spacenews.com/intelsat-plotting-a-meo-constellation-in-2027-with-c-band-windfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T192012">2023-09-12 19:20:12 UTC</a></sub>
 * [Axiom Space Announces International Crew Of Axiom 3 Mission](https://tlpnetwork.com/news/2023/09/ax3-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T163452">2023-09-12 16:34:52 UTC</a></sub>
 * [NASA Sets Coverage for Launch, Docking of New Space Station Crew](http://www.nasa.gov/press-release/nasa-sets-coverage-for-launch-docking-of-new-space-station-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T160600">2023-09-12 16:06:00 UTC</a></sub>
 * [NASA, Partners Clear Axiom Space’s Third Private Astronaut Crew](http://www.nasa.gov/press-release/nasa-partners-clear-axiom-space-s-third-private-astronaut-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T153600">2023-09-12 15:36:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DLA Piper expands legal services for space industry](https://spacenews.com/dla-piper-expands-legal-services-for-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T131757">2023-09-12 13:17:57 UTC</a></sub>
 * [A year after New Shepard’s accident, Blue Origin may return to flight next month](https://arstechnica.com/space/2023/09/a-year-after-new-shepards-accident-blue-origin-may-return-to-flight-next-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T125530">2023-09-12 12:55:30 UTC</a></sub>
 * [SpaceX’s near monopoly on rocket launches is a ‘huge concern,’ Lazard banker warns](https://www.cnbc.com/2023/09/12/spacex-near-rocket-market-monopoly-is-huge-concern-lazard-banker.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T125405">2023-09-12 12:54:05 UTC</a></sub>
-* [Arianespace to launch Intelsat small GEO satellite](https://spacenews.com/arianespace-to-launch-intelsat-small-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T100414">2023-09-12 10:04:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T193215">2023-09-12 19:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T200747">2023-09-12 20:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
