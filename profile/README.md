@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Comtech plans to establish networks “in a matter of hours”](https://spacenews.com/comtech-plans-to-establish-networks-in-a-matter-of-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T080000">2023-09-12 08:00:00 UTC</a></sub>
+* [POLARIS Spaceplanes Completes MIRA-Light Vehicle Test Campaign](https://europeanspaceflight.com/polaris-spaceplanes-completes-mira-light-vehicle-test-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T071346">2023-09-12 07:13:46 UTC</a></sub>
 * [SpaceX to conduct 65th and 66th launches of 2023](https://www.nasaspaceflight.com/2023/09/starlink-7-2-6-14/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T022627">2023-09-12 02:26:27 UTC</a></sub>
 * [Air Force satisfied with SpaceX services, not concerned about its growing dominance](https://spacenews.com/air-force-satisfied-with-spacex-services-not-concerned-about-its-growing-dominance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T235210">2023-09-11 23:52:10 UTC</a></sub>
 * [Legacy satellite operators take stock of Starlink-fueled transformation](https://spacenews.com/legacy-satellite-operators-take-stock-of-starlink-fueled-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T234800">2023-09-11 23:48:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Selects Ball Aerospace to Develop NOAA’s GeoXO Sounder Instrument](http://www.nasa.gov/press-release/nasa-selects-ball-aerospace-to-develop-noaa-s-geoxo-sounder-instrument) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T200600">2023-09-11 20:06:00 UTC</a></sub>
 * [Thaicom picks Airbus to build Eutelsat-backed GEO satellite for Asia](https://spacenews.com/thaicom-picks-airbus-to-build-eutelsat-backed-geo-satellite-for-asia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T200300">2023-09-11 20:03:00 UTC</a></sub>
 * [NASA Leadership to Call Agency’s Record-Breaking Astronaut in Space](http://www.nasa.gov/press-release/nasa-leadership-to-call-agency-s-record-breaking-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183600">2023-09-11 18:36:00 UTC</a></sub>
-* [Telesat signs multi-launch SpaceX deal covering all Lightspeed satellites](https://spacenews.com/telesat-signs-multi-launch-spacex-deal-covering-all-lightspeed-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T165821">2023-09-11 16:58:21 UTC</a></sub>
-* [Telesat Q&A | Getting back to Lightspeed](https://spacenews.com/telesat-qa-getting-back-to-lightspeed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T164718">2023-09-11 16:47:18 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T073203">2023-09-12 07:32:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T080952">2023-09-12 08:09:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
