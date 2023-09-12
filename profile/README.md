@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Arianespace to launch Intelsat small GEO satellite](https://spacenews.com/arianespace-to-launch-intelsat-small-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T100414">2023-09-12 10:04:14 UTC</a></sub>
+* [Overseas firms on a journey to establish themselves as U.S. entities](https://spacenews.com/overseas-firms-on-a-journey-to-establish-themselves-as-u-s-entities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T091617">2023-09-12 09:16:17 UTC</a></sub>
 * [Comtech plans to establish networks “in a matter of hours”](https://spacenews.com/comtech-plans-to-establish-networks-in-a-matter-of-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T080000">2023-09-12 08:00:00 UTC</a></sub>
 * [POLARIS Spaceplanes Completes MIRA-Light Vehicle Test Campaign](https://europeanspaceflight.com/polaris-spaceplanes-completes-mira-light-vehicle-test-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T071346">2023-09-12 07:13:46 UTC</a></sub>
 * [SpaceX to conduct 65th and 66th launches of 2023](https://www.nasaspaceflight.com/2023/09/starlink-7-2-6-14/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T022627">2023-09-12 02:26:27 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ball wins $489.6 million contract to deliver next-generation weather satellite sounder](https://spacenews.com/ball-wins-489-6-million-contract-to-deliver-next-generation-weather-satellite-sounder/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T204723">2023-09-11 20:47:23 UTC</a></sub>
 * [Direct-to-device: a $100-billion question](https://spacenews.com/direct-to-device-a-100-billion-question/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T201114">2023-09-11 20:11:14 UTC</a></sub>
 * [NASA Selects Ball Aerospace to Develop NOAA’s GeoXO Sounder Instrument](http://www.nasa.gov/press-release/nasa-selects-ball-aerospace-to-develop-noaa-s-geoxo-sounder-instrument) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T200600">2023-09-11 20:06:00 UTC</a></sub>
-* [Thaicom picks Airbus to build Eutelsat-backed GEO satellite for Asia](https://spacenews.com/thaicom-picks-airbus-to-build-eutelsat-backed-geo-satellite-for-asia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T200300">2023-09-11 20:03:00 UTC</a></sub>
-* [NASA Leadership to Call Agency’s Record-Breaking Astronaut in Space](http://www.nasa.gov/press-release/nasa-leadership-to-call-agency-s-record-breaking-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183600">2023-09-11 18:36:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T093218">2023-09-12 09:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T100811">2023-09-12 10:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
