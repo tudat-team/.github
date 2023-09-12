@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom Space Announces International Crew Of Axiom 3 Mission](https://tlpnetwork.com/news/2023/09/ax3-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T163452">2023-09-12 16:34:52 UTC</a></sub>
 * [NASA Sets Coverage for Launch, Docking of New Space Station Crew](http://www.nasa.gov/press-release/nasa-sets-coverage-for-launch-docking-of-new-space-station-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T160600">2023-09-12 16:06:00 UTC</a></sub>
 * [NASA, Partners Clear Axiom Space’s Third Private Astronaut Crew](http://www.nasa.gov/press-release/nasa-partners-clear-axiom-space-s-third-private-astronaut-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T153600">2023-09-12 15:36:00 UTC</a></sub>
 * [NASA Receives Decadal Survey on Biological, Physical Sciences Research](http://www.nasa.gov/press-release/nasa-receives-decadal-survey-on-biological-physical-sciences-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T145600">2023-09-12 14:56:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A year after New Shepard’s accident, Blue Origin may return to flight next month](https://arstechnica.com/space/2023/09/a-year-after-new-shepards-accident-blue-origin-may-return-to-flight-next-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T125530">2023-09-12 12:55:30 UTC</a></sub>
 * [SpaceX’s near monopoly on rocket launches is a ‘huge concern,’ Lazard banker warns](https://www.cnbc.com/2023/09/12/spacex-near-rocket-market-monopoly-is-huge-concern-lazard-banker.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T125405">2023-09-12 12:54:05 UTC</a></sub>
 * [Arianespace to launch Intelsat small GEO satellite](https://spacenews.com/arianespace-to-launch-intelsat-small-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T100414">2023-09-12 10:04:14 UTC</a></sub>
-* [Overseas firms on a journey to establish themselves as U.S. entities](https://spacenews.com/overseas-firms-on-a-journey-to-establish-themselves-as-u-s-entities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T091617">2023-09-12 09:16:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T163632">2023-09-12 16:36:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T170632">2023-09-12 17:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
