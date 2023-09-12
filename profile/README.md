@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Receives Decadal Survey on Biological, Physical Sciences Research](http://www.nasa.gov/press-release/nasa-receives-decadal-survey-on-biological-physical-sciences-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T145600">2023-09-12 14:56:00 UTC</a></sub>
+* [NeuraSpace platform assets jump tenfold](https://spacenews.com/neuraspace-platform-assets-jump-tenfold/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T144236">2023-09-12 14:42:36 UTC</a></sub>
+* [NASA to Release, Discuss Unidentified Anomalous Phenomena Report](http://www.nasa.gov/press-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T143600">2023-09-12 14:36:00 UTC</a></sub>
 * [DLA Piper expands legal services for space industry](https://spacenews.com/dla-piper-expands-legal-services-for-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T131757">2023-09-12 13:17:57 UTC</a></sub>
 * [A year after New Shepard’s accident, Blue Origin may return to flight next month](https://arstechnica.com/space/2023/09/a-year-after-new-shepards-accident-blue-origin-may-return-to-flight-next-month/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T125530">2023-09-12 12:55:30 UTC</a></sub>
+* [SpaceX’s near monopoly on rocket launches is a ‘huge concern,’ Lazard banker warns](https://www.cnbc.com/2023/09/12/spacex-near-rocket-market-monopoly-is-huge-concern-lazard-banker.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T125405">2023-09-12 12:54:05 UTC</a></sub>
 * [Arianespace to launch Intelsat small GEO satellite](https://spacenews.com/arianespace-to-launch-intelsat-small-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T100414">2023-09-12 10:04:14 UTC</a></sub>
 * [Overseas firms on a journey to establish themselves as U.S. entities](https://spacenews.com/overseas-firms-on-a-journey-to-establish-themselves-as-u-s-entities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T091617">2023-09-12 09:16:17 UTC</a></sub>
 * [Comtech plans to establish networks “in a matter of hours”](https://spacenews.com/comtech-plans-to-establish-networks-in-a-matter-of-hours/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T080000">2023-09-12 08:00:00 UTC</a></sub>
 * [POLARIS Spaceplanes Completes MIRA-Light Vehicle Test Campaign](https://europeanspaceflight.com/polaris-spaceplanes-completes-mira-light-vehicle-test-campaign/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T071346">2023-09-12 07:13:46 UTC</a></sub>
-* [SpaceX to conduct 65th and 66th launches of 2023](https://www.nasaspaceflight.com/2023/09/starlink-7-2-6-14/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T022627">2023-09-12 02:26:27 UTC</a></sub>
-* [Air Force satisfied with SpaceX services, not concerned about its growing dominance](https://spacenews.com/air-force-satisfied-with-spacex-services-not-concerned-about-its-growing-dominance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T235210">2023-09-11 23:52:10 UTC</a></sub>
-* [Legacy satellite operators take stock of Starlink-fueled transformation](https://spacenews.com/legacy-satellite-operators-take-stock-of-starlink-fueled-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T234800">2023-09-11 23:48:00 UTC</a></sub>
-* [Ball wins $489.6 million contract to deliver next-generation weather satellite sounder](https://spacenews.com/ball-wins-489-6-million-contract-to-deliver-next-generation-weather-satellite-sounder/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T204723">2023-09-11 20:47:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T143224">2023-09-12 14:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T150730">2023-09-12 15:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
