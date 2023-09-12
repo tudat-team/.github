@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s “Severely Underfunded” Biological and Physical Sciences Research Program Needs Tenfold Increase](https://spacepolicyonline.com/news/nasas-severely-underfunded-biological-and-physical-sciences-research-program-needs-tenfold-increase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T222004">2023-09-12 22:20:04 UTC</a></sub>
+* [Kuiper launch companies say they can meet Amazon’s schedule](https://spacenews.com/kuiper-launch-companies-say-they-can-meet-amazons-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T221333">2023-09-12 22:13:33 UTC</a></sub>
 * [Space Force to create “integrated” units responsible for acquisition, maintenance and operations](https://spacenews.com/space-force-to-create-integrated-units-responsible-for-acquisition-maintenance-and-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T201554">2023-09-12 20:15:54 UTC</a></sub>
 * [Phase Four demonstrates Maxwell Block 2 thruster in orbit](https://spacenews.com/phase-four-demonstrates-maxwell-block-2-thruster-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T201328">2023-09-12 20:13:28 UTC</a></sub>
 * [Intelsat plotting a MEO constellation in 2027 with C-band windfall](https://spacenews.com/intelsat-plotting-a-meo-constellation-in-2027-with-c-band-windfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T192012">2023-09-12 19:20:12 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA, Partners Clear Axiom Space’s Third Private Astronaut Crew](http://www.nasa.gov/press-release/nasa-partners-clear-axiom-space-s-third-private-astronaut-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T153600">2023-09-12 15:36:00 UTC</a></sub>
 * [NASA Receives Decadal Survey on Biological, Physical Sciences Research](http://www.nasa.gov/press-release/nasa-receives-decadal-survey-on-biological-physical-sciences-research) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T145600">2023-09-12 14:56:00 UTC</a></sub>
 * [NeuraSpace platform assets jump tenfold](https://spacenews.com/neuraspace-platform-assets-jump-tenfold/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T144236">2023-09-12 14:42:36 UTC</a></sub>
-* [NASA to Release, Discuss Unidentified Anomalous Phenomena Report](http://www.nasa.gov/press-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T143600">2023-09-12 14:36:00 UTC</a></sub>
-* [DLA Piper expands legal services for space industry](https://spacenews.com/dla-piper-expands-legal-services-for-space-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T131757">2023-09-12 13:17:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T223210">2023-09-12 22:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T230704">2023-09-12 23:07:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
