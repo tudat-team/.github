@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX to conduct 65th and 66th launches of 2023](https://www.nasaspaceflight.com/2023/09/starlink-7-2-6-14/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T022627">2023-09-12 02:26:27 UTC</a></sub>
 * [Air Force satisfied with SpaceX services, not concerned about its growing dominance](https://spacenews.com/air-force-satisfied-with-spacex-services-not-concerned-about-its-growing-dominance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T235210">2023-09-11 23:52:10 UTC</a></sub>
 * [Legacy satellite operators take stock of Starlink-fueled transformation](https://spacenews.com/legacy-satellite-operators-take-stock-of-starlink-fueled-transformation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T234800">2023-09-11 23:48:00 UTC</a></sub>
 * [Ball wins $489.6 million contract to deliver next-generation weather satellite sounder](https://spacenews.com/ball-wins-489-6-million-contract-to-deliver-next-generation-weather-satellite-sounder/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T204723">2023-09-11 20:47:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Leadership to Call Agency’s Record-Breaking Astronaut in Space](http://www.nasa.gov/press-release/nasa-leadership-to-call-agency-s-record-breaking-astronaut-in-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183600">2023-09-11 18:36:00 UTC</a></sub>
 * [Telesat signs multi-launch SpaceX deal covering all Lightspeed satellites](https://spacenews.com/telesat-signs-multi-launch-spacex-deal-covering-all-lightspeed-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T165821">2023-09-11 16:58:21 UTC</a></sub>
 * [Telesat Q&A | Getting back to Lightspeed](https://spacenews.com/telesat-qa-getting-back-to-lightspeed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T164718">2023-09-11 16:47:18 UTC</a></sub>
-* [Techstars welcomes 12 startups to 2023 Space Accelerator](https://spacenews.com/techstars-welcomes-12-startups-to-2023-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T160000">2023-09-11 16:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T023211">2023-09-12 02:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T030732">2023-09-12 03:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
