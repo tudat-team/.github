@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ULA has ‘no issues’ with Space Force plan to select three national security launch providers](https://spacenews.com/ula-has-no-issues-with-space-force-plan-to-select-three-national-security-launch-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T180455">2023-09-13 18:04:55 UTC</a></sub>
+* [BREAKING! NASA Releases Artemis 1 In Flight Anomalies Breakdown](https://tlpnetwork.com/news/2023/09/nasa-releases-artemis-1-in-flight-anomalies-breakdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T173510">2023-09-13 17:35:10 UTC</a></sub>
 * [SpaceX says it is no longer losing money with Starlink production](https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T153645">2023-09-13 15:36:45 UTC</a></sub>
 * [SpaceX no longer taking losses to produce Starlink antennas, a key step to improving profitability](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T142339">2023-09-13 14:23:39 UTC</a></sub>
 * [Microsoft and Esri to speed up access to Earth-observation data](https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T123049">2023-09-13 12:30:49 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX’s Starlink partners with European satellite giant SES for combined cruise market service](https://www.cnbc.com/2023/09/13/spacex-starlink-partners-with-ses-for-combined-cruise-market-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065044">2023-09-13 06:50:44 UTC</a></sub>
 * [Starlink and SES join forces for multi-orbit cruise connectivity](https://spacenews.com/starlink-and-ses-join-forces-for-multi-orbit-cruise-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065000">2023-09-13 06:50:00 UTC</a></sub>
 * [Small satellite maker Swissto12 gets capital to shake up GEO market](https://spacenews.com/small-satellite-maker-swissto12-gets-capital-to-shake-up-geo-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T055500">2023-09-13 05:55:00 UTC</a></sub>
-* [Decadal survey recommends massive funding increase for NASA biological and physical sciences](https://spacenews.com/decadal-survey-recommends-massive-funding-increase-for-nasa-biological-and-physical-sciences/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T055026">2023-09-13 05:50:26 UTC</a></sub>
-* [NASA’s “Severely Underfunded” Biological and Physical Sciences Research Program Needs Tenfold Increase](https://spacepolicyonline.com/news/nasas-severely-underfunded-biological-and-physical-sciences-research-program-needs-tenfold-increase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T222004">2023-09-12 22:20:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T173226">2023-09-13 17:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T180900">2023-09-13 18:09:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
