@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Microsoft and Esri to speed up access to Earth-observation data](https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T123049">2023-09-13 12:30:49 UTC</a></sub>
+* [Intelsat and Aalyria aim for “subsea cables in space”](https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T122221">2023-09-13 12:22:21 UTC</a></sub>
 * [Axiom Space names crew for third private astronaut mission to ISS](https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T100234">2023-09-13 10:02:34 UTC</a></sub>
 * [SpaceX’s Starlink partners with European satellite giant SES for combined cruise market service](https://www.cnbc.com/2023/09/13/spacex-starlink-partners-with-ses-for-combined-cruise-market-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065044">2023-09-13 06:50:44 UTC</a></sub>
 * [Starlink and SES join forces for multi-orbit cruise connectivity](https://spacenews.com/starlink-and-ses-join-forces-for-multi-orbit-cruise-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065000">2023-09-13 06:50:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s “Severely Underfunded” Biological and Physical Sciences Research Program Needs Tenfold Increase](https://spacepolicyonline.com/news/nasas-severely-underfunded-biological-and-physical-sciences-research-program-needs-tenfold-increase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T222004">2023-09-12 22:20:04 UTC</a></sub>
 * [Kuiper launch companies say they can meet Amazon’s schedule](https://spacenews.com/kuiper-launch-companies-say-they-can-meet-amazons-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T221333">2023-09-12 22:13:33 UTC</a></sub>
 * [Space Force to create “integrated” units responsible for acquisition, maintenance and operations](https://spacenews.com/space-force-to-create-integrated-units-responsible-for-acquisition-maintenance-and-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T201554">2023-09-12 20:15:54 UTC</a></sub>
-* [Phase Four demonstrates Maxwell Block 2 thruster in orbit](https://spacenews.com/phase-four-demonstrates-maxwell-block-2-thruster-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T201328">2023-09-12 20:13:28 UTC</a></sub>
-* [Intelsat plotting a MEO constellation in 2027 with C-band windfall](https://spacenews.com/intelsat-plotting-a-meo-constellation-in-2027-with-c-band-windfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T192012">2023-09-12 19:20:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T121351">2023-09-13 12:13:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T124805">2023-09-13 12:48:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
