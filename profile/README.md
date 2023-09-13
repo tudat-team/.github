@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [A NASA astronaut will finally spend a full year in space](https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T185214">2023-09-13 18:52:14 UTC</a></sub>
+* [SpaceX waiting for FAA to approve launch licence for Starship’s second flight](https://www.nasaspaceflight.com/2023/09/space-x-wait-faa-approval-starship-flight-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T182109">2023-09-13 18:21:09 UTC</a></sub>
 * [ULA has ‘no issues’ with Space Force plan to select three national security launch providers](https://spacenews.com/ula-has-no-issues-with-space-force-plan-to-select-three-national-security-launch-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T180455">2023-09-13 18:04:55 UTC</a></sub>
 * [BREAKING! NASA Releases Artemis 1 In Flight Anomalies Breakdown](https://tlpnetwork.com/news/2023/09/nasa-releases-artemis-1-in-flight-anomalies-breakdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T173510">2023-09-13 17:35:10 UTC</a></sub>
 * [SpaceX says it is no longer losing money with Starlink production](https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T153645">2023-09-13 15:36:45 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intelsat and Aalyria aim for “subsea cables in space”](https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T122221">2023-09-13 12:22:21 UTC</a></sub>
 * [Axiom Space names crew for third private astronaut mission to ISS](https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T100234">2023-09-13 10:02:34 UTC</a></sub>
 * [SpaceX’s Starlink partners with European satellite giant SES for combined cruise market service](https://www.cnbc.com/2023/09/13/spacex-starlink-partners-with-ses-for-combined-cruise-market-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065044">2023-09-13 06:50:44 UTC</a></sub>
-* [Starlink and SES join forces for multi-orbit cruise connectivity](https://spacenews.com/starlink-and-ses-join-forces-for-multi-orbit-cruise-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065000">2023-09-13 06:50:00 UTC</a></sub>
-* [Small satellite maker Swissto12 gets capital to shake up GEO market](https://spacenews.com/small-satellite-maker-swissto12-gets-capital-to-shake-up-geo-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T055500">2023-09-13 05:55:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T183300">2023-09-13 18:33:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T190559">2023-09-13 19:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
