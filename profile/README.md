@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom Space names crew for third private astronaut mission to ISS](https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T100234">2023-09-13 10:02:34 UTC</a></sub>
 * [SpaceX’s Starlink partners with European satellite giant SES for combined cruise market service](https://www.cnbc.com/2023/09/13/spacex-starlink-partners-with-ses-for-combined-cruise-market-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065044">2023-09-13 06:50:44 UTC</a></sub>
 * [Starlink and SES join forces for multi-orbit cruise connectivity](https://spacenews.com/starlink-and-ses-join-forces-for-multi-orbit-cruise-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065000">2023-09-13 06:50:00 UTC</a></sub>
 * [Small satellite maker Swissto12 gets capital to shake up GEO market](https://spacenews.com/small-satellite-maker-swissto12-gets-capital-to-shake-up-geo-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T055500">2023-09-13 05:55:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to create “integrated” units responsible for acquisition, maintenance and operations](https://spacenews.com/space-force-to-create-integrated-units-responsible-for-acquisition-maintenance-and-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T201554">2023-09-12 20:15:54 UTC</a></sub>
 * [Phase Four demonstrates Maxwell Block 2 thruster in orbit](https://spacenews.com/phase-four-demonstrates-maxwell-block-2-thruster-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T201328">2023-09-12 20:13:28 UTC</a></sub>
 * [Intelsat plotting a MEO constellation in 2027 with C-band windfall](https://spacenews.com/intelsat-plotting-a-meo-constellation-in-2027-with-c-band-windfall/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T192012">2023-09-12 19:20:12 UTC</a></sub>
-* [Axiom Space Announces International Crew Of Axiom 3 Mission](https://tlpnetwork.com/news/2023/09/ax3-crew) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T163452">2023-09-12 16:34:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T093218">2023-09-13 09:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T100750">2023-09-13 10:07:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
