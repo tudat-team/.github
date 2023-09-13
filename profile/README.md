@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX says it is no longer losing money with Starlink production](https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T153645">2023-09-13 15:36:45 UTC</a></sub>
+* [SpaceX no longer taking losses to produce Starlink antennas, a key step to improving profitability](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T142339">2023-09-13 14:23:39 UTC</a></sub>
 * [Microsoft and Esri to speed up access to Earth-observation data](https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T123049">2023-09-13 12:30:49 UTC</a></sub>
 * [Intelsat and Aalyria aim for “subsea cables in space”](https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T122221">2023-09-13 12:22:21 UTC</a></sub>
 * [Axiom Space names crew for third private astronaut mission to ISS](https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T100234">2023-09-13 10:02:34 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Small satellite maker Swissto12 gets capital to shake up GEO market](https://spacenews.com/small-satellite-maker-swissto12-gets-capital-to-shake-up-geo-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T055500">2023-09-13 05:55:00 UTC</a></sub>
 * [Decadal survey recommends massive funding increase for NASA biological and physical sciences](https://spacenews.com/decadal-survey-recommends-massive-funding-increase-for-nasa-biological-and-physical-sciences/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T055026">2023-09-13 05:50:26 UTC</a></sub>
 * [NASA’s “Severely Underfunded” Biological and Physical Sciences Research Program Needs Tenfold Increase](https://spacepolicyonline.com/news/nasas-severely-underfunded-biological-and-physical-sciences-research-program-needs-tenfold-increase/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T222004">2023-09-12 22:20:04 UTC</a></sub>
-* [Kuiper launch companies say they can meet Amazon’s schedule](https://spacenews.com/kuiper-launch-companies-say-they-can-meet-amazons-schedule/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T221333">2023-09-12 22:13:33 UTC</a></sub>
-* [Space Force to create “integrated” units responsible for acquisition, maintenance and operations](https://spacenews.com/space-force-to-create-integrated-units-responsible-for-acquisition-maintenance-and-operations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T201554">2023-09-12 20:15:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T153234">2023-09-13 15:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T160916">2023-09-13 16:09:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
