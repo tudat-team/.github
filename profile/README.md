@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to release guidelines for the use of commercial satellite services](https://spacenews.com/space-force-to-release-guidelines-for-the-use-of-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T195725">2023-09-13 19:57:25 UTC</a></sub>
 * [A NASA astronaut will finally spend a full year in space](https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T185214">2023-09-13 18:52:14 UTC</a></sub>
 * [SpaceX waiting for FAA to approve launch licence for Starship’s second flight](https://www.nasaspaceflight.com/2023/09/space-x-wait-faa-approval-starship-flight-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T182109">2023-09-13 18:21:09 UTC</a></sub>
 * [ULA has ‘no issues’ with Space Force plan to select three national security launch providers](https://spacenews.com/ula-has-no-issues-with-space-force-plan-to-select-three-national-security-launch-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T180455">2023-09-13 18:04:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Microsoft and Esri to speed up access to Earth-observation data](https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T123049">2023-09-13 12:30:49 UTC</a></sub>
 * [Intelsat and Aalyria aim for “subsea cables in space”](https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T122221">2023-09-13 12:22:21 UTC</a></sub>
 * [Axiom Space names crew for third private astronaut mission to ISS](https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T100234">2023-09-13 10:02:34 UTC</a></sub>
-* [SpaceX’s Starlink partners with European satellite giant SES for combined cruise market service](https://www.cnbc.com/2023/09/13/spacex-starlink-partners-with-ses-for-combined-cruise-market-service.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T065044">2023-09-13 06:50:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T193209">2023-09-13 19:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T200627">2023-09-13 20:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
