@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [HawkEye 360 reaches inflection point on path to profitability](https://spacenews.com/hawkeye-360-reaches-inflection-point-on-path-to-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T055201">2023-09-14 05:52:01 UTC</a></sub>
 * [SES Q&A | Leveling up multi-orbit connectivity](https://spacenews.com/ses-qa-leveling-up-multi-orbit-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T020330">2023-09-14 02:03:30 UTC</a></sub>
 * [Rapid Starlink iteration poses challenges for resellers](https://spacenews.com/rapid-starlink-iteration-poses-challenges-for-resellers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T231102">2023-09-13 23:11:02 UTC</a></sub>
 * [European Industry Could Generate €9.9 Billion From Crewed Launch](https://europeanspaceflight.com/european-industry-could-generate-e9-9-billion-from-crewed-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T202627">2023-09-13 20:26:27 UTC</a></sub>
@@ -575,9 +576,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A NASA astronaut will finally spend a full year in space](https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T185214">2023-09-13 18:52:14 UTC</a></sub>
 * [SpaceX waiting for FAA to approve launch licence for Starship’s second flight](https://www.nasaspaceflight.com/2023/09/space-x-wait-faa-approval-starship-flight-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T182109">2023-09-13 18:21:09 UTC</a></sub>
 * [ULA has ‘no issues’ with Space Force plan to select three national security launch providers](https://spacenews.com/ula-has-no-issues-with-space-force-plan-to-select-three-national-security-launch-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T180455">2023-09-13 18:04:55 UTC</a></sub>
-* [BREAKING! NASA Releases Artemis 1 In Flight Anomalies Breakdown](https://tlpnetwork.com/news/2023/09/nasa-releases-artemis-1-in-flight-anomalies-breakdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T173510">2023-09-13 17:35:10 UTC</a></sub>
+* [NASA Releases Artemis 1 In Flight Anomalies Breakdown](https://tlpnetwork.com/news/2023/09/nasa-releases-artemis-1-in-flight-anomalies-breakdown) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T173510">2023-09-13 17:35:10 UTC</a></sub>
 * [SpaceX says it is no longer losing money with Starlink production](https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T153645">2023-09-13 15:36:45 UTC</a></sub>
-* [SpaceX no longer taking losses to produce Starlink antennas, a key step to improving profitability](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T142339">2023-09-13 14:23:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T053217">2023-09-14 05:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T060945">2023-09-14 06:09:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
