@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Shares Unidentified Anomalous Phenomena Independent Study Report](http://www.nasa.gov/press-release/nasa-shares-unidentified-anomalous-phenomena-independent-study-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T135600">2023-09-14 13:56:00 UTC</a></sub>
 * [Space Force keeping the ‘responsive launch’ dream alive](https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T111800">2023-09-14 11:18:00 UTC</a></sub>
 * [Satellite industry debates size of direct-to-device market](https://spacenews.com/satellite-industry-debates-size-of-direct-to-device-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T100933">2023-09-14 10:09:33 UTC</a></sub>
 * [China’s military sets up new base for space domain awareness](https://spacenews.com/chinas-military-sets-up-new-base-for-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T091832">2023-09-14 09:18:32 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [European Industry Could Generate €9.9 Billion From Crewed Launch](https://europeanspaceflight.com/european-industry-could-generate-e9-9-billion-from-crewed-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T202627">2023-09-13 20:26:27 UTC</a></sub>
 * [Space Force to release guidelines for the use of commercial satellite services](https://spacenews.com/space-force-to-release-guidelines-for-the-use-of-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T195725">2023-09-13 19:57:25 UTC</a></sub>
 * [A NASA astronaut will finally spend a full year in space](https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T185214">2023-09-13 18:52:14 UTC</a></sub>
-* [SpaceX waiting for FAA to approve launch licence for Starship’s second flight](https://www.nasaspaceflight.com/2023/09/space-x-wait-faa-approval-starship-flight-two/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T182109">2023-09-13 18:21:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T133434">2023-09-14 13:34:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T140650">2023-09-14 14:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
