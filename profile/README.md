@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Industry enters new era with tight funding and SpaceX dominance](https://www.cnbc.com/2023/09/14/investing-in-space-industry-enters-new-era.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T170501">2023-09-14 17:05:01 UTC</a></sub>
 * [NASA: El verano de 2023 es el más caluroso en el registro](http://www.nasa.gov/press-release/el-verano-boreal-de-2023-es-el-mas-caluroso-en-el-registro) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T164600">2023-09-14 16:46:00 UTC</a></sub>
 * [RS-25 engine installation into the Artemis II SLS Core Stage begins](https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T160503">2023-09-14 16:05:03 UTC</a></sub>
 * [NASA Announces Summer 2023 Hottest on Record](http://www.nasa.gov/press-release/nasa-announces-summer-2023-hottest-on-record) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T155600">2023-09-14 15:56:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force keeping the ‘responsive launch’ dream alive](https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T111800">2023-09-14 11:18:00 UTC</a></sub>
 * [Satellite industry debates size of direct-to-device market](https://spacenews.com/satellite-industry-debates-size-of-direct-to-device-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T100933">2023-09-14 10:09:33 UTC</a></sub>
 * [China’s military sets up new base for space domain awareness](https://spacenews.com/chinas-military-sets-up-new-base-for-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T091832">2023-09-14 09:18:32 UTC</a></sub>
-* [HawkEye 360 reaches inflection point on path to profitability](https://spacenews.com/hawkeye-360-reaches-inflection-point-on-path-to-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T055201">2023-09-14 05:52:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T173207">2023-09-14 17:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T180912">2023-09-14 18:09:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
