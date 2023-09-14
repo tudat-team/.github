@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Post-SPAC space firms redoubling efforts to attract institutional investors](https://spacenews.com/post-spac-space-firms-redoubling-efforts-to-attract-institutional-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T214304">2023-09-14 21:43:04 UTC</a></sub>
+* [Senate Armed Services Committee to probe Starlink operations in Ukraine](https://spacenews.com/senate-armed-services-committee-to-probe-starlink-operations-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T212208">2023-09-14 21:22:08 UTC</a></sub>
+* [UPDATE: NASA Shares UAP Independent Study Report; Names Director](http://www.nasa.gov/press-release/update-nasa-shares-uap-independent-study-report-names-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T210600">2023-09-14 21:06:00 UTC</a></sub>
 * [NASA to Reveal Asteroid Sample Grabbed in Space, Delivered to Earth](http://www.nasa.gov/press-release/nasa-to-reveal-asteroid-sample-grabbed-in-space-delivered-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T191600">2023-09-14 19:16:00 UTC</a></sub>
 * [DoD submits congressionally mandated space policy report](https://spacenews.com/dod-submits-congressionally-mandated-space-policy-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T190558">2023-09-14 19:05:58 UTC</a></sub>
 * [Investing in Space: Industry enters new era with tight funding and SpaceX dominance](https://www.cnbc.com/2023/09/14/investing-in-space-industry-enters-new-era.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T170501">2023-09-14 17:05:01 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RS-25 engine installation into the Artemis II SLS Core Stage begins](https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T160503">2023-09-14 16:05:03 UTC</a></sub>
 * [NASA Announces Summer 2023 Hottest on Record](http://www.nasa.gov/press-release/nasa-announces-summer-2023-hottest-on-record) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T155600">2023-09-14 15:56:00 UTC</a></sub>
 * [KaleidEO demonstrates on-orbit processing](https://spacenews.com/kaleideo-demonstrates-on-orbit-processing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T151324">2023-09-14 15:13:24 UTC</a></sub>
-* [NASA Shares Unidentified Anomalous Phenomena Independent Study Report](http://www.nasa.gov/press-release/nasa-shares-unidentified-anomalous-phenomena-independent-study-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T135600">2023-09-14 13:56:00 UTC</a></sub>
-* [BREAKING! NASA Releases Independent UAP Report "UAP Pose A Threat To US Airspace Safety"](https://tlpnetwork.com/news/2023/09/nasa-releases-independent-uap-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T134005">2023-09-14 13:40:05 UTC</a></sub>
-* [Space Force keeping the ‘responsive launch’ dream alive](https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T111800">2023-09-14 11:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A guide to eclipse vocabulary](https://www.planetary.org/articles/guide-to-eclipse-vocabulary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T220643">2023-09-13 22:06:43 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: September 4-10, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-september-4-10-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183733">2023-09-11 18:37:33 UTC</a></sub>
 * [Cometary sights and sounds](https://www.planetary.org/the-downlink/cometary-sights-and-sounds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143645">2023-09-08 14:36:45 UTC</a></sub>
 * [A checklist for what to expect during the 2024 total solar eclipse](https://www.planetary.org/articles/eclipse-2024-checklist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143643">2023-09-08 14:36:43 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OSIRIS-REx sample return: What to expect](https://www.planetary.org/articles/osiris-rex-sample-return-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T143640">2023-09-05 14:36:40 UTC</a></sub>
 * [Are Europeans interested in going to space?](https://europeanspaceflight.substack.com/p/are-europeans-interested-in-going) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T141444">2023-09-04 14:14:44 UTC</a></sub>
 * [See for yourself](https://www.planetary.org/the-downlink/see-for-yourself) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143642">2023-09-01 14:36:42 UTC</a></sub>
-* [Your impact: September equinox 2023](https://www.planetary.org/articles/your-impact-september-equinox-2023) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T140647">2023-09-01 14:06:47 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T213213">2023-09-14 21:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T220643">2023-09-14 22:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
