@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [RS-25 engine installation into the Artemis II SLS Core Stage begins](https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T160503">2023-09-14 16:05:03 UTC</a></sub>
+* [NASA Announces Summer 2023 Hottest on Record](http://www.nasa.gov/press-release/nasa-announces-summer-2023-hottest-on-record) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T155600">2023-09-14 15:56:00 UTC</a></sub>
+* [KaleidEO demonstrates on-orbit processing](https://spacenews.com/kaleideo-demonstrates-on-orbit-processing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T151324">2023-09-14 15:13:24 UTC</a></sub>
 * [NASA Shares Unidentified Anomalous Phenomena Independent Study Report](http://www.nasa.gov/press-release/nasa-shares-unidentified-anomalous-phenomena-independent-study-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T135600">2023-09-14 13:56:00 UTC</a></sub>
 * [BREAKING! NASA Releases Independent UAP Report "UAP Pose A Threat To US Airspace Safety"](https://tlpnetwork.com/news/2023/09/nasa-releases-independent-uap-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T134005">2023-09-14 13:40:05 UTC</a></sub>
 * [Space Force keeping the ‘responsive launch’ dream alive](https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T111800">2023-09-14 11:18:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China’s military sets up new base for space domain awareness](https://spacenews.com/chinas-military-sets-up-new-base-for-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T091832">2023-09-14 09:18:32 UTC</a></sub>
 * [HawkEye 360 reaches inflection point on path to profitability](https://spacenews.com/hawkeye-360-reaches-inflection-point-on-path-to-profitability/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T055201">2023-09-14 05:52:01 UTC</a></sub>
 * [SES Q&A | Leveling up multi-orbit connectivity](https://spacenews.com/ses-qa-leveling-up-multi-orbit-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T020330">2023-09-14 02:03:30 UTC</a></sub>
-* [Rapid Starlink iteration poses challenges for resellers](https://spacenews.com/rapid-starlink-iteration-poses-challenges-for-resellers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T231102">2023-09-13 23:11:02 UTC</a></sub>
-* [European Industry Could Generate €9.9 Billion From Crewed Launch](https://europeanspaceflight.com/european-industry-could-generate-e9-9-billion-from-crewed-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T202627">2023-09-13 20:26:27 UTC</a></sub>
-* [Space Force to release guidelines for the use of commercial satellite services](https://spacenews.com/space-force-to-release-guidelines-for-the-use-of-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T195725">2023-09-13 19:57:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T153236">2023-09-14 15:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T160911">2023-09-14 16:09:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
