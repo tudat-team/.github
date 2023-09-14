@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA to Reveal Asteroid Sample Grabbed in Space, Delivered to Earth](http://www.nasa.gov/press-release/nasa-to-reveal-asteroid-sample-grabbed-in-space-delivered-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T191600">2023-09-14 19:16:00 UTC</a></sub>
+* [DoD submits congressionally mandated space policy report](https://spacenews.com/dod-submits-congressionally-mandated-space-policy-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T190558">2023-09-14 19:05:58 UTC</a></sub>
 * [Investing in Space: Industry enters new era with tight funding and SpaceX dominance](https://www.cnbc.com/2023/09/14/investing-in-space-industry-enters-new-era.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T170501">2023-09-14 17:05:01 UTC</a></sub>
 * [NASA: El verano de 2023 es el más caluroso en el registro](http://www.nasa.gov/press-release/el-verano-boreal-de-2023-es-el-mas-caluroso-en-el-registro) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T164600">2023-09-14 16:46:00 UTC</a></sub>
 * [RS-25 engine installation into the Artemis II SLS Core Stage begins](https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T160503">2023-09-14 16:05:03 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Shares Unidentified Anomalous Phenomena Independent Study Report](http://www.nasa.gov/press-release/nasa-shares-unidentified-anomalous-phenomena-independent-study-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T135600">2023-09-14 13:56:00 UTC</a></sub>
 * [BREAKING! NASA Releases Independent UAP Report "UAP Pose A Threat To US Airspace Safety"](https://tlpnetwork.com/news/2023/09/nasa-releases-independent-uap-report) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T134005">2023-09-14 13:40:05 UTC</a></sub>
 * [Space Force keeping the ‘responsive launch’ dream alive](https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T111800">2023-09-14 11:18:00 UTC</a></sub>
-* [Satellite industry debates size of direct-to-device market](https://spacenews.com/satellite-industry-debates-size-of-direct-to-device-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T100933">2023-09-14 10:09:33 UTC</a></sub>
-* [China’s military sets up new base for space domain awareness](https://spacenews.com/chinas-military-sets-up-new-base-for-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T091832">2023-09-14 09:18:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T193218">2023-09-14 19:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T200740">2023-09-14 20:07:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
