@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rapid Starlink iteration poses challenges for resellers](https://spacenews.com/rapid-starlink-iteration-poses-challenges-for-resellers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T231102">2023-09-13 23:11:02 UTC</a></sub>
 * [European Industry Could Generate €9.9 Billion From Crewed Launch](https://europeanspaceflight.com/european-industry-could-generate-e9-9-billion-from-crewed-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T202627">2023-09-13 20:26:27 UTC</a></sub>
 * [Space Force to release guidelines for the use of commercial satellite services](https://spacenews.com/space-force-to-release-guidelines-for-the-use-of-commercial-satellite-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T195725">2023-09-13 19:57:25 UTC</a></sub>
 * [A NASA astronaut will finally spend a full year in space](https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T185214">2023-09-13 18:52:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX says it is no longer losing money with Starlink production](https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T153645">2023-09-13 15:36:45 UTC</a></sub>
 * [SpaceX no longer taking losses to produce Starlink antennas, a key step to improving profitability](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T142339">2023-09-13 14:23:39 UTC</a></sub>
 * [Microsoft and Esri to speed up access to Earth-observation data](https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T123049">2023-09-13 12:30:49 UTC</a></sub>
-* [Intelsat and Aalyria aim for “subsea cables in space”](https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T122221">2023-09-13 12:22:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T233226">2023-09-13 23:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T003403">2023-09-14 00:34:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
