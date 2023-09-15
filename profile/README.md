@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Wants UFO Discussion to “Shift from Sensationalism to Science”](https://spacepolicyonline.com/news/nasa-wants-ufo-discussion-to-shift-from-sensationalism-to-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T021451">2023-09-15 02:14:51 UTC</a></sub>
 * [Post-SPAC space firms redoubling efforts to attract institutional investors](https://spacenews.com/post-spac-space-firms-redoubling-efforts-to-attract-institutional-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T214304">2023-09-14 21:43:04 UTC</a></sub>
 * [Senate Armed Services Committee to probe Starlink operations in Ukraine](https://spacenews.com/senate-armed-services-committee-to-probe-starlink-operations-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T212208">2023-09-14 21:22:08 UTC</a></sub>
 * [UPDATE: NASA Shares UAP Independent Study Report; Names Director](http://www.nasa.gov/press-release/update-nasa-shares-uap-independent-study-report-names-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T210600">2023-09-14 21:06:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA: El verano de 2023 es el más caluroso en el registro](http://www.nasa.gov/press-release/el-verano-boreal-de-2023-es-el-mas-caluroso-en-el-registro) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T164600">2023-09-14 16:46:00 UTC</a></sub>
 * [RS-25 engine installation into the Artemis II SLS Core Stage begins](https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T160503">2023-09-14 16:05:03 UTC</a></sub>
 * [NASA Announces Summer 2023 Hottest on Record](http://www.nasa.gov/press-release/nasa-announces-summer-2023-hottest-on-record) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T155600">2023-09-14 15:56:00 UTC</a></sub>
-* [KaleidEO demonstrates on-orbit processing](https://spacenews.com/kaleideo-demonstrates-on-orbit-processing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T151324">2023-09-14 15:13:24 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T023255">2023-09-15 02:32:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T030745">2023-09-15 03:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
