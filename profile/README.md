@@ -568,16 +568,16 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Astronaut, Crewmates Reach Space Station for Science Expedition](http://www.nasa.gov/press-release/nasa-astronaut-crewmates-reach-space-station-for-science-expedition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T191600">2023-09-15 19:16:00 UTC</a></sub>
+* [Air Force Research Laboratory delays lunar experiment ](https://spacenews.com/air-force-research-laboratory-delays-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T191259">2023-09-15 19:12:59 UTC</a></sub>
 * [NASA to Discuss Optical Communications Demo Riding with Psyche](http://www.nasa.gov/press-release/nasa-to-discuss-optical-communications-demo-riding-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T170600">2023-09-15 17:06:00 UTC</a></sub>
-* [NASA Releases First Season of Spanish-language Podcast](http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
 * [La NASA lanza primera temporada de su pódcast en español](http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
+* [NASA Releases First Season of Spanish-language Podcast](http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
 * [NASA Astronaut Tracy C. Dyson Receives Third Space Station Assignment](http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T152600">2023-09-15 15:26:00 UTC</a></sub>
 * [NASA Astronaut Tracy C. Dyson Receives Second Space Station Assignment](http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-second-space-station-assignment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T150600">2023-09-15 15:06:00 UTC</a></sub>
 * [NASA’s Record-Breaking Astronaut to Discuss Yearlong Mission](http://www.nasa.gov/press-release/nasa-s-record-breaking-astronaut-to-discuss-yearlong-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T142600">2023-09-15 14:26:00 UTC</a></sub>
 * [Nonprofit supporting European startups expands rapidly](https://spacenews.com/nonprofit-supporting-european-startups-expands-rapidly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T135423">2023-09-15 13:54:23 UTC</a></sub>
 * [The US military just proved it can get satellites into space super fast](https://arstechnica.com/space/2023/09/firefly-and-space-force-demonstrate-ability-to-rapidly-launch-a-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T132703">2023-09-15 13:27:03 UTC</a></sub>
-* [Rocket Report: New Shepard may fly soon; ULA changes mind on DoD competition](https://arstechnica.com/space/2023/09/rocket-report-new-shepard-may-fly-soon-ula-changes-mind-on-dod-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T110029">2023-09-15 11:00:29 UTC</a></sub>
-* [PLD Space to Hire 150 New Employees by 2024](https://europeanspaceflight.com/pld-space-to-hire-150-new-employees-by-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T085549">2023-09-15 08:55:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T193204">2023-09-15 19:32:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T200731">2023-09-15 20:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
