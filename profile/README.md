@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA releases independent report on UAP research](https://spacenews.com/nasa-releases-independent-report-on-uap-research/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T040743">2023-09-15 04:07:43 UTC</a></sub>
 * [Germany Joins Artemis Accords](https://spacepolicyonline.com/news/germany-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T031351">2023-09-15 03:13:51 UTC</a></sub>
 * [NASA Wants UFO Discussion to “Shift from Sensationalism to Science”](https://spacepolicyonline.com/news/nasa-wants-ufo-discussion-to-shift-from-sensationalism-to-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T021451">2023-09-15 02:14:51 UTC</a></sub>
 * [Post-SPAC space firms redoubling efforts to attract institutional investors](https://spacenews.com/post-spac-space-firms-redoubling-efforts-to-attract-institutional-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T214304">2023-09-14 21:43:04 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DoD submits congressionally mandated space policy report](https://spacenews.com/dod-submits-congressionally-mandated-space-policy-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T190558">2023-09-14 19:05:58 UTC</a></sub>
 * [Investing in Space: Industry enters new era with tight funding and SpaceX dominance](https://www.cnbc.com/2023/09/14/investing-in-space-industry-enters-new-era.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T170501">2023-09-14 17:05:01 UTC</a></sub>
 * [NASA: El verano de 2023 es el más caluroso en el registro](http://www.nasa.gov/press-release/el-verano-boreal-de-2023-es-el-mas-caluroso-en-el-registro) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T164600">2023-09-14 16:46:00 UTC</a></sub>
-* [RS-25 engine installation into the Artemis II SLS Core Stage begins](https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T160503">2023-09-14 16:05:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T043256">2023-09-15 04:32:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T050654">2023-09-15 05:06:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
