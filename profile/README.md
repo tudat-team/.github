@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [PLD Space to Hire 150 New Employees by 2024](https://europeanspaceflight.com/pld-space-to-hire-150-new-employees-by-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T085549">2023-09-15 08:55:49 UTC</a></sub>
 * [Firefly launches Space Force ‘Victus Nox’ mission](https://spacenews.com/firefly-launches-space-force-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T080559">2023-09-15 08:05:59 UTC</a></sub>
 * [Ex-Im Bank considering more than $5 billion in space industry financing](https://spacenews.com/ex-im-bank-considering-more-than-5-billion-in-space-industry-financing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T053354">2023-09-15 05:33:54 UTC</a></sub>
 * [NASA releases independent report on UAP research](https://spacenews.com/nasa-releases-independent-report-on-uap-research/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T040743">2023-09-15 04:07:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Senate Armed Services Committee to probe Starlink operations in Ukraine](https://spacenews.com/senate-armed-services-committee-to-probe-starlink-operations-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T212208">2023-09-14 21:22:08 UTC</a></sub>
 * [UPDATE: NASA Shares UAP Independent Study Report; Names Director](http://www.nasa.gov/press-release/update-nasa-shares-uap-independent-study-report-names-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T210600">2023-09-14 21:06:00 UTC</a></sub>
 * [NASA to Reveal Asteroid Sample Grabbed in Space, Delivered to Earth](http://www.nasa.gov/press-release/nasa-to-reveal-asteroid-sample-grabbed-in-space-delivered-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T191600">2023-09-14 19:16:00 UTC</a></sub>
-* [DoD submits congressionally mandated space policy report](https://spacenews.com/dod-submits-congressionally-mandated-space-policy-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T190558">2023-09-14 19:05:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T083239">2023-09-15 08:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T090713">2023-09-15 09:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
