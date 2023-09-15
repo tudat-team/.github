@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Nonprofit supporting European startups expands rapidly](https://spacenews.com/nonprofit-supporting-european-startups-expands-rapidly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T135423">2023-09-15 13:54:23 UTC</a></sub>
+* [The US military just proved it can get satellites into space super fast](https://arstechnica.com/space/2023/09/firefly-and-space-force-demonstrate-ability-to-rapidly-launch-a-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T132703">2023-09-15 13:27:03 UTC</a></sub>
 * [Rocket Report: New Shepard may fly soon; ULA changes mind on DoD competition](https://arstechnica.com/space/2023/09/rocket-report-new-shepard-may-fly-soon-ula-changes-mind-on-dod-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T110029">2023-09-15 11:00:29 UTC</a></sub>
 * [PLD Space to Hire 150 New Employees by 2024](https://europeanspaceflight.com/pld-space-to-hire-150-new-employees-by-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T085549">2023-09-15 08:55:49 UTC</a></sub>
 * [Firefly launches Space Force ‘Victus Nox’ mission](https://spacenews.com/firefly-launches-space-force-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T080559">2023-09-15 08:05:59 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Germany Joins Artemis Accords](https://spacepolicyonline.com/news/germany-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T031351">2023-09-15 03:13:51 UTC</a></sub>
 * [NASA Wants UFO Discussion to “Shift from Sensationalism to Science”](https://spacepolicyonline.com/news/nasa-wants-ufo-discussion-to-shift-from-sensationalism-to-science/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T021451">2023-09-15 02:14:51 UTC</a></sub>
 * [Post-SPAC space firms redoubling efforts to attract institutional investors](https://spacenews.com/post-spac-space-firms-redoubling-efforts-to-attract-institutional-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T214304">2023-09-14 21:43:04 UTC</a></sub>
-* [Senate Armed Services Committee to probe Starlink operations in Ukraine](https://spacenews.com/senate-armed-services-committee-to-probe-starlink-operations-in-ukraine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T212208">2023-09-14 21:22:08 UTC</a></sub>
-* [UPDATE: NASA Shares UAP Independent Study Report; Names Director](http://www.nasa.gov/press-release/update-nasa-shares-uap-independent-study-report-names-director) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T210600">2023-09-14 21:06:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T133224">2023-09-15 13:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T140645">2023-09-15 14:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
