@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [La NASA lanza primera temporada de su pódcast en español](http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
+* [NASA Releases First Season of Spanish-language Podcast](http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
+* [NASA Astronaut Tracy C. Dyson Receives Third Space Station Assignment](http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T152600">2023-09-15 15:26:00 UTC</a></sub>
 * [NASA Astronaut Tracy C. Dyson Receives Second Space Station Assignment](http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-second-space-station-assignment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T150600">2023-09-15 15:06:00 UTC</a></sub>
 * [NASA’s Record-Breaking Astronaut to Discuss Yearlong Mission](http://www.nasa.gov/press-release/nasa-s-record-breaking-astronaut-to-discuss-yearlong-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T142600">2023-09-15 14:26:00 UTC</a></sub>
 * [Nonprofit supporting European startups expands rapidly](https://spacenews.com/nonprofit-supporting-european-startups-expands-rapidly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T135423">2023-09-15 13:54:23 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Report: New Shepard may fly soon; ULA changes mind on DoD competition](https://arstechnica.com/space/2023/09/rocket-report-new-shepard-may-fly-soon-ula-changes-mind-on-dod-competition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T110029">2023-09-15 11:00:29 UTC</a></sub>
 * [PLD Space to Hire 150 New Employees by 2024](https://europeanspaceflight.com/pld-space-to-hire-150-new-employees-by-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T085549">2023-09-15 08:55:49 UTC</a></sub>
 * [Firefly launches Space Force ‘Victus Nox’ mission](https://spacenews.com/firefly-launches-space-force-victus-nox-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T080559">2023-09-15 08:05:59 UTC</a></sub>
-* [Ex-Im Bank considering more than $5 billion in space industry financing](https://spacenews.com/ex-im-bank-considering-more-than-5-billion-in-space-industry-financing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T053354">2023-09-15 05:33:54 UTC</a></sub>
-* [NASA releases independent report on UAP research](https://spacenews.com/nasa-releases-independent-report-on-uap-research/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T040743">2023-09-15 04:07:43 UTC</a></sub>
-* [Germany Joins Artemis Accords](https://spacepolicyonline.com/news/germany-joins-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T031351">2023-09-15 03:13:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T153219">2023-09-15 15:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T160859">2023-09-15 16:08:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
