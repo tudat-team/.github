@@ -575,8 +575,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Astronaut, Crewmates Reach Space Station for Science Expedition](http://www.nasa.gov/press-release/nasa-astronaut-crewmates-reach-space-station-for-science-expedition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T191600">2023-09-15 19:16:00 UTC</a></sub>
 * [Air Force Research Laboratory delays lunar experiment ](https://spacenews.com/air-force-research-laboratory-delays-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T191259">2023-09-15 19:12:59 UTC</a></sub>
 * [NASA to Discuss Optical Communications Demo Riding with Psyche](http://www.nasa.gov/press-release/nasa-to-discuss-optical-communications-demo-riding-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T170600">2023-09-15 17:06:00 UTC</a></sub>
-* [La NASA lanza primera temporada de su pódcast en español](http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
 * [NASA Releases First Season of Spanish-language Podcast](http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
+* [La NASA lanza primera temporada de su pódcast en español](http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
 * [NASA Astronaut Tracy C. Dyson Receives Third Space Station Assignment](http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T152600">2023-09-15 15:26:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T073205">2023-09-17 07:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T080825">2023-09-17 08:08:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
