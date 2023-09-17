@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Using Webb, scientists discover carbon dioxide and methane in habitable-zone exoplanet](https://www.nasaspaceflight.com/2023/09/webb-k218b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T171257">2023-09-17 17:12:57 UTC</a></sub>
 * [New Soyuz Crew Arrives at ISS — Six Months Later Than Planned](https://spacepolicyonline.com/news/new-soyuz-crew-arrives-at-iss-six-months-later-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T102841">2023-09-17 10:28:41 UTC</a></sub>
 * [New ISS crew arrives on Soyuz](https://spacenews.com/new-iss-crew-arrives-on-soyuz/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T053351">2023-09-17 05:33:51 UTC</a></sub>
 * [General Atomics acquires electro-optical sensor supplier EO Vista](https://spacenews.com/general-atomics-acquires-electro-optical-sensor-supplier-eo-vista/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230916T093443">2023-09-16 09:34:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Air Force Research Laboratory delays lunar experiment ](https://spacenews.com/air-force-research-laboratory-delays-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T191259">2023-09-15 19:12:59 UTC</a></sub>
 * [NASA to Discuss Optical Communications Demo Riding with Psyche](http://www.nasa.gov/press-release/nasa-to-discuss-optical-communications-demo-riding-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T170600">2023-09-15 17:06:00 UTC</a></sub>
 * [NASA Releases First Season of Spanish-language Podcast](http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
-* [La NASA lanza primera temporada de su pódcast en español](http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T183240">2023-09-17 18:32:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T190506">2023-09-17 19:05:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
