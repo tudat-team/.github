@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New Soyuz Crew Arrives at ISS — Six Months Later Than Planned](https://spacepolicyonline.com/news/new-soyuz-crew-arrives-at-iss-six-months-later-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T102841">2023-09-17 10:28:41 UTC</a></sub>
 * [New ISS crew arrives on Soyuz](https://spacenews.com/new-iss-crew-arrives-on-soyuz/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T053351">2023-09-17 05:33:51 UTC</a></sub>
 * [General Atomics acquires electro-optical sensor supplier EO Vista](https://spacenews.com/general-atomics-acquires-electro-optical-sensor-supplier-eo-vista/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230916T093443">2023-09-16 09:34:43 UTC</a></sub>
 * [Germany signs Artemis Accords](https://spacenews.com/germany-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230916T003226">2023-09-16 00:32:26 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to Discuss Optical Communications Demo Riding with Psyche](http://www.nasa.gov/press-release/nasa-to-discuss-optical-communications-demo-riding-with-psyche) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T170600">2023-09-15 17:06:00 UTC</a></sub>
 * [NASA Releases First Season of Spanish-language Podcast](http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
 * [La NASA lanza primera temporada de su pódcast en español](http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T155600">2023-09-15 15:56:00 UTC</a></sub>
-* [NASA Astronaut Tracy C. Dyson Receives Third Space Station Assignment](http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T152600">2023-09-15 15:26:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T103216">2023-09-17 10:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T110510">2023-09-17 11:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
