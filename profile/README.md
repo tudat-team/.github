@@ -445,7 +445,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>2.12.1.dev26</code></td>
+    <td><code>2.12.1.dev27</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/tudatpy/tree/develop" target="_blank">tudatpy</a> (<a href="https://github.com/tudat-team/tudatpy-feedstock/tree/develop" target="_blank">feedstock</a>)</code></td>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T030737">2023-09-17 03:07:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T033225">2023-09-17 03:32:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
