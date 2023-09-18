@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Reaches Mars Ridge Where Water Left Debris Pileup](https://mars.nasa.gov/news/9480/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T164800">2023-09-18 16:48:00 UTC</a></sub>
+* [China launches new batch of Yaogan reconnaissance satellites](https://spacenews.com/china-launches-new-batch-of-yaogan-reconnaissance-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T160921">2023-09-18 16:09:21 UTC</a></sub>
 * [L3Harris exploring supplier partnerships for its satellite business](https://spacenews.com/l3harris-exploring-supplier-partnerships-for-its-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T155916">2023-09-18 15:59:16 UTC</a></sub>
 * [Tactically Responsive Space strengthens America](https://spacenews.com/tactically-responsive-space-strengthens-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T144403">2023-09-18 14:44:03 UTC</a></sub>
 * [RIDE! Hopes to Make Booking a Spaceflight as Easy as a Plane Ticket](https://europeanspaceflight.com/ride-hopes-to-make-booking-a-spaceflight-as-easy-as-a-plane-ticket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T142304">2023-09-18 14:23:04 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX seeks to throw out Justice Department hiring practices case](https://spacenews.com/spacex-seeks-to-throw-out-justice-department-hiring-practices-case/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T091343">2023-09-18 09:13:43 UTC</a></sub>
 * [Stoke Space Hops Rocket For First Time](https://tlpnetwork.com/news/2023/09/stoke-space-hops-rocket-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T010700">2023-09-18 01:07:00 UTC</a></sub>
 * [What’s Happening in Space Policy September 17-24, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-17-24-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T234832">2023-09-17 23:48:32 UTC</a></sub>
-* [Using Webb, scientists discover carbon dioxide and methane in habitable-zone exoplanet](https://www.nasaspaceflight.com/2023/09/webb-k218b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T171257">2023-09-17 17:12:57 UTC</a></sub>
-* [New Soyuz Crew Arrives at ISS — Six Months Later Than Planned](https://spacepolicyonline.com/news/new-soyuz-crew-arrives-at-iss-six-months-later-than-planned/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T102841">2023-09-17 10:28:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T163708">2023-09-18 16:37:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T170648">2023-09-18 17:06:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
