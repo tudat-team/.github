@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Launch Roundup; Rocket Lab to launch “We Will Never Desert You”; SpaceX to launch two Starlink missions](https://www.nasaspaceflight.com/2023/09/launch-roundup-091823/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T180239">2023-09-18 18:02:39 UTC</a></sub>
+* [ABL Secures $15 Million Space System Command Responsive Launch Contract](https://tlpnetwork.com/news/2023/09/abl-secures-15-million-space-system-command-responsive-launch-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T180200">2023-09-18 18:02:00 UTC</a></sub>
 * [NASA's Curiosity Reaches Mars Ridge Where Water Left Debris Pileup](https://mars.nasa.gov/news/9480/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T164800">2023-09-18 16:48:00 UTC</a></sub>
 * [China launches new batch of Yaogan reconnaissance satellites](https://spacenews.com/china-launches-new-batch-of-yaogan-reconnaissance-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T160921">2023-09-18 16:09:21 UTC</a></sub>
 * [L3Harris exploring supplier partnerships for its satellite business](https://spacenews.com/l3harris-exploring-supplier-partnerships-for-its-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T155916">2023-09-18 15:59:16 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Stoke Space hops its upper stage, leaping toward a fully reusable rocket](https://arstechnica.com/space/2023/09/stoke-space-hops-its-upper-stage-leaping-toward-a-fully-reusable-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T132428">2023-09-18 13:24:28 UTC</a></sub>
 * [Stoke Space flies reusable upper stage prototype](https://spacenews.com/stoke-space-flies-reusable-upper-stage-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T100338">2023-09-18 10:03:38 UTC</a></sub>
 * [SpaceX seeks to throw out Justice Department hiring practices case](https://spacenews.com/spacex-seeks-to-throw-out-justice-department-hiring-practices-case/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T091343">2023-09-18 09:13:43 UTC</a></sub>
-* [Stoke Space Hops Rocket For First Time](https://tlpnetwork.com/news/2023/09/stoke-space-hops-rocket-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T010700">2023-09-18 01:07:00 UTC</a></sub>
-* [What’s Happening in Space Policy September 17-24, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-17-24-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T234832">2023-09-17 23:48:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T173210">2023-09-18 17:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T180955">2023-09-18 18:09:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
