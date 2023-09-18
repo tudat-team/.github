@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Stoke Space flies reusable upper stage prototype](https://spacenews.com/stoke-space-flies-reusable-upper-stage-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T100338">2023-09-18 10:03:38 UTC</a></sub>
+* [SpaceX seeks to throw out Justice Department hiring practices case](https://spacenews.com/spacex-seeks-to-throw-out-justice-department-hiring-practices-case/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T091343">2023-09-18 09:13:43 UTC</a></sub>
 * [BREAKING! Stoke Space Hops Rocket For First Time](https://tlpnetwork.com/news/2023/09/stoke-space-hops-rocket-for-first-time) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T010700">2023-09-18 01:07:00 UTC</a></sub>
 * [What’s Happening in Space Policy September 17-24, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-17-24-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T234832">2023-09-17 23:48:32 UTC</a></sub>
 * [Using Webb, scientists discover carbon dioxide and methane in habitable-zone exoplanet](https://www.nasaspaceflight.com/2023/09/webb-k218b/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T171257">2023-09-17 17:12:57 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [General Atomics acquires electro-optical sensor supplier EO Vista](https://spacenews.com/general-atomics-acquires-electro-optical-sensor-supplier-eo-vista/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230916T093443">2023-09-16 09:34:43 UTC</a></sub>
 * [Germany signs Artemis Accords](https://spacenews.com/germany-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230916T003226">2023-09-16 00:32:26 UTC</a></sub>
 * [Earth observation players seek new capabilities to tackle climate change](https://spacenews.com/earth-observation-players-seek-new-capabilities-to-tackle-climate-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T200959">2023-09-15 20:09:59 UTC</a></sub>
-* [NASA Astronaut, Crewmates Reach Space Station for Science Expedition](http://www.nasa.gov/press-release/nasa-astronaut-crewmates-reach-space-station-for-science-expedition) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T191600">2023-09-15 19:16:00 UTC</a></sub>
-* [Air Force Research Laboratory delays lunar experiment ](https://spacenews.com/air-force-research-laboratory-delays-lunar-experiment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T191259">2023-09-15 19:12:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T093230">2023-09-18 09:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T100758">2023-09-18 10:07:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
