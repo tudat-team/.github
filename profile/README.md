@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [A water carrier just won the hardest cycling race on the planet](https://arstechnica.com/culture/2023/09/a-water-carrier-just-won-the-hardest-cycling-race-on-the-planet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T211652">2023-09-18 21:16:52 UTC</a></sub>
 * [NASA Finalizes Coverage for First US Asteroid Sample Landing](http://www.nasa.gov/press-release/nasa-finalizes-coverage-for-first-us-asteroid-sample-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T205800">2023-09-18 20:58:00 UTC</a></sub>
 * [ABL gets contract for U.S. Space Force ‘responsive launch’ mission ](https://spacenews.com/abl-gets-contract-for-u-s-space-force-responsive-launch-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T202521">2023-09-18 20:25:21 UTC</a></sub>
 * [Launch Roundup; Rocket Lab to launch “We Will Never Desert You”; SpaceX to launch two Starlink missions](https://www.nasaspaceflight.com/2023/09/launch-roundup-091823/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T180239">2023-09-18 18:02:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [L3Harris exploring supplier partnerships for its satellite business](https://spacenews.com/l3harris-exploring-supplier-partnerships-for-its-satellite-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T155916">2023-09-18 15:59:16 UTC</a></sub>
 * [Tactically Responsive Space strengthens America](https://spacenews.com/tactically-responsive-space-strengthens-america/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T144403">2023-09-18 14:44:03 UTC</a></sub>
 * [RIDE! Hopes to Make Booking a Spaceflight as Easy as a Plane Ticket](https://europeanspaceflight.com/ride-hopes-to-make-booking-a-spaceflight-as-easy-as-a-plane-ticket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T142304">2023-09-18 14:23:04 UTC</a></sub>
-* [Stoke Space hops its upper stage, leaping toward a fully reusable rocket](https://arstechnica.com/space/2023/09/stoke-space-hops-its-upper-stage-leaping-toward-a-fully-reusable-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T132428">2023-09-18 13:24:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T213220">2023-09-18 21:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T220705">2023-09-18 22:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
