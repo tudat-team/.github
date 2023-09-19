@@ -574,7 +574,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NB-IoT provider OQ Technology moves to next Arianespace Vega mission](https://spacenews.com/nb-iot-provider-oq-technology-moves-to-next-arianespace-vega-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T153550">2023-09-19 15:35:50 UTC</a></sub>
 * [UARX Partners with Sener to Continue Development of OSSIE OTV](https://europeanspaceflight.com/uarx-partners-with-sener-to-continue-development-of-ossie-otv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T140112">2023-09-19 14:01:12 UTC</a></sub>
 * [Kayhan raises $7 million and offers autonomous traffic-coordination service](https://spacenews.com/kayhan-raises-7-million-and-offers-autonomous-traffic-coordination-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T130000">2023-09-19 13:00:00 UTC</a></sub>
-* [Rocket Lab stock drops after first satellite launch failure in over two years](https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T120215">2023-09-19 12:02:15 UTC</a></sub>
+* [Rocket Lab stock drops after first satellite launch failure in more than two years](https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T120215">2023-09-19 12:02:15 UTC</a></sub>
 * [Electron fails during Capella Space launch](https://spacenews.com/electron-fails-during-capella-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T073959">2023-09-19 07:39:59 UTC</a></sub>
 * [DEVELOPING STORY: RocketLab Electron Launch Failure](https://tlpnetwork.com/news/2023/09/rocketlab-41-electron-mission-launch-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T072000">2023-09-19 07:20:00 UTC</a></sub>
 * [A water carrier just won the hardest cycling race on the planet](https://arstechnica.com/culture/2023/09/a-water-carrier-just-won-the-hardest-cycling-race-on-the-planet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T211652">2023-09-18 21:16:52 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T183333">2023-09-19 18:33:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T190554">2023-09-19 19:05:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
