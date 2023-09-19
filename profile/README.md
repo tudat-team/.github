@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [LeoLabs, SAIC to develop space-tracking software platform ](https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T220047">2023-09-19 22:00:47 UTC</a></sub>
 * [Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission](https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T205229">2023-09-19 20:52:29 UTC</a></sub>
 * [CACI optical terminals pass initial tests required for Space Development Agency satellites](https://spacenews.com/caci-optical-terminals-pass-initial-tests-required-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T175946">2023-09-19 17:59:46 UTC</a></sub>
 * [FAA seeks to wrap up Starship safety review in October](https://spacenews.com/faa-seeks-to-wrap-up-starship-safety-review-in-october/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T162157">2023-09-19 16:21:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Kayhan raises $7 million and offers autonomous traffic-coordination service](https://spacenews.com/kayhan-raises-7-million-and-offers-autonomous-traffic-coordination-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T130000">2023-09-19 13:00:00 UTC</a></sub>
 * [Rocket Lab stock drops after first satellite launch failure in more than two years](https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T120215">2023-09-19 12:02:15 UTC</a></sub>
 * [Electron fails during Capella Space launch](https://spacenews.com/electron-fails-during-capella-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T073959">2023-09-19 07:39:59 UTC</a></sub>
-* [DEVELOPING STORY: RocketLab Electron Launch Failure](https://tlpnetwork.com/news/2023/09/rocketlab-41-electron-mission-launch-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T072000">2023-09-19 07:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T223216">2023-09-19 22:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T230649">2023-09-19 23:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
