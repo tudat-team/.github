@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Lab stock drops 25% after first launch failure in over two years](https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T120215">2023-09-19 12:02:15 UTC</a></sub>
+* [Rocket Lab stock drops 20% after first satellite launch failure in over two years](https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T120215">2023-09-19 12:02:15 UTC</a></sub>
 * [Electron fails during Capella Space launch](https://spacenews.com/electron-fails-during-capella-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T073959">2023-09-19 07:39:59 UTC</a></sub>
 * [DEVELOPING STORY: RocketLab Electron Launch Failure](https://tlpnetwork.com/news/2023/09/rocketlab-41-electron-mission-launch-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T072000">2023-09-19 07:20:00 UTC</a></sub>
 * [A water carrier just won the hardest cycling race on the planet](https://arstechnica.com/culture/2023/09/a-water-carrier-just-won-the-hardest-cycling-race-on-the-planet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T211652">2023-09-18 21:16:52 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T121333">2023-09-19 12:13:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T124830">2023-09-19 12:48:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
