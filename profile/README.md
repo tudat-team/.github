@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FAA seeks to wrap up Starship safety review in October](https://spacenews.com/faa-seeks-to-wrap-up-starship-safety-review-in-october/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T162157">2023-09-19 16:21:57 UTC</a></sub>
 * [Blue Origin preparing for New Glenn testing at LC-36 ahead of maiden flight](https://www.nasaspaceflight.com/2023/09/blue-update-091923/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T153722">2023-09-19 15:37:22 UTC</a></sub>
 * [NB-IoT provider OQ Technology moves to next Arianespace Vega mission](https://spacenews.com/nb-iot-provider-oq-technology-moves-to-next-arianespace-vega-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T153550">2023-09-19 15:35:50 UTC</a></sub>
 * [UARX Partners with Sener to Continue Development of OSSIE OTV](https://europeanspaceflight.com/uarx-partners-with-sener-to-continue-development-of-ossie-otv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T140112">2023-09-19 14:01:12 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DEVELOPING STORY: RocketLab Electron Launch Failure](https://tlpnetwork.com/news/2023/09/rocketlab-41-electron-mission-launch-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T072000">2023-09-19 07:20:00 UTC</a></sub>
 * [A water carrier just won the hardest cycling race on the planet](https://arstechnica.com/culture/2023/09/a-water-carrier-just-won-the-hardest-cycling-race-on-the-planet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T211652">2023-09-18 21:16:52 UTC</a></sub>
 * [NASA Finalizes Coverage for First US Asteroid Sample Landing](http://www.nasa.gov/press-release/nasa-finalizes-coverage-for-first-us-asteroid-sample-landing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T205800">2023-09-18 20:58:00 UTC</a></sub>
-* [ABL gets contract for U.S. Space Force ‘responsive launch’ mission ](https://spacenews.com/abl-gets-contract-for-u-s-space-force-responsive-launch-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T202521">2023-09-18 20:25:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T163721">2023-09-19 16:37:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T170637">2023-09-19 17:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
