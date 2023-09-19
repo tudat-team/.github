@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kayhan raises $7 million and offers autonomous traffic-coordination service](https://spacenews.com/kayhan-raises-7-million-and-offers-autonomous-traffic-coordination-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T130000">2023-09-19 13:00:00 UTC</a></sub>
 * [Rocket Lab stock drops 20% after first satellite launch failure in over two years](https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T120215">2023-09-19 12:02:15 UTC</a></sub>
 * [Electron fails during Capella Space launch](https://spacenews.com/electron-fails-during-capella-space-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T073959">2023-09-19 07:39:59 UTC</a></sub>
 * [DEVELOPING STORY: RocketLab Electron Launch Failure](https://tlpnetwork.com/news/2023/09/rocketlab-41-electron-mission-launch-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T072000">2023-09-19 07:20:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launch Roundup; Rocket Lab fails during “We Will Never Desert You” launch; SpaceX to launch booster for 17th time](https://www.nasaspaceflight.com/2023/09/launch-roundup-091823/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T180239">2023-09-18 18:02:39 UTC</a></sub>
 * [ABL Secures $15 Million Space System Command Responsive Launch Contract](https://tlpnetwork.com/news/2023/09/abl-secures-15-million-space-system-command-responsive-launch-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T180200">2023-09-18 18:02:00 UTC</a></sub>
 * [NASA's Curiosity Reaches Mars Ridge Where Water Left Debris Pileup](https://mars.nasa.gov/news/9480/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T164800">2023-09-18 16:48:00 UTC</a></sub>
-* [China launches new batch of Yaogan reconnaissance satellites](https://spacenews.com/china-launches-new-batch-of-yaogan-reconnaissance-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T160921">2023-09-18 16:09:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T131021">2023-09-19 13:10:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T133249">2023-09-19 13:32:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
