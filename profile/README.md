@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FCC directing more satellite constellations to mitigate effects on astronomy](https://spacenews.com/fcc-directing-more-satellite-constellations-to-mitigate-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T151643">2023-09-20 15:16:43 UTC</a></sub>
 * [The Startup Nation in Space – Israel’s Equation for the Space Ecosystem ](https://spacenews.com/the-startup-nation-in-space-israels-equation-for-the-space-ecosystem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T143200">2023-09-20 14:32:00 UTC</a></sub>
 * [SpaceX countersues Justice Department, seeking to dismiss hiring discrimination case](https://www.cnbc.com/2023/09/20/spacex-countersues-doj-in-hiring-discrimination-case.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T140313">2023-09-20 14:03:13 UTC</a></sub>
 * [RFA-Led Consortium Submit Argo for ESA Commercial Cargo Initiative](https://europeanspaceflight.com/rfa-led-consortium-submit-argo-for-esa-commercial-cargo-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T120004">2023-09-20 12:00:04 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission](https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T205229">2023-09-19 20:52:29 UTC</a></sub>
 * [CACI optical terminals pass initial tests required for Space Development Agency satellites](https://spacenews.com/caci-optical-terminals-pass-initial-tests-required-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T175946">2023-09-19 17:59:46 UTC</a></sub>
 * [FAA seeks to wrap up Starship safety review in October](https://spacenews.com/faa-seeks-to-wrap-up-starship-safety-review-in-october/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T162157">2023-09-19 16:21:57 UTC</a></sub>
-* [Blue Origin preparing for New Glenn testing at LC-36 ahead of maiden flight](https://www.nasaspaceflight.com/2023/09/blue-update-091923/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T153722">2023-09-19 15:37:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T153242">2023-09-20 15:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T160917">2023-09-20 16:09:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
