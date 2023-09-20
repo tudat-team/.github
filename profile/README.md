@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Debris Removal Startup Dark Partners with Bordeaux Airport](https://europeanspaceflight.com/space-debris-removal-startup-dark-partners-with-bordeaux-airport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T080236">2023-09-20 08:02:36 UTC</a></sub>
 * [AST SpaceMobile’s prototype satellite makes first 5G connection](https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T000451">2023-09-20 00:04:51 UTC</a></sub>
 * [LeoLabs, SAIC to develop space-tracking software platform ](https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T220047">2023-09-19 22:00:47 UTC</a></sub>
 * [Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission](https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T205229">2023-09-19 20:52:29 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NB-IoT provider OQ Technology moves to next Arianespace Vega mission](https://spacenews.com/nb-iot-provider-oq-technology-moves-to-next-arianespace-vega-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T153550">2023-09-19 15:35:50 UTC</a></sub>
 * [UARX Partners with Sener to Continue Development of OSSIE OTV](https://europeanspaceflight.com/uarx-partners-with-sener-to-continue-development-of-ossie-otv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T140112">2023-09-19 14:01:12 UTC</a></sub>
 * [Kayhan raises $7 million and offers autonomous traffic-coordination service](https://spacenews.com/kayhan-raises-7-million-and-offers-autonomous-traffic-coordination-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T130000">2023-09-19 13:00:00 UTC</a></sub>
-* [Rocket Lab stock drops after first satellite launch failure in more than two years](https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T120215">2023-09-19 12:02:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T073220">2023-09-20 07:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T080959">2023-09-20 08:09:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
