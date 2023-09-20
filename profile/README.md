@@ -577,7 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [AST SpaceMobile’s prototype satellite makes first 5G connection](https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T000451">2023-09-20 00:04:51 UTC</a></sub>
 * [LeoLabs, SAIC to develop space-tracking software platform ](https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T220047">2023-09-19 22:00:47 UTC</a></sub>
 * [Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission](https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T205229">2023-09-19 20:52:29 UTC</a></sub>
-* [CACI optical terminals pass initial tests required for Space Development Agency satellites](https://spacenews.com/caci-optical-terminals-pass-initial-tests-required-for-space-development-agency-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T175946">2023-09-19 17:59:46 UTC</a></sub>
+* [Hungarian Astronaut to Visit ISS Aboard Axiom Mission](https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T205229">2023-09-19 20:52:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T213212">2023-09-20 21:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T220649">2023-09-20 22:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
