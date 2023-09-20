@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis II Crew Conduct Launch Day Demo At KSC](https://tlpnetwork.com/news/2023/09/artemis-ii-crew-conduct-launch-day-demo-at-ksc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T224756">2023-09-20 22:47:56 UTC</a></sub>
+* [NASA Set To Begin Artemis II Ground System Testing](https://tlpnetwork.com/news/2023/09/nasa-set-to-begin-artemis-ii-ground-system-testing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T223457">2023-09-20 22:34:57 UTC</a></sub>
 * [SpaceX breaks another booster reuse record, but did anyone see it?](https://arstechnica.com/space/2023/09/spacex-breaks-another-booster-reuse-record-but-did-anyone-see-it/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T161955">2023-09-20 16:19:55 UTC</a></sub>
 * [FCC directing more satellite constellations to mitigate effects on astronomy](https://spacenews.com/fcc-directing-more-satellite-constellations-to-mitigate-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T151643">2023-09-20 15:16:43 UTC</a></sub>
 * [The Startup Nation in Space – Israel’s Equation for the Space Ecosystem ](https://spacenews.com/the-startup-nation-in-space-israels-equation-for-the-space-ecosystem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T143200">2023-09-20 14:32:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Debris Removal Startup Dark Partners with Bordeaux Airport](https://europeanspaceflight.com/space-debris-removal-startup-dark-partners-with-bordeaux-airport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T080236">2023-09-20 08:02:36 UTC</a></sub>
 * [AST SpaceMobile’s prototype satellite makes first 5G connection](https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T000451">2023-09-20 00:04:51 UTC</a></sub>
 * [LeoLabs, SAIC to develop space-tracking software platform ](https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T220047">2023-09-19 22:00:47 UTC</a></sub>
-* [Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission](https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T205229">2023-09-19 20:52:29 UTC</a></sub>
-* [Hungarian Astronaut to Visit ISS Aboard Axiom Mission](https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T205229">2023-09-19 20:52:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T223211">2023-09-20 22:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T230705">2023-09-20 23:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
