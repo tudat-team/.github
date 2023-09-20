@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [RFA-Led Consortium Submit Argo for ESA Commercial Cargo Initiative](https://europeanspaceflight.com/rfa-led-consortium-submit-argo-for-esa-commercial-cargo-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T120004">2023-09-20 12:00:04 UTC</a></sub>
 * [Space Debris Removal Startup Dark Partners with Bordeaux Airport](https://europeanspaceflight.com/space-debris-removal-startup-dark-partners-with-bordeaux-airport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T080236">2023-09-20 08:02:36 UTC</a></sub>
 * [AST SpaceMobile’s prototype satellite makes first 5G connection](https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T000451">2023-09-20 00:04:51 UTC</a></sub>
 * [LeoLabs, SAIC to develop space-tracking software platform ](https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T220047">2023-09-19 22:00:47 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Origin preparing for New Glenn testing at LC-36 ahead of maiden flight](https://www.nasaspaceflight.com/2023/09/blue-update-091923/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T153722">2023-09-19 15:37:22 UTC</a></sub>
 * [NB-IoT provider OQ Technology moves to next Arianespace Vega mission](https://spacenews.com/nb-iot-provider-oq-technology-moves-to-next-arianespace-vega-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T153550">2023-09-19 15:35:50 UTC</a></sub>
 * [UARX Partners with Sener to Continue Development of OSSIE OTV](https://europeanspaceflight.com/uarx-partners-with-sener-to-continue-development-of-ossie-otv/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T140112">2023-09-19 14:01:12 UTC</a></sub>
-* [Kayhan raises $7 million and offers autonomous traffic-coordination service](https://spacenews.com/kayhan-raises-7-million-and-offers-autonomous-traffic-coordination-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T130000">2023-09-19 13:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T113225">2023-09-20 11:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T121332">2023-09-20 12:13:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
