@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Artemis Accords: Changing the Narrative from Space Race to Space Cooperation](https://spacenews.com/the-artemis-accords-changing-the-narrative-from-space-race-to-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T142535">2023-09-21 14:25:35 UTC</a></sub>
+* [China’s Galactic Energy suffers first launch failure](https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T141240">2023-09-21 14:12:40 UTC</a></sub>
 * [FAA proposes rule to limit lifetime of upper stages in orbit](https://spacenews.com/faa-proposes-rule-to-limit-lifetime-of-upper-stages-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T121617">2023-09-21 12:16:17 UTC</a></sub>
 * [Space Force revising commercial space strategy to make it “actionable”](https://spacenews.com/space-force-revising-commercial-space-strategy-to-make-it-actionable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T105051">2023-09-21 10:50:51 UTC</a></sub>
 * [SmallSpark Completes Hot Fire Test of Thruster Prototype](https://europeanspaceflight.com/smallspark-completes-hot-fire-test-of-thruster-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T084734">2023-09-21 08:47:34 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Artemis II Crew Conduct Launch Day Demo At KSC](https://tlpnetwork.com/news/2023/09/artemis-ii-crew-conduct-launch-day-demo-at-ksc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T224756">2023-09-20 22:47:56 UTC</a></sub>
 * [NASA Set To Begin Artemis II Ground System Testing](https://tlpnetwork.com/news/2023/09/nasa-set-to-begin-artemis-ii-ground-system-testing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T223457">2023-09-20 22:34:57 UTC</a></sub>
 * [SpaceX breaks another booster reuse record, but did anyone see it?](https://arstechnica.com/space/2023/09/spacex-breaks-another-booster-reuse-record-but-did-anyone-see-it/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T161955">2023-09-20 16:19:55 UTC</a></sub>
-* [FCC directing more satellite constellations to mitigate effects on astronomy](https://spacenews.com/fcc-directing-more-satellite-constellations-to-mitigate-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T151643">2023-09-20 15:16:43 UTC</a></sub>
-* [The Startup Nation in Space – Israel’s Equation for the Space Ecosystem ](https://spacenews.com/the-startup-nation-in-space-israels-equation-for-the-space-ecosystem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T143200">2023-09-20 14:32:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Want to experience the 2024 total solar eclipse? Here are some tips.](https://www.planetary.org/articles/tips-for-2024-total-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T140812">2023-09-21 14:08:12 UTC</a></sub>
 * [Protoflight: Atlas V stacked ahead of first Kuiper launch](https://blog.ulalaunch.com/blog/protoflight-atlas-v-stacked-ahead-of-first-kuiper-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T164822">2023-09-20 16:48:22 UTC</a></sub>
 * [Is there a future for the European Astronaut Corps?](https://europeanspaceflight.substack.com/p/is-there-a-future-for-the-european) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T140046">2023-09-18 14:00:46 UTC</a></sub>
 * [Lost and found](https://www.planetary.org/the-downlink/lost-and-found) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T143643">2023-09-15 14:36:43 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [A checklist for what to expect during the 2024 total solar eclipse](https://www.planetary.org/articles/eclipse-2024-checklist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143643">2023-09-08 14:36:43 UTC</a></sub>
 * [Are your solar eclipse glasses safe?](https://www.planetary.org/articles/are-your-solar-eclipse-glasses-safe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T143642">2023-09-07 14:36:42 UTC</a></sub>
 * [How to see newly discovered Comet Nishimura](https://www.planetary.org/articles/how-to-see-newly-discovered-comet-nishimura) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T173640">2023-09-06 17:36:40 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: August 28-September 3, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-august-28-september-3-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T211358">2023-09-05 21:13:58 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T143300">2023-09-21 14:33:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T150620">2023-09-21 15:06:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
