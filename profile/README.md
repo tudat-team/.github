@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Maxar Technologies reorganizes as two separate businesses](https://spacenews.com/maxar-technologies-to-reorganize-under-two-separate-businesses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T230000">2023-09-20 23:00:00 UTC</a></sub>
 * [Artemis II Crew Conduct Launch Day Demo At KSC](https://tlpnetwork.com/news/2023/09/artemis-ii-crew-conduct-launch-day-demo-at-ksc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T224756">2023-09-20 22:47:56 UTC</a></sub>
 * [NASA Set To Begin Artemis II Ground System Testing](https://tlpnetwork.com/news/2023/09/nasa-set-to-begin-artemis-ii-ground-system-testing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T223457">2023-09-20 22:34:57 UTC</a></sub>
 * [SpaceX breaks another booster reuse record, but did anyone see it?](https://arstechnica.com/space/2023/09/spacex-breaks-another-booster-reuse-record-but-did-anyone-see-it/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T161955">2023-09-20 16:19:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RFA-Led Consortium Submit Argo for ESA Commercial Cargo Initiative](https://europeanspaceflight.com/rfa-led-consortium-submit-argo-for-esa-commercial-cargo-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T120004">2023-09-20 12:00:04 UTC</a></sub>
 * [Space Debris Removal Startup Dark Partners with Bordeaux Airport](https://europeanspaceflight.com/space-debris-removal-startup-dark-partners-with-bordeaux-airport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T080236">2023-09-20 08:02:36 UTC</a></sub>
 * [AST SpaceMobile’s prototype satellite makes first 5G connection](https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T000451">2023-09-20 00:04:51 UTC</a></sub>
-* [LeoLabs, SAIC to develop space-tracking software platform ](https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T220047">2023-09-19 22:00:47 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T233211">2023-09-20 23:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T003410">2023-09-21 00:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
