@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force revising commercial space strategy to make it “actionable”](https://spacenews.com/space-force-revising-commercial-space-strategy-to-make-it-actionable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T105051">2023-09-21 10:50:51 UTC</a></sub>
 * [SmallSpark Completes Hot Fire Test of Thruster Prototype](https://europeanspaceflight.com/smallspark-completes-hot-fire-test-of-thruster-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T084734">2023-09-21 08:47:34 UTC</a></sub>
 * [FAA Proposes Upper Stage Disposal Rule To Limit Space Debris](https://spacepolicyonline.com/news/faa-proposes-upper-stage-disposal-rule-to-limit-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T035933">2023-09-21 03:59:33 UTC</a></sub>
 * [Maxar Technologies reorganizes as two separate businesses](https://spacenews.com/maxar-technologies-to-reorganize-under-two-separate-businesses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T230000">2023-09-20 23:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [FCC directing more satellite constellations to mitigate effects on astronomy](https://spacenews.com/fcc-directing-more-satellite-constellations-to-mitigate-effects-on-astronomy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T151643">2023-09-20 15:16:43 UTC</a></sub>
 * [The Startup Nation in Space – Israel’s Equation for the Space Ecosystem ](https://spacenews.com/the-startup-nation-in-space-israels-equation-for-the-space-ecosystem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T143200">2023-09-20 14:32:00 UTC</a></sub>
 * [SpaceX countersues Justice Department, seeking to dismiss hiring discrimination case](https://www.cnbc.com/2023/09/20/spacex-countersues-doj-in-hiring-discrimination-case.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T140313">2023-09-20 14:03:13 UTC</a></sub>
-* [RFA-Led Consortium Submit Argo for ESA Commercial Cargo Initiative](https://europeanspaceflight.com/rfa-led-consortium-submit-argo-for-esa-commercial-cargo-initiative/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T120004">2023-09-20 12:00:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T103354">2023-09-21 10:33:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T110624">2023-09-21 11:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
