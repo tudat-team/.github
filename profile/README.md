@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Firefly’s successful launch represents a key moment for company’s future](https://www.cnbc.com/2023/09/21/investing-in-space-fireflys-space-force-launch-represents-key-moment.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T171138">2023-09-21 17:11:38 UTC</a></sub>
 * [Rubio Hits 365-Day Mark in Space, Eager to Get Home](https://spacepolicyonline.com/news/rubio-hits-365-day-mark-in-space-eager-to-get-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T163805">2023-09-21 16:38:05 UTC</a></sub>
 * [Ariane 6 Long Duration Hot Fire Delayed Following Anomaly](https://tlpnetwork.com/news/2023/09/ariane-6-long-duration-hot-fire-delayed-following-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T162937">2023-09-21 16:29:37 UTC</a></sub>
 * [Autonomous Systems Help NASA's Perseverance Do More Science on Mars](https://mars.nasa.gov/news/9482/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T155800">2023-09-21 15:58:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [FAA proposes rule to limit lifetime of upper stages in orbit](https://spacenews.com/faa-proposes-rule-to-limit-lifetime-of-upper-stages-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T121617">2023-09-21 12:16:17 UTC</a></sub>
 * [Space Force revising commercial space strategy to make it “actionable”](https://spacenews.com/space-force-revising-commercial-space-strategy-to-make-it-actionable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T105051">2023-09-21 10:50:51 UTC</a></sub>
 * [SmallSpark Completes Hot Fire Test of Thruster Prototype](https://europeanspaceflight.com/smallspark-completes-hot-fire-test-of-thruster-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T084734">2023-09-21 08:47:34 UTC</a></sub>
-* [FAA Proposes Upper Stage Disposal Rule To Limit Space Debris](https://spacepolicyonline.com/news/faa-proposes-upper-stage-disposal-rule-to-limit-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T035933">2023-09-21 03:59:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T173211">2023-09-21 17:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T180941">2023-09-21 18:09:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
