@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rubio Hits 365-Day Mark in Space, Eager to Get Home](https://spacepolicyonline.com/news/rubio-hits-365-day-mark-in-space-eager-to-get-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T163805">2023-09-21 16:38:05 UTC</a></sub>
+* [Ariane 6 Long Duration Hot Fire Delayed Following Anomaly](https://tlpnetwork.com/news/2023/09/ariane-6-long-duration-hot-fire-delayed-following-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T162937">2023-09-21 16:29:37 UTC</a></sub>
 * [Autonomous Systems Help NASA's Perseverance Do More Science on Mars](https://mars.nasa.gov/news/9482/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T155800">2023-09-21 15:58:00 UTC</a></sub>
 * [ArianeGroup Invests €27M More into MaiaSpace](https://europeanspaceflight.com/arianegroup-invests-e27m-more-into-maiaspace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T152904">2023-09-21 15:29:04 UTC</a></sub>
 * [The Artemis Accords: Changing the Narrative from Space Race to Space Cooperation](https://spacenews.com/the-artemis-accords-changing-the-narrative-from-space-race-to-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T142535">2023-09-21 14:25:35 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force revising commercial space strategy to make it “actionable”](https://spacenews.com/space-force-revising-commercial-space-strategy-to-make-it-actionable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T105051">2023-09-21 10:50:51 UTC</a></sub>
 * [SmallSpark Completes Hot Fire Test of Thruster Prototype](https://europeanspaceflight.com/smallspark-completes-hot-fire-test-of-thruster-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T084734">2023-09-21 08:47:34 UTC</a></sub>
 * [FAA Proposes Upper Stage Disposal Rule To Limit Space Debris](https://spacepolicyonline.com/news/faa-proposes-upper-stage-disposal-rule-to-limit-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T035933">2023-09-21 03:59:33 UTC</a></sub>
-* [Maxar Technologies reorganizes as two separate businesses](https://spacenews.com/maxar-technologies-to-reorganize-under-two-separate-businesses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T230000">2023-09-20 23:00:00 UTC</a></sub>
-* [Artemis II Crew Conduct Launch Day Demo At KSC](https://tlpnetwork.com/news/2023/09/artemis-ii-crew-conduct-launch-day-demo-at-ksc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T224756">2023-09-20 22:47:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T163607">2023-09-21 16:36:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T170632">2023-09-21 17:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
