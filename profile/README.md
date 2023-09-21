@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [RFA Submits Argo Spacecraft to ESA Commercial Cargo Transportation Initiative](https://tlpnetwork.com/news/2023/09/rfa-argo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T183950">2023-09-21 18:39:50 UTC</a></sub>
+* [NASA Releases Independent Review's Mars Sample Return Report](https://mars.nasa.gov/news/9483/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182800">2023-09-21 18:28:00 UTC</a></sub>
 * [Investing in Space: Firefly’s successful launch represents a key moment for company’s future](https://www.cnbc.com/2023/09/21/investing-in-space-fireflys-space-force-launch-represents-key-moment.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T171138">2023-09-21 17:11:38 UTC</a></sub>
 * [Rubio Hits 365-Day Mark in Space, Eager to Get Home](https://spacepolicyonline.com/news/rubio-hits-365-day-mark-in-space-eager-to-get-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T163805">2023-09-21 16:38:05 UTC</a></sub>
 * [Ariane 6 Long Duration Hot Fire Delayed Following Anomaly](https://tlpnetwork.com/news/2023/09/ariane-6-long-duration-hot-fire-delayed-following-anomaly) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T162937">2023-09-21 16:29:37 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The Artemis Accords: Changing the Narrative from Space Race to Space Cooperation](https://spacenews.com/the-artemis-accords-changing-the-narrative-from-space-race-to-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T142535">2023-09-21 14:25:35 UTC</a></sub>
 * [China’s Galactic Energy suffers first launch failure](https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T141240">2023-09-21 14:12:40 UTC</a></sub>
 * [FAA proposes rule to limit lifetime of upper stages in orbit](https://spacenews.com/faa-proposes-rule-to-limit-lifetime-of-upper-stages-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T121617">2023-09-21 12:16:17 UTC</a></sub>
-* [Space Force revising commercial space strategy to make it “actionable”](https://spacenews.com/space-force-revising-commercial-space-strategy-to-make-it-actionable/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T105051">2023-09-21 10:50:51 UTC</a></sub>
-* [SmallSpark Completes Hot Fire Test of Thruster Prototype](https://europeanspaceflight.com/smallspark-completes-hot-fire-test-of-thruster-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T084734">2023-09-21 08:47:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The Day of Action returns to Capitol Hill](https://www.planetary.org/articles/the-day-of-action-returns-to-capitol-hill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182820">2023-09-21 18:28:20 UTC</a></sub>
 * [Want to experience the 2024 total solar eclipse? Here are some tips.](https://www.planetary.org/articles/tips-for-2024-total-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T140812">2023-09-21 14:08:12 UTC</a></sub>
 * [Protoflight: Atlas V stacked ahead of first Kuiper launch](https://blog.ulalaunch.com/blog/protoflight-atlas-v-stacked-ahead-of-first-kuiper-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T164822">2023-09-20 16:48:22 UTC</a></sub>
 * [Is there a future for the European Astronaut Corps?](https://europeanspaceflight.substack.com/p/is-there-a-future-for-the-european) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T140046">2023-09-18 14:00:46 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Cometary sights and sounds](https://www.planetary.org/the-downlink/cometary-sights-and-sounds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143645">2023-09-08 14:36:45 UTC</a></sub>
 * [A checklist for what to expect during the 2024 total solar eclipse](https://www.planetary.org/articles/eclipse-2024-checklist) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143643">2023-09-08 14:36:43 UTC</a></sub>
 * [Are your solar eclipse glasses safe?](https://www.planetary.org/articles/are-your-solar-eclipse-glasses-safe) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T143642">2023-09-07 14:36:42 UTC</a></sub>
-* [How to see newly discovered Comet Nishimura](https://www.planetary.org/articles/how-to-see-newly-discovered-comet-nishimura) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T173640">2023-09-06 17:36:40 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T183231">2023-09-21 18:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T190603">2023-09-21 19:06:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
