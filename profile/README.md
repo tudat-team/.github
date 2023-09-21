@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Independent reviewers find NASA Mars Sample Return plans are seriously flawed](https://arstechnica.com/space/2023/09/independent-review-finds-mars-sample-return-mission-important-but-broken/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T203307">2023-09-21 20:33:07 UTC</a></sub>
 * [RFA Submits Argo Spacecraft to ESA Commercial Cargo Transportation Initiative](https://tlpnetwork.com/news/2023/09/rfa-argo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T183950">2023-09-21 18:39:50 UTC</a></sub>
 * [NASA Releases Independent Review's Mars Sample Return Report](https://mars.nasa.gov/news/9483/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182800">2023-09-21 18:28:00 UTC</a></sub>
 * [Investing in Space: Firefly’s successful launch represents a key moment for company’s future](https://www.cnbc.com/2023/09/21/investing-in-space-fireflys-space-force-launch-represents-key-moment.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T171138">2023-09-21 17:11:38 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ArianeGroup Invests €27M More into MaiaSpace](https://europeanspaceflight.com/arianegroup-invests-e27m-more-into-maiaspace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T152904">2023-09-21 15:29:04 UTC</a></sub>
 * [The Artemis Accords: Changing the Narrative from Space Race to Space Cooperation](https://spacenews.com/the-artemis-accords-changing-the-narrative-from-space-race-to-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T142535">2023-09-21 14:25:35 UTC</a></sub>
 * [China’s Galactic Energy suffers first launch failure](https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T141240">2023-09-21 14:12:40 UTC</a></sub>
-* [FAA proposes rule to limit lifetime of upper stages in orbit](https://spacenews.com/faa-proposes-rule-to-limit-lifetime-of-upper-stages-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T121617">2023-09-21 12:16:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T203228">2023-09-21 20:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T210624">2023-09-21 21:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
