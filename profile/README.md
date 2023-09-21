@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Autonomous Systems Help NASA's Perseverance Do More Science on Mars](https://mars.nasa.gov/news/9482/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T155800">2023-09-21 15:58:00 UTC</a></sub>
+* [ArianeGroup Invests €27M More into MaiaSpace](https://europeanspaceflight.com/arianegroup-invests-e27m-more-into-maiaspace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T152904">2023-09-21 15:29:04 UTC</a></sub>
 * [The Artemis Accords: Changing the Narrative from Space Race to Space Cooperation](https://spacenews.com/the-artemis-accords-changing-the-narrative-from-space-race-to-space-cooperation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T142535">2023-09-21 14:25:35 UTC</a></sub>
 * [China’s Galactic Energy suffers first launch failure](https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T141240">2023-09-21 14:12:40 UTC</a></sub>
 * [FAA proposes rule to limit lifetime of upper stages in orbit](https://spacenews.com/faa-proposes-rule-to-limit-lifetime-of-upper-stages-in-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T121617">2023-09-21 12:16:17 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [FAA Proposes Upper Stage Disposal Rule To Limit Space Debris](https://spacepolicyonline.com/news/faa-proposes-upper-stage-disposal-rule-to-limit-space-debris/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T035933">2023-09-21 03:59:33 UTC</a></sub>
 * [Maxar Technologies reorganizes as two separate businesses](https://spacenews.com/maxar-technologies-to-reorganize-under-two-separate-businesses/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T230000">2023-09-20 23:00:00 UTC</a></sub>
 * [Artemis II Crew Conduct Launch Day Demo At KSC](https://tlpnetwork.com/news/2023/09/artemis-ii-crew-conduct-launch-day-demo-at-ksc) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T224756">2023-09-20 22:47:56 UTC</a></sub>
-* [NASA Set To Begin Artemis II Ground System Testing](https://tlpnetwork.com/news/2023/09/nasa-set-to-begin-artemis-ii-ground-system-testing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T223457">2023-09-20 22:34:57 UTC</a></sub>
-* [SpaceX breaks another booster reuse record, but did anyone see it?](https://arstechnica.com/space/2023/09/spacex-breaks-another-booster-reuse-record-but-did-anyone-see-it/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T161955">2023-09-20 16:19:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T153235">2023-09-21 15:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T160836">2023-09-21 16:08:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
