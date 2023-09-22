@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [House Speaker introduces bill to extend commercial spaceflight regulatory learning period](https://spacenews.com/house-speaker-introduces-bill-to-extend-commercial-spaceflight-regulatory-learning-period/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T121212">2023-09-22 12:12:12 UTC</a></sub>
 * [Ariane 6 Development Suffers Another Setback](https://europeanspaceflight.com/ariane-6-development-suffers-another-setback/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T073545">2023-09-22 07:35:45 UTC</a></sub>
 * [Sierra Space tests inflatable module technology](https://spacenews.com/sierra-space-tests-inflatable-module-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T023150">2023-09-22 02:31:50 UTC</a></sub>
 * [True Anomaly gets $17 million Space Force contract for space domain awareness software](https://spacenews.com/true-anomaly-gets-17-million-space-force-contract-for-space-domain-awareness-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T011800">2023-09-22 01:18:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RFA Submits Argo Spacecraft to ESA Commercial Cargo Transportation Initiative](https://tlpnetwork.com/news/2023/09/rfa-argo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T183950">2023-09-21 18:39:50 UTC</a></sub>
 * [NASA Releases Independent Review's Mars Sample Return Report](https://mars.nasa.gov/news/9483/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182800">2023-09-21 18:28:00 UTC</a></sub>
 * [Investing in Space: Firefly’s successful launch represents a key moment for company’s future](https://www.cnbc.com/2023/09/21/investing-in-space-fireflys-space-force-launch-represents-key-moment.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T171138">2023-09-21 17:11:38 UTC</a></sub>
-* [Rubio Hits 365-Day Mark in Space, Eager to Get Home](https://spacepolicyonline.com/news/rubio-hits-365-day-mark-in-space-eager-to-get-home/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T163805">2023-09-21 16:38:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T121330">2023-09-22 12:13:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T124703">2023-09-22 12:47:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
