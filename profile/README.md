@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Satellogic relocating to the United States in search of government growth](https://spacenews.com/satellogic-relocating-to-the-united-states-in-search-of-government-growth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T184517">2023-09-22 18:45:17 UTC</a></sub>
 * [Pending FAA approval, Starship ready to sport upgrades for upcoming test flight](https://www.nasaspaceflight.com/2023/09/starship-upgrades-upcoming-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T173450">2023-09-22 17:34:50 UTC</a></sub>
 * [Record-Setting NASA Astronaut Soon Returns to Earth; Watch Live](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-soon-returns-to-earth-watch-live) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T142800">2023-09-22 14:28:00 UTC</a></sub>
 * [Spain Partner with ESA to Build €80M Atlantic Constellation](https://europeanspaceflight.com/spain-partner-with-esa-to-build-80m-euro-atlantic-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T141458">2023-09-22 14:14:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [True Anomaly gets $17 million Space Force contract for space domain awareness software](https://spacenews.com/true-anomaly-gets-17-million-space-force-contract-for-space-domain-awareness-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T011800">2023-09-22 01:18:00 UTC</a></sub>
 * [NASA Mars Sample Return budget and schedule “unrealistic,” independent review concludes](https://spacenews.com/nasa-mars-sample-return-budget-and-schedule-unrealistic-independent-review-concludes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T005531">2023-09-22 00:55:31 UTC</a></sub>
 * [Mars Sample Return Scientifically Critical, But Eye-Poppingly Expensive](https://spacepolicyonline.com/news/mars-sample-return-scientifically-critical-but-eye-poppingly-expensive/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T001712">2023-09-22 00:17:12 UTC</a></sub>
-* [Independent reviewers find NASA Mars Sample Return plans are seriously flawed](https://arstechnica.com/space/2023/09/independent-review-finds-mars-sample-return-mission-important-but-broken/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T203307">2023-09-21 20:33:07 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T183257">2023-09-22 18:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T190545">2023-09-22 19:05:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
