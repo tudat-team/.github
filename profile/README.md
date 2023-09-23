@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Office of Space Commerce touts progress on civil space traffic coordination system](https://spacenews.com/office-of-space-commerce-touts-progress-on-civil-space-traffic-coordination-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T015202">2023-09-23 01:52:02 UTC</a></sub>
 * [Air Force validates Boeing’s new WGS satellite](https://spacenews.com/air-force-validates-boeings-new-wgs-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T231303">2023-09-22 23:13:03 UTC</a></sub>
 * [NASA ready for OSIRIS-REx sample return](https://spacenews.com/nasa-ready-for-osiris-rex-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T222348">2023-09-22 22:23:48 UTC</a></sub>
 * [Sierra Space Conducts 5th LIFE Module Burst Test](https://tlpnetwork.com/news/2023/09/sierra-space-conducts-5th-life-module-burst-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T213302">2023-09-22 21:33:02 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pending FAA approval, Starship ready to sport upgrades for upcoming test flight](https://www.nasaspaceflight.com/2023/09/starship-upgrades-upcoming-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T173450">2023-09-22 17:34:50 UTC</a></sub>
 * [Record-Setting NASA Astronaut Soon Returns to Earth; Watch Live](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-soon-returns-to-earth-watch-live) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T142800">2023-09-22 14:28:00 UTC</a></sub>
 * [Spain Partner with ESA to Build €80M Atlantic Constellation](https://europeanspaceflight.com/spain-partner-with-esa-to-build-80m-euro-atlantic-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T141458">2023-09-22 14:14:58 UTC</a></sub>
-* [House Speaker introduces bill to extend commercial spaceflight regulatory learning period](https://spacenews.com/house-speaker-introduces-bill-to-extend-commercial-spaceflight-regulatory-learning-period/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T121212">2023-09-22 12:12:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T013826">2023-09-23 01:38:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T021147">2023-09-23 02:11:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
