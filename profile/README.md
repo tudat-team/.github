@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force gets another weather satellite from NOAA](https://spacenews.com/space-force-gets-another-weather-satellite-from-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T151340">2023-09-23 15:13:40 UTC</a></sub>
 * [Office of Space Commerce touts progress on civil space traffic coordination system](https://spacenews.com/office-of-space-commerce-touts-progress-on-civil-space-traffic-coordination-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T015202">2023-09-23 01:52:02 UTC</a></sub>
 * [Air Force validates Boeing’s new WGS satellite](https://spacenews.com/air-force-validates-boeings-new-wgs-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T231303">2023-09-22 23:13:03 UTC</a></sub>
 * [NASA ready for OSIRIS-REx sample return](https://spacenews.com/nasa-ready-for-osiris-rex-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T222348">2023-09-22 22:23:48 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Satellogic relocating to the United States in search of government growth](https://spacenews.com/satellogic-relocating-to-the-united-states-in-search-of-government-growth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T184517">2023-09-22 18:45:17 UTC</a></sub>
 * [Pending FAA approval, Starship ready to sport upgrades for upcoming test flight](https://www.nasaspaceflight.com/2023/09/starship-upgrades-upcoming-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T173450">2023-09-22 17:34:50 UTC</a></sub>
 * [Record-Setting NASA Astronaut Soon Returns to Earth; Watch Live](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-soon-returns-to-earth-watch-live) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T142800">2023-09-22 14:28:00 UTC</a></sub>
-* [Spain Partner with ESA to Build €80M Atlantic Constellation](https://europeanspaceflight.com/spain-partner-with-esa-to-build-80m-euro-atlantic-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T141458">2023-09-22 14:14:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T153214">2023-09-23 15:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T160752">2023-09-23 16:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
