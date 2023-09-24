@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room](http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T210800">2023-09-24 21:08:00 UTC</a></sub>
 * [OSIRIS-REx sample capsule lands in Utah](https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T152734">2023-09-24 15:27:34 UTC</a></sub>
 * [What’s Happening in Space Policy September 24-30, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-24-30-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T120309">2023-09-24 12:03:09 UTC</a></sub>
 * [Historic OSIRIS-REx asteroid samples successfully return to Earth](https://www.nasaspaceflight.com/2023/09/osirisrex-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T104527">2023-09-24 10:45:27 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA ready for OSIRIS-REx sample return](https://spacenews.com/nasa-ready-for-osiris-rex-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T222348">2023-09-22 22:23:48 UTC</a></sub>
 * [Sierra Space Conducts 5th LIFE Module Burst Test](https://tlpnetwork.com/news/2023/09/sierra-space-conducts-5th-life-module-burst-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T213302">2023-09-22 21:33:02 UTC</a></sub>
 * [China's Galactic Energy Experiences First Launch Failure](https://tlpnetwork.com/news/2023/09/chinas-galactic-energy-experiences-first-launch-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T211313">2023-09-22 21:13:13 UTC</a></sub>
-* [NASA Scientists to Discuss Oct. 14 'Ring of Fire' Solar Eclipse](http://www.nasa.gov/press-release/nasa-scientists-to-discuss-oct-14-ring-of-fire-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T192800">2023-09-22 19:28:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T213212">2023-09-24 21:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T220621">2023-09-24 22:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
