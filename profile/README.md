@@ -568,8 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OSIRIS-REx sample capsule lands in Utah](https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T152734">2023-09-24 15:27:34 UTC</a></sub>
 * [What’s Happening in Space Policy September 24-30, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-24-30-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T120309">2023-09-24 12:03:09 UTC</a></sub>
-* [OSIRIS-REx asteroid samples set for historic return to Earth](https://www.nasaspaceflight.com/2023/09/osirisrex-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T104527">2023-09-24 10:45:27 UTC</a></sub>
+* [Historic OSIRIS-REx asteroid samples successfully return to Earth](https://www.nasaspaceflight.com/2023/09/osirisrex-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T104527">2023-09-24 10:45:27 UTC</a></sub>
 * [Space Force gets another weather satellite from NOAA](https://spacenews.com/space-force-gets-another-weather-satellite-from-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T151340">2023-09-23 15:13:40 UTC</a></sub>
 * [Office of Space Commerce touts progress on civil space traffic coordination system](https://spacenews.com/office-of-space-commerce-touts-progress-on-civil-space-traffic-coordination-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T015202">2023-09-23 01:52:02 UTC</a></sub>
 * [Air Force validates Boeing’s new WGS satellite](https://spacenews.com/air-force-validates-boeings-new-wgs-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T231303">2023-09-22 23:13:03 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Sierra Space Conducts 5th LIFE Module Burst Test](https://tlpnetwork.com/news/2023/09/sierra-space-conducts-5th-life-module-burst-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T213302">2023-09-22 21:33:02 UTC</a></sub>
 * [China's Galactic Energy Experiences First Launch Failure](https://tlpnetwork.com/news/2023/09/chinas-galactic-energy-experiences-first-launch-failure) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T211313">2023-09-22 21:13:13 UTC</a></sub>
 * [NASA Scientists to Discuss Oct. 14 'Ring of Fire' Solar Eclipse](http://www.nasa.gov/press-release/nasa-scientists-to-discuss-oct-14-ring-of-fire-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T192800">2023-09-22 19:28:00 UTC</a></sub>
-* [Satellogic relocating to the United States in search of government growth](https://spacenews.com/satellogic-relocating-to-the-united-states-in-search-of-government-growth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T184517">2023-09-22 18:45:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [OSIRIS-REx returns sample from asteroid Bennu to Earth](https://www.planetary.org/articles/osiris-rex-returns-sample-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T153815">2023-09-22 15:38:15 UTC</a></sub>
 * [Equinox and equilux](https://www.planetary.org/the-downlink/equinox-and-equilux) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T143829">2023-09-22 14:38:29 UTC</a></sub>
 * [What is an annular solar eclipse?](https://www.planetary.org/articles/what-is-an-annular-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T140818">2023-09-22 14:08:18 UTC</a></sub>
 * [The Day of Action returns to Capitol Hill](https://www.planetary.org/articles/the-day-of-action-returns-to-capitol-hill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182820">2023-09-21 18:28:20 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Lost and found](https://www.planetary.org/the-downlink/lost-and-found) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T143643">2023-09-15 14:36:43 UTC</a></sub>
 * [A guide to eclipse vocabulary](https://www.planetary.org/articles/guide-to-eclipse-vocabulary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T220643">2023-09-13 22:06:43 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: September 4-10, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-september-4-10-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T183733">2023-09-11 18:37:33 UTC</a></sub>
-* [Cometary sights and sounds](https://www.planetary.org/the-downlink/cometary-sights-and-sounds) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T143645">2023-09-08 14:36:45 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T153219">2023-09-24 15:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T160752">2023-09-24 16:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
