@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [OSIRIS-REx asteroid samples set for historic return to Earth](https://www.nasaspaceflight.com/2023/09/osirisrex-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T104527">2023-09-24 10:45:27 UTC</a></sub>
 * [Space Force gets another weather satellite from NOAA](https://spacenews.com/space-force-gets-another-weather-satellite-from-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T151340">2023-09-23 15:13:40 UTC</a></sub>
 * [Office of Space Commerce touts progress on civil space traffic coordination system](https://spacenews.com/office-of-space-commerce-touts-progress-on-civil-space-traffic-coordination-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T015202">2023-09-23 01:52:02 UTC</a></sub>
 * [Air Force validates Boeing’s new WGS satellite](https://spacenews.com/air-force-validates-boeings-new-wgs-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T231303">2023-09-22 23:13:03 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Scientists to Discuss Oct. 14 'Ring of Fire' Solar Eclipse](http://www.nasa.gov/press-release/nasa-scientists-to-discuss-oct-14-ring-of-fire-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T192800">2023-09-22 19:28:00 UTC</a></sub>
 * [Satellogic relocating to the United States in search of government growth](https://spacenews.com/satellogic-relocating-to-the-united-states-in-search-of-government-growth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T184517">2023-09-22 18:45:17 UTC</a></sub>
 * [Pending FAA approval, Starship ready to sport upgrades for upcoming test flight](https://www.nasaspaceflight.com/2023/09/starship-upgrades-upcoming-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T173450">2023-09-22 17:34:50 UTC</a></sub>
-* [Record-Setting NASA Astronaut Soon Returns to Earth; Watch Live](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-soon-returns-to-earth-watch-live) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T142800">2023-09-22 14:28:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T103214">2023-09-24 10:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T110510">2023-09-24 11:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
