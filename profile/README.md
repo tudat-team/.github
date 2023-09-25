@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with former Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-former-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
+* [UAE’s $5 billion commitment opens doors for Yahsat ](https://spacenews.com/uaes-5-billion-commitment-opens-doors-for-yahsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T202524">2023-09-25 20:25:24 UTC</a></sub>
 * [U.S. Space Force and Astroscale to co-invest in a refueling satellite](https://spacenews.com/u-s-space-force-and-astroscale-to-co-invest-in-a-refueling-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T191642">2023-09-25 19:16:42 UTC</a></sub>
 * [Sierra Space raising nearly $300 million from Japanese consortium at $5 billion valuation](https://www.cnbc.com/2023/09/25/sierra-space-fundraising-nearly-300-million-at-5-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T185957">2023-09-25 18:59:57 UTC</a></sub>
 * [Italian Launch Startup Sidereus Space Raises €5.1M in Seed+ Funding](https://europeanspaceflight.com/italian-launch-startup-sidereus-space-raises-e5-1m-in-seed-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T175756">2023-09-25 17:57:56 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Beijing to foster commercial space and satellite constellations as key future industries](https://spacenews.com/beijing-to-foster-commercial-space-and-satellite-constellations-as-key-future-industries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T140221">2023-09-25 14:02:21 UTC</a></sub>
 * [Bonanza of Asteroid Riches Lands in Utah](https://spacepolicyonline.com/news/bonanza-of-asteroid-riches-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T014518">2023-09-25 01:45:18 UTC</a></sub>
 * [NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room](http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T210800">2023-09-24 21:08:00 UTC</a></sub>
-* [OSIRIS-REx sample capsule lands in Utah](https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T152734">2023-09-24 15:27:34 UTC</a></sub>
-* [What’s Happening in Space Policy September 24-30, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-24-30-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T120309">2023-09-24 12:03:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T203235">2023-09-25 20:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T210626">2023-09-25 21:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
