@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [BREAKING! Jeff Bezos Announces New Blue Origin CEO In Message To Employees](https://tlpnetwork.com/news/2023/09/jeff-bezos-announces-new-blue-origin-ceo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T212453">2023-09-25 21:24:53 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with former Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-former-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
+* [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with outgoing Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-outgoing-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
 * [UAE’s $5 billion commitment opens doors for Yahsat ](https://spacenews.com/uaes-5-billion-commitment-opens-doors-for-yahsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T202524">2023-09-25 20:25:24 UTC</a></sub>
 * [U.S. Space Force and Astroscale to co-invest in a refueling satellite](https://spacenews.com/u-s-space-force-and-astroscale-to-co-invest-in-a-refueling-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T191642">2023-09-25 19:16:42 UTC</a></sub>
 * [Sierra Space raising nearly $300 million from Japanese consortium at $5 billion valuation](https://www.cnbc.com/2023/09/25/sierra-space-fundraising-nearly-300-million-at-5-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T185957">2023-09-25 18:59:57 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Names New Head of Technology, Policy, Strategy](http://www.nasa.gov/press-release/nasa-names-new-head-of-technology-policy-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T163800">2023-09-25 16:38:00 UTC</a></sub>
 * [Historic Wind Tunnel Facility Testing NASA's Mars Ascent Vehicle Rocket](https://mars.nasa.gov/news/9485/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T152800">2023-09-25 15:28:00 UTC</a></sub>
 * [Beijing to foster commercial space and satellite constellations as key future industries](https://spacenews.com/beijing-to-foster-commercial-space-and-satellite-constellations-as-key-future-industries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T140221">2023-09-25 14:02:21 UTC</a></sub>
-* [Bonanza of Asteroid Riches Lands in Utah](https://spacepolicyonline.com/news/bonanza-of-asteroid-riches-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T014518">2023-09-25 01:45:18 UTC</a></sub>
-* [NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room](http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T210800">2023-09-24 21:08:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T213228">2023-09-25 21:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T220654">2023-09-25 22:06:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
