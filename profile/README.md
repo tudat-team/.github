@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Names New Head of Technology, Policy, Strategy](http://www.nasa.gov/press-release/nasa-names-new-head-of-technology-policy-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T163800">2023-09-25 16:38:00 UTC</a></sub>
 * [Historic Wind Tunnel Facility Testing NASA's Mars Ascent Vehicle Rocket](https://mars.nasa.gov/news/9485/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T152800">2023-09-25 15:28:00 UTC</a></sub>
 * [Beijing to foster commercial space and satellite constellations as key future industries](https://spacenews.com/beijing-to-foster-commercial-space-and-satellite-constellations-as-key-future-industries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T140221">2023-09-25 14:02:21 UTC</a></sub>
 * [Bonanza of Asteroid Riches Lands in Utah](https://spacepolicyonline.com/news/bonanza-of-asteroid-riches-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T014518">2023-09-25 01:45:18 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Historic OSIRIS-REx asteroid samples successfully return to Earth](https://www.nasaspaceflight.com/2023/09/osirisrex-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T104527">2023-09-24 10:45:27 UTC</a></sub>
 * [Space Force gets another weather satellite from NOAA](https://spacenews.com/space-force-gets-another-weather-satellite-from-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T151340">2023-09-23 15:13:40 UTC</a></sub>
 * [Office of Space Commerce touts progress on civil space traffic coordination system](https://spacenews.com/office-of-space-commerce-touts-progress-on-civil-space-traffic-coordination-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T015202">2023-09-23 01:52:02 UTC</a></sub>
-* [Air Force validates Boeing’s new WGS satellite](https://spacenews.com/air-force-validates-boeings-new-wgs-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T231303">2023-09-22 23:13:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T163705">2023-09-25 16:37:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T170649">2023-09-25 17:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
