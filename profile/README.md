@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Space Force and Astroscale to co-invest in a refueling satellite](https://spacenews.com/u-s-space-force-and-astroscale-to-co-invest-in-a-refueling-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T191642">2023-09-25 19:16:42 UTC</a></sub>
+* [Sierra Space raising nearly $300 million from Japanese consortium at $5 billion valuation](https://www.cnbc.com/2023/09/25/sierra-space-fundraising-nearly-300-million-at-5-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T185957">2023-09-25 18:59:57 UTC</a></sub>
 * [Italian Launch Startup Sidereus Space Raises €5.1M in Seed+ Funding](https://europeanspaceflight.com/italian-launch-startup-sidereus-space-raises-e5-1m-in-seed-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T175756">2023-09-25 17:57:56 UTC</a></sub>
 * [NASA Names New Head of Technology, Policy, Strategy](http://www.nasa.gov/press-release/nasa-names-new-head-of-technology-policy-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T163800">2023-09-25 16:38:00 UTC</a></sub>
 * [Historic Wind Tunnel Facility Testing NASA's Mars Ascent Vehicle Rocket](https://mars.nasa.gov/news/9485/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T152800">2023-09-25 15:28:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room](http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T210800">2023-09-24 21:08:00 UTC</a></sub>
 * [OSIRIS-REx sample capsule lands in Utah](https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T152734">2023-09-24 15:27:34 UTC</a></sub>
 * [What’s Happening in Space Policy September 24-30, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-24-30-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T120309">2023-09-24 12:03:09 UTC</a></sub>
-* [Historic OSIRIS-REx asteroid samples successfully return to Earth](https://www.nasaspaceflight.com/2023/09/osirisrex-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T104527">2023-09-24 10:45:27 UTC</a></sub>
-* [Space Force gets another weather satellite from NOAA](https://spacenews.com/space-force-gets-another-weather-satellite-from-noaa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T151340">2023-09-23 15:13:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T193211">2023-09-25 19:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T200755">2023-09-25 20:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
