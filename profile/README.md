@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin CEO Smith to step down](https://spacenews.com/blue-origin-ceo-smith-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T223319">2023-09-25 22:33:19 UTC</a></sub>
+* [Jeff Bezos finally got rid of Bob Smith at Blue Origin](https://arstechnica.com/space/2023/09/bob-smith-is-finally-gone-from-blue-origin-his-replacement-comes-from-amazon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T220417">2023-09-25 22:04:17 UTC</a></sub>
 * [BREAKING! Jeff Bezos Announces New Blue Origin CEO In Message To Employees](https://tlpnetwork.com/news/2023/09/jeff-bezos-announces-new-blue-origin-ceo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T212453">2023-09-25 21:24:53 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with former Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-former-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with outgoing Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-outgoing-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Sierra Space raising nearly $300 million from Japanese consortium at $5 billion valuation](https://www.cnbc.com/2023/09/25/sierra-space-fundraising-nearly-300-million-at-5-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T185957">2023-09-25 18:59:57 UTC</a></sub>
 * [Italian Launch Startup Sidereus Space Raises €5.1M in Seed+ Funding](https://europeanspaceflight.com/italian-launch-startup-sidereus-space-raises-e5-1m-in-seed-funding/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T175756">2023-09-25 17:57:56 UTC</a></sub>
 * [NASA Names New Head of Technology, Policy, Strategy](http://www.nasa.gov/press-release/nasa-names-new-head-of-technology-policy-strategy) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T163800">2023-09-25 16:38:00 UTC</a></sub>
-* [Historic Wind Tunnel Facility Testing NASA's Mars Ascent Vehicle Rocket](https://mars.nasa.gov/news/9485/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T152800">2023-09-25 15:28:00 UTC</a></sub>
-* [Beijing to foster commercial space and satellite constellations as key future industries](https://spacenews.com/beijing-to-foster-commercial-space-and-satellite-constellations-as-key-future-industries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T140221">2023-09-25 14:02:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T223204">2023-09-25 22:32:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T230700">2023-09-25 23:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
