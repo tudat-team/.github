@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Beijing to foster commercial space and satellite constellations as key future industries](https://spacenews.com/beijing-to-foster-commercial-space-and-satellite-constellations-as-key-future-industries/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T140221">2023-09-25 14:02:21 UTC</a></sub>
 * [Bonanza of Asteroid Riches Lands in Utah](https://spacepolicyonline.com/news/bonanza-of-asteroid-riches-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T014518">2023-09-25 01:45:18 UTC</a></sub>
 * [NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room](http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T210800">2023-09-24 21:08:00 UTC</a></sub>
 * [OSIRIS-REx sample capsule lands in Utah](https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T152734">2023-09-24 15:27:34 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Office of Space Commerce touts progress on civil space traffic coordination system](https://spacenews.com/office-of-space-commerce-touts-progress-on-civil-space-traffic-coordination-system/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230923T015202">2023-09-23 01:52:02 UTC</a></sub>
 * [Air Force validates Boeing’s new WGS satellite](https://spacenews.com/air-force-validates-boeings-new-wgs-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T231303">2023-09-22 23:13:03 UTC</a></sub>
 * [NASA ready for OSIRIS-REx sample return](https://spacenews.com/nasa-ready-for-osiris-rex-sample-return/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T222348">2023-09-22 22:23:48 UTC</a></sub>
-* [Sierra Space Conducts 5th LIFE Module Burst Test](https://tlpnetwork.com/news/2023/09/sierra-space-conducts-5th-life-module-burst-test) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T213302">2023-09-22 21:33:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T143302">2023-09-25 14:33:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T150747">2023-09-25 15:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
