@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After setting new record for responsive launch, Space Force eyes next challenge](https://spacenews.com/after-setting-new-record-for-responsive-launch-space-force-eyes-next-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T222728">2023-09-26 22:27:28 UTC</a></sub>
 * [NASA Awards Aerospace Model Systems Fabrication Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-aerospace-model-systems-fabrication-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T200800">2023-09-26 20:08:00 UTC</a></sub>
 * [Portugal Adopts New Space Law](https://europeanspaceflight.com/portugal-adopts-new-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T194519">2023-09-26 19:45:19 UTC</a></sub>
 * [Lack of SLS rockets limit NASA Artemis manifest](https://www.nasaspaceflight.com/2023/09/lack-of-sls-rockets-limit-nasa-artemis-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T173231">2023-09-26 17:32:31 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Charity Weeden is NASA’s New Policy Chief](https://spacepolicyonline.com/news/charity-weeden-is-nasas-new-policy-chief/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T035408">2023-09-26 03:54:08 UTC</a></sub>
 * [Boeing’s Quantum Leap: Satellites in Record Time, Boosting National Security and Commercial Connectivity](https://spacenews.com/boeings-quantum-leap-satellites-in-record-time-boosting-national-security-and-commercial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T030000">2023-09-26 03:00:00 UTC</a></sub>
 * [Blue Origin CEO Smith to step down](https://spacenews.com/blue-origin-ceo-smith-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T223319">2023-09-25 22:33:19 UTC</a></sub>
-* [Jeff Bezos finally got rid of Bob Smith at Blue Origin](https://arstechnica.com/space/2023/09/bob-smith-is-finally-gone-from-blue-origin-his-replacement-comes-from-amazon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T220417">2023-09-25 22:04:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T223221">2023-09-26 22:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T230651">2023-09-26 23:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
