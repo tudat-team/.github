@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Critical Infrastructure: Breaking the Binary Debate and a Call for Space Council Action](https://spacenews.com/space-critical-infrastructure-breaking-the-binary-debate-and-a-call-for-space-council-action/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T160202">2023-09-26 16:02:02 UTC</a></sub>
 * [Sierra Space raises $290 million](https://spacenews.com/sierra-space-raises-290-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T120000">2023-09-26 12:00:00 UTC</a></sub>
 * [Charity Weeden is NASA’s New Policy Chief](https://spacepolicyonline.com/news/charity-weeden-is-nasas-new-policy-chief/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T035408">2023-09-26 03:54:08 UTC</a></sub>
 * [Boeing’s Quantum Leap: Satellites in Record Time, Boosting National Security and Commercial Connectivity](https://spacenews.com/boeings-quantum-leap-satellites-in-record-time-boosting-national-security-and-commercial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T030000">2023-09-26 03:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with outgoing Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-outgoing-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with former Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-former-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
 * [UAE’s $5 billion commitment opens doors for Yahsat ](https://spacenews.com/uaes-5-billion-commitment-opens-doors-for-yahsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T202524">2023-09-25 20:25:24 UTC</a></sub>
-* [U.S. Space Force and Astroscale to co-invest in a refueling satellite](https://spacenews.com/u-s-space-force-and-astroscale-to-co-invest-in-a-refueling-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T191642">2023-09-25 19:16:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T153226">2023-09-26 15:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T160926">2023-09-26 16:09:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
