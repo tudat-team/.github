@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Sierra Space raises $290 million](https://spacenews.com/sierra-space-raises-290-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T120000">2023-09-26 12:00:00 UTC</a></sub>
 * [Charity Weeden is NASA’s New Policy Chief](https://spacepolicyonline.com/news/charity-weeden-is-nasas-new-policy-chief/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T035408">2023-09-26 03:54:08 UTC</a></sub>
 * [Boeing’s Quantum Leap: Satellites in Record Time, Boosting National Security and Commercial Connectivity](https://spacenews.com/boeings-quantum-leap-satellites-in-record-time-boosting-national-security-and-commercial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T030000">2023-09-26 03:00:00 UTC</a></sub>
 * [Blue Origin CEO Smith to step down](https://spacenews.com/blue-origin-ceo-smith-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T223319">2023-09-25 22:33:19 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with former Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-former-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
 * [UAE’s $5 billion commitment opens doors for Yahsat ](https://spacenews.com/uaes-5-billion-commitment-opens-doors-for-yahsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T202524">2023-09-25 20:25:24 UTC</a></sub>
 * [U.S. Space Force and Astroscale to co-invest in a refueling satellite](https://spacenews.com/u-s-space-force-and-astroscale-to-co-invest-in-a-refueling-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T191642">2023-09-25 19:16:42 UTC</a></sub>
-* [Sierra Space raising nearly $300 million from Japanese consortium at $5 billion valuation](https://www.cnbc.com/2023/09/25/sierra-space-fundraising-nearly-300-million-at-5-billion-valuation.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T185957">2023-09-25 18:59:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T113216">2023-09-26 11:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T121355">2023-09-26 12:13:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
