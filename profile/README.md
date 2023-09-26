@@ -572,7 +572,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing’s Quantum Leap: Satellites in Record Time, Boosting National Security and Commercial Connectivity](https://spacenews.com/boeings-quantum-leap-satellites-in-record-time-boosting-national-security-and-commercial-connectivity/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T030000">2023-09-26 03:00:00 UTC</a></sub>
 * [Blue Origin CEO Smith to step down](https://spacenews.com/blue-origin-ceo-smith-to-step-down/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T223319">2023-09-25 22:33:19 UTC</a></sub>
 * [Jeff Bezos finally got rid of Bob Smith at Blue Origin](https://arstechnica.com/space/2023/09/bob-smith-is-finally-gone-from-blue-origin-his-replacement-comes-from-amazon/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T220417">2023-09-25 22:04:17 UTC</a></sub>
-* [BREAKING! Jeff Bezos Announces New Blue Origin CEO In Message To Employees](https://tlpnetwork.com/news/2023/09/jeff-bezos-announces-new-blue-origin-ceo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T212453">2023-09-25 21:24:53 UTC</a></sub>
+* [Jeff Bezos Announces New Blue Origin CEO In Message To Employees](https://tlpnetwork.com/news/2023/09/jeff-bezos-announces-new-blue-origin-ceo) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T212453">2023-09-25 21:24:53 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with outgoing Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-outgoing-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
 * [Jeff Bezos’ Blue Origin to replace CEO Bob Smith with former Amazon exec Dave Limp](https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-former-amazon-exec-dave-limp.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T204051">2023-09-25 20:40:51 UTC</a></sub>
 * [UAE’s $5 billion commitment opens doors for Yahsat ](https://spacenews.com/uaes-5-billion-commitment-opens-doors-for-yahsat/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T202524">2023-09-25 20:25:24 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T093224">2023-09-26 09:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T100809">2023-09-26 10:08:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
