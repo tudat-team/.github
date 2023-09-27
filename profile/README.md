@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA to Publish Vega C Test Z40 Test Failure Findings This Week](https://europeanspaceflight.com/esa-to-publish-vega-c-test-z40-test-failure-findings-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T175809">2023-09-27 17:58:09 UTC</a></sub>
 * [Regreso del astronauta de la NASA que batió récords y sus compañeros](http://www.nasa.gov/press-release/regreso-del-astronauta-de-la-NASA-que-batio-records-y-sus-companeros) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T141800">2023-09-27 14:18:00 UTC</a></sub>
 * [Record-Setting NASA Astronaut, Crewmates Return from Space Mission](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-crewmates-return-from-space-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T121800">2023-09-27 12:18:00 UTC</a></sub>
 * [Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight](https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120338">2023-09-27 12:03:38 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force selects university partner to evaluate classified ground systems software](https://spacenews.com/space-force-selects-university-partner-to-evaluate-classified-ground-systems-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T000316">2023-09-27 00:03:16 UTC</a></sub>
 * [NASA offers choice of contract type for ISS deorbit vehicle](https://spacenews.com/nasa-offers-choice-of-contract-type-for-iss-deorbit-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T235556">2023-09-26 23:55:56 UTC</a></sub>
 * [After setting new record for responsive launch, Space Force eyes next challenge](https://spacenews.com/after-setting-new-record-for-responsive-launch-space-force-eyes-next-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T222728">2023-09-26 22:27:28 UTC</a></sub>
-* [NASA Awards Aerospace Model Systems Fabrication Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-aerospace-model-systems-fabrication-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T200800">2023-09-26 20:08:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T173216">2023-09-27 17:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T180946">2023-09-27 18:09:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
