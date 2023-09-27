@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Cybersecurity firm Xage gets $17 million contract to protect Space Force networks](https://spacenews.com/cybersecurity-firm-xage-gets-17-million-contract-to-protect-space-force-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T100000">2023-09-27 10:00:00 UTC</a></sub>
+* [China narrows field for low-cost space station cargo missions](https://spacenews.com/china-narrows-field-for-low-cost-space-station-cargo-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T091033">2023-09-27 09:10:33 UTC</a></sub>
 * [Space Force selects university partner to evaluate classified ground systems software](https://spacenews.com/space-force-selects-university-partner-to-evaluate-classified-ground-systems-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T000316">2023-09-27 00:03:16 UTC</a></sub>
 * [NASA offers choice of contract type for ISS deorbit vehicle](https://spacenews.com/nasa-offers-choice-of-contract-type-for-iss-deorbit-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T235556">2023-09-26 23:55:56 UTC</a></sub>
 * [After setting new record for responsive launch, Space Force eyes next challenge](https://spacenews.com/after-setting-new-record-for-responsive-launch-space-force-eyes-next-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T222728">2023-09-26 22:27:28 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Lack of SLS rockets limit NASA Artemis manifest](https://www.nasaspaceflight.com/2023/09/lack-of-sls-rockets-limit-nasa-artemis-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T173231">2023-09-26 17:32:31 UTC</a></sub>
 * [The Race for More Space: The flawed logic behind making space a 17th Critical Infrastructure](https://spacenews.com/the-race-for-more-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T162141">2023-09-26 16:21:41 UTC</a></sub>
 * [Space Critical Infrastructure: Breaking the Binary Debate and a Call for Space Council Action](https://spacenews.com/space-critical-infrastructure-breaking-the-binary-debate-and-a-call-for-space-council-action/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T160202">2023-09-26 16:02:02 UTC</a></sub>
-* [Sierra Space raises $290 million](https://spacenews.com/sierra-space-raises-290-million/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T120000">2023-09-26 12:00:00 UTC</a></sub>
-* [Charity Weeden is NASA’s New Policy Chief](https://spacepolicyonline.com/news/charity-weeden-is-nasas-new-policy-chief/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T035408">2023-09-26 03:54:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T093223">2023-09-27 09:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T100801">2023-09-27 10:08:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
