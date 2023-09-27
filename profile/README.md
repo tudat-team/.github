@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [X-Bow to demonstrate additive manufacturing of solid rocket motors for U.S. Air Force](https://spacenews.com/x-bow-to-demonstrate-additive-manufacturing-of-solid-rocket-motors-for-u-s-air-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T223309">2023-09-27 22:33:09 UTC</a></sub>
+* [SpaceX wins first Pentagon contract for Starshield, its satellite network for military use](https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T221513">2023-09-27 22:15:13 UTC</a></sub>
+* [Rogue Space Systems gets US Air Force funds to advance in-orbit servicing tech](https://spacenews.com/rogue-space-systems-gets-us-air-force-funds-to-advance-in-orbit-servicing-tech/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T221001">2023-09-27 22:10:01 UTC</a></sub>
 * [FAA closes investigation into Blue Origin rocket failure, requires 21 ‘corrective actions’](https://www.cnbc.com/2023/09/27/faa-closes-investigation-into-blue-origins-new-shepard-rocket-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T213825">2023-09-27 21:38:25 UTC</a></sub>
 * [ESA to Publish Vega C Test Z40 Test Failure Findings This Week](https://europeanspaceflight.com/esa-to-publish-vega-c-test-z40-test-failure-findings-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T175809">2023-09-27 17:58:09 UTC</a></sub>
 * [Regreso del astronauta de la NASA que batió récords y sus compañeros](http://www.nasa.gov/press-release/regreso-del-astronauta-de-la-NASA-que-batio-records-y-sus-companeros) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T141800">2023-09-27 14:18:00 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight](https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120338">2023-09-27 12:03:38 UTC</a></sub>
 * [Soyuz returns ISS crew after record-setting stay](https://spacenews.com/soyuz-returns-iss-crew-after-record-setting-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120221">2023-09-27 12:02:21 UTC</a></sub>
 * [Cybersecurity firm Xage gets $17 million contract to protect Space Force networks](https://spacenews.com/cybersecurity-firm-xage-gets-17-million-contract-to-protect-space-force-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T100000">2023-09-27 10:00:00 UTC</a></sub>
-* [China narrows field for low-cost space station cargo missions](https://spacenews.com/china-narrows-field-for-low-cost-space-station-cargo-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T091033">2023-09-27 09:10:33 UTC</a></sub>
-* [Space Force selects university partner to evaluate classified ground systems software](https://spacenews.com/space-force-selects-university-partner-to-evaluate-classified-ground-systems-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T000316">2023-09-27 00:03:16 UTC</a></sub>
-* [NASA offers choice of contract type for ISS deorbit vehicle](https://spacenews.com/nasa-offers-choice-of-contract-type-for-iss-deorbit-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T235556">2023-09-26 23:55:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T223210">2023-09-27 22:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T230714">2023-09-27 23:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
