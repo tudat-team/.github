@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Regreso del astronauta de la NASA que batió récords y sus compañeros](http://www.nasa.gov/press-release/regreso-del-astronauta-de-la-NASA-que-batio-records-y-sus-companeros) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T141800">2023-09-27 14:18:00 UTC</a></sub>
 * [Record-Setting NASA Astronaut, Crewmates Return from Space Mission](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-crewmates-return-from-space-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T121800">2023-09-27 12:18:00 UTC</a></sub>
 * [Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight](https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120338">2023-09-27 12:03:38 UTC</a></sub>
 * [Soyuz returns ISS crew after record-setting stay](https://spacenews.com/soyuz-returns-iss-crew-after-record-setting-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120221">2023-09-27 12:02:21 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA offers choice of contract type for ISS deorbit vehicle](https://spacenews.com/nasa-offers-choice-of-contract-type-for-iss-deorbit-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T235556">2023-09-26 23:55:56 UTC</a></sub>
 * [After setting new record for responsive launch, Space Force eyes next challenge](https://spacenews.com/after-setting-new-record-for-responsive-launch-space-force-eyes-next-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T222728">2023-09-26 22:27:28 UTC</a></sub>
 * [NASA Awards Aerospace Model Systems Fabrication Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-aerospace-model-systems-fabrication-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T200800">2023-09-26 20:08:00 UTC</a></sub>
-* [Portugal Adopts New Space Law](https://europeanspaceflight.com/portugal-adopts-new-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T194519">2023-09-26 19:45:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Avio's stock price takes a dive](https://europeanspaceflight.substack.com/p/avios-stock-price-takes-a-dive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T143016">2023-09-27 14:30:16 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: September 11-24, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-september-11-24-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T004319">2023-09-26 00:43:19 UTC</a></sub>
 * [OSIRIS-REx returns sample from asteroid Bennu to Earth](https://www.planetary.org/articles/osiris-rex-returns-sample-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T153815">2023-09-22 15:38:15 UTC</a></sub>
 * [Equinox and equilux](https://www.planetary.org/the-downlink/equinox-and-equilux) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T143829">2023-09-22 14:38:29 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Protoflight: Atlas V stacked ahead of first Kuiper launch](https://blog.ulalaunch.com/blog/protoflight-atlas-v-stacked-ahead-of-first-kuiper-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T164822">2023-09-20 16:48:22 UTC</a></sub>
 * [Is there a future for the European Astronaut Corps?](https://europeanspaceflight.substack.com/p/is-there-a-future-for-the-european) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T140046">2023-09-18 14:00:46 UTC</a></sub>
 * [Lost and found](https://www.planetary.org/the-downlink/lost-and-found) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T143643">2023-09-15 14:36:43 UTC</a></sub>
-* [A guide to eclipse vocabulary](https://www.planetary.org/articles/guide-to-eclipse-vocabulary) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T220643">2023-09-13 22:06:43 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T143250">2023-09-27 14:32:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T150748">2023-09-27 15:07:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
