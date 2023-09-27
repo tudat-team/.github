@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Record-Setting NASA Astronaut, Crewmates Return from Space Mission](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-crewmates-return-from-space-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T121800">2023-09-27 12:18:00 UTC</a></sub>
 * [Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight](https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120338">2023-09-27 12:03:38 UTC</a></sub>
 * [Soyuz returns ISS crew after record-setting stay](https://spacenews.com/soyuz-returns-iss-crew-after-record-setting-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120221">2023-09-27 12:02:21 UTC</a></sub>
 * [Cybersecurity firm Xage gets $17 million contract to protect Space Force networks](https://spacenews.com/cybersecurity-firm-xage-gets-17-million-contract-to-protect-space-force-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T100000">2023-09-27 10:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [After setting new record for responsive launch, Space Force eyes next challenge](https://spacenews.com/after-setting-new-record-for-responsive-launch-space-force-eyes-next-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T222728">2023-09-26 22:27:28 UTC</a></sub>
 * [NASA Awards Aerospace Model Systems Fabrication Follow-On Contract](http://www.nasa.gov/press-release/nasa-awards-aerospace-model-systems-fabrication-follow-on-contract) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T200800">2023-09-26 20:08:00 UTC</a></sub>
 * [Portugal Adopts New Space Law](https://europeanspaceflight.com/portugal-adopts-new-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T194519">2023-09-26 19:45:19 UTC</a></sub>
-* [Lack of SLS rockets limit NASA Artemis manifest](https://www.nasaspaceflight.com/2023/09/lack-of-sls-rockets-limit-nasa-artemis-manifest/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T173231">2023-09-26 17:32:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T121339">2023-09-27 12:13:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T124830">2023-09-27 12:48:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
