@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The boy who named Bennu is now an aspiring astronaut](https://www.planetary.org/articles/mike-puzio-bennu-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T183812">2023-09-28 18:38:12 UTC</a></sub>
 * [Why partial eclipses are worth seeing](https://www.planetary.org/articles/why-partial-eclipses-are-worth-seeing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T140821">2023-09-28 14:08:21 UTC</a></sub>
 * [Avio's stock price takes a dive](https://europeanspaceflight.substack.com/p/avios-stock-price-takes-a-dive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T143016">2023-09-27 14:30:16 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: September 11-24, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-september-11-24-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T004319">2023-09-26 00:43:19 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The Day of Action returns to Capitol Hill](https://www.planetary.org/articles/the-day-of-action-returns-to-capitol-hill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182820">2023-09-21 18:28:20 UTC</a></sub>
 * [Want to experience the 2024 total solar eclipse? Here are some tips.](https://www.planetary.org/articles/tips-for-2024-total-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T140812">2023-09-21 14:08:12 UTC</a></sub>
 * [Protoflight: Atlas V stacked ahead of first Kuiper launch](https://blog.ulalaunch.com/blog/protoflight-atlas-v-stacked-ahead-of-first-kuiper-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T164822">2023-09-20 16:48:22 UTC</a></sub>
-* [Is there a future for the European Astronaut Corps?](https://europeanspaceflight.substack.com/p/is-there-a-future-for-the-european) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T140046">2023-09-18 14:00:46 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T183318">2023-09-28 18:33:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T190539">2023-09-28 19:05:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
