@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Eutelsat and OneWeb combine to create European satellite giant as Musk’s Starlink pressures sector](https://www.cnbc.com/2023/09/28/eutelsat-oneweb-merge-to-create-satellite-challenger-to-musks-starlink.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T130835">2023-09-28 13:08:35 UTC</a></sub>
+* [UK to Provide £65M for High-Risk, High-Reward Space Tech Projects](https://europeanspaceflight.com/uk-to-provide-65m-for-high-risk-high-reward-space-tech-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T124635">2023-09-28 12:46:35 UTC</a></sub>
 * [Mynaric optical terminals selected for Northrop Grumman satellites pass key tests](https://spacenews.com/mynaric-optical-terminals-selected-for-northorp-grumman-satellites-pass-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T115001">2023-09-28 11:50:01 UTC</a></sub>
 * [Eutelsat completes multi-orbit OneWeb merger after shareholder vote](https://spacenews.com/eutelsat-completes-multi-orbit-oneweb-merger-after-shareholder-vote/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T113051">2023-09-28 11:30:51 UTC</a></sub>
 * [FAA closes New Shepard mishap investigation](https://spacenews.com/faa-closes-new-shepard-mishap-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T230055">2023-09-27 23:00:55 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rogue Space Systems gets US Air Force funds to advance in-orbit servicing tech](https://spacenews.com/rogue-space-systems-gets-us-air-force-funds-to-advance-in-orbit-servicing-tech/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T221001">2023-09-27 22:10:01 UTC</a></sub>
 * [FAA closes investigation into Blue Origin rocket failure, requires 21 ‘corrective actions’](https://www.cnbc.com/2023/09/27/faa-closes-investigation-into-blue-origins-new-shepard-rocket-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T213825">2023-09-27 21:38:25 UTC</a></sub>
 * [ESA to Publish Vega C Test Z40 Test Failure Findings This Week](https://europeanspaceflight.com/esa-to-publish-vega-c-test-z40-test-failure-findings-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T175809">2023-09-27 17:58:09 UTC</a></sub>
-* [Regreso del astronauta de la NASA que batió récords y sus compañeros](http://www.nasa.gov/press-release/regreso-del-astronauta-de-la-NASA-que-batio-records-y-sus-companeros) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T141800">2023-09-27 14:18:00 UTC</a></sub>
-* [Record-Setting NASA Astronaut, Crewmates Return from Space Mission](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-crewmates-return-from-space-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T121800">2023-09-27 12:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T131026">2023-09-28 13:10:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T133414">2023-09-28 13:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
