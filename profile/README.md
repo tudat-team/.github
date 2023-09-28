@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Mynaric optical terminals selected for Northrop Grumman satellites pass key tests](https://spacenews.com/mynaric-optical-terminals-selected-for-northorp-grumman-satellites-pass-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T115001">2023-09-28 11:50:01 UTC</a></sub>
+* [Eutelsat completes multi-orbit OneWeb merger after shareholder vote](https://spacenews.com/eutelsat-completes-multi-orbit-oneweb-merger-after-shareholder-vote/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T113051">2023-09-28 11:30:51 UTC</a></sub>
 * [FAA closes New Shepard mishap investigation](https://spacenews.com/faa-closes-new-shepard-mishap-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T230055">2023-09-27 23:00:55 UTC</a></sub>
 * [X-Bow to demonstrate additive manufacturing of solid rocket motors for U.S. Air Force](https://spacenews.com/x-bow-to-demonstrate-additive-manufacturing-of-solid-rocket-motors-for-u-s-air-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T223309">2023-09-27 22:33:09 UTC</a></sub>
 * [SpaceX wins first Pentagon contract for Starshield, its satellite network for military use](https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T221513">2023-09-27 22:15:13 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA to Publish Vega C Test Z40 Test Failure Findings This Week](https://europeanspaceflight.com/esa-to-publish-vega-c-test-z40-test-failure-findings-this-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T175809">2023-09-27 17:58:09 UTC</a></sub>
 * [Regreso del astronauta de la NASA que batió récords y sus compañeros](http://www.nasa.gov/press-release/regreso-del-astronauta-de-la-NASA-que-batio-records-y-sus-companeros) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T141800">2023-09-27 14:18:00 UTC</a></sub>
 * [Record-Setting NASA Astronaut, Crewmates Return from Space Mission](http://www.nasa.gov/press-release/record-setting-nasa-astronaut-crewmates-return-from-space-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T121800">2023-09-27 12:18:00 UTC</a></sub>
-* [Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight](https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120338">2023-09-27 12:03:38 UTC</a></sub>
-* [Soyuz returns ISS crew after record-setting stay](https://spacenews.com/soyuz-returns-iss-crew-after-record-setting-stay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T120221">2023-09-27 12:02:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T113214">2023-09-28 11:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T121336">2023-09-28 12:13:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
