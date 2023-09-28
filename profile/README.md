@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rogers to continue to challenge decision to keep Space Command in Colorado](https://spacenews.com/rogers-to-continue-to-challenge-decision-to-keep-space-command-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T214301">2023-09-28 21:43:01 UTC</a></sub>
+* [Blue Origin, Sierra Space weigh future of Orbital Reef space station as partnership turns rocky](https://www.cnbc.com/2023/09/28/blue-origin-sierra-space-orbital-reef-space-station-in-limbo.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T211439">2023-09-28 21:14:39 UTC</a></sub>
 * [Astroscale inspector satellite ready for launch](https://spacenews.com/astroscale-inspector-satellite-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T204158">2023-09-28 20:41:58 UTC</a></sub>
 * [SpaceX to close out third quarter with record-breaking Starlink mission](https://www.nasaspaceflight.com/2023/09/starlink-group-6-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T174214">2023-09-28 17:42:14 UTC</a></sub>
 * [Investing in Space: Japan’s ispace opens Denver headquarters as companies chase moon market](https://www.cnbc.com/2023/09/28/investing-in-space-moon-company-ispace-opens-denver-headquarters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T165209">2023-09-28 16:52:09 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [UK to Provide £65M for High-Risk, High-Reward Space Tech Projects](https://europeanspaceflight.com/uk-to-provide-65m-for-high-risk-high-reward-space-tech-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T124635">2023-09-28 12:46:35 UTC</a></sub>
 * [Mynaric optical terminals selected for Northrop Grumman satellites pass key tests](https://spacenews.com/mynaric-optical-terminals-selected-for-northorp-grumman-satellites-pass-key-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T115001">2023-09-28 11:50:01 UTC</a></sub>
 * [Eutelsat completes multi-orbit OneWeb merger after shareholder vote](https://spacenews.com/eutelsat-completes-multi-orbit-oneweb-merger-after-shareholder-vote/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T113051">2023-09-28 11:30:51 UTC</a></sub>
-* [FAA closes New Shepard mishap investigation](https://spacenews.com/faa-closes-new-shepard-mishap-investigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T230055">2023-09-27 23:00:55 UTC</a></sub>
-* [X-Bow to demonstrate additive manufacturing of solid rocket motors for U.S. Air Force](https://spacenews.com/x-bow-to-demonstrate-additive-manufacturing-of-solid-rocket-motors-for-u-s-air-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T223309">2023-09-27 22:33:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T213217">2023-09-28 21:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T220701">2023-09-28 22:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
