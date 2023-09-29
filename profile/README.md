@@ -595,9 +595,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OSIRIS-REx returns sample from asteroid Bennu to Earth](https://www.planetary.org/articles/osiris-rex-returns-sample-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T153815">2023-09-22 15:38:15 UTC</a></sub>
 * [Equinox and equilux](https://www.planetary.org/the-downlink/equinox-and-equilux) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T143829">2023-09-22 14:38:29 UTC</a></sub>
 * [What is an annular solar eclipse?](https://www.planetary.org/articles/what-is-an-annular-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T140818">2023-09-22 14:08:18 UTC</a></sub>
+* [Experience the Total Solar Eclipse](https://www.planetary.org/eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T052814">2023-09-22 05:28:14 UTC</a></sub>
 * [The Day of Action returns to Capitol Hill](https://www.planetary.org/articles/the-day-of-action-returns-to-capitol-hill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182820">2023-09-21 18:28:20 UTC</a></sub>
 * [Want to experience the 2024 total solar eclipse? Here are some tips.](https://www.planetary.org/articles/tips-for-2024-total-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T140812">2023-09-21 14:08:12 UTC</a></sub>
-* [Protoflight: Atlas V stacked ahead of first Kuiper launch](https://blog.ulalaunch.com/blog/protoflight-atlas-v-stacked-ahead-of-first-kuiper-launch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T164822">2023-09-20 16:48:22 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T053220">2023-09-29 05:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T061004">2023-09-29 06:10:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
