@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to attempt lunar far side sample return in 2024](https://spacenews.com/china-to-attempt-lunar-far-side-sample-return-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T084543">2023-09-29 08:45:43 UTC</a></sub>
 * [NASA delays Psyche launch a week](https://spacenews.com/nasa-delays-psyche-launch-a-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T025016">2023-09-29 02:50:16 UTC</a></sub>
 * [Rogers Demands Air Force IG Investigation of USSPACECOM HQ Decision](https://spacepolicyonline.com/news/rogers-demands-air-force-ig-investigation-of-usspacecom-hq-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T232805">2023-09-28 23:28:05 UTC</a></sub>
 * [Rogers to continue to challenge decision to keep Space Command in Colorado](https://spacenews.com/rogers-to-continue-to-challenge-decision-to-keep-space-command-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T214301">2023-09-28 21:43:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space: Japan’s ispace opens Denver headquarters as companies chase moon market](https://www.cnbc.com/2023/09/28/investing-in-space-moon-company-ispace-opens-denver-headquarters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T165209">2023-09-28 16:52:09 UTC</a></sub>
 * [Germany Commits €2M to Fund Offshore Launch Infrastructure](https://europeanspaceflight.com/germany-commits-2m-euros-to-fund-offshore-launch-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T150243">2023-09-28 15:02:43 UTC</a></sub>
 * [Eutelsat and OneWeb combine to create European satellite giant as Musk’s Starlink pressures sector](https://www.cnbc.com/2023/09/28/eutelsat-oneweb-merge-to-create-satellite-challenger-to-musks-starlink.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T130835">2023-09-28 13:08:35 UTC</a></sub>
-* [UK to Provide £65M for High-Risk, High-Reward Space Tech Projects](https://europeanspaceflight.com/uk-to-provide-65m-for-high-risk-high-reward-space-tech-projects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T124635">2023-09-28 12:46:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T083220">2023-09-29 08:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T090721">2023-09-29 09:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
