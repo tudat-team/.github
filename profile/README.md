@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA Calls for Small Moon Mission Ideas](https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T194713">2023-09-29 19:47:13 UTC</a></sub>
+* [How Sierra Space Protects America’s Next Space Plane, Dream Chaser](https://www.nasaspaceflight.com/2023/09/dream-chaser-tps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T185806">2023-09-29 18:58:06 UTC</a></sub>
 * [Space Development Agency funds demonstration of satellite laser links in ‘degraded’ environments](https://spacenews.com/space-development-agency-funds-demonstration-of-satellite-laser-links-in-degraded-environments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T184603">2023-09-29 18:46:03 UTC</a></sub>
 * [NASA's Perseverance Captures Dust-Filled Martian Whirlwind](https://mars.nasa.gov/news/9490/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T160800">2023-09-29 16:08:00 UTC</a></sub>
 * [Ispace revises design of lunar lander for NASA CLPS mission](https://spacenews.com/ispace-revises-design-of-lunar-lander-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T121252">2023-09-29 12:12:52 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA delays Psyche launch a week](https://spacenews.com/nasa-delays-psyche-launch-a-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T025016">2023-09-29 02:50:16 UTC</a></sub>
 * [Rogers Demands Air Force IG Investigation of USSPACECOM HQ Decision](https://spacepolicyonline.com/news/rogers-demands-air-force-ig-investigation-of-usspacecom-hq-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T232805">2023-09-28 23:28:05 UTC</a></sub>
 * [Rogers to continue to challenge decision to keep Space Command in Colorado](https://spacenews.com/rogers-to-continue-to-challenge-decision-to-keep-space-command-in-colorado/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T214301">2023-09-28 21:43:01 UTC</a></sub>
-* [Blue Origin, Sierra Space weigh future of Orbital Reef space station as partnership turns rocky](https://www.cnbc.com/2023/09/28/blue-origin-sierra-space-orbital-reef-space-station-in-limbo.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T211439">2023-09-28 21:14:39 UTC</a></sub>
-* [Astroscale inspector satellite ready for launch](https://spacenews.com/astroscale-inspector-satellite-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T204158">2023-09-28 20:41:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T193220">2023-09-29 19:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T200744">2023-09-29 20:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
