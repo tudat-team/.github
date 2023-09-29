@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Perseverance Captures Dust-Filled Martian Whirlwind](https://mars.nasa.gov/news/9490/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T160800">2023-09-29 16:08:00 UTC</a></sub>
 * [Ispace revises design of lunar lander for NASA CLPS mission](https://spacenews.com/ispace-revises-design-of-lunar-lander-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T121252">2023-09-29 12:12:52 UTC</a></sub>
 * [European Commission Launches Targeted Consultation for EU Space Law](https://europeanspaceflight.com/european-commission-launches-targeted-consultation-for-eu-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T085946">2023-09-29 08:59:46 UTC</a></sub>
 * [China to attempt lunar far side sample return in 2024](https://spacenews.com/china-to-attempt-lunar-far-side-sample-return-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T084543">2023-09-29 08:45:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Origin, Sierra Space weigh future of Orbital Reef space station as partnership turns rocky](https://www.cnbc.com/2023/09/28/blue-origin-sierra-space-orbital-reef-space-station-in-limbo.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T211439">2023-09-28 21:14:39 UTC</a></sub>
 * [Astroscale inspector satellite ready for launch](https://spacenews.com/astroscale-inspector-satellite-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T204158">2023-09-28 20:41:58 UTC</a></sub>
 * [SpaceX to close out third quarter with record-breaking Starlink mission](https://www.nasaspaceflight.com/2023/09/starlink-group-6-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T174214">2023-09-28 17:42:14 UTC</a></sub>
-* [Investing in Space: Japan’s ispace opens Denver headquarters as companies chase moon market](https://www.cnbc.com/2023/09/28/investing-in-space-moon-company-ispace-opens-denver-headquarters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T165209">2023-09-28 16:52:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T153228">2023-09-29 15:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T160918">2023-09-29 16:09:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
