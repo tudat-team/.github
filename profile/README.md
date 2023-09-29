@@ -588,6 +588,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [With an eye to the future](https://www.planetary.org/the-downlink/with-an-eye-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T143815">2023-09-29 14:38:15 UTC</a></sub>
+* [Protoflight: Project Kuiper payload placed atop Atlas V](https://blog.ulalaunch.com/blog/protoflight-project-kuiper-payload-placed-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T140820">2023-09-29 14:08:20 UTC</a></sub>
 * [The boy who named Bennu is now an aspiring astronaut](https://www.planetary.org/articles/mike-puzio-bennu-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T183812">2023-09-28 18:38:12 UTC</a></sub>
 * [Why partial eclipses are worth seeing](https://www.planetary.org/articles/why-partial-eclipses-are-worth-seeing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T140821">2023-09-28 14:08:21 UTC</a></sub>
 * [Avio's stock price takes a dive](https://europeanspaceflight.substack.com/p/avios-stock-price-takes-a-dive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T143016">2023-09-27 14:30:16 UTC</a></sub>
@@ -596,8 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Equinox and equilux](https://www.planetary.org/the-downlink/equinox-and-equilux) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T143829">2023-09-22 14:38:29 UTC</a></sub>
 * [What is an annular solar eclipse?](https://www.planetary.org/articles/what-is-an-annular-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T140818">2023-09-22 14:08:18 UTC</a></sub>
 * [Experience the Total Solar Eclipse](https://www.planetary.org/eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T052814">2023-09-22 05:28:14 UTC</a></sub>
-* [The Day of Action returns to Capitol Hill](https://www.planetary.org/articles/the-day-of-action-returns-to-capitol-hill) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T182820">2023-09-21 18:28:20 UTC</a></sub>
-* [Want to experience the 2024 total solar eclipse? Here are some tips.](https://www.planetary.org/articles/tips-for-2024-total-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T140812">2023-09-21 14:08:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T143222">2023-09-29 14:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T150747">2023-09-29 15:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
