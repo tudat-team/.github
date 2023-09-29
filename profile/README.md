@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ispace revises design of lunar lander for NASA CLPS mission](https://spacenews.com/ispace-revises-design-of-lunar-lander-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T121252">2023-09-29 12:12:52 UTC</a></sub>
 * [European Commission Launches Targeted Consultation for EU Space Law](https://europeanspaceflight.com/european-commission-launches-targeted-consultation-for-eu-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T085946">2023-09-29 08:59:46 UTC</a></sub>
 * [China to attempt lunar far side sample return in 2024](https://spacenews.com/china-to-attempt-lunar-far-side-sample-return-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T084543">2023-09-29 08:45:43 UTC</a></sub>
 * [NASA delays Psyche launch a week](https://spacenews.com/nasa-delays-psyche-launch-a-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T025016">2023-09-29 02:50:16 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Astroscale inspector satellite ready for launch](https://spacenews.com/astroscale-inspector-satellite-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T204158">2023-09-28 20:41:58 UTC</a></sub>
 * [SpaceX to close out third quarter with record-breaking Starlink mission](https://www.nasaspaceflight.com/2023/09/starlink-group-6-19/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T174214">2023-09-28 17:42:14 UTC</a></sub>
 * [Investing in Space: Japan’s ispace opens Denver headquarters as companies chase moon market](https://www.cnbc.com/2023/09/28/investing-in-space-moon-company-ispace-opens-denver-headquarters.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T165209">2023-09-28 16:52:09 UTC</a></sub>
-* [Germany Commits €2M to Fund Offshore Launch Infrastructure](https://europeanspaceflight.com/germany-commits-2m-euros-to-fund-offshore-launch-infrastructure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T150243">2023-09-28 15:02:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T121324">2023-09-29 12:13:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T124718">2023-09-29 12:47:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
