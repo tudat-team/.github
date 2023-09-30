@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Shutdown Showdown Coming To a Head](https://spacepolicyonline.com/news/shutdown-showdown-coming-to-a-head/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T160038">2023-09-30 16:00:38 UTC</a></sub>
 * [NASA to extend New Horizons mission through late 2020s](https://spacenews.com/nasa-to-extend-new-horizons-mission-through-late-2020s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T223923">2023-09-29 22:39:23 UTC</a></sub>
 * [ESA Calls for Small Moon Mission Ideas](https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T194713">2023-09-29 19:47:13 UTC</a></sub>
 * [How Sierra Space Protects America’s Next Space Plane, Dream Chaser](https://www.nasaspaceflight.com/2023/09/dream-chaser-tps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T185806">2023-09-29 18:58:06 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [European Commission Launches Targeted Consultation for EU Space Law](https://europeanspaceflight.com/european-commission-launches-targeted-consultation-for-eu-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T085946">2023-09-29 08:59:46 UTC</a></sub>
 * [China to attempt lunar far side sample return in 2024](https://spacenews.com/china-to-attempt-lunar-far-side-sample-return-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T084543">2023-09-29 08:45:43 UTC</a></sub>
 * [NASA delays Psyche launch a week](https://spacenews.com/nasa-delays-psyche-launch-a-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T025016">2023-09-29 02:50:16 UTC</a></sub>
-* [Rogers Demands Air Force IG Investigation of USSPACECOM HQ Decision](https://spacepolicyonline.com/news/rogers-demands-air-force-ig-investigation-of-usspacecom-hq-decision/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T232805">2023-09-28 23:28:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T163306">2023-09-30 16:33:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T170544">2023-09-30 17:05:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
