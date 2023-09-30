@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA selects SpaceX for rideshare launch of smallsat mission](https://spacenews.com/nasa-selects-spacex-for-rideshare-launch-of-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T214909">2023-09-30 21:49:09 UTC</a></sub>
 * [Shutdown Showdown Coming To a Head](https://spacepolicyonline.com/news/shutdown-showdown-coming-to-a-head/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T160038">2023-09-30 16:00:38 UTC</a></sub>
 * [NASA to extend New Horizons mission through late 2020s](https://spacenews.com/nasa-to-extend-new-horizons-mission-through-late-2020s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T223923">2023-09-29 22:39:23 UTC</a></sub>
 * [ESA Calls for Small Moon Mission Ideas](https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T194713">2023-09-29 19:47:13 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ispace revises design of lunar lander for NASA CLPS mission](https://spacenews.com/ispace-revises-design-of-lunar-lander-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T121252">2023-09-29 12:12:52 UTC</a></sub>
 * [European Commission Launches Targeted Consultation for EU Space Law](https://europeanspaceflight.com/european-commission-launches-targeted-consultation-for-eu-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T085946">2023-09-29 08:59:46 UTC</a></sub>
 * [China to attempt lunar far side sample return in 2024](https://spacenews.com/china-to-attempt-lunar-far-side-sample-return-in-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T084543">2023-09-29 08:45:43 UTC</a></sub>
-* [NASA delays Psyche launch a week](https://spacenews.com/nasa-delays-psyche-launch-a-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T025016">2023-09-29 02:50:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T213214">2023-09-30 21:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T220609">2023-09-30 22:06:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
