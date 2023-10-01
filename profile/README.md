@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Stopgap spending bill includes FAA learning period extension](https://spacenews.com/stopgap-spending-bill-includes-faa-learning-period-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T165445">2023-10-01 16:54:45 UTC</a></sub>
 * [Shutdown Averted, Government Funded Until November 17](https://spacepolicyonline.com/news/shutdown-averted-government-funded-until-november-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T030410">2023-10-01 03:04:10 UTC</a></sub>
 * [NASA selects SpaceX for rideshare launch of smallsat mission](https://spacenews.com/nasa-selects-spacex-for-rideshare-launch-of-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T214909">2023-09-30 21:49:09 UTC</a></sub>
 * [Shutdown Showdown Coming To a Head](https://spacepolicyonline.com/news/shutdown-showdown-coming-to-a-head/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T160038">2023-09-30 16:00:38 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Development Agency funds demonstration of satellite laser links in ‘degraded’ environments](https://spacenews.com/space-development-agency-funds-demonstration-of-satellite-laser-links-in-degraded-environments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T184603">2023-09-29 18:46:03 UTC</a></sub>
 * [NASA's Perseverance Captures Dust-Filled Martian Whirlwind](https://mars.nasa.gov/news/9490/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T160800">2023-09-29 16:08:00 UTC</a></sub>
 * [Ispace revises design of lunar lander for NASA CLPS mission](https://spacenews.com/ispace-revises-design-of-lunar-lander-for-nasa-clps-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T121252">2023-09-29 12:12:52 UTC</a></sub>
-* [European Commission Launches Targeted Consultation for EU Space Law](https://europeanspaceflight.com/european-commission-launches-targeted-consultation-for-eu-space-law/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T085946">2023-09-29 08:59:46 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T163331">2023-10-01 16:33:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T170629">2023-10-01 17:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
