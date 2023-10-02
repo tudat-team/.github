@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Heads of agencies update on crewed, robotic lunar plans](https://spacenews.com/heads-of-agencies-update-on-crewed-robotic-lunar-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T155351">2023-10-02 15:53:51 UTC</a></sub>
 * [ESA delays Vega C return to flight to late 2024](https://spacenews.com/esa-delays-vega-c-return-to-flight-to-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T143236">2023-10-02 14:32:36 UTC</a></sub>
 * [Vega C Nozzle Design to Blame for Zefiro 40 Test Failure](https://europeanspaceflight.com/vega-c-nozzle-design-to-blame-for-zefiro-40-test-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T135019">2023-10-02 13:50:19 UTC</a></sub>
 * [New research provides explanation for the origin of Saturn’s rings and icy moons](https://www.nasaspaceflight.com/2023/10/saturn-rings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T184617">2023-10-01 18:46:17 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA selects SpaceX for rideshare launch of smallsat mission](https://spacenews.com/nasa-selects-spacex-for-rideshare-launch-of-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T214909">2023-09-30 21:49:09 UTC</a></sub>
 * [Shutdown Showdown Coming To a Head](https://spacepolicyonline.com/news/shutdown-showdown-coming-to-a-head/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T160038">2023-09-30 16:00:38 UTC</a></sub>
 * [NASA to extend New Horizons mission through late 2020s](https://spacenews.com/nasa-to-extend-new-horizons-mission-through-late-2020s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T223923">2023-09-29 22:39:23 UTC</a></sub>
-* [ESA Calls for Small Moon Mission Ideas](https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T194713">2023-09-29 19:47:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T153232">2023-10-02 15:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T160921">2023-10-02 16:09:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
