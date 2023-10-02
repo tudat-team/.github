@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA delays Vega C return to flight to late 2024](https://spacenews.com/esa-delays-vega-c-return-to-flight-to-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T143236">2023-10-02 14:32:36 UTC</a></sub>
 * [Vega C Nozzle Design to Blame for Zefiro 40 Test Failure](https://europeanspaceflight.com/vega-c-nozzle-design-to-blame-for-zefiro-40-test-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T135019">2023-10-02 13:50:19 UTC</a></sub>
 * [New research provides explanation for the origin of Saturn’s rings and icy moons](https://www.nasaspaceflight.com/2023/10/saturn-rings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T184617">2023-10-01 18:46:17 UTC</a></sub>
 * [What’s Happening in Space Policy October 1-7, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-1-7-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T182220">2023-10-01 18:22:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Shutdown Showdown Coming To a Head](https://spacepolicyonline.com/news/shutdown-showdown-coming-to-a-head/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T160038">2023-09-30 16:00:38 UTC</a></sub>
 * [NASA to extend New Horizons mission through late 2020s](https://spacenews.com/nasa-to-extend-new-horizons-mission-through-late-2020s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T223923">2023-09-29 22:39:23 UTC</a></sub>
 * [ESA Calls for Small Moon Mission Ideas](https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T194713">2023-09-29 19:47:13 UTC</a></sub>
-* [How Sierra Space Protects America’s Next Space Plane, Dream Chaser](https://www.nasaspaceflight.com/2023/09/dream-chaser-tps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T185806">2023-09-29 18:58:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The Psyche launch and its journey to a metal world: What to expect](https://www.planetary.org/articles/psyche-launch-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T140814">2023-10-02 14:08:14 UTC</a></sub>
 * [With an eye to the future](https://www.planetary.org/the-downlink/with-an-eye-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T143815">2023-09-29 14:38:15 UTC</a></sub>
 * [Protoflight: Project Kuiper payload placed atop Atlas V](https://blog.ulalaunch.com/blog/protoflight-project-kuiper-payload-placed-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T140820">2023-09-29 14:08:20 UTC</a></sub>
 * [The boy who named Bennu is now an aspiring astronaut](https://www.planetary.org/articles/mike-puzio-bennu-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T183812">2023-09-28 18:38:12 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [OSIRIS-REx returns sample from asteroid Bennu to Earth](https://www.planetary.org/articles/osiris-rex-returns-sample-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T153815">2023-09-22 15:38:15 UTC</a></sub>
 * [Equinox and equilux](https://www.planetary.org/the-downlink/equinox-and-equilux) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T143829">2023-09-22 14:38:29 UTC</a></sub>
 * [What is an annular solar eclipse?](https://www.planetary.org/articles/what-is-an-annular-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T140818">2023-09-22 14:08:18 UTC</a></sub>
-* [Experience the Total Solar Eclipse](https://www.planetary.org/eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T052814">2023-09-22 05:28:14 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T143305">2023-10-02 14:33:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T150810">2023-10-02 15:08:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
