@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force goal of a multi-vendor space network called impractical](https://spacenews.com/space-force-goal-of-a-multi-vendor-space-network-called-impractical/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T183941">2023-10-02 18:39:41 UTC</a></sub>
 * [Northrop Grumman likely to end its bid for a commercial space station](https://arstechnica.com/space/2023/10/northrop-grumman-likely-to-end-its-bid-for-a-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T164044">2023-10-02 16:40:44 UTC</a></sub>
 * [Heads of agencies update on crewed, robotic lunar plans](https://spacenews.com/heads-of-agencies-update-on-crewed-robotic-lunar-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T155351">2023-10-02 15:53:51 UTC</a></sub>
 * [ESA delays Vega C return to flight to late 2024](https://spacenews.com/esa-delays-vega-c-return-to-flight-to-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T143236">2023-10-02 14:32:36 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Stopgap spending bill includes FAA learning period extension](https://spacenews.com/stopgap-spending-bill-includes-faa-learning-period-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T165445">2023-10-01 16:54:45 UTC</a></sub>
 * [Shutdown Averted, Government Funded Until November 17](https://spacepolicyonline.com/news/shutdown-averted-government-funded-until-november-17/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T030410">2023-10-01 03:04:10 UTC</a></sub>
 * [NASA selects SpaceX for rideshare launch of smallsat mission](https://spacenews.com/nasa-selects-spacex-for-rideshare-launch-of-smallsat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T214909">2023-09-30 21:49:09 UTC</a></sub>
-* [Shutdown Showdown Coming To a Head](https://spacepolicyonline.com/news/shutdown-showdown-coming-to-a-head/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T160038">2023-09-30 16:00:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T183412">2023-10-02 18:34:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T190559">2023-10-02 19:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
