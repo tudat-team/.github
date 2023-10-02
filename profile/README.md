@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vega C Nozzle Design to Blame for Zefiro 40 Test Failure](https://europeanspaceflight.com/vega-c-nozzle-design-to-blame-for-zefiro-40-test-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T135019">2023-10-02 13:50:19 UTC</a></sub>
 * [New research provides explanation for the origin of Saturn’s rings and icy moons](https://www.nasaspaceflight.com/2023/10/saturn-rings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T184617">2023-10-01 18:46:17 UTC</a></sub>
 * [What’s Happening in Space Policy October 1-7, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-1-7-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T182220">2023-10-01 18:22:20 UTC</a></sub>
 * [Stopgap spending bill includes FAA learning period extension](https://spacenews.com/stopgap-spending-bill-includes-faa-learning-period-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231001T165445">2023-10-01 16:54:45 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA to extend New Horizons mission through late 2020s](https://spacenews.com/nasa-to-extend-new-horizons-mission-through-late-2020s/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T223923">2023-09-29 22:39:23 UTC</a></sub>
 * [ESA Calls for Small Moon Mission Ideas](https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T194713">2023-09-29 19:47:13 UTC</a></sub>
 * [How Sierra Space Protects America’s Next Space Plane, Dream Chaser](https://www.nasaspaceflight.com/2023/09/dream-chaser-tps/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T185806">2023-09-29 18:58:06 UTC</a></sub>
-* [Space Development Agency funds demonstration of satellite laser links in ‘degraded’ environments](https://spacenews.com/space-development-agency-funds-demonstration-of-satellite-laser-links-in-degraded-environments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T184603">2023-09-29 18:46:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T133227">2023-10-02 13:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T140724">2023-10-02 14:07:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
