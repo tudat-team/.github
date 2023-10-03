@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ars takes a close-up look at the first US lunar lander in half a century](https://arstechnica.com/space/2023/10/ars-takes-a-close-up-look-at-the-first-us-lunar-lander-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T210857">2023-10-03 21:08:57 UTC</a></sub>
 * [Japan conducting studies for reusable next-gen rocket](https://spacenews.com/japan-conducting-studies-for-reusable-next-gen-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T165551">2023-10-03 16:55:51 UTC</a></sub>
 * [Military space groups in New Mexico expand recruitment and STEM](https://spacenews.com/military-space-groups-in-new-mexico-expand-recruitment-and-stem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T164439">2023-10-03 16:44:39 UTC</a></sub>
 * [SpaceX providing Starlink services to DoD under ‘unique terms and conditions’](https://spacenews.com/spacex-providing-starlink-services-to-dod-under-unique-terms-and-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T154821">2023-10-03 15:48:21 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Air Force Research Lab awards design contracts for nuclear powered spacecraft](https://spacenews.com/air-force-research-lab-awards-design-contracts-for-nuclear-powered-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T093057">2023-10-03 09:30:57 UTC</a></sub>
 * [FCC Issues First Space Debris Fine](https://spacepolicyonline.com/news/fcc-issues-first-space-debris-fine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T025052">2023-10-03 02:50:52 UTC</a></sub>
 * [FCC fines Dish Network for botched satellite de-orbit](https://spacenews.com/fcc-fines-dish-network-for-botched-satellite-de-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T212346">2023-10-02 21:23:46 UTC</a></sub>
-* [China outlines Chang’e-8 resource utilization mission to the lunar south pole](https://spacenews.com/china-outlines-change-8-resource-utilization-mission-to-the-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T204821">2023-10-02 20:48:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T213213">2023-10-03 21:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T220654">2023-10-03 22:06:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
