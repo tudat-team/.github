@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Alba Orbital Move into new PocketQube Manufacturing Facility](https://europeanspaceflight.com/alba-orbital-move-into-new-pocketqube-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T141756">2023-10-03 14:17:56 UTC</a></sub>
 * [Artemis Accords signatories seek to boost transparency and safety in lunar exploration](https://spacenews.com/artemis-accords-signatories-seek-to-boost-transparency-and-safety-in-lunar-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T131436">2023-10-03 13:14:36 UTC</a></sub>
 * [Astronomers raise interference concerns from AST SpaceMobile satellite](https://spacenews.com/astronomers-raise-interference-concerns-from-ast-spacemobile-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T103710">2023-10-03 10:37:10 UTC</a></sub>
 * [Air Force Research Lab awards design contracts for nuclear powered spacecraft](https://spacenews.com/air-force-research-lab-awards-design-contracts-for-nuclear-powered-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T093057">2023-10-03 09:30:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceNews Announces Promotion of Kamal Flucker to Global Sales Director](https://spacenews.com/spacenews-announces-promotion-of-kamal-flucker-to-global-sales-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T200344">2023-10-02 20:03:44 UTC</a></sub>
 * [FCC enforces first space debris penalty in $150,000 settlement with Dish](https://www.cnbc.com/2023/10/02/fcc-enforces-first-space-debris-penalty-in-dish-network-settlement.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T191345">2023-10-02 19:13:45 UTC</a></sub>
 * [Space Force goal of a multi-vendor space network called impractical](https://spacenews.com/space-force-goal-of-a-multi-vendor-space-network-called-impractical/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T183941">2023-10-02 18:39:41 UTC</a></sub>
-* [Northrop Grumman likely to end its bid for a commercial space station](https://arstechnica.com/space/2023/10/northrop-grumman-likely-to-end-its-bid-for-a-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T164044">2023-10-02 16:40:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T143416">2023-10-03 14:34:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T150804">2023-10-03 15:08:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
