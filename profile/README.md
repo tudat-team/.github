@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japan conducting studies for reusable next-gen rocket](https://spacenews.com/japan-conducting-studies-for-reusable-next-gen-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T165551">2023-10-03 16:55:51 UTC</a></sub>
+* [Military space groups in New Mexico expand recruitment and STEM](https://spacenews.com/military-space-groups-in-new-mexico-expand-recruitment-and-stem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T164439">2023-10-03 16:44:39 UTC</a></sub>
 * [SpaceX providing Starlink services to DoD under ‘unique terms and conditions’](https://spacenews.com/spacex-providing-starlink-services-to-dod-under-unique-terms-and-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T154821">2023-10-03 15:48:21 UTC</a></sub>
 * [Alba Orbital Move into new PocketQube Manufacturing Facility](https://europeanspaceflight.com/alba-orbital-move-into-new-pocketqube-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T141756">2023-10-03 14:17:56 UTC</a></sub>
 * [Artemis Accords signatories seek to boost transparency and safety in lunar exploration](https://spacenews.com/artemis-accords-signatories-seek-to-boost-transparency-and-safety-in-lunar-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T131436">2023-10-03 13:14:36 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [FCC Issues First Space Debris Fine](https://spacepolicyonline.com/news/fcc-issues-first-space-debris-fine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T025052">2023-10-03 02:50:52 UTC</a></sub>
 * [FCC fines Dish Network for botched satellite de-orbit](https://spacenews.com/fcc-fines-dish-network-for-botched-satellite-de-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T212346">2023-10-02 21:23:46 UTC</a></sub>
 * [China outlines Chang’e-8 resource utilization mission to the lunar south pole](https://spacenews.com/china-outlines-change-8-resource-utilization-mission-to-the-lunar-south-pole/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T204821">2023-10-02 20:48:21 UTC</a></sub>
-* [SpaceNews Announces Promotion of Kamal Flucker to Global Sales Director](https://spacenews.com/spacenews-announces-promotion-of-kamal-flucker-to-global-sales-director/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T200344">2023-10-02 20:03:44 UTC</a></sub>
-* [FCC enforces first space debris penalty in $150,000 settlement with Dish](https://www.cnbc.com/2023/10/02/fcc-enforces-first-space-debris-penalty-in-dish-network-settlement.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T191345">2023-10-02 19:13:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T163656">2023-10-03 16:36:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T170647">2023-10-03 17:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
