@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astronomers raise interference concerns from AST SpaceMobile satellite](https://spacenews.com/astronomers-raise-interference-concerns-from-ast-spacemobile-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T103710">2023-10-03 10:37:10 UTC</a></sub>
 * [Air Force Research Lab awards design contracts for nuclear powered spacecraft](https://spacenews.com/air-force-research-lab-awards-design-contracts-for-nuclear-powered-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T093057">2023-10-03 09:30:57 UTC</a></sub>
 * [FCC Issues First Space Debris Fine](https://spacepolicyonline.com/news/fcc-issues-first-space-debris-fine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T025052">2023-10-03 02:50:52 UTC</a></sub>
 * [FCC fines Dish Network for botched satellite de-orbit](https://spacenews.com/fcc-fines-dish-network-for-botched-satellite-de-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T212346">2023-10-02 21:23:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force goal of a multi-vendor space network called impractical](https://spacenews.com/space-force-goal-of-a-multi-vendor-space-network-called-impractical/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T183941">2023-10-02 18:39:41 UTC</a></sub>
 * [Northrop Grumman likely to end its bid for a commercial space station](https://arstechnica.com/space/2023/10/northrop-grumman-likely-to-end-its-bid-for-a-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T164044">2023-10-02 16:40:44 UTC</a></sub>
 * [Heads of agencies update on crewed, robotic lunar plans](https://spacenews.com/heads-of-agencies-update-on-crewed-robotic-lunar-plans/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T155351">2023-10-02 15:53:51 UTC</a></sub>
-* [ESA delays Vega C return to flight to late 2024](https://spacenews.com/esa-delays-vega-c-return-to-flight-to-late-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T143236">2023-10-02 14:32:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T103350">2023-10-03 10:33:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T110618">2023-10-03 11:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
