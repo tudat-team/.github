@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Comtech wins $48 million U.S. Army contract for satellite modems](https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T082744">2023-10-04 08:27:44 UTC</a></sub>
 * [Axiom Space partners with Prada on Artemis spacesuits](https://spacenews.com/axiom-space-partners-with-prada-on-artemis-spacesuits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T052420">2023-10-04 05:24:20 UTC</a></sub>
 * [First Intuitive Machines lunar lander ready for launch](https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T001831">2023-10-04 00:18:31 UTC</a></sub>
 * [McCarthy Ousted as Speaker of the House](https://spacepolicyonline.com/news/mccarthy-ousted-as-speaker-of-the-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T221702">2023-10-03 22:17:02 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX providing Starlink services to DoD under ‘unique terms and conditions’](https://spacenews.com/spacex-providing-starlink-services-to-dod-under-unique-terms-and-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T154821">2023-10-03 15:48:21 UTC</a></sub>
 * [Alba Orbital Move into new PocketQube Manufacturing Facility](https://europeanspaceflight.com/alba-orbital-move-into-new-pocketqube-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T141756">2023-10-03 14:17:56 UTC</a></sub>
 * [Artemis Accords signatories seek to boost transparency and safety in lunar exploration](https://spacenews.com/artemis-accords-signatories-seek-to-boost-transparency-and-safety-in-lunar-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T131436">2023-10-03 13:14:36 UTC</a></sub>
-* [Astronomers raise interference concerns from AST SpaceMobile satellite](https://spacenews.com/astronomers-raise-interference-concerns-from-ast-spacemobile-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T103710">2023-10-03 10:37:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T083346">2023-10-04 08:33:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T090753">2023-10-04 09:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
