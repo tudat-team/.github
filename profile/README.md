@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russia talks a big future in space while its overall budget is quietly cut](https://arstechnica.com/space/2023/10/russia-talks-a-big-future-in-space-while-its-overall-budget-is-quietly-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T151351">2023-10-04 15:13:51 UTC</a></sub>
 * [China to send new modules and co-orbiting spacecraft to Tiangong space station](https://spacenews.com/china-to-send-new-modules-and-co-orbiting-spacecraft-to-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T140842">2023-10-04 14:08:42 UTC</a></sub>
 * [U.S. Space Force awards Booz Allen $630 million contract for satellite systems support](https://spacenews.com/u-s-space-force-awards-booz-allen-630-million-contract-for-satellite-systems-support/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T120711">2023-10-04 12:07:11 UTC</a></sub>
 * [Comtech wins $48 million U.S. Army contract for satellite modems](https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T082744">2023-10-04 08:27:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ars takes a close-up look at the first US lunar lander in half a century](https://arstechnica.com/space/2023/10/ars-takes-a-close-up-look-at-the-first-us-lunar-lander-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T210857">2023-10-03 21:08:57 UTC</a></sub>
 * [Japan conducting studies for reusable next-gen rocket](https://spacenews.com/japan-conducting-studies-for-reusable-next-gen-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T165551">2023-10-03 16:55:51 UTC</a></sub>
 * [Military space groups in New Mexico expand recruitment and STEM](https://spacenews.com/military-space-groups-in-new-mexico-expand-recruitment-and-stem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T164439">2023-10-03 16:44:39 UTC</a></sub>
-* [SpaceX providing Starlink services to DoD under ‘unique terms and conditions’](https://spacenews.com/spacex-providing-starlink-services-to-dod-under-unique-terms-and-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T154821">2023-10-03 15:48:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T153235">2023-10-04 15:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T160945">2023-10-04 16:09:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
