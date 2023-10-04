@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [First Intuitive Machines lunar lander ready for launch](https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T001831">2023-10-04 00:18:31 UTC</a></sub>
 * [McCarthy Ousted as Speaker of the House](https://spacepolicyonline.com/news/mccarthy-ousted-as-speaker-of-the-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T221702">2023-10-03 22:17:02 UTC</a></sub>
 * [Ars takes a close-up look at the first US lunar lander in half a century](https://arstechnica.com/space/2023/10/ars-takes-a-close-up-look-at-the-first-us-lunar-lander-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T210857">2023-10-03 21:08:57 UTC</a></sub>
 * [Japan conducting studies for reusable next-gen rocket](https://spacenews.com/japan-conducting-studies-for-reusable-next-gen-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T165551">2023-10-03 16:55:51 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Artemis Accords signatories seek to boost transparency and safety in lunar exploration](https://spacenews.com/artemis-accords-signatories-seek-to-boost-transparency-and-safety-in-lunar-exploration/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T131436">2023-10-03 13:14:36 UTC</a></sub>
 * [Astronomers raise interference concerns from AST SpaceMobile satellite](https://spacenews.com/astronomers-raise-interference-concerns-from-ast-spacemobile-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T103710">2023-10-03 10:37:10 UTC</a></sub>
 * [Air Force Research Lab awards design contracts for nuclear powered spacecraft](https://spacenews.com/air-force-research-lab-awards-design-contracts-for-nuclear-powered-spacecraft/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T093057">2023-10-03 09:30:57 UTC</a></sub>
-* [FCC Issues First Space Debris Fine](https://spacepolicyonline.com/news/fcc-issues-first-space-debris-fine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T025052">2023-10-03 02:50:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T233211">2023-10-03 23:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T003508">2023-10-04 00:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
