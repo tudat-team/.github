@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to send new modules and co-orbiting spacecraft to Tiangong space station](https://spacenews.com/china-to-send-new-modules-and-co-orbiting-spacecraft-to-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T140842">2023-10-04 14:08:42 UTC</a></sub>
 * [U.S. Space Force awards Booz Allen $630 million contract for satellite systems support](https://spacenews.com/u-s-space-force-awards-booz-allen-630-million-contract-for-satellite-systems-support/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T120711">2023-10-04 12:07:11 UTC</a></sub>
 * [Comtech wins $48 million U.S. Army contract for satellite modems](https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T082744">2023-10-04 08:27:44 UTC</a></sub>
 * [Axiom Space partners with Prada on Artemis spacesuits](https://spacenews.com/axiom-space-partners-with-prada-on-artemis-spacesuits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T052420">2023-10-04 05:24:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japan conducting studies for reusable next-gen rocket](https://spacenews.com/japan-conducting-studies-for-reusable-next-gen-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T165551">2023-10-03 16:55:51 UTC</a></sub>
 * [Military space groups in New Mexico expand recruitment and STEM](https://spacenews.com/military-space-groups-in-new-mexico-expand-recruitment-and-stem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T164439">2023-10-03 16:44:39 UTC</a></sub>
 * [SpaceX providing Starlink services to DoD under ‘unique terms and conditions’](https://spacenews.com/spacex-providing-starlink-services-to-dod-under-unique-terms-and-conditions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T154821">2023-10-03 15:48:21 UTC</a></sub>
-* [Alba Orbital Move into new PocketQube Manufacturing Facility](https://europeanspaceflight.com/alba-orbital-move-into-new-pocketqube-manufacturing-facility/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T141756">2023-10-03 14:17:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [ESA short 16,572kg in launch capacity](https://europeanspaceflight.substack.com/p/esa-short-16572kg-in-launch-capacity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T142524">2023-10-04 14:25:24 UTC</a></sub>
 * [The Psyche launch and its journey to a metal world: What to expect](https://www.planetary.org/articles/psyche-launch-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T140814">2023-10-02 14:08:14 UTC</a></sub>
 * [With an eye to the future](https://www.planetary.org/the-downlink/with-an-eye-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T143815">2023-09-29 14:38:15 UTC</a></sub>
 * [Protoflight: Project Kuiper payload placed atop Atlas V](https://blog.ulalaunch.com/blog/protoflight-project-kuiper-payload-placed-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T140820">2023-09-29 14:08:20 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: September 11-24, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-september-11-24-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T004319">2023-09-26 00:43:19 UTC</a></sub>
 * [OSIRIS-REx returns sample from asteroid Bennu to Earth](https://www.planetary.org/articles/osiris-rex-returns-sample-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T153815">2023-09-22 15:38:15 UTC</a></sub>
 * [Equinox and equilux](https://www.planetary.org/the-downlink/equinox-and-equilux) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T143829">2023-09-22 14:38:29 UTC</a></sub>
-* [What is an annular solar eclipse?](https://www.planetary.org/articles/what-is-an-annular-solar-eclipse) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T140818">2023-09-22 14:08:18 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T143230">2023-10-04 14:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T150752">2023-10-04 15:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
