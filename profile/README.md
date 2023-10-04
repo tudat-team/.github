@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Germany Advocates Competitive Launch Procurement Process](https://europeanspaceflight.com/germany-advocates-competitive-launch-procurement-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T202345">2023-10-04 20:23:45 UTC</a></sub>
 * [SRI partners with Scout Space and Leidos for debris-tracking project](https://spacenews.com/sri-partners-with-scout-space-and-leidos-for-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T195408">2023-10-04 19:54:08 UTC</a></sub>
 * [Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week](https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T190417">2023-10-04 19:04:17 UTC</a></sub>
 * [Russia talks a big future in space while its overall budget is quietly cut](https://arstechnica.com/space/2023/10/russia-talks-a-big-future-in-space-while-its-overall-budget-is-quietly-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T151351">2023-10-04 15:13:51 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Axiom Space partners with Prada on Artemis spacesuits](https://spacenews.com/axiom-space-partners-with-prada-on-artemis-spacesuits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T052420">2023-10-04 05:24:20 UTC</a></sub>
 * [First Intuitive Machines lunar lander ready for launch](https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T001831">2023-10-04 00:18:31 UTC</a></sub>
 * [McCarthy Ousted as Speaker of the House](https://spacepolicyonline.com/news/mccarthy-ousted-as-speaker-of-the-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T221702">2023-10-03 22:17:02 UTC</a></sub>
-* [Ars takes a close-up look at the first US lunar lander in half a century](https://arstechnica.com/space/2023/10/ars-takes-a-close-up-look-at-the-first-us-lunar-lander-in-half-a-century/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T210857">2023-10-03 21:08:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T203227">2023-10-04 20:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T210805">2023-10-04 21:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
