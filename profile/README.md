@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [RocketStars: Protoflight // Devon Shafer](https://blog.ulalaunch.com/blog/rocketstars-devon-shafer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T215442">2023-10-04 21:54:42 UTC</a></sub>
 * [ESA short 16,572kg in launch capacity](https://europeanspaceflight.substack.com/p/esa-short-16572kg-in-launch-capacity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T142524">2023-10-04 14:25:24 UTC</a></sub>
 * [The Psyche launch and its journey to a metal world: What to expect](https://www.planetary.org/articles/psyche-launch-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T140814">2023-10-02 14:08:14 UTC</a></sub>
 * [With an eye to the future](https://www.planetary.org/the-downlink/with-an-eye-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T143815">2023-09-29 14:38:15 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Avio's stock price takes a dive](https://europeanspaceflight.substack.com/p/avios-stock-price-takes-a-dive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T143016">2023-09-27 14:30:16 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: September 11-24, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-september-11-24-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T004319">2023-09-26 00:43:19 UTC</a></sub>
 * [OSIRIS-REx returns sample from asteroid Bennu to Earth](https://www.planetary.org/articles/osiris-rex-returns-sample-to-earth) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T153815">2023-09-22 15:38:15 UTC</a></sub>
-* [Equinox and equilux](https://www.planetary.org/the-downlink/equinox-and-equilux) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T143829">2023-09-22 14:38:29 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T213216">2023-10-04 21:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T220751">2023-10-04 22:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
