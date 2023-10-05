@@ -568,7 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [NASA expands purchase of commercial data with latest award](https://spacenews.com/nasa-expands-purchase-of-commercial-data-with-latest-award/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T165727">2023-10-05 16:57:27 UTC</a></sub>
+* [Russia blames Luna-25 crash on computer glitch](https://spacenews.com/russia-blames-luna-25-crash-on-computer-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T174845">2023-10-05 17:48:45 UTC</a></sub>
+* [NASA expands purchase of commercial Earth-observation data with latest award](https://spacenews.com/nasa-expands-purchase-of-commercial-data-with-latest-award/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T165727">2023-10-05 16:57:27 UTC</a></sub>
 * [LMI gets $98 million contract for space wargaming software](https://spacenews.com/lmi-gets-98-million-contract-for-space-wargaming-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T150854">2023-10-05 15:08:54 UTC</a></sub>
 * [China wants a lunar satellite constellation to support deep space missions](https://spacenews.com/china-wants-a-lunar-satellite-constellation-to-support-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132908">2023-10-05 13:29:08 UTC</a></sub>
 * [PLD Space Prepare for Third Attempt at Maiden Miura 1 Flight](https://europeanspaceflight.com/pld-space-prepare-for-third-attempt-at-maiden-miura-1-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132359">2023-10-05 13:23:59 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab opens engine facility in former Virgin Orbit headquarters](https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T115658">2023-10-05 11:56:58 UTC</a></sub>
 * [Japan’s SLIM moon lander makes lunar flyby](https://spacenews.com/japans-slim-moon-lander-makes-lunar-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T080317">2023-10-05 08:03:17 UTC</a></sub>
 * [Startups from four nations join 2023 Hyperspace Challenge](https://spacenews.com/startups-from-four-nations-join-2023-hyperspace-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T060000">2023-10-05 06:00:00 UTC</a></sub>
-* [Northrop Grumman to join Voyager Space commercial space station project](https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T001445">2023-10-05 00:14:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T173234">2023-10-05 17:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T180947">2023-10-05 18:09:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
