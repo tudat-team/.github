@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [LMI gets $98 million contract for space wargaming software](https://spacenews.com/lmi-gets-98-million-contract-for-space-wargaming-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T150854">2023-10-05 15:08:54 UTC</a></sub>
 * [China wants a lunar satellite constellation to support deep space missions](https://spacenews.com/china-wants-a-lunar-satellite-constellation-to-support-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132908">2023-10-05 13:29:08 UTC</a></sub>
 * [PLD Space Prepare for Third Attempt at Maiden Miura 1 Flight](https://europeanspaceflight.com/pld-space-prepare-for-third-attempt-at-maiden-miura-1-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132359">2023-10-05 13:23:59 UTC</a></sub>
 * [Watch Elon Musk give updates about SpaceX from annual space congress](https://www.cnbc.com/2023/10/05/watch-elon-musk-give-updates-about-spacex-from-annual-space-congress.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T131501">2023-10-05 13:15:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Startups from four nations join 2023 Hyperspace Challenge](https://spacenews.com/startups-from-four-nations-join-2023-hyperspace-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T060000">2023-10-05 06:00:00 UTC</a></sub>
 * [Northrop Grumman to join Voyager Space commercial space station project](https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T001445">2023-10-05 00:14:45 UTC</a></sub>
 * [Germany Advocates Competitive Launch Procurement Process](https://europeanspaceflight.com/germany-advocates-competitive-launch-procurement-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T202345">2023-10-04 20:23:45 UTC</a></sub>
-* [SRI partners with Scout Space and Leidos for debris-tracking project](https://spacenews.com/sri-partners-with-scout-space-and-leidos-for-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T195408">2023-10-04 19:54:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T153239">2023-10-05 15:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T161007">2023-10-05 16:10:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
