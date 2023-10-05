@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China wants a lunar satellite constellation to support deep space missions](https://spacenews.com/china-wants-a-lunar-satellite-constellation-to-support-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132908">2023-10-05 13:29:08 UTC</a></sub>
+* [PLD Space Prepare for Third Attempt at Maiden Miura 1 Flight](https://europeanspaceflight.com/pld-space-prepare-for-third-attempt-at-maiden-miura-1-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132359">2023-10-05 13:23:59 UTC</a></sub>
+* [Watch Elon Musk give updates about SpaceX from annual space congress](https://www.cnbc.com/2023/10/05/watch-elon-musk-give-updates-about-spacex-from-annual-space-congress.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T131501">2023-10-05 13:15:01 UTC</a></sub>
 * [CesiumAstro, Hughes and SES demonstrate active phased array terminal](https://spacenews.com/cesiumastro-hughes-and-ses-demonstrate-active-phased-array-terminal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T120000">2023-10-05 12:00:00 UTC</a></sub>
 * [Rocket Lab opens engine facility in former Virgin Orbit headquarters](https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T115658">2023-10-05 11:56:58 UTC</a></sub>
 * [Japan’s SLIM moon lander makes lunar flyby](https://spacenews.com/japans-slim-moon-lander-makes-lunar-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T080317">2023-10-05 08:03:17 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Northrop Grumman to join Voyager Space commercial space station project](https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T001445">2023-10-05 00:14:45 UTC</a></sub>
 * [Germany Advocates Competitive Launch Procurement Process](https://europeanspaceflight.com/germany-advocates-competitive-launch-procurement-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T202345">2023-10-04 20:23:45 UTC</a></sub>
 * [SRI partners with Scout Space and Leidos for debris-tracking project](https://spacenews.com/sri-partners-with-scout-space-and-leidos-for-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T195408">2023-10-04 19:54:08 UTC</a></sub>
-* [Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week](https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T190417">2023-10-04 19:04:17 UTC</a></sub>
-* [Russia talks a big future in space while its overall budget is quietly cut](https://arstechnica.com/space/2023/10/russia-talks-a-big-future-in-space-while-its-overall-budget-is-quietly-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T151351">2023-10-04 15:13:51 UTC</a></sub>
-* [China to send new modules and co-orbiting spacecraft to Tiangong space station](https://spacenews.com/china-to-send-new-modules-and-co-orbiting-spacecraft-to-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T140842">2023-10-04 14:08:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T131229">2023-10-05 13:12:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T133501">2023-10-05 13:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
