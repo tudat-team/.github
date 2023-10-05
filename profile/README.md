@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Trust NASA’s private orbital station development process](https://www.cnbc.com/2023/10/05/investing-in-space-trust-nasas-private-station-development-process.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T203256">2023-10-05 20:32:56 UTC</a></sub>
 * [Space Force releases final call for bids for national security launch services](https://spacenews.com/space-force-releases-final-call-for-bids-for-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T193200">2023-10-05 19:32:00 UTC</a></sub>
 * [Russia blames Luna-25 crash on computer glitch](https://spacenews.com/russia-blames-luna-25-crash-on-computer-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T174845">2023-10-05 17:48:45 UTC</a></sub>
 * [NASA expands purchase of commercial Earth-observation data with latest award](https://spacenews.com/nasa-expands-purchase-of-commercial-data-with-latest-award/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T165727">2023-10-05 16:57:27 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Watch Elon Musk give updates about SpaceX from annual space congress](https://www.cnbc.com/2023/10/05/watch-elon-musk-give-updates-about-spacex-from-annual-space-congress.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T131501">2023-10-05 13:15:01 UTC</a></sub>
 * [CesiumAstro, Hughes and SES demonstrate active phased array terminal](https://spacenews.com/cesiumastro-hughes-and-ses-demonstrate-active-phased-array-terminal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T120000">2023-10-05 12:00:00 UTC</a></sub>
 * [Rocket Lab opens engine facility in former Virgin Orbit headquarters](https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T115658">2023-10-05 11:56:58 UTC</a></sub>
-* [Japan’s SLIM moon lander makes lunar flyby](https://spacenews.com/japans-slim-moon-lander-makes-lunar-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T080317">2023-10-05 08:03:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T203225">2023-10-05 20:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T210704">2023-10-05 21:07:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
