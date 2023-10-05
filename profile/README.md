@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CesiumAstro, Hughes and SES demonstrate active phased array terminal](https://spacenews.com/cesiumastro-hughes-and-ses-demonstrate-active-phased-array-terminal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T120000">2023-10-05 12:00:00 UTC</a></sub>
+* [Rocket Lab opens engine facility in former Virgin Orbit headquarters](https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T115658">2023-10-05 11:56:58 UTC</a></sub>
 * [Japan’s SLIM moon lander makes lunar flyby](https://spacenews.com/japans-slim-moon-lander-makes-lunar-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T080317">2023-10-05 08:03:17 UTC</a></sub>
 * [Startups from four nations join 2023 Hyperspace Challenge](https://spacenews.com/startups-from-four-nations-join-2023-hyperspace-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T060000">2023-10-05 06:00:00 UTC</a></sub>
 * [Northrop Grumman to join Voyager Space commercial space station project](https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T001445">2023-10-05 00:14:45 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week](https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T190417">2023-10-04 19:04:17 UTC</a></sub>
 * [Russia talks a big future in space while its overall budget is quietly cut](https://arstechnica.com/space/2023/10/russia-talks-a-big-future-in-space-while-its-overall-budget-is-quietly-cut/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T151351">2023-10-04 15:13:51 UTC</a></sub>
 * [China to send new modules and co-orbiting spacecraft to Tiangong space station](https://spacenews.com/china-to-send-new-modules-and-co-orbiting-spacecraft-to-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T140842">2023-10-04 14:08:42 UTC</a></sub>
-* [U.S. Space Force awards Booz Allen $630 million contract for satellite systems support](https://spacenews.com/u-s-space-force-awards-booz-allen-630-million-contract-for-satellite-systems-support/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T120711">2023-10-04 12:07:11 UTC</a></sub>
-* [Comtech wins $48 million U.S. Army contract for satellite modems](https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T082744">2023-10-04 08:27:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T113219">2023-10-05 11:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T121426">2023-10-05 12:14:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
