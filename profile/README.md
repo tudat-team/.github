@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Northrop Grumman to join Voyager Space commercial space station project](https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T001445">2023-10-05 00:14:45 UTC</a></sub>
 * [Germany Advocates Competitive Launch Procurement Process](https://europeanspaceflight.com/germany-advocates-competitive-launch-procurement-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T202345">2023-10-04 20:23:45 UTC</a></sub>
 * [SRI partners with Scout Space and Leidos for debris-tracking project](https://spacenews.com/sri-partners-with-scout-space-and-leidos-for-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T195408">2023-10-04 19:54:08 UTC</a></sub>
 * [Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week](https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T190417">2023-10-04 19:04:17 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Comtech wins $48 million U.S. Army contract for satellite modems](https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T082744">2023-10-04 08:27:44 UTC</a></sub>
 * [Axiom Space partners with Prada on Artemis spacesuits](https://spacenews.com/axiom-space-partners-with-prada-on-artemis-spacesuits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T052420">2023-10-04 05:24:20 UTC</a></sub>
 * [First Intuitive Machines lunar lander ready for launch](https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T001831">2023-10-04 00:18:31 UTC</a></sub>
-* [McCarthy Ousted as Speaker of the House](https://spacepolicyonline.com/news/mccarthy-ousted-as-speaker-of-the-house/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231003T221702">2023-10-03 22:17:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T233217">2023-10-04 23:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T003439">2023-10-05 00:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
