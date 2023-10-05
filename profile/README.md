@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Startups from four nations join 2023 Hyperspace Challenge](https://spacenews.com/startups-from-four-nations-join-2023-hyperspace-challenge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T060000">2023-10-05 06:00:00 UTC</a></sub>
 * [Northrop Grumman to join Voyager Space commercial space station project](https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T001445">2023-10-05 00:14:45 UTC</a></sub>
 * [Germany Advocates Competitive Launch Procurement Process](https://europeanspaceflight.com/germany-advocates-competitive-launch-procurement-process/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T202345">2023-10-04 20:23:45 UTC</a></sub>
 * [SRI partners with Scout Space and Leidos for debris-tracking project](https://spacenews.com/sri-partners-with-scout-space-and-leidos-for-debris-tracking-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T195408">2023-10-04 19:54:08 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. Space Force awards Booz Allen $630 million contract for satellite systems support](https://spacenews.com/u-s-space-force-awards-booz-allen-630-million-contract-for-satellite-systems-support/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T120711">2023-10-04 12:07:11 UTC</a></sub>
 * [Comtech wins $48 million U.S. Army contract for satellite modems](https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T082744">2023-10-04 08:27:44 UTC</a></sub>
 * [Axiom Space partners with Prada on Artemis spacesuits](https://spacenews.com/axiom-space-partners-with-prada-on-artemis-spacesuits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T052420">2023-10-04 05:24:20 UTC</a></sub>
-* [First Intuitive Machines lunar lander ready for launch](https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T001831">2023-10-04 00:18:31 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T053233">2023-10-05 05:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T061008">2023-10-05 06:10:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
