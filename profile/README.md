@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starship satellite launches a year away](https://spacenews.com/starship-satellite-launches-a-year-away/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T005932">2023-10-06 00:59:32 UTC</a></sub>
 * [Washington reusable rocket startup Stoke Space raises $100 million](https://www.cnbc.com/2023/10/05/reusable-rocket-startup-stoke-space-raises-100-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T212047">2023-10-05 21:20:47 UTC</a></sub>
 * [India hopes reforms will make it a global space hub](https://spacenews.com/india-hopes-reforms-will-make-it-a-global-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T211700">2023-10-05 21:17:00 UTC</a></sub>
 * [Investing in Space: Trust NASA’s private orbital station development process](https://www.cnbc.com/2023/10/05/investing-in-space-trust-nasas-private-station-development-process.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T203256">2023-10-05 20:32:56 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [LMI gets $98 million contract for space wargaming software](https://spacenews.com/lmi-gets-98-million-contract-for-space-wargaming-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T150854">2023-10-05 15:08:54 UTC</a></sub>
 * [China wants a lunar satellite constellation to support deep space missions](https://spacenews.com/china-wants-a-lunar-satellite-constellation-to-support-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132908">2023-10-05 13:29:08 UTC</a></sub>
 * [PLD Space Prepare for Third Attempt at Maiden Miura 1 Flight](https://europeanspaceflight.com/pld-space-prepare-for-third-attempt-at-maiden-miura-1-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132359">2023-10-05 13:23:59 UTC</a></sub>
-* [Watch Elon Musk give updates about SpaceX from annual space congress](https://www.cnbc.com/2023/10/05/watch-elon-musk-give-updates-about-spacex-from-annual-space-congress.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T131501">2023-10-05 13:15:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T003426">2023-10-06 00:34:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T014212">2023-10-06 01:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
