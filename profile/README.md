@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pale Blue raises $7.5 million to mass produce water vapor thrusters](https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024506">2023-10-06 02:45:06 UTC</a></sub>
+* [Musk: “Decent Chance” of Starship Reaching Space Next Time](https://spacepolicyonline.com/news/musk-decent-chance-of-starship-reaching-space-next-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024222">2023-10-06 02:42:22 UTC</a></sub>
 * [Starship satellite launches a year away](https://spacenews.com/starship-satellite-launches-a-year-away/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T005932">2023-10-06 00:59:32 UTC</a></sub>
 * [Washington reusable rocket startup Stoke Space raises $100 million](https://www.cnbc.com/2023/10/05/reusable-rocket-startup-stoke-space-raises-100-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T212047">2023-10-05 21:20:47 UTC</a></sub>
 * [India hopes reforms will make it a global space hub](https://spacenews.com/india-hopes-reforms-will-make-it-a-global-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T211700">2023-10-05 21:17:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russia blames Luna-25 crash on computer glitch](https://spacenews.com/russia-blames-luna-25-crash-on-computer-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T174845">2023-10-05 17:48:45 UTC</a></sub>
 * [NASA expands purchase of commercial Earth-observation data with latest award](https://spacenews.com/nasa-expands-purchase-of-commercial-data-with-latest-award/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T165727">2023-10-05 16:57:27 UTC</a></sub>
 * [LMI gets $98 million contract for space wargaming software](https://spacenews.com/lmi-gets-98-million-contract-for-space-wargaming-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T150854">2023-10-05 15:08:54 UTC</a></sub>
-* [China wants a lunar satellite constellation to support deep space missions](https://spacenews.com/china-wants-a-lunar-satellite-constellation-to-support-deep-space-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132908">2023-10-05 13:29:08 UTC</a></sub>
-* [PLD Space Prepare for Third Attempt at Maiden Miura 1 Flight](https://europeanspaceflight.com/pld-space-prepare-for-third-attempt-at-maiden-miura-1-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T132359">2023-10-05 13:23:59 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T023248">2023-10-06 02:32:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T030744">2023-10-06 03:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
