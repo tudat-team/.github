@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [How wrong were space SPAC projections?](https://spacenews.com/how-wrong-were-space-spac-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155314">2023-10-06 15:53:14 UTC</a></sub>
+* [Connecting the Dots | Double whammy for space insurance](https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155040">2023-10-06 15:50:40 UTC</a></sub>
+* [When funding is down, shore up your brand](https://spacenews.com/when-funding-is-down-shore-up-your-brand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T154005">2023-10-06 15:40:05 UTC</a></sub>
 * [Stoke Space raises $100 million for reusable rocket development](https://spacenews.com/stoke-space-raises-100-million-for-reusable-rocket-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T112026">2023-10-06 11:20:26 UTC</a></sub>
 * [Rocket Report: NASA to test new RS-25 engines; Russia’s phantom rockets](https://arstechnica.com/space/2023/10/rocket-report-stoke-space-secures-the-bag-japan-eyes-reusable-launcher/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T110021">2023-10-06 11:00:21 UTC</a></sub>
 * [POLARIS Spaceplanes take Delivery of a Pair of Aerospike Engines](https://europeanspaceflight.com/polaris-spaceplanes-take-delivery-of-a-pair-of-aerospike-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T074445">2023-10-06 07:44:45 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pale Blue raises $7.5 million to mass produce water vapor thrusters](https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024506">2023-10-06 02:45:06 UTC</a></sub>
 * [Musk: “Decent Chance” of Starship Reaching Space Next Time](https://spacepolicyonline.com/news/musk-decent-chance-of-starship-reaching-space-next-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024222">2023-10-06 02:42:22 UTC</a></sub>
 * [Starship satellite launches a year away](https://spacenews.com/starship-satellite-launches-a-year-away/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T005932">2023-10-06 00:59:32 UTC</a></sub>
-* [Washington reusable rocket startup Stoke Space raises $100 million](https://www.cnbc.com/2023/10/05/reusable-rocket-startup-stoke-space-raises-100-million.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T212047">2023-10-05 21:20:47 UTC</a></sub>
-* [India hopes reforms will make it a global space hub](https://spacenews.com/india-hopes-reforms-will-make-it-a-global-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T211700">2023-10-05 21:17:00 UTC</a></sub>
-* [Investing in Space: Trust NASA’s private orbital station development process](https://www.cnbc.com/2023/10/05/investing-in-space-trust-nasas-private-station-development-process.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T203256">2023-10-05 20:32:56 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T153222">2023-10-06 15:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T160921">2023-10-06 16:09:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
