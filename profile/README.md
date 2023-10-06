@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [POLARIS Spaceplanes take Delivery of a Pair of Aerospike Engines](https://europeanspaceflight.com/polaris-spaceplanes-take-delivery-of-a-pair-of-aerospike-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T074445">2023-10-06 07:44:45 UTC</a></sub>
+* [India shifted launch of its Chandrayaan-3 moon lander to avoid space objects](https://spacenews.com/india-shifted-launch-of-its-chandrayaan-3-moon-lander-to-avoid-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T073927">2023-10-06 07:39:27 UTC</a></sub>
 * [Pale Blue raises $7.5 million to mass produce water vapor thrusters](https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024506">2023-10-06 02:45:06 UTC</a></sub>
 * [Musk: “Decent Chance” of Starship Reaching Space Next Time](https://spacepolicyonline.com/news/musk-decent-chance-of-starship-reaching-space-next-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024222">2023-10-06 02:42:22 UTC</a></sub>
 * [Starship satellite launches a year away](https://spacenews.com/starship-satellite-launches-a-year-away/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T005932">2023-10-06 00:59:32 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space: Trust NASA’s private orbital station development process](https://www.cnbc.com/2023/10/05/investing-in-space-trust-nasas-private-station-development-process.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T203256">2023-10-05 20:32:56 UTC</a></sub>
 * [Space Force releases final call for bids for national security launch services](https://spacenews.com/space-force-releases-final-call-for-bids-for-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T193200">2023-10-05 19:32:00 UTC</a></sub>
 * [Russia blames Luna-25 crash on computer glitch](https://spacenews.com/russia-blames-luna-25-crash-on-computer-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T174845">2023-10-05 17:48:45 UTC</a></sub>
-* [NASA expands purchase of commercial Earth-observation data with latest award](https://spacenews.com/nasa-expands-purchase-of-commercial-data-with-latest-award/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T165727">2023-10-05 16:57:27 UTC</a></sub>
-* [LMI gets $98 million contract for space wargaming software](https://spacenews.com/lmi-gets-98-million-contract-for-space-wargaming-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T150854">2023-10-05 15:08:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T073220">2023-10-06 07:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T080950">2023-10-06 08:09:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
