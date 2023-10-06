@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Report: Stoke Space secures the bag; Japan eyes reusable launcher](https://arstechnica.com/space/2023/10/rocket-report-stoke-space-secures-the-bag-japan-eyes-reusable-launcher/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T110021">2023-10-06 11:00:21 UTC</a></sub>
 * [POLARIS Spaceplanes take Delivery of a Pair of Aerospike Engines](https://europeanspaceflight.com/polaris-spaceplanes-take-delivery-of-a-pair-of-aerospike-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T074445">2023-10-06 07:44:45 UTC</a></sub>
 * [India shifted launch of its Chandrayaan-3 moon lander to avoid space objects](https://spacenews.com/india-shifted-launch-of-its-chandrayaan-3-moon-lander-to-avoid-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T073927">2023-10-06 07:39:27 UTC</a></sub>
 * [Pale Blue raises $7.5 million to mass produce water vapor thrusters](https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024506">2023-10-06 02:45:06 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [India hopes reforms will make it a global space hub](https://spacenews.com/india-hopes-reforms-will-make-it-a-global-space-hub/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T211700">2023-10-05 21:17:00 UTC</a></sub>
 * [Investing in Space: Trust NASA’s private orbital station development process](https://www.cnbc.com/2023/10/05/investing-in-space-trust-nasas-private-station-development-process.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T203256">2023-10-05 20:32:56 UTC</a></sub>
 * [Space Force releases final call for bids for national security launch services](https://spacenews.com/space-force-releases-final-call-for-bids-for-national-security-launch-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T193200">2023-10-05 19:32:00 UTC</a></sub>
-* [Russia blames Luna-25 crash on computer glitch](https://spacenews.com/russia-blames-luna-25-crash-on-computer-glitch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T174845">2023-10-05 17:48:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T103353">2023-10-06 10:33:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T110623">2023-10-06 11:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
