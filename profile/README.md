@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Amazon set to launch its first Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T170019">2023-10-06 17:00:19 UTC</a></sub>
+* [Amazon launches first internet satellite prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T170019">2023-10-06 17:00:19 UTC</a></sub>
 * [Northrop and Voyager emphasize benefits of commercial space station partnership](https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T162229">2023-10-06 16:22:29 UTC</a></sub>
 * [How wrong were space SPAC projections?](https://spacenews.com/how-wrong-were-space-spac-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155314">2023-10-06 15:53:14 UTC</a></sub>
 * [Connecting the Dots | Double whammy for space insurance](https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155040">2023-10-06 15:50:40 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T183354">2023-10-06 18:33:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T190558">2023-10-06 19:05:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
