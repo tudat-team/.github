@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic performs fourth commercial suborbital flight](https://spacenews.com/virgin-galactic-performs-fourth-commercial-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T192214">2023-10-06 19:22:14 UTC</a></sub>
+* [Slingshot Aerospace harnessing AI to track suspicious satellites](https://spacenews.com/slingshot-aerospace-harnessing-ai-to-track-suspicious-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T191346">2023-10-06 19:13:46 UTC</a></sub>
 * [Amazon launches first internet satellite prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T170019">2023-10-06 17:00:19 UTC</a></sub>
 * [Northrop and Voyager emphasize benefits of commercial space station partnership](https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T162229">2023-10-06 16:22:29 UTC</a></sub>
 * [How wrong were space SPAC projections?](https://spacenews.com/how-wrong-were-space-spac-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155314">2023-10-06 15:53:14 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Stoke Space raises $100 million for reusable rocket development](https://spacenews.com/stoke-space-raises-100-million-for-reusable-rocket-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T112026">2023-10-06 11:20:26 UTC</a></sub>
 * [Rocket Report: NASA to test new RS-25 engines; Russia’s phantom rockets](https://arstechnica.com/space/2023/10/rocket-report-stoke-space-secures-the-bag-japan-eyes-reusable-launcher/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T110021">2023-10-06 11:00:21 UTC</a></sub>
 * [POLARIS Spaceplanes take Delivery of a Pair of Aerospike Engines](https://europeanspaceflight.com/polaris-spaceplanes-take-delivery-of-a-pair-of-aerospike-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T074445">2023-10-06 07:44:45 UTC</a></sub>
-* [India shifted launch of its Chandrayaan-3 moon lander to avoid space objects](https://spacenews.com/india-shifted-launch-of-its-chandrayaan-3-moon-lander-to-avoid-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T073927">2023-10-06 07:39:27 UTC</a></sub>
-* [Pale Blue raises $7.5 million to mass produce water vapor thrusters](https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024506">2023-10-06 02:45:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T193221">2023-10-06 19:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T200752">2023-10-06 20:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
