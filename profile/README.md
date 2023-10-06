@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon set to launch its first Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T170019">2023-10-06 17:00:19 UTC</a></sub>
+* [Northrop and Voyager emphasize benefits of commercial space station partnership](https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T162229">2023-10-06 16:22:29 UTC</a></sub>
 * [How wrong were space SPAC projections?](https://spacenews.com/how-wrong-were-space-spac-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155314">2023-10-06 15:53:14 UTC</a></sub>
 * [Connecting the Dots | Double whammy for space insurance](https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155040">2023-10-06 15:50:40 UTC</a></sub>
 * [When funding is down, shore up your brand](https://spacenews.com/when-funding-is-down-shore-up-your-brand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T154005">2023-10-06 15:40:05 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [POLARIS Spaceplanes take Delivery of a Pair of Aerospike Engines](https://europeanspaceflight.com/polaris-spaceplanes-take-delivery-of-a-pair-of-aerospike-engines/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T074445">2023-10-06 07:44:45 UTC</a></sub>
 * [India shifted launch of its Chandrayaan-3 moon lander to avoid space objects](https://spacenews.com/india-shifted-launch-of-its-chandrayaan-3-moon-lander-to-avoid-space-objects/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T073927">2023-10-06 07:39:27 UTC</a></sub>
 * [Pale Blue raises $7.5 million to mass produce water vapor thrusters](https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024506">2023-10-06 02:45:06 UTC</a></sub>
-* [Musk: “Decent Chance” of Starship Reaching Space Next Time](https://spacepolicyonline.com/news/musk-decent-chance-of-starship-reaching-space-next-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T024222">2023-10-06 02:42:22 UTC</a></sub>
-* [Starship satellite launches a year away](https://spacenews.com/starship-satellite-launches-a-year-away/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T005932">2023-10-06 00:59:32 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T163639">2023-10-06 16:36:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T170648">2023-10-06 17:06:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
