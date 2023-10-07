@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [PLD Space launches first suborbital rocket](https://spacenews.com/pld-space-launches-first-suborbital-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T161740">2023-10-07 16:17:40 UTC</a></sub>
 * [Russia Traces Luna-25 Crash to Onboard Control System Failure](https://spacepolicyonline.com/news/russia-traces-luna-25-crash-to-onboard-control-system-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T220049">2023-10-06 22:00:49 UTC</a></sub>
 * [ULA Atlas 5 launches first Project Kuiper satellites](https://spacenews.com/ula-atlas-5-launches-first-project-kuiper-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T215247">2023-10-06 21:52:47 UTC</a></sub>
 * [Virgin Galactic performs fourth commercial suborbital flight](https://spacenews.com/virgin-galactic-performs-fourth-commercial-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T192214">2023-10-06 19:22:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How wrong were space SPAC projections?](https://spacenews.com/how-wrong-were-space-spac-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155314">2023-10-06 15:53:14 UTC</a></sub>
 * [Connecting the Dots | Double whammy for space insurance](https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155040">2023-10-06 15:50:40 UTC</a></sub>
 * [When funding is down, shore up your brand](https://spacenews.com/when-funding-is-down-shore-up-your-brand/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T154005">2023-10-06 15:40:05 UTC</a></sub>
-* [Stoke Space raises $100 million for reusable rocket development](https://spacenews.com/stoke-space-raises-100-million-for-reusable-rocket-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T112026">2023-10-06 11:20:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T163350">2023-10-07 16:33:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T170602">2023-10-07 17:06:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
