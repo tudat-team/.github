@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [United Launch Alliance Successfully Launches First Mission in Partnership with Amazon](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-first-mission-in-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T153443">2023-10-07 15:34:43 UTC</a></sub>
 * [Cosmic cocktail hour](https://www.planetary.org/the-downlink/cosmic-cocktail-hour) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T143436">2023-10-06 14:34:36 UTC</a></sub>
 * [The future of Mars Sample Return](https://www.planetary.org/articles/the-future-of-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T140436">2023-10-05 14:04:36 UTC</a></sub>
 * [RocketStars: Protoflight // Devon Shafer](https://blog.ulalaunch.com/blog/rocketstars-devon-shafer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T215442">2023-10-04 21:54:42 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Protoflight: Project Kuiper payload placed atop Atlas V](https://blog.ulalaunch.com/blog/protoflight-project-kuiper-payload-placed-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T140820">2023-09-29 14:08:20 UTC</a></sub>
 * [The boy who named Bennu is now an aspiring astronaut](https://www.planetary.org/articles/mike-puzio-bennu-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T183812">2023-09-28 18:38:12 UTC</a></sub>
 * [Why partial eclipses are worth seeing](https://www.planetary.org/articles/why-partial-eclipses-are-worth-seeing) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T140821">2023-09-28 14:08:21 UTC</a></sub>
-* [Avio's stock price takes a dive](https://europeanspaceflight.substack.com/p/avios-stock-price-takes-a-dive) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T143016">2023-09-27 14:30:16 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T153205">2023-10-07 15:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T160803">2023-10-07 16:08:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
