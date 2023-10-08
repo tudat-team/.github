@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom Space To Collaborate With Prada On Artemis Spacesuits](https://tlpnetwork.com/news/2023/10/axiom-space-to-collaborate-with-prada-on-artemis-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T220458">2023-10-08 22:04:58 UTC</a></sub>
 * [RocketLab Opens New Engine Facility In Former Virgin Orbit HQ](https://tlpnetwork.com/news/2023/10/rocketlab-opens-new-engine-facility-in-former-virgin-orbit-hq) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T215220">2023-10-08 21:52:20 UTC</a></sub>
 * [Luna-25 Crash Caused By Computer Glitch](https://tlpnetwork.com/news/2023/10/luna-25-crash-caused-by-computer-glitch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T214054">2023-10-08 21:40:54 UTC</a></sub>
 * [Virgin Galactic Completes Fourth Commercial Mission](https://tlpnetwork.com/news/2023/10/virgin-galactic-completes-fourth-commercial-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T213017">2023-10-08 21:30:17 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Head of ‘disruptive’ space procurement agency hits back at critics: ‘Change is hard’](https://spacenews.com/head-of-disruptive-space-procurement-agency-hits-back-at-critics-change-is-hard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T165201">2023-10-08 16:52:01 UTC</a></sub>
 * [KSC Flyover: SLC-40 crew tower rising, Roberts Road expansion detailed](https://www.nasaspaceflight.com/2023/10/ksc-flyover-october-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T184812">2023-10-07 18:48:12 UTC</a></sub>
 * [PLD Space launches first suborbital rocket](https://spacenews.com/pld-space-launches-first-suborbital-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T161740">2023-10-07 16:17:40 UTC</a></sub>
-* [Russia Traces Luna-25 Crash to Onboard Control System Failure](https://spacepolicyonline.com/news/russia-traces-luna-25-crash-to-onboard-control-system-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T220049">2023-10-06 22:00:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T223212">2023-10-08 22:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T230644">2023-10-08 23:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
