@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Head of ‘disruptive’ space procurement agency hits back at critics: ‘Change is hard’](https://spacenews.com/head-of-disruptive-space-procurement-agency-hits-back-at-critics-change-is-hard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T165201">2023-10-08 16:52:01 UTC</a></sub>
 * [KSC Flyover: SLC-40 crew tower rising, Roberts Road expansion detailed](https://www.nasaspaceflight.com/2023/10/ksc-flyover-october-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T184812">2023-10-07 18:48:12 UTC</a></sub>
 * [PLD Space launches first suborbital rocket](https://spacenews.com/pld-space-launches-first-suborbital-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T161740">2023-10-07 16:17:40 UTC</a></sub>
 * [Russia Traces Luna-25 Crash to Onboard Control System Failure](https://spacepolicyonline.com/news/russia-traces-luna-25-crash-to-onboard-control-system-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T220049">2023-10-06 22:00:49 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Amazon launches first internet satellite prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T170019">2023-10-06 17:00:19 UTC</a></sub>
 * [Northrop and Voyager emphasize benefits of commercial space station partnership](https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T162229">2023-10-06 16:22:29 UTC</a></sub>
 * [How wrong were space SPAC projections?](https://spacenews.com/how-wrong-were-space-spac-projections/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155314">2023-10-06 15:53:14 UTC</a></sub>
-* [Connecting the Dots | Double whammy for space insurance](https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T155040">2023-10-06 15:50:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T163324">2023-10-08 16:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T170552">2023-10-08 17:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
