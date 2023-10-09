@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Amazon launches first Kuiper satellites](https://tlpnetwork.com/news/2023/10/amazon-launches-first-kuiper-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T142337">2023-10-09 14:23:37 UTC</a></sub>
+* [Arianespace Launch Europe’s Final Mission of 2023 Aboard Vega](https://europeanspaceflight.com/arianespace-launch-europes-final-mission-of-2023-aboard-vega/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T141150">2023-10-09 14:11:50 UTC</a></sub>
 * [Vega launches a dozen smallsats](https://spacenews.com/vega-launches-a-dozen-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T105408">2023-10-09 10:54:08 UTC</a></sub>
 * [PLD Space Successfully Debuts Suborbital Miura 1 Rocket](https://europeanspaceflight.com/pld-space-successfully-debuts-suborbital-miura-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T072119">2023-10-09 07:21:19 UTC</a></sub>
 * [Axiom Space To Collaborate With Prada On Artemis Spacesuits](https://tlpnetwork.com/news/2023/10/axiom-space-to-collaborate-with-prada-on-artemis-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T220458">2023-10-08 22:04:58 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic Completes Fourth Commercial Mission](https://tlpnetwork.com/news/2023/10/virgin-galactic-completes-fourth-commercial-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T213017">2023-10-08 21:30:17 UTC</a></sub>
 * [Azerbaijan signs up to China’s international moon base project](https://spacenews.com/azerbaijan-signs-up-to-chinas-international-moon-base-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T211435">2023-10-08 21:14:35 UTC</a></sub>
 * [SOFIA provides insights into the metallic characteristics of asteroid Psyche](https://www.nasaspaceflight.com/2023/10/psyche-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T200219">2023-10-08 20:02:19 UTC</a></sub>
-* [What’s Happening in Space Policy October 8-14, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-8-14-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T174914">2023-10-08 17:49:14 UTC</a></sub>
-* [Head of ‘disruptive’ space procurement agency hits back at critics: ‘Change is hard’](https://spacenews.com/head-of-disruptive-space-procurement-agency-hits-back-at-critics-change-is-hard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T165201">2023-10-08 16:52:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T143357">2023-10-09 14:33:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T150755">2023-10-09 15:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
