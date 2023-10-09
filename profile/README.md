@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [New head of smallsat supplier Blue Canyon sets sights on defense market growth](https://spacenews.com/new-head-of-smallsat-supplier-blue-canyon-sets-sights-on-defense-market-growth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T212609">2023-10-09 21:26:09 UTC</a></sub>
 * [Spanish company’s success comes at a critical time for Europe’s launch industry](https://arstechnica.com/space/2023/10/spanish-companys-success-comes-at-a-critical-time-for-europes-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T154956">2023-10-09 15:49:56 UTC</a></sub>
 * [SpaceX reschedules Starlink launch for 22 more satellites](https://www.teslarati.com/spacex-reschedules-starlink-launch-22-more-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T153438">2023-10-09 15:34:38 UTC</a></sub>
 * [Amazon launches first Kuiper satellites](https://tlpnetwork.com/news/2023/10/amazon-launches-first-kuiper-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T142337">2023-10-09 14:23:37 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Axiom Space To Collaborate With Prada On Artemis Spacesuits](https://tlpnetwork.com/news/2023/10/axiom-space-to-collaborate-with-prada-on-artemis-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T220458">2023-10-08 22:04:58 UTC</a></sub>
 * [RocketLab Opens New Engine Facility In Former Virgin Orbit HQ](https://tlpnetwork.com/news/2023/10/rocketlab-opens-new-engine-facility-in-former-virgin-orbit-hq) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T215220">2023-10-08 21:52:20 UTC</a></sub>
 * [Luna-25 Crash Caused By Computer Glitch](https://tlpnetwork.com/news/2023/10/luna-25-crash-caused-by-computer-glitch) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T214054">2023-10-08 21:40:54 UTC</a></sub>
-* [Virgin Galactic Completes Fourth Commercial Mission](https://tlpnetwork.com/news/2023/10/virgin-galactic-completes-fourth-commercial-mission) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T213017">2023-10-08 21:30:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T213210">2023-10-09 21:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T220647">2023-10-09 22:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
