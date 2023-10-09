@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Vega launches a dozen smallsats](https://spacenews.com/vega-launches-a-dozen-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T105408">2023-10-09 10:54:08 UTC</a></sub>
 * [PLD Space Successfully Debuts Suborbital Miura 1 Rocket](https://europeanspaceflight.com/pld-space-successfully-debuts-suborbital-miura-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T072119">2023-10-09 07:21:19 UTC</a></sub>
 * [Axiom Space To Collaborate With Prada On Artemis Spacesuits](https://tlpnetwork.com/news/2023/10/axiom-space-to-collaborate-with-prada-on-artemis-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T220458">2023-10-08 22:04:58 UTC</a></sub>
 * [RocketLab Opens New Engine Facility In Former Virgin Orbit HQ](https://tlpnetwork.com/news/2023/10/rocketlab-opens-new-engine-facility-in-former-virgin-orbit-hq) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T215220">2023-10-08 21:52:20 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SOFIA provides insights into the metallic characteristics of asteroid Psyche](https://www.nasaspaceflight.com/2023/10/psyche-sofia/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T200219">2023-10-08 20:02:19 UTC</a></sub>
 * [What’s Happening in Space Policy October 8-14, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-8-14-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T174914">2023-10-08 17:49:14 UTC</a></sub>
 * [Head of ‘disruptive’ space procurement agency hits back at critics: ‘Change is hard’](https://spacenews.com/head-of-disruptive-space-procurement-agency-hits-back-at-critics-change-is-hard/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T165201">2023-10-08 16:52:01 UTC</a></sub>
-* [KSC Flyover: SLC-40 crew tower rising, Roberts Road expansion detailed](https://www.nasaspaceflight.com/2023/10/ksc-flyover-october-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T184812">2023-10-07 18:48:12 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T103559">2023-10-09 10:35:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T110643">2023-10-09 11:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
