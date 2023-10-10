@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Russian Space Station Module Springs a Coolant Leak](https://spacepolicyonline.com/news/russian-space-station-module-springs-a-coolant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T234619">2023-10-09 23:46:19 UTC</a></sub>
+* [SpaceX slams FAA report on falling space debris danger](https://spacenews.com/spacex-slams-faa-report-on-falling-space-debris-danger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T233721">2023-10-09 23:37:21 UTC</a></sub>
 * [Space insurers brace for more claims after propulsion trouble on four GEO satellites](https://spacenews.com/space-insurers-brace-for-more-claims-after-propulsion-trouble-on-four-geo-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T225827">2023-10-09 22:58:27 UTC</a></sub>
 * [New head of smallsat supplier Blue Canyon sets sights on defense market growth](https://spacenews.com/new-head-of-smallsat-supplier-blue-canyon-sets-sights-on-defense-market-growth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T212609">2023-10-09 21:26:09 UTC</a></sub>
 * [Spanish company’s success comes at a critical time for Europe’s launch industry](https://arstechnica.com/space/2023/10/spanish-companys-success-comes-at-a-critical-time-for-europes-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T154956">2023-10-09 15:49:56 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Arianespace Launch Europe’s Final Mission of 2023 Aboard Vega](https://europeanspaceflight.com/arianespace-launch-europes-final-mission-of-2023-aboard-vega/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T141150">2023-10-09 14:11:50 UTC</a></sub>
 * [Vega launches a dozen smallsats](https://spacenews.com/vega-launches-a-dozen-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T105408">2023-10-09 10:54:08 UTC</a></sub>
 * [PLD Space Successfully Debuts Suborbital Miura 1 Rocket](https://europeanspaceflight.com/pld-space-successfully-debuts-suborbital-miura-1-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T072119">2023-10-09 07:21:19 UTC</a></sub>
-* [Axiom Space To Collaborate With Prada On Artemis Spacesuits](https://tlpnetwork.com/news/2023/10/axiom-space-to-collaborate-with-prada-on-artemis-spacesuits) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T220458">2023-10-08 22:04:58 UTC</a></sub>
-* [RocketLab Opens New Engine Facility In Former Virgin Orbit HQ](https://tlpnetwork.com/news/2023/10/rocketlab-opens-new-engine-facility-in-former-virgin-orbit-hq) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T215220">2023-10-08 21:52:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T233222">2023-10-09 23:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T003425">2023-10-10 00:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
