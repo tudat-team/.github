@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA Sign Agreement with Axiom Space](https://europeanspaceflight.com/esa-sign-agreement-with-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T135619">2023-10-10 13:56:19 UTC</a></sub>
+* [For the third time in a year, Russian hardware on the space station is leaking](https://arstechnica.com/space/2023/10/for-the-third-time-in-a-year-russian-hardware-on-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T135115">2023-10-10 13:51:15 UTC</a></sub>
 * [Russian ISS module experiences coolant leak](https://spacenews.com/russian-iss-module-experiences-coolant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T030457">2023-10-10 03:04:57 UTC</a></sub>
 * [Russian Space Station Module Springs a Coolant Leak](https://spacepolicyonline.com/news/russian-space-station-module-springs-a-coolant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T234619">2023-10-09 23:46:19 UTC</a></sub>
 * [SpaceX slams FAA report on falling space debris danger](https://spacenews.com/spacex-slams-faa-report-on-falling-space-debris-danger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T233721">2023-10-09 23:37:21 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Spanish company’s success comes at a critical time for Europe’s launch industry](https://arstechnica.com/space/2023/10/spanish-companys-success-comes-at-a-critical-time-for-europes-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T154956">2023-10-09 15:49:56 UTC</a></sub>
 * [SpaceX reschedules Starlink launch for 22 more satellites](https://www.teslarati.com/spacex-reschedules-starlink-launch-22-more-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T153438">2023-10-09 15:34:38 UTC</a></sub>
 * [Amazon launches first Kuiper satellites](https://tlpnetwork.com/news/2023/10/amazon-launches-first-kuiper-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T142337">2023-10-09 14:23:37 UTC</a></sub>
-* [Arianespace Launch Europe’s Final Mission of 2023 Aboard Vega](https://europeanspaceflight.com/arianespace-launch-europes-final-mission-of-2023-aboard-vega/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T141150">2023-10-09 14:11:50 UTC</a></sub>
-* [Vega launches a dozen smallsats](https://spacenews.com/vega-launches-a-dozen-smallsats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T105408">2023-10-09 10:54:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How do humans try to communicate with aliens?](https://www.planetary.org/articles/how-do-humans-try-to-communicate-with-aliens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T140435">2023-10-10 14:04:35 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 2-8, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-2-8-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T122555">2023-10-09 12:25:55 UTC</a></sub>
 * [United Launch Alliance Successfully Launches First Mission in Partnership with Amazon](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-first-mission-in-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T153443">2023-10-07 15:34:43 UTC</a></sub>
 * [Cosmic cocktail hour](https://www.planetary.org/the-downlink/cosmic-cocktail-hour) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T143436">2023-10-06 14:34:36 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The Psyche launch and its journey to a metal world: What to expect](https://www.planetary.org/articles/psyche-launch-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T140814">2023-10-02 14:08:14 UTC</a></sub>
 * [With an eye to the future](https://www.planetary.org/the-downlink/with-an-eye-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T143815">2023-09-29 14:38:15 UTC</a></sub>
 * [Protoflight: Project Kuiper payload placed atop Atlas V](https://blog.ulalaunch.com/blog/protoflight-project-kuiper-payload-placed-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T140820">2023-09-29 14:08:20 UTC</a></sub>
-* [The boy who named Bennu is now an aspiring astronaut](https://www.planetary.org/articles/mike-puzio-bennu-interview) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T183812">2023-09-28 18:38:12 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T133226">2023-10-10 13:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T140730">2023-10-10 14:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
