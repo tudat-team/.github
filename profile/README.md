@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Evolution Space to develop solid rocket motors at NASA Stennis](https://spacenews.com/evolution-space-to-develop-solid-rocket-motors-at-nasa-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T145925">2023-10-10 14:59:25 UTC</a></sub>
 * [ESA Sign Agreement with Axiom Space](https://europeanspaceflight.com/esa-sign-agreement-with-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T135619">2023-10-10 13:56:19 UTC</a></sub>
 * [For the third time in a year, Russian hardware on the space station is leaking](https://arstechnica.com/space/2023/10/for-the-third-time-in-a-year-russian-hardware-on-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T135115">2023-10-10 13:51:15 UTC</a></sub>
 * [Russian ISS module experiences coolant leak](https://spacenews.com/russian-iss-module-experiences-coolant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T030457">2023-10-10 03:04:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New head of smallsat supplier Blue Canyon sets sights on defense market growth](https://spacenews.com/new-head-of-smallsat-supplier-blue-canyon-sets-sights-on-defense-market-growth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T212609">2023-10-09 21:26:09 UTC</a></sub>
 * [Spanish company’s success comes at a critical time for Europe’s launch industry](https://arstechnica.com/space/2023/10/spanish-companys-success-comes-at-a-critical-time-for-europes-launch-industry/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T154956">2023-10-09 15:49:56 UTC</a></sub>
 * [SpaceX reschedules Starlink launch for 22 more satellites](https://www.teslarati.com/spacex-reschedules-starlink-launch-22-more-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T153438">2023-10-09 15:34:38 UTC</a></sub>
-* [Amazon launches first Kuiper satellites](https://tlpnetwork.com/news/2023/10/amazon-launches-first-kuiper-satellites) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T142337">2023-10-09 14:23:37 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T143309">2023-10-10 14:33:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T150754">2023-10-10 15:07:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
