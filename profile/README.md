@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. to pursue stronger collaboration with allies in military space programs](https://spacenews.com/u-s-to-pursue-stronger-collaboration-with-allies-in-military-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T205228">2023-10-11 20:52:28 UTC</a></sub>
+* [NASA finds water and organics in asteroid sample—possible clues to origin of life](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T204217">2023-10-11 20:42:17 UTC</a></sub>
 * [Debris-removal contenders hit design milestone for double-satellite mission](https://spacenews.com/debris-removal-contenders-hit-design-milestone-for-double-satellite-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T194207">2023-10-11 19:42:07 UTC</a></sub>
 * [CNES Selects HEMERIA to Produce 90 Research Balloons](https://europeanspaceflight.com/cnes-selects-hemeria-to-produce-90-research-balloons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T142116">2023-10-11 14:21:16 UTC</a></sub>
 * [Tech innovations help Space Force guardians prepare for the battlefield above](https://spacenews.com/tech-innovations-help-space-force-guardians-prepare-for-the-battlefield-above/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140000">2023-10-11 14:00:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups](https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T204331">2023-10-10 20:43:31 UTC</a></sub>
 * [DoD-funded space project advances non-GPS navigation](https://spacenews.com/dod-funded-space-project-advances-non-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T190908">2023-10-10 19:09:08 UTC</a></sub>
 * [SLS working to overcome supply chain, weld issues to complete Artemis II Core Stage this year](https://www.nasaspaceflight.com/2023/10/aii-core-weld-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T183509">2023-10-10 18:35:09 UTC</a></sub>
-* [More eyes in the sky: NRO building new satellites to deliver ‘10 times more signals and images’](https://spacenews.com/more-eyes-in-the-sky-nro-building-new-satellites-to-deliver-10-times-more-signals-and-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T163014">2023-10-10 16:30:14 UTC</a></sub>
-* [Evolution Space to develop solid rocket motors at NASA Stennis](https://spacenews.com/evolution-space-to-develop-solid-rocket-motors-at-nasa-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T145925">2023-10-10 14:59:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T203248">2023-10-11 20:32:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T210634">2023-10-11 21:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
