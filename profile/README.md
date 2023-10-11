@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic resumes flights of Xodiac suborbital vehicle](https://spacenews.com/astrobotic-resumes-flights-of-xodiac-suborbital-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T235114">2023-10-10 23:51:14 UTC</a></sub>
 * [ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups](https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T204331">2023-10-10 20:43:31 UTC</a></sub>
 * [DoD-funded space project advances non-GPS navigation](https://spacenews.com/dod-funded-space-project-advances-non-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T190908">2023-10-10 19:09:08 UTC</a></sub>
 * [SLS working to overcome supply chain, weld issues to complete Artemis II Core Stage this year](https://www.nasaspaceflight.com/2023/10/aii-core-weld-issues/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T183509">2023-10-10 18:35:09 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [For the third time in a year, Russian hardware on the space station is leaking](https://arstechnica.com/space/2023/10/for-the-third-time-in-a-year-russian-hardware-on-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T135115">2023-10-10 13:51:15 UTC</a></sub>
 * [Russian ISS module experiences coolant leak](https://spacenews.com/russian-iss-module-experiences-coolant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T030457">2023-10-10 03:04:57 UTC</a></sub>
 * [Russian Space Station Module Springs a Coolant Leak](https://spacepolicyonline.com/news/russian-space-station-module-springs-a-coolant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T234619">2023-10-09 23:46:19 UTC</a></sub>
-* [SpaceX slams FAA report on falling space debris danger](https://spacenews.com/spacex-slams-faa-report-on-falling-space-debris-danger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T233721">2023-10-09 23:37:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T233218">2023-10-10 23:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T003423">2023-10-11 00:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
