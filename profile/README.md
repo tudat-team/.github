@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CNES Selects HEMERIA to Produce 90 Research Balloons](https://europeanspaceflight.com/cnes-selects-hemeria-to-produce-90-research-balloons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T142116">2023-10-11 14:21:16 UTC</a></sub>
+* [Tech innovations help Space Force guardians prepare for the battlefield above](https://spacenews.com/tech-innovations-help-space-force-guardians-prepare-for-the-battlefield-above/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140000">2023-10-11 14:00:00 UTC</a></sub>
 * [Proteus Space raises seed funding for AI-assisted smallsat development](https://spacenews.com/proteus-space-raises-seed-funding-for-ai-assisted-smallsat-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T100854">2023-10-11 10:08:54 UTC</a></sub>
 * [Astrobotic resumes flights of Xodiac suborbital vehicle](https://spacenews.com/astrobotic-resumes-flights-of-xodiac-suborbital-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T235114">2023-10-10 23:51:14 UTC</a></sub>
 * [ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups](https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T204331">2023-10-10 20:43:31 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [More eyes in the sky: NRO building new satellites to deliver ‘10 times more signals and images’](https://spacenews.com/more-eyes-in-the-sky-nro-building-new-satellites-to-deliver-10-times-more-signals-and-images/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T163014">2023-10-10 16:30:14 UTC</a></sub>
 * [Evolution Space to develop solid rocket motors at NASA Stennis](https://spacenews.com/evolution-space-to-develop-solid-rocket-motors-at-nasa-stennis/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T145925">2023-10-10 14:59:25 UTC</a></sub>
 * [ESA Sign Agreement with Axiom Space](https://europeanspaceflight.com/esa-sign-agreement-with-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T135619">2023-10-10 13:56:19 UTC</a></sub>
-* [For the third time in a year, Russian hardware on the space station is leaking](https://arstechnica.com/space/2023/10/for-the-third-time-in-a-year-russian-hardware-on-the-space-station-is-leaking/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T135115">2023-10-10 13:51:15 UTC</a></sub>
-* [Russian ISS module experiences coolant leak](https://spacenews.com/russian-iss-module-experiences-coolant-leak/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T030457">2023-10-10 03:04:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [How astronomers search for life on exoplanets](https://www.planetary.org/articles/how-astronomers-search-for-life-on-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T145519">2023-10-11 14:55:19 UTC</a></sub>
+* [ArianeGroup Wants €210M Per Year More to Operate Ariane 6](https://europeanspaceflight.substack.com/p/arianegroup-wants-210m-per-year-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140136">2023-10-11 14:01:36 UTC</a></sub>
 * [How do humans try to communicate with aliens?](https://www.planetary.org/articles/how-do-humans-try-to-communicate-with-aliens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T140435">2023-10-10 14:04:35 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 2-8, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-2-8-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T122555">2023-10-09 12:25:55 UTC</a></sub>
 * [United Launch Alliance Successfully Launches First Mission in Partnership with Amazon](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-first-mission-in-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T153443">2023-10-07 15:34:43 UTC</a></sub>
@@ -596,8 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RocketStars: Protoflight // Devon Shafer](https://blog.ulalaunch.com/blog/rocketstars-devon-shafer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T215442">2023-10-04 21:54:42 UTC</a></sub>
 * [ESA short 16,572kg in launch capacity](https://europeanspaceflight.substack.com/p/esa-short-16572kg-in-launch-capacity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T142524">2023-10-04 14:25:24 UTC</a></sub>
 * [The Psyche launch and its journey to a metal world: What to expect](https://www.planetary.org/articles/psyche-launch-what-to-expect) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T140814">2023-10-02 14:08:14 UTC</a></sub>
-* [With an eye to the future](https://www.planetary.org/the-downlink/with-an-eye-to-the-future) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T143815">2023-09-29 14:38:15 UTC</a></sub>
-* [Protoflight: Project Kuiper payload placed atop Atlas V](https://blog.ulalaunch.com/blog/protoflight-project-kuiper-payload-placed-atop-atlas-v) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T140820">2023-09-29 14:08:20 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T133236">2023-10-11 13:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T150644">2023-10-11 15:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
