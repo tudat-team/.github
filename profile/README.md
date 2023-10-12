@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Avio Target Up To 6 Vega C Flights in 2025](https://europeanspaceflight.com/avio-target-up-to-6-vega-c-flights-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T135611">2023-10-12 13:56:11 UTC</a></sub>
+* [Viasat has enough throughput on ViaSat-3 Americas to avoid replacement](https://spacenews.com/viasat-has-enough-throughput-on-viasat-3-americas-to-avoid-replacement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T134725">2023-10-12 13:47:25 UTC</a></sub>
 * [Viasat won’t replace damaged Americas satellite, moves up financial targets](https://www.cnbc.com/2023/10/12/viasat-wont-replace-damaged-americas-satellite-improves-financial-targets.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T130109">2023-10-12 13:01:09 UTC</a></sub>
 * [Scientists excited by first look at OSIRIS-REx asteroid samples](https://spacenews.com/scientists-excited-by-first-look-at-osiris-rex-asteroid-samples/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T101013">2023-10-12 10:10:13 UTC</a></sub>
 * [Second SpaceForest Perun Flight Aborted After Engine Failure](https://europeanspaceflight.com/second-spaceforest-perun-flight-aborted-after-engine-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T072602">2023-10-12 07:26:02 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Italy’s Argotec to design, build, test and operate satellites in Maryland](https://spacenews.com/italys-argotec-to-design-build-test-and-operate-satellites-in-maryland/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T221500">2023-10-11 22:15:00 UTC</a></sub>
 * [U.S. to pursue stronger collaboration with allies in military space programs](https://spacenews.com/u-s-to-pursue-stronger-collaboration-with-allies-in-military-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T205228">2023-10-11 20:52:28 UTC</a></sub>
 * [NASA finds water and organics in asteroid sample—possible clues to origin of life](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T204217">2023-10-11 20:42:17 UTC</a></sub>
-* [Debris-removal contenders hit design milestone for double-satellite mission](https://spacenews.com/debris-removal-contenders-hit-design-milestone-for-double-satellite-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T194207">2023-10-11 19:42:07 UTC</a></sub>
-* [CNES Selects HEMERIA to Produce 90 Research Balloons](https://europeanspaceflight.com/cnes-selects-hemeria-to-produce-90-research-balloons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T142116">2023-10-11 14:21:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T133502">2023-10-12 13:35:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T140729">2023-10-12 14:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
