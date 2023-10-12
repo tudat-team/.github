@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: A reality check on SPAC frenzy revenue projections](https://www.cnbc.com/2023/10/12/investing-in-space-a-reality-check-on-spac-frenzy-revenue-projections.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T175100">2023-10-12 17:51:00 UTC</a></sub>
+* [Startup GuardianSat gets research grant for satellite self-defense technology](https://spacenews.com/startup-guardiansat-gets-research-grant-for-satellite-self-defense-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T172048">2023-10-12 17:20:48 UTC</a></sub>
 * [Commercial Interruption: Space wargame exposes risk of dangerous escalation](https://spacenews.com/commercial-interruption-space-wargame-exposes-risk-of-dangerous-escalation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T164152">2023-10-12 16:41:52 UTC</a></sub>
 * [SpaceX Starlink lands Maersk in new deal for Ocean fleet](https://www.teslarati.com/spacex-starlink-maersk-deal-ocean-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T160443">2023-10-12 16:04:43 UTC</a></sub>
 * [Oops—It looks like the Ariane 6 rocket may not offer Europe any launch savings](https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T152659">2023-10-12 15:26:59 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Viasat won’t replace damaged Americas satellite, moves up financial targets](https://www.cnbc.com/2023/10/12/viasat-wont-replace-damaged-americas-satellite-improves-financial-targets.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T130109">2023-10-12 13:01:09 UTC</a></sub>
 * [Scientists excited by first look at OSIRIS-REx asteroid samples](https://spacenews.com/scientists-excited-by-first-look-at-osiris-rex-asteroid-samples/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T101013">2023-10-12 10:10:13 UTC</a></sub>
 * [Second SpaceForest Perun Flight Aborted After Engine Failure](https://europeanspaceflight.com/second-spaceforest-perun-flight-aborted-after-engine-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T072602">2023-10-12 07:26:02 UTC</a></sub>
-* [Intelsat signs multi-launch contract with Relativity Space](https://spacenews.com/intelsat-signs-multi-launch-contract-with-relativity-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T005446">2023-10-12 00:54:46 UTC</a></sub>
-* [NASA Begins Analysis of Samples from One Asteroid as it Readies Launch to Another](https://spacepolicyonline.com/news/nasa-begins-analysis-of-samples-from-one-asteroid-as-it-readies-launch-to-another/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T000238">2023-10-12 00:02:38 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T173217">2023-10-12 17:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T180947">2023-10-12 18:09:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
