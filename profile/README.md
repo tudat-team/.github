@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force challenged to define commercial services](https://spacenews.com/space-force-challenged-to-define-commercial-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T190000">2023-10-12 19:00:00 UTC</a></sub>
+* [Shipping giant Maersk to add SpaceX’s Starlink internet to over 330 ships by early next year](https://www.cnbc.com/2023/10/12/maersk-signs-with-spacex-to-add-starlink-internet-to-over-330-ships.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T184711">2023-10-12 18:47:11 UTC</a></sub>
 * [Investing in Space: A reality check on SPAC frenzy revenue projections](https://www.cnbc.com/2023/10/12/investing-in-space-a-reality-check-on-spac-frenzy-revenue-projections.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T175100">2023-10-12 17:51:00 UTC</a></sub>
 * [Startup GuardianSat gets research grant for satellite self-defense technology](https://spacenews.com/startup-guardiansat-gets-research-grant-for-satellite-self-defense-technology/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T172048">2023-10-12 17:20:48 UTC</a></sub>
 * [Commercial Interruption: Space wargame exposes risk of dangerous escalation](https://spacenews.com/commercial-interruption-space-wargame-exposes-risk-of-dangerous-escalation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T164152">2023-10-12 16:41:52 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Avio Target Up To 6 Vega C Flights in 2025](https://europeanspaceflight.com/avio-target-up-to-6-vega-c-flights-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T135611">2023-10-12 13:56:11 UTC</a></sub>
 * [Viasat has enough throughput on ViaSat-3 Americas to avoid replacement](https://spacenews.com/viasat-has-enough-throughput-on-viasat-3-americas-to-avoid-replacement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T134725">2023-10-12 13:47:25 UTC</a></sub>
 * [Viasat won’t replace damaged Americas satellite, moves up financial targets](https://www.cnbc.com/2023/10/12/viasat-wont-replace-damaged-americas-satellite-improves-financial-targets.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T130109">2023-10-12 13:01:09 UTC</a></sub>
-* [Scientists excited by first look at OSIRIS-REx asteroid samples](https://spacenews.com/scientists-excited-by-first-look-at-osiris-rex-asteroid-samples/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T101013">2023-10-12 10:10:13 UTC</a></sub>
-* [Second SpaceForest Perun Flight Aborted After Engine Failure](https://europeanspaceflight.com/second-spaceforest-perun-flight-aborted-after-engine-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T072602">2023-10-12 07:26:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T183416">2023-10-12 18:34:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T190611">2023-10-12 19:06:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
