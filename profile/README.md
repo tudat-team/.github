@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA Begins Analysis of Samples from One Asteroid as it Readies Launch to Another](https://spacepolicyonline.com/news/nasa-begins-analysis-of-samples-from-one-asteroid-as-it-readies-launch-to-another/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T000238">2023-10-12 00:02:38 UTC</a></sub>
 * [Italy’s Argotec to design, build, test and operate satellites in Maryland](https://spacenews.com/italys-argotec-to-design-build-test-and-operate-satellites-in-maryland/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T221500">2023-10-11 22:15:00 UTC</a></sub>
 * [U.S. to pursue stronger collaboration with allies in military space programs](https://spacenews.com/u-s-to-pursue-stronger-collaboration-with-allies-in-military-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T205228">2023-10-11 20:52:28 UTC</a></sub>
 * [NASA finds water and organics in asteroid sample—possible clues to origin of life](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T204217">2023-10-11 20:42:17 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Proteus Space raises seed funding for AI-assisted smallsat development](https://spacenews.com/proteus-space-raises-seed-funding-for-ai-assisted-smallsat-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T100854">2023-10-11 10:08:54 UTC</a></sub>
 * [Astrobotic resumes flights of Xodiac suborbital vehicle](https://spacenews.com/astrobotic-resumes-flights-of-xodiac-suborbital-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T235114">2023-10-10 23:51:14 UTC</a></sub>
 * [ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups](https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T204331">2023-10-10 20:43:31 UTC</a></sub>
-* [DoD-funded space project advances non-GPS navigation](https://spacenews.com/dod-funded-space-project-advances-non-gps-navigation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T190908">2023-10-10 19:09:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T233217">2023-10-11 23:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T003237">2023-10-12 00:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
