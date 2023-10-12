@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Scientists excited by first look at OSIRIS-REx asteroid samples](https://spacenews.com/scientists-excited-by-first-look-at-osiris-rex-asteroid-samples/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T101013">2023-10-12 10:10:13 UTC</a></sub>
 * [Second SpaceForest Perun Flight Aborted After Engine Failure](https://europeanspaceflight.com/second-spaceforest-perun-flight-aborted-after-engine-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T072602">2023-10-12 07:26:02 UTC</a></sub>
 * [Intelsat signs multi-launch contract with Relativity Space](https://spacenews.com/intelsat-signs-multi-launch-contract-with-relativity-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T005446">2023-10-12 00:54:46 UTC</a></sub>
 * [NASA Begins Analysis of Samples from One Asteroid as it Readies Launch to Another](https://spacepolicyonline.com/news/nasa-begins-analysis-of-samples-from-one-asteroid-as-it-readies-launch-to-another/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T000238">2023-10-12 00:02:38 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Debris-removal contenders hit design milestone for double-satellite mission](https://spacenews.com/debris-removal-contenders-hit-design-milestone-for-double-satellite-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T194207">2023-10-11 19:42:07 UTC</a></sub>
 * [CNES Selects HEMERIA to Produce 90 Research Balloons](https://europeanspaceflight.com/cnes-selects-hemeria-to-produce-90-research-balloons/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T142116">2023-10-11 14:21:16 UTC</a></sub>
 * [Tech innovations help Space Force guardians prepare for the battlefield above](https://spacenews.com/tech-innovations-help-space-force-guardians-prepare-for-the-battlefield-above/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140000">2023-10-11 14:00:00 UTC</a></sub>
-* [Proteus Space raises seed funding for AI-assisted smallsat development](https://spacenews.com/proteus-space-raises-seed-funding-for-ai-assisted-smallsat-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T100854">2023-10-11 10:08:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T103408">2023-10-12 10:34:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T110625">2023-10-12 11:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
