@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Starlink lands Maersk in new deal for Ocean fleet](https://www.teslarati.com/spacex-starlink-maersk-deal-ocean-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T160443">2023-10-12 16:04:43 UTC</a></sub>
+* [Oops—It looks like the Ariane 6 rocket may not offer Europe any launch savings](https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T152659">2023-10-12 15:26:59 UTC</a></sub>
 * [Avio Target Up To 6 Vega C Flights in 2025](https://europeanspaceflight.com/avio-target-up-to-6-vega-c-flights-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T135611">2023-10-12 13:56:11 UTC</a></sub>
 * [Viasat has enough throughput on ViaSat-3 Americas to avoid replacement](https://spacenews.com/viasat-has-enough-throughput-on-viasat-3-americas-to-avoid-replacement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T134725">2023-10-12 13:47:25 UTC</a></sub>
 * [Viasat won’t replace damaged Americas satellite, moves up financial targets](https://www.cnbc.com/2023/10/12/viasat-wont-replace-damaged-americas-satellite-improves-financial-targets.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T130109">2023-10-12 13:01:09 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Intelsat signs multi-launch contract with Relativity Space](https://spacenews.com/intelsat-signs-multi-launch-contract-with-relativity-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T005446">2023-10-12 00:54:46 UTC</a></sub>
 * [NASA Begins Analysis of Samples from One Asteroid as it Readies Launch to Another](https://spacepolicyonline.com/news/nasa-begins-analysis-of-samples-from-one-asteroid-as-it-readies-launch-to-another/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T000238">2023-10-12 00:02:38 UTC</a></sub>
 * [Italy’s Argotec to design, build, test and operate satellites in Maryland](https://spacenews.com/italys-argotec-to-design-build-test-and-operate-satellites-in-maryland/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T221500">2023-10-11 22:15:00 UTC</a></sub>
-* [U.S. to pursue stronger collaboration with allies in military space programs](https://spacenews.com/u-s-to-pursue-stronger-collaboration-with-allies-in-military-space-programs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T205228">2023-10-11 20:52:28 UTC</a></sub>
-* [NASA finds water and organics in asteroid sample—possible clues to origin of life](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T204217">2023-10-11 20:42:17 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T153239">2023-10-12 15:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T160940">2023-10-12 16:09:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
