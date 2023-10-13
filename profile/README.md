@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Psyche on Its Way to Metal-Rich Asteroid](https://spacepolicyonline.com/news/psyche-on-its-way-to-metal-rich-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T174328">2023-10-13 17:43:28 UTC</a></sub>
+* [SpaceX Falcon Heavy aces NASA’s Psyche spacecraft launch](https://www.teslarati.com/spacex-falcon-heavy-aces-nasa-s-psyche-spacecraft-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T173436">2023-10-13 17:34:36 UTC</a></sub>
+* [The Vikram has landed: Factors in India’s space ascendancy ](https://spacenews.com/the-vikram-has-landed-factors-in-indias-space-ascendancy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T171207">2023-10-13 17:12:07 UTC</a></sub>
 * [The Accidental Monopoly](https://spacenews.com/the-accidental-monopoly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T160913">2023-10-13 16:09:13 UTC</a></sub>
 * [NASA launches Psyche mission to metal world](https://spacenews.com/nasa-launches-psyche-mission-to-metal-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T154447">2023-10-13 15:44:47 UTC</a></sub>
 * [SpaceX’s Falcon Heavy launches $1 billion asteroid mission for NASA](https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T132926">2023-10-13 13:29:26 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Chinese commercial satellite firm completes high-speed laser image transmission test](https://spacenews.com/chinese-commercial-satellite-firm-completes-high-speed-laser-image-transmission-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T122633">2023-10-13 12:26:33 UTC</a></sub>
 * [New contract unlikely to significantly reduce SLS costs](https://spacenews.com/new-contract-unlikely-to-significantly-reduce-sls-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T112806">2023-10-13 11:28:06 UTC</a></sub>
 * [Psyche marks start of NASA use of Falcon Heavy](https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T101840">2023-10-13 10:18:40 UTC</a></sub>
-* [ASI Signs Phase A Study Contract for INNOVATOR CubeSat Mission](https://europeanspaceflight.com/asi-signs-phase-a-study-contract-for-innovator-cubesat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T060053">2023-10-13 06:00:53 UTC</a></sub>
-* [NASA IG Skeptical of Major SLS Cost Savings From Services Contract](https://spacepolicyonline.com/news/nasa-ig-skeptical-of-major-sls-cost-savings-from-services-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T035402">2023-10-13 03:54:02 UTC</a></sub>
-* [NASA, SpaceX launch Psyche mission to metallic asteroid](https://www.nasaspaceflight.com/2023/10/psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T192636">2023-10-12 19:26:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T173239">2023-10-13 17:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T180946">2023-10-13 18:09:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
