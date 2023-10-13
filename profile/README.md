@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA IG Skeptical of Major SLS Cost Savings From Services Contract](https://spacepolicyonline.com/news/nasa-ig-skeptical-of-major-sls-cost-savings-from-services-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T035402">2023-10-13 03:54:02 UTC</a></sub>
 * [NASA, SpaceX set to launch Psyche mission to metallic asteroid](https://www.nasaspaceflight.com/2023/10/psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T192636">2023-10-12 19:26:36 UTC</a></sub>
 * [Space Force challenged to define commercial services](https://spacenews.com/space-force-challenged-to-define-commercial-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T190000">2023-10-12 19:00:00 UTC</a></sub>
 * [Shipping giant Maersk to add SpaceX’s Starlink internet to more than 330 ships by early next year](https://www.cnbc.com/2023/10/12/maersk-signs-with-spacex-to-add-starlink-internet-to-over-330-ships.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T184711">2023-10-12 18:47:11 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Starlink lands Maersk in new deal for Ocean fleet](https://www.teslarati.com/spacex-starlink-maersk-deal-ocean-fleet/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T160443">2023-10-12 16:04:43 UTC</a></sub>
 * [Oops—It looks like the Ariane 6 rocket may not offer Europe any launch savings](https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T152659">2023-10-12 15:26:59 UTC</a></sub>
 * [Avio Target Up To 6 Vega C Flights in 2025](https://europeanspaceflight.com/avio-target-up-to-6-vega-c-flights-in-2025/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T135611">2023-10-12 13:56:11 UTC</a></sub>
-* [Viasat has enough throughput on ViaSat-3 Americas to avoid replacement](https://spacenews.com/viasat-has-enough-throughput-on-viasat-3-americas-to-avoid-replacement/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T134725">2023-10-12 13:47:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T033232">2023-10-13 03:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T040930">2023-10-13 04:09:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
