@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ligado sues US government for using its roadblocked 5G spectrum](https://spacenews.com/ligado-sues-us-government-for-using-its-roadblocked-5g-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T220648">2023-10-13 22:06:48 UTC</a></sub>
 * [UK’s Asteroid Mining Corp. unveils SCAR-E robot](https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T201653">2023-10-13 20:16:53 UTC</a></sub>
 * [Space Force to create ‘system deltas’ to sync space tech with operator needs](https://spacenews.com/space-force-to-create-system-deltas-to-sync-space-tech-with-operator-needs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T200900">2023-10-13 20:09:00 UTC</a></sub>
 * [NASA should consider commercial alternatives to SLS, inspector general says](https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T190705">2023-10-13 19:07:05 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The Vikram has landed: Factors in India’s space ascendancy ](https://spacenews.com/the-vikram-has-landed-factors-in-indias-space-ascendancy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T171207">2023-10-13 17:12:07 UTC</a></sub>
 * [The Accidental Monopoly](https://spacenews.com/the-accidental-monopoly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T160913">2023-10-13 16:09:13 UTC</a></sub>
 * [NASA launches Psyche mission to metal world](https://spacenews.com/nasa-launches-psyche-mission-to-metal-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T154447">2023-10-13 15:44:47 UTC</a></sub>
-* [SpaceX’s Falcon Heavy launches $1 billion asteroid mission for NASA](https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T132926">2023-10-13 13:29:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T223228">2023-10-13 22:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T230702">2023-10-13 23:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
