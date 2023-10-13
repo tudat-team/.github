@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Accidental Monopoly](https://spacenews.com/the-accidental-monopoly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T160913">2023-10-13 16:09:13 UTC</a></sub>
 * [NASA launches Psyche mission to metal world](https://spacenews.com/nasa-launches-psyche-mission-to-metal-world/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T154447">2023-10-13 15:44:47 UTC</a></sub>
 * [SpaceX’s Falcon Heavy launches $1 billion asteroid mission for NASA](https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T132926">2023-10-13 13:29:26 UTC</a></sub>
 * [SES picks IT veteran Adel Al-Saleh as CEO](https://spacenews.com/ses-picks-it-veteran-adel-al-saleh-as-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T132819">2023-10-13 13:28:19 UTC</a></sub>
@@ -576,8 +577,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Psyche marks start of NASA use of Falcon Heavy](https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T101840">2023-10-13 10:18:40 UTC</a></sub>
 * [ASI Signs Phase A Study Contract for INNOVATOR CubeSat Mission](https://europeanspaceflight.com/asi-signs-phase-a-study-contract-for-innovator-cubesat-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T060053">2023-10-13 06:00:53 UTC</a></sub>
 * [NASA IG Skeptical of Major SLS Cost Savings From Services Contract](https://spacepolicyonline.com/news/nasa-ig-skeptical-of-major-sls-cost-savings-from-services-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T035402">2023-10-13 03:54:02 UTC</a></sub>
-* [NASA, SpaceX set to launch Psyche mission to metallic asteroid](https://www.nasaspaceflight.com/2023/10/psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T192636">2023-10-12 19:26:36 UTC</a></sub>
-* [Space Force challenged to define commercial services](https://spacenews.com/space-force-challenged-to-define-commercial-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T190000">2023-10-12 19:00:00 UTC</a></sub>
+* [NASA, SpaceX launch Psyche mission to metallic asteroid](https://www.nasaspaceflight.com/2023/10/psyche-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T192636">2023-10-12 19:26:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T163605">2023-10-13 16:36:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T170648">2023-10-13 17:06:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
