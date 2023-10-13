@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Riverside Research to develop software to analyze space objects in congested orbits](https://spacenews.com/riverside-research-to-develop-software-to-analyze-space-objects-in-congested-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T180900">2023-10-13 18:09:00 UTC</a></sub>
 * [Psyche on Its Way to Metal-Rich Asteroid](https://spacepolicyonline.com/news/psyche-on-its-way-to-metal-rich-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T174328">2023-10-13 17:43:28 UTC</a></sub>
 * [SpaceX Falcon Heavy aces NASA’s Psyche spacecraft launch](https://www.teslarati.com/spacex-falcon-heavy-aces-nasa-s-psyche-spacecraft-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T173436">2023-10-13 17:34:36 UTC</a></sub>
 * [The Vikram has landed: Factors in India’s space ascendancy ](https://spacenews.com/the-vikram-has-landed-factors-in-indias-space-ascendancy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T171207">2023-10-13 17:12:07 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SES picks IT veteran Adel Al-Saleh as CEO](https://spacenews.com/ses-picks-it-veteran-adel-al-saleh-as-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T132819">2023-10-13 13:28:19 UTC</a></sub>
 * [Chinese commercial satellite firm completes high-speed laser image transmission test](https://spacenews.com/chinese-commercial-satellite-firm-completes-high-speed-laser-image-transmission-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T122633">2023-10-13 12:26:33 UTC</a></sub>
 * [New contract unlikely to significantly reduce SLS costs](https://spacenews.com/new-contract-unlikely-to-significantly-reduce-sls-costs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T112806">2023-10-13 11:28:06 UTC</a></sub>
-* [Psyche marks start of NASA use of Falcon Heavy](https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T101840">2023-10-13 10:18:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T183423">2023-10-13 18:34:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T190601">2023-10-13 19:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
