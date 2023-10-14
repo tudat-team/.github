@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pathways to the Stars: Creating a talent pipeline in New Mexico](https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170829">2023-10-14 17:08:29 UTC</a></sub>
 * [Uniting and Igniting the Space Sector: After five years, NewSpace Nexus is hitting its stride](https://spacenews.com/uniting-and-igniting-the-space-sector-after-five-years-newspace-nexus-is-hitting-its-stride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170350">2023-10-14 17:03:50 UTC</a></sub>
 * [Ligado sues US government for using its roadblocked 5G spectrum](https://spacenews.com/ligado-sues-us-government-for-using-its-roadblocked-5g-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T220648">2023-10-13 22:06:48 UTC</a></sub>
 * [UK’s Asteroid Mining Corp. unveils SCAR-E robot](https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T201653">2023-10-13 20:16:53 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Psyche on Its Way to Metal-Rich Asteroid](https://spacepolicyonline.com/news/psyche-on-its-way-to-metal-rich-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T174328">2023-10-13 17:43:28 UTC</a></sub>
 * [SpaceX Falcon Heavy aces NASA’s Psyche spacecraft launch](https://www.teslarati.com/spacex-falcon-heavy-aces-nasa-s-psyche-spacecraft-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T173436">2023-10-13 17:34:36 UTC</a></sub>
 * [The Vikram has landed: Factors in India’s space ascendancy ](https://spacenews.com/the-vikram-has-landed-factors-in-indias-space-ascendancy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T171207">2023-10-13 17:12:07 UTC</a></sub>
-* [The Accidental Monopoly](https://spacenews.com/the-accidental-monopoly/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T160913">2023-10-13 16:09:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T173209">2023-10-14 17:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T180837">2023-10-14 18:08:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
