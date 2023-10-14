@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [In wake of eclipse, NOAA prepares for enhanced solar observations](https://spacenews.com/in-wake-of-eclipse-noaa-prepares-for-enhanced-solar-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T215239">2023-10-14 21:52:39 UTC</a></sub>
 * [NASA considering budget cuts for Hubble and Chandra space telescopes](https://spacenews.com/nasa-considering-budget-cuts-for-hubble-and-chandra-space-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T205243">2023-10-14 20:52:43 UTC</a></sub>
 * [Pathways to the Stars: Creating a talent pipeline in New Mexico](https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170829">2023-10-14 17:08:29 UTC</a></sub>
 * [Uniting and Igniting the Space Sector: After five years, NewSpace Nexus is hitting its stride](https://spacenews.com/uniting-and-igniting-the-space-sector-after-five-years-newspace-nexus-is-hitting-its-stride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170350">2023-10-14 17:03:50 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA should consider commercial alternatives to SLS, inspector general says](https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T190705">2023-10-13 19:07:05 UTC</a></sub>
 * [Riverside Research to develop software to analyze space objects in congested orbits](https://spacenews.com/riverside-research-to-develop-software-to-analyze-space-objects-in-congested-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T180900">2023-10-13 18:09:00 UTC</a></sub>
 * [Psyche on Its Way to Metal-Rich Asteroid](https://spacepolicyonline.com/news/psyche-on-its-way-to-metal-rich-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T174328">2023-10-13 17:43:28 UTC</a></sub>
-* [SpaceX Falcon Heavy aces NASA’s Psyche spacecraft launch](https://www.teslarati.com/spacex-falcon-heavy-aces-nasa-s-psyche-spacecraft-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T173436">2023-10-13 17:34:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T213208">2023-10-14 21:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T220605">2023-10-14 22:06:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
