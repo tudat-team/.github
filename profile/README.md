@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [What’s Happening in Space Policy October 15-21, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-15-21-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T184902">2023-10-15 18:49:02 UTC</a></sub>
 * [China launches new Yunhai remote sensing satellite](https://spacenews.com/china-launches-new-yunhai-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T083329">2023-10-15 08:33:29 UTC</a></sub>
 * [In wake of eclipse, NOAA prepares for enhanced solar observations](https://spacenews.com/in-wake-of-eclipse-noaa-prepares-for-enhanced-solar-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T215239">2023-10-14 21:52:39 UTC</a></sub>
 * [NASA considering budget cuts for Hubble and Chandra space telescopes](https://spacenews.com/nasa-considering-budget-cuts-for-hubble-and-chandra-space-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T205243">2023-10-14 20:52:43 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [UK’s Asteroid Mining Corp. unveils SCAR-E robot](https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T201653">2023-10-13 20:16:53 UTC</a></sub>
 * [Space Force to create ‘system deltas’ to sync space tech with operator needs](https://spacenews.com/space-force-to-create-system-deltas-to-sync-space-tech-with-operator-needs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T200900">2023-10-13 20:09:00 UTC</a></sub>
 * [NASA should consider commercial alternatives to SLS, inspector general says](https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T190705">2023-10-13 19:07:05 UTC</a></sub>
-* [Riverside Research to develop software to analyze space objects in congested orbits](https://spacenews.com/riverside-research-to-develop-software-to-analyze-space-objects-in-congested-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T180900">2023-10-13 18:09:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T183225">2023-10-15 18:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T190514">2023-10-15 19:05:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
