@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China launches new Yunhai remote sensing satellite](https://spacenews.com/china-launches-new-yunhai-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T083329">2023-10-15 08:33:29 UTC</a></sub>
 * [In wake of eclipse, NOAA prepares for enhanced solar observations](https://spacenews.com/in-wake-of-eclipse-noaa-prepares-for-enhanced-solar-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T215239">2023-10-14 21:52:39 UTC</a></sub>
 * [NASA considering budget cuts for Hubble and Chandra space telescopes](https://spacenews.com/nasa-considering-budget-cuts-for-hubble-and-chandra-space-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T205243">2023-10-14 20:52:43 UTC</a></sub>
 * [Pathways to the Stars: Creating a talent pipeline in New Mexico](https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170829">2023-10-14 17:08:29 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to create ‘system deltas’ to sync space tech with operator needs](https://spacenews.com/space-force-to-create-system-deltas-to-sync-space-tech-with-operator-needs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T200900">2023-10-13 20:09:00 UTC</a></sub>
 * [NASA should consider commercial alternatives to SLS, inspector general says](https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T190705">2023-10-13 19:07:05 UTC</a></sub>
 * [Riverside Research to develop software to analyze space objects in congested orbits](https://spacenews.com/riverside-research-to-develop-software-to-analyze-space-objects-in-congested-orbits/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T180900">2023-10-13 18:09:00 UTC</a></sub>
-* [Psyche on Its Way to Metal-Rich Asteroid](https://spacepolicyonline.com/news/psyche-on-its-way-to-metal-rich-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T174328">2023-10-13 17:43:28 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T083219">2023-10-15 08:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T090639">2023-10-15 09:06:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
