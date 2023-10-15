@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX gearing op for a possible WDR as it waits for regulatory approval](https://www.nasaspaceflight.com/2023/10/full-stack-wdr-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T192700">2023-10-15 19:27:00 UTC</a></sub>
 * [What’s Happening in Space Policy October 15-21, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-15-21-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T184902">2023-10-15 18:49:02 UTC</a></sub>
 * [China launches new Yunhai remote sensing satellite](https://spacenews.com/china-launches-new-yunhai-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T083329">2023-10-15 08:33:29 UTC</a></sub>
 * [In wake of eclipse, NOAA prepares for enhanced solar observations](https://spacenews.com/in-wake-of-eclipse-noaa-prepares-for-enhanced-solar-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T215239">2023-10-14 21:52:39 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ligado sues US government for using its roadblocked 5G spectrum](https://spacenews.com/ligado-sues-us-government-for-using-its-roadblocked-5g-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T220648">2023-10-13 22:06:48 UTC</a></sub>
 * [UK’s Asteroid Mining Corp. unveils SCAR-E robot](https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T201653">2023-10-13 20:16:53 UTC</a></sub>
 * [Space Force to create ‘system deltas’ to sync space tech with operator needs](https://spacenews.com/space-force-to-create-system-deltas-to-sync-space-tech-with-operator-needs/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T200900">2023-10-13 20:09:00 UTC</a></sub>
-* [NASA should consider commercial alternatives to SLS, inspector general says](https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T190705">2023-10-13 19:07:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T193212">2023-10-15 19:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T200713">2023-10-15 20:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
