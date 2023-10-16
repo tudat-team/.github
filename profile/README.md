@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [University of California and NASA Ames unveil plans for $2 billion Berkeley Space Center](https://spacenews.com/university-of-california-and-nasa-ames-unveil-plans-for-2-billion-berkeley-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T203909">2023-10-16 20:39:09 UTC</a></sub>
 * [Space investors followed government contracts in the third quarter, report says](https://www.cnbc.com/2023/10/16/space-investing-q3-report-following-government-contracts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T171106">2023-10-16 17:11:06 UTC</a></sub>
 * [After six decades, ‘Gagarin’s Start’ will meet its end as a launch pad](https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T141103">2023-10-16 14:11:03 UTC</a></sub>
 * [Urban Sky raises $9.75 million for stratospheric imaging platform](https://spacenews.com/urban-sky-rases-9-75-million-for-stratospheric-imaging-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T140000">2023-10-16 14:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space insurers take cautious approach to satellite servicing](https://spacenews.com/space-insurers-take-cautious-approach-to-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T000252">2023-10-16 00:02:52 UTC</a></sub>
 * [Frank Rubio Readjusting to Life on Earth with Ease](https://spacepolicyonline.com/news/frank-rubio-readjusting-to-life-on-earth-with-ease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T214721">2023-10-15 21:47:21 UTC</a></sub>
 * [SpaceX gearing op for a possible WDR as it waits for regulatory approval](https://www.nasaspaceflight.com/2023/10/full-stack-wdr-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T192700">2023-10-15 19:27:00 UTC</a></sub>
-* [What’s Happening in Space Policy October 15-21, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-15-21-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T184902">2023-10-15 18:49:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T203259">2023-10-16 20:32:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T210724">2023-10-16 21:07:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
