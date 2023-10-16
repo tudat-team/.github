@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Army exploring new options to tap commercial satellite networks](https://spacenews.com/army-exploring-new-options-to-tap-commercial-satellite-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120223">2023-10-16 12:02:23 UTC</a></sub>
 * [Ireland Commit €3.3M More to ESA for 2024](https://europeanspaceflight.com/ireland-commit-3-3m-euros-more-to-esa-for-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T082533">2023-10-16 08:25:33 UTC</a></sub>
 * [Space insurers take cautious approach to satellite servicing](https://spacenews.com/space-insurers-take-cautious-approach-to-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T000252">2023-10-16 00:02:52 UTC</a></sub>
 * [Frank Rubio Readjusting to Life on Earth with Ease](https://spacepolicyonline.com/news/frank-rubio-readjusting-to-life-on-earth-with-ease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T214721">2023-10-15 21:47:21 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [In wake of eclipse, NOAA prepares for enhanced solar observations](https://spacenews.com/in-wake-of-eclipse-noaa-prepares-for-enhanced-solar-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T215239">2023-10-14 21:52:39 UTC</a></sub>
 * [NASA considering budget cuts for Hubble and Chandra space telescopes](https://spacenews.com/nasa-considering-budget-cuts-for-hubble-and-chandra-space-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T205243">2023-10-14 20:52:43 UTC</a></sub>
 * [Pathways to the Stars: Creating a talent pipeline in New Mexico](https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170829">2023-10-14 17:08:29 UTC</a></sub>
-* [Uniting and Igniting the Space Sector: After five years, NewSpace Nexus is hitting its stride](https://spacenews.com/uniting-and-igniting-the-space-sector-after-five-years-newspace-nexus-is-hitting-its-stride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170350">2023-10-14 17:03:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T113239">2023-10-16 11:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T121423">2023-10-16 12:14:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
