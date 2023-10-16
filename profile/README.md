@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ireland Commit €3.3M More to ESA for 2024](https://europeanspaceflight.com/ireland-commit-3-3m-euros-more-to-esa-for-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T082533">2023-10-16 08:25:33 UTC</a></sub>
 * [Space insurers take cautious approach to satellite servicing](https://spacenews.com/space-insurers-take-cautious-approach-to-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T000252">2023-10-16 00:02:52 UTC</a></sub>
 * [Frank Rubio Readjusting to Life on Earth with Ease](https://spacepolicyonline.com/news/frank-rubio-readjusting-to-life-on-earth-with-ease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T214721">2023-10-15 21:47:21 UTC</a></sub>
 * [SpaceX gearing op for a possible WDR as it waits for regulatory approval](https://www.nasaspaceflight.com/2023/10/full-stack-wdr-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T192700">2023-10-15 19:27:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA considering budget cuts for Hubble and Chandra space telescopes](https://spacenews.com/nasa-considering-budget-cuts-for-hubble-and-chandra-space-telescopes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T205243">2023-10-14 20:52:43 UTC</a></sub>
 * [Pathways to the Stars: Creating a talent pipeline in New Mexico](https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170829">2023-10-14 17:08:29 UTC</a></sub>
 * [Uniting and Igniting the Space Sector: After five years, NewSpace Nexus is hitting its stride](https://spacenews.com/uniting-and-igniting-the-space-sector-after-five-years-newspace-nexus-is-hitting-its-stride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170350">2023-10-14 17:03:50 UTC</a></sub>
-* [Ligado sues US government for using its roadblocked 5G spectrum](https://spacenews.com/ligado-sues-us-government-for-using-its-roadblocked-5g-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T220648">2023-10-13 22:06:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T083429">2023-10-16 08:34:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T090812">2023-10-16 09:08:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
