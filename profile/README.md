@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [After six decades, ‘Gagarin’s Start’ will meet its end as a launch pad](https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T141103">2023-10-16 14:11:03 UTC</a></sub>
 * [Urban Sky raises $9.75 million for stratospheric imaging platform](https://spacenews.com/urban-sky-rases-9-75-million-for-stratospheric-imaging-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T140000">2023-10-16 14:00:00 UTC</a></sub>
 * [Two Vega VV23 Payloads Failed to Deploy](https://europeanspaceflight.com/two-vega-vv23-payloads-failed-to-deploy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T133127">2023-10-16 13:31:27 UTC</a></sub>
 * [Army exploring new options to tap commercial satellite networks](https://spacenews.com/army-exploring-new-options-to-tap-commercial-satellite-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120223">2023-10-16 12:02:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX gearing op for a possible WDR as it waits for regulatory approval](https://www.nasaspaceflight.com/2023/10/full-stack-wdr-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T192700">2023-10-15 19:27:00 UTC</a></sub>
 * [What’s Happening in Space Policy October 15-21, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-15-21-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T184902">2023-10-15 18:49:02 UTC</a></sub>
 * [China launches new Yunhai remote sensing satellite](https://spacenews.com/china-launches-new-yunhai-remote-sensing-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T083329">2023-10-15 08:33:29 UTC</a></sub>
-* [In wake of eclipse, NOAA prepares for enhanced solar observations](https://spacenews.com/in-wake-of-eclipse-noaa-prepares-for-enhanced-solar-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T215239">2023-10-14 21:52:39 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T143418">2023-10-16 14:34:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T150822">2023-10-16 15:08:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
