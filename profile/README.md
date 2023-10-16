@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space insurers take cautious approach to satellite servicing](https://spacenews.com/space-insurers-take-cautious-approach-to-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T000252">2023-10-16 00:02:52 UTC</a></sub>
 * [Frank Rubio Readjusting to Life on Earth with Ease](https://spacepolicyonline.com/news/frank-rubio-readjusting-to-life-on-earth-with-ease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T214721">2023-10-15 21:47:21 UTC</a></sub>
 * [SpaceX gearing op for a possible WDR as it waits for regulatory approval](https://www.nasaspaceflight.com/2023/10/full-stack-wdr-approval/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T192700">2023-10-15 19:27:00 UTC</a></sub>
 * [What’s Happening in Space Policy October 15-21, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-15-21-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T184902">2023-10-15 18:49:02 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pathways to the Stars: Creating a talent pipeline in New Mexico](https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170829">2023-10-14 17:08:29 UTC</a></sub>
 * [Uniting and Igniting the Space Sector: After five years, NewSpace Nexus is hitting its stride](https://spacenews.com/uniting-and-igniting-the-space-sector-after-five-years-newspace-nexus-is-hitting-its-stride/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T170350">2023-10-14 17:03:50 UTC</a></sub>
 * [Ligado sues US government for using its roadblocked 5G spectrum](https://spacenews.com/ligado-sues-us-government-for-using-its-roadblocked-5g-spectrum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T220648">2023-10-13 22:06:48 UTC</a></sub>
-* [UK’s Asteroid Mining Corp. unveils SCAR-E robot](https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T201653">2023-10-13 20:16:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T233234">2023-10-15 23:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T003545">2023-10-16 00:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
