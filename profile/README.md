@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: October 9-15, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120721">2023-10-16 12:07:21 UTC</a></sub>
 * [Syzygy + apogee = majesty](https://www.planetary.org/the-downlink/syzygy-apogee-majesty) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T143451">2023-10-13 14:34:51 UTC</a></sub>
 * [How astronomers search for life on exoplanets](https://www.planetary.org/articles/how-astronomers-search-for-life-on-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T145519">2023-10-11 14:55:19 UTC</a></sub>
 * [ArianeGroup Wants €210M Per Year More to Operate Ariane 6](https://europeanspaceflight.substack.com/p/arianegroup-wants-210m-per-year-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140136">2023-10-11 14:01:36 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Cosmic cocktail hour](https://www.planetary.org/the-downlink/cosmic-cocktail-hour) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T143436">2023-10-06 14:34:36 UTC</a></sub>
 * [The future of Mars Sample Return](https://www.planetary.org/articles/the-future-of-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T140436">2023-10-05 14:04:36 UTC</a></sub>
 * [RocketStars: Protoflight // Devon Shafer](https://blog.ulalaunch.com/blog/rocketstars-devon-shafer) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T215442">2023-10-04 21:54:42 UTC</a></sub>
-* [ESA short 16,572kg in launch capacity](https://europeanspaceflight.substack.com/p/esa-short-16572kg-in-launch-capacity) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T142524">2023-10-04 14:25:24 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T121423">2023-10-16 12:14:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T124937">2023-10-16 12:49:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
