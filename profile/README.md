@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China to launch Queqiao-2 moon relay satellite in early 2024](https://spacenews.com/china-to-launch-queqiao-2-moon-relay-satellite-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T085136">2023-10-17 08:51:36 UTC</a></sub>
 * [Seraphim unveils the 10 startups in its twelfth space accelerator](https://spacenews.com/seraphim-unveils-the-10-startups-in-its-twelfth-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T070100">2023-10-17 07:01:00 UTC</a></sub>
 * [University of California and NASA Ames unveil plans for $2 billion Berkeley Space Center](https://spacenews.com/university-of-california-and-nasa-ames-unveil-plans-for-2-billion-berkeley-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T203909">2023-10-16 20:39:09 UTC</a></sub>
 * [Space investors followed government contracts in the third quarter, report says](https://www.cnbc.com/2023/10/16/space-investing-q3-report-following-government-contracts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T171106">2023-10-16 17:11:06 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Army exploring new options to tap commercial satellite networks](https://spacenews.com/army-exploring-new-options-to-tap-commercial-satellite-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120223">2023-10-16 12:02:23 UTC</a></sub>
 * [Ireland Commit €3.3M More to ESA for 2024](https://europeanspaceflight.com/ireland-commit-3-3m-euros-more-to-esa-for-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T082533">2023-10-16 08:25:33 UTC</a></sub>
 * [Space insurers take cautious approach to satellite servicing](https://spacenews.com/space-insurers-take-cautious-approach-to-satellite-servicing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T000252">2023-10-16 00:02:52 UTC</a></sub>
-* [Frank Rubio Readjusting to Life on Earth with Ease](https://spacepolicyonline.com/news/frank-rubio-readjusting-to-life-on-earth-with-ease/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T214721">2023-10-15 21:47:21 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T083417">2023-10-17 08:34:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T090806">2023-10-17 09:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
