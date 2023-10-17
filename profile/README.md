@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Scientific Systems to develop satellite inspection software for U.S. Space Force](https://spacenews.com/scientific-systems-to-develop-satellite-inspection-software-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T140000">2023-10-17 14:00:00 UTC</a></sub>
+* [India sets 2040 target for crewed moon landing](https://spacenews.com/india-sets-2040-target-for-crewed-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T135931">2023-10-17 13:59:31 UTC</a></sub>
+* [ESA to Create “Pool” of European Launch Service Providers](https://europeanspaceflight.com/esa-to-create-pool-of-european-launch-service-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T135201">2023-10-17 13:52:01 UTC</a></sub>
 * [Space Development Agency to evaluate SpiderOak cybersecurity software](https://spacenews.com/space-development-agency-to-evaluate-spideroak-cybersecurity-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T121000">2023-10-17 12:10:00 UTC</a></sub>
 * [Blue Origin unveils plans for orbital transfer vehicle](https://spacenews.com/blue-origin-unveils-plans-for-orbital-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T120435">2023-10-17 12:04:35 UTC</a></sub>
 * [China to launch Queqiao-2 moon relay satellite in early 2024](https://spacenews.com/china-to-launch-queqiao-2-moon-relay-satellite-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T085136">2023-10-17 08:51:36 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [University of California and NASA Ames unveil plans for $2 billion Berkeley Space Center](https://spacenews.com/university-of-california-and-nasa-ames-unveil-plans-for-2-billion-berkeley-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T203909">2023-10-16 20:39:09 UTC</a></sub>
 * [Space investors followed government contracts in the third quarter, report says](https://www.cnbc.com/2023/10/16/space-investing-q3-report-following-government-contracts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T171106">2023-10-16 17:11:06 UTC</a></sub>
 * [After six decades, ‘Gagarin’s Start’ will meet its end as a launch pad](https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T141103">2023-10-16 14:11:03 UTC</a></sub>
-* [Urban Sky raises $9.75 million for stratospheric imaging platform](https://spacenews.com/urban-sky-rases-9-75-million-for-stratospheric-imaging-platform/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T140000">2023-10-16 14:00:00 UTC</a></sub>
-* [Two Vega VV23 Payloads Failed to Deploy](https://europeanspaceflight.com/two-vega-vv23-payloads-failed-to-deploy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T133127">2023-10-16 13:31:27 UTC</a></sub>
-* [Army exploring new options to tap commercial satellite networks](https://spacenews.com/army-exploring-new-options-to-tap-commercial-satellite-networks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120223">2023-10-16 12:02:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T133216">2023-10-17 13:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T140723">2023-10-17 14:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
