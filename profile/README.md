@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T140948">2023-10-17 14:09:48 UTC</a></sub>
 * [Scientific Systems to develop satellite inspection software for U.S. Space Force](https://spacenews.com/scientific-systems-to-develop-satellite-inspection-software-for-u-s-space-force/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T140000">2023-10-17 14:00:00 UTC</a></sub>
 * [India sets 2040 target for crewed moon landing](https://spacenews.com/india-sets-2040-target-for-crewed-moon-landing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T135931">2023-10-17 13:59:31 UTC</a></sub>
 * [ESA to Create “Pool” of European Launch Service Providers](https://europeanspaceflight.com/esa-to-create-pool-of-european-launch-service-providers/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T135201">2023-10-17 13:52:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Seraphim unveils the 10 startups in its twelfth space accelerator](https://spacenews.com/seraphim-unveils-the-10-startups-in-its-twelfth-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T070100">2023-10-17 07:01:00 UTC</a></sub>
 * [University of California and NASA Ames unveil plans for $2 billion Berkeley Space Center](https://spacenews.com/university-of-california-and-nasa-ames-unveil-plans-for-2-billion-berkeley-space-center/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T203909">2023-10-16 20:39:09 UTC</a></sub>
 * [Space investors followed government contracts in the third quarter, report says](https://www.cnbc.com/2023/10/16/space-investing-q3-report-following-government-contracts.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T171106">2023-10-16 17:11:06 UTC</a></sub>
-* [After six decades, ‘Gagarin’s Start’ will meet its end as a launch pad](https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T141103">2023-10-16 14:11:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T143252">2023-10-17 14:32:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T150753">2023-10-17 15:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
