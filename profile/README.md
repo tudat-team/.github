@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX plans to launch 22 more Starlink satellites tonight](https://www.teslarati.com/spacex-plans-launch-22-more-starlink-satellites-tonight-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T162443">2023-10-17 16:24:43 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch three Starlink missions; India to test crew abort system](https://www.nasaspaceflight.com/2023/10/launch-roundup-101723/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T154918">2023-10-17 15:49:18 UTC</a></sub>
 * [Capella Space co-founder steps down as CEO](https://spacenews.com/capella-space-co-founder-steps-down-as-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T153455">2023-10-17 15:34:55 UTC</a></sub>
 * [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T140948">2023-10-17 14:09:48 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Development Agency to evaluate SpiderOak cybersecurity software](https://spacenews.com/space-development-agency-to-evaluate-spideroak-cybersecurity-software/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T121000">2023-10-17 12:10:00 UTC</a></sub>
 * [Blue Origin unveils plans for orbital transfer vehicle](https://spacenews.com/blue-origin-unveils-plans-for-orbital-transfer-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T120435">2023-10-17 12:04:35 UTC</a></sub>
 * [China to launch Queqiao-2 moon relay satellite in early 2024](https://spacenews.com/china-to-launch-queqiao-2-moon-relay-satellite-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T085136">2023-10-17 08:51:36 UTC</a></sub>
-* [Seraphim unveils the 10 startups in its twelfth space accelerator](https://spacenews.com/seraphim-unveils-the-10-startups-in-its-twelfth-space-accelerator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T070100">2023-10-17 07:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T163716">2023-10-17 16:37:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T170700">2023-10-17 17:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
