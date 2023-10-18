@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Danti gets U.S. Space Force contract for data search engine ](https://spacenews.com/danti-gets-u-s-space-force-contract-for-data-search-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T130000">2023-10-18 13:00:00 UTC</a></sub>
 * [HawkEye 360 raises $10 million in funding round extension](https://spacenews.com/hawkeye-360-raises-10-million-in-funding-round-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121800">2023-10-18 12:18:00 UTC</a></sub>
 * [Small launch companies struggle to complete with SpaceX rideshare missions](https://spacenews.com/small-launch-companies-struggle-to-complete-with-spacex-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121006">2023-10-18 12:10:06 UTC</a></sub>
 * [Atomos wins $1.6 million AFWERX contract to test multi-party rendezvous](https://spacenews.com/atomos-wins-1-6-million-afwerx-contract-to-test-multi-party-rendezvous/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T120000">2023-10-18 12:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Test Flight to Kick Off India’s Human Exploration Plans, Including a Man on the Moon by 2040](https://spacepolicyonline.com/news/test-flight-to-kick-off-indias-human-exploration-plans-including-a-man-on-the-moon-by-2040/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T003058">2023-10-18 00:30:58 UTC</a></sub>
 * [Space industry group turns up volume on satellite vulnerabilities](https://spacenews.com/space-industry-group-turns-up-volume-on-satellite-vulnerabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T235658">2023-10-17 23:56:58 UTC</a></sub>
 * [SpaceX plans to launch 22 more Starlink satellites tonight](https://www.teslarati.com/spacex-plans-launch-22-more-starlink-satellites-tonight-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T162443">2023-10-17 16:24:43 UTC</a></sub>
-* [SpaceNews Icon Awards to be announced Dec. 5](https://spacenews.com/spacenews-icon-awards-to-be-announced-dec-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T162300">2023-10-17 16:23:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T131030">2023-10-18 13:10:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T133202">2023-10-18 13:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
