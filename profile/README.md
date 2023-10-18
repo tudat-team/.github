@@ -60,7 +60,7 @@ conda install -c tudat-team <package>
 </table>
 </details>
 </td>
-    <td><code>66.0.0</code></td>
+    <td><code>67.0.0</code></td>
   </tr>
 <tr>
     <td><code><a href="https://github.com/tudat-team/sofa-cmake/tree/master" target="_blank">sofa-cmake</a> (<a href="https://github.com/tudat-team/sofa-cmake-feedstock/tree/master" target="_blank">feedstock</a>)</code></td>
@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Atomos wins $1.6 million AFWERX contract to test multi-party rendezvous](https://spacenews.com/atomos-wins-1-6-million-afwerx-contract-to-test-multi-party-rendezvous/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T120000">2023-10-18 12:00:00 UTC</a></sub>
 * [CesiumAstro wins NASA award to study wideband communications](https://spacenews.com/cesiumastro-wins-nasa-award-to-study-wideband-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T110000">2023-10-18 11:00:00 UTC</a></sub>
 * [Government funding blunts impact of private investment decline](https://spacenews.com/analysts-cite-financial-challenges-and-opportunities-for-space-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T033155">2023-10-18 03:31:55 UTC</a></sub>
 * [Space radio developer AnySignal emerges from stealth](https://spacenews.com/space-radio-developer-anysignal-emerges-from-stealth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T004522">2023-10-18 00:45:22 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceNews Icon Awards to be announced Dec. 5](https://spacenews.com/spacenews-icon-awards-to-be-announced-dec-5/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T162300">2023-10-17 16:23:00 UTC</a></sub>
 * [Launch Roundup: SpaceX to launch three Starlink missions; India to test crew abort system](https://www.nasaspaceflight.com/2023/10/launch-roundup-101723/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T154918">2023-10-17 15:49:18 UTC</a></sub>
 * [Capella Space co-founder steps down as CEO](https://spacenews.com/capella-space-co-founder-steps-down-as-ceo/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T153455">2023-10-17 15:34:55 UTC</a></sub>
-* [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T140948">2023-10-17 14:09:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T113218">2023-10-18 11:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121411">2023-10-18 12:14:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
