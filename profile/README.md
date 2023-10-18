@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Axiom Space refines training for next private astronaut mission](https://spacenews.com/axiom-space-refines-training-for-next-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T154154">2023-10-18 15:41:54 UTC</a></sub>
+* [India sets sights on a Moon landing in 2040, but is it realistic?](https://arstechnica.com/space/2023/10/india-sets-sights-on-a-moon-landing-in-2040-but-is-it-realistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T152845">2023-10-18 15:28:45 UTC</a></sub>
 * [Danti gets U.S. Space Force contract for data search engine ](https://spacenews.com/danti-gets-u-s-space-force-contract-for-data-search-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T130000">2023-10-18 13:00:00 UTC</a></sub>
 * [HawkEye 360 raises $10 million in funding round extension](https://spacenews.com/hawkeye-360-raises-10-million-in-funding-round-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121800">2023-10-18 12:18:00 UTC</a></sub>
 * [Small launch companies struggle to complete with SpaceX rideshare missions](https://spacenews.com/small-launch-companies-struggle-to-complete-with-spacex-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121006">2023-10-18 12:10:06 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Government funding blunts impact of private investment decline](https://spacenews.com/analysts-cite-financial-challenges-and-opportunities-for-space-sector/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T033155">2023-10-18 03:31:55 UTC</a></sub>
 * [Space radio developer AnySignal emerges from stealth](https://spacenews.com/space-radio-developer-anysignal-emerges-from-stealth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T004522">2023-10-18 00:45:22 UTC</a></sub>
 * [Test Flight to Kick Off India’s Human Exploration Plans, Including a Man on the Moon by 2040](https://spacepolicyonline.com/news/test-flight-to-kick-off-indias-human-exploration-plans-including-a-man-on-the-moon-by-2040/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T003058">2023-10-18 00:30:58 UTC</a></sub>
-* [Space industry group turns up volume on satellite vulnerabilities](https://spacenews.com/space-industry-group-turns-up-volume-on-satellite-vulnerabilities/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T235658">2023-10-17 23:56:58 UTC</a></sub>
-* [SpaceX plans to launch 22 more Starlink satellites tonight](https://www.teslarati.com/spacex-plans-launch-22-more-starlink-satellites-tonight-falcon-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T162443">2023-10-17 16:24:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T153238">2023-10-18 15:32:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T160906">2023-10-18 16:09:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
