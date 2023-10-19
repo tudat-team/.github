@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Artemis and Taming the Extraordinary](https://spacenews.com/artemis-and-taming-the-extraordinary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T130900">2023-10-19 13:09:00 UTC</a></sub>
 * [Cognitive Space wins two SDA contracts](https://spacenews.com/cognitive-space-wins-two-sda-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T120000">2023-10-19 12:00:00 UTC</a></sub>
 * [Launch industry asks Congress for regulatory reforms](https://spacenews.com/launch-industry-asks-congress-for-regulatory-reforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T091110">2023-10-19 09:11:10 UTC</a></sub>
 * [SpaceX Warns Government Regulations Slowing Starship, Could Let China Get Ahead](https://spacepolicyonline.com/news/spacex-warns-government-regulations-slowing-starship-could-let-china-get-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T035126">2023-10-19 03:51:26 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space company executives urge senators to give more resources to the FAA](https://www.cnbc.com/2023/10/18/spacex-blue-origin-virgin-galactic-call-for-faa-improvements.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T221914">2023-10-18 22:19:14 UTC</a></sub>
 * [Satellite subsystems are the next hot commodity for space investors](https://spacenews.com/satellite-subsystems-are-the-next-hot-commodity-for-space-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T211625">2023-10-18 21:16:25 UTC</a></sub>
 * [Axiom Space refines training for next private astronaut mission](https://spacenews.com/axiom-space-refines-training-for-next-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T154154">2023-10-18 15:41:54 UTC</a></sub>
-* [India sets sights on a Moon landing in 2040, but is it realistic?](https://arstechnica.com/space/2023/10/india-sets-sights-on-a-moon-landing-in-2040-but-is-it-realistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T152845">2023-10-18 15:28:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T131045">2023-10-19 13:10:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T133438">2023-10-19 13:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
