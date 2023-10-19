@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK funds surveillance satellite replacement lost in Virgin Orbit failure](https://spacenews.com/uk-funds-surveillance-satellite-replacement-lost-in-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T215454">2023-10-19 21:54:54 UTC</a></sub>
+* [ESA Pushes Ahead with Ariane 6 Testing](https://europeanspaceflight.com/esa-pushes-ahead-with-ariane-6-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T212549">2023-10-19 21:25:49 UTC</a></sub>
+* [China rolls out rocket for Shenzhou-17 mission to Tiangong](https://spacenews.com/china-rolls-out-rocket-for-shenzhou-17-mission-to-tiangong/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T211440">2023-10-19 21:14:40 UTC</a></sub>
 * [Skylo’s network to spread in 2024](https://spacenews.com/skylo-prepares-to-scale-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T204252">2023-10-19 20:42:52 UTC</a></sub>
 * [Investing in Space: On satellites, the invisible backbone of global industry](https://www.cnbc.com/2023/10/19/investing-in-space-satellites-are-the-invisible-backbone-of-industry.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T153931">2023-10-19 15:39:31 UTC</a></sub>
 * [In annual report to Congress, Pentagon highlights China’s ‘refusal to engage’ ](https://spacenews.com/in-annual-report-to-congress-pentagon-highlights-chinas-refusal-to-engage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T141832">2023-10-19 14:18:32 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Cognitive Space wins two SDA contracts](https://spacenews.com/cognitive-space-wins-two-sda-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T120000">2023-10-19 12:00:00 UTC</a></sub>
 * [Launch industry asks Congress for regulatory reforms](https://spacenews.com/launch-industry-asks-congress-for-regulatory-reforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T091110">2023-10-19 09:11:10 UTC</a></sub>
 * [SpaceX Warns Government Regulations Slowing Starship, Could Let China Get Ahead](https://spacepolicyonline.com/news/spacex-warns-government-regulations-slowing-starship-could-let-china-get-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T035126">2023-10-19 03:51:26 UTC</a></sub>
-* [Virgin Galactic to perform suborbital research flight in November](https://spacenews.com/virgin-galactic-to-perform-suborbital-research-flight-in-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T004617">2023-10-19 00:46:17 UTC</a></sub>
-* [Machina Labs expands focus to satellites and reentry vehicles](https://spacenews.com/machina-labs-expands-focus-to-satellites-and-reentry-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T233558">2023-10-18 23:35:58 UTC</a></sub>
-* [Space Force finalizing roadmap for partnering with commercial companies](https://spacenews.com/space-force-finalizing-roadmap-for-partnering-with-commercial-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T222755">2023-10-18 22:27:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T213219">2023-10-19 21:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T220646">2023-10-19 22:06:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
