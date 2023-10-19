@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Machina Labs expands focus to satellites and reentry vehicles](https://spacenews.com/machina-labs-expands-focus-to-satellites-and-reentry-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T233558">2023-10-18 23:35:58 UTC</a></sub>
 * [Space Force finalizing roadmap for partnering with commercial companies](https://spacenews.com/space-force-finalizing-roadmap-for-partnering-with-commercial-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T222755">2023-10-18 22:27:55 UTC</a></sub>
 * [Space company executives urge senators to give more resources to the FAA](https://www.cnbc.com/2023/10/18/spacex-blue-origin-virgin-galactic-call-for-faa-improvements.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T221914">2023-10-18 22:19:14 UTC</a></sub>
 * [Satellite subsystems are the next hot commodity for space investors](https://spacenews.com/satellite-subsystems-are-the-next-hot-commodity-for-space-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T211625">2023-10-18 21:16:25 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [HawkEye 360 raises $10 million in funding round extension](https://spacenews.com/hawkeye-360-raises-10-million-in-funding-round-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121800">2023-10-18 12:18:00 UTC</a></sub>
 * [Small launch companies struggle to compete with SpaceX rideshare missions](https://spacenews.com/small-launch-companies-struggle-to-complete-with-spacex-rideshare-missions/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121006">2023-10-18 12:10:06 UTC</a></sub>
 * [Atomos wins $1.6 million AFWERX contract to test multi-party rendezvous](https://spacenews.com/atomos-wins-1-6-million-afwerx-contract-to-test-multi-party-rendezvous/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T120000">2023-10-18 12:00:00 UTC</a></sub>
-* [CesiumAstro wins NASA award to study wideband communications](https://spacenews.com/cesiumastro-wins-nasa-award-to-study-wideband-communications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T110000">2023-10-18 11:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T233232">2023-10-18 23:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T003446">2023-10-19 00:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
