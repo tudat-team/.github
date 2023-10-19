@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: On satellites, the invisible backbone of global industry](https://www.cnbc.com/2023/10/19/investing-in-space-satellites-are-the-invisible-backbone-of-industry.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T153931">2023-10-19 15:39:31 UTC</a></sub>
 * [In annual report to Congress, Pentagon highlights China’s ‘refusal to engage’ ](https://spacenews.com/in-annual-report-to-congress-pentagon-highlights-chinas-refusal-to-engage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T141832">2023-10-19 14:18:32 UTC</a></sub>
 * [Artemis and Taming the Extraordinary](https://spacenews.com/artemis-and-taming-the-extraordinary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T130900">2023-10-19 13:09:00 UTC</a></sub>
 * [Cognitive Space wins two SDA contracts](https://spacenews.com/cognitive-space-wins-two-sda-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T120000">2023-10-19 12:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Machina Labs expands focus to satellites and reentry vehicles](https://spacenews.com/machina-labs-expands-focus-to-satellites-and-reentry-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T233558">2023-10-18 23:35:58 UTC</a></sub>
 * [Space Force finalizing roadmap for partnering with commercial companies](https://spacenews.com/space-force-finalizing-roadmap-for-partnering-with-commercial-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T222755">2023-10-18 22:27:55 UTC</a></sub>
 * [Space company executives urge senators to give more resources to the FAA](https://www.cnbc.com/2023/10/18/spacex-blue-origin-virgin-galactic-call-for-faa-improvements.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T221914">2023-10-18 22:19:14 UTC</a></sub>
-* [Satellite subsystems are the next hot commodity for space investors](https://spacenews.com/satellite-subsystems-are-the-next-hot-commodity-for-space-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T211625">2023-10-18 21:16:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T153237">2023-10-19 15:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T160933">2023-10-19 16:09:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
