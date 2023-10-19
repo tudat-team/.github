@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [In annual report to Congress, Pentagon highlights China’s ‘refusal to engage’ ](https://spacenews.com/in-annual-report-to-congress-pentagon-highlights-chinas-refusal-to-engage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T141832">2023-10-19 14:18:32 UTC</a></sub>
 * [Artemis and Taming the Extraordinary](https://spacenews.com/artemis-and-taming-the-extraordinary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T130900">2023-10-19 13:09:00 UTC</a></sub>
 * [Cognitive Space wins two SDA contracts](https://spacenews.com/cognitive-space-wins-two-sda-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T120000">2023-10-19 12:00:00 UTC</a></sub>
 * [Launch industry asks Congress for regulatory reforms](https://spacenews.com/launch-industry-asks-congress-for-regulatory-reforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T091110">2023-10-19 09:11:10 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force finalizing roadmap for partnering with commercial companies](https://spacenews.com/space-force-finalizing-roadmap-for-partnering-with-commercial-companies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T222755">2023-10-18 22:27:55 UTC</a></sub>
 * [Space company executives urge senators to give more resources to the FAA](https://www.cnbc.com/2023/10/18/spacex-blue-origin-virgin-galactic-call-for-faa-improvements.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T221914">2023-10-18 22:19:14 UTC</a></sub>
 * [Satellite subsystems are the next hot commodity for space investors](https://spacenews.com/satellite-subsystems-are-the-next-hot-commodity-for-space-investors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T211625">2023-10-18 21:16:25 UTC</a></sub>
-* [Axiom Space refines training for next private astronaut mission](https://spacenews.com/axiom-space-refines-training-for-next-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T154154">2023-10-18 15:41:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [SLIM, Japan’s precision lunar lander](https://www.planetary.org/space-missions/slim-japans-precision-lunar-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T143434">2023-10-19 14:34:34 UTC</a></sub>
 * [Is the Mars Earth Return Orbiter doomed?](https://europeanspaceflight.substack.com/p/is-the-mars-earth-return-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T143021">2023-10-18 14:30:21 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 9-15, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120721">2023-10-16 12:07:21 UTC</a></sub>
 * [Syzygy + apogee = majesty](https://www.planetary.org/the-downlink/syzygy-apogee-majesty) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T143451">2023-10-13 14:34:51 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: October 2-8, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-2-8-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T122555">2023-10-09 12:25:55 UTC</a></sub>
 * [United Launch Alliance Successfully Launches First Mission in Partnership with Amazon](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-first-mission-in-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T153443">2023-10-07 15:34:43 UTC</a></sub>
 * [Cosmic cocktail hour](https://www.planetary.org/the-downlink/cosmic-cocktail-hour) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T143436">2023-10-06 14:34:36 UTC</a></sub>
-* [The future of Mars Sample Return](https://www.planetary.org/articles/the-future-of-mars-sample-return) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T140436">2023-10-05 14:04:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T143240">2023-10-19 14:32:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T150745">2023-10-19 15:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
