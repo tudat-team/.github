@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Launch industry asks Congress for regulatory reforms](https://spacenews.com/launch-industry-asks-congress-for-regulatory-reforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T091110">2023-10-19 09:11:10 UTC</a></sub>
 * [SpaceX Warns Government Regulations Slowing Starship, Could Let China Get Ahead](https://spacepolicyonline.com/news/spacex-warns-government-regulations-slowing-starship-could-let-china-get-ahead/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T035126">2023-10-19 03:51:26 UTC</a></sub>
 * [Virgin Galactic to perform suborbital research flight in November](https://spacenews.com/virgin-galactic-to-perform-suborbital-research-flight-in-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T004617">2023-10-19 00:46:17 UTC</a></sub>
 * [Machina Labs expands focus to satellites and reentry vehicles](https://spacenews.com/machina-labs-expands-focus-to-satellites-and-reentry-vehicles/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T233558">2023-10-18 23:35:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Axiom Space refines training for next private astronaut mission](https://spacenews.com/axiom-space-refines-training-for-next-private-astronaut-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T154154">2023-10-18 15:41:54 UTC</a></sub>
 * [India sets sights on a Moon landing in 2040, but is it realistic?](https://arstechnica.com/space/2023/10/india-sets-sights-on-a-moon-landing-in-2040-but-is-it-realistic/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T152845">2023-10-18 15:28:45 UTC</a></sub>
 * [Danti gets U.S. Space Force contract for data search engine ](https://spacenews.com/danti-gets-u-s-space-force-contract-for-data-search-engine/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T130000">2023-10-18 13:00:00 UTC</a></sub>
-* [HawkEye 360 raises $10 million in funding round extension](https://spacenews.com/hawkeye-360-raises-10-million-in-funding-round-extension/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121800">2023-10-18 12:18:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T093229">2023-10-19 09:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T100805">2023-10-19 10:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
