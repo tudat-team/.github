@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [PLD Space calls first launch a success](https://spacenews.com/pld-space-calls-first-launch-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T194444">2023-10-20 19:44:44 UTC</a></sub>
+* [Space Development Agency awards York Space $615 million contract for 62 satellites](https://spacenews.com/space-development-agency-awards-york-space-615-million-contract-for-62-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T190550">2023-10-20 19:05:50 UTC</a></sub>
 * [Pakistan becomes latest country to join China’s ILRS moon project](https://spacenews.com/pakistan-becomes-latest-country-to-join-chinas-ilrs-moon-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T182329">2023-10-20 18:23:29 UTC</a></sub>
 * [Canada’s budget boost for Radarsat is part of its climate strategy](https://spacenews.com/canadas-budget-boost-for-radarsat-is-part-of-its-climate-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T173813">2023-10-20 17:38:13 UTC</a></sub>
 * [Why NASA’s return to the Moon will likely succeed this time](https://arstechnica.com/space/2023/10/why-nasas-return-to-the-moon-will-likely-succeed-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T152104">2023-10-20 15:21:04 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX frustrated by Starship licensing delays](https://spacenews.com/spacex-frustrated-by-starship-licensing-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T112814">2023-10-20 11:28:14 UTC</a></sub>
 * [Rocket Report: Key Ariane 6 test delayed; NASA urged to look at SLS alternatives](https://arstechnica.com/space/2023/10/rocket-report-key-ariane-6-test-delayed-nasa-urged-to-look-at-sls-alternatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T110037">2023-10-20 11:00:37 UTC</a></sub>
 * [Key Ariane 6 test rescheduled for November](https://spacenews.com/key-ariane-6-test-rescheduled-for-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T085501">2023-10-20 08:55:01 UTC</a></sub>
-* [Latitude Double Factory Floor Space](https://europeanspaceflight.com/latitude-double-factory-floor-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T080915">2023-10-20 08:09:15 UTC</a></sub>
-* [U.S. Space Force seeks to work closer with allies in face of shared threats](https://spacenews.com/u-s-space-force-seeks-to-work-closer-with-allies-in-face-of-shared-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T223510">2023-10-19 22:35:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T193211">2023-10-20 19:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T200738">2023-10-20 20:07:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
