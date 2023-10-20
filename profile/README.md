@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Canada’s budget boost for Radarsat is part of its climate strategy](https://spacenews.com/canadas-budget-boost-for-radarsat-is-part-of-its-climate-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T173813">2023-10-20 17:38:13 UTC</a></sub>
 * [Why NASA’s return to the Moon will likely succeed this time](https://arstechnica.com/space/2023/10/why-nasas-return-to-the-moon-will-likely-succeed-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T152104">2023-10-20 15:21:04 UTC</a></sub>
 * [Blueprint for an In-Space Community](https://spacenews.com/blueprint-for-an-in-space-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T140000">2023-10-20 14:00:00 UTC</a></sub>
 * [POLARIS Spaceplanes Begins Testing MIRA Demonstrator](https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-mira-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T131155">2023-10-20 13:11:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Latitude Double Factory Floor Space](https://europeanspaceflight.com/latitude-double-factory-floor-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T080915">2023-10-20 08:09:15 UTC</a></sub>
 * [U.S. Space Force seeks to work closer with allies in face of shared threats](https://spacenews.com/u-s-space-force-seeks-to-work-closer-with-allies-in-face-of-shared-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T223510">2023-10-19 22:35:10 UTC</a></sub>
 * [UK funds surveillance satellite replacement lost in Virgin Orbit failure](https://spacenews.com/uk-funds-surveillance-satellite-replacement-lost-in-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T215454">2023-10-19 21:54:54 UTC</a></sub>
-* [ESA Pushes Ahead with Ariane 6 Testing](https://europeanspaceflight.com/esa-pushes-ahead-with-ariane-6-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T212549">2023-10-19 21:25:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T173224">2023-10-20 17:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T180905">2023-10-20 18:09:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
