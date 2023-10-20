@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Key Ariane 6 test rescheduled for November](https://spacenews.com/key-ariane-6-test-rescheduled-for-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T085501">2023-10-20 08:55:01 UTC</a></sub>
+* [Latitude Double Factory Floor Space](https://europeanspaceflight.com/latitude-double-factory-floor-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T080915">2023-10-20 08:09:15 UTC</a></sub>
 * [U.S. Space Force seeks to work closer with allies in face of shared threats](https://spacenews.com/u-s-space-force-seeks-to-work-closer-with-allies-in-face-of-shared-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T223510">2023-10-19 22:35:10 UTC</a></sub>
 * [UK funds surveillance satellite replacement lost in Virgin Orbit failure](https://spacenews.com/uk-funds-surveillance-satellite-replacement-lost-in-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T215454">2023-10-19 21:54:54 UTC</a></sub>
 * [ESA Pushes Ahead with Ariane 6 Testing](https://europeanspaceflight.com/esa-pushes-ahead-with-ariane-6-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T212549">2023-10-19 21:25:49 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space: On satellites, the invisible backbone of global industry](https://www.cnbc.com/2023/10/19/investing-in-space-satellites-are-the-invisible-backbone-of-industry.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T153931">2023-10-19 15:39:31 UTC</a></sub>
 * [In annual report to Congress, Pentagon highlights China’s ‘refusal to engage’ ](https://spacenews.com/in-annual-report-to-congress-pentagon-highlights-chinas-refusal-to-engage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T141832">2023-10-19 14:18:32 UTC</a></sub>
 * [Artemis and Taming the Extraordinary](https://spacenews.com/artemis-and-taming-the-extraordinary/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T130900">2023-10-19 13:09:00 UTC</a></sub>
-* [Cognitive Space wins two SDA contracts](https://spacenews.com/cognitive-space-wins-two-sda-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T120000">2023-10-19 12:00:00 UTC</a></sub>
-* [Launch industry asks Congress for regulatory reforms](https://spacenews.com/launch-industry-asks-congress-for-regulatory-reforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T091110">2023-10-19 09:11:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T083257">2023-10-20 08:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T090735">2023-10-20 09:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
