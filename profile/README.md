@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blueprint for an In-Space Community](https://spacenews.com/blueprint-for-an-in-space-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T140000">2023-10-20 14:00:00 UTC</a></sub>
 * [POLARIS Spaceplanes Begins Testing MIRA Demonstrator](https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-mira-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T131155">2023-10-20 13:11:55 UTC</a></sub>
 * [SpaceX frustrated by Starship licensing delays](https://spacenews.com/spacex-frustrated-by-starship-licensing-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T112814">2023-10-20 11:28:14 UTC</a></sub>
 * [Rocket Report: Key Ariane 6 test delayed; NASA urged to look at SLS alternatives](https://arstechnica.com/space/2023/10/rocket-report-key-ariane-6-test-delayed-nasa-urged-to-look-at-sls-alternatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T110037">2023-10-20 11:00:37 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [UK funds surveillance satellite replacement lost in Virgin Orbit failure](https://spacenews.com/uk-funds-surveillance-satellite-replacement-lost-in-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T215454">2023-10-19 21:54:54 UTC</a></sub>
 * [ESA Pushes Ahead with Ariane 6 Testing](https://europeanspaceflight.com/esa-pushes-ahead-with-ariane-6-testing/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T212549">2023-10-19 21:25:49 UTC</a></sub>
 * [China rolls out rocket for Shenzhou-17 mission to Tiangong](https://spacenews.com/china-rolls-out-rocket-for-shenzhou-17-mission-to-tiangong/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T211440">2023-10-19 21:14:40 UTC</a></sub>
-* [Skylo’s network to spread in 2024](https://spacenews.com/skylo-prepares-to-scale-network/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T204252">2023-10-19 20:42:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T133324">2023-10-20 13:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T140712">2023-10-20 14:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
