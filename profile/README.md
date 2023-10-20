@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Behold, the moon(s)!](https://www.planetary.org/the-downlink/behold-the-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T143438">2023-10-20 14:34:38 UTC</a></sub>
 * [SLIM, Japan’s precision lunar lander](https://www.planetary.org/space-missions/slim-japans-precision-lunar-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T143434">2023-10-19 14:34:34 UTC</a></sub>
 * [Is the Mars Earth Return Orbiter doomed?](https://europeanspaceflight.substack.com/p/is-the-mars-earth-return-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T143021">2023-10-18 14:30:21 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 9-15, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120721">2023-10-16 12:07:21 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How do humans try to communicate with aliens?](https://www.planetary.org/articles/how-do-humans-try-to-communicate-with-aliens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T140435">2023-10-10 14:04:35 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 2-8, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-2-8-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T122555">2023-10-09 12:25:55 UTC</a></sub>
 * [United Launch Alliance Successfully Launches First Mission in Partnership with Amazon](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-first-mission-in-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T153443">2023-10-07 15:34:43 UTC</a></sub>
-* [Cosmic cocktail hour](https://www.planetary.org/the-downlink/cosmic-cocktail-hour) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T143436">2023-10-06 14:34:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T143218">2023-10-20 14:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T150642">2023-10-20 15:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
