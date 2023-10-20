@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Pakistan becomes latest country to join China’s ILRS moon project](https://spacenews.com/pakistan-becomes-latest-country-to-join-chinas-ilrs-moon-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T182329">2023-10-20 18:23:29 UTC</a></sub>
 * [Canada’s budget boost for Radarsat is part of its climate strategy](https://spacenews.com/canadas-budget-boost-for-radarsat-is-part-of-its-climate-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T173813">2023-10-20 17:38:13 UTC</a></sub>
 * [Why NASA’s return to the Moon will likely succeed this time](https://arstechnica.com/space/2023/10/why-nasas-return-to-the-moon-will-likely-succeed-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T152104">2023-10-20 15:21:04 UTC</a></sub>
 * [Blueprint for an In-Space Community](https://spacenews.com/blueprint-for-an-in-space-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T140000">2023-10-20 14:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Key Ariane 6 test rescheduled for November](https://spacenews.com/key-ariane-6-test-rescheduled-for-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T085501">2023-10-20 08:55:01 UTC</a></sub>
 * [Latitude Double Factory Floor Space](https://europeanspaceflight.com/latitude-double-factory-floor-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T080915">2023-10-20 08:09:15 UTC</a></sub>
 * [U.S. Space Force seeks to work closer with allies in face of shared threats](https://spacenews.com/u-s-space-force-seeks-to-work-closer-with-allies-in-face-of-shared-threats/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T223510">2023-10-19 22:35:10 UTC</a></sub>
-* [UK funds surveillance satellite replacement lost in Virgin Orbit failure](https://spacenews.com/uk-funds-surveillance-satellite-replacement-lost-in-virgin-orbit-failure/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T215454">2023-10-19 21:54:54 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -591,13 +591,13 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Behold, the moon(s)!](https://www.planetary.org/the-downlink/behold-the-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T143438">2023-10-20 14:34:38 UTC</a></sub>
 * [SLIM, Japan’s precision lunar lander](https://www.planetary.org/space-missions/slim-japans-precision-lunar-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T143434">2023-10-19 14:34:34 UTC</a></sub>
 * [Is the Mars Earth Return Orbiter doomed?](https://europeanspaceflight.substack.com/p/is-the-mars-earth-return-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T143021">2023-10-18 14:30:21 UTC</a></sub>
+* [Science Editor](https://www.planetary.org/careers/science-editor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T190446">2023-10-17 19:04:46 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 9-15, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120721">2023-10-16 12:07:21 UTC</a></sub>
 * [Syzygy + apogee = majesty](https://www.planetary.org/the-downlink/syzygy-apogee-majesty) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T143451">2023-10-13 14:34:51 UTC</a></sub>
 * [How astronomers search for life on exoplanets](https://www.planetary.org/articles/how-astronomers-search-for-life-on-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T145519">2023-10-11 14:55:19 UTC</a></sub>
 * [ArianeGroup Wants €210M Per Year More to Operate Ariane 6](https://europeanspaceflight.substack.com/p/arianegroup-wants-210m-per-year-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140136">2023-10-11 14:01:36 UTC</a></sub>
 * [How do humans try to communicate with aliens?](https://www.planetary.org/articles/how-do-humans-try-to-communicate-with-aliens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T140435">2023-10-10 14:04:35 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 2-8, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-2-8-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T122555">2023-10-09 12:25:55 UTC</a></sub>
-* [United Launch Alliance Successfully Launches First Mission in Partnership with Amazon](https://blog.ulalaunch.com/blog/united-launch-alliance-successfully-launches-first-mission-in-partnership-with-amazon) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T153443">2023-10-07 15:34:43 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T183239">2023-10-20 18:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T190558">2023-10-20 19:05:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
