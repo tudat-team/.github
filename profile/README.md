@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Upgraded star trackers could give more satellites a debris-monitoring role](https://spacenews.com/upgraded-star-trackers-could-give-more-satellites-a-debris-monitoring-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T210111">2023-10-20 21:01:11 UTC</a></sub>
+* [ISS Roundup: Expedition 70 underway, Rubio’s record stay in space, technical issues, upcoming EVAs](https://www.nasaspaceflight.com/2023/10/iss-roundup-oct23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T200950">2023-10-20 20:09:50 UTC</a></sub>
 * [PLD Space calls first launch a success](https://spacenews.com/pld-space-calls-first-launch-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T194444">2023-10-20 19:44:44 UTC</a></sub>
 * [Space Development Agency awards York Space $615 million contract for 62 satellites](https://spacenews.com/space-development-agency-awards-york-space-615-million-contract-for-62-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T190550">2023-10-20 19:05:50 UTC</a></sub>
 * [Pakistan becomes latest country to join China’s ILRS moon project](https://spacenews.com/pakistan-becomes-latest-country-to-join-chinas-ilrs-moon-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T182329">2023-10-20 18:23:29 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blueprint for an In-Space Community](https://spacenews.com/blueprint-for-an-in-space-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T140000">2023-10-20 14:00:00 UTC</a></sub>
 * [POLARIS Spaceplanes Begins Testing MIRA Demonstrator](https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-mira-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T131155">2023-10-20 13:11:55 UTC</a></sub>
 * [SpaceX frustrated by Starship licensing delays](https://spacenews.com/spacex-frustrated-by-starship-licensing-delays/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T112814">2023-10-20 11:28:14 UTC</a></sub>
-* [Rocket Report: Key Ariane 6 test delayed; NASA urged to look at SLS alternatives](https://arstechnica.com/space/2023/10/rocket-report-key-ariane-6-test-delayed-nasa-urged-to-look-at-sls-alternatives/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T110037">2023-10-20 11:00:37 UTC</a></sub>
-* [Key Ariane 6 test rescheduled for November](https://spacenews.com/key-ariane-6-test-rescheduled-for-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T085501">2023-10-20 08:55:01 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T203220">2023-10-20 20:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T210607">2023-10-20 21:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
