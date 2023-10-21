@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA starts reassessment of Mars Sample Return architecture](https://spacenews.com/nasa-starts-reassessment-of-mars-sample-return-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T171544">2023-10-21 17:15:44 UTC</a></sub>
 * [India Aces Crew Capsule Abort Test](https://spacepolicyonline.com/news/india-aces-crew-capsule-abort-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T162503">2023-10-21 16:25:03 UTC</a></sub>
 * [India tests launch escape system in step towards sending astronauts to orbit](https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T115642">2023-10-21 11:56:42 UTC</a></sub>
 * [RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service](https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T105003">2023-10-21 10:50:03 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [PLD Space calls first launch a success](https://spacenews.com/pld-space-calls-first-launch-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T194444">2023-10-20 19:44:44 UTC</a></sub>
 * [Space Development Agency awards York Space $615 million contract for 62 satellites](https://spacenews.com/space-development-agency-awards-york-space-615-million-contract-for-62-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T190550">2023-10-20 19:05:50 UTC</a></sub>
 * [Pakistan becomes latest country to join China’s ILRS moon project](https://spacenews.com/pakistan-becomes-latest-country-to-join-chinas-ilrs-moon-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T182329">2023-10-20 18:23:29 UTC</a></sub>
-* [Canada’s budget boost for Radarsat is part of its climate strategy](https://spacenews.com/canadas-budget-boost-for-radarsat-is-part-of-its-climate-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T173813">2023-10-20 17:38:13 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T173220">2023-10-21 17:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T180827">2023-10-21 18:08:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
