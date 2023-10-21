@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [India tests launch escape system in step towards sending astronauts to orbit](https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T115642">2023-10-21 11:56:42 UTC</a></sub>
 * [RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service](https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T105003">2023-10-21 10:50:03 UTC</a></sub>
 * [NASA Upbeat About Future of Mars Sample Return Despite IRB-2 Report](https://spacepolicyonline.com/news/nasa-upbeat-about-future-of-mars-sample-return-despite-irb-2-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T035023">2023-10-21 03:50:23 UTC</a></sub>
 * [Upgraded star trackers could give more satellites a debris-monitoring role](https://spacenews.com/upgraded-star-trackers-could-give-more-satellites-a-debris-monitoring-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T210111">2023-10-20 21:01:11 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pakistan becomes latest country to join China’s ILRS moon project](https://spacenews.com/pakistan-becomes-latest-country-to-join-chinas-ilrs-moon-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T182329">2023-10-20 18:23:29 UTC</a></sub>
 * [Canada’s budget boost for Radarsat is part of its climate strategy](https://spacenews.com/canadas-budget-boost-for-radarsat-is-part-of-its-climate-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T173813">2023-10-20 17:38:13 UTC</a></sub>
 * [Why NASA’s return to the Moon will likely succeed this time](https://arstechnica.com/space/2023/10/why-nasas-return-to-the-moon-will-likely-succeed-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T152104">2023-10-20 15:21:04 UTC</a></sub>
-* [Blueprint for an In-Space Community](https://spacenews.com/blueprint-for-an-in-space-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T140000">2023-10-20 14:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T113208">2023-10-21 11:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T121215">2023-10-21 12:12:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
