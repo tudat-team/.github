@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service](https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T105003">2023-10-21 10:50:03 UTC</a></sub>
 * [NASA Upbeat About Future of Mars Sample Return Despite IRB-2 Report](https://spacepolicyonline.com/news/nasa-upbeat-about-future-of-mars-sample-return-despite-irb-2-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T035023">2023-10-21 03:50:23 UTC</a></sub>
 * [Upgraded star trackers could give more satellites a debris-monitoring role](https://spacenews.com/upgraded-star-trackers-could-give-more-satellites-a-debris-monitoring-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T210111">2023-10-20 21:01:11 UTC</a></sub>
 * [ISS Roundup: Expedition 70 underway, Rubio’s record stay in space, technical issues, upcoming EVAs](https://www.nasaspaceflight.com/2023/10/iss-roundup-oct23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T200950">2023-10-20 20:09:50 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Canada’s budget boost for Radarsat is part of its climate strategy](https://spacenews.com/canadas-budget-boost-for-radarsat-is-part-of-its-climate-strategy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T173813">2023-10-20 17:38:13 UTC</a></sub>
 * [Why NASA’s return to the Moon will likely succeed this time](https://arstechnica.com/space/2023/10/why-nasas-return-to-the-moon-will-likely-succeed-this-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T152104">2023-10-20 15:21:04 UTC</a></sub>
 * [Blueprint for an In-Space Community](https://spacenews.com/blueprint-for-an-in-space-community/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T140000">2023-10-20 14:00:00 UTC</a></sub>
-* [POLARIS Spaceplanes Begins Testing MIRA Demonstrator](https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-mira-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T131155">2023-10-20 13:11:55 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T103210">2023-10-21 10:32:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T110517">2023-10-21 11:05:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
