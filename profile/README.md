@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force sets sights on small geostationary communications satellites](https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T102948">2023-10-22 10:29:48 UTC</a></sub>
 * [NASA starts reassessment of Mars Sample Return architecture](https://spacenews.com/nasa-starts-reassessment-of-mars-sample-return-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T171544">2023-10-21 17:15:44 UTC</a></sub>
 * [India Aces Crew Capsule Abort Test](https://spacepolicyonline.com/news/india-aces-crew-capsule-abort-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T162503">2023-10-21 16:25:03 UTC</a></sub>
 * [India tests launch escape system in step towards sending astronauts to orbit](https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T115642">2023-10-21 11:56:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ISS Roundup: Expedition 70 underway, Rubio’s record stay in space, technical issues, upcoming EVAs](https://www.nasaspaceflight.com/2023/10/iss-roundup-oct23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T200950">2023-10-20 20:09:50 UTC</a></sub>
 * [PLD Space calls first launch a success](https://spacenews.com/pld-space-calls-first-launch-a-success/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T194444">2023-10-20 19:44:44 UTC</a></sub>
 * [Space Development Agency awards York Space $615 million contract for 62 satellites](https://spacenews.com/space-development-agency-awards-york-space-615-million-contract-for-62-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T190550">2023-10-20 19:05:50 UTC</a></sub>
-* [Pakistan becomes latest country to join China’s ILRS moon project](https://spacenews.com/pakistan-becomes-latest-country-to-join-chinas-ilrs-moon-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T182329">2023-10-20 18:23:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T103219">2023-10-22 10:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T110510">2023-10-22 11:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
