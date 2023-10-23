@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [German Offshore Spaceport to Host First Launch in Early 2024](https://europeanspaceflight.com/german-offshore-spaceport-to-host-first-launch-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T142229">2023-10-23 14:22:29 UTC</a></sub>
+* [We’re entering a pretty strong El Niño—here’s what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T141401">2023-10-23 14:14:01 UTC</a></sub>
 * [The Daily Telescope: A look at a young star cluster in a nearby galaxy](https://arstechnica.com/space/2023/10/the-daily-telescope-a-look-at-a-young-star-cluster-in-a-nearby-galaxy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T120046">2023-10-23 12:00:46 UTC</a></sub>
 * [Varda partners with Australian range for capsule landings](https://spacenews.com/varda-partners-with-australian-range-for-capsule-landings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T103315">2023-10-23 10:33:15 UTC</a></sub>
 * [What’s Happening in Space Policy October 22-28, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-22-28-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T213144">2023-10-22 21:31:44 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA starts reassessment of Mars Sample Return architecture](https://spacenews.com/nasa-starts-reassessment-of-mars-sample-return-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T171544">2023-10-21 17:15:44 UTC</a></sub>
 * [India Aces Crew Capsule Abort Test](https://spacepolicyonline.com/news/india-aces-crew-capsule-abort-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T162503">2023-10-21 16:25:03 UTC</a></sub>
 * [India tests launch escape system in step towards sending astronauts to orbit](https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T115642">2023-10-21 11:56:42 UTC</a></sub>
-* [RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service](https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T105003">2023-10-21 10:50:03 UTC</a></sub>
-* [NASA Upbeat About Future of Mars Sample Return Despite IRB-2 Report](https://spacepolicyonline.com/news/nasa-upbeat-about-future-of-mars-sample-return-despite-irb-2-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T035023">2023-10-21 03:50:23 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T143306">2023-10-23 14:33:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T150810">2023-10-23 15:08:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
