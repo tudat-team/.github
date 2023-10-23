@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force identifying priorities for modernizing spaceports](https://spacenews.com/space-force-identifying-priorities-for-modernizing-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202310">2023-10-23 20:23:10 UTC</a></sub>
 * [China adds Belarus as partner for ILRS moon base](https://spacenews.com/china-adds-belarus-as-partner-for-ilrs-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T173621">2023-10-23 17:36:21 UTC</a></sub>
 * [German Offshore Spaceport to Host First Launch in Early 2024](https://europeanspaceflight.com/german-offshore-spaceport-to-host-first-launch-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T142229">2023-10-23 14:22:29 UTC</a></sub>
 * [We’re entering a pretty strong El Niño—here’s what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T141401">2023-10-23 14:14:01 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Through international collaboration, scientists find cause of InSight’s most powerful Marsquake](https://www.nasaspaceflight.com/2023/10/s1222a-origins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T204003">2023-10-22 20:40:03 UTC</a></sub>
 * [Space Force sets sights on small geostationary communications satellites](https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T102948">2023-10-22 10:29:48 UTC</a></sub>
 * [NASA starts reassessment of Mars Sample Return architecture](https://spacenews.com/nasa-starts-reassessment-of-mars-sample-return-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T171544">2023-10-21 17:15:44 UTC</a></sub>
-* [India Aces Crew Capsule Abort Test](https://spacepolicyonline.com/news/india-aces-crew-capsule-abort-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T162503">2023-10-21 16:25:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: October 16-22, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202922">2023-10-23 20:29:22 UTC</a></sub>
 * [Behold, the moon(s)!](https://www.planetary.org/the-downlink/behold-the-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T143438">2023-10-20 14:34:38 UTC</a></sub>
 * [SLIM, Japan’s precision lunar lander](https://www.planetary.org/space-missions/slim-japans-precision-lunar-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T143434">2023-10-19 14:34:34 UTC</a></sub>
 * [Is the Mars Earth Return Orbiter doomed?](https://europeanspaceflight.substack.com/p/is-the-mars-earth-return-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T143021">2023-10-18 14:30:21 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [How astronomers search for life on exoplanets](https://www.planetary.org/articles/how-astronomers-search-for-life-on-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T145519">2023-10-11 14:55:19 UTC</a></sub>
 * [ArianeGroup Wants €210M Per Year More to Operate Ariane 6](https://europeanspaceflight.substack.com/p/arianegroup-wants-210m-per-year-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140136">2023-10-11 14:01:36 UTC</a></sub>
 * [How do humans try to communicate with aliens?](https://www.planetary.org/articles/how-do-humans-try-to-communicate-with-aliens) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T140435">2023-10-10 14:04:35 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: October 2-8, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-2-8-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T122555">2023-10-09 12:25:55 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T203223">2023-10-23 20:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T210657">2023-10-23 21:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
