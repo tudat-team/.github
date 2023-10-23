@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China adds Belarus as partner for ILRS moon base](https://spacenews.com/china-adds-belarus-as-partner-for-ilrs-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T173621">2023-10-23 17:36:21 UTC</a></sub>
 * [German Offshore Spaceport to Host First Launch in Early 2024](https://europeanspaceflight.com/german-offshore-spaceport-to-host-first-launch-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T142229">2023-10-23 14:22:29 UTC</a></sub>
 * [We’re entering a pretty strong El Niño—here’s what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T141401">2023-10-23 14:14:01 UTC</a></sub>
 * [The Daily Telescope: A look at a young star cluster in a nearby galaxy](https://arstechnica.com/space/2023/10/the-daily-telescope-a-look-at-a-young-star-cluster-in-a-nearby-galaxy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T120046">2023-10-23 12:00:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force sets sights on small geostationary communications satellites](https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T102948">2023-10-22 10:29:48 UTC</a></sub>
 * [NASA starts reassessment of Mars Sample Return architecture](https://spacenews.com/nasa-starts-reassessment-of-mars-sample-return-architecture/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T171544">2023-10-21 17:15:44 UTC</a></sub>
 * [India Aces Crew Capsule Abort Test](https://spacepolicyonline.com/news/india-aces-crew-capsule-abort-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T162503">2023-10-21 16:25:03 UTC</a></sub>
-* [India tests launch escape system in step towards sending astronauts to orbit](https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T115642">2023-10-21 11:56:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T173218">2023-10-23 17:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T180828">2023-10-23 18:08:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
