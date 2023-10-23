@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Daily Telescope: A look at a young star cluster in a nearby galaxy](https://arstechnica.com/space/2023/10/the-daily-telescope-a-look-at-a-young-star-cluster-in-a-nearby-galaxy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T120046">2023-10-23 12:00:46 UTC</a></sub>
 * [Varda partners with Australian range for capsule landings](https://spacenews.com/varda-partners-with-australian-range-for-capsule-landings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T103315">2023-10-23 10:33:15 UTC</a></sub>
 * [What’s Happening in Space Policy October 22-28, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-22-28-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T213144">2023-10-22 21:31:44 UTC</a></sub>
 * [Through international collaboration, scientists find cause of InSight’s most powerful Marsquake](https://www.nasaspaceflight.com/2023/10/s1222a-origins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T204003">2023-10-22 20:40:03 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [India tests launch escape system in step towards sending astronauts to orbit](https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T115642">2023-10-21 11:56:42 UTC</a></sub>
 * [RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service](https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T105003">2023-10-21 10:50:03 UTC</a></sub>
 * [NASA Upbeat About Future of Mars Sample Return Despite IRB-2 Report](https://spacepolicyonline.com/news/nasa-upbeat-about-future-of-mars-sample-return-despite-irb-2-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T035023">2023-10-21 03:50:23 UTC</a></sub>
-* [Upgraded star trackers could give more satellites a debris-monitoring role](https://spacenews.com/upgraded-star-trackers-could-give-more-satellites-a-debris-monitoring-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T210111">2023-10-20 21:01:11 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T113231">2023-10-23 11:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T121410">2023-10-23 12:14:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
