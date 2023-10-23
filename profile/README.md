@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Varda partners with Australian range for capsule landings](https://spacenews.com/varda-partners-with-australian-range-for-capsule-landings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T103315">2023-10-23 10:33:15 UTC</a></sub>
 * [What’s Happening in Space Policy October 22-28, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-22-28-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T213144">2023-10-22 21:31:44 UTC</a></sub>
 * [Through international collaboration, scientists find cause of InSight’s most powerful Marsquake](https://www.nasaspaceflight.com/2023/10/s1222a-origins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T204003">2023-10-22 20:40:03 UTC</a></sub>
 * [Space Force sets sights on small geostationary communications satellites](https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T102948">2023-10-22 10:29:48 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service](https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T105003">2023-10-21 10:50:03 UTC</a></sub>
 * [NASA Upbeat About Future of Mars Sample Return Despite IRB-2 Report](https://spacepolicyonline.com/news/nasa-upbeat-about-future-of-mars-sample-return-despite-irb-2-report/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T035023">2023-10-21 03:50:23 UTC</a></sub>
 * [Upgraded star trackers could give more satellites a debris-monitoring role](https://spacenews.com/upgraded-star-trackers-could-give-more-satellites-a-debris-monitoring-role/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T210111">2023-10-20 21:01:11 UTC</a></sub>
-* [ISS Roundup: Expedition 70 underway, Rubio’s record stay in space, technical issues, upcoming EVAs](https://www.nasaspaceflight.com/2023/10/iss-roundup-oct23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T200950">2023-10-20 20:09:50 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T103426">2023-10-23 10:34:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T110623">2023-10-23 11:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
