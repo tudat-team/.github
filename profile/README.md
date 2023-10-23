@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SwRi wins QuickSounder weather satellite contract](https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T225342">2023-10-23 22:53:42 UTC</a></sub>
 * [Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station](https://www.nasaspaceflight.com/2023/10/launch-roundup-03/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T213529">2023-10-23 21:35:29 UTC</a></sub>
 * [Space Force identifying priorities for modernizing spaceports](https://spacenews.com/space-force-identifying-priorities-for-modernizing-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202310">2023-10-23 20:23:10 UTC</a></sub>
 * [China adds Belarus as partner for ILRS moon base](https://spacenews.com/china-adds-belarus-as-partner-for-ilrs-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T173621">2023-10-23 17:36:21 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Varda partners with Australian range for capsule landings](https://spacenews.com/varda-partners-with-australian-range-for-capsule-landings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T103315">2023-10-23 10:33:15 UTC</a></sub>
 * [What’s Happening in Space Policy October 22-28, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-22-28-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T213144">2023-10-22 21:31:44 UTC</a></sub>
 * [Through international collaboration, scientists find cause of InSight’s most powerful Marsquake](https://www.nasaspaceflight.com/2023/10/s1222a-origins/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T204003">2023-10-22 20:40:03 UTC</a></sub>
-* [Space Force sets sights on small geostationary communications satellites](https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T102948">2023-10-22 10:29:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T223217">2023-10-23 22:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T230715">2023-10-23 23:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
