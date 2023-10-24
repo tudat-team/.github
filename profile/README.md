@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [The Daily Telescope: A Moon above the sanctuary of Tindari](https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T120023">2023-10-24 12:00:23 UTC</a></sub>
+* [The Daily Telescope: A quarter Moon over Sicily reflects light from Earth](https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T120023">2023-10-24 12:00:23 UTC</a></sub>
 * [ITU to consider lunar communications regulations](https://spacenews.com/itu-to-consider-lunar-communications-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T112944">2023-10-24 11:29:44 UTC</a></sub>
 * [Japanese government grant to support work on new ispace lunar lander](https://spacenews.com/japanese-government-grant-to-support-work-on-new-ispace-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103753">2023-10-24 10:37:53 UTC</a></sub>
 * [Terran Orbital to build 36 satellite buses for Lockheed Martin](https://spacenews.com/terran-orbital-to-build-36-satellite-buses-for-lockheed-martin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103500">2023-10-24 10:35:00 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T121340">2023-10-24 12:13:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T124733">2023-10-24 12:47:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
