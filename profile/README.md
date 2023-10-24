@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [DoD developing strategy to tap commercial space market ](https://spacenews.com/dod-developing-strategy-to-tap-commercial-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T201435">2023-10-24 20:14:35 UTC</a></sub>
 * [The Daily Telescope: A quarter Moon over Sicily reflects light from Earth](https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T120023">2023-10-24 12:00:23 UTC</a></sub>
 * [ITU to consider lunar communications regulations](https://spacenews.com/itu-to-consider-lunar-communications-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T112944">2023-10-24 11:29:44 UTC</a></sub>
 * [Japanese government grant to support work on new ispace lunar lander](https://spacenews.com/japanese-government-grant-to-support-work-on-new-ispace-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103753">2023-10-24 10:37:53 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station](https://www.nasaspaceflight.com/2023/10/launch-roundup-03/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T213529">2023-10-23 21:35:29 UTC</a></sub>
 * [Space Force identifying priorities for modernizing spaceports](https://spacenews.com/space-force-identifying-priorities-for-modernizing-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202310">2023-10-23 20:23:10 UTC</a></sub>
 * [China adds Belarus as partner for ILRS moon base](https://spacenews.com/china-adds-belarus-as-partner-for-ilrs-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T173621">2023-10-23 17:36:21 UTC</a></sub>
-* [German Offshore Spaceport to Host First Launch in Early 2024](https://europeanspaceflight.com/german-offshore-spaceport-to-host-first-launch-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T142229">2023-10-23 14:22:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T203217">2023-10-24 20:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T210650">2023-10-24 21:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
