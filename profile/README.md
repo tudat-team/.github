@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Japanese government grant to support work on new ispace lunar lander](https://spacenews.com/japanese-government-grant-to-support-work-on-new-ispace-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103753">2023-10-24 10:37:53 UTC</a></sub>
+* [Terran Orbital to build 36 satellite buses for Lockheed Martin](https://spacenews.com/terran-orbital-to-build-36-satellite-buses-for-lockheed-martin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103500">2023-10-24 10:35:00 UTC</a></sub>
 * [Belt-Tightening Could Mean Fewer Hubble and Chandra Observations](https://spacepolicyonline.com/news/belt-tightening-could-mean-fewer-hubble-and-chandra-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T034143">2023-10-24 03:41:43 UTC</a></sub>
 * [SwRI wins QuickSounder weather satellite contract](https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T225342">2023-10-23 22:53:42 UTC</a></sub>
 * [Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station](https://www.nasaspaceflight.com/2023/10/launch-roundup-03/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T213529">2023-10-23 21:35:29 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [German Offshore Spaceport to Host First Launch in Early 2024](https://europeanspaceflight.com/german-offshore-spaceport-to-host-first-launch-in-early-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T142229">2023-10-23 14:22:29 UTC</a></sub>
 * [We’re entering a pretty strong El Niño—here’s what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T141401">2023-10-23 14:14:01 UTC</a></sub>
 * [The Daily Telescope: A look at a young star cluster in a nearby galaxy](https://arstechnica.com/space/2023/10/the-daily-telescope-a-look-at-a-young-star-cluster-in-a-nearby-galaxy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T120046">2023-10-23 12:00:46 UTC</a></sub>
-* [Varda partners with Australian range for capsule landings](https://spacenews.com/varda-partners-with-australian-range-for-capsule-landings/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T103315">2023-10-23 10:33:15 UTC</a></sub>
-* [What’s Happening in Space Policy October 22-28, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-22-28-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T213144">2023-10-22 21:31:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103425">2023-10-24 10:34:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T110602">2023-10-24 11:06:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
