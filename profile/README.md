@@ -569,7 +569,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <!-- spaceflight news starts -->
 * [Belt-Tightening Could Mean Fewer Hubble and Chandra Observations](https://spacepolicyonline.com/news/belt-tightening-could-mean-fewer-hubble-and-chandra-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T034143">2023-10-24 03:41:43 UTC</a></sub>
-* [SwRi wins QuickSounder weather satellite contract](https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T225342">2023-10-23 22:53:42 UTC</a></sub>
+* [SwRI wins QuickSounder weather satellite contract](https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T225342">2023-10-23 22:53:42 UTC</a></sub>
 * [Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station](https://www.nasaspaceflight.com/2023/10/launch-roundup-03/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T213529">2023-10-23 21:35:29 UTC</a></sub>
 * [Space Force identifying priorities for modernizing spaceports](https://spacenews.com/space-force-identifying-priorities-for-modernizing-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202310">2023-10-23 20:23:10 UTC</a></sub>
 * [China adds Belarus as partner for ILRS moon base](https://spacenews.com/china-adds-belarus-as-partner-for-ilrs-moon-base/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T173621">2023-10-23 17:36:21 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T083302">2023-10-24 08:33:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T090800">2023-10-24 09:08:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
