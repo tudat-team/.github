@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Daily Telescope: A closer look at the most-distant object visible to the naked eye](https://arstechnica.com/space/2023/10/daily-telescope-a-closer-look-at-the-most-distant-object-visible-to-the-naked-eye/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T120040">2023-10-25 12:00:40 UTC</a></sub>
+* [U.S. and Chinese officials meet to discuss space safety](https://spacenews.com/u-s-and-chinese-officials-meet-to-discuss-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T110628">2023-10-25 11:06:28 UTC</a></sub>
 * [UK Space Agency Signs Agreement with Axiom Space](https://europeanspaceflight.com/uk-space-agency-signs-agreement-with-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T064907">2023-10-25 06:49:07 UTC</a></sub>
 * [ULA sets Christmas Eve launch date for first Vulcan Centaur](https://spacenews.com/ula-sets-christmas-eve-launch-date-for-first-vulcan-centaur/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T213908">2023-10-24 21:39:08 UTC</a></sub>
 * [DoD developing strategy to tap commercial space market ](https://spacenews.com/dod-developing-strategy-to-tap-commercial-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T201435">2023-10-24 20:14:35 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Japanese government grant to support work on new ispace lunar lander](https://spacenews.com/japanese-government-grant-to-support-work-on-new-ispace-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103753">2023-10-24 10:37:53 UTC</a></sub>
 * [Terran Orbital to build 36 satellite buses for Lockheed Martin](https://spacenews.com/terran-orbital-to-build-36-satellite-buses-for-lockheed-martin/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103500">2023-10-24 10:35:00 UTC</a></sub>
 * [Belt-Tightening Could Mean Fewer Hubble and Chandra Observations](https://spacepolicyonline.com/news/belt-tightening-could-mean-fewer-hubble-and-chandra-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T034143">2023-10-24 03:41:43 UTC</a></sub>
-* [SwRI wins QuickSounder weather satellite contract](https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T225342">2023-10-23 22:53:42 UTC</a></sub>
-* [Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station](https://www.nasaspaceflight.com/2023/10/launch-roundup-03/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T213529">2023-10-23 21:35:29 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T113219">2023-10-25 11:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T121337">2023-10-25 12:13:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
