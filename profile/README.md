@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK Space Agency Signs Agreement with Axiom Space](https://europeanspaceflight.com/uk-space-agency-signs-agreement-with-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T064907">2023-10-25 06:49:07 UTC</a></sub>
 * [ULA sets Christmas Eve launch date for first Vulcan Centaur](https://spacenews.com/ula-sets-christmas-eve-launch-date-for-first-vulcan-centaur/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T213908">2023-10-24 21:39:08 UTC</a></sub>
 * [DoD developing strategy to tap commercial space market ](https://spacenews.com/dod-developing-strategy-to-tap-commercial-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T201435">2023-10-24 20:14:35 UTC</a></sub>
 * [The Daily Telescope: A quarter Moon over Sicily reflects light from Earth](https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T120023">2023-10-24 12:00:23 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Belt-Tightening Could Mean Fewer Hubble and Chandra Observations](https://spacepolicyonline.com/news/belt-tightening-could-mean-fewer-hubble-and-chandra-observations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T034143">2023-10-24 03:41:43 UTC</a></sub>
 * [SwRI wins QuickSounder weather satellite contract](https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T225342">2023-10-23 22:53:42 UTC</a></sub>
 * [Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station](https://www.nasaspaceflight.com/2023/10/launch-roundup-03/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T213529">2023-10-23 21:35:29 UTC</a></sub>
-* [Space Force identifying priorities for modernizing spaceports](https://spacenews.com/space-force-identifying-priorities-for-modernizing-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202310">2023-10-23 20:23:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T063338">2023-10-25 06:33:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T070659">2023-10-25 07:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
