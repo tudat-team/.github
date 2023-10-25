@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab expects to resume Electron launches before year-end after September failure](https://www.cnbc.com/2023/10/25/rocket-lab-to-resume-electron-launches-after-september-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T204533">2023-10-25 20:45:33 UTC</a></sub>
 * [Boeing says it can’t make money with fixed-price contracts](https://arstechnica.com/space/2023/10/boeing-says-it-cant-make-money-with-fixed-price-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180707">2023-10-25 18:07:07 UTC</a></sub>
 * [Navigating the 3rd Wave of the New Space economy](https://spacenews.com/navigating-the-3rd-wave-of-the-new-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180608">2023-10-25 18:06:08 UTC</a></sub>
 * [Space Force planning $8 billion satellite architecture for nuclear command and control](https://spacenews.com/space-force-planning-8-billion-satellite-architecture-for-nuclear-command-and-control/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180446">2023-10-25 18:04:46 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Daily Telescope: A closer look at the most-distant object visible to the naked eye](https://arstechnica.com/space/2023/10/daily-telescope-a-closer-look-at-the-most-distant-object-visible-to-the-naked-eye/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T120040">2023-10-25 12:00:40 UTC</a></sub>
 * [U.S. and Chinese officials meet to discuss space safety](https://spacenews.com/u-s-and-chinese-officials-meet-to-discuss-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T110628">2023-10-25 11:06:28 UTC</a></sub>
 * [UK Space Agency Signs Agreement with Axiom Space](https://europeanspaceflight.com/uk-space-agency-signs-agreement-with-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T064907">2023-10-25 06:49:07 UTC</a></sub>
-* [ULA sets Christmas Eve launch date for first Vulcan Centaur](https://spacenews.com/ula-sets-christmas-eve-launch-date-for-first-vulcan-centaur/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T213908">2023-10-24 21:39:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T203231">2023-10-25 20:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T210727">2023-10-25 21:07:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
