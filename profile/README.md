@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Boeing says it can’t make money with fixed-price contracts](https://arstechnica.com/space/2023/10/boeing-says-it-cant-make-money-with-fixed-price-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180707">2023-10-25 18:07:07 UTC</a></sub>
+* [Navigating the 3rd Wave of the New Space economy](https://spacenews.com/navigating-the-3rd-wave-of-the-new-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180608">2023-10-25 18:06:08 UTC</a></sub>
+* [Space Force planning $8 billion satellite architecture for nuclear command and control](https://spacenews.com/space-force-planning-8-billion-satellite-architecture-for-nuclear-command-and-control/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180446">2023-10-25 18:04:46 UTC</a></sub>
 * [ESA to Begin Testing Ariane 6 Upgrade](https://europeanspaceflight.com/esa-to-begin-testing-ariane-6-upgrade/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T141508">2023-10-25 14:15:08 UTC</a></sub>
 * [China’s commercial launch firms get space station cargo boost](https://spacenews.com/chinas-commercial-launch-firms-get-space-station-cargo-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T123533">2023-10-25 12:35:33 UTC</a></sub>
 * [NASA emphasizes need for mission authorization](https://spacenews.com/nasa-emphasizes-need-for-mission-authorization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T120740">2023-10-25 12:07:40 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. and Chinese officials meet to discuss space safety](https://spacenews.com/u-s-and-chinese-officials-meet-to-discuss-space-safety/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T110628">2023-10-25 11:06:28 UTC</a></sub>
 * [UK Space Agency Signs Agreement with Axiom Space](https://europeanspaceflight.com/uk-space-agency-signs-agreement-with-axiom-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T064907">2023-10-25 06:49:07 UTC</a></sub>
 * [ULA sets Christmas Eve launch date for first Vulcan Centaur](https://spacenews.com/ula-sets-christmas-eve-launch-date-for-first-vulcan-centaur/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T213908">2023-10-24 21:39:08 UTC</a></sub>
-* [DoD developing strategy to tap commercial space market ](https://spacenews.com/dod-developing-strategy-to-tap-commercial-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T201435">2023-10-24 20:14:35 UTC</a></sub>
-* [The Daily Telescope: A quarter Moon over Sicily reflects light from Earth](https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T120023">2023-10-24 12:00:23 UTC</a></sub>
-* [ITU to consider lunar communications regulations](https://spacenews.com/itu-to-consider-lunar-communications-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T112944">2023-10-24 11:29:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T183226">2023-10-25 18:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T190606">2023-10-25 19:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
