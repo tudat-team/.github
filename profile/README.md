@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA to Begin Testing Ariane 6 Upgrade](https://europeanspaceflight.com/esa-to-begin-testing-ariane-6-upgrade/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T141508">2023-10-25 14:15:08 UTC</a></sub>
 * [China’s commercial launch firms get space station cargo boost](https://spacenews.com/chinas-commercial-launch-firms-get-space-station-cargo-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T123533">2023-10-25 12:35:33 UTC</a></sub>
 * [NASA emphasizes need for mission authorization](https://spacenews.com/nasa-emphasizes-need-for-mission-authorization/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T120740">2023-10-25 12:07:40 UTC</a></sub>
 * [Daily Telescope: A closer look at the most-distant object visible to the naked eye](https://arstechnica.com/space/2023/10/daily-telescope-a-closer-look-at-the-most-distant-object-visible-to-the-naked-eye/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T120040">2023-10-25 12:00:40 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DoD developing strategy to tap commercial space market ](https://spacenews.com/dod-developing-strategy-to-tap-commercial-space-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T201435">2023-10-24 20:14:35 UTC</a></sub>
 * [The Daily Telescope: A quarter Moon over Sicily reflects light from Earth](https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T120023">2023-10-24 12:00:23 UTC</a></sub>
 * [ITU to consider lunar communications regulations](https://spacenews.com/itu-to-consider-lunar-communications-regulations/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T112944">2023-10-24 11:29:44 UTC</a></sub>
-* [Japanese government grant to support work on new ispace lunar lander](https://spacenews.com/japanese-government-grant-to-support-work-on-new-ispace-lunar-lander/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103753">2023-10-24 10:37:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T143223">2023-10-25 14:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T150726">2023-10-25 15:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
