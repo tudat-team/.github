@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [AFRL, Space Force to collaborate with Indian startups on space technologies](https://spacenews.com/afrl-space-force-to-collaborate-with-indian-startups-on-space-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T200448">2023-10-26 20:04:48 UTC</a></sub>
 * [NASA Is Locating Ice on Mars With This New Map](https://mars.nasa.gov/news/9502/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T174400">2023-10-26 17:44:00 UTC</a></sub>
 * [Investing in Space: How the Pentagon sizes up China’s military strength in space](https://www.cnbc.com/2023/10/26/investing-in-space-the-pentagon-sizes-up-chinas-military-strength.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T154741">2023-10-26 15:47:41 UTC</a></sub>
 * [Tesat optical terminals selected for Lockheed Martin satellites pass ground tests](https://spacenews.com/tesat-optical-terminals-selected-for-lockheed-martin-satellites-pass-ground-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T145259">2023-10-26 14:52:59 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China Launches New Space Station Crew](https://spacepolicyonline.com/news/china-launches-new-space-station-crew/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T035105">2023-10-26 03:51:05 UTC</a></sub>
 * [ABL Space Systems prepares for second RS1 launch](https://spacenews.com/abl-space-systems-prepares-for-second-rs1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T021836">2023-10-26 02:18:36 UTC</a></sub>
 * [Speaker Mike Johnson: “The People’s House is Back in Business”](https://spacepolicyonline.com/news/speaker-mike-johnson-the-peoples-house-is-back-in-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T021736">2023-10-26 02:17:36 UTC</a></sub>
-* [Rocket Lab projects Electron return to flight in fourth quarter](https://spacenews.com/rocket-lab-projects-electron-return-to-flight-in-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T001945">2023-10-26 00:19:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T203236">2023-10-26 20:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T210645">2023-10-26 21:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
