@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Avio Just Needs Some Space from Arianespace](https://europeanspaceflight.com/avio-just-needs-some-space-from-arianespace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T140020">2023-10-26 14:00:20 UTC</a></sub>
 * [Daily Telescope: Snapshot of a brilliant green comet before it left forever](https://arstechnica.com/space/2023/10/daily-telescope-snapshot-of-a-brilliant-green-comet-before-it-left-forever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T120008">2023-10-26 12:00:08 UTC</a></sub>
 * [Shenzhou-17 crew arrives at Tiangong space station](https://spacenews.com/shenzhou-17-crew-arrives-at-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T111616">2023-10-26 11:16:16 UTC</a></sub>
 * [China Launches New Space Station Crew](https://spacepolicyonline.com/news/china-launches-new-space-station-crew/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T035105">2023-10-26 03:51:05 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Terran Orbital hosting town hall meeting to revive flagging shares](https://spacenews.com/terran-orbital-hosting-town-hall-meeting-to-revive-flagging-shares/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T221324">2023-10-25 22:13:24 UTC</a></sub>
 * [Rocket Lab expects to resume Electron launches before year-end after September failure](https://www.cnbc.com/2023/10/25/rocket-lab-to-resume-electron-launches-after-september-failure.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T204533">2023-10-25 20:45:33 UTC</a></sub>
 * [Boeing says it can’t make money with fixed-price contracts](https://arstechnica.com/space/2023/10/boeing-says-it-cant-make-money-with-fixed-price-contracts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180707">2023-10-25 18:07:07 UTC</a></sub>
-* [Navigating the 3rd Wave of the New Space economy](https://spacenews.com/navigating-the-3rd-wave-of-the-new-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180608">2023-10-25 18:06:08 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T133231">2023-10-26 13:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T140710">2023-10-26 14:07:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
