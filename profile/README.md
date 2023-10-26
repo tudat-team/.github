@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [China Launches New Space Station Crew](https://spacepolicyonline.com/news/china-launches-new-space-station-crew/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T035105">2023-10-26 03:51:05 UTC</a></sub>
 * [ABL Space Systems prepares for second RS1 launch](https://spacenews.com/abl-space-systems-prepares-for-second-rs1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T021836">2023-10-26 02:18:36 UTC</a></sub>
 * [Speaker Mike Johnson: “The People’s House is Back in Business”](https://spacepolicyonline.com/news/speaker-mike-johnson-the-peoples-house-is-back-in-business/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T021736">2023-10-26 02:17:36 UTC</a></sub>
 * [Rocket Lab projects Electron return to flight in fourth quarter](https://spacenews.com/rocket-lab-projects-electron-return-to-flight-in-fourth-quarter/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T001945">2023-10-26 00:19:45 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Navigating the 3rd Wave of the New Space economy](https://spacenews.com/navigating-the-3rd-wave-of-the-new-space-economy/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180608">2023-10-25 18:06:08 UTC</a></sub>
 * [Space Force planning $8 billion satellite architecture for nuclear command and control](https://spacenews.com/space-force-planning-8-billion-satellite-architecture-for-nuclear-command-and-control/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T180446">2023-10-25 18:04:46 UTC</a></sub>
 * [ESA to Begin Testing Ariane 6 Upgrade](https://europeanspaceflight.com/esa-to-begin-testing-ariane-6-upgrade/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T141508">2023-10-25 14:15:08 UTC</a></sub>
-* [China’s commercial launch firms get space station cargo boost](https://spacenews.com/chinas-commercial-launch-firms-get-space-station-cargo-boost/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T123533">2023-10-25 12:35:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T033224">2023-10-26 03:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T040850">2023-10-26 04:08:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
