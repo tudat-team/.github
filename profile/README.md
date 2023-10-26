@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK helps fund Rocket Factory Augsburg’s maiden flight](https://spacenews.com/uk-helps-fund-rocket-factory-augsburgs-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T230100">2023-10-26 23:01:00 UTC</a></sub>
 * [RFA UK Receives £3.5M for SaxaVord Development](https://europeanspaceflight.com/rfa-uk-receives-3-5m-for-saxavord-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T220100">2023-10-26 22:01:00 UTC</a></sub>
 * [AFRL, Space Force to collaborate with Indian startups on space technologies](https://spacenews.com/afrl-space-force-to-collaborate-with-indian-startups-on-space-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T200448">2023-10-26 20:04:48 UTC</a></sub>
 * [NASA Is Locating Ice on Mars With This New Map](https://mars.nasa.gov/news/9502/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T174400">2023-10-26 17:44:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Daily Telescope: Snapshot of a brilliant green comet before it left forever](https://arstechnica.com/space/2023/10/daily-telescope-snapshot-of-a-brilliant-green-comet-before-it-left-forever/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T120008">2023-10-26 12:00:08 UTC</a></sub>
 * [Shenzhou-17 crew arrives at Tiangong space station](https://spacenews.com/shenzhou-17-crew-arrives-at-tiangong-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T111616">2023-10-26 11:16:16 UTC</a></sub>
 * [China Launches New Space Station Crew](https://spacepolicyonline.com/news/china-launches-new-space-station-crew/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T035105">2023-10-26 03:51:05 UTC</a></sub>
-* [ABL Space Systems prepares for second RS1 launch](https://spacenews.com/abl-space-systems-prepares-for-second-rs1-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T021836">2023-10-26 02:18:36 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T223229">2023-10-26 22:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T230734">2023-10-26 23:07:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
