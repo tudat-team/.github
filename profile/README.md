@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Daily Telescope: Meet the Flying Bat and Squid nebulae](https://arstechnica.com/space/2023/10/daily-telescope-meet-the-flying-bat-and-squid-nebulae/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T120012">2023-10-27 12:00:12 UTC</a></sub>
 * [New agreement enables U.S. launches from Australian spaceports](https://spacenews.com/new-agreement-enables-u-s-launches-from-australian-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T105819">2023-10-27 10:58:19 UTC</a></sub>
 * [Terran Orbital still waiting for milestone Rivada Space constellation payment](https://spacenews.com/terran-orbital-still-waiting-for-milestone-rivada-space-constellation-payment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T020458">2023-10-27 02:04:58 UTC</a></sub>
 * [NASA Safety Panel Issues Clarion Call for ISS Deorbit Tug](https://spacepolicyonline.com/news/nasa-safety-panel-issues-clarion-call-for-iss-deorbit-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T233926">2023-10-26 23:39:26 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA Is Locating Ice on Mars With This New Map](https://mars.nasa.gov/news/9502/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T174400">2023-10-26 17:44:00 UTC</a></sub>
 * [Investing in Space: How the Pentagon sizes up China’s military strength in space](https://www.cnbc.com/2023/10/26/investing-in-space-the-pentagon-sizes-up-chinas-military-strength.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T154741">2023-10-26 15:47:41 UTC</a></sub>
 * [Tesat optical terminals selected for Lockheed Martin satellites pass ground tests](https://spacenews.com/tesat-optical-terminals-selected-for-lockheed-martin-satellites-pass-ground-tests/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T145259">2023-10-26 14:52:59 UTC</a></sub>
-* [Avio Just Needs Some Space from Arianespace](https://europeanspaceflight.com/avio-just-needs-some-space-from-arianespace/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T140020">2023-10-26 14:00:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T113223">2023-10-27 11:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T121324">2023-10-27 12:13:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
