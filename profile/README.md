@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Ground stations as-a-service struggle to gain foothold in military market](https://spacenews.com/ground-stations-as-a-service-struggle-to-gain-foothold-in-military-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143035">2023-10-27 14:30:35 UTC</a></sub>
+* [Isar Aerospace Completes 260-Second Hot Fire Test](https://europeanspaceflight.com/isar-aerospace-completes-260-second-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T142911">2023-10-27 14:29:11 UTC</a></sub>
 * [Russia renamed its ambitious satellite program after Putin misspoke its name](https://arstechnica.com/space/2023/10/russia-renamed-its-ambitious-satellite-program-after-putin-misspoke-its-name/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T132000">2023-10-27 13:20:00 UTC</a></sub>
 * [Daily Telescope: Meet the Flying Bat and Squid nebulae](https://arstechnica.com/space/2023/10/daily-telescope-meet-the-flying-bat-and-squid-nebulae/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T120012">2023-10-27 12:00:12 UTC</a></sub>
 * [New agreement enables U.S. launches from Australian spaceports](https://spacenews.com/new-agreement-enables-u-s-launches-from-australian-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T105819">2023-10-27 10:58:19 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [UK helps fund Rocket Factory Augsburg’s maiden flight](https://spacenews.com/uk-helps-fund-rocket-factory-augsburgs-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T230100">2023-10-26 23:01:00 UTC</a></sub>
 * [RFA UK Receives £3.5M for SaxaVord Development](https://europeanspaceflight.com/rfa-uk-receives-3-5m-for-saxavord-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T220100">2023-10-26 22:01:00 UTC</a></sub>
 * [AFRL, Space Force to collaborate with Indian startups on space technologies](https://spacenews.com/afrl-space-force-to-collaborate-with-indian-startups-on-space-technologies/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T200448">2023-10-26 20:04:48 UTC</a></sub>
-* [NASA Is Locating Ice on Mars With This New Map](https://mars.nasa.gov/news/9502/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T174400">2023-10-26 17:44:00 UTC</a></sub>
-* [Investing in Space: How the Pentagon sizes up China’s military strength in space](https://www.cnbc.com/2023/10/26/investing-in-space-the-pentagon-sizes-up-chinas-military-strength.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T154741">2023-10-26 15:47:41 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Galactic ghouls and vampire stars](https://www.planetary.org/the-downlink/galactic-ghouls-and-vampire-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143434">2023-10-27 14:34:34 UTC</a></sub>
 * [European small launch companies respond](https://europeanspaceflight.substack.com/p/european-small-launch-companies-respond) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T134439">2023-10-25 13:44:39 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 16-22, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202922">2023-10-23 20:29:22 UTC</a></sub>
 * [Behold, the moon(s)!](https://www.planetary.org/the-downlink/behold-the-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T143438">2023-10-20 14:34:38 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: October 9-15, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120721">2023-10-16 12:07:21 UTC</a></sub>
 * [Syzygy + apogee = majesty](https://www.planetary.org/the-downlink/syzygy-apogee-majesty) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T143451">2023-10-13 14:34:51 UTC</a></sub>
 * [How astronomers search for life on exoplanets](https://www.planetary.org/articles/how-astronomers-search-for-life-on-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T145519">2023-10-11 14:55:19 UTC</a></sub>
-* [ArianeGroup Wants €210M Per Year More to Operate Ariane 6](https://europeanspaceflight.substack.com/p/arianegroup-wants-210m-per-year-more) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T140136">2023-10-11 14:01:36 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143218">2023-10-27 14:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T150707">2023-10-27 15:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
