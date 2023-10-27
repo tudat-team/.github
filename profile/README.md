@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Intuitive Machines delays first lander mission to January](https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T213206">2023-10-27 21:32:06 UTC</a></sub>
 * [SpaceX Completes Full Stack Testing ahead of Flight as Starbase Continues to Change](https://www.nasaspaceflight.com/2023/10/spacex-full-stack-starbase-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T194057">2023-10-27 19:40:57 UTC</a></sub>
 * [Ground stations as-a-service struggle to gain foothold in military market](https://spacenews.com/ground-stations-as-a-service-struggle-to-gain-foothold-in-military-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143035">2023-10-27 14:30:35 UTC</a></sub>
 * [Isar Aerospace Completes 260-Second Hot Fire Test](https://europeanspaceflight.com/isar-aerospace-completes-260-second-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T142911">2023-10-27 14:29:11 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Terran Orbital still waiting for milestone Rivada Space constellation payment](https://spacenews.com/terran-orbital-still-waiting-for-milestone-rivada-space-constellation-payment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T020458">2023-10-27 02:04:58 UTC</a></sub>
 * [NASA Safety Panel Issues Clarion Call for ISS Deorbit Tug](https://spacepolicyonline.com/news/nasa-safety-panel-issues-clarion-call-for-iss-deorbit-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T233926">2023-10-26 23:39:26 UTC</a></sub>
 * [UK helps fund Rocket Factory Augsburg’s maiden flight](https://spacenews.com/uk-helps-fund-rocket-factory-augsburgs-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T230100">2023-10-26 23:01:00 UTC</a></sub>
-* [RFA UK Receives £3.5M for SaxaVord Development](https://europeanspaceflight.com/rfa-uk-receives-3-5m-for-saxavord-development/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T220100">2023-10-26 22:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T213209">2023-10-27 21:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T220701">2023-10-27 22:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
