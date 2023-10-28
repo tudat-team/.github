@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [FAA anticipates extension of commercial spaceflight regulatory learning period](https://spacenews.com/faa-anticipates-extension-of-commercial-spaceflight-regulatory-learning-period/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T205749">2023-10-28 20:57:49 UTC</a></sub>
 * [Intuitive Machines delays first lander mission to January](https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T213206">2023-10-27 21:32:06 UTC</a></sub>
 * [SpaceX Completes Full Stack Testing ahead of Flight as Starbase Continues to Change](https://www.nasaspaceflight.com/2023/10/spacex-full-stack-starbase-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T194057">2023-10-27 19:40:57 UTC</a></sub>
 * [Ground stations as-a-service struggle to gain foothold in military market](https://spacenews.com/ground-stations-as-a-service-struggle-to-gain-foothold-in-military-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143035">2023-10-27 14:30:35 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New agreement enables U.S. launches from Australian spaceports](https://spacenews.com/new-agreement-enables-u-s-launches-from-australian-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T105819">2023-10-27 10:58:19 UTC</a></sub>
 * [Terran Orbital still waiting for milestone Rivada Space constellation payment](https://spacenews.com/terran-orbital-still-waiting-for-milestone-rivada-space-constellation-payment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T020458">2023-10-27 02:04:58 UTC</a></sub>
 * [NASA Safety Panel Issues Clarion Call for ISS Deorbit Tug](https://spacepolicyonline.com/news/nasa-safety-panel-issues-clarion-call-for-iss-deorbit-tug/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T233926">2023-10-26 23:39:26 UTC</a></sub>
-* [UK helps fund Rocket Factory Augsburg’s maiden flight](https://spacenews.com/uk-helps-fund-rocket-factory-augsburgs-maiden-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T230100">2023-10-26 23:01:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T203222">2023-10-28 20:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T210607">2023-10-28 21:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
