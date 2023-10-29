@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Blue Origin reveals mockup of Blue Moon lunar lander prototype](https://spacenews.com/blue-origin-reveals-mockup-of-blue-moon-lunar-lander-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T230602">2023-10-28 23:06:02 UTC</a></sub>
 * [Boeing ramps up final assembly to complete Artemis II SLS Core Stage by year end](https://www.nasaspaceflight.com/2023/10/a-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T211222">2023-10-28 21:12:22 UTC</a></sub>
 * [FAA anticipates extension of commercial spaceflight regulatory learning period](https://spacenews.com/faa-anticipates-extension-of-commercial-spaceflight-regulatory-learning-period/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T205749">2023-10-28 20:57:49 UTC</a></sub>
 * [Intuitive Machines delays first lander mission to January](https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T213206">2023-10-27 21:32:06 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Russia renamed its ambitious satellite program after Putin misspoke its name](https://arstechnica.com/space/2023/10/russia-renamed-its-ambitious-satellite-program-after-putin-misspoke-its-name/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T132000">2023-10-27 13:20:00 UTC</a></sub>
 * [Daily Telescope: Meet the Flying Bat and Squid nebulae](https://arstechnica.com/space/2023/10/daily-telescope-meet-the-flying-bat-and-squid-nebulae/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T120012">2023-10-27 12:00:12 UTC</a></sub>
 * [New agreement enables U.S. launches from Australian spaceports](https://spacenews.com/new-agreement-enables-u-s-launches-from-australian-spaceports/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T105819">2023-10-27 10:58:19 UTC</a></sub>
-* [Terran Orbital still waiting for milestone Rivada Space constellation payment](https://spacenews.com/terran-orbital-still-waiting-for-milestone-rivada-space-constellation-payment/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T020458">2023-10-27 02:04:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T233203">2023-10-28 23:32:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T003656">2023-10-29 00:36:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
