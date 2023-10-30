@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation](https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T123322">2023-10-30 12:33:22 UTC</a></sub>
 * [The Daily Telescope: A new perspective on the power behind Psyche](https://arstechnica.com/space/2023/10/the-daily-telescope-a-new-perspective-on-the-power-behind-psyche/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T120009">2023-10-30 12:00:09 UTC</a></sub>
 * [Spanish propulsion startup raises seed round](https://spacenews.com/spanish-propulsion-startup-raises-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T113202">2023-10-30 11:32:02 UTC</a></sub>
 * [Prometheus Completes 30-Second Hot Fire Test](https://europeanspaceflight.com/prometheus-completes-30-second-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T075052">2023-10-30 07:50:52 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Blue Origin reveals mockup of Blue Moon lunar lander prototype](https://spacenews.com/blue-origin-reveals-mockup-of-blue-moon-lunar-lander-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T230602">2023-10-28 23:06:02 UTC</a></sub>
 * [Boeing ramps up final assembly to complete Artemis II SLS Core Stage by year end](https://www.nasaspaceflight.com/2023/10/a-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T211222">2023-10-28 21:12:22 UTC</a></sub>
 * [FAA anticipates extension of commercial spaceflight regulatory learning period](https://spacenews.com/faa-anticipates-extension-of-commercial-spaceflight-regulatory-learning-period/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T205749">2023-10-28 20:57:49 UTC</a></sub>
-* [Intuitive Machines delays first lander mission to January](https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T213206">2023-10-27 21:32:06 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Weekly Roundup for SpacePolicyOnline.com: October 23-29, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T122444">2023-10-30 12:24:44 UTC</a></sub>
 * [Galactic ghouls and vampire stars](https://www.planetary.org/the-downlink/galactic-ghouls-and-vampire-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143434">2023-10-27 14:34:34 UTC</a></sub>
 * [European small launch companies respond](https://europeanspaceflight.substack.com/p/european-small-launch-companies-respond) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T134439">2023-10-25 13:44:39 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 16-22, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202922">2023-10-23 20:29:22 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Science Editor](https://www.planetary.org/careers/science-editor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T190446">2023-10-17 19:04:46 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 9-15, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120721">2023-10-16 12:07:21 UTC</a></sub>
 * [Syzygy + apogee = majesty](https://www.planetary.org/the-downlink/syzygy-apogee-majesty) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T143451">2023-10-13 14:34:51 UTC</a></sub>
-* [How astronomers search for life on exoplanets](https://www.planetary.org/articles/how-astronomers-search-for-life-on-exoplanets) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T145519">2023-10-11 14:55:19 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T121348">2023-10-30 12:13:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T124713">2023-10-30 12:47:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
