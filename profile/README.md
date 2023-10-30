@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Maxar Intelligence announces new executive appointments](https://spacenews.com/maxar-intelligence-announces-new-executive-appointments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T153030">2023-10-30 15:30:30 UTC</a></sub>
 * [Space Force Col. Richard Kniseley to keynote SpaceNews 2023 Icon Awards](https://spacenews.com/space-force-col-richard-kniseley-to-keynote-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T130000">2023-10-30 13:00:00 UTC</a></sub>
 * [Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation](https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T123322">2023-10-30 12:33:22 UTC</a></sub>
 * [The Daily Telescope: A new perspective on the power behind Psyche](https://arstechnica.com/space/2023/10/the-daily-telescope-a-new-perspective-on-the-power-behind-psyche/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T120009">2023-10-30 12:00:09 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [NASA safety panel warns about ISS transition risks](https://spacenews.com/nasa-safety-panel-warns-about-iss-transition-risks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T012625">2023-10-30 01:26:25 UTC</a></sub>
 * [Using Webb, scientists measure high-speed jet stream in Jupiter’s atmosphere](https://www.nasaspaceflight.com/2023/10/jovian-jetstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T205503">2023-10-29 20:55:03 UTC</a></sub>
 * [What’s Happening in Space Policy October 29-November 5, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-29-november-5-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T195311">2023-10-29 19:53:11 UTC</a></sub>
-* [Blue Origin reveals mockup of Blue Moon lunar lander prototype](https://spacenews.com/blue-origin-reveals-mockup-of-blue-moon-lunar-lander-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T230602">2023-10-28 23:06:02 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T153251">2023-10-30 15:32:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T160936">2023-10-30 16:09:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
