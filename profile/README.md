@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX sends 22 Starlink Satellites to Orbit from California](https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T195434">2023-10-30 19:54:34 UTC</a></sub>
 * [Putin wants to know why Russia can only build 40 satellites a year](https://arstechnica.com/space/2023/10/russian-space-chief-explains-why-country-can-only-build-40-satellites-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T184455">2023-10-30 18:44:55 UTC</a></sub>
 * [Pentagon space unit awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites](https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T162610">2023-10-30 16:26:10 UTC</a></sub>
 * [Space Development Agency awards Northrop Grumman $732 million contract for 38 satellites and support services](https://spacenews.com/space-development-agency-awards-northrop-grumman-732-million-contract-for-40-satellites-and-support-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T160000">2023-10-30 16:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation](https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T123322">2023-10-30 12:33:22 UTC</a></sub>
 * [The Daily Telescope: A new perspective on the power behind Psyche](https://arstechnica.com/space/2023/10/the-daily-telescope-a-new-perspective-on-the-power-behind-psyche/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T120009">2023-10-30 12:00:09 UTC</a></sub>
 * [Spanish propulsion startup raises seed round](https://spacenews.com/spanish-propulsion-startup-raises-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T113202">2023-10-30 11:32:02 UTC</a></sub>
-* [Prometheus Completes 30-Second Hot Fire Test](https://europeanspaceflight.com/prometheus-completes-30-second-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T075052">2023-10-30 07:50:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T193211">2023-10-30 19:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T200744">2023-10-30 20:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
