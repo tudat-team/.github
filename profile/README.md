@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [The Daily Telescope: A new perspective on the power behind Psyche](https://arstechnica.com/space/2023/10/the-daily-telescope-a-new-perspective-on-the-power-behind-psyche/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T120009">2023-10-30 12:00:09 UTC</a></sub>
+* [Spanish propulsion startup raises seed round](https://spacenews.com/spanish-propulsion-startup-raises-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T113202">2023-10-30 11:32:02 UTC</a></sub>
 * [Prometheus Completes 30-Second Hot Fire Test](https://europeanspaceflight.com/prometheus-completes-30-second-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T075052">2023-10-30 07:50:52 UTC</a></sub>
 * [NASA safety panel warns about ISS transition risks](https://spacenews.com/nasa-safety-panel-warns-about-iss-transition-risks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T012625">2023-10-30 01:26:25 UTC</a></sub>
 * [Using Webb, scientists measure high-speed jet stream in Jupiter’s atmosphere](https://www.nasaspaceflight.com/2023/10/jovian-jetstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T205503">2023-10-29 20:55:03 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Boeing ramps up final assembly to complete Artemis II SLS Core Stage by year end](https://www.nasaspaceflight.com/2023/10/a-ii-core-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T211222">2023-10-28 21:12:22 UTC</a></sub>
 * [FAA anticipates extension of commercial spaceflight regulatory learning period](https://spacenews.com/faa-anticipates-extension-of-commercial-spaceflight-regulatory-learning-period/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T205749">2023-10-28 20:57:49 UTC</a></sub>
 * [Intuitive Machines delays first lander mission to January](https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T213206">2023-10-27 21:32:06 UTC</a></sub>
-* [SpaceX Completes Full Stack Testing ahead of Flight as Starbase Continues to Change](https://www.nasaspaceflight.com/2023/10/spacex-full-stack-starbase-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T194057">2023-10-27 19:40:57 UTC</a></sub>
-* [Ground stations as-a-service struggle to gain foothold in military market](https://spacenews.com/ground-stations-as-a-service-struggle-to-gain-foothold-in-military-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143035">2023-10-27 14:30:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T113225">2023-10-30 11:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T121348">2023-10-30 12:13:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
