@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA safety panel warns about ISS transition risks](https://spacenews.com/nasa-safety-panel-warns-about-iss-transition-risks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T012625">2023-10-30 01:26:25 UTC</a></sub>
 * [Using Webb, scientists measure high-speed jet stream in Jupiter’s atmosphere](https://www.nasaspaceflight.com/2023/10/jovian-jetstream/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T205503">2023-10-29 20:55:03 UTC</a></sub>
 * [What’s Happening in Space Policy October 29-November 5, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-29-november-5-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T195311">2023-10-29 19:53:11 UTC</a></sub>
 * [Blue Origin reveals mockup of Blue Moon lunar lander prototype](https://spacenews.com/blue-origin-reveals-mockup-of-blue-moon-lunar-lander-prototype/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T230602">2023-10-28 23:06:02 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX Completes Full Stack Testing ahead of Flight as Starbase Continues to Change](https://www.nasaspaceflight.com/2023/10/spacex-full-stack-starbase-change/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T194057">2023-10-27 19:40:57 UTC</a></sub>
 * [Ground stations as-a-service struggle to gain foothold in military market](https://spacenews.com/ground-stations-as-a-service-struggle-to-gain-foothold-in-military-market/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143035">2023-10-27 14:30:35 UTC</a></sub>
 * [Isar Aerospace Completes 260-Second Hot Fire Test](https://europeanspaceflight.com/isar-aerospace-completes-260-second-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T142911">2023-10-27 14:29:11 UTC</a></sub>
-* [Russia renamed its ambitious satellite program after Putin misspoke its name](https://arstechnica.com/space/2023/10/russia-renamed-its-ambitious-satellite-program-after-putin-misspoke-its-name/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T132000">2023-10-27 13:20:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T003521">2023-10-30 00:35:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T014328">2023-10-30 01:43:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
