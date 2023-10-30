@@ -571,13 +571,13 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Pentagon space unit awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites](https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T162610">2023-10-30 16:26:10 UTC</a></sub>
 * [Space Development Agency awards Northrop Grumman $732 million contract for 38 satellites and support services](https://spacenews.com/space-development-agency-awards-northrop-grumman-732-million-contract-for-40-satellites-and-support-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T160000">2023-10-30 16:00:00 UTC</a></sub>
 * [Maxar Intelligence announces new executive appointments](https://spacenews.com/maxar-intelligence-announces-new-executive-appointments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T153030">2023-10-30 15:30:30 UTC</a></sub>
+* [Battle of the Bands: What’s at stake for space at WRC 2023 Webinar](https://spacenews.com/battle-of-the-bands-whats-at-stake-for-space-at-wrc-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T152800">2023-10-30 15:28:00 UTC</a></sub>
 * [Space Force Col. Richard Kniseley to keynote SpaceNews 2023 Icon Awards](https://spacenews.com/space-force-col-richard-kniseley-to-keynote-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T130000">2023-10-30 13:00:00 UTC</a></sub>
 * [Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation](https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T123322">2023-10-30 12:33:22 UTC</a></sub>
 * [The Daily Telescope: A new perspective on the power behind Psyche](https://arstechnica.com/space/2023/10/the-daily-telescope-a-new-perspective-on-the-power-behind-psyche/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T120009">2023-10-30 12:00:09 UTC</a></sub>
 * [Spanish propulsion startup raises seed round](https://spacenews.com/spanish-propulsion-startup-raises-seed-round/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T113202">2023-10-30 11:32:02 UTC</a></sub>
 * [Prometheus Completes 30-Second Hot Fire Test](https://europeanspaceflight.com/prometheus-completes-30-second-hot-fire-test/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T075052">2023-10-30 07:50:52 UTC</a></sub>
 * [Webinar Replay | We’re Hiring: Attracting and Retaining Space Talent](https://spacenews.com/webinar-replay-were-hiring-attracting-and-retaining-space-talent/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T071500">2023-10-30 07:15:00 UTC</a></sub>
-* [NASA safety panel warns about ISS transition risks](https://spacenews.com/nasa-safety-panel-warns-about-iss-transition-risks/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T012625">2023-10-30 01:26:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T173225">2023-10-30 17:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T180941">2023-10-30 18:09:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
