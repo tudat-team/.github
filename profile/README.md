@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [HawkEye 360 gets U.S. Navy contract for maritime surveillance in the Pacific](https://spacenews.com/hawkeye-360-gets-u-s-navy-contract-for-maritime-surveillance-in-the-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T195634">2023-10-31 19:56:34 UTC</a></sub>
 * [Space Force assigns 21 national security missions to ULA and SpaceX](https://spacenews.com/space-force-assigns-21-national-security-missions-to-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T183752">2023-10-31 18:37:52 UTC</a></sub>
 * [Autonomous Servicing Will Help Realize a Dynamic Future with Cosmic Implications](https://spacenews.com/autonomous-servicing-will-help-realize-a-dynamic-future-with-cosmic-implications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T181919">2023-10-31 18:19:19 UTC</a></sub>
 * [Scientists will soon find out whether the Lucy mission works as intended](https://arstechnica.com/space/2023/10/lucy-the-spacecraft-is-about-to-fly-by-lucy-the-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T162314">2023-10-31 16:23:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [China’s Space Pioneer raise funding for its Falcon 9-class rocket](https://spacenews.com/chinas-space-pioneer-raise-funding-for-its-falcon-9-class-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T114515">2023-10-31 11:45:15 UTC</a></sub>
 * [Rocket Lab plans launch of Venus mission as soon as late 2024](https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T023246">2023-10-31 02:32:46 UTC</a></sub>
 * [Chinese Space Station Crew Back on Earth](https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T020724">2023-10-31 02:07:24 UTC</a></sub>
-* [SpaceX sends 22 Starlink Satellites to Orbit from California](https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T195434">2023-10-30 19:54:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T193235">2023-10-31 19:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T200807">2023-10-31 20:08:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
