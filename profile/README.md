@@ -568,7 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Lab plans late 2024 launch of Venus mission](https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T023246">2023-10-31 02:32:46 UTC</a></sub>
+* [Rocket Lab plans launch of Venus mission as soon as late 2024](https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T023246">2023-10-31 02:32:46 UTC</a></sub>
 * [Chinese Space Station Crew Back on Earth](https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T020724">2023-10-31 02:07:24 UTC</a></sub>
 * [SpaceX sends 22 Starlink Satellites to Orbit from California](https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T195434">2023-10-30 19:54:34 UTC</a></sub>
 * [Putin wants to know why Russia can only build 40 satellites a year](https://arstechnica.com/space/2023/10/russian-space-chief-explains-why-country-can-only-build-40-satellites-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T184455">2023-10-30 18:44:55 UTC</a></sub>
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T103514">2023-10-31 10:35:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T110609">2023-10-31 11:06:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
