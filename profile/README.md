@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Rocket Lab plans late 2024 launch of Venus mission](https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T023246">2023-10-31 02:32:46 UTC</a></sub>
 * [Chinese Space Station Crew Back on Earth](https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T020724">2023-10-31 02:07:24 UTC</a></sub>
 * [SpaceX sends 22 Starlink Satellites to Orbit from California](https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T195434">2023-10-30 19:54:34 UTC</a></sub>
 * [Putin wants to know why Russia can only build 40 satellites a year](https://arstechnica.com/space/2023/10/russian-space-chief-explains-why-country-can-only-build-40-satellites-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T184455">2023-10-30 18:44:55 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Battle of the Bands: What’s at stake for space at WRC 2023 Webinar](https://spacenews.com/battle-of-the-bands-whats-at-stake-for-space-at-wrc-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T152800">2023-10-30 15:28:00 UTC</a></sub>
 * [Space Force Col. Richard Kniseley to keynote SpaceNews 2023 Icon Awards](https://spacenews.com/space-force-col-richard-kniseley-to-keynote-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T130000">2023-10-30 13:00:00 UTC</a></sub>
 * [Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation](https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T123322">2023-10-30 12:33:22 UTC</a></sub>
-* [The Daily Telescope: A new perspective on the power behind Psyche](https://arstechnica.com/space/2023/10/the-daily-telescope-a-new-perspective-on-the-power-behind-psyche/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T120009">2023-10-30 12:00:09 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T023350">2023-10-31 02:33:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T030801">2023-10-31 03:08:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
