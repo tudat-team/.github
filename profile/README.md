@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force assigns 21 national security missions to ULA and SpaceX](https://spacenews.com/space-force-assigns-21-national-security-missions-to-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T183752">2023-10-31 18:37:52 UTC</a></sub>
+* [Autonomous Servicing Will Help Realize a Dynamic Future with Cosmic Implications](https://spacenews.com/autonomous-servicing-will-help-realize-a-dynamic-future-with-cosmic-implications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T181919">2023-10-31 18:19:19 UTC</a></sub>
 * [Scientists will soon find out whether the Lucy mission works as intended](https://arstechnica.com/space/2023/10/lucy-the-spacecraft-is-about-to-fly-by-lucy-the-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T162314">2023-10-31 16:23:14 UTC</a></sub>
 * [Astrobotic lander arrives at launch site](https://spacenews.com/astrobotic-lander-arrives-at-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T143648">2023-10-31 14:36:48 UTC</a></sub>
 * [Multiverse Media and SpaceNews to Merge](https://spacenews.com/multiverse-media-and-spacenews-to-merge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T134508">2023-10-31 13:45:08 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab plans launch of Venus mission as soon as late 2024](https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T023246">2023-10-31 02:32:46 UTC</a></sub>
 * [Chinese Space Station Crew Back on Earth](https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T020724">2023-10-31 02:07:24 UTC</a></sub>
 * [SpaceX sends 22 Starlink Satellites to Orbit from California](https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T195434">2023-10-30 19:54:34 UTC</a></sub>
-* [Putin wants to know why Russia can only build 40 satellites a year](https://arstechnica.com/space/2023/10/russian-space-chief-explains-why-country-can-only-build-40-satellites-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T184455">2023-10-30 18:44:55 UTC</a></sub>
-* [Pentagon space unit awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites](https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T162610">2023-10-30 16:26:10 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T183303">2023-10-31 18:33:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T190635">2023-10-31 19:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
