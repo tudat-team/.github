@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astrobotic lander arrives at launch site](https://spacenews.com/astrobotic-lander-arrives-at-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T143648">2023-10-31 14:36:48 UTC</a></sub>
 * [Multiverse Media and SpaceNews to Merge](https://spacenews.com/multiverse-media-and-spacenews-to-merge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T134508">2023-10-31 13:45:08 UTC</a></sub>
 * [Daily Telescope: A spooky image of the Solar System’s largest planet](https://arstechnica.com/space/2023/10/daily-telescope-on-halloween-a-clear-view-of-a-jovian-golem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T120049">2023-10-31 12:00:49 UTC</a></sub>
 * [China’s Space Pioneer raise funding for its Falcon 9-class rocket](https://spacenews.com/chinas-space-pioneer-raise-funding-for-its-falcon-9-class-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T114515">2023-10-31 11:45:15 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Putin wants to know why Russia can only build 40 satellites a year](https://arstechnica.com/space/2023/10/russian-space-chief-explains-why-country-can-only-build-40-satellites-a-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T184455">2023-10-30 18:44:55 UTC</a></sub>
 * [Pentagon space unit awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites](https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T162610">2023-10-30 16:26:10 UTC</a></sub>
 * [Space Development Agency awards Northrop Grumman $732 million contract for 38 satellites and support services](https://spacenews.com/space-development-agency-awards-northrop-grumman-732-million-contract-for-40-satellites-and-support-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T160000">2023-10-30 16:00:00 UTC</a></sub>
-* [Maxar Intelligence announces new executive appointments](https://spacenews.com/maxar-intelligence-announces-new-executive-appointments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T153030">2023-10-30 15:30:30 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T143229">2023-10-31 14:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T150756">2023-10-31 15:07:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
