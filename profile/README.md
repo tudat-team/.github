@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Daily Telescope: On Halloween, a clear view of a Jovian golem](https://arstechnica.com/space/2023/10/daily-telescope-on-halloween-a-clear-view-of-a-jovian-golem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T120049">2023-10-31 12:00:49 UTC</a></sub>
+* [China’s Space Pioneer raise funding for its Falcon 9-class rocket](https://spacenews.com/chinas-space-pioneer-raise-funding-for-its-falcon-9-class-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T114515">2023-10-31 11:45:15 UTC</a></sub>
 * [Rocket Lab plans launch of Venus mission as soon as late 2024](https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T023246">2023-10-31 02:32:46 UTC</a></sub>
 * [Chinese Space Station Crew Back on Earth](https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T020724">2023-10-31 02:07:24 UTC</a></sub>
 * [SpaceX sends 22 Starlink Satellites to Orbit from California](https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T195434">2023-10-30 19:54:34 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Space Development Agency awards Northrop Grumman $732 million contract for 38 satellites and support services](https://spacenews.com/space-development-agency-awards-northrop-grumman-732-million-contract-for-40-satellites-and-support-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T160000">2023-10-30 16:00:00 UTC</a></sub>
 * [Maxar Intelligence announces new executive appointments](https://spacenews.com/maxar-intelligence-announces-new-executive-appointments/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T153030">2023-10-30 15:30:30 UTC</a></sub>
 * [Battle of the Bands: What’s at stake for space at WRC 2023 Webinar](https://spacenews.com/battle-of-the-bands-whats-at-stake-for-space-at-wrc-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T152800">2023-10-30 15:28:00 UTC</a></sub>
-* [Space Force Col. Richard Kniseley to keynote SpaceNews 2023 Icon Awards](https://spacenews.com/space-force-col-richard-kniseley-to-keynote-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T130000">2023-10-30 13:00:00 UTC</a></sub>
-* [Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation](https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T123322">2023-10-30 12:33:22 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T113220">2023-10-31 11:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T121339">2023-10-31 12:13:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
