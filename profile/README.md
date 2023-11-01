@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force awards $2.5 billion in rocket contracts to SpaceX and ULA for 21 launches](https://www.cnbc.com/2023/11/01/space-force-awards-spacex-ula-with-2point5-billion-for-21-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T184200">2023-11-01 18:42:00 UTC</a></sub>
+* [Delta swapping out Intelsat Wi-Fi for Hughes on 400 planes](https://spacenews.com/delta-swapping-out-intelsat-wi-fi-for-hughes-on-400-planes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T181942">2023-11-01 18:19:42 UTC</a></sub>
 * [Tesla investor who made billions on stock says SpaceX will be bigger](https://www.teslarati.com/tesla-investor-ron-baron-billion-s-stock-spacex-will-be-bigger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T142516">2023-11-01 14:25:16 UTC</a></sub>
 * [Op-ed | Space Force launch strategy a step in the right direction](https://spacenews.com/op-ed-space-force-launch-strategy-a-step-in-the-right-direction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T131000">2023-11-01 13:10:00 UTC</a></sub>
 * [Daily Telescope: A dazzling view of the Milky Way from southern Africa](https://arstechnica.com/space/2023/11/daily-telescope-a-dazzling-view-of-the-milky-way-from-southern-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T120044">2023-11-01 12:00:44 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ovzon gets another deadline extension to deploy first GEO satellite](https://spacenews.com/ovzon-gets-another-deadline-extension-to-deploy-first-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T004629">2023-11-01 00:46:29 UTC</a></sub>
 * [FAA completes safety review for next Starship launch](https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T215834">2023-10-31 21:58:34 UTC</a></sub>
 * [SES says O3b mPower electrical issues are worse than thought](https://spacenews.com/ses-says-o3b-mpower-electrical-issues-are-worse-than-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T202057">2023-10-31 20:20:57 UTC</a></sub>
-* [HawkEye 360 gets U.S. Navy contract for maritime surveillance in the Pacific](https://spacenews.com/hawkeye-360-gets-u-s-navy-contract-for-maritime-surveillance-in-the-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T195634">2023-10-31 19:56:34 UTC</a></sub>
-* [Space Force assigns 21 national security missions to ULA and SpaceX](https://spacenews.com/space-force-assigns-21-national-security-missions-to-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T183752">2023-10-31 18:37:52 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T183334">2023-11-01 18:33:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T190601">2023-11-01 19:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
