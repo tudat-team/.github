@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Tesla investor who made billions on stock says SpaceX will be bigger](https://www.teslarati.com/tesla-investor-ron-baron-billion-s-stock-spacex-will-be-bigger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T142516">2023-11-01 14:25:16 UTC</a></sub>
 * [Op-ed | Space Force launch strategy a step in the right direction](https://spacenews.com/op-ed-space-force-launch-strategy-a-step-in-the-right-direction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T131000">2023-11-01 13:10:00 UTC</a></sub>
 * [Daily Telescope: A dazzling view of the Milky Way from southern Africa](https://arstechnica.com/space/2023/11/daily-telescope-a-dazzling-view-of-the-milky-way-from-southern-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T120044">2023-11-01 12:00:44 UTC</a></sub>
 * [Kuva Space raises 16.6 million euros](https://spacenews.com/kuva-space-raises-16-6-million-euros/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T090000">2023-11-01 09:00:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SES says O3b mPower electrical issues are worse than thought](https://spacenews.com/ses-says-o3b-mpower-electrical-issues-are-worse-than-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T202057">2023-10-31 20:20:57 UTC</a></sub>
 * [HawkEye 360 gets U.S. Navy contract for maritime surveillance in the Pacific](https://spacenews.com/hawkeye-360-gets-u-s-navy-contract-for-maritime-surveillance-in-the-pacific/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T195634">2023-10-31 19:56:34 UTC</a></sub>
 * [Space Force assigns 21 national security missions to ULA and SpaceX](https://spacenews.com/space-force-assigns-21-national-security-missions-to-ula-and-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T183752">2023-10-31 18:37:52 UTC</a></sub>
-* [Autonomous Servicing Will Help Realize a Dynamic Future with Cosmic Implications](https://spacenews.com/autonomous-servicing-will-help-realize-a-dynamic-future-with-cosmic-implications/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T181919">2023-10-31 18:19:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T143220">2023-11-01 14:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T150734">2023-11-01 15:07:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
