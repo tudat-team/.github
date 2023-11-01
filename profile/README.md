@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Starship Another Step Closer to Second Test Flight](https://spacepolicyonline.com/news/starship-another-step-closer-to-second-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T035534">2023-11-01 03:55:34 UTC</a></sub>
 * [Ovzon gets another deadline extension to deploy first GEO satellite](https://spacenews.com/ovzon-gets-another-deadline-extension-to-deploy-first-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T004629">2023-11-01 00:46:29 UTC</a></sub>
 * [FAA completes safety review for next Starship launch](https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T215834">2023-10-31 21:58:34 UTC</a></sub>
 * [SES says O3b mPower electrical issues are worse than thought](https://spacenews.com/ses-says-o3b-mpower-electrical-issues-are-worse-than-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T202057">2023-10-31 20:20:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Scientists will soon find out whether the Lucy mission works as intended](https://arstechnica.com/space/2023/10/lucy-the-spacecraft-is-about-to-fly-by-lucy-the-asteroid/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T162314">2023-10-31 16:23:14 UTC</a></sub>
 * [Astrobotic lander arrives at launch site](https://spacenews.com/astrobotic-lander-arrives-at-launch-site/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T143648">2023-10-31 14:36:48 UTC</a></sub>
 * [Multiverse Media and SpaceNews to Merge](https://spacenews.com/multiverse-media-and-spacenews-to-merge/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T134508">2023-10-31 13:45:08 UTC</a></sub>
-* [Daily Telescope: A spooky image of the Solar System’s largest planet](https://arstechnica.com/space/2023/10/daily-telescope-on-halloween-a-clear-view-of-a-jovian-golem/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T120049">2023-10-31 12:00:49 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T033227">2023-11-01 03:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T040912">2023-11-01 04:09:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
