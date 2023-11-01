@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Retired Space Force Lt. Gen. Armagno joins Rocket Lab’s board of directors](https://spacenews.com/retired-space-force-lt-gen-armagno-joins-rocket-labs-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T215558">2023-11-01 21:55:58 UTC</a></sub>
 * [Space Force awards $2.5 billion in rocket contracts to SpaceX and ULA for 21 launches](https://www.cnbc.com/2023/11/01/space-force-awards-spacex-ula-with-2point5-billion-for-21-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T184200">2023-11-01 18:42:00 UTC</a></sub>
 * [Delta swapping out Intelsat Wi-Fi for Hughes on 400 planes](https://spacenews.com/delta-swapping-out-intelsat-wi-fi-for-hughes-on-400-planes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T181942">2023-11-01 18:19:42 UTC</a></sub>
 * [Tesla investor who made billions on stock says SpaceX will be bigger](https://www.teslarati.com/tesla-investor-ron-baron-billion-s-stock-spacex-will-be-bigger/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T142516">2023-11-01 14:25:16 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Starship Another Step Closer to Second Test Flight](https://spacepolicyonline.com/news/starship-another-step-closer-to-second-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T035534">2023-11-01 03:55:34 UTC</a></sub>
 * [Ovzon gets another deadline extension to deploy first GEO satellite](https://spacenews.com/ovzon-gets-another-deadline-extension-to-deploy-first-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T004629">2023-11-01 00:46:29 UTC</a></sub>
 * [FAA completes safety review for next Starship launch](https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T215834">2023-10-31 21:58:34 UTC</a></sub>
-* [SES says O3b mPower electrical issues are worse than thought](https://spacenews.com/ses-says-o3b-mpower-electrical-issues-are-worse-than-thought/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T202057">2023-10-31 20:20:57 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T213228">2023-11-01 21:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T220649">2023-11-01 22:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
