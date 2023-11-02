@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceNews Icon Awards honorees: Deal of the Year](https://spacenews.com/spacenews-icon-awards-honorees-deal-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T000000">2023-11-02 00:00:00 UTC</a></sub>
 * [Retired Space Force Lt. Gen. Armagno joins Rocket Lab’s board of directors](https://spacenews.com/retired-space-force-lt-gen-armagno-joins-rocket-labs-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T215558">2023-11-01 21:55:58 UTC</a></sub>
 * [Space Force awards $2.5 billion in rocket contracts to SpaceX and ULA for 21 launches](https://www.cnbc.com/2023/11/01/space-force-awards-spacex-ula-with-2point5-billion-for-21-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T184200">2023-11-01 18:42:00 UTC</a></sub>
 * [Delta swapping out Intelsat Wi-Fi for Hughes on 400 planes](https://spacenews.com/delta-swapping-out-intelsat-wi-fi-for-hughes-on-400-planes/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T181942">2023-11-01 18:19:42 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Kuva Space raises 16.6 million euros](https://spacenews.com/kuva-space-raises-16-6-million-euros/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T090000">2023-11-01 09:00:00 UTC</a></sub>
 * [Starship Another Step Closer to Second Test Flight](https://spacepolicyonline.com/news/starship-another-step-closer-to-second-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T035534">2023-11-01 03:55:34 UTC</a></sub>
 * [Ovzon gets another deadline extension to deploy first GEO satellite](https://spacenews.com/ovzon-gets-another-deadline-extension-to-deploy-first-geo-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T004629">2023-11-01 00:46:29 UTC</a></sub>
-* [FAA completes safety review for next Starship launch](https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T215834">2023-10-31 21:58:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T233234">2023-11-01 23:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T003454">2023-11-02 00:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
