@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Elon Musk says SpaceX’s Starlink business ‘achieved breakeven cash flow’](https://www.cnbc.com/2023/11/02/elon-musk-spacex-starlink-breakeven-cash-flow.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T163616">2023-11-02 16:36:16 UTC</a></sub>
 * [After Vulcan slips, Space Force ends up awarding more missions to SpaceX](https://arstechnica.com/space/2023/11/after-vulcan-slips-space-force-ends-up-awarding-more-missions-to-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T141426">2023-11-02 14:14:26 UTC</a></sub>
 * [POLARIS Spaceplanes Perform First Flight of MIRA Demonstrator](https://europeanspaceflight.com/polaris-spaceplanes-perform-first-flight-of-mira-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T135614">2023-11-02 13:56:14 UTC</a></sub>
 * [Daily Telescope: The brilliant remains of a star that died 10,000 years ago](https://arstechnica.com/space/2023/11/daily-telescope-pulling-the-veil-back-on-a-stunning-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T131836">2023-11-02 13:18:36 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Senate passes orbital debris bill](https://spacenews.com/senate-passes-orbital-debris-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T014904">2023-11-02 01:49:04 UTC</a></sub>
 * [SpaceNews Icon Awards honorees: Deal of the Year](https://spacenews.com/spacenews-icon-awards-honorees-deal-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T000000">2023-11-02 00:00:00 UTC</a></sub>
 * [Retired Space Force Lt. Gen. Armagno joins Rocket Lab’s board of directors](https://spacenews.com/retired-space-force-lt-gen-armagno-joins-rocket-labs-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T215558">2023-11-01 21:55:58 UTC</a></sub>
-* [Space Force awards $2.5 billion in rocket contracts to SpaceX and ULA for 21 launches](https://www.cnbc.com/2023/11/01/space-force-awards-spacex-ula-with-2point5-billion-for-21-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T184200">2023-11-01 18:42:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T163800">2023-11-02 16:38:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T170705">2023-11-02 17:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
