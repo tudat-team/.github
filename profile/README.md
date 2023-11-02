@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Space Force takes over missile-warning ground stations previously run by the Army](https://spacenews.com/space-force-takes-over-missile-warning-ground-stations-previously-run-by-the-army/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T224750">2023-11-02 22:47:50 UTC</a></sub>
 * [Viasat cutting global workforce by 10% after Inmarsat acquisition](https://spacenews.com/viasat-cutting-global-workforce-by-10-after-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T215705">2023-11-02 21:57:05 UTC</a></sub>
 * [Second flight of Starship closing in on potential November launch](https://www.nasaspaceflight.com/2023/11/starship-update-110223/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T213604">2023-11-02 21:36:04 UTC</a></sub>
 * [Investing in Space: Regulatory hold up keeps Varda spacecraft stuck in orbit](https://www.cnbc.com/2023/11/02/investing-in-space-regulatory-hold-up-keeps-varda-spacecraft-stuck-in-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T192704">2023-11-02 19:27:04 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Daily Telescope: The brilliant remains of a star that died 10,000 years ago](https://arstechnica.com/space/2023/11/daily-telescope-pulling-the-veil-back-on-a-stunning-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T131836">2023-11-02 13:18:36 UTC</a></sub>
 * [China’s iSpace launches and lands rocket test stage](https://spacenews.com/chinas-ispace-launches-and-lands-rocket-test-stage/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T131326">2023-11-02 13:13:26 UTC</a></sub>
 * [Netherlands and Iceland sign Artemis Accords](https://spacenews.com/netherlands-and-iceland-sign-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T101039">2023-11-02 10:10:39 UTC</a></sub>
-* [UK pushing to combine OneWeb Gen 2 and European sovereign constellation efforts](https://spacenews.com/uk-pushing-to-combine-oneweb-gen-2-and-european-sovereign-constellation-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T090000">2023-11-02 09:00:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -596,8 +596,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Behold, the moon(s)!](https://www.planetary.org/the-downlink/behold-the-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T143438">2023-10-20 14:34:38 UTC</a></sub>
 * [SLIM, Japan’s precision lunar lander](https://www.planetary.org/space-missions/slim-japans-precision-lunar-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T143434">2023-10-19 14:34:34 UTC</a></sub>
 * [Is the Mars Earth Return Orbiter doomed?](https://europeanspaceflight.substack.com/p/is-the-mars-earth-return-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T143021">2023-10-18 14:30:21 UTC</a></sub>
+* [Development Associate](https://www.planetary.org/careers/development-associate) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T222432">2023-10-17 22:24:32 UTC</a></sub>
 * [Science Editor](https://www.planetary.org/careers/science-editor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T190446">2023-10-17 19:04:46 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: October 9-15, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-9-15-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T120721">2023-10-16 12:07:21 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T223207">2023-11-02 22:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T230740">2023-11-02 23:07:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
