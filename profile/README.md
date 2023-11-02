@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Investing in Space: Regulatory hold up keeps Varda spacecraft stuck in orbit](https://www.cnbc.com/2023/11/02/investing-in-space-regulatory-hold-up-keeps-varda-spacecraft-stuck-in-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T192704">2023-11-02 19:27:04 UTC</a></sub>
 * [Elon Musk says SpaceX’s Starlink business ‘achieved breakeven cash flow’](https://www.cnbc.com/2023/11/02/elon-musk-spacex-starlink-breakeven-cash-flow.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T163616">2023-11-02 16:36:16 UTC</a></sub>
 * [After Vulcan slips, Space Force ends up awarding more missions to SpaceX](https://arstechnica.com/space/2023/11/after-vulcan-slips-space-force-ends-up-awarding-more-missions-to-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T141426">2023-11-02 14:14:26 UTC</a></sub>
 * [POLARIS Spaceplanes Perform First Flight of MIRA Demonstrator](https://europeanspaceflight.com/polaris-spaceplanes-perform-first-flight-of-mira-demonstrator/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T135614">2023-11-02 13:56:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [UK pushing to combine OneWeb Gen 2 and European sovereign constellation efforts](https://spacenews.com/uk-pushing-to-combine-oneweb-gen-2-and-european-sovereign-constellation-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T090000">2023-11-02 09:00:00 UTC</a></sub>
 * [Senate passes orbital debris bill](https://spacenews.com/senate-passes-orbital-debris-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T014904">2023-11-02 01:49:04 UTC</a></sub>
 * [SpaceNews Icon Awards honorees: Deal of the Year](https://spacenews.com/spacenews-icon-awards-honorees-deal-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T000000">2023-11-02 00:00:00 UTC</a></sub>
-* [Retired Space Force Lt. Gen. Armagno joins Rocket Lab’s board of directors](https://spacenews.com/retired-space-force-lt-gen-armagno-joins-rocket-labs-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T215558">2023-11-01 21:55:58 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T193215">2023-11-02 19:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T200746">2023-11-02 20:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
