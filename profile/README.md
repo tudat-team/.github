@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [UK pushing to combine OneWeb Gen 2 and European sovereign constellation efforts](https://spacenews.com/uk-pushing-to-combine-oneweb-gen-2-and-european-sovereign-constellation-efforts/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T090000">2023-11-02 09:00:00 UTC</a></sub>
 * [Senate passes orbital debris bill](https://spacenews.com/senate-passes-orbital-debris-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T014904">2023-11-02 01:49:04 UTC</a></sub>
 * [SpaceNews Icon Awards honorees: Deal of the Year](https://spacenews.com/spacenews-icon-awards-honorees-deal-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T000000">2023-11-02 00:00:00 UTC</a></sub>
 * [Retired Space Force Lt. Gen. Armagno joins Rocket Lab’s board of directors](https://spacenews.com/retired-space-force-lt-gen-armagno-joins-rocket-labs-board-of-directors/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T215558">2023-11-01 21:55:58 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Op-ed | Space Force launch strategy a step in the right direction](https://spacenews.com/op-ed-space-force-launch-strategy-a-step-in-the-right-direction/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T131000">2023-11-01 13:10:00 UTC</a></sub>
 * [Daily Telescope: A dazzling view of the Milky Way from southern Africa](https://arstechnica.com/space/2023/11/daily-telescope-a-dazzling-view-of-the-milky-way-from-southern-africa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T120044">2023-11-01 12:00:44 UTC</a></sub>
 * [Kuva Space raises 16.6 million euros](https://spacenews.com/kuva-space-raises-16-6-million-euros/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T090000">2023-11-01 09:00:00 UTC</a></sub>
-* [Starship Another Step Closer to Second Test Flight](https://spacepolicyonline.com/news/starship-another-step-closer-to-second-test-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T035534">2023-11-01 03:55:34 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T083234">2023-11-02 08:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T090733">2023-11-02 09:07:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
