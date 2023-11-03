@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Babin, Lucas Introduce Commercial Space Bill](https://spacepolicyonline.com/news/babin-lucas-introduce-commercial-space-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T035624">2023-11-03 03:56:24 UTC</a></sub>
 * [House Appropriators Detail FY2024 NASA Spending Priorities, MSR Fares Better Than in Senate](https://spacepolicyonline.com/news/house-appropriators-detail-fy2024-nasa-spending-priorities-msr-fares-better-than-in-senate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T023034">2023-11-03 02:30:34 UTC</a></sub>
 * [SpaceRake wins $1.8 million in SDA funding for optical communications terminals](https://spacenews.com/spacerake-wins-1-8-million-in-sda-funding-for-optical-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T001533">2023-11-03 00:15:33 UTC</a></sub>
 * [Virgin Galactic carries researchers on fifth commercial suborbital flight](https://spacenews.com/virgin-galactic-carries-researchers-on-fifth-commercial-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T232745">2023-11-02 23:27:45 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Second flight of Starship closing in on potential November launch](https://www.nasaspaceflight.com/2023/11/starship-update-110223/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T213604">2023-11-02 21:36:04 UTC</a></sub>
 * [Investing in Space: Regulatory hold up keeps Varda spacecraft stuck in orbit](https://www.cnbc.com/2023/11/02/investing-in-space-regulatory-hold-up-keeps-varda-spacecraft-stuck-in-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T192704">2023-11-02 19:27:04 UTC</a></sub>
 * [Elon Musk says SpaceX’s Starlink business ‘achieved breakeven cash flow’](https://www.cnbc.com/2023/11/02/elon-musk-spacex-starlink-breakeven-cash-flow.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T163616">2023-11-02 16:36:16 UTC</a></sub>
-* [After Vulcan slips, Space Force ends up awarding more missions to SpaceX](https://arstechnica.com/space/2023/11/after-vulcan-slips-space-force-ends-up-awarding-more-missions-to-spacex/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T141426">2023-11-02 14:14:26 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T033232">2023-11-03 03:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T040905">2023-11-03 04:09:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
