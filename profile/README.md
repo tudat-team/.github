@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [It’s almost showtime for SpaceX’s massive Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T214957">2023-11-03 21:49:57 UTC</a></sub>
 * [How long will Jeff Bezos continue to subsidize his New Shepard rocket?](https://arstechnica.com/space/2023/11/as-virgin-galactic-soars-blue-origins-new-shepard-remains-grounded/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T160627">2023-11-03 16:06:27 UTC</a></sub>
 * [Revealing the Startup of the Year finalists for the SpaceNews 2023 Icon Awards](https://spacenews.com/revealing-the-startup-of-the-year-finalists-for-the-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T143458">2023-11-03 14:34:58 UTC</a></sub>
 * [Norway Officially Opens “First Operational Spaceport in Continental Europe”](https://europeanspaceflight.com/norway-officially-opens-first-operational-spaceport-in-continental-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T134040">2023-11-03 13:40:40 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Report: ICBM test aborted after “anomaly”; FAA wraps Starship safety review](https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T110051">2023-11-03 11:00:51 UTC</a></sub>
 * [Babin, Lucas Introduce Commercial Space Bill](https://spacepolicyonline.com/news/babin-lucas-introduce-commercial-space-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T035624">2023-11-03 03:56:24 UTC</a></sub>
 * [House Appropriators Detail FY2024 NASA Spending Priorities, MSR Fares Better Than in Senate](https://spacepolicyonline.com/news/house-appropriators-detail-fy2024-nasa-spending-priorities-msr-fares-better-than-in-senate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T023034">2023-11-03 02:30:34 UTC</a></sub>
-* [SpaceRake wins $1.8 million in SDA funding for optical communications terminals](https://spacenews.com/spacerake-wins-1-8-million-in-sda-funding-for-optical-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T001533">2023-11-03 00:15:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T213231">2023-11-03 21:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T220658">2023-11-03 22:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
