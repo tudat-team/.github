@@ -568,7 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Rocket Report: Chinese firm lands rocket vertically; Vulcan delays cost ULA](https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T110051">2023-11-03 11:00:51 UTC</a></sub>
+* [NASA open to extending ISS beyond 2030](https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120216">2023-11-03 12:02:16 UTC</a></sub>
+* [Daily Telescope: Lucy finds not one but two diamonds in the sky](https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120011">2023-11-03 12:00:11 UTC</a></sub>
+* [Rocket Report: ICBM test aborted after “anomaly”; FAA wraps Starship safety review](https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T110051">2023-11-03 11:00:51 UTC</a></sub>
 * [Babin, Lucas Introduce Commercial Space Bill](https://spacepolicyonline.com/news/babin-lucas-introduce-commercial-space-bill/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T035624">2023-11-03 03:56:24 UTC</a></sub>
 * [House Appropriators Detail FY2024 NASA Spending Priorities, MSR Fares Better Than in Senate](https://spacepolicyonline.com/news/house-appropriators-detail-fy2024-nasa-spending-priorities-msr-fares-better-than-in-senate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T023034">2023-11-03 02:30:34 UTC</a></sub>
 * [SpaceRake wins $1.8 million in SDA funding for optical communications terminals](https://spacenews.com/spacerake-wins-1-8-million-in-sda-funding-for-optical-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T001533">2023-11-03 00:15:33 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Iceland and Netherlands Join Artemis Accords](https://spacepolicyonline.com/news/iceland-and-netherlands-join-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T231925">2023-11-02 23:19:25 UTC</a></sub>
 * [Space Force takes over missile-warning ground stations previously run by the Army](https://spacenews.com/space-force-takes-over-missile-warning-ground-stations-previously-run-by-the-army/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T224750">2023-11-02 22:47:50 UTC</a></sub>
 * [Viasat cutting global workforce by 10% after Inmarsat acquisition](https://spacenews.com/viasat-cutting-global-workforce-by-10-after-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T215705">2023-11-02 21:57:05 UTC</a></sub>
-* [Second flight of Starship closing in on potential November launch](https://www.nasaspaceflight.com/2023/11/starship-update-110223/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T213604">2023-11-02 21:36:04 UTC</a></sub>
-* [Investing in Space: Regulatory hold up keeps Varda spacecraft stuck in orbit](https://www.cnbc.com/2023/11/02/investing-in-space-regulatory-hold-up-keeps-varda-spacecraft-stuck-in-orbit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T192704">2023-11-02 19:27:04 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T113224">2023-11-03 11:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T121352">2023-11-03 12:13:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
