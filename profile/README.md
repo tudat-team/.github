@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Revealing the Startup of the Year finalists for the SpaceNews 2023 Icon Awards](https://spacenews.com/revealing-the-startup-of-the-year-finalists-for-the-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T143458">2023-11-03 14:34:58 UTC</a></sub>
 * [Norway Officially Opens “First Operational Spaceport in Continental Europe”](https://europeanspaceflight.com/norway-officially-opens-first-operational-spaceport-in-continental-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T134040">2023-11-03 13:40:40 UTC</a></sub>
 * [Norway opens Andøya spaceport](https://spacenews.com/norway-opens-andoya-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T121738">2023-11-03 12:17:38 UTC</a></sub>
 * [NASA open to extending ISS beyond 2030](https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120216">2023-11-03 12:02:16 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [House Appropriators Detail FY2024 NASA Spending Priorities, MSR Fares Better Than in Senate](https://spacepolicyonline.com/news/house-appropriators-detail-fy2024-nasa-spending-priorities-msr-fares-better-than-in-senate/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T023034">2023-11-03 02:30:34 UTC</a></sub>
 * [SpaceRake wins $1.8 million in SDA funding for optical communications terminals](https://spacenews.com/spacerake-wins-1-8-million-in-sda-funding-for-optical-communications-terminals/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T001533">2023-11-03 00:15:33 UTC</a></sub>
 * [Virgin Galactic carries researchers on fifth commercial suborbital flight](https://spacenews.com/virgin-galactic-carries-researchers-on-fifth-commercial-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T232745">2023-11-02 23:27:45 UTC</a></sub>
-* [Iceland and Netherlands Join Artemis Accords](https://spacepolicyonline.com/news/iceland-and-netherlands-join-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T231925">2023-11-02 23:19:25 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The best! The farthest! The maximum!](https://www.planetary.org/the-downlink/the-best-the-farthest-the-maximum) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T143435">2023-11-03 14:34:35 UTC</a></sub>
 * [Susie's back, tell a friend](https://europeanspaceflight.substack.com/p/susies-back-tell-a-friend) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T135504">2023-11-01 13:55:04 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 23-29, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T122444">2023-10-30 12:24:44 UTC</a></sub>
 * [Galactic ghouls and vampire stars](https://www.planetary.org/the-downlink/galactic-ghouls-and-vampire-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143434">2023-10-27 14:34:34 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SLIM, Japan’s precision lunar lander](https://www.planetary.org/space-missions/slim-japans-precision-lunar-lander) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T143434">2023-10-19 14:34:34 UTC</a></sub>
 * [Is the Mars Earth Return Orbiter doomed?](https://europeanspaceflight.substack.com/p/is-the-mars-earth-return-orbiter) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T143021">2023-10-18 14:30:21 UTC</a></sub>
 * [Development Associate](https://www.planetary.org/careers/development-associate) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T222432">2023-10-17 22:24:32 UTC</a></sub>
-* [Science Editor](https://www.planetary.org/careers/science-editor) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T190446">2023-10-17 19:04:46 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T143316">2023-11-03 14:33:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T150755">2023-11-03 15:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
