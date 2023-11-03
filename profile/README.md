@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Norway opens Andøya spaceport](https://spacenews.com/norway-opens-andoya-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T121738">2023-11-03 12:17:38 UTC</a></sub>
 * [NASA open to extending ISS beyond 2030](https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120216">2023-11-03 12:02:16 UTC</a></sub>
 * [Daily Telescope: Lucy finds not one but two diamonds in the sky](https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120011">2023-11-03 12:00:11 UTC</a></sub>
 * [Rocket Report: ICBM test aborted after “anomaly”; FAA wraps Starship safety review](https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T110051">2023-11-03 11:00:51 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic carries researchers on fifth commercial suborbital flight](https://spacenews.com/virgin-galactic-carries-researchers-on-fifth-commercial-suborbital-flight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T232745">2023-11-02 23:27:45 UTC</a></sub>
 * [Iceland and Netherlands Join Artemis Accords](https://spacepolicyonline.com/news/iceland-and-netherlands-join-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T231925">2023-11-02 23:19:25 UTC</a></sub>
 * [Space Force takes over missile-warning ground stations previously run by the Army](https://spacenews.com/space-force-takes-over-missile-warning-ground-stations-previously-run-by-the-army/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T224750">2023-11-02 22:47:50 UTC</a></sub>
-* [Viasat cutting global workforce by 10% after Inmarsat acquisition](https://spacenews.com/viasat-cutting-global-workforce-by-10-after-inmarsat-acquisition/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T215705">2023-11-02 21:57:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T121352">2023-11-03 12:13:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T124751">2023-11-03 12:47:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
