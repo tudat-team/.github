@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Juno discovers salts and organic compounds on Ganymede’s surface](https://www.nasaspaceflight.com/2023/11/juno-ganymede/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T202959">2023-11-04 20:29:59 UTC</a></sub>
 * [Astra, low on cash, defaults on loan](https://spacenews.com/astra-low-on-cash-defaults-on-loan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T161751">2023-11-04 16:17:51 UTC</a></sub>
 * [Kuva Space Raises €16.6M for Subscription-Based Hyperspectral Imaging Service](https://europeanspaceflight.com/kuva-space-raises-e16-6m-for-subscription-based-hyperspectral-imaging-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T070035">2023-11-04 07:00:35 UTC</a></sub>
 * [House bill would fully fund Mars Sample Return, block cooperation on ExoMars](https://spacenews.com/house-bill-would-fully-fund-mars-sample-return-block-cooperation-on-exomars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T230452">2023-11-03 23:04:52 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Revealing the Startup of the Year finalists for the SpaceNews 2023 Icon Awards](https://spacenews.com/revealing-the-startup-of-the-year-finalists-for-the-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T143458">2023-11-03 14:34:58 UTC</a></sub>
 * [Norway Officially Opens “First Operational Spaceport in Continental Europe”](https://europeanspaceflight.com/norway-officially-opens-first-operational-spaceport-in-continental-europe/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T134040">2023-11-03 13:40:40 UTC</a></sub>
 * [Norway opens Andøya spaceport](https://spacenews.com/norway-opens-andoya-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T121738">2023-11-03 12:17:38 UTC</a></sub>
-* [NASA open to extending ISS beyond 2030](https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120216">2023-11-03 12:02:16 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T203216">2023-11-04 20:32:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T210602">2023-11-04 21:06:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
