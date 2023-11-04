@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Kuva Space Raises €16.6M for Subscription-Based Hyperspectral Imaging Service](https://europeanspaceflight.com/kuva-space-raises-e16-6m-for-subscription-based-hyperspectral-imaging-service/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T070035">2023-11-04 07:00:35 UTC</a></sub>
 * [House bill would fully fund Mars Sample Return, block cooperation on ExoMars](https://spacenews.com/house-bill-would-fully-fund-mars-sample-return-block-cooperation-on-exomars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T230452">2023-11-03 23:04:52 UTC</a></sub>
 * [Astra defaults on debt agreement, warns it may not be able to raise needed cash](https://www.cnbc.com/2023/11/03/astra-defaults-on-debt-agreement-may-not-be-able-to-raise-needed-cash.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T220941">2023-11-03 22:09:41 UTC</a></sub>
 * [It’s almost showtime for SpaceX’s massive Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T214957">2023-11-03 21:49:57 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Norway opens Andøya spaceport](https://spacenews.com/norway-opens-andoya-spaceport/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T121738">2023-11-03 12:17:38 UTC</a></sub>
 * [NASA open to extending ISS beyond 2030](https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120216">2023-11-03 12:02:16 UTC</a></sub>
 * [Daily Telescope: Lucy finds not one but two diamonds in the sky](https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T120011">2023-11-03 12:00:11 UTC</a></sub>
-* [Rocket Report: ICBM test aborted after “anomaly”; FAA wraps Starship safety review](https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T110051">2023-11-03 11:00:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T063213">2023-11-04 06:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T070747">2023-11-04 07:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
