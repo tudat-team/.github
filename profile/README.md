@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [NASA's Curiosity Rover Clocks 4,000 Days on Mars](https://mars.nasa.gov/news/9508/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T184400">2023-11-06 18:44:00 UTC</a></sub>
+* [Charting the Course: A Blueprint to Continued U.S. Leadership in Space](https://spacenews.com/charting-the-course-a-blueprint-to-continued-u-s-leadership-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T180841">2023-11-06 18:08:41 UTC</a></sub>
 * [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T150015">2023-11-06 15:00:15 UTC</a></sub>
 * [Unveiling the Civil Space Achievement of the Year finalists for the SpaceNews 2023 Icon Awards](https://spacenews.com/civil-space-achievement-of-the-year-finalists-for-the-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T143127">2023-11-06 14:31:27 UTC</a></sub>
 * [Daily Telescope: The sword of Orion contains a brilliant reflection nebula](https://arstechnica.com/space/2023/11/daily-telescope-chasing-the-running-man-in-the-stars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T130047">2023-11-06 13:00:47 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [New commercial space bill addresses mission authorization and SSA](https://spacenews.com/new-commercial-space-bill-addresses-mission-authorization-and-ssa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231105T230915">2023-11-05 23:09:15 UTC</a></sub>
 * [What’s Happening in Space Policy November 5-11, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-5-11-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231105T172439">2023-11-05 17:24:39 UTC</a></sub>
 * [NASA delays Artemis lunar rover award by four months](https://spacenews.com/nasa-delays-artemis-lunar-rover-award-by-four-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T235330">2023-11-04 23:53:30 UTC</a></sub>
-* [Juno discovers salts and organic compounds on Ganymede’s surface](https://www.nasaspaceflight.com/2023/11/juno-ganymede/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T202959">2023-11-04 20:29:59 UTC</a></sub>
-* [Astra, low on cash, defaults on loan](https://spacenews.com/astra-low-on-cash-defaults-on-loan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T161751">2023-11-04 16:17:51 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T183342">2023-11-06 18:33:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T190552">2023-11-06 19:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
