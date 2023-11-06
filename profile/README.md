@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [CNES Boss on Damage Control for ArianeGroup on Ariane 6 Failures](https://europeanspaceflight.com/cnes-boss-on-damage-control-for-arianegroup-on-ariane-6-failures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T072258">2023-11-06 07:22:58 UTC</a></sub>
 * [New commercial space bill addresses mission authorization and SSA](https://spacenews.com/new-commercial-space-bill-addresses-mission-authorization-and-ssa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231105T230915">2023-11-05 23:09:15 UTC</a></sub>
 * [What’s Happening in Space Policy November 5-11, 2023](https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-5-11-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231105T172439">2023-11-05 17:24:39 UTC</a></sub>
 * [NASA delays Artemis lunar rover award by four months](https://spacenews.com/nasa-delays-artemis-lunar-rover-award-by-four-months/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T235330">2023-11-04 23:53:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [House bill would fully fund Mars Sample Return, block cooperation on ExoMars](https://spacenews.com/house-bill-would-fully-fund-mars-sample-return-block-cooperation-on-exomars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T230452">2023-11-03 23:04:52 UTC</a></sub>
 * [Astra defaults on debt agreement, warns it may not be able to raise needed cash](https://www.cnbc.com/2023/11/03/astra-defaults-on-debt-agreement-may-not-be-able-to-raise-needed-cash.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T220941">2023-11-03 22:09:41 UTC</a></sub>
 * [It’s almost showtime for SpaceX’s massive Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T214957">2023-11-03 21:49:57 UTC</a></sub>
-* [How long will Jeff Bezos continue to subsidize his New Shepard rocket?](https://arstechnica.com/space/2023/11/as-virgin-galactic-soars-blue-origins-new-shepard-remains-grounded/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T160627">2023-11-03 16:06:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T073232">2023-11-06 07:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T081039">2023-11-06 08:10:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
