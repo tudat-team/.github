@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA to start commercial cargo program](https://spacenews.com/esa-to-start-commercial-cargo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T030225">2023-11-07 03:02:25 UTC</a></sub>
 * [LeoLabs data shows on-orbit maneuvers by Russian satellites](https://spacenews.com/leolabs-data-shows-on-orbit-maneuvers-by-russian-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T234442">2023-11-06 23:44:42 UTC</a></sub>
 * [Astra secures interim financing deal](https://spacenews.com/astra-secures-interim-financing-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T233314">2023-11-06 23:33:14 UTC</a></sub>
 * [SpaceX breaks its own record, launches Falcon 9 for the 18th time](https://www.teslarati.com/spacex-breaks-its-own-record-launches-falcon-9-18th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T230435">2023-11-06 23:04:35 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T150015">2023-11-06 15:00:15 UTC</a></sub>
 * [Unveiling the Civil Space Achievement of the Year finalists for the SpaceNews 2023 Icon Awards](https://spacenews.com/civil-space-achievement-of-the-year-finalists-for-the-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T143127">2023-11-06 14:31:27 UTC</a></sub>
 * [Daily Telescope: The sword of Orion contains a brilliant reflection nebula](https://arstechnica.com/space/2023/11/daily-telescope-chasing-the-running-man-in-the-stars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T130047">2023-11-06 13:00:47 UTC</a></sub>
-* [Sierra Space completes first Dream Chaser](https://spacenews.com/sierra-space-completes-first-dream-chaser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T115627">2023-11-06 11:56:27 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T023607">2023-11-07 02:36:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T030757">2023-11-07 03:07:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
