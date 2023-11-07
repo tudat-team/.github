@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Daily Telescope: Pumping up the volume with the Headphones nebula](https://arstechnica.com/space/2023/11/daily-telescope-pumping-up-the-volume-with-the-headphones-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T130524">2023-11-07 13:05:24 UTC</a></sub>
 * [ESA: Time to Assert Europe’s “Rightful Place” in Space](https://spacepolicyonline.com/news/esa-time-to-assert-europes-rightful-place-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T044735">2023-11-07 04:47:35 UTC</a></sub>
 * [Canadian government backs 2024 space accelerator in Southern California](https://spacenews.com/canadian-government-backs-2024-space-accelerator-in-southern-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T043837">2023-11-07 04:38:37 UTC</a></sub>
 * [ESA to start commercial cargo program](https://spacenews.com/esa-to-start-commercial-cargo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T030225">2023-11-07 03:02:25 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Dish Network CEO makes early exit](https://spacenews.com/dish-network-ceo-makes-early-exit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T224709">2023-11-06 22:47:09 UTC</a></sub>
 * [NASA's Curiosity Rover Clocks 4,000 Days on Mars](https://mars.nasa.gov/news/9508/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T184400">2023-11-06 18:44:00 UTC</a></sub>
 * [Charting the Course: A Blueprint to Continued U.S. Leadership in Space](https://spacenews.com/charting-the-course-a-blueprint-to-continued-u-s-leadership-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T180841">2023-11-06 18:08:41 UTC</a></sub>
-* [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T150015">2023-11-06 15:00:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T130936">2023-11-07 13:09:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T133227">2023-11-07 13:32:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
