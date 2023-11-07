@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [LeoLabs data shows on-orbit maneuvers by Russian satellites](https://spacenews.com/leolabs-data-shows-on-orbit-maneuvers-by-russian-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T234442">2023-11-06 23:44:42 UTC</a></sub>
+* [Astra secures interim financing deal](https://spacenews.com/astra-secures-interim-financing-deal/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T233314">2023-11-06 23:33:14 UTC</a></sub>
 * [SpaceX breaks its own record, launches Falcon 9 for the 18th time](https://www.teslarati.com/spacex-breaks-its-own-record-launches-falcon-9-18th-time/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T230435">2023-11-06 23:04:35 UTC</a></sub>
 * [Dish Network CEO makes early exit](https://spacenews.com/dish-network-ceo-makes-early-exit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T224709">2023-11-06 22:47:09 UTC</a></sub>
 * [NASA's Curiosity Rover Clocks 4,000 Days on Mars](https://mars.nasa.gov/news/9508/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T184400">2023-11-06 18:44:00 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Unveiling the Civil Space Achievement of the Year finalists for the SpaceNews 2023 Icon Awards](https://spacenews.com/civil-space-achievement-of-the-year-finalists-for-the-spacenews-2023-icon-awards/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T143127">2023-11-06 14:31:27 UTC</a></sub>
 * [Daily Telescope: The sword of Orion contains a brilliant reflection nebula](https://arstechnica.com/space/2023/11/daily-telescope-chasing-the-running-man-in-the-stars/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T130047">2023-11-06 13:00:47 UTC</a></sub>
 * [Sierra Space completes first Dream Chaser](https://spacenews.com/sierra-space-completes-first-dream-chaser/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T115627">2023-11-06 11:56:27 UTC</a></sub>
-* [CNES Boss on Damage Control for ArianeGroup on Ariane 6 Failures](https://europeanspaceflight.com/cnes-boss-on-damage-control-for-arianegroup-on-ariane-6-failures/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T072258">2023-11-06 07:22:58 UTC</a></sub>
-* [New commercial space bill addresses mission authorization and SSA](https://spacenews.com/new-commercial-space-bill-addresses-mission-authorization-and-ssa/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231105T230915">2023-11-05 23:09:15 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T233218">2023-11-06 23:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T003548">2023-11-07 00:35:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
