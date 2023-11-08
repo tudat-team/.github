@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Startups, universities selected for accelerator focused on space domain awareness](https://spacenews.com/startups-universities-selected-for-accelerator-focused-on-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T185445">2023-11-08 18:54:45 UTC</a></sub>
+* [Summit cites Paradigm Shift for European Spaceflight](https://www.nasaspaceflight.com/2023/11/paradigm-shift-european-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T184444">2023-11-08 18:44:44 UTC</a></sub>
 * [DoD signs $270 million agreement to acquire SES satellite communications services](https://spacenews.com/dod-signs-270-million-agreement-to-acquire-ses-satellite-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T154423">2023-11-08 15:44:23 UTC</a></sub>
 * [SpaceNews 2023 Icon Awards honorees: Unsung Hero](https://spacenews.com/spacenews-2023-icon-awards-honorees-unsung-hero/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T150803">2023-11-08 15:08:03 UTC</a></sub>
 * [Satellite imagery company BlackSky ekes out first quarterly profit](https://www.cnbc.com/2023/11/08/satellite-imagery-blacksky-ekes-out-first-quarterly-profit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T150713">2023-11-08 15:07:13 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Avio and Arianespace Finalize Divorce Terms](https://europeanspaceflight.com/avio-and-arianespace-finalize-divorce-terms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T061120">2023-11-08 06:11:20 UTC</a></sub>
 * [EU finalizing contract with SpaceX for Galileo launches](https://spacenews.com/eu-finalizing-contract-with-spacex-for-galileo-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T030648">2023-11-08 03:06:48 UTC</a></sub>
 * [Virgin Galactic lays off staff as it focuses on next-generation suborbital vehicle](https://spacenews.com/virgin-galactic-lays-off-staff-as-it-focuses-on-next-generation-suborbital-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T003754">2023-11-08 00:37:54 UTC</a></sub>
-* [Space Force procurement chief to ‘double down’ on reforms](https://spacenews.com/space-force-procurement-chief-to-double-down-on-reforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T230051">2023-11-07 23:00:51 UTC</a></sub>
-* [Lynk Global starts initial direct-to-device services in Solomon Islands](https://spacenews.com/lynk-global-starts-initial-direct-to-device-services-in-solomon-islands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T222003">2023-11-07 22:20:03 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T183325">2023-11-08 18:33:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T190604">2023-11-08 19:06:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
