@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic pausing flights next year and laying off 18% to focus on next-gen spacecraft](https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T221020">2023-11-08 22:10:20 UTC</a></sub>
+* [Rocket Lab pushes to get launch business back on track, with 22 Electron missions booked next year](https://www.cnbc.com/2023/11/08/rocket-lab-rklb-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T215508">2023-11-08 21:55:08 UTC</a></sub>
 * [SpaceX installs new Crew Access Arm in between Starlink launches](https://www.teslarati.com/spacex-installs-new-crew-access-arm-in-between-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T215433">2023-11-08 21:54:33 UTC</a></sub>
 * [U.S. Air Force X-37B spaceplane to launch on a SpaceX Falcon Heavy rocket](https://spacenews.com/u-s-air-force-x-37b-spaceplane-to-launch-on-a-spacex-falcon-heavy-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T210148">2023-11-08 21:01:48 UTC</a></sub>
 * [United Launch Alliance begins final preparations for debut launch of Vulcan](https://www.teslarati.com/united-launch-alliance-ula-begins-final-preparations-for-debut-launch-vulcan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T194439">2023-11-08 19:44:39 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [DoD signs $270 million agreement to acquire SES satellite communications services](https://spacenews.com/dod-signs-270-million-agreement-to-acquire-ses-satellite-communications-services/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T154423">2023-11-08 15:44:23 UTC</a></sub>
 * [SpaceNews 2023 Icon Awards honorees: Unsung Hero](https://spacenews.com/spacenews-2023-icon-awards-honorees-unsung-hero/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T150803">2023-11-08 15:08:03 UTC</a></sub>
 * [Satellite imagery company BlackSky ekes out first quarterly profit](https://www.cnbc.com/2023/11/08/satellite-imagery-blacksky-ekes-out-first-quarterly-profit.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T150713">2023-11-08 15:07:13 UTC</a></sub>
-* [Daily Telescope: Lucy continues to surprise astronomers with its first flyby](https://arstechnica.com/space/2023/11/daily-telescope-lucy-continues-to-surprise-astronomers-with-its-first-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T130022">2023-11-08 13:00:22 UTC</a></sub>
-* [VERITAS mission warns of risks of launch delay](https://spacenews.com/veritas-mission-warns-of-risks-of-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T123219">2023-11-08 12:32:19 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T223219">2023-11-08 22:32:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T230723">2023-11-08 23:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
