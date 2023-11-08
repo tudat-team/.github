@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Virgin Galactic lays off staff as it focuses on next-generation suborbital vehicle](https://spacenews.com/virgin-galactic-lays-off-staff-as-it-focuses-on-next-generation-suborbital-vehicle/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T003754">2023-11-08 00:37:54 UTC</a></sub>
 * [Space Force procurement chief to ‘double down’ on reforms](https://spacenews.com/space-force-procurement-chief-to-double-down-on-reforms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T230051">2023-11-07 23:00:51 UTC</a></sub>
 * [Lynk Global starts initial direct-to-device services in Solomon Islands](https://spacenews.com/lynk-global-starts-initial-direct-to-device-services-in-solomon-islands/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T222003">2023-11-07 22:20:03 UTC</a></sub>
 * [SpaceX readies for 80th launch of the year](https://www.teslarati.com/spacex-readies-80th-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T200433">2023-11-07 20:04:33 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA: Time to Assert Europe’s “Rightful Place” in Space](https://spacepolicyonline.com/news/esa-time-to-assert-europes-rightful-place-in-space/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T044735">2023-11-07 04:47:35 UTC</a></sub>
 * [Canadian government backs 2024 space accelerator in Southern California](https://spacenews.com/canadian-government-backs-2024-space-accelerator-in-southern-california/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T043837">2023-11-07 04:38:37 UTC</a></sub>
 * [ESA to start commercial cargo program](https://spacenews.com/esa-to-start-commercial-cargo-program/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T030225">2023-11-07 03:02:25 UTC</a></sub>
-* [LeoLabs data shows on-orbit maneuvers by Russian satellites](https://spacenews.com/leolabs-data-shows-on-orbit-maneuvers-by-russian-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T234442">2023-11-06 23:44:42 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T003506">2023-11-08 00:35:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T014350">2023-11-08 01:43:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
