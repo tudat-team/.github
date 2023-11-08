@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Daily Telescope: Lucy continues to surprise astronomers with its first flyby](https://arstechnica.com/space/2023/11/daily-telescope-lucy-continues-to-surprise-astronomers-with-its-first-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T130022">2023-11-08 13:00:22 UTC</a></sub>
 * [VERITAS mission warns of risks of launch delay](https://spacenews.com/veritas-mission-warns-of-risks-of-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T123219">2023-11-08 12:32:19 UTC</a></sub>
 * [Avio and Arianespace Finalize Divorce Terms](https://europeanspaceflight.com/avio-and-arianespace-finalize-divorce-terms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T061120">2023-11-08 06:11:20 UTC</a></sub>
 * [EU finalizing contract with SpaceX for Galileo launches](https://spacenews.com/eu-finalizing-contract-with-spacex-for-galileo-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T030648">2023-11-08 03:06:48 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceX readies for 80th launch of the year](https://www.teslarati.com/spacex-readies-80th-launch-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T200433">2023-11-07 20:04:33 UTC</a></sub>
 * [ArianeGroup to Receive €340M Per Year to Operate Ariane 6](https://europeanspaceflight.com/arianegroup-to-receive-e340m-per-year-to-operate-ariane-6/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T141737">2023-11-07 14:17:37 UTC</a></sub>
 * [Daily Telescope: Pumping up the volume with the Headphones nebula](https://arstechnica.com/space/2023/11/daily-telescope-pumping-up-the-volume-with-the-headphones-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T130524">2023-11-07 13:05:24 UTC</a></sub>
-* [Getting inflight Wi-Fi up to speed](https://spacenews.com/getting-inflight-wi-fi-up-to-speed/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T092500">2023-11-07 09:25:00 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T130950">2023-11-08 13:09:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T133213">2023-11-08 13:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
