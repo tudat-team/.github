@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [U.S. Air Force X-37B spaceplane to launch on a SpaceX Falcon Heavy rocket](https://spacenews.com/u-s-air-force-x-37b-spaceplane-to-launch-on-a-spacex-falcon-heavy-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T210148">2023-11-08 21:01:48 UTC</a></sub>
 * [United Launch Alliance begins final preparations for debut launch of Vulcan](https://www.teslarati.com/united-launch-alliance-ula-begins-final-preparations-for-debut-launch-vulcan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T194439">2023-11-08 19:44:39 UTC</a></sub>
 * [Startups, universities selected for accelerator focused on space domain awareness](https://spacenews.com/startups-universities-selected-for-accelerator-focused-on-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T185445">2023-11-08 18:54:45 UTC</a></sub>
 * [Summit cites Paradigm Shift for European Spaceflight](https://www.nasaspaceflight.com/2023/11/paradigm-shift-european-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T184444">2023-11-08 18:44:44 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Daily Telescope: Lucy continues to surprise astronomers with its first flyby](https://arstechnica.com/space/2023/11/daily-telescope-lucy-continues-to-surprise-astronomers-with-its-first-flyby/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T130022">2023-11-08 13:00:22 UTC</a></sub>
 * [VERITAS mission warns of risks of launch delay](https://spacenews.com/veritas-mission-warns-of-risks-of-launch-delay/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T123219">2023-11-08 12:32:19 UTC</a></sub>
 * [Avio and Arianespace Finalize Divorce Terms](https://europeanspaceflight.com/avio-and-arianespace-finalize-divorce-terms/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T061120">2023-11-08 06:11:20 UTC</a></sub>
-* [EU finalizing contract with SpaceX for Galileo launches](https://spacenews.com/eu-finalizing-contract-with-spacex-for-galileo-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T030648">2023-11-08 03:06:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T203230">2023-11-08 20:32:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T210700">2023-11-08 21:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
