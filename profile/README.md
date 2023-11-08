@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [A peek behind the Orbex curtains](https://europeanspaceflight.substack.com/p/a-peek-behind-the-orbex-curtains) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T143534">2023-11-08 14:35:34 UTC</a></sub>
 * [Vulcan Cert-1: Launch campaign started](https://blog.ulalaunch.com/blog/vulcan-cert-1-launch-campaign-started) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T171452">2023-11-07 17:14:52 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 30-November 5, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-30-november-5-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T210404">2023-11-06 21:04:04 UTC</a></sub>
 * [Why aren't there more close-up images of Uranus and Neptune?](https://www.planetary.org/articles/why-arent-there-more-close-up-images-of-uranus-and-neptune) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T153433">2023-11-06 15:34:33 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Galactic ghouls and vampire stars](https://www.planetary.org/the-downlink/galactic-ghouls-and-vampire-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143434">2023-10-27 14:34:34 UTC</a></sub>
 * [European small launch companies respond](https://europeanspaceflight.substack.com/p/european-small-launch-companies-respond) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T134439">2023-10-25 13:44:39 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 16-22, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202922">2023-10-23 20:29:22 UTC</a></sub>
-* [Behold, the moon(s)!](https://www.planetary.org/the-downlink/behold-the-moons) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T143438">2023-10-20 14:34:38 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T143218">2023-11-08 14:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T150803">2023-11-08 15:08:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
