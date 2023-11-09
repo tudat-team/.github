@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Daily Telescope: Zooming in on one of the most iconic night sky sights](https://arstechnica.com/space/2023/11/daily-telescope-zooming-in-on-one-of-the-most-iconic-night-sky-sights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T123011">2023-11-09 12:30:11 UTC</a></sub>
 * [Virgin Galactic Goes All In on New Delta Spaceship](https://spacepolicyonline.com/news/virgin-galactic-goes-all-in-on-new-delta-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045729">2023-11-09 04:57:29 UTC</a></sub>
 * [ViaSat-3 failure investigation to conclude next week](https://spacenews.com/viasat-3-failure-investigation-to-conclude-next-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045435">2023-11-09 04:54:35 UTC</a></sub>
 * [Virgin Galactic to halt Unity suborbital flights by mid-2024](https://spacenews.com/virgin-galactic-to-halt-unity-suborbital-flights-by-mid-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T012330">2023-11-09 01:23:30 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [U.S. Air Force X-37B spaceplane to launch on a SpaceX Falcon Heavy rocket](https://spacenews.com/u-s-air-force-x-37b-spaceplane-to-launch-on-a-spacex-falcon-heavy-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T210148">2023-11-08 21:01:48 UTC</a></sub>
 * [United Launch Alliance begins final preparations for debut launch of Vulcan](https://www.teslarati.com/united-launch-alliance-ula-begins-final-preparations-for-debut-launch-vulcan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T194439">2023-11-08 19:44:39 UTC</a></sub>
 * [Startups, universities selected for accelerator focused on space domain awareness](https://spacenews.com/startups-universities-selected-for-accelerator-focused-on-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T185445">2023-11-08 18:54:45 UTC</a></sub>
-* [Summit cites Paradigm Shift for European Spaceflight](https://www.nasaspaceflight.com/2023/11/paradigm-shift-european-spaceflight/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T184444">2023-11-08 18:44:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T121345">2023-11-09 12:13:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T124658">2023-11-09 12:46:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
