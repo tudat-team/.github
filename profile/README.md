@@ -596,6 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Four bidders selected to develop ground systems for U.S. missile-warning satellites](https://spacenews.com/four-bidders-selected-to-develop-ground-systems-for-u-s-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T154811">2023-11-09 15:48:11 UTC</a></sub>
 * [Long March 3B launches ChinaSat-6E communications satellite](https://spacenews.com/long-march-3b-launches-chinasat-6e-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T145440">2023-11-09 14:54:40 UTC</a></sub>
 * [Astra founders offer to take company private at value of about $30 million](https://www.cnbc.com/2023/11/09/astra-founders-offer-to-take-company-private.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130401">2023-11-09 13:04:01 UTC</a></sub>
 * [ESA Signs Agreement for Potential Use of Starlab Space Station](https://europeanspaceflight.com/esa-signs-agreement-for-potential-use-of-starlab-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130002">2023-11-09 13:00:02 UTC</a></sub>
@@ -604,8 +605,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic Goes All In on New Delta Spaceship](https://spacepolicyonline.com/news/virgin-galactic-goes-all-in-on-new-delta-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045729">2023-11-09 04:57:29 UTC</a></sub>
 * [ViaSat-3 failure investigation to conclude next week](https://spacenews.com/viasat-3-failure-investigation-to-conclude-next-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045435">2023-11-09 04:54:35 UTC</a></sub>
 * [Virgin Galactic to halt Unity suborbital flights by mid-2024](https://spacenews.com/virgin-galactic-to-halt-unity-suborbital-flights-by-mid-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T012330">2023-11-09 01:23:30 UTC</a></sub>
-* [Virgin Galactic pausing flights next year and laying off 18% to focus on next-gen spacecraft](https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T221020">2023-11-08 22:10:20 UTC</a></sub>
-* [Rocket Lab pushes to get launch business back on track, with 22 Electron missions booked next year](https://www.cnbc.com/2023/11/08/rocket-lab-rklb-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T215508">2023-11-08 21:55:08 UTC</a></sub>
+* [Virgin Galactic stock surges 30% after announcing plan for cost savings](https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T221020">2023-11-08 22:10:20 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -638,7 +638,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T153227">2023-11-09 15:32:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T160928">2023-11-09 16:09:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
