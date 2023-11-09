@@ -575,7 +575,7 @@ conda install -c tudat-team/label/dev <package>
 </table>
 </details>
 </td>
-    <td><code>0.7.3.dev32</code></td>
+    <td><code>0.7.3.dev33</code></td>
   </tr>
 
 </table>
@@ -596,6 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Cargo Dragon ready for resupply trip to ISS](https://www.teslarati.com/spacex-cargo-dragon-ready-for-resupply-trip-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T175544">2023-11-09 17:55:44 UTC</a></sub>
 * [Airbus and Voyager sign agreement with ESA on Starlab commercial space station](https://spacenews.com/airbus-and-voyager-sign-agreement-with-esa-on-starlab-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T164409">2023-11-09 16:44:09 UTC</a></sub>
 * [Astra founders offer to take company private](https://spacenews.com/astra-founders-offer-to-take-company-private/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T162243">2023-11-09 16:22:43 UTC</a></sub>
 * [Four bidders selected to develop ground systems for U.S. missile-warning satellites](https://spacenews.com/four-bidders-selected-to-develop-ground-systems-for-u-s-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T154811">2023-11-09 15:48:11 UTC</a></sub>
@@ -605,7 +606,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Rocket Lab plans to resume Electron launches in late November](https://spacenews.com/rocket-lab-plans-to-resume-electron-launches-in-late-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T125105">2023-11-09 12:51:05 UTC</a></sub>
 * [Daily Telescope: Zooming in on one of the most iconic night sky sights](https://arstechnica.com/space/2023/11/daily-telescope-zooming-in-on-one-of-the-most-iconic-night-sky-sights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T123011">2023-11-09 12:30:11 UTC</a></sub>
 * [Virgin Galactic Goes All In on New Delta Spaceship](https://spacepolicyonline.com/news/virgin-galactic-goes-all-in-on-new-delta-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045729">2023-11-09 04:57:29 UTC</a></sub>
-* [ViaSat-3 failure investigation to conclude next week](https://spacenews.com/viasat-3-failure-investigation-to-conclude-next-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045435">2023-11-09 04:54:35 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -616,6 +616,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Lucy’s flyby of Dinkinesh: Everything you need to know](https://www.planetary.org/articles/lucys-flyby-of-dinkinesh-everything-you-need-to-know) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T180509">2023-11-09 18:05:09 UTC</a></sub>
 * [The best pictures of Mars from space](https://www.planetary.org/articles/best-pictures-of-mars-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T150436">2023-11-09 15:04:36 UTC</a></sub>
 * [A peek behind the Orbex curtains](https://europeanspaceflight.substack.com/p/a-peek-behind-the-orbex-curtains) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T143534">2023-11-08 14:35:34 UTC</a></sub>
 * [Vulcan Cert-1: Launch campaign started](https://blog.ulalaunch.com/blog/vulcan-cert-1-launch-campaign-started) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T171452">2023-11-07 17:14:52 UTC</a></sub>
@@ -625,7 +626,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Susie's back, tell a friend](https://europeanspaceflight.substack.com/p/susies-back-tell-a-friend) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T135504">2023-11-01 13:55:04 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 23-29, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T122444">2023-10-30 12:24:44 UTC</a></sub>
 * [Galactic ghouls and vampire stars](https://www.planetary.org/the-downlink/galactic-ghouls-and-vampire-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143434">2023-10-27 14:34:34 UTC</a></sub>
-* [European small launch companies respond](https://europeanspaceflight.substack.com/p/european-small-launch-companies-respond) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T134439">2023-10-25 13:44:39 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -638,7 +638,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T173220">2023-11-09 17:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T180919">2023-11-09 18:09:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
