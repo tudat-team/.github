@@ -596,6 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Iridium announces end of Qualcomm satellite-to-phone partnership](https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T215946">2023-11-09 21:59:46 UTC</a></sub>
 * [Rocket Lab reports results for Q3 2023](https://www.teslarati.com/rocket-lab-q3-2023-earnings-results/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T200453">2023-11-09 20:04:53 UTC</a></sub>
 * [Investing in Space: The military doled out $6 billion for rocket launches — and it’s not done yet](https://www.cnbc.com/2023/11/09/investing-in-space-the-military-doled-out-6-billion-for-rocket-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T191228">2023-11-09 19:12:28 UTC</a></sub>
 * [SpaceX Cargo Dragon ready for resupply trip to ISS](https://www.teslarati.com/spacex-cargo-dragon-ready-for-resupply-trip-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T175544">2023-11-09 17:55:44 UTC</a></sub>
@@ -605,7 +606,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Long March 3B launches ChinaSat-6E communications satellite](https://spacenews.com/long-march-3b-launches-chinasat-6e-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T145440">2023-11-09 14:54:40 UTC</a></sub>
 * [Astra founders offer to take company private at value of about $30 million](https://www.cnbc.com/2023/11/09/astra-founders-offer-to-take-company-private.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130401">2023-11-09 13:04:01 UTC</a></sub>
 * [ESA Signs Agreement for Potential Use of Starlab Space Station](https://europeanspaceflight.com/esa-signs-agreement-for-potential-use-of-starlab-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130002">2023-11-09 13:00:02 UTC</a></sub>
-* [Rocket Lab plans to resume Electron launches in late November](https://spacenews.com/rocket-lab-plans-to-resume-electron-launches-in-late-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T125105">2023-11-09 12:51:05 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -638,7 +638,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T213235">2023-11-09 21:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T220653">2023-11-09 22:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
