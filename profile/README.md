@@ -568,6 +568,9 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Astra founders offer to take company private at value of about $30 million](https://www.cnbc.com/2023/11/09/astra-founders-offer-to-take-company-private.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130401">2023-11-09 13:04:01 UTC</a></sub>
+* [ESA Signs Agreement for Potential Use of Starlab Space Station](https://europeanspaceflight.com/esa-signs-agreement-for-potential-use-of-starlab-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130002">2023-11-09 13:00:02 UTC</a></sub>
+* [Rocket Lab plans to resume Electron launches in late November](https://spacenews.com/rocket-lab-plans-to-resume-electron-launches-in-late-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T125105">2023-11-09 12:51:05 UTC</a></sub>
 * [Daily Telescope: Zooming in on one of the most iconic night sky sights](https://arstechnica.com/space/2023/11/daily-telescope-zooming-in-on-one-of-the-most-iconic-night-sky-sights/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T123011">2023-11-09 12:30:11 UTC</a></sub>
 * [Virgin Galactic Goes All In on New Delta Spaceship](https://spacepolicyonline.com/news/virgin-galactic-goes-all-in-on-new-delta-spaceship/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045729">2023-11-09 04:57:29 UTC</a></sub>
 * [ViaSat-3 failure investigation to conclude next week](https://spacenews.com/viasat-3-failure-investigation-to-conclude-next-week/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T045435">2023-11-09 04:54:35 UTC</a></sub>
@@ -575,9 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic pausing flights next year and laying off 18% to focus on next-gen spacecraft](https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T221020">2023-11-08 22:10:20 UTC</a></sub>
 * [Rocket Lab pushes to get launch business back on track, with 22 Electron missions booked next year](https://www.cnbc.com/2023/11/08/rocket-lab-rklb-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T215508">2023-11-08 21:55:08 UTC</a></sub>
 * [SpaceX installs new Crew Access Arm in between Starlink launches](https://www.teslarati.com/spacex-installs-new-crew-access-arm-in-between-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T215433">2023-11-08 21:54:33 UTC</a></sub>
-* [U.S. Air Force X-37B spaceplane to launch on a SpaceX Falcon Heavy rocket](https://spacenews.com/u-s-air-force-x-37b-spaceplane-to-launch-on-a-spacex-falcon-heavy-rocket/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T210148">2023-11-08 21:01:48 UTC</a></sub>
-* [United Launch Alliance begins final preparations for debut launch of Vulcan](https://www.teslarati.com/united-launch-alliance-ula-begins-final-preparations-for-debut-launch-vulcan/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T194439">2023-11-08 19:44:39 UTC</a></sub>
-* [Startups, universities selected for accelerator focused on space domain awareness](https://spacenews.com/startups-universities-selected-for-accelerator-focused-on-space-domain-awareness/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T185445">2023-11-08 18:54:45 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130935">2023-11-09 13:09:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T133250">2023-11-09 13:32:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
