@@ -596,6 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Long March 3B launches ChinaSat-6E communications satellite](https://spacenews.com/long-march-3b-launches-chinasat-6e-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T145440">2023-11-09 14:54:40 UTC</a></sub>
 * [Astra founders offer to take company private at value of about $30 million](https://www.cnbc.com/2023/11/09/astra-founders-offer-to-take-company-private.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130401">2023-11-09 13:04:01 UTC</a></sub>
 * [ESA Signs Agreement for Potential Use of Starlab Space Station](https://europeanspaceflight.com/esa-signs-agreement-for-potential-use-of-starlab-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T130002">2023-11-09 13:00:02 UTC</a></sub>
 * [Rocket Lab plans to resume Electron launches in late November](https://spacenews.com/rocket-lab-plans-to-resume-electron-launches-in-late-november/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T125105">2023-11-09 12:51:05 UTC</a></sub>
@@ -605,7 +606,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Virgin Galactic to halt Unity suborbital flights by mid-2024](https://spacenews.com/virgin-galactic-to-halt-unity-suborbital-flights-by-mid-2024/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T012330">2023-11-09 01:23:30 UTC</a></sub>
 * [Virgin Galactic pausing flights next year and laying off 18% to focus on next-gen spacecraft](https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T221020">2023-11-08 22:10:20 UTC</a></sub>
 * [Rocket Lab pushes to get launch business back on track, with 22 Electron missions booked next year](https://www.cnbc.com/2023/11/08/rocket-lab-rklb-q3-earnings-report.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T215508">2023-11-08 21:55:08 UTC</a></sub>
-* [SpaceX installs new Crew Access Arm in between Starlink launches](https://www.teslarati.com/spacex-installs-new-crew-access-arm-in-between-starlink-launches/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T215433">2023-11-08 21:54:33 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -616,6 +616,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [The best pictures of Mars from space](https://www.planetary.org/articles/best-pictures-of-mars-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T150436">2023-11-09 15:04:36 UTC</a></sub>
 * [A peek behind the Orbex curtains](https://europeanspaceflight.substack.com/p/a-peek-behind-the-orbex-curtains) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T143534">2023-11-08 14:35:34 UTC</a></sub>
 * [Vulcan Cert-1: Launch campaign started](https://blog.ulalaunch.com/blog/vulcan-cert-1-launch-campaign-started) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T171452">2023-11-07 17:14:52 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 30-November 5, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-30-november-5-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T210404">2023-11-06 21:04:04 UTC</a></sub>
@@ -625,7 +626,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Weekly Roundup for SpacePolicyOnline.com: October 23-29, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T122444">2023-10-30 12:24:44 UTC</a></sub>
 * [Galactic ghouls and vampire stars](https://www.planetary.org/the-downlink/galactic-ghouls-and-vampire-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143434">2023-10-27 14:34:34 UTC</a></sub>
 * [European small launch companies respond](https://europeanspaceflight.substack.com/p/european-small-launch-companies-respond) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T134439">2023-10-25 13:44:39 UTC</a></sub>
-* [Weekly Roundup for SpacePolicyOnline.com: October 16-22, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-16-22-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T202922">2023-10-23 20:29:22 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -638,7 +638,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T143203">2023-11-09 14:32:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T150737">2023-11-09 15:07:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
