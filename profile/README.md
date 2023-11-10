@@ -466,13 +466,6 @@ conda install -c tudat-team/label/dev <package>
 </a>
 </td>
 </tr><tr>
-<td>linux_64_python3.11.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=linux&amp;configuration=linux%20linux_64_python3.11.____cpython"/>
-</a>
-</td>
-</tr><tr>
 <td>linux_64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
@@ -491,13 +484,6 @@ conda install -c tudat-team/label/dev <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.10.____cpython"/>
-</a>
-</td>
-</tr><tr>
-<td>osx_64_python3.11.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_64_python3.11.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -522,13 +508,6 @@ conda install -c tudat-team/label/dev <package>
 </a>
 </td>
 </tr><tr>
-<td>osx_arm64_python3.11.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=osx&amp;configuration=osx%20osx_arm64_python3.11.____cpython"/>
-</a>
-</td>
-</tr><tr>
 <td>osx_arm64_python3.8.____cpython</td>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
@@ -547,13 +526,6 @@ conda install -c tudat-team/label/dev <package>
 <td>
 <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
 <img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.10.____cpython"/>
-</a>
-</td>
-</tr><tr>
-<td>win_64_python3.11.____cpython</td>
-<td>
-<a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=3&amp;branchName=main">
-<img alt="variant" src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudatpy-feedstock?branchName=main&amp;jobName=win&amp;configuration=win%20win_64_python3.11.____cpython"/>
 </a>
 </td>
 </tr><tr>
@@ -638,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T093222">2023-11-10 09:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T100755">2023-11-10 10:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
