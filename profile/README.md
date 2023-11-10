@@ -596,6 +596,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [ESA Joins U.S.-European Starlab Commercial Space Station Project](https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T045404">2023-11-10 04:54:04 UTC</a></sub>
 * [Satellite industry at odds over proposed power limit review ahead of WRC-23](https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221248">2023-11-09 22:12:48 UTC</a></sub>
 * [Rocket Lab to launch hypersonic test vehicle for the Defense Innovation Unit](https://spacenews.com/rocket-lab-to-launch-hypersonic-test-vehicle-for-the-defense-innovation-unit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221014">2023-11-09 22:10:14 UTC</a></sub>
 * [Iridium, Qualcomm end satellite-to-phone partnership](https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T215946">2023-11-09 21:59:46 UTC</a></sub>
@@ -605,7 +606,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Airbus and Voyager sign agreement with ESA on Starlab commercial space station](https://spacenews.com/airbus-and-voyager-sign-agreement-with-esa-on-starlab-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T164409">2023-11-09 16:44:09 UTC</a></sub>
 * [Astra founders offer to take company private](https://spacenews.com/astra-founders-offer-to-take-company-private/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T162243">2023-11-09 16:22:43 UTC</a></sub>
 * [Four bidders selected to develop ground systems for U.S. missile-warning satellites](https://spacenews.com/four-bidders-selected-to-develop-ground-systems-for-u-s-missile-warning-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T154811">2023-11-09 15:48:11 UTC</a></sub>
-* [Long March 3B launches ChinaSat-6E communications satellite](https://spacenews.com/long-march-3b-launches-chinasat-6e-communications-satellite/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T145440">2023-11-09 14:54:40 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -638,7 +638,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T043245">2023-11-10 04:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T050717">2023-11-10 05:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
