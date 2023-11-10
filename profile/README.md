@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Qualcomm ends partnership for connecting Android phones to Iridium satellites](https://spacenews.com/qualcomm-ends-partnership-for-connecting-android-phones-to-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T190837">2023-11-10 19:08:37 UTC</a></sub>
 * [SpaceX completes 6th Dragon launch to the International Space Station](https://www.teslarati.com/spacex-completes-6th-dragon-launch-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T185435">2023-11-10 18:54:35 UTC</a></sub>
 * [Ron Baron expects SpaceX’s Starlink to go public around 2027](https://www.cnbc.com/2023/11/10/ron-baron-expects-spacexs-starlink-to-go-public-around-2027.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T184935">2023-11-10 18:49:35 UTC</a></sub>
 * [NASA's Mars Fleet Will Still Conduct Science While Lying Low](https://mars.nasa.gov/news/9512/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T174400">2023-11-10 17:44:00 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant](https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T123053">2023-11-10 12:30:53 UTC</a></sub>
 * [ESA Joins U.S.-European Starlab Commercial Space Station Project](https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T045404">2023-11-10 04:54:04 UTC</a></sub>
 * [Satellite industry at odds over proposed power limit review ahead of WRC-23](https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221248">2023-11-09 22:12:48 UTC</a></sub>
-* [Rocket Lab to launch hypersonic test vehicle for the Defense Innovation Unit](https://spacenews.com/rocket-lab-to-launch-hypersonic-test-vehicle-for-the-defense-innovation-unit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221014">2023-11-09 22:10:14 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T193213">2023-11-10 19:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T200742">2023-11-10 20:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
