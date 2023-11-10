@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceNews 2023 Icon Awards honorees: Commercial Space Achievement of the Year](https://spacenews.com/spacenews-2023-icon-awards-honorees-commercial-space-achievement-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T162941">2023-11-10 16:29:41 UTC</a></sub>
 * [CNES Publishes Call for the Demonstration of Reusable Launch Systems](https://europeanspaceflight.com/cnes-publishes-call-for-the-demonstration-of-reusable-launch-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T144103">2023-11-10 14:41:03 UTC</a></sub>
 * [Bulgaria signs Artemis Accords](https://spacenews.com/bulgaria-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T125546">2023-11-10 12:55:46 UTC</a></sub>
 * [Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant](https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T123053">2023-11-10 12:30:53 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Iridium, Qualcomm end satellite-to-phone partnership](https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T215946">2023-11-09 21:59:46 UTC</a></sub>
 * [Rocket Lab reports results for Q3 2023](https://www.teslarati.com/rocket-lab-q3-2023-earnings-results/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T200453">2023-11-09 20:04:53 UTC</a></sub>
 * [Investing in Space: The military doled out $6 billion for rocket launches — and it’s not done yet](https://www.cnbc.com/2023/11/09/investing-in-space-the-military-doled-out-6-billion-for-rocket-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T191228">2023-11-09 19:12:28 UTC</a></sub>
-* [SpaceX Cargo Dragon ready for resupply trip to ISS](https://www.teslarati.com/spacex-cargo-dragon-ready-for-resupply-trip-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T175544">2023-11-09 17:55:44 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T163644">2023-11-10 16:36:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T170654">2023-11-10 17:06:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
