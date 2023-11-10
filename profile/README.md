@@ -588,6 +588,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight blogs ✍️ </h3>
 
 <!-- spaceflight blogs starts -->
+* [Planetary paparazzi](https://www.planetary.org/the-downlink/planetary-paparazzi) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T153433">2023-11-10 15:34:33 UTC</a></sub>
 * [Lucy’s flyby of Dinkinesh: Everything you need to know](https://www.planetary.org/articles/lucys-flyby-of-dinkinesh-everything-you-need-to-know) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T180509">2023-11-09 18:05:09 UTC</a></sub>
 * [The best pictures of Mars from space](https://www.planetary.org/articles/best-pictures-of-mars-from-space) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T150436">2023-11-09 15:04:36 UTC</a></sub>
 * [A peek behind the Orbex curtains](https://europeanspaceflight.substack.com/p/a-peek-behind-the-orbex-curtains) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T143534">2023-11-08 14:35:34 UTC</a></sub>
@@ -597,7 +598,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [The best! The farthest! The maximum!](https://www.planetary.org/the-downlink/the-best-the-farthest-the-maximum) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T143435">2023-11-03 14:34:35 UTC</a></sub>
 * [Susie's back, tell a friend](https://europeanspaceflight.substack.com/p/susies-back-tell-a-friend) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T135504">2023-11-01 13:55:04 UTC</a></sub>
 * [Weekly Roundup for SpacePolicyOnline.com: October 23-29, 2023](https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-october-23-29-2023/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T122444">2023-10-30 12:24:44 UTC</a></sub>
-* [Galactic ghouls and vampire stars](https://www.planetary.org/the-downlink/galactic-ghouls-and-vampire-stars) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143434">2023-10-27 14:34:34 UTC</a></sub>
 
 <!-- spaceflight blogs ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T153223">2023-11-10 15:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T160920">2023-11-10 16:09:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
