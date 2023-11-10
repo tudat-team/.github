@@ -568,6 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX completes 6th Dragon launch to the International Space Station](https://www.teslarati.com/spacex-completes-6th-dragon-launch-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T185435">2023-11-10 18:54:35 UTC</a></sub>
+* [Ron Baron expects SpaceX’s Starlink to go public around 2027](https://www.cnbc.com/2023/11/10/ron-baron-expects-spacexs-starlink-to-go-public-around-2027.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T184935">2023-11-10 18:49:35 UTC</a></sub>
 * [NASA's Mars Fleet Will Still Conduct Science While Lying Low](https://mars.nasa.gov/news/9512/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T174400">2023-11-10 17:44:00 UTC</a></sub>
 * [SpaceNews 2023 Icon Awards honorees: Commercial Space Achievement of the Year](https://spacenews.com/spacenews-2023-icon-awards-honorees-commercial-space-achievement-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T162941">2023-11-10 16:29:41 UTC</a></sub>
 * [CNES Publishes Call for the Demonstration of Reusable Launch Systems](https://europeanspaceflight.com/cnes-publishes-call-for-the-demonstration-of-reusable-launch-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T144103">2023-11-10 14:41:03 UTC</a></sub>
@@ -576,8 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [ESA Joins U.S.-European Starlab Commercial Space Station Project](https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T045404">2023-11-10 04:54:04 UTC</a></sub>
 * [Satellite industry at odds over proposed power limit review ahead of WRC-23](https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221248">2023-11-09 22:12:48 UTC</a></sub>
 * [Rocket Lab to launch hypersonic test vehicle for the Defense Innovation Unit](https://spacenews.com/rocket-lab-to-launch-hypersonic-test-vehicle-for-the-defense-innovation-unit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221014">2023-11-09 22:10:14 UTC</a></sub>
-* [Iridium, Qualcomm end satellite-to-phone partnership](https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T215946">2023-11-09 21:59:46 UTC</a></sub>
-* [Rocket Lab reports results for Q3 2023](https://www.teslarati.com/rocket-lab-q3-2023-earnings-results/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T200453">2023-11-09 20:04:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T183255">2023-11-10 18:32:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T190602">2023-11-10 19:06:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
