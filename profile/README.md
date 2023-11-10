@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [Avanti in LEO talks to become a multi-orbit connectivity provider](https://spacenews.com/avanti-in-leo-talks-to-become-a-multi-orbit-connectivity-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T204109">2023-11-10 20:41:09 UTC</a></sub>
 * [Qualcomm ends partnership for connecting Android phones to Iridium satellites](https://spacenews.com/qualcomm-ends-partnership-for-connecting-android-phones-to-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T190837">2023-11-10 19:08:37 UTC</a></sub>
 * [SpaceX completes 6th Dragon launch to the International Space Station](https://www.teslarati.com/spacex-completes-6th-dragon-launch-international-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T185435">2023-11-10 18:54:35 UTC</a></sub>
 * [Ron Baron expects SpaceX’s Starlink to go public around 2027](https://www.cnbc.com/2023/11/10/ron-baron-expects-spacexs-starlink-to-go-public-around-2027.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T184935">2023-11-10 18:49:35 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Bulgaria signs Artemis Accords](https://spacenews.com/bulgaria-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T125546">2023-11-10 12:55:46 UTC</a></sub>
 * [Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant](https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T123053">2023-11-10 12:30:53 UTC</a></sub>
 * [ESA Joins U.S.-European Starlab Commercial Space Station Project](https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T045404">2023-11-10 04:54:04 UTC</a></sub>
-* [Satellite industry at odds over proposed power limit review ahead of WRC-23](https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221248">2023-11-09 22:12:48 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T203235">2023-11-10 20:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T210645">2023-11-10 21:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
