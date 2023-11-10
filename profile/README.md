@@ -568,7 +568,8 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
-* [Daily Telescope: Peeling back the layers of the Garlic Nebula](https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T123053">2023-11-10 12:30:53 UTC</a></sub>
+* [Bulgaria signs Artemis Accords](https://spacenews.com/bulgaria-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T125546">2023-11-10 12:55:46 UTC</a></sub>
+* [Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant](https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T123053">2023-11-10 12:30:53 UTC</a></sub>
 * [ESA Joins U.S.-European Starlab Commercial Space Station Project](https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T045404">2023-11-10 04:54:04 UTC</a></sub>
 * [Satellite industry at odds over proposed power limit review ahead of WRC-23](https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221248">2023-11-09 22:12:48 UTC</a></sub>
 * [Rocket Lab to launch hypersonic test vehicle for the Defense Innovation Unit](https://spacenews.com/rocket-lab-to-launch-hypersonic-test-vehicle-for-the-defense-innovation-unit/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T221014">2023-11-09 22:10:14 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [Investing in Space: The military doled out $6 billion for rocket launches — and it’s not done yet](https://www.cnbc.com/2023/11/09/investing-in-space-the-military-doled-out-6-billion-for-rocket-launches.html) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T191228">2023-11-09 19:12:28 UTC</a></sub>
 * [SpaceX Cargo Dragon ready for resupply trip to ISS](https://www.teslarati.com/spacex-cargo-dragon-ready-for-resupply-trip-to-iss/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T175544">2023-11-09 17:55:44 UTC</a></sub>
 * [Airbus and Voyager sign agreement with ESA on Starlab commercial space station](https://spacenews.com/airbus-and-voyager-sign-agreement-with-esa-on-starlab-commercial-space-station/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T164409">2023-11-09 16:44:09 UTC</a></sub>
-* [Astra founders offer to take company private](https://spacenews.com/astra-founders-offer-to-take-company-private/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T162243">2023-11-09 16:22:43 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T130940">2023-11-10 13:09:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T133218">2023-11-10 13:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
