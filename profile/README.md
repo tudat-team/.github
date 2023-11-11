@@ -568,6 +568,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 <h3 align="center"> Spaceflight news 📅 </h3>
 
 <!-- spaceflight news starts -->
+* [SpaceX Transporter 9 rideshare features new OTV from Tom Mueller’s Impulse Space](https://www.nasaspaceflight.com/2023/11/transporter-9/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T150250">2023-11-11 15:02:50 UTC</a></sub>
 * [Transportation Department official suggests industry help pay for FAA commercial space office](https://spacenews.com/transportation-department-official-suggests-industry-help-pay-for-faa-commercial-space-office/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T000750">2023-11-11 00:07:50 UTC</a></sub>
 * [Avanti in LEO talks to become a multi-orbit connectivity provider](https://spacenews.com/avanti-in-leo-talks-to-become-a-multi-orbit-connectivity-provider/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T204109">2023-11-10 20:41:09 UTC</a></sub>
 * [Qualcomm ends partnership for connecting Android phones to Iridium satellites](https://spacenews.com/qualcomm-ends-partnership-for-connecting-android-phones-to-iridium-satellites/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T190837">2023-11-10 19:08:37 UTC</a></sub>
@@ -577,7 +578,6 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 * [SpaceNews 2023 Icon Awards honorees: Commercial Space Achievement of the Year](https://spacenews.com/spacenews-2023-icon-awards-honorees-commercial-space-achievement-of-the-year/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T162941">2023-11-10 16:29:41 UTC</a></sub>
 * [CNES Publishes Call for the Demonstration of Reusable Launch Systems](https://europeanspaceflight.com/cnes-publishes-call-for-the-demonstration-of-reusable-launch-systems/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T144103">2023-11-10 14:41:03 UTC</a></sub>
 * [Bulgaria signs Artemis Accords](https://spacenews.com/bulgaria-signs-artemis-accords/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T125546">2023-11-10 12:55:46 UTC</a></sub>
-* [Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant](https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/) <br/> <sub><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T123053">2023-11-10 12:30:53 UTC</a></sub>
 
 <!-- spaceflight news ends -->
 
@@ -610,7 +610,7 @@ This feed is updated every 30 minutes with news provided by <a href="https://the
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T143200">2023-11-11 14:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T150636">2023-11-11 15:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
