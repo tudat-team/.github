@@ -12,7 +12,7 @@ Below you'll find a list of all the repositories relevant to our project. Howeve
 
 You can find the following repositories below:
 
-- [tudat](https://github.com/tudat-team/tudat) The repository with the code code of our project (in C++), where much of our functionality and unit tests are implemented.
+- [tudat](https://github.com/tudat-team/tudat) The repository with the code of our project (in C++), where much of our functionality and unit tests are implemented.
 - [tudatpy](https://github.com/tudat-team/tudatpy) The repository with the code to generate the Python exposure of our C++ core (using [pybind11](https://github.com/pybind/pybind11)), as well as a limited set of Python native code. 
 - [tudatpy-examples](https://github.com/tudat-team/tudatpy-examples) The repository with an ever-growing list of example applications using Tudatpy (in both .py and .ipynb).
 - [tudat-bundle](https://github.com/tudat-team/tudat-bundle) The repository that one would typically use to build a local version of Tudat and Tudatpy (including build instructions)
