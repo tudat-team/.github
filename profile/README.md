@@ -17,13 +17,11 @@ You can find the following repositories below:
 - [tudatpy-examples](https://github.com/tudat-team/tudatpy-examples) The repository with an ever-growing list of example applications using Tudatpy (in both .py and .ipynb).
 - [tudat-bundle](https://github.com/tudat-team/tudat-bundle) The repository that one would typically use to build a local version of Tudat and Tudatpy (including build instructions)
 - [tudat-resources](https://github.com/tudat-team/tudat-resources) The repository with the default set of data files which is automatically downloaded when installing tudat
-- [tudat-multidoc](https://github.com/tudat-team/tudat-multidoc) The repository with the entries from which our [API reference documentation](https://py.api.tudat.space/en/latest/) is generated.
 - [tudat-space](https://github.com/tudat-team/tudat-space) The repository from which our [website](https://docs.tudat.space/en/latest/) is generated.
-- [tudat-developer-docs](https://github.com/tudat-team/tudat-developer-docs) The repository from which our [developer docs website](https://tudat-developer.readthedocs.io/en/latest/) is generated.
 - [cspice-cmake](https://github.com/tudat-team/cspice-cmake) Our clone of the [cspice](https://naif.jpl.nasa.gov/naif/) software, built using CMake
 - [sofa-cmake](https://github.com/tudat-team/sofa-cmake) Our clone of the [sofa](http://www.iausofa.org/) software, built using CMake
 - [nrlmsise-00-cmake](https://github.com/tudat-team/nrlmsise-00-cmake) Our clone of the [nrlmsise-00](https://www.brodo.de/space/nrlmsise/) software, built using CMake
-- Feedstocks for [tudat](https://github.com/tudat-team/tudat-feedstock), [tudatpy](https://github.com/tudat-team/tudatpy-feedstock), [tudat-resources](https://github.com/tudat-team/tudat-resources-feedstock), [cspice-cmake](https://github.com/tudat-team/cspice-cmake-feedstock), [sofa-cmake](https://github.com/tudat-team/sofa-cmake-feedstock), [nrlmsise-00-cmake](https://github.com/tudat-team/nrlmsise-00-cmake-feedstock)
+- Feedstocks for [tudat](https://github.com/tudat-team/tudat-feedstock), [tudatpy](https://github.com/tudat-team/tudatpy-feedstock), [tudat-resources](https://github.com/tudat-team/tudat-resources-feedstock), [cspice-cmake](https://github.com/tudat-team/cspice-cmake-feedstock), [sofa-cmake](https://github.com/tudat-team/sofa-cmake-feedstock), [nrlmsise-00-cmake](https://github.com/tudat-team/nrlmsise-00-cmake-feedstock), where the recipes of our conda packages build are defined.
 
 In addition, there are a number of repositories related to education at TU Delft
 
